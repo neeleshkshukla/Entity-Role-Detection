@@ -1,0 +1,380 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Pune'
+p4
+aS'5'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Pune'
+p8
+aS'105'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Tamil Nadu'
+p12
+aS'256'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Pune'
+p16
+aS'261'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Chicago'
+p20
+aS'350'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Pakistan'
+p24
+aS'362'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'India'
+p28
+aS'371'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Mumbai'
+p32
+aS'375'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Pune'
+p36
+aS'426'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Maharashtra'
+p40
+aS'460'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Pune'
+p44
+aS'632'
+p45
+aS'Event'
+p46
+aasS'PER'
+p47
+(lp48
+(lp49
+S'G K Pillai'
+p50
+aS'119'
+p51
+aS'Comment'
+p52
+aa(lp53
+S'David Coleman Headley'
+p54
+aS'149'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Pillai'
+p58
+aS'167'
+p59
+aS'Comment'
+p60
+aa(lp61
+S'Pillai'
+p62
+aS'233'
+p63
+aS'Comment'
+p64
+aa(lp65
+S'P Chidambaram'
+p66
+aS'250'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Pillai'
+p70
+aS'312'
+p71
+aS'Comment'
+p72
+aa(lp73
+S'Prabhat Kumar'
+p74
+aS'432'
+p75
+aS'Comment'
+p76
+aa(lp77
+S'Ashok Chavan'
+p78
+aS'463'
+p79
+aS'Comment'
+p80
+aa(lp81
+S'Chavan'
+p82
+aS'545'
+p83
+aS'Comment'
+p84
+aa(lp85
+S'Santosh'
+p86
+aS'595'
+p87
+aS'Comment'
+p88
+aasS'TIM'
+p89
+(lp90
+S'evening : 7'
+p91
+aS'7.30 pm : 66'
+p92
+aS'tomorrow : 262'
+p93
+aS'evening : 386'
+p94
+asS'hot_setting'
+p95
+S''
+p96
+sS'DAT'
+p97
+(lp98
+sS'death'
+p99
+S'8'
+p100
+sS'title'
+p101
+S'Terror strikes Pune; 8 killed, 32 injured'
+p102
+sS'org_unorg'
+p103
+g96
+sS'terror_group'
+p104
+(lp105
+S'LASHKAR-E-TAIBA'
+p106
+asS'content'
+p107
+VPUNE : Terror struck Pune this evening when a powerful bomb ripped apart a popular bakery near a Jewish prayer house , killing eight people , including a foreigner , and injuring 32 in the first major attack since 26/11 carnage . . . The improvised explosive device , kept in an unattended packet outside the kitchen of the German bakery , exploded at around 7.30 pm when a waiter attempted to open it . . . `` It is most probably a terror attack . Forensic experts of CBI and team of National Investigation Agency ( NIA ) officials are being airlifted to Pune to assist the state police in the investigations , '' Union Home Secretary G K Pillai said . . . The German bakery is a favourite food joint for foreigners , located close to Osho Ashram which had been surveyed by Pakistani-origin American David Coleman Headley , a Lashkar-e Taiba operative . . . Quoting information from the state government , Pillai said eight people had died and 32 were injured in the blast . One each of the killed and the injured are foreigners , he said , but could not give the nationality . . . The rest , he said , were believed to be Indians but the situation could change . . . Asked whether Pakistani hand was suspected behind the attack , Pillai said he could not say anything till forensic examination was over . . . Home Minister P Chidambaram , who is in Tamil Nadu , will visit Pune tomorrow . He is closely monitoring the situation and the position is being reviewed periodically . . . The Home Ministry has issued an alert across the country asking people not to open any unattended object and to inform the police if they find any suspicious object . . . Pillai said the Union Home Ministry had issued an advisory to Maharashtra government informing it that the Osho Ashram was one of the sites surveyed by Headley . . . Headley , who was arrested by FBI at Chicago airport last year when he proceeding to board a flight to Pakistan , had visited a number of places in India , including the Mumbai terror attack targets . . . The site of this evening 's blast , that destroyed the bakery , was littered with severed limbs and pools of blood . A number of victims were charred beyond recognition , making it difficult for authorities to ascertain their identity . . . Pune 's Additional Commissioner of Police Prabhat Kumar said `` it is a suspected terror attack and we are trying to find out the exact device used in the incident '' . . . Maharashtra Chief Minister Ashok Chavan said it was yet to be established as to what was the cause of the blast . He said he had talked to the Police Commissioner who told him that unless they examined the evidence on the scene of the blast they can not come to any conclusion . . . He said initially it was thought to be a cylinder blast . Forensic experts are there at the site and the exact cause was yet to be ascertained , Chavan added . . . The Chief Minister announced an ex-gratia of Rs one lakh for the kin of those killed and Rs 50,000 for those injured . . . `` I was travelling by an autorickshaw . I heard a loud explosion and the ground shook '' , said Santosh , one of the injured in the blast . . . An eyewitness said there was a loud bang which shook the entire area and `` we saw a fire '' . . . Was the Pune blast an intelligence failure ? .
+p108
+sS'injured'
+p109
+S'32'
+p110
+sS'det_loc'
+p111
+(lp112
+S'India'
+p113
+aS'Maharashtra'
+p114
+aS'Pune'
+p115
+ag96
+ag96
+asS'O'
+p116
+(lp117
+S'terror struck:3'
+p118
+aS'powerful bomb:10'
+p119
+aS'bakery:16'
+p120
+aS'jewish prayer house:19'
+p121
+aS'attack:38'
+p122
+aS'26/11 carnage:40'
+p123
+aS'improvised explosive device:46'
+p124
+aS'german bakery:60'
+p125
+aS'terror attack:84'
+p126
+aS'forensic experts:87'
+p127
+aS'airlifted:103'
+p128
+aS'german bakery:127'
+p129
+aS'osho ashram:140'
+p130
+aS'injured:176'
+p131
+aS'blast:179'
+p132
+aS'killed:185'
+p133
+aS'injured:188'
+p134
+aS'indians:214'
+p135
+aS'attack:231'
+p136
+aS'forensic examination:241'
+p137
+aS'alert:286'
+p138
+aS'unattended object:296'
+p139
+aS'suspicious object:307'
+p140
+aS'osho ashram:329'
+p141
+aS'chicago airport:350'
+p142
+aS'terror attack targets:376'
+p143
+aS'victims:408'
+p144
+aS'terror attack:440'
+p145
+aS'blast:480'
+p146
+aS'evidence:499'
+p147
+aS'blast:505'
+p148
+aS'cylinder blast:525'
+p149
+aS'forensic experts:528'
+p150
+aS'rs one lakh:557'
+p151
+aS'killed:565'
+p152
+aS'rs 50,000:567'
+p153
+aS'injured:571'
+p154
+aS'autorickshaw:581'
+p155
+aS'explosion:587'
+p156
+aS'injured:600'
+p157
+aS'blast:603'
+p158
+aS'blast:633'
+p159
+asS'unexpl'
+p160
+(lp161
+g96
+asS'ocassion'
+p162
+g96
+sS'link'
+p163
+S'http://articles.economictimes.indiatimes.com/2010-02-13/news/27574219_1_german-bakery-osho-ashram-terror-attack'
+p164
+sS'date'
+p165
+S'13-02-2010'
+p166
+sS'target'
+p167
+S'BAKERY'
+p168
+sS'hot_spot'
+p169
+g96
+sS'delivery_mod'
+p170
+g96
+sS'delivery_met'
+p171
+S'PLANTED'
+p172
+sS'expl'
+p173
+(lp174
+g96
+asS'ORG'
+p175
+(lp176
+(lp177
+S'CBI'
+p178
+aS'90'
+p179
+aS'Others'
+p180
+aa(lp181
+S'National Investigation Agency'
+p182
+aS'94'
+p183
+aS'Others'
+p184
+aa(lp185
+S'NIA'
+p186
+aS'98'
+p187
+aS'Others'
+p188
+aa(lp189
+S'Lashkar-e Taiba'
+p190
+aS'154'
+p191
+aS'Others'
+p192
+aa(lp193
+S'state government'
+p194
+aS'164'
+p195
+aS'Others'
+p196
+aa(lp197
+S'Maharashtra government'
+p198
+aS'323'
+p199
+aS'Others'
+p200
+aa(lp201
+S'FBI'
+p202
+aS'348'
+p203
+aS'Others'
+p204
+aas.

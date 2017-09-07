@@ -1,0 +1,194 @@
+{
+    "LOC": [
+        [
+            "RAMANATHAPURAM", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "Rameswaram", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Kachchatheevu", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Rameswaram", 
+            "70", 
+            "Neutral"
+        ], 
+        [
+            "Delft Island", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "Kachchatheevu", 
+            "88", 
+            "Neutral"
+        ], 
+        [
+            "Rameswaram", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Rameswaram", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "Sri Lankan", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Delft Island", 
+            "147", 
+            "Neutral"
+        ], 
+        [
+            "Delft Island", 
+            "173", 
+            "Neutral"
+        ], 
+        [
+            "Rameswaram", 
+            "183", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "C. Jaishankar", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Stalin", 
+            "68", 
+            "Assoc Victim"
+        ], 
+        [
+            "Stephen", 
+            "95", 
+            "Victim"
+        ], 
+        [
+            "Mehallan", 
+            "100", 
+            "Victim"
+        ], 
+        [
+            "Alex", 
+            "105", 
+            "Victim"
+        ], 
+        [
+            "Prabu", 
+            "110", 
+            "Victim"
+        ], 
+        [
+            "T. Ilamvazhuthi", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "Ilamvazhuthi", 
+            "271", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:57"
+    ], 
+    "death": "", 
+    "title": "Bomb attack sinks boat, 4 fishermen escape", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "C. Jaishankar Sri Lankan fishermen allege pair trawling RAMANATHAPURAM : Four fishermen had a narrow escape when a mechanised boat in Rameswaram was sunk , allegedly by a group of Sri Lankan fishermen . According to a complaint lodged by the fishermen , who managed to escape , the attack was carried out near Kachchatheevu on Monday . The boat -LSB- TN-10 MFB 263 -RSB- owned by Stalin of Rameswaram sank within moments of a bomb blast triggered by the fishermen reportedly belonging to Delft Island near Kachchatheevu . The fishermen were identified as Stephen ( 43 ) , Mehallan ( 25 ) , Alex ( 25 ) and Prabu ( 26 ) of Rameswaram . T. Ilamvazhuthi , Assistant Director of Fisheries , Rameswaram , told The Hindu that a preliminary enquiry had revealed that a group of Sri Lankan fishermen , reportedly hailing from Delft Island , carried out the attack opposing the practice of pair trawl net fishing , which was banned . It was stated that fishermen from Delft Island and the nearby islands had earlier warned the Rameswaram fishermen not to follow pair trawling , which might damage the nets cast by them and affect marine wealth in the bottom of the ocean . There was a report that the boat that was attacked was among a pair of boats , which had cast pair trawl nets . The fishermen could escape as the attackers blasted the boat after asking them to jump and board the other boat . The fishermen said their fishing gear and the day 's catch were also sunk . Mr. Ilamvazhuthi said the incident was the first of its kind after a gap of nearly three years . Search order demanded The fishermen had demanded a search order to locate the boat . However , a decision would be taken only after collecting all information related to the incident . Tough action would be taken against those following pair trawl practice , he warned . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Ramanathapuram", 
+        "Delft Island", 
+        ""
+    ], 
+    "O": [
+        "pair:7", 
+        "escape:16", 
+        "boat:20", 
+        "group:29", 
+        "sri lankan:31", 
+        "complaint:38", 
+        "escape:47", 
+        "attack:50", 
+        "boat:60", 
+        "mfb:63", 
+        "bomb blast:76", 
+        "assistant:120", 
+        "assistant director:120", 
+        "director:121", 
+        "enquiry:133", 
+        "group:138", 
+        "attack:153", 
+        "practice:156", 
+        "pair trawl net fishing:158", 
+        "pair:188", 
+        "damage:193", 
+        "cast:196", 
+        "wealth:202", 
+        "bottom:205", 
+        "ocean:208", 
+        "report:213", 
+        "boat:216", 
+        "cast pair trawl:229", 
+        "escape:237", 
+        "boat:243", 
+        "jump:248", 
+        "board:250", 
+        "boat:253", 
+        "fishing gear:259", 
+        "day:263", 
+        "catch:265", 
+        "incident:274", 
+        "kind:280", 
+        "gap:283", 
+        "search order:297", 
+        "boat:302", 
+        "decision:307", 
+        "information:315", 
+        "incident:319", 
+        "action:322", 
+        "pair trawl practice:329"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/bomb-attack-sinks-boat-4-fishermen-escape/article745748.ece", 
+    "date": "05-04-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Thrown", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "The Hindu", 
+            "128", 
+            "Others"
+        ]
+    ]
+}

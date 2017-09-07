@@ -1,0 +1,162 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "27", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Pakistan", 
+            "82", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bhikiwind", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "Tarn Taran", 
+            "106", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "152", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sarabjit Singh", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "Manjeet Singh", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "Dalbir Kaur", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "Sarabjeet", 
+            "75", 
+            "Accused"
+        ], 
+        [
+            "Kaur", 
+            "98", 
+            "Accused"
+        ], 
+        [
+            "Manjeet", 
+            "123", 
+            "Accused"
+        ], 
+        [
+            "Manjeet", 
+            "135", 
+            "Accused"
+        ], 
+        [
+            "Sarabjit", 
+            "147", 
+            "Accused"
+        ], 
+        [
+            "Manjeet", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "Sarabjit", 
+            "164", 
+            "Accused"
+        ], 
+        [
+            "Kaur", 
+            "171", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "1990:23", 
+        "Monday:36", 
+        "March 3:58", 
+        "March:58", 
+        "1990s:90"
+    ], 
+    "death": "", 
+    "title": "Punjab rights panel seeks report on Manjeet", 
+    "det_loc": [
+        "India", 
+        "Chandigarh", 
+        "Chandigarh", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Acting on a complaint filed by the sister of death row prisoner Sarabjit Singh that alleged fraudster Manjeet Singh was behind the 1990 bomb blasts in Pakistan , the Punjab State Human Rights Commission on Monday sought a report from the State government . The Commission directed the State 's Home Department to file the report by March 3 , the next date of hearing in the case . Dalbir Kaur , sister of Sarabjeet who is facing death sentence in Pakistan for a string of bomb blasts in 1990s , has filed the complaint . Ms. Kaur , a resident of Bhikiwind village in Tarn Taran district , through her counsel alleged that the Jalandhar Police were giving VIP treatment to Manjeet against whom criminal cases had been registered . The enlarging of Manjeet on bail is a violation of human rights as my brother Sarabjit is a convict in Pakistan . In fact , Manjeet had committed the offence for which Sarabjit was made a scapegoat , Ms. Kaur said in her complaint to the Commission . - PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "complaint:4", 
+        "death row prisoner:10", 
+        "fraudster:17", 
+        "bomb blasts:24", 
+        "report:39", 
+        "state government:42", 
+        "commission:46", 
+        "home department:51", 
+        "report:56", 
+        "hearing:65", 
+        "death sentence:79", 
+        "bomb blasts:87", 
+        "complaint:95", 
+        "bhikiwind village:103", 
+        "tarn taran district:106", 
+        "counsel:112", 
+        "vip treatment:120", 
+        "criminal cases:126", 
+        "bail:137", 
+        "violation:140", 
+        "human rights:142", 
+        "offence:161", 
+        "scapegoat:168", 
+        "complaint:175", 
+        "commission:178"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/punjab-rights-panel-seeks-report-on-manjeet/article1079779.ece", 
+    "date": "11-01-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Punjab State Human Rights Commission", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "Jalandhar Police", 
+            "116", 
+            "Others"
+        ]
+    ]
+}

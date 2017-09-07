@@ -1,0 +1,463 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'51'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Varanasi'
+p8
+aS'67'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'India'
+p12
+aS'99'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'temple'
+p16
+aS'113'
+p17
+aS'Event'
+p18
+aa(lp19
+S'railway station'
+p20
+aS'117'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Varanasi'
+p24
+aS'120'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Uttar Pradesh'
+p28
+aS'250'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'U.P.'
+p32
+aS'332'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Gandhinagar'
+p36
+aS'409'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Jammu'
+p40
+aS'413'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Lucknow'
+p44
+aS'540'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Uttar Pradesh'
+p48
+aS'554'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Varanasi'
+p52
+aS'581'
+p53
+aS'Neutral'
+p54
+aasS'PER'
+p55
+(lp56
+(lp57
+S'Marxist'
+p58
+aS'101'
+p59
+aS'Comment'
+p60
+aa(lp61
+S'Rajiv Shukla'
+p62
+aS'434'
+p63
+aS'Others'
+p64
+aa(lp65
+S'Mulayam Singh'
+p66
+aS'513'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Sonia Gandhi'
+p70
+aS'573'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Shivraj Patil'
+p74
+aS'578'
+p75
+aS'Others'
+p76
+aasS'TIM'
+p77
+(lp78
+sS'hot_setting'
+p79
+S''
+p80
+sS'DAT'
+p81
+(lp82
+S'Wednesday:61'
+p83
+aS'Wednesday:583'
+p84
+asS'death'
+p85
+g80
+sS'title'
+p86
+S'Congress, Left condemn blasts'
+p87
+sS'org_unorg'
+p88
+g80
+sS'terror_group'
+p89
+(lp90
+g80
+asS'content'
+p91
+VSpecial Correspondent . . ` BJP seeking to draw political mileage ' . . Political parties must refrain from politicising the incident : CPI -LRB- M -RRB- CPI -LRB- ML -RRB- condemns U.P. Government for not taking pre-emptive steps Vested interests could use blasts to trigger communal polarisation . . NEW DELHI : The Congress and the Left parties on Wednesday condemned the bomb blasts in Varanasi and regretted that the Bharatiya Janata Party was seeking to draw political mileage from the incident . . . Expressing its deep shock and strong condemnation , the Communist Party of India -LRB- Marxist -RRB- said the fact that the blasts took place at a temple and in the railway station in Varanasi shows the ` diabolical motive ' behind this terrorist attack , which is to create communal tensions and a backlash . . . ` Recognising the nature of this provocation , all sections of the people must rebuff this heinous attempt , ' the party Polit Bureau said in a statement . The party said while it is time for people to be united and determined to counter such terrorist violence , it was unfortunate that the BJP was resorting to mean politics by attributing the terrorist outrage to so-called minority appeasement by the Government and the secular parties . . . ` This is an exhibition of the type of communal politics which vitiates the atmosphere in the country , ' the party said and called upon the Uttar Pradesh Government and the Centre to track down the culprits and identify and proceed against the groups and networks responsible for such terrorist acts . . . Demanding that the perpetrators of such a crime should not go scot-free , the CPI said the Union and the State Governments should make all efforts to pin down the culprits . . . ` The political parties must refrain from politicising the incident which may lead to communal polarisation of the people in U.P. and elsewhere . The timing of the terror act and its execution appear to have -LSB- been -RSB- aimed at deflecting the discourse on vital issues concerning the people and the country and disrupting the united actions of the people , ' the party Central Secretariat said in its statement . . . The Congress said that when it was in the Opposition it did not disrupt proceedings during terrorist attacks on temples like Akshardham in Gandhinagar and Raghunath in Jammu , the Red Fort and Parliament . . . Did the BJP not celebrate Holi then , asked party spokesperson Rajiv Shukla , reacting to the BJP suggestion that the party would not participate in the Holi festival next week . The party flayed the BJP decision to take out twin yatras and dubbed them as ` riot yatras ' . . . Speedy probe . . The CPI -LRB- ML -RRB- Liberation too strongly condemned the blasts and called for speedy and credible probe to identify the guilty and ensure swift punishment . The party also condemned the Mulayam Singh Government for not taking pre-emptive steps to stop any recurrence of such incidents , especially in the backdrop of the Mau riots and tension in Lucknow following recent anti-Bush protests . The party cautioned that vested political interests in Uttar Pradesh could use the blasts to trigger communal polarisation . . . PTI reports : The Congress president Sonia Gandhi and Home Minister Shivraj Patil visited Varanasi on Wednesday to take stock of the situation .
+p92
+sS'injured'
+p93
+g80
+sS'det_loc'
+p94
+(lp95
+S'India'
+p96
+aS'Uttar Pradesh'
+p97
+aS'Varanasi'
+p98
+ag80
+ag80
+asS'O'
+p99
+(lp100
+S'mileage:11'
+p101
+aS'political parties:15'
+p102
+aS'pre-emptive steps:38'
+p103
+aS'blasts:44'
+p104
+aS'communal polarisation:47'
+p105
+aS'left parties:58'
+p106
+aS'bomb blasts:64'
+p107
+aS'political mileage:79'
+p108
+aS'deep shock and strong condemnation:89'
+p109
+aS'blasts:108'
+p110
+aS'diabolical motive:124'
+p111
+aS'terrorist attack:129'
+p112
+aS'communal tensions:136'
+p113
+aS'backlash:140'
+p114
+aS'rebuff:158'
+p115
+aS'heinous attempt:160'
+p116
+aS'terrorist violence:190'
+p117
+aS'terrorist outrage:207'
+p118
+aS'minority appeasement:211'
+p119
+aS'secular parties:218'
+p120
+aS'communal politics:232'
+p121
+aS'culprits:260'
+p122
+aS'terrorist acts:273'
+p123
+aS'perpetrators:281'
+p124
+aS'crime:285'
+p125
+aS'culprits:308'
+p126
+aS'communal polarisation:326'
+p127
+aS'terror act:340'
+p128
+aS'opposition:395'
+p129
+aS'terrorist attacks:402'
+p130
+aS'akshardham:407'
+p131
+aS'raghunath:411'
+p132
+aS'red fort and parliament:416'
+p133
+aS'holi:428'
+p134
+aS'holi festival:450'
+p135
+aS'twin yatras:464'
+p136
+aS'riot yatras:471'
+p137
+aS'Speedy probe:477'
+p138
+aS'speedy and credible probe:495'
+p139
+aS'guilty:502'
+p140
+aS'swift punishment:505'
+p141
+aS'pre-emptive steps:519'
+p142
+aS'mau riots:535'
+p143
+aS'anti-bush protests:543'
+p144
+aS'communal polarisation:562'
+p145
+asS'unexpl'
+p146
+(lp147
+g80
+asS'ocassion'
+p148
+g80
+sS'link'
+p149
+S'http://www.thehindu.com/todays-paper/tp-national/congress-left-condemn-blasts/article3161739.ece'
+p150
+sS'date'
+p151
+S'08-03-2006'
+p152
+sS'target'
+p153
+S'TEMPLE AND RAILWAY STATION'
+p154
+sS'hot_spot'
+p155
+g80
+sS'delivery_mod'
+p156
+g80
+sS'delivery_met'
+p157
+S'PLANTED'
+p158
+sS'expl'
+p159
+(lp160
+g80
+asS'ORG'
+p161
+(lp162
+(lp163
+S'BJP'
+p164
+aS'6'
+p165
+aS'Others'
+p166
+aa(lp167
+S'CPI'
+p168
+aS'24'
+p169
+aS'Others'
+p170
+aa(lp171
+S'CPI'
+p172
+aS'28'
+p173
+aS'Others'
+p174
+aa(lp175
+S'U.P. Government'
+p176
+aS'33'
+p177
+aS'Others'
+p178
+aa(lp179
+S'Congress'
+p180
+aS'55'
+p181
+aS'Others'
+p182
+aa(lp183
+S'Bharatiya Janata Party'
+p184
+aS'72'
+p185
+aS'Others'
+p186
+aa(lp187
+S'Communist Party'
+p188
+aS'96'
+p189
+aS'Others'
+p190
+aa(lp191
+S'Polit Bureau'
+p192
+aS'166'
+p193
+aS'Others'
+p194
+aa(lp195
+S'BJP'
+p196
+aS'198'
+p197
+aS'Others'
+p198
+aa(lp199
+S'Government'
+p200
+aS'215'
+p201
+aS'Others'
+p202
+aa(lp203
+S'Uttar Pradesh Government'
+p204
+aS'250'
+p205
+aS'Others'
+p206
+aa(lp207
+S'Centre'
+p208
+aS'255'
+p209
+aS'Others'
+p210
+aa(lp211
+S'CPI'
+p212
+aS'292'
+p213
+aS'Others'
+p214
+aa(lp215
+S'Union and the State Governments'
+p216
+aS'295'
+p217
+aS'Others'
+p218
+aa(lp219
+S'Central Secretariat'
+p220
+aS'377'
+p221
+aS'Others'
+p222
+aa(lp223
+S'Congress'
+p224
+aS'387'
+p225
+aS'Others'
+p226
+aa(lp227
+S'BJP'
+p228
+aS'425'
+p229
+aS'Others'
+p230
+aa(lp231
+S'BJP'
+p232
+aS'440'
+p233
+aS'Others'
+p234
+aa(lp235
+S'BJP'
+p236
+aS'459'
+p237
+aS'Others'
+p238
+aa(lp239
+S'CPI'
+p240
+aS'482'
+p241
+aS'Others'
+p242
+aa(lp243
+S'Government'
+p244
+aS'515'
+p245
+aS'Others'
+p246
+aa(lp247
+S'Congress'
+p248
+aS'571'
+p249
+aS'Others'
+p250
+aas.

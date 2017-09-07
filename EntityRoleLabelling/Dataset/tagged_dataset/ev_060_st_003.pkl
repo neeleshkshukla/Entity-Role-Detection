@@ -1,0 +1,278 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Church road'
+p4
+aS'22'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Jawahar Nagar'
+p8
+aS'407'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Srinagar'
+p12
+aS'410'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Lazbal'
+p16
+aS'415'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Anantnag'
+p20
+aS'417'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Pulwama'
+p24
+aS'422'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Nishat'
+p28
+aS'429'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Srinagar'
+p32
+aS'431'
+p33
+aS'Assoc Event Location'
+p34
+aasS'PER'
+p35
+(lp36
+(lp37
+S'Mufti Mohammad Sayeed'
+p38
+aS'237'
+p39
+aS'Comment'
+p40
+aa(lp41
+S'Javid Makhdoomi'
+p42
+aS'276'
+p43
+aS'Comment'
+p44
+aa(lp45
+S'Manmohan Singh'
+p46
+aS'486'
+p47
+aS'Others'
+p48
+aasS'TIM'
+p49
+(lp50
+S'9 am : 44'
+p51
+aS'three months : 399'
+p52
+asS'hot_setting'
+p53
+S''
+p54
+sS'DAT'
+p55
+(lp56
+S'May 11 : 412'
+p57
+aS'May 28 : 419'
+p58
+aS'June 13 : 426'
+p59
+aS'June 24 : 433'
+p60
+aS'April : 489'
+p61
+asS'death'
+p62
+S'4'
+p63
+sS'title'
+p64
+S'Four killed in car-bomb explosion in Srinagar'
+p65
+sS'org_unorg'
+p66
+g54
+sS'terror_group'
+p67
+(lp68
+S'HIZB-UL-MUJAHIDEEN / HIZB-UL-MUJAHIDEEN PIR PANJAL REGIMENT'
+p69
+asS'content'
+p70
+VSRINAGAR : Hizbul Mujahideen militants exploded a powerful car-bomb at a military convoy near a missionary school on the high security Church road , killing four persons , including a Major . The blast took place in a stationary explosive-packed Maruti car around 9 am , when the army vehicles were passing by Sher-e-kashmir cricket stadium killing three army personnel and one civilian instantly , police said . . . Earlier , police and defence officials had suspected that a suicide bomber rammed the explosive-laden car into the army vehicle , but subsequent investigation revealed that the attacker had just about managed to escape from the scene shortly before the blast . At least 17 persons , including four soldiers , were injured in the explosion , which also damaged eight vehicles and rattled the Burnhall school and nearby buildings . . . However , no harm was done to the students as there is a huge playground between the boundary wall and classrooms . . . Hizbul Mujahideen owned responsibility for the blast . It was a gory site with badly mutilated bodies lying in pool of blood and the injured crying for help . Mangled pieces of damaged vehicles and shattered window panes were strewn around . The Maruti car used in the attack was blown to pieces and only its engine could be retrieved by the police . . . Chief minister , Mufti Mohammad Sayeed , said such incidents would not deter the people from pursuing the peace process and perpetrators of violence would not achieve anything by indulging in such acts . . . Inspector general of police Kashmir , Javid Makhdoomi , said it was an act of desperation on part of militants in the relaxed atmosphere of confidence building and restoration of peace in the state . . . Asked if the attack in the high security zone was a security lapse , he pointed out that besides being a high security zone , it is also a high traffic zone and it is not feasible to check each and every vehicle passing by . . . As part of the strategy to prevent such attacks , he said random checks of vehicles were being carried out and all designated parking lots were being kept under tight vigil . This was the fifth such blast in the valley over the past three months . . . Car-bomb explosions rocked Jawahar Nagar in Srinagar on May 11 , Lazbal in Anantnag on May 28 , Pulwama district town on June 13 and Nishat in Srinagar on June 24 . . . Several politicians and ministers reside in the area . Sher-e-kashmir cricket stadium park is an important venue where significant political rallies of prime ministers have been held in the past . The last important function organised at the stadium was flagging off of Srinagar-Muzaffarabad bus by Prime Minister Manmohan Singh on April seven .
+p71
+sS'injured'
+p72
+S'17'
+p73
+sS'det_loc'
+p74
+(lp75
+S'India'
+p76
+aS'Jammu & Kashmir'
+p77
+aS'Srinagar'
+p78
+aS'Srinagar'
+p79
+ag54
+asS'O'
+p80
+(lp81
+S'militants:5'
+p82
+aS'car-bomb:9'
+p83
+aS'military convoy:12'
+p84
+aS'missionary school:16'
+p85
+aS'blast:34'
+p86
+aS'maruti car:41'
+p87
+aS'army vehicles:49'
+p88
+aS'sher-e-kashmir cricket stadium:54'
+p89
+aS'army personnel:59'
+p90
+aS'suicide bomber:81'
+p91
+aS'explosive-laden car:85'
+p92
+aS'investigation:94'
+p93
+aS'blast:111'
+p94
+aS'injured:123'
+p95
+aS'explosion:126'
+p96
+aS'damaged eight vehicles:130'
+p97
+aS'blast:174'
+p98
+aS'shattered window panes:203'
+p99
+aS'maruti car:211'
+p100
+aS'attack:216'
+p101
+aS'peace process:252'
+p102
+aS'perpetrators:255'
+p103
+aS'violence:257'
+p104
+aS'militants:289'
+p105
+aS'confidence building:295'
+p106
+aS'attack:310'
+p107
+aS'high security zone:313'
+p108
+aS'high security zone:328'
+p109
+aS'attacks:363'
+p110
+aS'vigil:385'
+p111
+aS'blast:392'
+p112
+aS'car-bomb explosions:404'
+p113
+aS'sher-e-kashmir cricket stadium:447'
+p114
+aS'rallies:458'
+p115
+aS'stadium:476'
+p116
+aS'srinagar-muzaffarabad bus:481'
+p117
+asS'unexpl'
+p118
+(lp119
+g54
+asS'ocassion'
+p120
+g54
+sS'link'
+p121
+S'http://articles.economictimes.indiatimes.com/2005-07-21/news/27483824_1_car-bomb-explosive-laden-car-blast'
+p122
+sS'date'
+p123
+S'21-07-2005'
+p124
+sS'target'
+p125
+S'MILITARY GROUP'
+p126
+sS'hot_spot'
+p127
+g54
+sS'delivery_mod'
+p128
+S'CAR'
+p129
+sS'delivery_met'
+p130
+S'PLANTED'
+p131
+sS'expl'
+p132
+(lp133
+g54
+asS'ORG'
+p134
+(lp135
+(lp136
+S'Hizbul Mujahideen'
+p137
+aS'3'
+p138
+aS'Accused'
+p139
+aa(lp140
+S'Burnhall school'
+p141
+aS'136'
+p142
+aS'Others'
+p143
+aa(lp144
+S'Hizbul Mujahideen'
+p145
+aS'168'
+p146
+aS'Accused'
+p147
+aas.

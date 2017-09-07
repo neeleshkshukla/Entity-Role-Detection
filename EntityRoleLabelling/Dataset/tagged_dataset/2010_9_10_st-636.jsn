@@ -1,0 +1,96 @@
+{
+    "LOC": [
+        [
+            "Malegaon", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Nashik", 
+            "63", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sadhvi Pragya Singh Thakur", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "Sadhvi Pragya", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "Sadhvi", 
+            "92", 
+            "Accused"
+        ], 
+        [
+            "Ganesh Sovani", 
+            "101", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:5", 
+        "2008:17", 
+        "September:56", 
+        "September 3:56"
+    ], 
+    "death": "", 
+    "title": "Sadhvi to be shifted to ayurvedic hospital", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Malegaon", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A special court on Thursday directed that Sadhvi Pragya Singh Thakur , prime accused in the 2008 Malegaon bomb blast case , be shifted to an ayurvedic medical centre here from the Maharashtra Government-run J J Hospital where she is undergoing treatment for multiple ailments . Sadhvi Pragya , shifted to J J Hospital on September 3 from an ayurvedic hospital in Nashik , had approached the court seeking permission to undergo ayurvedic treatment . She has been undergoing treatment for spine problem and other ailments , her lawyer said . Sadhvi responds only to ayurvedic treatment , her counsel Ganesh Sovani said . - PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "court:3", 
+        "malegaon bomb blast case:18", 
+        "treatment:42", 
+        "hospital:61", 
+        "court:68", 
+        "permission:70", 
+        "treatment:74", 
+        "spine problem:82", 
+        "lawyer:89", 
+        "treatment:97"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/sadhvi-to-be-shifted-to-ayurvedic-hospital/article624647.ece", 
+    "date": "29-09-2008", 
+    "target": "", 
+    "hot_spot": "Malegaon bomb blast case", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "J J Hospital", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "J J Hospital", 
+            "52", 
+            "Others"
+        ]
+    ]
+}

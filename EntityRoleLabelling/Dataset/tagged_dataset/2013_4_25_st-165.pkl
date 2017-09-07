@@ -1,0 +1,246 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Karnataka'
+p4
+aS'6'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Tamil Nadu'
+p8
+aS'8'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Bangalore'
+p12
+aS'15'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Coimbatore'
+p16
+aS'60'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Podanur'
+p20
+aS'87'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Madurai'
+p24
+aS'124'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Sathyamangalam'
+p28
+aS'149'
+p29
+aS'Neutral'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Sadam Hussain'
+p34
+aS'29'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Azharuddin'
+p38
+aS'32'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Saddam Hussain'
+p42
+aS'104'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Hussain'
+p46
+aS'110'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Kichan Buhari'
+p50
+aS'115'
+p51
+aS'Assoc Accused'
+p52
+aa(lp53
+S'Buhari'
+p54
+aS'143'
+p55
+aS'Assoc Accused'
+p56
+aasS'TIM'
+p57
+(lp58
+sS'hot_setting'
+p59
+S''
+p60
+sS'DAT'
+p61
+(lp62
+S'April 17 : 13'
+p63
+aS'April 7 : 54'
+p64
+aS'8 : 57'
+p65
+aS'Tuesday : 126'
+p66
+asS'death'
+p67
+g60
+sS'title'
+p68
+S'2 prisoners may be questioned'
+p69
+sS'det_loc'
+p70
+(lp71
+S'India'
+p72
+aS'Karnataka'
+p73
+aS'Bangalore Urban'
+p74
+aS'Bangalore'
+p75
+ag60
+asS'terror_group'
+p76
+(lp77
+g60
+asS'content'
+p78
+S'A special team of the Karnataka and Tamil Nadu police probing the April 17 Bangalore bomb blast is likely to interrogate two inmates of the Salem Central Prison Sadam Hussain and Azharuddin , both aged 24 as they are suspected to have arranged the motorcycle that was used in the blast . On April 7 and 8 , the Coimbatore City Police arrested the two , as part of an 18-member gang , in connection with a clash that took place at a wedding hall at Podanur , near here . The police shifted the two to the Salem Central Prison and detained Saddam Hussain under Goondas Act . Hussain is the brother-in-law of Kichan Buhari , who the special team arrested in Madurai on Tuesday in connection with the blast . The sources said the two were suspected to have helped Buhari in procuring the vehicle from Sathyamangalam . OPEN'
+p79
+sS'injured'
+p80
+g60
+sS'org_unorg'
+p81
+g60
+sS'O'
+p82
+(lp83
+S'special team:2'
+p84
+aS'probing:11'
+p85
+aS'Bangalore bomb blast:15'
+p86
+aS'interrogate:21'
+p87
+aS'two inmates:22'
+p88
+aS'Salem Central Prison:26'
+p89
+aS'aged 24:35'
+p90
+aS'suspected:40'
+p91
+aS'arranged:43'
+p92
+aS'motorcycle:45'
+p93
+aS'blast:51'
+p94
+aS'Coimbatore City Police:60'
+p95
+aS'arrested:63'
+p96
+aS'18-member gang:71'
+p97
+aS'connection:75'
+p98
+aS'clash:78'
+p99
+aS'wedding hall:84'
+p100
+aS'shifted:94'
+p101
+aS'Salem Central Prison:99'
+p102
+aS'detained:103'
+p103
+aS'Goondas Act:107'
+p104
+aS'brother-in-law:113'
+p105
+aS'special team:120'
+p106
+aS'arrested:122'
+p107
+aS'connection:128'
+p108
+aS'blast:131'
+p109
+aS'sources:134'
+p110
+aS'suspected:139'
+p111
+aS'procuring:145'
+p112
+asS'unexpl'
+p113
+(lp114
+g60
+asS'ocassion'
+p115
+g60
+sS'link'
+p116
+S'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/2-prisoners-may-be-questioned/article4652363.ece'
+p117
+sS'date'
+p118
+S'17-04-2013'
+p119
+sS'target'
+p120
+g60
+sS'hot_spot'
+p121
+g60
+sS'delivery_mod'
+p122
+g60
+sS'delivery_met'
+p123
+S'PLANTED'
+p124
+sS'expl'
+p125
+(lp126
+g60
+asS'ORG'
+p127
+(lp128
+s.

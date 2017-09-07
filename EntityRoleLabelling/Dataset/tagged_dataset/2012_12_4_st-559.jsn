@@ -1,0 +1,151 @@
+{
+    "LOC": [], 
+    "PER": [
+        [
+            "Wasim Akram Malik", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "Sanjiv Khanna", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "S.P. Garg", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "H.S. Sharma", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Afzal Guru", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "Sharma", 
+            "261", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:6", 
+        "September:350"
+    ], 
+    "death": "15", 
+    "title": "Frame stringent charges against blast accused", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Delhi High Court on Monday ordered a National Investigation Agency ( NIA ) court here to frame the charge of waging war against the Government of India against Wasim Akram Malik facing prosecution in the Delhi High Court blast case . A Division Bench of the Court comprising Justice Sanjiv Khanna and Justice S.P. Garg ordered framing of the charge , admitting argument by the investigating agency that the intention of the accused was to cause injury to people in general , not to a particular person . The Bench passed the order on a revision petition filed by the investigating agency against the trial court order dropping the charge against the accused . Dropping the charge , Special Judge H.S. Sharma had said : These offences ( relating to waging war against the Government of India ) require something more than the one which is available against the accused in this case . Merely because a bomb had exploded outside the Delhi High Court and in the e-mail , there was a reference of release of Afzal Guru , it does not mean that these offences are made out . In my view , the explosion of the bomb at Gate Number 5 of the Delhi High Court and subsequent assertion of the person sending the e-mail , by itself do not , even for the purpose of framing charges , make out offences . . It can not be said the act had been committed to wage a war against the Government of India , '' Mr. Sharma had further stated . Setting aside his order , the Bench said : The object , purpose and animus as propounded and alleged has to be given weightage and can not be discounted at this stage . The Bench also dismissed argument by the accused that the charge of waging war against the Government of India was attracted only when security forces were specifically targeted . The blast at the Gate Number 5 reception counter of the High Court had claimed 15 lives and injured several others in September last year . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "court:15", 
+        "frame:18", 
+        "charge:20", 
+        "war:23", 
+        "prosecution:34", 
+        "blast case:40", 
+        "division:44", 
+        "charge:61", 
+        "investigating agency:67", 
+        "trial court order:106", 
+        "case:154", 
+        "bomb:159", 
+        "e-mail:170", 
+        "release:177", 
+        "explosion:198", 
+        "assertion:213", 
+        "person:216", 
+        "e-mail:219", 
+        "purpose:278", 
+        "charge:309", 
+        "security:322", 
+        "blast:329", 
+        "gate number 5:332"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/frame-stringent-charges-against-blast-accused/article4162400.ece", 
+    "date": "07-09-2011", 
+    "target": "", 
+    "hot_spot": "Delhi High Court", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi High Court", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "Government of India", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "Government of India", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "164", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "Government of India", 
+            "255", 
+            "Others"
+        ], 
+        [
+            "Government of India", 
+            "315", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "339", 
+            "Others"
+        ]
+    ]
+}

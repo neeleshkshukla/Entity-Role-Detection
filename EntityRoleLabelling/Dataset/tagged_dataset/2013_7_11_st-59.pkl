@@ -1,0 +1,934 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbais'
+p4
+aS'42'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Maharashtra'
+p8
+aS'136'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Mumbai'
+p12
+aS'174'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Mcoca court'
+p16
+aS'572'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Bombay'
+p20
+aS'585'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Churchgate'
+p24
+aS'671'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Churchgate'
+p28
+aS'699'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Malegaon'
+p32
+aS'757'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Malegaon'
+p36
+aS'783'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'Malegaon'
+p40
+aS'804'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Malegaon'
+p44
+aS'820'
+p45
+aS'Assoc Event Location'
+p46
+aa(lp47
+S'Mumbai'
+p48
+aS'829'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Bombay'
+p52
+aS'886'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Jaunpur'
+p56
+aS'1017'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'U.P.'
+p60
+aS'1019'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Mumbai'
+p64
+aS'1038'
+p65
+aS'Neutral'
+p66
+aasS'PER'
+p67
+(lp68
+(lp69
+S'Parag Sawant'
+p70
+aS'1'
+p71
+aS'Victim'
+p72
+aa(lp73
+S'Prachiti'
+p74
+aS'19'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Madhuri'
+p78
+aS'28'
+p79
+aS'Comment'
+p80
+aa(lp81
+S'K.P. Raghuvanshi'
+p82
+aS'293'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Sadiq Shaikh'
+p86
+aS'379'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Shaikh'
+p90
+aS'436'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Shaikhs'
+p94
+aS'448'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'Ehtesham Siddiqui'
+p98
+aS'483'
+p99
+aS'Assoc Accused'
+p100
+aa(lp101
+S'Asif Bashir Khan'
+p102
+aS'486'
+p103
+aS'Assoc Accused'
+p104
+aa(lp105
+S'Mohammad Faisal'
+p106
+aS'490'
+p107
+aS'Assoc Accused'
+p108
+aa(lp109
+S'Siddiqui'
+p110
+aS'628'
+p111
+aS'Assoc Accused'
+p112
+aa(lp113
+S'Vishal Parmar'
+p114
+aS'658'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Siddiqui'
+p118
+aS'665'
+p119
+aS'Assoc Accused'
+p120
+aa(lp121
+S'Parmar'
+p122
+aS'681'
+p123
+aS'Others'
+p124
+aa(lp125
+S'Baban Rankhambe'
+p126
+aS'692'
+p127
+aS'Assoc Victim'
+p128
+aa(lp129
+S'Siddiqui'
+p130
+aS'722'
+p131
+aS'Assoc Accused'
+p132
+aa(lp133
+S'Parmar'
+p134
+aS'743'
+p135
+aS'Others'
+p136
+aa(lp137
+S'Shaikh Mohammad Ali'
+p138
+aS'840'
+p139
+aS'Accused'
+p140
+aa(lp141
+S'Asif Khan'
+p142
+aS'844'
+p143
+aS'Accused'
+p144
+aa(lp145
+S'Ashish Khetan'
+p146
+aS'875'
+p147
+aS'Others'
+p148
+aa(lp149
+S'Khetan'
+p150
+aS'947'
+p151
+aS'Comment'
+p152
+aa(lp153
+S'Parags'
+p154
+aS'989'
+p155
+aS'Victim'
+p156
+aa(lp157
+S'Ehetshams'
+p158
+aS'1014'
+p159
+aS'Others'
+p160
+aasS'TIM'
+p161
+(lp162
+S'seven years : 33'
+p163
+aS'five years : 75'
+p164
+aS'seven years : 113'
+p165
+aS'evening : 250'
+p166
+aS'seven years : 269'
+p167
+aS'5.15 p.m. : 674'
+p168
+aS'5.07 p.m. : 734'
+p169
+aS'Seven years : 952'
+p170
+asS'hot_setting'
+p171
+S''
+p172
+sS'DAT'
+p173
+(lp174
+S'July 11 , 2006 : 46'
+p175
+aS'2008 : 68'
+p176
+aS'July 11 : 200'
+p177
+aS'October 2006 : 304'
+p178
+aS'November 29 , 2006 : 313'
+p179
+aS'2007 : 351'
+p180
+aS'2008 : 393'
+p181
+aS'2005 : 422'
+p182
+aS'July 11 : 426'
+p183
+aS'October 2008 : 451'
+p184
+aS'2012 : 589'
+p185
+aS'2007 : 626'
+p186
+aS'2006 : 756'
+p187
+aS'July 11 : 825'
+p188
+asS'death'
+p189
+S'187'
+p190
+sS'title'
+p191
+S'7 years after blasts, prosecution case falls apart'
+p192
+sS'org_unorg'
+p193
+g172
+sS'terror_group'
+p194
+(lp195
+S'INDIAN MUJAHIDEEN'
+p196
+asS'content'
+p197
+S'Parag Sawant , 34 , now recognises his family members . His eyes glitter when his young daughter Prachiti comes near his bed , says his mother Madhuri . For the last seven years , this victim of serial blasts on Mumbais suburban trains on July 11 , 2006 , is lying on a bed in the Hinduja Hospital here . His amazing recovery from coma in 2008 had left doctors astounded . But five years later , his recovery slowed down after a series of convulsions . His family remains optimistic . It wants to see him back , walking happily on his feet with his daughter . For the past seven years , 13 Muslim men , alleged activists of the Students Islamic Movement of India ( SIMI ) , arrested by the Maharashtra Anti-Terrorism Squad ( ATS ) for the blasts , are languishing in jail . Ironically , the pieces of evidence wove together by the ATS against the 13 have started falling apart in court proceedings . The Mumbai Crime Branch police have arrested five other men , allegedly belonging to Indian Mujahideen ( IM ) , claiming that they were responsible for the July 11 blasts . But the call data records ( CDR ) of these accused have successfully challenged the evidence produced against them by the ATS . Their families hope that once the innocence of the accused is proved , all 13 can walk free . Seven blasts in the evening rush hour in first-class compartments of local trains killed 187 people and injured over 800 others . For seven years now , the case has seen various turnarounds , revelations and exposed the shoddy probe . The ATS , then headed by K.P. Raghuvanshi , swung into action and arrested 13 men by October 2006 . The charge sheet was filed on November 29 , 2006 , despite the written submissions by the accused to the court claiming that confessions were taken under severe custodial torture and the ATS was falsely implicating them . Even as the trial began in 2007 , the accused moved the Supreme Court and got a stay on the process . The entire investigation of the ATS was challenged by the arrest of Sadiq Shaikh and four other men , allegedly belonging to the IM , in 2008 , by the Crime Branch police . In the subsequent probe , it was revealed that these men were responsible for all major blasts in the country after 2005 , including the July 11 train blasts . But the ATS , gave Shaikh clean bill in the train blasts case . It came despite Shaikhs confession in October 2008 that he , along with other IM members , carried out the train blasts . The ATS investigation got further exposed after the CDRs were presented to the court . Ehtesham Siddiqui , Asif Bashir Khan and Mohammad Faisal have been charged by the ATS with planting bombs on trains . However , the CDRs of their phones have clearly shown that all the three were not even near the blast sites on that day . Ironically , the ATS had earlier used the CDRs to establish the link between the accused and the Lashkar-e-Taiba and to seek their police custody . When the ATS was asked to produce the CDRs by the accused , it informed the special Mcoca court that the CDRs have been destroyed . The accused moved the Bombay High Court in 2012 and the CDRs were made available in public domain only after the courts strictures . The accused have also made use of the Right to Information Act to blow holes in the ATS theory . Since 2007 , Siddiqui has filed 1,024 RTI applications . While deposing as a defence witness , he has produced 62 RTI replies in the special court . For example , prosecution witness Vishal Parmar claimed that he had seen Siddiqui and another person at the Churchgate station at 5.15 p.m. boarding the Virar local . Parmar had stated that he had gone to meet one compounder Baban Rankhambe at the ENT Hospital , Churchgate . The RTI reply indicates that no person with that name works in the ENT hospital . Also , through RTI , Siddiqui found out that the train had come to the platform around 5.07 p.m. and not 5.15 p.m. as claimed by Parmar . The National Investigation Agency ( NIA ) charge sheet in the 2006 Malegaon bomb blast case also exposed the ATS probe . The NIA , while not even mentioning nine Muslim men arrested by the ATS in the Malegaon case , framed charges against right-wing Hindu elements . All nine men have now applied for discharge application from the Malegaon case , based on the NIA charge sheet . However , the probe in the Malegaon blasts has relation with July 11 blasts in Mumbai . As per the ATS case , two accused , Shaikh Mohammad Ali and Asif Khan , were common in both cases and had provided explosives . After the NIA charge sheet , the ATS claim has come under yet another trouble . Senior journalist Ashish Khetan has moved a public interest litigation petition in the Bombay High Court , requesting an independent commission of inquiry into the conduct of investigating officers . Apart from innocents being acquitted from the case , it is also essential that the victims of the blasts get justice . The investigations in this case show the pile of lies by the investigating officers . It needs to be probed , Mr. Khetan told The Hindu . Seven years after the blasts , the investigating agencies have not been able to submit a single solid proof against the 13 accused . Justice to the victims of this blast yet seems a distant reality . Parags daughter wonders why her father cant accompany her while going out of hospital and her mother finds it difficult to answer her questions . Ehetshams father from Jaunpur in U.P. rarely visits him . He is uncertain , whether he can ever accompany his father back home . Mumbai Crime Branch has arrested five men , allegedly belonging to IMCall data records of accused successfully challenge evidence produced against them by ATS Mumbai Crime Branch has arrested five men , allegedly belonging to IM Call data records of accused successfully challenge evidence produced against them by ATS OPEN'
+p198
+sS'injured'
+p199
+S'800'
+p200
+sS'det_loc'
+p201
+(lp202
+S'India'
+p203
+aS'Maharashtra'
+p204
+aS'Mumbai-City'
+p205
+ag172
+ag172
+asS'O'
+p206
+(lp207
+S'recognises:7'
+p208
+aS'glitter:14'
+p209
+aS'serial blasts:39'
+p210
+aS'mumbais suburban trains:42'
+p211
+aS'coma:66'
+p212
+aS'doctors astounded:71'
+p213
+aS'slowed down:81'
+p214
+aS'series of convulsions:85'
+p215
+aS'optimistic:92'
+p216
+aS'walking happily:101'
+p217
+aS'13 muslim men:116'
+p218
+aS'activists:121'
+p219
+aS'arrested:133'
+p220
+aS'blasts:144'
+p221
+aS'languishing in jail:147'
+p222
+aS'evidence:156'
+p223
+aS'court proceedings:170'
+p224
+aS'arrested:179'
+p225
+aS'responsible:197'
+p226
+aS'11 blasts:201'
+p227
+aS'call data records:206'
+p228
+aS'cdr:210'
+p229
+aS'accused:214'
+p230
+aS'successfully challenged:216'
+p231
+aS'evidence:219'
+p232
+aS'innocence:233'
+p233
+aS'accused:236'
+p234
+aS'walk free:243'
+p235
+aS'seven blasts:246'
+p236
+aS'evening rush hour:250'
+p237
+aS'first-class compartments:254'
+p238
+aS'local trains:257'
+p239
+aS'turnarounds:278'
+p240
+aS'revelations:280'
+p241
+aS'exposed:282'
+p242
+aS'shoddy probe:284'
+p243
+aS'arrested:300'
+p244
+aS'charge sheet:308'
+p245
+aS'written submissions:320'
+p246
+aS'accused:324'
+p247
+aS'confessions:330'
+p248
+aS'custodial torture:335'
+p249
+aS'falsely implicating:341'
+p250
+aS'trial:348'
+p251
+aS'accused:354'
+p252
+aS'investigation:369'
+p253
+aS'challenged:374'
+p254
+aS'arrest:377'
+p255
+aS'crime branch police:397'
+p256
+aS'subsequent probe:403'
+p257
+aS'major blasts:416'
+p258
+aS'train blasts:428'
+p259
+aS'clean bill:437'
+p260
+aS'train blasts case:441'
+p261
+aS'confession:449'
+p262
+aS'train blasts:465'
+p263
+aS'investigation:470'
+p264
+aS'exposed:473'
+p265
+aS'cdrs:476'
+p266
+aS'bombs on trains:500'
+p267
+aS'cdrs:507'
+p268
+aS'blast sites:523'
+p269
+aS'cdrs:537'
+p270
+aS'accused:544'
+p271
+aS'police custody:552'
+p272
+aS'cdrs:563'
+p273
+aS'accused:566'
+p274
+aS'cdrs:576'
+p275
+aS'destroyed:579'
+p276
+aS'accused:582'
+p277
+aS'cdrs:592'
+p278
+aS'public domain:597'
+p279
+aS'courts strictures:602'
+p280
+aS'accused:606'
+p281
+aS'right to information act:613'
+p282
+aS'ats theory:622'
+p283
+aS'1,024 rti applications:631'
+p284
+aS'defence witness:639'
+p285
+aS'62 rti replies:645'
+p286
+aS'special court:650'
+p287
+aS'prosecution witness:656'
+p288
+aS'churchgate station:671'
+p289
+aS'virar local:678'
+p290
+aS'compounder baban rankhambe:691'
+p291
+aS'rti:702'
+p292
+aS'rti:720'
+p293
+aS'train:727'
+p294
+aS'platform:732'
+p295
+aS'5.15 p.m.:738'
+p296
+aS'charge sheet:752'
+p297
+aS'malegaon bomb blast case:757'
+p298
+aS'nine muslim men arrested:774'
+p299
+aS'framed charges:786'
+p300
+aS'discharge application:800'
+p301
+aS'malegaon case:804'
+p302
+aS'malegaon blasts:820'
+p303
+aS'two accused:837'
+p304
+aS'explosives:855'
+p305
+aS'senior journalist ashish khetan:873'
+p306
+aS'public interest:880'
+p307
+aS'litigation petition:882'
+p308
+aS'independent commission:892'
+p309
+aS'inquiry:895'
+p310
+aS'investigating officers:900'
+p311
+aS'innocents:905'
+p312
+aS'victims:918'
+p313
+aS'blasts:921'
+p314
+aS'investigations:926'
+p315
+aS'investigating officers:937'
+p316
+aS'blasts:956'
+p317
+aS'investigating agencies:959'
+p318
+aS'single solid proof:968'
+p319
+aS'13 accused:973'
+p320
+aS'justice:976'
+p321
+aS'victims:979'
+p322
+aS'wonders:991'
+p323
+aS'arrested five men:1042'
+p324
+aS'imcall data records:1049'
+p325
+aS'successfully challenge evidence:1054'
+p326
+asS'unexpl'
+p327
+(lp328
+g172
+asS'ocassion'
+p329
+g172
+sS'link'
+p330
+S'http://www.thehindu.com/todays-paper/tp-national/7-years-after-blasts-prosecution-case-falls-apart/article4903335.ece'
+p331
+sS'date'
+p332
+S'11-07-2006'
+p333
+sS'target'
+p334
+S'TRAIN'
+p335
+sS'hot_spot'
+p336
+g172
+sS'delivery_mod'
+p337
+g172
+sS'delivery_met'
+p338
+S'PLANTED'
+p339
+sS'expl'
+p340
+(lp341
+g172
+asS'ORG'
+p342
+(lp343
+(lp344
+S'Hinduja Hospital'
+p345
+aS'58'
+p346
+aS'Others'
+p347
+aa(lp348
+S'Students Islamic Movement of India'
+p349
+aS'124'
+p350
+aS'Accused'
+p351
+aa(lp352
+S'SIMI'
+p353
+aS'130'
+p354
+aS'Accused'
+p355
+aa(lp356
+S'Maharashtra Anti-Terrorism Squad ( ATS )'
+p357
+aS'136'
+p358
+aS'Others'
+p359
+aa(lp360
+S'ATS'
+p361
+aS'161'
+p362
+aS'Others'
+p363
+aa(lp364
+S'Mumbai Crime Branch police'
+p365
+aS'174'
+p366
+aS'Others'
+p367
+aa(lp368
+S'Indian Mujahideen'
+p369
+aS'187'
+p370
+aS'Others'
+p371
+aa(lp372
+S'IM'
+p373
+aS'190'
+p374
+aS'Others'
+p375
+aa(lp376
+S'ATS'
+p377
+aS'225'
+p378
+aS'Others'
+p379
+aa(lp380
+S'ATS'
+p381
+aS'288'
+p382
+aS'Others'
+p383
+aa(lp384
+S'ATS'
+p385
+aS'339'
+p386
+aS'Others'
+p387
+aa(lp388
+S'Supreme Court'
+p389
+aS'357'
+p390
+aS'Others'
+p391
+aa(lp392
+S'ATS'
+p393
+aS'372'
+p394
+aS'Others'
+p395
+aa(lp396
+S'IM'
+p397
+aS'390'
+p398
+aS'Others'
+p399
+aa(lp400
+S'ATS'
+p401
+aS'433'
+p402
+aS'Others'
+p403
+aa(lp404
+S'IM'
+p405
+aS'459'
+p406
+aS'Others'
+p407
+aa(lp408
+S'ATS'
+p409
+aS'469'
+p410
+aS'Others'
+p411
+aa(lp412
+S'ATS'
+p413
+aS'497'
+p414
+aS'Others'
+p415
+aa(lp416
+S'ATS'
+p417
+aS'532'
+p418
+aS'Others'
+p419
+aa(lp420
+S'Lashkar-e-Taiba'
+p421
+aS'547'
+p422
+aS'Others'
+p423
+aa(lp424
+S'ATS'
+p425
+aS'557'
+p426
+aS'Others'
+p427
+aa(lp428
+S'Bombay High Court'
+p429
+aS'585'
+p430
+aS'Others'
+p431
+aa(lp432
+S'ATS'
+p433
+aS'622'
+p434
+aS'Others'
+p435
+aa(lp436
+S'ENT Hospital'
+p437
+aS'696'
+p438
+aS'Others'
+p439
+aa(lp440
+S'ENT hospital'
+p441
+aS'714'
+p442
+aS'Others'
+p443
+aa(lp444
+S'National Investigation Agency'
+p445
+aS'746'
+p446
+aS'Others'
+p447
+aa(lp448
+S'NIA'
+p449
+aS'750'
+p450
+aS'Others'
+p451
+aa(lp452
+S'ATS'
+p453
+aS'764'
+p454
+aS'Others'
+p455
+aa(lp456
+S'NIA'
+p457
+aS'768'
+p458
+aS'Others'
+p459
+aa(lp460
+S'ATS'
+p461
+aS'780'
+p462
+aS'Others'
+p463
+aa(lp464
+S'right-wing Hindu'
+p465
+aS'789'
+p466
+aS'Others'
+p467
+aa(lp468
+S'NIA'
+p469
+aS'810'
+p470
+aS'Others'
+p471
+aa(lp472
+S'ATS'
+p473
+aS'834'
+p474
+aS'Others'
+p475
+aa(lp476
+S'NIA'
+p477
+aS'859'
+p478
+aS'Others'
+p479
+aa(lp480
+S'ATS'
+p481
+aS'864'
+p482
+aS'Others'
+p483
+aa(lp484
+S'Bombay High Court'
+p485
+aS'886'
+p486
+aS'Others'
+p487
+aa(lp488
+S'The Hindu'
+p489
+aS'949'
+p490
+aS'Others'
+p491
+aa(lp492
+S'Mumbai Crime Branch'
+p493
+aS'1038'
+p494
+aS'Others'
+p495
+aa(lp496
+S'ATS Mumbai Crime Branch'
+p497
+aS'1061'
+p498
+aS'Others'
+p499
+aa(lp500
+S'IM'
+p501
+aS'1073'
+p502
+aS'Others'
+p503
+aa(lp504
+S'ATS'
+p505
+aS'1086'
+p506
+aS'Others'
+p507
+aas.

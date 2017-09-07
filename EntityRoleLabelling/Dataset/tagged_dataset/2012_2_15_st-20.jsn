@@ -1,0 +1,97 @@
+{
+    "LOC": [
+        [
+            "Samjhauta Express", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Panchkula", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Delhi-Lahore train", 
+            "92", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kamal Chauhan", 
+            "1", 
+            "Accused"
+        ], 
+        [
+            "Chauhan", 
+            "55", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:19", 
+        "2007:32", 
+        "February:79", 
+        "February 24:79"
+    ], 
+    "death": "68", 
+    "title": "Chauhan says he planted Samjhauta bombs", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Kamal Chauhan , a disgruntled former Rashtriya Swayamsevak Sangh worker arrested by the National Investigation Agency , on Tuesday claimed that he had planted bombs on board the Samjhauta Express in 2007 . The blast left 68 people , mostly Pakistanis , dead . Yes , I have done it on my will , Chauhan told journalists as he was being taken out after in-camera proceedings in the Panchkula court , which granted the NIA his custody till February 24 for questioning him on his role in the blast on the Delhi-Lahore train . PTI OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "Panchkula", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "worker:10", 
+        "planted bombs on board:24", 
+        "board:27", 
+        "blast:35", 
+        "pakistanis:41", 
+        "dead:43", 
+        "in-camera:65", 
+        "custody:77", 
+        "questioning:82", 
+        "role:86", 
+        "blast:89"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/chauhan-says-he-planted-samjhauta-bombs/article2894626.ece", 
+    "date": "14-02-2012", 
+    "target": "Public Transport", 
+    "hot_spot": "Samjhauta Express", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rashtriya Swayamsevak Sangh", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "75", 
+            "Others"
+        ]
+    ]
+}

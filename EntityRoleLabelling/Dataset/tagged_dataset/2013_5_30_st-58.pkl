@@ -1,0 +1,202 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Uttar Pradesh'
+p4
+aS'31'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Marhiyahu'
+p8
+aS'59'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Jaunpur district'
+p12
+aS'61'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Lucknow'
+p16
+aS'70'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Faizabad'
+p20
+aS'72'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Faizabad district court'
+p24
+aS'93'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Faizabad'
+p28
+aS'93'
+p29
+aS'Assoc Event Location'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Khalid Mujahid'
+p34
+aS'4'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Paras Nath Yadav'
+p38
+aS'49'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Khalids'
+p42
+aS'56'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Khalid'
+p46
+aS'78'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Akhilesh Yadav'
+p50
+aS'108'
+p51
+aS'Others'
+p52
+aasS'TIM'
+p53
+(lp54
+sS'hot_setting'
+p55
+S''
+p56
+sS'DAT'
+p57
+(lp58
+S'Wednesday:64'
+p59
+asS'death'
+p60
+g56
+sS'title'
+p61
+S'Khalid family rejects compensation'
+p62
+sS'det_loc'
+p63
+(lp64
+S'India'
+p65
+aS'Uttar Pradesh'
+p66
+aS'Lucknow'
+p67
+aS'Lucknow'
+p68
+ag56
+asS'terror_group'
+p69
+(lp70
+g56
+asS'content'
+p71
+S'The family of Khalid Mujahid , an accused in a bomb blast case who died under mysterious circumstances in police custody , has refused to accept compensation offered by the Uttar Pradesh government . It refused to accept a cheque for Rs . 6 lakh from Horticulture Minister Paras Nath Yadav , who went to Khalids house at Marhiyahu in Jaunpur district on Wednesday . An accused in the Lucknow and Faizabad courts bomb blast case , Khalid died when he was being brought back to jail after a hearing in the Faizabad district court last fortnight . As his family alleged foul play , Chief Minister Akhilesh Yadav referred the case to the Central Bureau of Investigation . OPEN'
+p72
+sS'injured'
+p73
+g56
+sS'org_unorg'
+p74
+S'Organized'
+p75
+sS'O'
+p76
+(lp77
+S'died:15'
+p78
+aS'mysterious circumstances:17'
+p79
+aS'police custody:20'
+p80
+aS'refused:24'
+p81
+aS'compensation:27'
+p82
+aS'Rs . 6 lakh:42'
+p83
+aS'brought back to jail:84'
+p84
+aS'last fortnight:96'
+p85
+aS'foul play:103'
+p86
+asS'unexpl'
+p87
+(lp88
+g56
+asS'ocassion'
+p89
+g56
+sS'link'
+p90
+S'http://www.thehindu.com/todays-paper/tp-national/khalid-family-rejects-compensation/article4764447.ece'
+p91
+sS'date'
+p92
+S'29-05-2013'
+p93
+sS'target'
+p94
+S'Government Building'
+p95
+sS'hot_spot'
+p96
+S'Court'
+p97
+sS'delivery_mod'
+p98
+g56
+sS'delivery_met'
+p99
+g56
+sS'expl'
+p100
+(lp101
+g56
+asS'ORG'
+p102
+(lp103
+(lp104
+S'Central Bureau of Investigation'
+p105
+aS'115'
+p106
+aS'Others'
+p107
+aas.

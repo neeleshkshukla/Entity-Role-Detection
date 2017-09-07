@@ -1,0 +1,263 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'6'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Haryana'
+p8
+aS'46'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Haryana'
+p12
+aS'65'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Old Delhi'
+p16
+aS'79'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Mumbai'
+p20
+aS'227'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Andhra Pradesh'
+p24
+aS'236'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Mumbai'
+p28
+aS'246'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Lajpat Rai Market'
+p32
+aS'277'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Walled City'
+p36
+aS'283'
+p37
+aS'Neutral'
+p38
+aasS'PER'
+p39
+(lp40
+(lp41
+S'Devesh K. Pandey'
+p42
+aS'1'
+p43
+aS'Others'
+p44
+aasS'TIM'
+p45
+(lp46
+sS'hot_setting'
+p47
+S''
+p48
+sS'DAT'
+p49
+(lp50
+S'Sunday : 41'
+p51
+aS'October-December 2006 : 266'
+p52
+asS'death'
+p53
+g48
+sS'title'
+p54
+S'Train attack: reward amount hiked'
+p55
+sS'org_unorg'
+p56
+g48
+sS'terror_group'
+p57
+(lp58
+g48
+asS'content'
+p59
+VDevesh K. Pandey . . NEW DELHI : While clues have started emerging in the Samjhauta Express blasts , the reward money on the suspects who planted the bombs on the train was increased to Rs . 5 lakh on Sunday . . . The Haryana police released modified sketches of the suspects a couple of days ago . . . Investigations by the Haryana police indicated that the bombs were configured at a place close to the Old Delhi railway station , before they were planted in the train . Raw materials used in the bomb and suitcases were brought by different people from different ` directions . ' The police believe that about six identical suitcases were brought for the purpose . . . Though the bombs used appear to be of low-intensity , they are ` highly sophisticated ' in terms of the circuitry used . Their triggering mechanism had stand-by arrangements at three levels to make sure that they exploded in any case . On the basis of these facts , the investigating team believes that at least one of those involved at the execution stage had undergone training in bomb configuration . . . Also , the police have found that the ` GEHI PET-1000 ' bottles used to keep a mixture of inflammable liquid in the suitcases are manufactured in Mumbai . Though such bottles are also found in Andhra Pradesh , the police are at present probing the Mumbai angle . . . The electronic watch found from one of the unexploded bombs , which was manufactured in October-December 2006 , is suspected to have been bought from the Lajpat Rai Market here in the Walled City .
+p60
+sS'injured'
+p61
+g48
+sS'det_loc'
+p62
+(lp63
+S'India'
+p64
+aS'Haryana'
+p65
+aS'Panipat'
+p66
+aS'Pnipat'
+p67
+ag48
+asS'O'
+p68
+(lp69
+S'clues:10'
+p70
+aS'emerging:13'
+p71
+aS'Samjhauta Express blasts:16'
+p72
+aS'reward money:21'
+p73
+aS'suspects:25'
+p74
+aS'planted:27'
+p75
+aS'bombs:29'
+p76
+aS'train:32'
+p77
+aS'increased:34'
+p78
+aS'Rs . 5 lakh:36'
+p79
+aS'Haryana police:46'
+p80
+aS'released:48'
+p81
+aS'modified sketches:49'
+p82
+aS'suspects:53'
+p83
+aS'couple of days ago:55'
+p84
+aS'Investigations:62'
+p85
+aS'Haryana police:65'
+p86
+aS'bombs:70'
+p87
+aS'configured:72'
+p88
+aS'Old Delhi railway station:79'
+p89
+aS'planted:87'
+p90
+aS'train:90'
+p91
+aS'Raw materials:92'
+p92
+aS'bomb:97'
+p93
+aS'suitcases:99'
+p94
+aS'directions:108'
+p95
+aS'six identical suitcases:116'
+p96
+aS'purpose:123'
+p97
+aS'bombs:129'
+p98
+aS'low-intensity:135'
+p99
+aS'highly sophisticated:140'
+p100
+aS'circuitry:147'
+p101
+aS'triggering mechanism:151'
+p102
+aS'arrangements:155'
+p103
+aS'exploded:164'
+p104
+aS'investigating team:177'
+p105
+aS'execution stage:189'
+p106
+aS'undergone training:192'
+p107
+aS'bomb configuration:195'
+p108
+aS'GEHI PET-1000:209'
+p109
+aS'mixture of inflammable liquid:217'
+p110
+aS'suitcases:223'
+p111
+aS'bottles:231'
+p112
+aS'probing:244'
+p113
+aS'Mumbai angle:246'
+p114
+aS'electronic watch:252'
+p115
+aS'unexploded bombs:259'
+p116
+aS'manufactured:264'
+p117
+aS'suspected:270'
+p118
+asS'unexpl'
+p119
+(lp120
+g48
+asS'ocassion'
+p121
+g48
+sS'link'
+p122
+S'http://www.thehindu.com/todays-paper/train-attack-reward-amount-hiked/article1802516.ece'
+p123
+sS'date'
+p124
+S'18-02-2007'
+p125
+sS'target'
+p126
+S'TRAIN'
+p127
+sS'hot_spot'
+p128
+g48
+sS'delivery_mod'
+p129
+S'TRAIN'
+p130
+sS'delivery_met'
+p131
+S'PLANTED'
+p132
+sS'expl'
+p133
+(lp134
+g48
+asS'ORG'
+p135
+(lp136
+s.

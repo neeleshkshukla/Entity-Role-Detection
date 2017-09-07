@@ -1,0 +1,175 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'north-western Pakistan'
+p4
+aS'7'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Peshawar'
+p8
+aS'55'
+p9
+aS'Event'
+p10
+aa(lp11
+S'North Waziristan'
+p12
+aS'160'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Shafiullah Khan'
+p18
+aS'92'
+p19
+aS'Comment'
+p20
+aasS'TIM'
+p21
+(lp22
+sS'hot_setting'
+p23
+S''
+p24
+sS'DAT'
+p25
+(lp26
+S'Sunday:10'
+p27
+asS'death'
+p28
+S'21'
+p29
+sS'title'
+p30
+S'21 killed in Peshawar blasts'
+p31
+sS'det_loc'
+p32
+(lp33
+S'Pakistan'
+p34
+ag24
+ag24
+aS'Peshawar'
+p35
+aS'north-western Pakistan, North Waziristan'
+p36
+asS'terror_group'
+p37
+(lp38
+g24
+asS'content'
+p39
+S'Two bombings killed 21 people in north-western Pakistan on Sunday , just as Britains Prime Minister was in the capital pledging to help to fight extremism . In the deadlier of the two attacks , a car bomb exploded as a convoy of paramilitary troops passed through the outskirts of the northwest city of Peshawar , killing at least 17 people and wounding dozens of others , police said . Most of the dead and wounded were civilians , though nine paramilitary Frontier Corps troops were hurt , said police official Shafiullah Khan . The blast struck one Frontier Corps vehicle , but the other passed by safely . The explosion damaged many other vehicles and shops , according to local TV video . Frontier Corps vehicles rushed to the scene , and a police officer collected evidence from the crater caused by the bomb . A roadside bomb struck an army convoy and killed four soldiers in the North Waziristan tribal area , the main sanctuary for Taliban and al-Qaeda militants in the country . The blast also wounded 20 soldiers , the officials said . AP OPEN'
+p40
+sS'injured'
+p41
+g24
+sS'org_unorg'
+p42
+S'Organized'
+p43
+sS'O'
+p44
+(lp45
+S'two bombings:1'
+p46
+aS'Britains Prime Minister:14'
+p47
+aS'fight extremism:25'
+p48
+aS'car bomb:37'
+p49
+aS'collected evidence:137'
+p50
+aS'crater:141'
+p51
+aS'roadside bomb:148'
+p52
+aS'army convoy:152'
+p53
+aS'main sanctuary:166'
+p54
+asS'unexpl'
+p55
+(lp56
+g24
+asS'ocassion'
+p57
+g24
+sS'link'
+p58
+S'http://www.thehindu.com/todays-paper/tp-international/21-killed-in-peshawar-blasts/article4867742.ece'
+p59
+sS'date'
+p60
+S'30-06-2013'
+p61
+sS'target'
+p62
+S'Police and Defence Forces'
+p63
+sS'hot_spot'
+p64
+g24
+sS'delivery_mod'
+p65
+S'Four wheeler'
+p66
+sS'delivery_met'
+p67
+S'Planted'
+p68
+sS'expl'
+p69
+(lp70
+g24
+asS'ORG'
+p71
+(lp72
+(lp73
+S'Frontier Corps'
+p74
+aS'83'
+p75
+aS'Victim'
+p76
+aa(lp77
+S'Frontier Corps'
+p78
+aS'99'
+p79
+aS'Victim'
+p80
+aa(lp81
+S'Frontier Corps'
+p82
+aS'125'
+p83
+aS'Victim'
+p84
+aa(lp85
+S'Taliban'
+p86
+aS'169'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'al-Qaeda'
+p90
+aS'171'
+p91
+aS'Accused'
+p92
+aas.

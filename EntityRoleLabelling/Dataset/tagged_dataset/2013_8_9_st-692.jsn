@@ -1,0 +1,198 @@
+{
+    "LOC": [
+        [
+            "Afghanistan", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "31", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Nangarhar provinces", 
+            "95", 
+            "Event"
+        ], 
+        [
+            "Ghany Khel", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Nangarhar", 
+            "245", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Jalalabad", 
+            "278", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Pakistan", 
+            "295", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Quetta", 
+            "310", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Balochistan province", 
+            "315", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Baluchistan", 
+            "335", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Baluchistan", 
+            "456", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Haji Khayali", 
+            "151", 
+            "Others"
+        ], 
+        [
+            "Haji Ghalib", 
+            "175", 
+            "Comment"
+        ], 
+        [
+            "Ghalib", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "Fayaz Sumbal", 
+            "326", 
+            "Others"
+        ], 
+        [
+            "Mohammed", 
+            "355", 
+            "Comment"
+        ], 
+        [
+            "Sumbal", 
+            "359", 
+            "Accused"
+        ], 
+        [
+            "Sumbal", 
+            "374", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "telephone : 212"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 19", 
+        "Thursday : 186"
+    ], 
+    "death": "21", 
+    "title": "Bombings in Afghanistan, Pakistan kill scores", 
+    "org_unorg": "", 
+    "terror_group": [
+        "TALIBAN"
+    ], 
+    "content": "A bomb planted in a graveyard in rural eastern Afghanistan killed 14 members of a single family on Thursday while a suicide bomber attacked a police officers funeral in southwestern Pakistan killing 30 people gathered to mourn a man shot dead earlier that day in front of his children . The Afghan family was getting together to mark the start of a major Muslim holiday , the Eid al-Fitr at the end of the holy month of Ramzan , with a visit to the tomb of a relative . The attack took place in Nangarhar provinces Ghany Khel district and all 14 killed seven women and seven children were members of the same extended family , said police . No one immediately claimed responsibility for the bombing . Its unclear why the family was targeted , but they were visiting the grave of a relative , a tribal elder named Haji Khayali who worked for a security company and who was killed by the Taliban earlier this year . The dead mans brother , Haji Ghalib , who said his daughter was among those killed Thursday , blamed the Taliban for the attack . Mr. Ghalib , who was not with his family when the bombing happened , said over the telephone that he also worked at a security company and was a member of a local peace council seeking to reconcile with the insurgents . A spate of bombings and Taliban attacks in Nangarhar in recent weeks has killed dozens of people , including police and security forces . Among the attacks was a botched bombing last week against the Indian consulate in the city of Jalalabad that killed nine people , including six children . No Indian officials were hurt . In Pakistan , the funeral was being held in an open field outside a mosque in Quetta , the capital of Balochistan province . Some 250 people gathered for the service . Fayaz Sumbal , the head of police operations in Baluchistan , noticed the bomber near the gate of the mosque before he detonated his explosives , a police official Mohammed said . Mr. Sumbal called on officers to question the bomber , who then blew himself up . Sumbal died in the blast . Most of the 30 dead and 55 wounded in the suicide bombing were police officers . They had gathered for the funeral of an officer gunned down earlier in the day as he travelled through the city in a vehicle with his children . Two of his children were wounded in the attack . No one has claimed responsibility for the attack , but suspicion will likely fall on Islamic militants based in the province . Baluchistan is also home to separatists who have been waging a low-level insurgency against the governments for decades , but they rarely carry out suicide bombings . AP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "", 
+        "Rural Eastern Afganistan"
+    ], 
+    "O": [
+        "bomb:2", 
+        "graveyard:6", 
+        "single family:16", 
+        "suicide bomber:22", 
+        "police officers funeral:26", 
+        "30 people:33", 
+        "mourn:37", 
+        "shot dead:40", 
+        "Afghan family:52", 
+        "Muslim holiday:64", 
+        "Eid al-Fitr:68", 
+        "Ramzan:78", 
+        "tomb:85", 
+        "attack:91", 
+        "targeted:135", 
+        "tribal:148", 
+        "attack:193", 
+        "bombing:206", 
+        "security company:219", 
+        "peace council:228", 
+        "reconcile:232", 
+        "insurgents:235", 
+        "spate of bombings:238", 
+        "bombings:240", 
+        "police and security:256", 
+        "botched bombing:266", 
+        "Indian consulate:272", 
+        "mosque:308", 
+        "bomber:339", 
+        "mosque:345", 
+        "explosives:350", 
+        "bomber:366", 
+        "blew himself:370", 
+        "blast:378", 
+        "suicide bombing:390", 
+        "suspicion:444", 
+        "Islamic militants:449", 
+        "province:454", 
+        "separatists:461", 
+        "low-level insurgency:467", 
+        "decades:473", 
+        "suicide bombings:480"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/bombings-in-afghanistan-pakistan-kill-scores/article5005838.ece", 
+    "date": "08-08-2013", 
+    "target": "FAMILY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Taliban", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "Taliban", 
+            "190", 
+            "Accused"
+        ], 
+        [
+            "Taliban", 
+            "242", 
+            "Accused"
+        ], 
+        [
+            "AP", 
+            "483", 
+            "Others"
+        ]
+    ]
+}

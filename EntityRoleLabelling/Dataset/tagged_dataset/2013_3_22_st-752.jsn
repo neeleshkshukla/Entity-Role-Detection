@@ -1,0 +1,231 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "138", 
+            "Accused Location"
+        ], 
+        [
+            "Mumbai", 
+            "211", 
+            "Accused Location"
+        ], 
+        [
+            "Pakistan", 
+            "317", 
+            "Accused Location"
+        ], 
+        [
+            "Islamabad", 
+            "326", 
+            "Accused Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Yakub Memon", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "Tiger Memon", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Sanjay Dutt", 
+            "96", 
+            "Assoc Accused"
+        ], 
+        [
+            "P. Sathashivam", 
+            "118", 
+            "Comment"
+        ], 
+        [
+            "Memon", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "128", 
+            "Accused"
+        ], 
+        [
+            "Sathashivam", 
+            "165", 
+            "Comment"
+        ], 
+        [
+            "Yakub", 
+            "234", 
+            "Accused"
+        ], 
+        [
+            "Essa", 
+            "243", 
+            "Accused"
+        ], 
+        [
+            "Yusuf", 
+            "245", 
+            "Accused"
+        ], 
+        [
+            "Rubina", 
+            "248", 
+            "Accused"
+        ], 
+        [
+            "Tiger Memon", 
+            "288", 
+            "Accused"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "291", 
+            "Accused"
+        ], 
+        [
+            "Memon", 
+            "328", 
+            "Accused"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "331", 
+            "Accused"
+        ], 
+        [
+            "Memon", 
+            "355", 
+            "Accused"
+        ], 
+        [
+            "Dawood Ibrahim", 
+            "358", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 10", 
+        "1993 : 26", 
+        "March 12 , 1993 : 199", 
+        "1993 : 308"
+    ], 
+    "death": "257", 
+    "title": "5 years for Sanjay Dutt, it's death for Yakub Memon", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "MUMBAI'S UNDERWORLD"
+    ], 
+    "content": "India 's top court upheld the death penalty on Thursday for a mastermind of a series of bombings which killed 257 people in Mumbai in 1993 , the deadliest set of attacks in the country 's history . Yakub Memon , brother of the alleged main plotter and fugitive Tiger Memon , was the only one of 11 convicts to see his death sentence upheld by the Supreme Court for his role in the blasts which wounded more than 800 people . The judges also handed down a five-year term for the prominent Bollywood actor Sanjay Dutt for possessing illegal weapons bought from gangsters accused of orchestrating the bombings . Announcing the sentences , Supreme Court judge P. Sathashivam said the Memon brothers and another suspect , Dawood Ibrahim , who is said to be living in Pakistan , `` were archers and rest of the appellants were arrows in their hands '' . `` They were the architects of the blasts , '' Sathashivam , one of two judges presiding over the case , said . The remaining convicts who had appealed against the death penalty saw their sentences commuted to life imprisonment . The attacks on March 12 , 1993 , were believed to have been staged by Mumbai 's Muslim-dominated underworld in retaliation for anti-Muslim violence that left more than 1,000 dead in the city a few months earlier . Yakub , an accountant by profession , his brothers Essa and Yusuf and sister-in-law Rubina were all convicted for their involvement in the serial blasts at 13 different locations . The Bombay Stock Exchange , the offices of the national carrier Air India and the luxury Sea Rock hotel were among the targets . Tiger Memon and Dawood Ibrahim , the other alleged masterminds of the attacks , have been on the run since 1993 . Indian investigators say they were helped by Pakistan 's intelligence service , a charge denied by Islamabad . Memon brothers and Dawood Ibrahim were the architects of the blasts `` Remaining convicts who had appealed against death penalty saw their sentences commuted to life imprisonment Memon brothers and Dawood Ibrahim were the architects of the blasts '' Remaining convicts who had appealed against death penalty saw their sentences commuted to life imprisonment OPEN", 
+    "injured": "800", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Bombay", 
+        "The Bombay Stock Exchange, the offices of Air India, and Sea Rock hotel in Bombay"
+    ], 
+    "O": [
+        "death penalty:7", 
+        "mastermind:13", 
+        "series of bombings:16", 
+        "deadliest:29", 
+        "attacks:32", 
+        "country 's history:35", 
+        "plotter and fugitive:47", 
+        "11 convicts:58", 
+        "death sentence:63", 
+        "blasts:75", 
+        "judges:84", 
+        "five-year term:89", 
+        "bollywood actor:94", 
+        "illegal weapons:100", 
+        "gangsters:104", 
+        "bombings:109", 
+        "sentences:113", 
+        "suspect:126", 
+        "archers:142", 
+        "architects:159", 
+        "blasts:162", 
+        "death penalty:186", 
+        "sentences:190", 
+        "life imprisonment:193", 
+        "attacks:197", 
+        "staged:209", 
+        "muslim-dominated underworld:213", 
+        "retaliation:216", 
+        "anti-muslim violence:218", 
+        "serial blasts:257", 
+        "Rock hotel:281", 
+        "targets:286", 
+        "masterminds:297", 
+        "attacks:300", 
+        "indian investigators:310", 
+        "pakistan 's intelligence service:317", 
+        "architects:335", 
+        "blasts:338", 
+        "death penalty:346", 
+        "sentences:350", 
+        "life imprisonment:353", 
+        "architects:362", 
+        "blasts:365", 
+        "death penalty:373", 
+        "life imprisonment:380"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/5-years-for-sanjay-dutt-its-death-for-yakub-memon/article4535854.ece", 
+    "date": "12-03-1993", 
+    "target": "TOWN", 
+    "hot_spot": "The Bombay Stock Exchange, the offices of Air India, and Sea Rock hotel in Bombay", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Supreme Court", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "Supreme Court", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "Bombay Stock Exchange", 
+            "265", 
+            "Victim"
+        ], 
+        [
+            "Air India", 
+            "275", 
+            "Victim"
+        ], 
+        [
+            "Sea Rock", 
+            "280", 
+            "Victim"
+        ]
+    ]
+}

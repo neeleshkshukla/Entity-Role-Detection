@@ -1,0 +1,121 @@
+{
+    "LOC": [
+        [
+            "Damaturu", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Yobe", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "Damaturu", 
+            "54", 
+            "Event"
+        ], 
+        [
+            "Damaturu", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Damaturu", 
+            "105", 
+            "Event"
+        ], 
+        [
+            "Damaturu", 
+            "168", 
+            "Event"
+        ], 
+        [
+            "Maiduguri", 
+            "179", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Suleimon Lawal", 
+            "42", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:28", 
+        "Friday:87", 
+        "Saturday:109", 
+        "Friday:186"
+    ], 
+    "death": "63", 
+    "title": "63 killed in Nigeria attacks", 
+    "det_loc": [
+        "Nigeria", 
+        "", 
+        "", 
+        "Damataru", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Bomb and gun attacks targeting police stations and churches in the northeastern Nigerian city of Damaturu left 63 people dead , said a Red Cross official on Saturday . One of the police buildings was hit by a suicide bomber , Suleimon Lawal , police chief for Yobe state , whose capital is Damaturu , told AFP . A local government official said hundreds were also injured when the attackers bombed a city police headquarters , three other police stations and six churches in Damaturu late Friday , after similar raids in another city blamed on an Islamist sect . A lawyer who visited Damaturu 's government hospital Saturday looking for a missing friend said he counted 60 bodies in the morgue , all brought in yesterday from the attacks . The lawyer , who asked not to be named , told AFP he found the friend , a policeman , among the corpses . No group has claimed responsibility for the attacks , but residents of Damaturu blame the Islamist sect Boko Haram , based in nearby Maiduguri , where a suicide blast earlier Friday damaged a military headquarters . An official told AFP that the hospital was full to the brim with wounded . AFP OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "Bomb and gun:1", 
+        "police stations and churches:6", 
+        "Nigerian city:13", 
+        "Red Cross official:24", 
+        "police buildings:33", 
+        "suicide bomber:39", 
+        "injured:67", 
+        "bombed:71", 
+        "police headquarters:74", 
+        "government hospital:107", 
+        "morgue:122", 
+        "responsibility:160", 
+        "Islamist sect:171", 
+        "suicide blast:183", 
+        "military headquarters:189"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/63-killed-in-nigeria-attacks/article2602641.ece", 
+    "date": "06-11-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "Boko Haram", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "AFP", 
+            "195", 
+            "Others"
+        ]
+    ]
+}

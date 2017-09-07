@@ -1,0 +1,109 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar terror strike", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "117", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mecca Masjid blast", 
+            "117", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mecca", 
+            "117", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mecca Masjid blast", 
+            "117", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Masjid blast", 
+            "118", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 21:18", 
+        "2007:121"
+    ], 
+    "death": "18", 
+    "title": "2 months later, no names yet", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "Rangareddy", 
+        "Hyderabad", 
+        "Dilsukhnagar"
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "Its been more than two months since the terror operatives struck at the bustling Dilsukhnagar ( on February 21 ) snuffing out 18 lives and injuring over 100 others . But the investigators are yet to conclusively say who is responsible for the attack though they concede in private conversations that all leads point out to the outlawed terrorist outfit Indian Mujahideen . It is the faux pas made by police in terror attack cases in different parts of the country that is holding back them from officially announcing the organisation behind the Dilsukhnagar terror strike . The goof-up of arresting several youngsters from the Old City accusing them of conspiring for terror attacks after the Mecca Masjid blast in 2007 had made them too cautious even to speak about the suspects in the open . We dont want to make any official announcement unless we nab persons directly involved in the attack or those associated with the twin blasts , says an investigator . From bomb signature to video footage , there are many leads that are driving the investigators to believe that it is the handiwork of IM module . Since the terror outfits are taking the help of organisations operating from abroad , even gathering information about them is becoming a challenging task , a senior police official admits . OPEN", 
+    "injured": "100", 
+    "org_unorg": "Organized", 
+    "O": [
+        "terror:9", 
+        "attack:44", 
+        "terrorist outfit:59", 
+        "pas:68", 
+        "terror attack:73", 
+        "organisation:91", 
+        "terror strike:95", 
+        "goof-up:99", 
+        "old city:106", 
+        "terror:113", 
+        "official announcement:143", 
+        "nab:147", 
+        "attack:153", 
+        "investigator:164", 
+        "bomb signature:167", 
+        "video footage:170", 
+        "handiwork:188", 
+        "im module:190", 
+        "terror outfits:195", 
+        "help:200", 
+        "gathering information:208"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/2-months-later-no-names-yet/article4645839.ece", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "61", 
+            "Accused"
+        ]
+    ]
+}

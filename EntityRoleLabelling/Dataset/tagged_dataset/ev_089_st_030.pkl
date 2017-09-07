@@ -1,0 +1,461 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Andhra Pradesh'
+p4
+aS'13'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Andhra Pradesh'
+p8
+aS'137'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Hyderabad'
+p12
+aS'207'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Hyderabad and Cyberabad'
+p16
+aS'207'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Cyberabad'
+p20
+aS'209'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Dilsukhnagar'
+p24
+aS'240'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Hyderabad'
+p28
+aS'278'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Mecca Masjid'
+p32
+aS'317'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Mecca Masjid and Dilsukhnagar'
+p36
+aS'317'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'Dilsukhnagar'
+p40
+aS'320'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Cyberabad'
+p44
+aS'342'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Cyberabad and Hyderabad'
+p48
+aS'342'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Hyderabad'
+p52
+aS'344'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Chanchalguda'
+p56
+aS'457'
+p57
+aS'Accused Location'
+p58
+aa(lp59
+S'Chanchalguda jail'
+p60
+aS'457'
+p61
+aS'Accused Location'
+p62
+aa(lp63
+S'Mumbai'
+p64
+aS'477'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Pakistan'
+p68
+aS'491'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Hyderabad'
+p72
+aS'494'
+p73
+aS'Event'
+p74
+aa(lp75
+S'India'
+p76
+aS'506'
+p77
+aS'Neutral'
+p78
+aa(lp79
+S'Hyderabad'
+p80
+aS'523'
+p81
+aS'Neutral'
+p82
+aa(lp83
+S'India'
+p84
+aS'538'
+p85
+aS'Neutral'
+p86
+aa(lp87
+S'Pakistan'
+p88
+aS'566'
+p89
+aS'Neutral'
+p90
+aa(lp91
+S'India'
+p92
+aS'601'
+p93
+aS'Neutral'
+p94
+aasS'PER'
+p95
+(lp96
+(lp97
+S'P Sabita Indra Reddy'
+p98
+aS'70'
+p99
+aS'Comment'
+p100
+aa(lp101
+S'N Kiran Kumar Reddy'
+p102
+aS'84'
+p103
+aS'Others'
+p104
+aa(lp105
+S'Reddy'
+p106
+aS'131'
+p107
+aS'Comment'
+p108
+aa(lp109
+S'S C Sinha'
+p110
+aS'166'
+p111
+aS'Others'
+p112
+aa(lp113
+S'Abdul Wasey Mirza'
+p114
+aS'218'
+p115
+aS'Victim'
+p116
+aa(lp117
+S'Anurag Sharma'
+p118
+aS'281'
+p119
+aS'Comment'
+p120
+aa(lp121
+S'Sharma'
+p122
+aS'291'
+p123
+aS'Comment'
+p124
+aa(lp125
+S'Mirza'
+p126
+aS'299'
+p127
+aS'Assoc Accused'
+p128
+aa(lp129
+S'leader L K Advani'
+p130
+aS'485'
+p131
+aS'Comment'
+p132
+aa(lp133
+S'Atal Behari Vajpayee'
+p134
+aS'580'
+p135
+aS'Others'
+p136
+aa(lp137
+S'Pervez Musharraf'
+p138
+aS'585'
+p139
+aS'Others'
+p140
+aasS'TIM'
+p141
+(lp142
+sS'hot_setting'
+p143
+S''
+p144
+sS'DAT'
+p145
+(lp146
+S'Saturday:17'
+p147
+aS'Thursday:89'
+p148
+aS'Thursday:237'
+p149
+aS'2007 : 316'
+p150
+asS'death'
+p151
+S'16'
+p152
+sS'title'
+p153
+S'15 special teams constituted to crack Hyderabad blasts case, Andhra govt hopeful'
+p154
+sS'org_unorg'
+p155
+S'ORGANISED'
+p156
+sS'terror_group'
+p157
+(lp158
+S'INDIAN MUJAHIDEEN'
+p159
+asS'content'
+p160
+VHYDERABAD/MUMBAI : Two days after twin blasts rocked the city , the Andhra Pradesh government on Saturday claimed to have got ` vital clues ' to crack the case soon with the needle of suspicion zeroing in on banned terror outfit Indian Mujahideen . ` We have already gathered vital clues in the case . We are confident we will crack the case soon , ' state home minister P Sabita Indra Reddy said after a high-level review meeting chaired by chief minister N Kiran Kumar Reddy . Thursday 's serial blasts left 16 dead and over 117 injured . The modus operandi adopted by the perpetrators like ammonium nitrate and splinters-laden aluminium containers fitted to bicycles used in the blasts pointed the needle of suspicion towards Indian Mujahideen . Reddy said 15 special teams of Andhra Pradesh police , each having 10-15 personnel , have been constituted to probe the case and bring the culprits to justice . Director General of National Investigation Agency S C Sinha discussed with state police officials the ongoing investigation . Amid reports that some CCTV cameras at the blast sites were not functioning , the state home minister said 3500 closed-circuit cameras would be installed at vital locations under Hyderabad and Cyberabad police commissionerates to improve vigil . Meanwhile , Abdul Wasey Mirza , a 23-year-old unemployed youth who fell victim to terror attack for a second time on Thursday in the Dilsukhnagar blasts , has been questioned by police which clarified he is not being treated as a suspect . ` As part of the investigations we only recorded his statement as a witness along with others , ' Hyderabad Police Commissioner Anurag Sharma said . ` Nothing like that , ' Sharma said when asked whether the police suspected Mirza 's involvement in the attack after a media report suggested the fact that he survived both 2007 Mecca Masjid and Dilsukhnagar blasts had aroused suspicion about his possible role in the explosions . Looking for clues to track down the perpetrators , Cyberabad and Hyderabad police have questioned some local youths but made it clear that nobody has been detained so far . ` Media reports that we have detained some persons are totally baseless . We only called some people for questioning , which is a normal investigating procedure , ' a top police official said . Investigators said they were following some leads from CCTV footages , including of a man seen coming to the blast site on a bicycle with a bag . Mobile call records from the area at the time of the explosions were also being examined . Sleuths of the National Investigation Agency have obtained details about persons lodged in the Chanchalguda jail here with suspected terror links and some of them were also questioned , informed sources said . In Mumbai on a private visit , senior BJP leader L K Advani squarely blamed Pakistan for the Hyderabad blasts accusing it of launching a ` proxy war ' against India . ` There is no doubt that there is the hand of the neighbouring country in Hyderabad blasts . The neighbouring country has not been successful in waging a war against India in the last few decades , so it has resorted to a proxy war , ' he told reporters . The BJP parliamentary party leader demanded that Pakistan abide by its commitment made during the meeting between the then Prime Minister Atal Behari Vajpayee and President Pervez Musharraf that it would not allow its soil to be used for terror acts against India .
+p161
+sS'injured'
+p162
+S'117'
+p163
+sS'det_loc'
+p164
+(lp165
+S'India'
+p166
+aS'Andhra Pradesh'
+p167
+ag144
+aS'hyderabad'
+p168
+ag144
+asS'O'
+p169
+(lp170
+S'hyderabad/mumbai:1'
+p171
+aS'government:15'
+p172
+aS'suspicion:35'
+p173
+aS'terror outfit:40'
+p174
+aS'state home minister p:67'
+p175
+aS'review meeting:78'
+p176
+aS'serial:91'
+p177
+aS'modus operandi:102'
+p178
+aS'aluminium:113'
+p179
+aS'suspicion:126'
+p180
+aS'police:139'
+p181
+aS'justice:158'
+p182
+aS'director general of national investigation agency:160'
+p183
+aS'director general:160'
+p184
+aS'state police:171'
+p185
+aS'cctv cameras:182'
+p186
+aS'blast:186'
+p187
+aS'state home minister:193'
+p188
+aS'vigil:214'
+p189
+aS'youth:225'
+p190
+aS'victim:228'
+p191
+aS'terror attack:230'
+p192
+aS'suspect:257'
+p193
+aS'witness:272'
+p194
+aS'police:297'
+p195
+aS'attack:304'
+p196
+aS'suspicion:324'
+p197
+aS'media:364'
+p198
+aS'police official:394'
+p199
+aS'blast site:417'
+p200
+aS'bicycle:421'
+p201
+aS'bag:424'
+p202
+aS'mobile call records:426'
+p203
+aS'jail:458'
+p204
+aS'terror:462'
+p205
+aS'war:552'
+p206
+aS'party leader:562'
+p207
+aS'commitment:570'
+p208
+asS'unexpl'
+p209
+(lp210
+g144
+asS'ocassion'
+p211
+g144
+sS'link'
+p212
+S'http://timesofindia.indiatimes.com/india/15-special-teams-constituted-to-crack-Hyderabad-blasts-case-Andhra-govt-hopeful/articleshow/18644106.cms?referral=PM'
+p213
+sS'date'
+p214
+S'21-02-2013'
+p215
+sS'target'
+p216
+S'ROAD SIDE'
+p217
+sS'hot_spot'
+p218
+g144
+sS'delivery_mod'
+p219
+S'BYCICLE'
+p220
+sS'delivery_met'
+p221
+S'PLANTED'
+p222
+sS'expl'
+p223
+(lp224
+S'AMMONIUM NITRATE'
+p225
+asS'ORG'
+p226
+(lp227
+(lp228
+S'Indian Mujahideen'
+p229
+aS'42'
+p230
+aS'Accused'
+p231
+aa(lp232
+S'Indian Mujahideen'
+p233
+aS'128'
+p234
+aS'Accused'
+p235
+aS'Others'
+p236
+aa(lp237
+S'National Investigation Agency'
+p238
+aS'163'
+p239
+aS'Others'
+p240
+aa(lp241
+S'National Investigation Agency'
+p242
+aS'446'
+p243
+aS'Others'
+p244
+aa(lp245
+S'BJP'
+p246
+aS'484'
+p247
+aS'Others'
+p248
+aa(lp249
+S'BJP'
+p250
+aS'560'
+p251
+aS'Others'
+p252
+aas.

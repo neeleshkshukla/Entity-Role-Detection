@@ -1,0 +1,75 @@
+{
+    "LOC": [
+        [
+            "Theni-Cumbum Main Road", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Allinagaram", 
+            "35", 
+            "Victim Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sivakumar", 
+            "30", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday night:25"
+    ], 
+    "death": "0", 
+    "title": "One person injured as bomb goes off", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": ": One person was injured when a bomb planted near the steps of a TASMAC shop on Theni-Cumbum Main Road went off here on Saturday night . The injured Sivakumar ( 33 ) of Allinagaram was admitted to Theni Government Medical College Hospital . Many persons near the shop reportedly received minor injuries . But no one informed about the injuries so far . The blast spot was littered with damaged wires and battery parts and pieces of ropes . With no smell from explosives , the police suspected that the bomb could be operated with electronically operated device . The bomb squad members collected samples from the blast site . OPEN", 
+    "injured": "1", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Theni", 
+        "Allinagaram", 
+        ""
+    ], 
+    "O": [
+        "person:3", 
+        "bomb:8", 
+        "tasmac shop:15", 
+        "night:26", 
+        "shop:49", 
+        "blast spot:66", 
+        "battery:74", 
+        "smell:83", 
+        "bomb:92", 
+        "device:99", 
+        "bomb squad:102", 
+        "blast site:109"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/one-person-injured-as-bomb-goes-off/article3950722.ece", 
+    "date": "29-09-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Theni Government Medical College Hospital", 
+            "39", 
+            "Others"
+        ]
+    ]
+}

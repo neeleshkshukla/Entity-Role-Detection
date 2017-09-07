@@ -1,0 +1,309 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'AP'
+p4
+aS'2'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Mecca Masjid'
+p8
+aS'26'
+p9
+aS'Event'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Devender Gupta'
+p14
+aS'18'
+p15
+aS'Accused'
+p16
+aa(lp17
+S'Lokender Gupta'
+p18
+aS'21'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Sharma'
+p22
+aS'120'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Gupta'
+p26
+aS'122'
+p27
+aS'Others'
+p28
+aa(lp29
+S'Swamy Aseemanand'
+p30
+aS'147'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Bharat Mohanlal Rateshwar'
+p34
+aS'150'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Bharat Bhai'
+p38
+aS'154'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Tejaram'
+p42
+aS'157'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Rajender Choudhary'
+p46
+aS'159'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Samundar'
+p50
+aS'162'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Sandeep V. Dange'
+p54
+aS'175'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Ramchandra Kalsangra'
+p58
+aS'179'
+p59
+aS'Accused'
+p60
+aasS'TIM'
+p61
+(lp62
+S'five months : 42'
+p63
+asS'hot_setting'
+p64
+S''
+p65
+sS'DAT'
+p66
+(lp67
+S'Thursday : 6'
+p68
+aS'2007 : 32'
+p69
+aS'Friday : 106'
+p70
+aS'May 18 , 2007 : 109'
+p71
+asS'death'
+p72
+S'9'
+p73
+sS'title'
+p74
+S'HC cancels bail of Mecca Masjid blast accused'
+p75
+sS'org_unorg'
+p76
+g65
+sS'terror_group'
+p77
+(lp78
+g65
+asS'content'
+p79
+S'The AP High Court on Thursday cancelled the bail granted by a sessions court to two accused Devender Gupta and Lokender Gupta -- in the Mecca Masjid bomb blasts case of 2007 . The lower court had granted bail to them five months ago . This grant of bail was challenged by the National Investigation Agency ( NIA ) in the High Court . The High Court verdict has come as a relief to the NIA , which opposed the bail on the ground that it could hamper the investigations . Nine people were killed and over 60 injured in the powerful bomb blast during Friday prayers on May 18 , 2007 , at the 17th Century mosque . Sharma and Gupta , former members of the Rashtriya Swayamsevak Sangh ( RSS ) , are among six accused arrested by the NIA in the case . Swamy Aseemanand , Bharat Mohanlal Rateshwar alias Bharat Bhai , Tejaram and Rajender Choudhary alias Samundar are the other accused in the judicial custody . Two others -- Sandeep V. Dange and Ramchandra Kalsangra -- are untraceable and on the run . OPEN'
+p80
+sS'injured'
+p81
+S'60'
+p82
+sS'det_loc'
+p83
+(lp84
+S'India'
+p85
+aS'Andhra Pradesh'
+p86
+ag65
+aS'Hydrabad'
+p87
+aS'Mecca masjid'
+p88
+asS'O'
+p89
+(lp90
+S'cancelled:7'
+p91
+aS'bail granted:9'
+p92
+aS'sessions court:13'
+p93
+aS'two accused:16'
+p94
+aS'Mecca Masjid bomb blasts:26'
+p95
+aS'lower court:35'
+p96
+aS'granted bail:38'
+p97
+aS'bail:49'
+p98
+aS'challenged:51'
+p99
+aS'verdict:68'
+p100
+aS'relief:73'
+p101
+aS'opposed:79'
+p102
+aS'bail:81'
+p103
+aS'hamper:88'
+p104
+aS'investigations:90'
+p105
+aS'killed:95'
+p106
+aS'injured:99'
+p107
+aS'powerful bomb blast:102'
+p108
+aS'17th Century mosque:116'
+p109
+aS'six accused arrested:137'
+p110
+aS'judicial custody:169'
+p111
+aS'untraceable:183'
+p112
+aS'run:187'
+p113
+asS'unexpl'
+p114
+(lp115
+g65
+asS'ocassion'
+p116
+g65
+sS'link'
+p117
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/hc-cancels-bail-of-mecca-masjid-blast-accused/article4632483.ece'
+p118
+sS'date'
+p119
+S'18-05-2007'
+p120
+sS'target'
+p121
+S'MOSQUE'
+p122
+sS'hot_spot'
+p123
+g65
+sS'delivery_mod'
+p124
+g65
+sS'delivery_met'
+p125
+S'PLANTED'
+p126
+sS'expl'
+p127
+(lp128
+g65
+asS'ORG'
+p129
+(lp130
+(lp131
+S'High Court'
+p132
+aS'3'
+p133
+aS'Others'
+p134
+aa(lp135
+S'National Investigation Agency'
+p136
+aS'54'
+p137
+aS'Others'
+p138
+aa(lp139
+S'NIA'
+p140
+aS'58'
+p141
+aS'Others'
+p142
+aa(lp143
+S'High Court'
+p144
+aS'62'
+p145
+aS'Others'
+p146
+aa(lp147
+S'High Court'
+p148
+aS'66'
+p149
+aS'Others'
+p150
+aa(lp151
+S'NIA'
+p152
+aS'76'
+p153
+aS'Others'
+p154
+aa(lp155
+S'Rashtriya Swayamsevak Sangh'
+p156
+aS'128'
+p157
+aS'Others'
+p158
+aa(lp159
+S'RSS'
+p160
+aS'132'
+p161
+aS'Others'
+p162
+aa(lp163
+S'NIA'
+p164
+aS'142'
+p165
+aS'Others'
+p166
+aas.

@@ -1,0 +1,560 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'PUNE/MUMBAI'
+p4
+aS'24'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'German Bakery'
+p8
+aS'36'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Pune'
+p12
+aS'39'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Maharashtra'
+p16
+aS'45'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Nagpur'
+p20
+aS'54'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Aurangabad'
+p24
+aS'56'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Nashik'
+p28
+aS'58'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Mumbai'
+p32
+aS'61'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Pune'
+p36
+aS'82'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Mumbai'
+p40
+aS'153'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'German Bakery'
+p44
+aS'164'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Pune'
+p48
+aS'293'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Kolkata'
+p52
+aS'337'
+p53
+aS'Victim Location'
+p54
+aa(lp55
+S'Bangalore'
+p56
+aS'353'
+p57
+aS'Victim Location'
+p58
+aa(lp59
+S'Mumbai'
+p60
+aS'361'
+p61
+aS'Victim Location'
+p62
+aa(lp63
+S'Kolkata'
+p64
+aS'369'
+p65
+aS'Victim Location'
+p66
+aa(lp67
+S'Velha taluka'
+p68
+aS'377'
+p69
+aS'Event'
+p70
+aa(lp71
+S'Pune'
+p72
+aS'380'
+p73
+aS'Event'
+p74
+aa(lp75
+S'German Bakery'
+p76
+aS'394'
+p77
+aS'Event'
+p78
+aa(lp79
+S'Iran'
+p80
+aS'425'
+p81
+aS'Victim Location'
+p82
+aa(lp83
+S'Sudan'
+p84
+aS'430'
+p85
+aS'Victim Location'
+p86
+aa(lp87
+S'Nepal'
+p88
+aS'432'
+p89
+aS'Victim Location'
+p90
+aa(lp91
+S'Yemen'
+p92
+aS'438'
+p93
+aS'Victim Location'
+p94
+aa(lp95
+S'Taiwan'
+p96
+aS'440'
+p97
+aS'Victim Location'
+p98
+aa(lp99
+S'Germany'
+p100
+aS'442'
+p101
+aS'Victim Location'
+p102
+aasS'PER'
+p103
+(lp104
+(lp105
+S'Siddhesh Inamdar'
+p106
+aS'1'
+p107
+aS'Others'
+p108
+aa(lp109
+S'Rahi Gaikwad'
+p110
+aS'4'
+p111
+aS'Others'
+p112
+aa(lp113
+S'Satyapal Singh'
+p114
+aS'86'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Rashmi Shukla'
+p118
+aS'147'
+p119
+aS'Comment'
+p120
+aa(lp121
+S'Shukla'
+p122
+aS'245'
+p123
+aS'Comment'
+p124
+aa(lp125
+S'Saied Abdulkhani'
+p126
+aS'264'
+p127
+aS'Victim'
+p128
+aa(lp129
+S'Nadia Macerini'
+p130
+aS'274'
+p131
+aS'Victim'
+p132
+aa(lp133
+S'Abdulkhani'
+p134
+aS'284'
+p135
+aS'Others'
+p136
+aa(lp137
+S'Macerini'
+p138
+aS'296'
+p139
+aS'Others'
+p140
+aa(lp141
+S'Ankik Dhar'
+p142
+aS'331'
+p143
+aS'Victim'
+p144
+aa(lp145
+S'Anandi Dhar'
+p146
+aS'341'
+p147
+aS'Victim'
+p148
+aa(lp149
+S'P. Sindhuri'
+p150
+aS'347'
+p151
+aS'Victim'
+p152
+aa(lp153
+S'Vinita Gadani'
+p154
+aS'355'
+p155
+aS'Victim'
+p156
+aa(lp157
+S'Shilpa Goenka'
+p158
+aS'363'
+p159
+aS'Others'
+p160
+aa(lp161
+S'Shankar Pansare'
+p162
+aS'371'
+p163
+aS'Others'
+p164
+aa(lp165
+S'Gokul Nepali'
+p166
+aS'384'
+p167
+aS'Others'
+p168
+aa(lp169
+S'P. Chidambaram'
+p170
+aS'481'
+p171
+aS'Others'
+p172
+aasS'TIM'
+p173
+(lp174
+sS'hot_setting'
+p175
+S''
+p176
+sS'DAT'
+p177
+(lp178
+S'Saturdays : 32'
+p179
+aS'Sunday:48'
+p180
+aS'Sunday:91'
+p181
+aS'Sunday:155'
+p182
+asS'death'
+p183
+S'9'
+p184
+sS'title'
+p185
+S'No breakthrough in Pune blast probe'
+p186
+sS'org_unorg'
+p187
+g176
+sS'terror_group'
+p188
+(lp189
+S'INDIAN MUJAHIDEEN'
+p190
+asS'content'
+p191
+VSiddhesh Inamdar and Rahi Gaikwad . . CCTV footage from hotel opposite German Bakery obtained ; 2 foreigners among 9 dead . . PUNE/MUMBAI : Even as a breakthrough in the Saturdays blast at the German Bakery in Pune eluded the police , the Maharashtra government on Sunday reviewed the security arrangements in Nagpur , Aurangabad and Nashik , besides Mumbai . It also ordered the tightening of security for American and Israeli establishments across the State . . . In Pune , Police Commissioner Satyapal Singh told reporters on Sunday : No one has yet been detained . I also can not say about any involvement of the Indian Mujahideen at this point . It was too premature to comment if there was a pattern with the other blasts in the country , he said . . . Special Inspector-General , Law and Order , Rashmi Shukla , told journalists in Mumbai on Sunday : There was no CCTV camera in the German Bakery . However , O Hotel , located opposite , had CCTVs , which covered the frontal area of the bakery . The ATS -LSB- Anti-Terrorism Squad -RSB- has that footage . . . An unclaimed bag was found under the table . A waiter was asked to remove the bag . Before he could remove it , the explosion took place . The blast left a hole of six feet by four feet in the bakery wall , Ms. Shukla said . . . Of the nine people killed in the blast , two were identified as foreigners Saied Abdulkhani -LRB- 26 -RRB- , an Iranian ; and Nadia Macerini -LRB- 37 -RRB- , an Italian . While Abdulkhani was a student of the Ferguson College in Pune , Ms. Macerini was visiting the Osho International Meditation Centre , about 200 yards from the German Bakery . . . The rest of the casualties were students and employed youths . They were identified as : Ankik Dhar -LRB- 24 -RRB- from Kolkata ; his sister Anandi Dhar -LRB- 19 -RRB- ; P. Sindhuri -LRB- 22 -RRB- from Bangalore ; Vinita Gadani -LRB- 22 -RRB- from Mumbai ; Shilpa Goenka -LRB- 23 -RRB- from Kolkata ; Shankar Pansare -LRB- 40 -RRB- from Velha taluka in Pune district ; and Gokul Nepali -LRB- 30 -RRB- , a waiter at the German Bakery . . . Of the 60 injured -LRB- 46 men and 14 women -RRB- , 19 were discharged from hospitals . The injured include 12 foreigners : five from Iran , two each from Sudan and Nepal , and one each from Yemen , Taiwan and Germany . . . A day after the blast , the Bakery , one of the citys popular tourist landmarks , stood deserted . The road leading up to it was cordoned off . . . Union Home Minister P. Chidambaram visited the blast site during the day . He refuted suggestions that the government had not taken intelligence inputs seriously . . . He said : There is no intelligence failure . The State government had taken the advice seriously and the police put in place security measures in the hard targets .
+p192
+sS'injured'
+p193
+S'60'
+p194
+sS'det_loc'
+p195
+(lp196
+S'India'
+p197
+aS'Maharashtra'
+p198
+aS'Pune'
+p199
+aS'Mumbai'
+p200
+ag176
+asS'O'
+p201
+(lp202
+S'cctv footage:8'
+p203
+aS'hotel:11'
+p204
+aS'german bakery:13'
+p205
+aS'2 foreigners:17'
+p206
+aS'blast:33'
+p207
+aS'security arrangements:51'
+p208
+aS'tightening:67'
+p209
+aS'security:69'
+p210
+aS'american:71'
+p211
+aS'israeli:73'
+p212
+aS'state:77'
+p213
+aS'blasts:130'
+p214
+aS'country:133'
+p215
+aS'law and order:143'
+p216
+aS'journalists:151'
+p217
+aS'cctv camera:160'
+p218
+aS'o hotel:169'
+p219
+aS'cctvs:176'
+p220
+aS'bakery:185'
+p221
+aS'footage:195'
+p222
+aS'unclaimed bag:200'
+p223
+aS'table:206'
+p224
+aS'waiter:209'
+p225
+aS'bag:215'
+p226
+aS'explosion:224'
+p227
+aS'blast:229'
+p228
+aS'nine people killed:252'
+p229
+aS'blast:257'
+p230
+aS'foreigners:263'
+p231
+aS'iranian:271'
+p232
+aS'italian:281'
+p233
+aS'200 yards:306'
+p234
+aS'german bakery:310'
+p235
+aS'casualties:319'
+p236
+aS'students:321'
+p237
+aS'employed youths:323'
+p238
+aS'waiter:391'
+p239
+aS'injured:402'
+p240
+aS'46 men:404'
+p241
+aS'14 women:407'
+p242
+aS'discharged:413'
+p243
+aS'hospitals:415'
+p244
+aS'injured:418'
+p245
+aS'12 foreigners:420'
+p246
+aS'blast:450'
+p247
+aS'bakery:453'
+p248
+aS'tourist landmarks:460'
+p249
+aS'stood deserted:463'
+p250
+aS'blast site:485'
+p251
+aS'refuted:492'
+p252
+aS'suggestions:493'
+p253
+aS'government:496'
+p254
+aS'intelligence:500'
+p255
+aS'inputs seriously:501'
+p256
+aS'intelligence failure:512'
+p257
+aS'advice seriously:521'
+p258
+aS'security measures:529'
+p259
+aS'hard targets:533'
+p260
+asS'unexpl'
+p261
+(lp262
+g176
+asS'ocassion'
+p263
+g176
+sS'link'
+p264
+S'http://www.thehindu.com/todays-paper/article710633.ece'
+p265
+sS'date'
+p266
+S'13-02-2010'
+p267
+sS'target'
+p268
+S'BAKERY'
+p269
+sS'hot_spot'
+p270
+g176
+sS'delivery_mod'
+p271
+g176
+sS'delivery_met'
+p272
+S'PLANTED'
+p273
+sS'expl'
+p274
+(lp275
+g176
+asS'ORG'
+p276
+(lp277
+(lp278
+S'Maharashtra government'
+p279
+aS'45'
+p280
+aS'Others'
+p281
+aa(lp282
+S'Indian Mujahideen'
+p283
+aS'110'
+p284
+aS'Accused'
+p285
+aa(lp286
+S'ATS'
+p287
+aS'188'
+p288
+aS'Others'
+p289
+aa(lp290
+S'Anti-Terrorism Squad'
+p291
+aS'190'
+p292
+aS'Others'
+p293
+aa(lp294
+S'Ferguson College'
+p295
+aS'290'
+p296
+aS'Others'
+p297
+aa(lp298
+S'Osho International Meditation Centre'
+p299
+aS'300'
+p300
+aS'Others'
+p301
+aa(lp302
+S'State government'
+p303
+aS'516'
+p304
+aS'Others'
+p305
+aas.

@@ -1,0 +1,247 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Cairo'
+p4
+aS'22'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Cairo'
+p8
+aS'38'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Nasr City'
+p12
+aS'58'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Cairo'
+p16
+aS'145'
+p17
+aS'Event'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Mohammed Ibrahim'
+p22
+aS'4'
+p23
+aS'Victim'
+p24
+aa(lp25
+S'Mohamed Morsy'
+p26
+aS'132'
+p27
+aS'Others'
+p28
+aa(lp29
+S'Morsy'
+p30
+aS'163'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Morsy'
+p34
+aS'167'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Mohamed Morsy'
+p38
+aS'200'
+p39
+aS'Others'
+p40
+aasS'TIM'
+p41
+(lp42
+S'10:30 am:46'
+p43
+aS'0830 GMT : 49'
+p44
+asS'hot_setting'
+p45
+S''
+p46
+sS'DAT'
+p47
+(lp48
+S'Thursday:15'
+p49
+aS'August 14:153'
+p50
+aS'July 3:174'
+p51
+asS'death'
+p52
+g46
+sS'title'
+p53
+S"Egypt's interior minister survives assassination bid"
+p54
+sS'org_unorg'
+p55
+g46
+sS'terror_group'
+p56
+(lp57
+g46
+asS'content'
+p58
+S"Egyptian Interior Minister Mohammed Ibrahim survived an assassination attempt when a car bomb on Thursday ripped through his convoy in a Cairo street , security officials told AFP . The explosion , the first such attack in Cairo in years , took place at around 10:30 am ( 0830 GMT ) near Ibrahim 's home in the Nasr City area , they said , adding the vehicle was parked in the street . `` The minister survived the assassination attempt , '' one security official said . Civilians hurt State news agency MENA quoting an interior ministry source reported that an unknown number of civilians were wounded and some shops damaged in the blast . The bombing comes amid a violent crackdown since last month on supporters of ousted Islamist president Mohamed Morsy by interior ministry police . Hundreds of people were killed in Cairo 's Rabaa al-Adawiya and Nahda squares on August 14 when police stormed protest camps set up by Morsy 's supporters . Morsy was ousted by the military on July 3 following popular street protests against his one year rule.AFP The bombing comes amid a violent crackdown since last month on supporters of ousted president Mohamed Morsy . OPEN"
+p59
+sS'injured'
+p60
+g46
+sS'det_loc'
+p61
+(lp62
+S'Egypt'
+p63
+ag46
+ag46
+aS'Cairo'
+p64
+ag46
+asS'O'
+p65
+(lp66
+S'egyptian interior minister mohammed ibrahim:1'
+p67
+aS'assassination attempt:8'
+p68
+aS'car bomb:12'
+p69
+aS'ripped:16'
+p70
+aS'convoy:19'
+p71
+aS'cairo street:22'
+p72
+aS'security officials:25'
+p73
+aS'explosion:31'
+p74
+aS'attack:36'
+p75
+aS'gmt:50'
+p76
+aS"ibrahim 's home:53"
+p77
+aS'assassination:79'
+p78
+aS'security official:84'
+p79
+aS'civilians hurt state news agency mena:88'
+p80
+aS'interior ministry source:96'
+p81
+aS'unknown number:102'
+p82
+aS'wounded:107'
+p83
+aS'shops damaged:110'
+p84
+aS'bombing:117'
+p85
+aS'amid:119'
+p86
+aS'violent crackdown:121'
+p87
+aS'supporters:127'
+p88
+aS'ousted islamist president mohamed morsy:129'
+p89
+aS'interior ministry police:135'
+p90
+aS"cairo 's rabaa al-adawiya:145"
+p91
+aS'nahda squares:150'
+p92
+aS'stormed protest camps:157'
+p93
+aS'protest:158'
+p94
+aS'set:160'
+p95
+aS"morsy 's supporters:163"
+p96
+aS'military:172'
+p97
+aS'street protests:178'
+p98
+aS'bombing:186'
+p99
+aS'violent crackdown:190'
+p100
+aS'supporters:196'
+p101
+aS'president mohamed morsy:199'
+p102
+asS'unexpl'
+p103
+(lp104
+g46
+asS'ocassion'
+p105
+g46
+sS'link'
+p106
+S'http://www.thehindu.com/todays-paper/tp-in-school/egypts-interior-minister-survives-assassination-bid/article5098044.ece'
+p107
+sS'date'
+p108
+S'05-09-2013'
+p109
+sS'target'
+p110
+g46
+sS'hot_spot'
+p111
+g46
+sS'delivery_mod'
+p112
+S'CAR'
+p113
+sS'delivery_met'
+p114
+S'PLANTED'
+p115
+sS'expl'
+p116
+(lp117
+g46
+asS'ORG'
+p118
+(lp119
+(lp120
+S'AFP'
+p121
+aS'28'
+p122
+aS'Others'
+p123
+aa(lp124
+S'MENA'
+p125
+aS'93'
+p126
+aS'Others'
+p127
+aas.

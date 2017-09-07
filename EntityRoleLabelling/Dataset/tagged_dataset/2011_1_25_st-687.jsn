@@ -1,0 +1,89 @@
+{
+    "LOC": [
+        [
+            "Karbala", 
+            "46", 
+            "Event"
+        ], 
+        [
+            "Karbala", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Baghdad", 
+            "127", 
+            "Event"
+        ], 
+        [
+            "Karbala", 
+            "208", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "7 a.m.:106"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:5", 
+        "Monday:193"
+    ], 
+    "death": "18", 
+    "title": "18 killed in Iraq car bomb blasts", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Baghdad", 
+        "Karbala"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two car bombs on Monday struck Shia pilgrims in an Iraqi holy city , killing at least 18 people as pilgrims massed for religious rituals marking the end of a 40-day mourning period for the Islamic sect 's most beloved saint . The blasts in Karbala were the latest in nearly a week of attacks that have killed at least 159 people . The uptick in violence has shattered a lengthy period of calm and raised anew concerns about the readiness of Iraqi forces to take over their own security ahead of a full withdrawal by the U.S. military . The first attack occurred about 7 a.m. in a parking lot near busloads of pilgrims on the eastern outskirts of Karbala , 90 km south of Baghdad . Police and hospital officials said that six pilgrims were killed and 34 people wounded in that attack . A second bomb was discovered nearby and dismantled , police said . More than four hours later , a second car bomb struck pilgrims on the southern edge , killing at least 12 people , including 10 pilgrims and two soldiers , and wounding 21 . Monday 's attacks followed a triple suicide bombing last week along two highways leading to Karbala that killed 56 and wounded at least 180 most of them Shia pilgrims . AP OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "car bombs:2", 
+        "Shia pilgrims:7", 
+        "Iraqi holy city:11", 
+        "pilgrims:21", 
+        "blasts:44", 
+        "Iraqi forces:83", 
+        "security:90", 
+        "withdrawal:95", 
+        "attack:103", 
+        "parking lot:110", 
+        "pilgrims:115", 
+        "attack:145", 
+        "second bomb:148", 
+        "car bomb:167", 
+        "pilgrims:170", 
+        "pilgrims:184", 
+        "suicide bombing:199", 
+        "highways:205", 
+        "Shia pilgrims:220"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Religious festivals", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/18-killed-in-iraq-car-bomb-blasts/article1122655.ece", 
+    "date": "25-01-2011", 
+    "target": "Religious Places", 
+    "hot_spot": "Iraqi holy city of Shia Pilgrims", 
+    "delivery_mod": "Four wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "U.S. military", 
+            "98", 
+            "Others"
+        ]
+    ]
+}

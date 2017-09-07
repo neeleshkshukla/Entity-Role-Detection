@@ -1,0 +1,149 @@
+{
+    "LOC": [
+        [
+            "Padmanabhpur", 
+            "3", 
+            "Event"
+        ], 
+        [
+            "Berhampur", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Padmanabhpur market", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "Chikiti-Digapahandi road", 
+            "189", 
+            "Neutral"
+        ], 
+        [
+            "Padmanabhpur", 
+            "212", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shefeen Ahmed K.", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "K.Venkat Narayana", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Narayana", 
+            "127", 
+            "Comment"
+        ], 
+        [
+            "Narayana", 
+            "154", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "3 p.m.:192"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:26", 
+        "Sunday:98", 
+        "Monday:139", 
+        "Sunday:163", 
+        "Sunday:183"
+    ], 
+    "death": "", 
+    "title": "Traders' plea to police official", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "Traders of Padmanabhpur village under Digapahandi police station under Berhampur police district met the Berhampur Superintendent of Police ( SP ) Shefeen Ahmed K. on Monday demanding strict action against armed miscreants of their area . These traders united under the Nilakantheswar Banik Sangh ' reached the SP office in the city in the morning . A delegation of traders led by their president K.Venkat Narayana apprised the SP about the alleged deteriorating law and order situation in the area and demanded arrest of miscreants roaming in the area with fire arms and crude bombs . On Sunday a group of miscreants had hurled bombs at a trader of Padmanabhpur market . Three persons were injured by the blast of their bombs . According to Mr Narayana all traders of the locality had closed down their shops on Monday to demand for a permanent solution to the menace of these miscreants . Mr. Narayana said the miscreants who had hurled bombs on Sunday were involved in several criminal activities and were using revolvers to threaten the local traders for extortion . On Sunday these traders had blocked the Chikiti-Digapahandi road till 3 p.m. demanding arrest of culprits behind the bombing and regular extortion of traders of the area . Inhabitants of Padmanabhpur also demanded regular interaction between police and citizens of the area and deployment of armed police personnel in the market area . OPEN", 
+    "injured": "3", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "Ganjam", 
+        "", 
+        "Padmanabhpur village, Berhampur "
+    ], 
+    "O": [
+        "traders:1", 
+        "berhampur superintendent of police:15", 
+        "superintendent:16", 
+        "( sp ) shefeen ahmed k:19", 
+        "armed miscreants:31", 
+        "traders:38", 
+        "sp office:48", 
+        "delegation:58", 
+        "traders:60", 
+        "sp:69", 
+        "deteriorating law and order:73", 
+        "arrest:83", 
+        "miscreants:85", 
+        "fire arms:91", 
+        "crude bombs:94", 
+        "miscreants:102", 
+        "hurled bombs:104", 
+        "injured:116", 
+        "blast:119", 
+        "bombs:122", 
+        "traders:129", 
+        "demand:141", 
+        "permanent solution:144", 
+        "miscreants:151", 
+        "miscreants:157", 
+        "hurled bombs:160", 
+        "criminal:168", 
+        "revolvers:173", 
+        "traders:178", 
+        "extortion:180", 
+        "traders:185", 
+        "arrest:195", 
+        "culprits:197", 
+        "bombing:200", 
+        "extortion:203", 
+        "traders:205", 
+        "interaction:216", 
+        "deployment:225", 
+        "police personnel:228", 
+        "market area:232"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/traders-plea-to-police-official/article2628899.ece", 
+    "date": "15-11-2011", 
+    "target": "Market Place", 
+    "hot_spot": "Padmanabhpur market", 
+    "delivery_mod": "", 
+    "delivery_met": "Thrown", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Digapahandi police station", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Berhampur police district", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Nilakantheswar Banik Sangh", 
+            "42", 
+            "Victim"
+        ]
+    ]
+}

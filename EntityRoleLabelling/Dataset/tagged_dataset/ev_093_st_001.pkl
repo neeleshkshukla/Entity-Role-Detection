@@ -1,0 +1,205 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'GAYA'
+p4
+aS'1'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bodh Gaya'
+p8
+aS'19'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Patna'
+p12
+aS'24'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Patna'
+p16
+aS'78'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Gaya'
+p20
+aS'96'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Buddha'
+p26
+aS'186'
+p27
+aS'Others'
+p28
+aasS'TIM'
+p29
+(lp30
+S'5.30 am : 42'
+p31
+aS'6 am : 45'
+p32
+aS'Forensic experts : 75'
+p33
+asS'hot_setting'
+p34
+S''
+p35
+sS'DAT'
+p36
+(lp37
+S'Sunday : 26'
+p38
+aS'2002 : 143'
+p39
+asS'death'
+p40
+g35
+sS'title'
+p41
+S'5 injured in multiple blasts at Mahabodhi temple in Bodh Gaya'
+p42
+sS'det_loc'
+p43
+(lp44
+S'India'
+p45
+aS'Bihar'
+p46
+aS'Gaya'
+p47
+ag35
+ag35
+asS'terror_group'
+p48
+(lp49
+g35
+asS'content'
+p50
+VGAYA : Five people including two tourists were injured in a serial blast near Mahabodhi temple complex at Bodh Gaya 110 km from Patna on Sunday morning . According to Gaya police , the blasts took place in quick succession between 5.30 am and 6 am in the temple complex and near Mahabodhi tree . Senior police officers , including DIG of Magadh range , have reached the world heritage site Mahabodhi temple . Forensic experts from Patna too have rushed . Two Tibetan pilgrims who have been injured are admitted in AM College at Gaya , police said . CRPF personnel and fire tenders have been rushed to the spot . Mahabodhi temple had been on the hit list of the terrorists and IB had sent an alert last week . The temple was named a Unesco world heritage site in 2002 . It houses the holy bodhi tree as well as the giant Mahabodhi statue of Buddha , and multiple shrines marking the places where he is believed to have spent time after his enlightenment . After his meditations beneath the tree , Buddha is said to have devoted the rest of his life to teaching and he founded an order of monks before dying aged 80 .
+p51
+sS'injured'
+p52
+S'5'
+p53
+sS'org_unorg'
+p54
+g35
+sS'O'
+p55
+(lp56
+S'Five people:3'
+p57
+aS'two tourists:6'
+p58
+aS'serial blast:12'
+p59
+aS'Mahabodhi temple complex:15'
+p60
+aS'110 km:21'
+p61
+aS'morning:27'
+p62
+aS'Gaya police:31'
+p63
+aS'blasts:35'
+p64
+aS'quick succession:39'
+p65
+aS'temple complex:49'
+p66
+aS'near Mahabodhi tree:52'
+p67
+aS'Senior police officers:56'
+p68
+aS'DIG:61'
+p69
+aS'Magadh range:63'
+p70
+aS'Two Tibetan pilgrims:83'
+p71
+aS'fire tenders:104'
+p72
+aS'Mahabodhi temple:113'
+p73
+aS'hit list of the terrorists:119'
+p74
+aS'alert last week:129'
+p75
+aS'Unesco world heritage site:138'
+p76
+aS'holy bodhi tree:148'
+p77
+aS'giant Mahabodhi statue of Buddha:155'
+p78
+asS'unexpl'
+p79
+(lp80
+g35
+asS'ocassion'
+p81
+g35
+sS'link'
+p82
+S'http://timesofindia.indiatimes.com/city/patna/5-injured-in-multiple-blasts-at-Mahabodhi-temple-in-Bodh-Gaya/articleshow/20951736.cms?'
+p83
+sS'date'
+p84
+S'07-07-2013'
+p85
+sS'target'
+p86
+g35
+sS'hot_spot'
+p87
+g35
+sS'delivery_mod'
+p88
+g35
+sS'delivery_met'
+p89
+g35
+sS'expl'
+p90
+(lp91
+g35
+asS'ORG'
+p92
+(lp93
+(lp94
+S'AM College'
+p95
+aS'93'
+p96
+aS'Others'
+p97
+aa(lp98
+S'CRPF'
+p99
+aS'101'
+p100
+aS'Others'
+p101
+aa(lp102
+S'IB'
+p103
+aS'125'
+p104
+aS'Others'
+p105
+aas.

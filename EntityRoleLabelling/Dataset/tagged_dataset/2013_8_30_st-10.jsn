@@ -1,0 +1,321 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Nepal", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "68", 
+            "Accused Location"
+        ], 
+        [
+            "Nepal", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Bhatkal", 
+            "95", 
+            "Accused Location"
+        ], 
+        [
+            "Nepal", 
+            "146", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "219", 
+            "Neutral"
+        ], 
+        [
+            "Indo-Nepal border", 
+            "228", 
+            "Neutral"
+        ], 
+        [
+            "Azamgarh", 
+            "272", 
+            "Accused Location"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "274", 
+            "Accused Location"
+        ], 
+        [
+            "Delhi", 
+            "350", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "366", 
+            "Assoc Event Location"
+        ], 
+        [
+            "German", 
+            "368", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bangalore", 
+            "372", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mumbai", 
+            "379", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ahmedabad", 
+            "388", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Jaipur", 
+            "390", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Varanasi", 
+            "392", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Yasin Bhatkal", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "Yasins", 
+            "65", 
+            "Accused"
+        ], 
+        [
+            "Yasins", 
+            "92", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "176", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "213", 
+            "Accused"
+        ], 
+        [
+            "Asadullah Akhtar", 
+            "267", 
+            "Assoc Accused"
+        ], 
+        [
+            "Yasins", 
+            "298", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "334", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "399", 
+            "Accused"
+        ], 
+        [
+            "Asadullah", 
+            "404", 
+            "Assoc Accused"
+        ]
+    ], 
+    "TIM": [
+        "six months : 75"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 21 : 24", 
+        "September , 2011 : 355", 
+        "2008 : 363", 
+        "July , 2011 : 383"
+    ], 
+    "death": "", 
+    "title": "It took six months to pin him down", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "", 
+        "Dilshuknagar", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "After all possible leads indicated the involvement of the Indian Mujahideen ( IM ) in the Dilsukhnagar ( Hyderabad ) twin blasts on February 21 this year , intelligence agencies stepped up their surveillance to locate Yasin Bhatkal , the co-founder the terror organisation . Soon , Intelligence Bureau ( IB ) sleuths were able to track a call from Nepal to one of Yasins relatives in Karnataka . What followed in the next six months was the monitoring of phone calls from Nepal to various places in India , including Yasins native town Bhatkal , where he reportedly spoke to his relatives and accomplices . The IB relentlessly monitored these calls and got some other crucial leads . We soon managed to locate Yasin , one of the Indias top 10 wanted terrorists , who had taken refuge in a small town deep inside Nepal , a senior Ministry of Home Affairs ( MHA ) official said . As the IB reportedly flew in some Karnataka cops dealing with terror cases , in which Yasin is allegedly involved , to confirm his identity , back channel operations were also started with the Research & Analysis Wing ( RAW ) and the Ministry of External Affairs ( MEA ) to ensure that Yasin is held and brought to India . As he was not living along the Indo-Nepal border , we had to be extra cautious so that he could not slip away again as he has done in the past . Indian intelligence sleuths were then able to apprehend him along with his close associate Asadullah Akhtar who hails from Azamgarh in Uttar Pradesh they both were then brought to the international border , the official said . Though the Indian intelligence agencies are sure about Yasins identity , the National Investigation Agency ( NIA ) that is dealing with most of the terror cases involving the IM mastermind might go in for a DNA test to conclusively establish his identity . Yasin isthe alleged mastermind behind several blasts in the last few years , including those in Delhi ( High Court , September , 2011 and the serial blasts in 2008 ) , Pune ( German Bakery ) , Bangalore ( two blast cases ) , Mumbai triple blast ( July , 2011 ) , Ahmedabad , Jaipur and Varanasi . Sources said that apart from Yasin , the arrest of Asadullah is also of immense importance as he is said to be the IMs key bomb-maker and expert in planting improvised explosive devices ( IEDs ) . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "twin blasts:21", 
+        "intelligence agencies:29", 
+        "surveillance:34", 
+        "co-founder:41", 
+        "terror organisation:43", 
+        "sleuths:53", 
+        "track a call:57", 
+        "monitoring of phone calls:79", 
+        "crucial leads:117", 
+        "managed to locate:122", 
+        "indias top 10 wanted terrorists:130", 
+        "refuge:139", 
+        "karnataka cops:167", 
+        "terror cases:171", 
+        "back channel operations:186", 
+        "extra cautious:235", 
+        "indian intelligence sleuths:253", 
+        "international border:283", 
+        "indian intelligence agencies:292", 
+        "terror cases:315", 
+        "mastermind:320", 
+        "dna test:326", 
+        "alleged mastermind:336", 
+        "blasts:340", 
+        "high court:352", 
+        "serial blasts:360", 
+        "German Bakery:368", 
+        "two blast cases:374", 
+        "mumbai triple blast:379", 
+        "immense importance:408", 
+        "bomb-maker:419", 
+        "improvised explosive devices:424", 
+        "ieds:428"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/it-took-six-months-to-pin-him-down/article5073770.ece", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "48", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "Ministry of Home Affairs", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "155", 
+            "Others"
+        ], 
+        [
+            "IB", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "Research & Analysis Wing", 
+            "194", 
+            "Others"
+        ], 
+        [
+            "RAW", 
+            "199", 
+            "Others"
+        ], 
+        [
+            "Ministry of External Affairs", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "MEA", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "302", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "306", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "319", 
+            "Others"
+        ], 
+        [
+            "IMs", 
+            "417", 
+            "Others"
+        ]
+    ]
+}

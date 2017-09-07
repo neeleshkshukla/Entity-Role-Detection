@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "Mudkhed", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Nanded", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "36", 
+            "Event"
+        ], 
+        [
+            "Nanded", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "Mudkhed", 
+            "195", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shahaji Umap", 
+            "152", 
+            "Comment"
+        ], 
+        [
+            "Umap", 
+            "178", 
+            "Comment"
+        ], 
+        [
+            "Umap", 
+            "251", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "2 p.m.:171"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:38"
+    ], 
+    "death": "2", 
+    "title": "Freak bomb blast kills a boy, CRPF cadet officer", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Nanded", 
+        "", 
+        "Mudkhed"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two persons , including a teenage boy and a newly recruited cadet officer of the Central Reserve Police Force , died in a freak accident near a CRPF camp at Mudkhed in Nanded district in Maharashtra on Sunday when a High Explosive Bomb exploded accidentally . A local woman who had gone to pick metal pieces from the CRPF firing range had picked up an unexploded bomb , which she threw , in fear , towards the CRPF cadet officers on being apprehended by them . The explosion wounded seven persons , including the local woman . One of the injured teenage boys is in critical condition , police said . A 12-year-old boy died on the spot while the cadet officer succumbed to his injuries when he was being treated at the hospital . Of the seven others injured in the blast , the condition of one is serious , Shahaji Umap , Additional Superintendent of Police , Nanded , told The Hindu . The blast happened at around 2 p.m. , he said . Mr. Umap said the CRPF had a training institute and a firing range around 15 km away from Mudkhed , where CRPF jawans and officers conduct regular firing practice . The children of the village around the area enter the firing range to collect metal pieces that are found in the range due to the firing and shelling practice . The villagers later sell the metal pieces as scrap to earn money , Mr. Umap said . There are times when some bombs which are fired with the help of bomb-launchers do not explode and keep lying there , he said . OPEN", 
+    "injured": "7", 
+    "org_unorg": "Organized", 
+    "O": [
+        "teenage boy:6", 
+        "cadet officer:12", 
+        "died:21", 
+        "freak accident:24", 
+        "crpf camp:28", 
+        "high explosive bomb:41", 
+        "woman:49", 
+        "metal pieces:55", 
+        "crpf firing range:59", 
+        "unexploded bomb:66", 
+        "crpf cadet officers:78", 
+        "explosion:88", 
+        "woman:96", 
+        "injured:101", 
+        "critical:106", 
+        "12-year-old boy:113", 
+        "cadet officer:121", 
+        "injuries:126", 
+        "hospital:134", 
+        "blast:143", 
+        "serious:150", 
+        "additional superintendent of police:155", 
+        "blast:167", 
+        "training institute:184", 
+        "firing range:188", 
+        "firing practice:204", 
+        "village:211", 
+        "firing range:217", 
+        "metal pieces:221", 
+        "firing:232", 
+        "shelling practice:234", 
+        "metal pieces:242", 
+        "scrap:245", 
+        "money:248", 
+        "bombs:259", 
+        "bomb-launchers:267"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/freak-bomb-blast-kills-a-boy-crpf-cadet-officer/article2748443.ece", 
+    "date": "26-12-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Central Reserve Police Force", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "198", 
+            "Others"
+        ]
+    ]
+}

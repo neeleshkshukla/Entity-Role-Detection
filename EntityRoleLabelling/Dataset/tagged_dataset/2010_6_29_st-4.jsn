@@ -1,0 +1,230 @@
+{
+    "LOC": [
+        [
+            "Ajmer", 
+            "339", 
+            "Event"
+        ], 
+        [
+            "Ajmer", 
+            "373", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "O. Narasimham Murthy", 
+            "233", 
+            "Comment"
+        ], 
+        [
+            "Murthy", 
+            "302", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 18 , 2007 : 56", 
+        "June:212", 
+        "June 9:212", 
+        "1994:274", 
+        "June:432", 
+        "June 9:432"
+    ], 
+    "death": "", 
+    "title": "Setback' for Masjid blast case", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The possibility of identifying the origin of explosives used in Mecca Masjid blast is bleak as the Andhra Pradesh Forensic Laboratory ( APFSL ) had destroyed the seized explosives . Chemical analysis Police had recovered an unexploded improvised explosive device ( IED ) from the mosque after another IED went off killing nine persons on May 18 , 2007 . The unexploded IED was then sent to the APFSL for chemical analysis . But after it completed its job , the laboratory authorities ordered destruction of the explosive charges . The destruction of the explosives came to light after the Central Bureau of Investigation ( CBI ) had written to the APFSL a month ago asking to send samples of the explosives so that it could try and find out where the explosives were made and the corresponding batch numbers . The CBI , which took over the blast investigation , wanted to send the samples to the Defence Research and Development Organisation ( DRDO ) for chemical fingerprinting . The DRDO has the necessary technological knowhow to pin-pointedly determine where the explosives were manufactured and that could have been clinching scientific evidence against the accused persons . But the CBI was in for a surprise when the APFSL informed on June 9 that it had destroyed all the samples in the interest of lab safety and security . Dangerous APFSL Director O. Narasimham Murthy said explosive substances sent to the lab would be destroyed as storing explosives posed a danger to the lab . The front portion of the three-storeyed lab was destroyed in an accidental blast of stored explosives , in 1994 . We get explosives for analysis from different States . We can not possibly store all the explosives in the lab . It 's dangerous , Mr. Murthy explained . CBI sources said the investigation was now based on circumstantial evidences . Had FSL provided us the samples , it could have helped us get scientific evidence against the accused , they explained . Ajmer samples The agency is now being helped by the NSG 's National Bomb Data Centre in determining the place of manufacture of explosives . We are also trying to get samples seized in Ajmer where the same accused persons triggered a similar explosion at a religious place , sources said . Cyclotol According to sources , the IEDs used in Masjidblast had 200 to 300 grams of Cyclotol - a mixture of RDX ( 90 per cent ) and Trinitrotoluene or TNT ( 10 per cent ) . APFSL informs CBI on June 9 that it had destroyed all the samples We can not possibly store all the explosives in the lab : APFSL Director OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "possibility:2", 
+        "origin:6", 
+        "mecca masjid blast:11", 
+        "chemical analysis:31", 
+        "chemical analysis police:31", 
+        "chemical:31", 
+        "analysis:32", 
+        "improvised explosive device:38", 
+        "explosive device:39", 
+        "ied:42", 
+        "mosque:46", 
+        "ied:49", 
+        "ied:63", 
+        "apfsl:69", 
+        "chemical analysis:71", 
+        "job:79", 
+        "laboratory:82", 
+        "destruction:85", 
+        "explosive:88", 
+        "destruction:92", 
+        "light:98", 
+        "apfsl:112", 
+        "month:114", 
+        "batch:139", 
+        "blast investigation:149", 
+        "chemical:168", 
+        "drdo:172", 
+        "knowhow:177", 
+        "evidence:193", 
+        "surprise:206", 
+        "apfsl:209", 
+        "interest:223", 
+        "lab safety:225", 
+        "security:228", 
+        "apfsl director:231", 
+        "explosive:237", 
+        "lab:242", 
+        "danger:251", 
+        "lab:254", 
+        "front portion:257", 
+        "lab:262", 
+        "blast:268", 
+        "analysis:280", 
+        "store:289", 
+        "lab:295", 
+        "investigation:309", 
+        "fsl:318", 
+        "evidence:331", 
+        "agency:342", 
+        "nsg:349", 
+        "national:351", 
+        "national bomb data:351", 
+        "national bomb:351", 
+        "bomb:352", 
+        "centre:354", 
+        "place:358", 
+        "manufacture:360", 
+        "explosion:382", 
+        "place:386", 
+        "cyclotol:391", 
+        "masjidblast:400", 
+        "cyclotol:407", 
+        "mixture:410", 
+        "rdx:412", 
+        "cent:416", 
+        "trinitrotoluene:419", 
+        "tnt:421", 
+        "cent:425", 
+        "apfsl:428", 
+        "store:445", 
+        "lab:451"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/setback-for-masjid-blast-case/article491266.ece", 
+    "date": "18-05-2007", 
+    "target": "Religious Places", 
+    "hot_spot": "Mecca Masjid blast", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "RDX", 
+        "TNT"
+    ], 
+    "ORG": [
+        [
+            "Andhra Pradesh Forensic Laboratory", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "APFSL", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "APFSL", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Central Bureau of Investigation", 
+            "101", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "APFSL", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "Defence Research and Development Organisation", 
+            "159", 
+            "Others"
+        ], 
+        [
+            "DRDO", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "DRDO", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "201", 
+            "Others"
+        ], 
+        [
+            "APFSL", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "APFSL", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "305", 
+            "Others"
+        ], 
+        [
+            "NSG", 
+            "349", 
+            "Others"
+        ], 
+        [
+            "National Bomb Data Centre", 
+            "351", 
+            "Others"
+        ], 
+        [
+            "APFSL", 
+            "428", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "430", 
+            "Others"
+        ]
+    ]
+}

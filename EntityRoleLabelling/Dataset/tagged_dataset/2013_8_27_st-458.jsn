@@ -1,0 +1,215 @@
+{
+    "LOC": [
+        [
+            "Kerala Dalit", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Kerala Dalit", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "MPs", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka government", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka police", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "102", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Karnataka", 
+            "110", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Karnataka", 
+            "117", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Kerala", 
+            "205", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "212", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P. Ramabhadran", 
+            "6", 
+            "Comment"
+        ], 
+        [
+            "Abdul Nasir Maudany", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "Ramabhadran", 
+            "105", 
+            "Comment"
+        ], 
+        [
+            "K.J. George", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "168", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "221", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "Sundays : 107"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "August 2010:55", 
+        "2008:63"
+    ], 
+    "death": "", 
+    "title": "Strive to release Maudany, forum urges MPs", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "Bangalore", 
+        "Bangalore"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Kerala Dalit Federation State president P. Ramabhadran has called upon Union Ministers and MPs from Kerala and the State government to put pressure on the Karnataka government to enable Peoples Democratic Party leader Abdul Nasir Maudany to get bail on health grounds . Mr. Maudany was arrested from here by the Karnataka police in August 2010 on charges of involvement in the 2008 Bangalore serial bomb blasts . Since his arrest , he has been lodged in the Parappana Agrahara Central Jail in Bangalore . At the time of his arrest , a Bharatiya Janata Party government was in power in Karnataka . Mr. Ramabhadran said Sundays statement by Karnataka Home Minister K.J. George that the Karnataka governments stand on the serial blasts and Mr. Maudany could not be altered with a change in government ( presently under Congress rule ) was shocking . The statement connoted that justice would continue to evade Mr. Maudany . He said that the prosecution had started levelling allegations against Mr. Maudany that were not even shown in the charge sheet against him . The fact that the prosecution appointed by the BJP government was continuing even after the Congress had come to power was puzzling . The Kerala government should intervene and convince the Karnataka government on the need for justice for Mr. Maudany , he said . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "state president:4", 
+        "union ministers:11", 
+        "state government:19", 
+        "pressure:23", 
+        "bail:39", 
+        "health:41", 
+        "involvement:60", 
+        "serial bomb:65", 
+        "Parappana Agrahara Central Jail:79", 
+        "home minister:111", 
+        "prosecution:161", 
+        "charge sheet:176", 
+        "fact:182", 
+        "justice:218"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/strive-to-release-maudany-forum-urges-mps/article5063605.ece", 
+    "date": "26-08-2013", 
+    "target": "", 
+    "hot_spot": "Bangalore", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Dalit Federation State", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Peoples Democratic Party", 
+            "30", 
+            "Assoc Victim"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "189", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "196", 
+            "Others"
+        ]
+    ]
+}

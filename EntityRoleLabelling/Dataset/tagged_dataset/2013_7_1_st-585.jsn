@@ -1,0 +1,97 @@
+{
+    "LOC": [
+        [
+            "north-western Pakistan", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Peshawar", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "North Waziristan", 
+            "160", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shafiullah Khan", 
+            "92", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:10"
+    ], 
+    "death": "21", 
+    "title": "21 killed in Peshawar blasts", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Peshawar", 
+        "north-western Pakistan, North Waziristan"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two bombings killed 21 people in north-western Pakistan on Sunday , just as Britains Prime Minister was in the capital pledging to help to fight extremism . In the deadlier of the two attacks , a car bomb exploded as a convoy of paramilitary troops passed through the outskirts of the northwest city of Peshawar , killing at least 17 people and wounding dozens of others , police said . Most of the dead and wounded were civilians , though nine paramilitary Frontier Corps troops were hurt , said police official Shafiullah Khan . The blast struck one Frontier Corps vehicle , but the other passed by safely . The explosion damaged many other vehicles and shops , according to local TV video . Frontier Corps vehicles rushed to the scene , and a police officer collected evidence from the crater caused by the bomb . A roadside bomb struck an army convoy and killed four soldiers in the North Waziristan tribal area , the main sanctuary for Taliban and al-Qaeda militants in the country . The blast also wounded 20 soldiers , the officials said . AP OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "two bombings:1", 
+        "Britains Prime Minister:14", 
+        "fight extremism:25", 
+        "car bomb:37", 
+        "collected evidence:137", 
+        "crater:141", 
+        "roadside bomb:148", 
+        "army convoy:152", 
+        "main sanctuary:166"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/21-killed-in-peshawar-blasts/article4867742.ece", 
+    "date": "30-06-2013", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "", 
+    "delivery_mod": "Four wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Frontier Corps", 
+            "83", 
+            "Victim"
+        ], 
+        [
+            "Frontier Corps", 
+            "99", 
+            "Victim"
+        ], 
+        [
+            "Frontier Corps", 
+            "125", 
+            "Victim"
+        ], 
+        [
+            "Taliban", 
+            "169", 
+            "Accused"
+        ], 
+        [
+            "al-Qaeda", 
+            "171", 
+            "Accused"
+        ]
+    ]
+}

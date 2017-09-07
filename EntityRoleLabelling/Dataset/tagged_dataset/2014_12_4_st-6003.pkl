@@ -1,0 +1,223 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bardhaman'
+p4
+aS'11'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bardhaman'
+p8
+aS'51'
+p9
+aS'Event'
+p10
+aasS'PER'
+p11
+(lp12
+sS'TIM'
+p13
+(lp14
+sS'hot_setting'
+p15
+S''
+p16
+sS'DAT'
+p17
+(lp18
+S'Early November : 102'
+p19
+aS'October two : 169'
+p20
+asS'death'
+p21
+g16
+sS'title'
+p22
+S'ED unearths suspect bank accounts in Bardhaman blast case'
+p23
+sS'det_loc'
+p24
+(lp25
+S'India'
+p26
+aS'West Bengal'
+p27
+aS'Bardhaman'
+p28
+ag16
+ag16
+asS'terror_group'
+p29
+(lp30
+S'JAMIAT-UL-MUJAHIDEEN'
+p31
+asS'content'
+p32
+S"The Enforcement Directorate probing the money laundering aspect in the Bardhaman blast case has unearthed a few suspect bank accounts and would probe whether they were linked to terror funding . `` We have got a few account numbers of some unidentified persons while probing the money trail in the Bardhaman blast case , '' an official source told PTI . The source said the agency had obtained the account numbers of the persons whose identities were yet to be ascertained . The agency would probe possible links of these accounts to find whether money was used for terror funding . Early November , the ED had registered a case of money laundering against Jamaat-ul-Mujahideen Bangladesh ( JMB ) and several of its recruits in connection with the blast . The case was registered by the agency based on the FIR filed by the National Investigation Agency and the information provided by it . The NIA is probing the terror angle of the blast which took place in October two . The source said that accounts of the accused persons named in the FIR were also being probed to ascertain the money trail . Asked whether the agency had got any clue so far on money raised by Ponzi firms being used for terror funding , the source said no evidence was there as of now . Soon after the NIA took charge of the probe , a team from the terror funding cell of the agency met ED officials to share information . OPEN"
+p33
+sS'injured'
+p34
+g16
+sS'org_unorg'
+p35
+g16
+sS'O'
+p36
+(lp37
+S'money laundering:6'
+p38
+aS'bardhaman blast case:11'
+p39
+aS'suspect bank accounts:18'
+p40
+aS'terror funding:29'
+p41
+aS'few account numbers:37'
+p42
+aS'unidentified persons:42'
+p43
+aS'money trail:47'
+p44
+aS'bardhaman blast case:51'
+p45
+aS'account numbers:70'
+p46
+aS'identities:76'
+p47
+aS'ascertained:81'
+p48
+aS'terror funding:99'
+p49
+aS'money laundering:112'
+p50
+aS'blast:129'
+p51
+aS'fir filed:141'
+p52
+aS'terror angle:160'
+p53
+aS'blast:164'
+p54
+aS'accused persons:179'
+p55
+aS'fir:184'
+p56
+aS'money trail:192'
+p57
+aS'any clue:201'
+p58
+aS'money raised:206'
+p59
+aS'ponzi firms:209'
+p60
+aS'terror funding:214'
+p61
+aS'probe:236'
+p62
+aS'terror funding cell:242'
+p63
+asS'unexpl'
+p64
+(lp65
+g16
+asS'ocassion'
+p66
+g16
+sS'link'
+p67
+S'http://timesofindia.indiatimes.com/india/ED-unearths-suspect-bank-accounts-in-Bardhaman-blast-case/articleshow/45369032.cms'
+p68
+sS'date'
+p69
+S'02-10-2014'
+p70
+sS'target'
+p71
+S'TOWN'
+p72
+sS'hot_spot'
+p73
+g16
+sS'delivery_mod'
+p74
+g16
+sS'delivery_met'
+p75
+S'PLANTED'
+p76
+sS'expl'
+p77
+(lp78
+g16
+asS'ORG'
+p79
+(lp80
+(lp81
+S'Enforcement Directorate'
+p82
+aS'2'
+p83
+aS'Others'
+p84
+aa(lp85
+S'PTI'
+p86
+aS'60'
+p87
+aS'Others'
+p88
+aa(lp89
+S'ED'
+p90
+aS'106'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Jamaat-ul-Mujahideen Bangladesh'
+p94
+aS'115'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'JMB'
+p98
+aS'118'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'National Investigation Agency'
+p102
+aS'145'
+p103
+aS'Others'
+p104
+aa(lp105
+S'NIA'
+p106
+aS'156'
+p107
+aS'Others'
+p108
+aa(lp109
+S'NIA'
+p110
+aS'231'
+p111
+aS'Others'
+p112
+aa(lp113
+S'ED'
+p114
+aS'249'
+p115
+aS'Others'
+p116
+aas.

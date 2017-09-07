@@ -1,0 +1,235 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Afghan'
+p4
+aS'4'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Balkh province'
+p8
+aS'31'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Sadir Abad'
+p12
+aS'54'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Dawlat Abad'
+p16
+aS'58'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Afghan'
+p20
+aS'154'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Shirjan Duran'
+p26
+aS'91'
+p27
+aS'Comment'
+p28
+aa(lp29
+S'Xinhua'
+p30
+aS'94'
+p31
+aS'Others'
+p32
+aasS'TIM'
+p33
+(lp34
+S'10 a.m.:63'
+p35
+aS'six months : 166'
+p36
+asS'hot_setting'
+p37
+S''
+p38
+sS'DAT'
+p39
+(lp40
+S'Friday:12'
+p41
+aS'Friday:66'
+p42
+aS'2012:169'
+p43
+asS'death'
+p44
+S'15'
+p45
+sS'title'
+p46
+S'15 of wedding party killed in bomb blast'
+p47
+sS'org_unorg'
+p48
+g38
+sS'terror_group'
+p49
+(lp50
+g38
+asS'content'
+p51
+S'At least 15 Afghan civilians were killed and 18 wounded on Friday while going to a wedding party when their vehicle was blown up in a roadside bombing in northern Balkh province , police said . A minibus with about 33 civilians aboard was heading to take part in a wedding party in Sadir Abad village of Dawlat Abad district at about 10 a.m. on Friday but the vehicle touched off a roadside bomb , sparking a powerful blast , killing 15 people and wounding 18 , provincial police spokesman Shirjan Duran told Xinhua . Many women and children were among the killed and wounded , he added . Taliban militants , who have been waging an insurgency of more than one decade , have often attacked Nato-led forces with Improvised Explosive Devices ( IEDs ) or roadside bombs but the lethal weapons also inflict casualties on civilians . A total of 1,145 Afghan civilians were killed and 1,954 injured in conflicts in the first six months of 2012 in the insurgencyhit country , according to a UN report . IANS OPEN'
+p52
+sS'injured'
+p53
+S'18'
+p54
+sS'det_loc'
+p55
+(lp56
+S'Afghanistan'
+p57
+ag38
+ag38
+aS'Kabul'
+p58
+ag38
+asS'O'
+p59
+(lp60
+S'afghan civilians:4'
+p61
+aS'wedding party:17'
+p62
+aS'blown up:23'
+p63
+aS'roadside bombing:27'
+p64
+aS'northern balkh province:30'
+p65
+aS'minibus:38'
+p66
+aS'33 civilians:41'
+p67
+aS'wedding party:51'
+p68
+aS'roadside bomb:73'
+p69
+aS'powerful blast:78'
+p70
+aS'spokesman shirjan duran:90'
+p71
+aS'taliban militants:110'
+p72
+aS'waging:116'
+p73
+aS'insurgency:118'
+p74
+aS'one decade:122'
+p75
+aS'attacked:127'
+p76
+aS'nato-led forces:128'
+p77
+aS'improvised explosive devices:131'
+p78
+aS'ieds:135'
+p79
+aS'roadside bombs:138'
+p80
+aS'lethal weapons:142'
+p81
+aS'inflict casualties:145'
+p82
+aS'civilians:148'
+p83
+aS'1,145 afghan civilians:153'
+p84
+aS'1,954 injured:159'
+p85
+aS'first six months:165'
+p86
+aS'insurgencyhit country:172'
+p87
+aS'un report:178'
+p88
+asS'unexpl'
+p89
+(lp90
+g38
+asS'ocassion'
+p91
+g38
+sS'link'
+p92
+S'http://www.thehindu.com/todays-paper/tp-in-school/15-of-wedding-party-killed-in-bomb-blast/article4014564.ece'
+p93
+sS'date'
+p94
+S'19-10-2012'
+p95
+sS'target'
+p96
+S'ROAD SIDE'
+p97
+sS'hot_spot'
+p98
+g38
+sS'delivery_mod'
+p99
+S'BUS'
+p100
+sS'delivery_met'
+p101
+S'PLANTED'
+p102
+sS'expl'
+p103
+(lp104
+S'IED'
+p105
+asS'ORG'
+p106
+(lp107
+(lp108
+S'Taliban'
+p109
+aS'110'
+p110
+aS'Accused'
+p111
+aa(lp112
+S'Nato-led'
+p113
+aS'128'
+p114
+aS'Others'
+p115
+aa(lp116
+S'UN'
+p117
+aS'178'
+p118
+aS'Others'
+p119
+aa(lp120
+S'IANS'
+p121
+aS'181'
+p122
+aS'Others'
+p123
+aas.

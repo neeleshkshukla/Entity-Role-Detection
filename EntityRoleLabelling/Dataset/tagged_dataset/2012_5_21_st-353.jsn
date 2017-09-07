@@ -1,0 +1,206 @@
+{
+    "LOC": [
+        [
+            "Chekkikkulam", 
+            "170", 
+            "Event"
+        ], 
+        [
+            "Chekkikkulam", 
+            "207", 
+            "Event"
+        ], 
+        [
+            "Mangalore", 
+            "248", 
+            "Neutral"
+        ], 
+        [
+            "Iyyambode", 
+            "295", 
+            "Event"
+        ], 
+        [
+            "Thillankery", 
+            "297", 
+            "Event"
+        ], 
+        [
+            "Iritty", 
+            "299", 
+            "Event"
+        ], 
+        [
+            "Thillankery", 
+            "362", 
+            "Source", 
+            "Neutral"
+        ], 
+        [
+            "Kizhakke Palayad", 
+            "396", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Thalassery", 
+            "399", 
+            "Event", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "T.P. Chandrasekharan", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "M.V. Sudheesh", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "Roshith", 
+            "281", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 19:174", 
+        "May 13:301", 
+        "May 17:355"
+    ], 
+    "death": "", 
+    "title": "Politically volatile Kannur sitting on a tinderbox?", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "Recent incidents of blasts in different parts of the district that left five Communist Party of India ( Marxist ) -LSB- CPI ( M ) -RSB- activists injured have raised the spectre of political violence with some political leaders breathing fire in their reactions to events connected with the ongoing investigation into the murder of the Revolutionary Marxist Party ( RMP ) leader T.P. Chandrasekharan . The district has witnessed three explosions during the past two weeks . Going by similar incidents in the past and the nature of injuries in the blasts , the police suspect that the explosions are accidents while handling or assembling country-made bombs . The incidents of suspected accidental explosions of country-made bombs are seen as a throwback to the heyday of political violence in the district . The police suspect that the recent blasts may be an indication of the hectic activity of bomb-making or handling in anticipation of a volatile political situation developing in the district . The latest explosion occurred at Chekkikkulam near here on May 19 evening . A CPI ( M ) activist identified as M.V. Sudheesh ( 28 ) suffered serious injuries in his palm in the explosion that occurred at an open field at Chekkikkulam , a party stronghold . The police suspect that the explosion occurred while handling explosive materials . The police said that the explosion was heard by people living in half-a-kilometre radius . The injured have been taken to hospital in Mangalore . The police suspect that the explosion could have also occurred while making crude underwater explosives called thotta ' for catching fish from river . A CPI ( M ) activist , Roshith ( 22 ) , had suffered serious burns in a huge explosion at Iyyambode at Thillankery near Iritty on May 13 . One of his palms was severed in the blast that left his house damaged . The police said the blast had occurred when he handled some explosive materials kept in an iron shelf in the house after his parents had gone out . Two powerful steel bombs had been recovered on May 17 during a raid conducted at Thillankery to unearth country bombs in the wake of the blast . On the same day , three party activists suffered burns in their eyes in an explosion near a house under construction at Kizhakke Palayad near Thalassery . The police said the blast occurred when the injured were shifting ash-laden sacks . The country-made bombs could have been kept inside one of the sacks , the police said . Country-made bombs were used during political clashes in the politically-volatile areas in the district . Bombs were exploded by political killer groups to scare away the public before they hacked a political rival to death . The police said bombs were kept in abandoned houses or uninhabited areas for use during clashes . Three explosions in the district intwo weeksExplosions may have occurred while handling bombs Three explosions in the district in two weeks Explosions may have occurred while handling bombs OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "district:10", 
+        "m:24", 
+        "spectre:32", 
+        "violence:35", 
+        "breathing fire:40", 
+        "investigation:51", 
+        "murder:54", 
+        "leader:63", 
+        "district:68", 
+        "nature:88", 
+        "suspect:97", 
+        "throwback:123", 
+        "heyday:126", 
+        "violence:129", 
+        "district:132", 
+        "suspect:136", 
+        "indication:144", 
+        "activity:148", 
+        "bomb-making:150", 
+        "anticipation:154", 
+        "situation:159", 
+        "district:163", 
+        "explosion:167", 
+        "evening:176", 
+        "cpi:179", 
+        "m:181", 
+        "activist:183", 
+        "palm:196", 
+        "explosion:199", 
+        "field:205", 
+        "party stronghold:210", 
+        "suspect:215", 
+        "explosion:218", 
+        "explosive:222", 
+        "explosion:230", 
+        "half-a-kilometre radius:237", 
+        "hospital:246", 
+        "suspect:252", 
+        "explosion:255", 
+        "crude:262", 
+        "fish:270", 
+        "river:272", 
+        "cpi:275", 
+        "m:277", 
+        "activist:279", 
+        "explosion:293", 
+        "iritty:299", 
+        "blast:312", 
+        "house:316", 
+        "blast:323", 
+        "explosive:330", 
+        "iron shelf:335", 
+        "house:339", 
+        "steel:349", 
+        "raid:359", 
+        "country:365", 
+        "wake:369", 
+        "blast:372", 
+        "day:377", 
+        "party:380", 
+        "explosion:389", 
+        "house:392", 
+        "construction:394", 
+        "blast:405", 
+        "district:445", 
+        "killer:452", 
+        "scare:455", 
+        "public:458", 
+        "rival:464", 
+        "death:466", 
+        "use:481", 
+        "district intwo:489", 
+        "district:502"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/politically-volatile-kannur-sitting-on-a-tinderbox/article3440803.ece", 
+    "date": "19-05-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Communist Party of India", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "Revolutionary Marxist Party", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "RMP", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "179", 
+            "Others"
+        ]
+    ]
+}

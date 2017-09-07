@@ -1,0 +1,163 @@
+{
+    "LOC": [
+        [
+            "Haldiapadar village", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Golanthara", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Golanthara police station", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Golanthara police station", 
+            "87", 
+            "Neutral"
+        ], 
+        [
+            "Pandara Street of Haladiapadar", 
+            "111", 
+            "Victim Location"
+        ], 
+        [
+            "Golapalli area", 
+            "339", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P.K. Mishra", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Jayanti Behera", 
+            "105", 
+            "Victim"
+        ], 
+        [
+            "Kalia Behera", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "Gouri Behera", 
+            "125", 
+            "Victim"
+        ], 
+        [
+            "Gouri", 
+            "129", 
+            "Victim"
+        ], 
+        [
+            "Jayanti", 
+            "163", 
+            "Victim"
+        ], 
+        [
+            "Kalia", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "Kalia", 
+            "168", 
+            "Victim"
+        ], 
+        [
+            "Gouri", 
+            "174", 
+            "Victim"
+        ], 
+        [
+            "Jayanti", 
+            "182", 
+            "Victim"
+        ], 
+        [
+            "Jayanti", 
+            "259", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "morning : 100", 
+        "morning : 137"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:31", 
+        "August 5:353", 
+        "2009:356"
+    ], 
+    "death": "", 
+    "title": "Girl injured in parcel bomb blast at Haldiapadar", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A girl was injured when she opened a parcel bomb disguised as a gift packet at Haldiapadar village under Golanthara police station limits on the outskirts of the city on Friday . A similar gift packed explosive was located in front of another house of the area . But it had been diffused by some one by the time police reached the spot . The police seized batteries , detonator , and gun powder from the diffused parcel bomb . According to inspector in charge of Golanthara police station , P.K. Mishra , the blast occurred in the early morning . The victim was Jayanti Behera ( 17 ) of Pandara Street of Haladiapadar . She lived with her brother Kalia Behera and mother Gouri Behera . When Gouri opened gate of her house in the morning she found a gift packed transparent plastic box kept at her door steps . As per a card on this box it was meant for Jayanti and Kalia . As Kalia was not at home , Gouri handed over the box to her daughter Jayanti . From outside it was evident that the box contained a metal chain that sparkled like gold . The girl took the box inside and opened it . As soon as she opened the box it exploded injuring her . The injured girl was immediately shifted to MKCG Medical College Hospital for treatment . The other box which was diffused by some unknown person was found at a distance of 100 metres from the house of Jayanti . The box contained a metal bracelet to dodge its possible victim . As per investigating police officials , both the parcel bombs were handiwork of a single man as their modus operandi was the same . Police also suspected that some miscreants who may be irked with the girl may have resorted to this action . The girl was allegedly receiving prank calls for the past few days . Investigation is on . A middle aged woman of Golapalli area of the city was injured when a similar parcel bomb exploded on August 5 in 2009 . OPEN", 
+    "injured": "2", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "BERHAMPUR", 
+        "near Golanthara police station"
+    ], 
+    "O": [
+        "batteries:68", 
+        "detonator:70", 
+        "gun powder:73", 
+        "diffused parcel bomb:77", 
+        "door steps:149", 
+        "metal chain:194", 
+        "gold:199", 
+        "metal bracelet:265", 
+        "Police:297", 
+        "parcel bomb:349"
+    ], 
+    "unexpl": [
+        "BATTERIES"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/girl-injured-in-parcel-bomb-blast-at-haldiapadar/article4061025.ece", 
+    "date": "02-11-2012", 
+    "target": "PUBLIC ORGANIZATION", 
+    "hot_spot": "door steps", 
+    "delivery_mod": "GIFT PACKET", 
+    "delivery_met": "STORED", 
+    "expl": [
+        "GUN POWDER"
+    ], 
+    "ORG": [
+        [
+            "police", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "MKCG Medical College Hospital", 
+            "230", 
+            "Others"
+        ], 
+        [
+            "police officials", 
+            "276", 
+            "Others"
+        ]
+    ]
+}

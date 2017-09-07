@@ -1,0 +1,512 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Delhi'
+p4
+aS'2'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Bodh Gaya'
+p8
+aS'36'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Pune'
+p12
+aS'72'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Hyderabad'
+p16
+aS'92'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Bodh Gaya'
+p20
+aS'151'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Myanmar'
+p24
+aS'164'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Pune'
+p28
+aS'184'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Pune'
+p32
+aS'218'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Bodh Gaya'
+p36
+aS'241'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Pune'
+p40
+aS'280'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Dilkushnagar'
+p44
+aS'297'
+p45
+aS'Assoc Event Location'
+p46
+aa(lp47
+S'Begum Bazar'
+p48
+aS'299'
+p49
+aS'Assoc Event Location'
+p50
+aa(lp51
+S'Abids : 302'
+p52
+aS'Neutral'
+p53
+aS'Assoc Event Location'
+p54
+aa(lp55
+S'Hyderabad'
+p56
+aS'304'
+p57
+aS'Assoc Event Location'
+p58
+aa(lp59
+S'Dilkushnagar'
+p60
+aS'320'
+p61
+aS'Assoc Event Location'
+p62
+aasS'PER'
+p63
+(lp64
+(lp65
+S'Sayed Maqbool'
+p66
+aS'19'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Maqbools'
+p70
+aS'68'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Asad Khan'
+p74
+aS'115'
+p75
+aS'Accused'
+p76
+aa(lp77
+S'Imran Khan'
+p78
+aS'118'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Sayed Feroz'
+p82
+aS'121'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Landge Irfan Mustafa'
+p86
+aS'124'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Maqbool'
+p90
+aS'136'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Bhatkal'
+p94
+aS'174'
+p95
+aS'Assoc Accused'
+p96
+aa(lp97
+S'Maqbool'
+p98
+aS'192'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'Imran'
+p102
+aS'195'
+p103
+aS'Accused'
+p104
+aa(lp105
+S'Asad'
+p106
+aS'197'
+p107
+aS'Accused'
+p108
+aa(lp109
+S'Imran'
+p110
+aS'208'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Bhatkal'
+p114
+aS'213'
+p115
+aS'Assoc Accused'
+p116
+aa(lp117
+S'Maqbool'
+p118
+aS'225'
+p119
+aS'Accused'
+p120
+aa(lp121
+S'Irfan'
+p122
+aS'227'
+p123
+aS'Accused'
+p124
+aa(lp125
+S'Imran'
+p126
+aS'229'
+p127
+aS'Accused'
+p128
+aa(lp129
+S'Asad'
+p130
+aS'231'
+p131
+aS'Accused'
+p132
+aa(lp133
+S'Bhatkals'
+p134
+aS'252'
+p135
+aS'Assoc Accused'
+p136
+aa(lp137
+S'Qateel Siddiqui'
+p138
+aS'259'
+p139
+aS'Others'
+p140
+aa(lp141
+S'Maqbool'
+p142
+aS'287'
+p143
+aS'Assoc Accused'
+p144
+aa(lp145
+S'Imran'
+p146
+aS'291'
+p147
+aS'Accused'
+p148
+aasS'TIM'
+p149
+(lp150
+S'nine months : 50'
+p151
+aS'last year : 100'
+p152
+aS'last year : 288'
+p153
+aS'February 21 : 322'
+p154
+asS'hot_setting'
+p155
+S''
+p156
+sS'DAT'
+p157
+(lp158
+S'October : 23'
+p159
+aS'October 26 , 2012 : 58'
+p160
+aS'October 23 : 98'
+p161
+aS'April 2012 : 205'
+p162
+aS'August : 222'
+p163
+asS'death'
+p164
+g156
+sS'title'
+p165
+S'Delhi Police warning went in vain'
+p166
+sS'org_unorg'
+p167
+g156
+sS'terror_group'
+p168
+(lp169
+g156
+asS'content'
+p170
+VThe Delhi Police Special Cell had , on the basis of revelations made by alleged Indian Mujahideen terrorist Sayed Maqbool , last October disclosed that the banned outfit planned to target the Buddhist shrines in Bodh Gaya . The police had shared the input with the agencies concerned almost nine months ago . . . Through an October 26 , 2012 release , the Special Cell announced Maqbools arrest in the Pune blasts case . It said he was a trainer in improvised explosive devices . He was tracked down to Hyderabad where he was arrested on October 23 last year . . . Based on the purported disclosures of other suspected IM members Asad Khan , Imran Khan , Sayed Feroz and Landge Irfan Mustafa the police had said the four , along with Maqbool , had planned to carry out a fidayeen attack at the Buddhist shrines in Bodh Gaya in retaliation to the alleged atrocities being committed on Muslims in Myanmar . Their plan had the approval and support of Bhatkal brothers -LSB- alleged IM founders -RSB- . . . Pune blasts . . The Special Cell said Maqbool had taught Imran and Asad how to configure a bomb . In April 2012 , Imran introduced him to the Bhatkal brothers . Before the Pune serial blasts in August last , Maqbool , Irfan , Imran and Asad discussed their plan to target the Buddhist shrines in Bodh Gaya , said the release , adding that since the Bhatkals wanted to avenge the death of Qateel Siddiqui -LRB- a terror suspect killed in Punes Yerawada Jail -RRB- , they decided to first carry out blasts in Pune . . . The police said Maqbool last year helped Imran in conducting a reconnaissance of Dilkushnagar , Begum Bazar and Abids in Hyderabad on a motorcycle . Incidentally , two blasts were triggered that claimed 18 lives in Dilkushnagar on February 21 . No arrests have been made in the case so far .
+p171
+sS'injured'
+p172
+g156
+sS'det_loc'
+p173
+(lp174
+S'India'
+p175
+aS'Delhi'
+p176
+aS'New Delhi'
+p177
+ag156
+ag156
+asS'O'
+p178
+(lp179
+S'revelations:12'
+p180
+aS'alleged:15'
+p181
+aS'terrorist:18'
+p182
+aS'disclosed:24'
+p183
+aS'banned outfit planned:27'
+p184
+aS'target:31'
+p185
+aS'Buddhist shrines:33'
+p186
+aS'shared:42'
+p187
+aS'input:44'
+p188
+aS'agencies:47'
+p189
+aS'concerned:48'
+p190
+aS'announced:67'
+p191
+aS'arrest:69'
+p192
+aS'Pune blasts case:72'
+p193
+aS'trainer:81'
+p194
+aS'improvised explosive devices:83'
+p195
+aS'tracked down:89'
+p196
+aS'arrested:96'
+p197
+aS'purported disclosures:108'
+p198
+aS'suspected:112'
+p199
+aS'planned:139'
+p200
+aS'fidayeen attack:144'
+p201
+aS'Buddhist shrines:148'
+p202
+aS'retaliation:154'
+p203
+aS'alleged atrocities:157'
+p204
+aS'committed:160'
+p205
+aS'Muslims:162'
+p206
+aS'plan:167'
+p207
+aS'approval:170'
+p208
+aS'support:172'
+p209
+aS'Bhatkal brothers:174'
+p210
+aS'IM founders:178'
+p211
+aS'Pune blasts:184'
+p212
+aS'configure:200'
+p213
+aS'bomb:202'
+p214
+aS'Bhatkal brothers:213'
+p215
+aS'Pune serial blasts:218'
+p216
+aS'discussed:232'
+p217
+aS'plan:234'
+p218
+aS'target:236'
+p219
+aS'Buddhist shrines:238'
+p220
+aS'release:246'
+p221
+aS'avenge:255'
+p222
+aS'death:257'
+p223
+aS'terror suspect:263'
+p224
+aS'killed:265'
+p225
+aS'Punes Yerawada Jail:267'
+p226
+aS'decided:273'
+p227
+aS'blasts:278'
+p228
+aS'helped:290'
+p229
+aS'reconnaissance:295'
+p230
+aS'motorcycle:307'
+p231
+aS'two blasts:311'
+p232
+aS'triggered:314'
+p233
+aS'arrests:326'
+p234
+aS'case:332'
+p235
+asS'unexpl'
+p236
+(lp237
+g156
+asS'ocassion'
+p238
+g156
+sS'link'
+p239
+S'http://www.thehindu.com/news/national/delhi-police-warning-went-in-vain/article4892206.ece?ref=relatedNews'
+p240
+sS'date'
+p241
+S'08-07-2013'
+p242
+sS'target'
+p243
+g156
+sS'hot_spot'
+p244
+g156
+sS'delivery_mod'
+p245
+g156
+sS'delivery_met'
+p246
+g156
+sS'expl'
+p247
+(lp248
+g156
+asS'ORG'
+p249
+(lp250
+(lp251
+S'Delhi Police Special Cell'
+p252
+ag5
+aS'Others'
+p253
+aa(lp254
+S'Indian Mujahideen'
+p255
+aS'16'
+p256
+aS'Accused'
+p257
+aS'Others'
+p258
+aa(lp259
+S'Special Cell'
+p260
+aS'65'
+p261
+aS'Others'
+p262
+aa(lp263
+S'IM'
+p264
+aS'113'
+p265
+aS'Accused'
+p266
+aa(lp267
+S'IM'
+p268
+aS'178'
+p269
+aS'Accused'
+p270
+aa(lp271
+S'Special Cell'
+p272
+aS'189'
+p273
+aS'Others'
+p274
+aas.

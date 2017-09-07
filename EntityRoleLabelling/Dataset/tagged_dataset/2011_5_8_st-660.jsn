@@ -1,0 +1,86 @@
+{
+    "LOC": [
+        [
+            "Kandahar", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "76", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "1:00 p.m.:60"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:18"
+    ], 
+    "death": "", 
+    "title": "Kandahar under severe attack", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Kandahar", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Taliban unleashed a wave of attacks including six suicide bombings on government targets on Kandahar on Saturday , leaving at least 30 people wounded . Militants with guns and rocket-propelled grenades attacked the Governor 's office , and 10 explosions including six suicide blasts rocked the city , the heartland of the Taliban , after violence began around 1:00 p.m. ( 0930 GMT ) . Gunmen occupied a hotel near the local office of Afghanistan 's intelligence service , while suicide bombers tried to attack two police offices but were shot before they could reach their targets . In chaotic scenes , an AFP reporter said gunfire was still ringing out as ambulances evacuated the wounded , who included five policemen , from the area . AFP OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "attacks:7", 
+        "suicide bombings:10", 
+        "government targets:13", 
+        "wounded:25", 
+        "militants:27", 
+        "rocket-propelled grenades:31", 
+        "governor 's office:35", 
+        "explosions:41", 
+        "suicide blasts:44", 
+        "violence:57", 
+        "gunmen:67", 
+        "hotel:70", 
+        "intelligence service:78", 
+        "suicide bombers:82", 
+        "afp reporter:105", 
+        "gunfire:108", 
+        "wounded:117"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/kandahar-under-severe-attack/article2000498.ece", 
+    "date": "08-05-2011", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Taliban", 
+            "2", 
+            "Accused"
+        ], 
+        [
+            "Taliban", 
+            "54", 
+            "Accused"
+        ], 
+        [
+            "AFP", 
+            "105", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "LOC": [
+        [
+            "Binshai", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Khyber Pakhtunkhwa", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "50", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:34"
+    ], 
+    "death": "", 
+    "title": "Two Pakistan Army officers killed in blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        "TALIBAN ISLAMISTS"
+    ], 
+    "content": "Two Pakistan Army officers , including a Major General , and a soldier were killed in a bomb attack , claimed by the Taliban , near Binshai in the Khyber Pakhtunkhwa province on Sunday . The blast occurred while the officers were returning after visiting posts along the Pakistan Afghanistan border . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Binshai", 
+        ""
+    ], 
+    "O": [
+        "Two Pakistan Army officers:1", 
+        "Major General:8", 
+        "a soldier:12", 
+        "killed:15", 
+        "bomb attack:18", 
+        "claimed:21", 
+        "blast:37", 
+        "returning:43", 
+        "visiting posts:45", 
+        "Pakistan Afghanistan border:49"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/two-pakistan-army-officers-killed-in-blast/article5132839.ece", 
+    "date": "15-09-2013", 
+    "target": "ARMY OFFICERS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Taliban", 
+            "24", 
+            "Accused"
+        ]
+    ]
+}

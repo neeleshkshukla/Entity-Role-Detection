@@ -1,0 +1,307 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbai'
+p4
+aS'35'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Mumbai'
+p8
+aS'74'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Zaveri bazaar'
+p12
+aS'107'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Opera House'
+p16
+aS'110'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Dadar Kabutarkhana'
+p20
+aS'113'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Opera House'
+p24
+aS'125'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Zaveri bazaar'
+p28
+aS'137'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Habib building'
+p32
+aS'181'
+p33
+aS'Neutral'
+p34
+aasS'PER'
+p35
+(lp36
+(lp37
+S'Naquee'
+p38
+aS'151'
+p39
+aa(lp40
+S'Naquee Ahmed Wasi Ahmed Sheikh'
+p41
+aS'11'
+p42
+aS'Accused'
+p43
+aa(lp44
+S'Nadeem Ahmed Ashfaq Sheikh'
+p45
+aS'17'
+p46
+aS'Accused'
+p47
+aa(lp48
+S'Sharif Sheikh'
+p49
+aS'90'
+p50
+aS'Others'
+p51
+aa(lp52
+S'Nadeem'
+p53
+aS'130'
+p54
+aS'Accused'
+p55
+aa(lp56
+S'Naquee'
+p57
+aS'132'
+p58
+aS'Accused'
+p59
+aa(lp60
+S'Naquee'
+p61
+aS'170'
+p62
+aS'Accused'
+p63
+aa(lp64
+S'Nadeem'
+p65
+aS'172'
+p66
+aS'Accused'
+p67
+aa(lp68
+S'Naquee'
+p69
+aS'187'
+p70
+aS'Accused'
+p71
+aasS'TIM'
+p72
+(lp73
+sS'hot_setting'
+p74
+S''
+p75
+sS'DAT'
+p76
+(lp77
+S'Friday:5'
+p78
+aS'February 27:48'
+p79
+aS'July 13:116'
+p80
+asS'death'
+p81
+g75
+sS'title'
+p82
+S'13/7 blasts: custody of two accused extended'
+p83
+sS'det_loc'
+p84
+(lp85
+S'India'
+p86
+aS'Maharashtra'
+p87
+ag75
+aS'Mumbai'
+p88
+ag75
+asS'terror_group'
+p89
+(lp90
+g75
+asS'content'
+p91
+S"A local court on Friday extended the police custody of Naquee Ahmed Wasi Ahmed Sheikh and Nadeem Ahmed Ashfaq Sheikh , two accused arrested by the Maharashtra Anti-Terrorism Squad ( ATS ) in the Mumbai triple blasts case last year . Their custody has been extended till February 27 . The ATS officials told the court that they needed their custody for further interrogation as they wanted to take the accused out of Mumbai . They did not disclose to the court where they want to take them , Sharif Sheikh , lawyer of the accused , told The Hindu . Three bombs went off at Zaveri bazaar , Opera House and Dadar Kabutarkhana on July 13 last year . Initially arrested in the Opera House blast case , Nadeem and Naquee were booked in the Zaveri bazaar blast case as well a week ago . The ATS has accused Naquee of helping two wanted accused in the blasts for finding accommodation in the city . They charged both Naquee and Nadeem of staying with the absconding accused at the Habib building in the city . Naquee 's family members have charged the ATS of harassment , saying that the agency was putting undue pressure on the family not to talk to the media . The ATS has arrested four persons in the case till now . OPEN"
+p92
+sS'injured'
+p93
+g75
+sS'org_unorg'
+p94
+g75
+sS'O'
+p95
+(lp96
+S'local court:2'
+p97
+aS'court:3'
+p98
+aS'police custody:8'
+p99
+aS'custody:9'
+p100
+aS'accused arrested:23'
+p101
+aS'mumbai triple blasts:35'
+p102
+aS'custody:43'
+p103
+aS'ats officials:52'
+p104
+aS'interrogation:64'
+p105
+aS'accused:71'
+p106
+aS'disclose:79'
+p107
+aS'lawyer:93'
+p108
+aS'accused:96'
+p109
+aS'three bombs:102'
+p110
+aS'arrested:122'
+p111
+aS'Opera House blast:125'
+p112
+aS'zaveri bazaar blast case:137'
+p113
+aS'two wanted accused:154'
+p114
+aS'blasts:159'
+p115
+aS'accommodation:162'
+p116
+aS'absconding accused:177'
+p117
+aS'habib building:181'
+p118
+aS'harassment:196'
+p119
+aS'pressure:205'
+p120
+asS'unexpl'
+p121
+(lp122
+g75
+asS'ocassion'
+p123
+g75
+sS'link'
+p124
+S'http://www.thehindu.com/todays-paper/tp-national/137-blasts-custody-of-two-accused-extended/article2905575.ece'
+p125
+sS'date'
+p126
+S'13-07-2011'
+p127
+sS'target'
+p128
+g75
+sS'hot_spot'
+p129
+g75
+sS'delivery_mod'
+p130
+g75
+sS'delivery_met'
+p131
+g75
+sS'expl'
+p132
+(lp133
+g75
+asS'ORG'
+p134
+(lp135
+(lp136
+S'Maharashtra Anti-Terrorism Squad'
+p137
+aS'27'
+p138
+aS'Others'
+p139
+aa(lp140
+S'ATS'
+p141
+aS'31'
+p142
+aS'Others'
+p143
+aa(lp144
+S'ATS'
+p145
+aS'52'
+p146
+aS'Others'
+p147
+aa(lp148
+S'The Hindu'
+p149
+aS'99'
+p150
+aS'Others'
+p151
+aa(lp152
+S'ATS'
+p153
+aS'148'
+p154
+aS'Others'
+p155
+aa(lp156
+S'ATS'
+p157
+aS'194'
+p158
+aS'Others'
+p159
+aa(lp160
+S'ATS'
+p161
+aS'217'
+p162
+aS'Others'
+p163
+aas.

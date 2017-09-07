@@ -1,0 +1,230 @@
+{
+    "LOC": [
+        [
+            "Kerala", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "171", 
+            "Event"
+        ], 
+        [
+            "Hosathota", 
+            "189", 
+            "Neutral"
+        ], 
+        [
+            "Kodagu", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "212", 
+            "Event"
+        ], 
+        [
+            "Thayyil Kannur", 
+            "223", 
+            "Neutral"
+        ], 
+        [
+            "Aluva", 
+            "226", 
+            "Neutral"
+        ], 
+        [
+            "Perambavoor", 
+            "228", 
+            "Neutral"
+        ], 
+        [
+            "Chettipady", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "Madhapur", 
+            "233", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Nasir Maudany", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "57", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "76", 
+            "Accused"
+        ], 
+        [
+            "T. Naseer", 
+            "87", 
+            "Accused"
+        ], 
+        [
+            "Edapan Thodika", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "Thodika Sharafu", 
+            "96", 
+            "Accused"
+        ], 
+        [
+            "Manaf", 
+            "102", 
+            "Accused"
+        ], 
+        [
+            "Mujeeb", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Sakaraya", 
+            "112", 
+            "Accused"
+        ], 
+        [
+            "Faizal", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "Abdul Rehaman Aftab", 
+            "123", 
+            "Accused"
+        ], 
+        [
+            "Umer Farooq", 
+            "130", 
+            "Accused"
+        ], 
+        [
+            "Sharafu", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "200", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "253", 
+            "Accused"
+        ], 
+        [
+            "Ashok Haranahalli", 
+            "271", 
+            "Others"
+        ], 
+        [
+            "V. Jagannathan", 
+            "286", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "300", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:4", 
+        "2008:46"
+    ], 
+    "death": "", 
+    "title": "Maudany was in touch with ultras, says State", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The State on Tuesday filed in the Karnataka High Court a 160-page statement of objections in response to a bail petition by Kerala PDP leader Abdul Nasir Maudany , who has been arrested by the Bangalore police in connection with the serial blast case of 2008 . The State , in the statement , said that Maudany had spoken to several other accused and that it had telephone records to support this . It said Maudany was in touch with accused No 1 ( A1 ) T. Naseer , Edapan Thodika ( A2 ) , Thodika Sharafu ( A4 ) , Manaf ( A6 ) , Mujeeb ( A7 ) , Mohammad Sakaraya ( A8 ) , Faizal ( A10 ) , Abdul Rehaman Aftab ( A14 ) and Umer Farooq ( A16 ) . The statement says that these accused apart from others conspired to set off eight bombs in Bangalore . It said Sharafu had made the microchips that were used in the bombs that went off in Bangalore . Maudany , it said , had attended Jihad camps held by some of the accused in Hosathota in Kodagu . It said that it had evidence that Maudany had discussed the blasts before the bombs were set off in Bangalore . The accused , it said , held meetings in Thayyil Kannur , Aluva , Perambavoor , Chettipady and at Madhapur to conspire to wage war against the State . The statement urged the court not to grant bail to Maudany , saying that it would be difficult to get him back once he is released . Advocate-General Ashok Haranahalli , appearing for the State , sought time to address arguments . Justice V. Jagannathan adjourned further hearing of the case . State files statement of objections Maudany has filed bail petition OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        ""
+    ], 
+    "O": [
+        "statement of objections:13", 
+        "bail petition:20", 
+        "pdp leader:24", 
+        "serial blast case:42", 
+        "telephone records:68", 
+        "touch:79", 
+        "conspired:145", 
+        "microchips:160", 
+        "bombs:166", 
+        "jihad camps:180", 
+        "evidence:198", 
+        "bombs:207", 
+        "accused:215", 
+        "meetings:221", 
+        "wage war:237", 
+        "court:247", 
+        "grant bail:250", 
+        "advocate-general ashok haranahalli:270", 
+        "hearing:290", 
+        "case:293", 
+        "statement of objections:297"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/maudany-was-in-touch-with-ultras-says-state/article1169455.ece", 
+    "date": "09-02-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Karnataka High Court", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "PDP", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Bangalore police", 
+            "36", 
+            "Others"
+        ]
+    ]
+}

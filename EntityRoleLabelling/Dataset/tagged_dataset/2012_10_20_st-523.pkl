@@ -1,0 +1,241 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Durga bazaar'
+p4
+aS'25'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Sector 5'
+p8
+aS'28'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Arilova'
+p12
+aS'31'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Madhurawada'
+p16
+aS'44'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Arilova'
+p20
+aS'210'
+p21
+aS'Event'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'K. Rajendra Rao'
+p26
+aS'46'
+p27
+aS'Comment'
+p28
+aa(lp29
+S'K. Prasad'
+p30
+aS'58'
+p31
+aS'Victim'
+p32
+aa(lp33
+S'Arasavilli Vinodh'
+p34
+aS'66'
+p35
+aS'Victim'
+p36
+aa(lp37
+S'Vinodh'
+p38
+aS'86'
+p39
+aS'Victim'
+p40
+aa(lp41
+S'Prasad'
+p42
+aS'96'
+p43
+aS'Victim'
+p44
+aa(lp45
+S'Vinodh'
+p46
+aS'131'
+p47
+aS'Victim'
+p48
+aa(lp49
+S'Lakshmi'
+p50
+aS'175'
+p51
+aS'Victim'
+p52
+aasS'TIM'
+p53
+(lp54
+S'evening : 37'
+p55
+asS'hot_setting'
+p56
+S'Deepavali or Diwali'
+p57
+sS'DAT'
+p58
+(lp59
+S'Friday : 36'
+p60
+asS'death'
+p61
+S'1'
+p62
+sS'title'
+p63
+S'One killed, two injured in cracker blast'
+p64
+sS'det_loc'
+p65
+(lp66
+S'India'
+p67
+aS'Andhra Pradesh'
+p68
+aS'Visakhapatnam'
+p69
+aS'Visakhapatnam'
+p70
+aS'Durga bazaar, Sector 5, Arilova'
+p71
+asS'terror_group'
+p72
+(lp73
+S''
+p74
+asS'content'
+p75
+S'One person was killed and two others sustained minor injuries in a powerful explosion triggered by home-made Deepavali bombs , at a house at Durga bazaar in Sector 5 in Arilova suburb near here on Friday evening . Assistant Commissioner of Police ( Madhurawada ) K. Rajendra Rao said that it emerged from a preliminary inquiry that K. Prasad , a cellphone mechanic , and Arasavilli Vinodh ( 19 ) were making cracker bombs in the house of the former . The explosion occurred when Vinodh was engaged in making bombs . At the time Prasad had gone out on an errand . The bombs made of sulphur and potassium went off , ripping the outer portion of the building . The impact of the explosion was so powerful that Vinodh died on the spot . According to local people , a gas cylinder exploded simultaneously . All the household goods suffered extensive damage . The blast ripped apart wooden furniture and refrigerator , besides causing massive cracks on the walls and sunshades . Lakshmi , living in the neighbourhood , suffered minor injuries and was in a state of shock . The injured were rushed to the King George Hospital where they were given first aid . The Arilova outpost police are investigating . OPEN'
+p76
+sS'injured'
+p77
+S'2'
+p78
+sS'org_unorg'
+p79
+S'UNORGANISED'
+p80
+sS'O'
+p81
+(lp82
+S'killed:4'
+p83
+aS'minor injuries:9'
+p84
+aS'powerful explosion:13'
+p85
+aS'home-made deepavali bombs:17'
+p86
+aS'preliminary inquiry:55'
+p87
+aS'cellphone mechanic:62'
+p88
+aS'cracker bombs:73'
+p89
+aS'explosion:83'
+p90
+aS'bombs:91'
+p91
+aS'errand:102'
+p92
+aS'sulphur and potassium:108'
+p93
+aS'building:120'
+p94
+aS'explosion:126'
+p95
+aS'gas cylinder:143'
+p96
+aS'extensive damage:153'
+p97
+aS'blast:157'
+p98
+aS'wooden furniture:160'
+p99
+aS'refrigerator:163'
+p100
+aS'massive cracks:167'
+p101
+aS'walls and sunshades:171'
+p102
+aS'minor injuries:183'
+p103
+aS'state of shock:189'
+p104
+aS'first aid:206'
+p105
+aS'investigating:214'
+p106
+asS'unexpl'
+p107
+(lp108
+g74
+asS'ocassion'
+p109
+S'NATIONAL FESTIVALS'
+p110
+sS'link'
+p111
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/one-killed-two-injured-in-cracker-blast/article4015703.ece'
+p112
+sS'date'
+p113
+S'19-10-2012'
+p114
+sS'target'
+p115
+S'RESIDENCE'
+p116
+sS'hot_spot'
+p117
+S'House of maker of cracker bombs'
+p118
+sS'delivery_mod'
+p119
+g74
+sS'delivery_met'
+p120
+S'ACCIDENTAL'
+p121
+sS'expl'
+p122
+(lp123
+S'CRACKER BOMB'
+p124
+asS'ORG'
+p125
+(lp126
+(lp127
+S'King George Hospital'
+p128
+aS'199'
+p129
+aS'Others'
+p130
+aas.

@@ -1,0 +1,368 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Jammu and Kashmir'
+p4
+aS'68'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Chattabal'
+p8
+aS'81'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Multan'
+p12
+aS'112'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Pakistan'
+p16
+aS'114'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Bemina'
+p20
+aS'135'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Uri'
+p24
+aS'160'
+p25
+aS'Accused Location'
+p26
+aa(lp27
+S'Line of Control'
+p28
+aS'163'
+p29
+aS'Accused Location'
+p30
+aa(lp31
+S'LoC'
+p32
+aS'167'
+p33
+aS'Accused Location'
+p34
+aa(lp35
+S'Baramulla'
+p36
+aS'170'
+p37
+aS'Accused Location'
+p38
+aa(lp39
+S'Uri'
+p40
+aS'234'
+p41
+aS'Accused Location'
+p42
+aa(lp43
+S'north Kashmir'
+p44
+aS'236'
+p45
+aS'Accused Location'
+p46
+aa(lp47
+S'Sahiwal'
+p48
+aS'253'
+p49
+aS'Accused Location'
+p50
+aa(lp51
+S'Dera Gazi Khan'
+p52
+aS'255'
+p53
+aS'Accused Location'
+p54
+aa(lp55
+S'Pakistan'
+p56
+aS'259'
+p57
+aS'Accused Location'
+p58
+aa(lp59
+S'Pakistan'
+p60
+aS'321'
+p61
+aS'Accused Location'
+p62
+aa(lp63
+S'Pakistan'
+p64
+aS'351'
+p65
+aS'Accused Location'
+p66
+aasS'PER'
+p67
+(lp68
+(lp69
+S'Zubair'
+p70
+aS'74'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Abu Tallah'
+p74
+aS'76'
+p75
+aS'Accused'
+p76
+aa(lp77
+S'Riaz'
+p78
+aS'79'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Zubair'
+p82
+aS'107'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Bashir'
+p86
+aS'139'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Haroon Bhai'
+p90
+aS'141'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Bashir'
+p94
+aS'155'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'Zubair'
+p98
+aS'179'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'Zubair'
+p102
+aS'193'
+p103
+aS'Accused'
+p104
+aa(lp105
+S'Bashir'
+p106
+aS'216'
+p107
+aS'Accused'
+p108
+aa(lp109
+S'Zubair'
+p110
+aS'229'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Zubair'
+p114
+aS'263'
+p115
+aS'Accused'
+p116
+aa(lp117
+S'Zubair'
+p118
+aS'342'
+p119
+aS'Accused'
+p120
+aasS'TIM'
+p121
+(lp122
+sS'hot_setting'
+p123
+S''
+p124
+sS'DAT'
+p125
+(lp126
+S'Wednesday:137'
+p127
+asS'death'
+p128
+S'5'
+p129
+sS'title'
+p130
+S"Srinagar attack: Arrested Pak militant aided two 'fidayeens'"
+p131
+sS'det_loc'
+p132
+(lp133
+S'India'
+p134
+aS'Jammu & Kashmir'
+p135
+aS'Srinagar'
+p136
+ag124
+aS'CRPF camp'
+p137
+asS'terror_group'
+p138
+(lp139
+S'LASHKAR-E-TAIBA'
+p140
+asS'content'
+p141
+VThe Pakistani militant arrested in a major breakthrough in the suicide strike that killed five CRPF men was a LeT recruit and it was he who allegedly dropped the two ` fidayeens ' in the outskirts of the city on the day of the attack , investigations show . . . In a swift operation a day after the attack , the Special Operations Group of the Jammu and Kashmir police arrested 22-year-old Zubair alias Abu Tallah alias Riaz from Chattabal area in the outskirts of the city late last night when he was talking to his handlers , official sources said today . . . Zubair , a resident of Multan in Pakistan , is the second person to be arrested in the attack on the CRPF camp near the Police-Public school in Bemina on Wednesday after Bashir alias Haroon Bhai was held hours after the attack . . . Sources said that Bashir , who hailed from Uri along the Line of Control -LRB- LoC -RRB- in Baramulla district , had tipped the state police about Zubair 's movements which led to his arrest . . . The sources said Zubair told the interrogators that he had dropped the two ` fidayeens ' -LRB- suicide attackers -RRB- hailing from his country along with Bashir , a surrendered militant . . . According to the police , Zubair had crossed over from Uri in north Kashmir a month ago and was followed by the two ` fidayeens ' who hailed from Sahiwal and Dera Gazi Khan in Pakistan . . . Zubair showed no signs of resistance when he was being overpowered by the SOG personnel on a roof top in a densely populated area when he was talking to his handlers , they said . . . During his night-long interrogation , the arrested terrorist gave details about his recruitment by terror outfit Lashker-e-Toiba -LRB- LeT -RRB- in Pakistan and also claimed he joined the outfit in view of the abject poverty he was living in . . . Zubair has two sisters and an elder brother in Pakistan and the family is reported to be financially weak with the father working in farms , the sources said . . . ... contd .
+p142
+sS'injured'
+p143
+g124
+sS'org_unorg'
+p144
+g124
+sS'O'
+p145
+(lp146
+S'pakistani militant:2'
+p147
+aS'suicide strike:11'
+p148
+aS'fidayeens:32'
+p149
+aS'second person to be arrested:118'
+p150
+aS'police-public school:132'
+p151
+aS'tipped the state police:174'
+p152
+aS'suicide attackers:207'
+p153
+aS'surrendered militant:219'
+p154
+aS'talking to his handlers:290'
+p155
+aS'recruitment by terror outfit:312'
+p156
+aS'abject poverty:333'
+p157
+asS'unexpl'
+p158
+(lp159
+g124
+asS'ocassion'
+p160
+g124
+sS'link'
+p161
+S'http://archive.indianexpress.com/news/srinagar-attack-arrested-pak-militant-aided-two-fidayeens/1088651/'
+p162
+sS'date'
+p163
+S'13-03-2013'
+p164
+sS'target'
+p165
+S'MILITARY GROUP'
+p166
+sS'hot_spot'
+p167
+g124
+sS'delivery_mod'
+p168
+S'HUMAN'
+p169
+sS'delivery_met'
+p170
+g124
+sS'expl'
+p171
+(lp172
+g124
+asS'ORG'
+p173
+(lp174
+(lp175
+S'CRPF'
+p176
+aS'16'
+p177
+aS'Victim'
+p178
+aa(lp179
+S'LeT'
+p180
+aS'20'
+p181
+aS'Accused'
+p182
+aa(lp183
+S'Special Operations Group'
+p184
+aS'63'
+p185
+aS'Others'
+p186
+aa(lp187
+S'CRPF'
+p188
+aS'128'
+p189
+aS'Victim'
+p190
+aa(lp191
+S'SOG'
+p192
+aS'276'
+p193
+aS'Others'
+p194
+aa(lp195
+S'Lashker-e-Toiba'
+p196
+aS'316'
+p197
+aS'Accused'
+p198
+aa(lp199
+S'LeT'
+p200
+aS'318'
+p201
+aS'Accused'
+p202
+aas.

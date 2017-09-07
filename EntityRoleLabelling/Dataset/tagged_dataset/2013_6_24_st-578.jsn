@@ -1,0 +1,158 @@
+{
+    "LOC": [
+        [
+            "Kabul", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "262", 
+            "Assoc Event Location"
+        ], 
+        [
+            "U.S.", 
+            "373", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Naqibullah Qarizada", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "Hayatullah", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Ace Campbell", 
+            "399", 
+            "Comment"
+        ], 
+        [
+            "Campbell", 
+            "434", 
+            "Comment"
+        ], 
+        [
+            "Hayatullah", 
+            "475", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "Afghan soldiers training to defuse bombs", 
+    "DAT": [], 
+    "death": "0", 
+    "title": "Afghans rush to learn art of defusing bombs", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Kabul", 
+        "A desolate field outside Kabul"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "In a desolate field outside Kabul , an Afghan soldier hunches over a knee-high robot equipped with cameras , multidirectional pincers and tank-treads built for rough terrain . Carefully , he attaches four bottles of water and a tiny explosive charge to the robot . He uses a remote control to guide it 50 metres away to his target a simulated backpack bomb . Explosion ! Explosion ! Explosion ! shouts the soldier , Naqibullah Qarizada , in a warning to others nearby . Then he remotely detonates the charge . A small dust cloud kicks up . If all has gone well , the blast has pushed the water into the bomb with enough force to knock out its triggering mechanism . But to be safe , his partner , Hayatullah , climbs into a heavy protective suit before lumbering over to pluck out the blasting cap and seal it in a fortified box . The two men are among hundreds of Afghan soldiers training to take over the dangerous fight against the wars biggest killers the Taliban-planted bombs that kill and maim thousands of people each year on and around the countrys roads and towns . A few years ago , there were almost no Afghan bomb disposal experts . Now , there are 369 but thats far from enough . The international coalition is rushing to train hundreds more before the exit of most coalition forces by the end of next year . Each day on average , two to three roadside or buried bombs explode somewhere in Afghanistan , according to numbers compiled by the United Nations , which says that the explosives killed 868 civilians last year , 40 per cent of the civilian deaths in insurgent attacks . Among international forces , buried or roadside bombs accounted for 64 per cent of the 3,300 coalition troops killed or wounded last year , the NATO force says . Known in military parlance as improvised explosives devices ( IEDs ) , the bombs have long been a favourite Taliban weapon that can be remotely detonated by radio or mobile phone when a target passes by or triggered by pressure , like a vehicle driving over it . The U.S. military has over the years developed advanced detection and disposal techniques that manage to defuse about 40 to 50 IEDs each day , says Colonel Ace Campbell , chief of the Counter-IED training unit . The coalition is working to transfer that knowledge to the Afghans who will be responsible once most foreign troops leave next year , and Colonel Campbell says Afghan teams are now finding and disposing about half of the bombs most days . Whenever I hear about an IED or I find one myself maybe you will laugh , but I become very happy , says Mr. Hayatullah ( 28 ) , who has completed the highest level of training . I am happy because it is my duty to defuse it , and I will save the lives of several people . AP OPEN", 
+    "injured": "0", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "desolate field:3", 
+        "afghan soldier:9", 
+        "knee-high robot equipped:14", 
+        "cameras:18", 
+        "multidirectional pincers:20", 
+        "tank-treads:23", 
+        "explosive:40", 
+        "robot:44", 
+        "remote control:49", 
+        "simulated backpack bomb:61", 
+        "explosion:65", 
+        "explosion:67", 
+        "explosion:69", 
+        "remotely detonates:87", 
+        "blast:106", 
+        "bomb:113", 
+        "triggering mechanism:121", 
+        "heavy protective suit:137", 
+        "lumbering:141", 
+        "blasting cap:147", 
+        "seal:150", 
+        "fortified box:154", 
+        "afghan soldiers:164", 
+        "training:166", 
+        "dangerous fight:171", 
+        "killers:177", 
+        "taliban-planted bombs:179", 
+        "Afghan bomb disposal experts:208", 
+        "international coalition:225", 
+        "coalition forces:238", 
+        "roadside or buried bombs:255", 
+        "explosives:277", 
+        "civilian deaths:289", 
+        "insurgent attacks:292", 
+        "buried or roadside bombs:299", 
+        "coalition troops:311", 
+        "improvised explosives devices:329", 
+        "IEDs:333", 
+        "bombs:337", 
+        "radio or mobile phone:351", 
+        "U.S. military:373", 
+        "detection and disposal techniques:381", 
+        "defuse:388", 
+        "ieds:393", 
+        "Afghans:419", 
+        "foreign troops:426", 
+        "Colonel Campbell:433", 
+        "afghan teams:436", 
+        "bombs:447", 
+        "ied:456", 
+        "training:487", 
+        "defuse:498"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "MOCK COUNTER-TERRORISM EXERCISE", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/afghans-rush-to-learn-art-of-defusing-bombs/article4844581.ece", 
+    "date": "11-06-2013", 
+    "target": "", 
+    "hot_spot": "A desolate field outside Kabul", 
+    "delivery_mod": "BACKPACK", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "United Nations", 
+            "270", 
+            "Others"
+        ], 
+        [
+            "NATO", 
+            "320", 
+            "Others"
+        ], 
+        [
+            "Taliban", 
+            "343", 
+            "Assoc Accused"
+        ], 
+        [
+            "Counter-IED", 
+            "405", 
+            "Others"
+        ], 
+        [
+            "AP", 
+            "511", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "95", 
+            "Neutral"
+        ], 
+        [
+            "Chinnaswami Stadium", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Madhubani", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "193", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "203", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "209", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "216", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "239", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir-based", 
+            "294", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "305", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir", 
+            "307", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "333", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "359", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "401", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "454", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "494", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra Police", 
+            "507", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "563", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "569", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Muhammad Adil", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Muhammad Zarar Siddibapa", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Adil", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "Siddibapa", 
+            "212", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Siddiqi", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "Irshad Khan", 
+            "221", 
+            "Accused"
+        ], 
+        [
+            "Gauhar Aziz Khomani", 
+            "224", 
+            "Accused"
+        ], 
+        [
+            "Gayur Jamali", 
+            "228", 
+            "Accused"
+        ], 
+        [
+            "Abdur Rahman", 
+            "231", 
+            "Accused"
+        ], 
+        [
+            "Ghulam Sarwar", 
+            "299", 
+            "Accused"
+        ], 
+        [
+            "Sarwar", 
+            "322", 
+            "Accused"
+        ], 
+        [
+            "Himayat Baig", 
+            "392", 
+            "Accused"
+        ], 
+        [
+            "Siddibapa", 
+            "404", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "432", 
+            "Accused"
+        ], 
+        [
+            "P. Chidambaram", 
+            "468", 
+            "Others"
+        ], 
+        [
+            "Chidambaram", 
+            "503", 
+            "Others"
+        ], 
+        [
+            "Siddibapa", 
+            "529", 
+            "Accused"
+        ], 
+        [
+            "Abdul Samad Siddibapa", 
+            "534", 
+            "Assoc Accused"
+        ], 
+        [
+            "Abdul Samad Siddibapa", 
+            "544", 
+            "Assoc Accused", 
+            "Others"
+        ], 
+        [
+            "Vinay Kumar", 
+            "560", 
+            "Comment"
+        ], 
+        [
+            "Amruta Byatnal", 
+            "566", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:52", 
+        "September:89", 
+        "April:100", 
+        "February:112", 
+        "2005:154", 
+        "2010:196", 
+        "September:320", 
+        "Wednesday:363", 
+        "Wednesday:473", 
+        "February 13:486", 
+        "2010:489"
+    ], 
+    "death": "", 
+    "title": "Breakthrough in 2010 attacks raises fears of renewed jihadist campaign", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Delhi Police investigators have announced the arrest of a terrorist cell that they claim was responsible for a string of nationwide attacks last year raising fears that Pakistan-based jihadist groups may be preparing for a renewed escalation of operations against India . The Delhi Police 's lite Special Cell announced on Wednesday that it had held six men , including Karachi-based Jaish-e-Muhammad operative Muhammad Adil , on the suspicion of having carried out three major attacks last year : a shooting at Delhi 's historic Jama Masjid in September ; the serial bombs outside Bangalore 's Chinnaswami Stadium in April ; and the bombing of the German Bakery in Pune in February . Fugitive Indian Mujahideen commander Muhammad Zarar Siddibapa a Karnataka resident also known by the alias Yasin Bhatkal and the commander of the cell , who is wanted for his alleged role in a string of urban bombings that began in 2005 however escaped arrest , the police said . Adil is alleged to have had past relationships with both the Jaish-e-Muhammad and organised crime groups . He , the police said , was living under cover in Madhubani , Bihar , since 2010 , when he was despatched to India by Indian Mujahideen commanders in Karachi to aid Siddibapa 's cell . Bihar residents Mohammad Siddiqi , Irshad Khan , Gauhar Aziz Khomani , Gayur Jamali and Abdur Rahman were held in separate raids in New Delhi and Chennai . The Delhi Police said they had recovered several kg of explosives , ammunition , two assault rifles and a pistol from a safe house used by the cell . The case is the second involving a Pakistan national in recent weeks . Earlier , the National Investigation Agency said fugitive Jammu and Kashmir-based terror commander Ghulam Sarwar , a resident of Pakistan occupied Kashmir , had carried out the bombing of the Delhi High Court in September . Sarwar , interestingly , possessed fake documents identifying him as a Bihar resident , and travelled to meet still-unidentified contacts in the State raising the prospect that he may have had links to the cell held in Delhi . Conflicting accounts Wednesday 's arrests are the third in a series linked to the Pune bombings all at apparent odds with each other . Maharashtra prosecutors had earlier charged local resident Himayat Baig with having carried out the bombing in Pune , naming Siddibapa as his commander . Elements of their account , though , sit ill with the Delhi Police 's findings . For example , Maharashtra Police investigators said Baig was paid to source bomb-making equipment to fabricate an explosive device at his cyber-caf . The discovery of a bomb-factory in Delhi , though , puts this version in some doubt . Union Home Minister P. Chidambaram told reporters on Wednesday that the six arrested men were suspected of having been involved in February 13 , 2010 German Bakery blast in Pune . Earlier this year , though , Mr Chidambaram told Parliament the Maharashtra Police had solved the Pune bombing following on from an earlier faux pax in which he complimented investigators on having arrested Siddibapa 's older brother , Abdul Samad Siddibapa , in connection with the case . Abdul Samad Siddibapa was later cleared of all charges and released . ( With inputs from Vinay Kumar in New Delhi and Amruta Byatnal in Pune . ) OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "terrorist cell:10", 
+        "year:24", 
+        "jihadist:29", 
+        "escalation:37", 
+        "karachi-based jaish-e-muhammad:61", 
+        "shooting:81", 
+        "serial bombs:92", 
+        "bombing:104", 
+        "commander:117", 
+        "resident:123", 
+        "bombings:150", 
+        "ammunition:256", 
+        "assault rifles:259", 
+        "pistol:263", 
+        "terror commander:297", 
+        "resident:303", 
+        "bombing:313", 
+        "resident:334", 
+        "pune bombings:375", 
+        "commander:407", 
+        "account:412", 
+        "explosive device:442", 
+        "discovery:449", 
+        "version:460", 
+        "doubt:463", 
+        "Union Home Minister:465", 
+        "German Bakery blast:490", 
+        "year:498", 
+        "parliament:505", 
+        "pune bombing:512"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/breakthrough-in-2010-attacks-raises-fears-of-renewed-jihadist-campaign/article2676206.ece", 
+    "date": "15-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi Police", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "Jaish-e-Muhammad", 
+            "62", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "Jaish-e-Muhammad", 
+            "174", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "205", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "245", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "289", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "420", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Police", 
+            "428", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "LOC": [
+        [
+            "Coimbatore", 
+            "2", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "seven years : 102"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday evening : 27", 
+        "February 14 , 1998 : 40", 
+        "December 2010:139", 
+        "October 30 , 2012 : 173", 
+        "Sunday:197"
+    ], 
+    "death": "58", 
+    "title": "Blasts case documents despatched to SC", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Coimbatore serial blast case documents weighing more than 250 kg packed in four huge boxes were sent to Supreme Court with armed police guard on Sunday evening by the Coimbatore Nizamuddin Kongu Express . The serial blasts of February 14 , 1998 claimed more than 58 lives and left over 200 injured besides damages to properties worth several crores of rupees . The case investigated by the Special Investigation Team ( SIT ) of the CB-CID was tried by the Special Court for Bomb Blast cases . A number of accused were awarded life sentences while the co-conspirators were awarded seven years life imprisonment . Eighteen convicts who were awarded life sentence by the Special Court went on an appeal before the Madras High Court and the High Court upheld the verdict of the trial court in December 2010 . Of the 18 , as many as 17 accused had moved the Supreme Court seeking to cancel the life sentence . The appeal is likely to come up for hearing on October 30 , 2012 . Hence , based on a notice from the Supreme Court , documents/materials pertaining to the case were sent on Sunday . OPEN", 
+    "injured": "200", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Coimbatore", 
+        "Coimbatore", 
+        ""
+    ], 
+    "O": [
+        "coimbatore serial blast:2", 
+        "documents:6", 
+        "250 kg packed:10", 
+        "four huge boxes:14", 
+        "police guard:24", 
+        "serial blasts:37", 
+        "damages:55", 
+        "crores:60", 
+        "special court:82", 
+        "bomb blast:85", 
+        "life sentences:95", 
+        "co-conspirators:99", 
+        "life imprisonment:104", 
+        "imprisonment:105", 
+        "eighteen convicts:107", 
+        "life sentence:112", 
+        "special court:116", 
+        "trial court:136", 
+        "life sentence:160", 
+        "documents/materials:189"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/blasts-case-documents-despatched-to-sc/article3760816.ece", 
+    "date": "14-02-1998", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Supreme Court", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "Coimbatore Nizamuddin Kongu Express", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "Special Investigation Team", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "SIT", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "CB-CID", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "Madras High Court", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "Supreme Court", 
+            "154", 
+            "Others"
+        ], 
+        [
+            "Supreme Court", 
+            "186", 
+            "Others"
+        ]
+    ]
+}

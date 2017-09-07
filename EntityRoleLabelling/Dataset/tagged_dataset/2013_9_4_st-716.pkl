@@ -1,0 +1,284 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Baghdad'
+p4
+aS'8'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Iraq'
+p8
+aS'18'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Talibiyah'
+p12
+aS'113'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Baghdads'
+p16
+aS'242'
+p17
+aS'Event'
+p18
+aa(lp19
+S'U.S.'
+p20
+aS'290'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Basra'
+p24
+aS'346'
+p25
+aS'Assoc Event Location'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'Wisam al-Hardan'
+p30
+aS'316'
+p31
+aS'Assoc Victim'
+p32
+aa(lp33
+S'Abdul-Karim Mustafa'
+p34
+aS'354'
+p35
+aS'Assoc Victim'
+p36
+aasS'TIM'
+p37
+(lp38
+S'evening : 5'
+p39
+aS'evening : 47'
+p40
+aS'evenings : 96'
+p41
+aS'evening : 170'
+p42
+asS'hot_setting'
+p43
+S'Insurgents try to capitalise on rising sectarian and ethnic tensions.'
+p44
+sS'DAT'
+p45
+(lp46
+S'Tuesday : 20'
+p47
+aS'Monday : 324'
+p48
+asS'death'
+p49
+S'33'
+p50
+sS'title'
+p51
+S'Bombings, attacks in Iraq kill 47'
+p52
+sS'det_loc'
+p53
+(lp54
+S'Iraq'
+p55
+aS''
+p56
+ag56
+aS'Baghdad; Basra'
+p57
+aS'Talibiyah in Baghdad'
+p58
+asS'terror_group'
+p59
+(lp60
+S'AL-QAEDA'
+p61
+asS'content'
+p62
+S'A series of coordinated evening blasts in Baghdad and other violence killed at least 47 people in Iraq on Tuesday , officials said . Many of those killed were caught up in a string of car bombings that tore through the Iraqi capital early in the evening as residents were out shopping or heading to dinner . Those blasts struck seven different neighbourhoods and claimed at least 33 lives . The killing comes amid a spike in deadly violence in recent months as insurgents try to capitalise on rising sectarian and ethnic tensions . The evenings deadliest single blast struck hit a row of restaurants in the largely Shia eastern neighbourhood of Talibiyah , killing seven and wounding 28 . No one claimed immediate responsibility for the attacks , but coordinated car bombings and attacks on civilians and Iraqi security forces are a favourite tactic of the Iraqi branch of al-Qaeda . It typically does not lay claim to attacks for many days , if at all . The evening blasts added to a death toll that had been mounting throughout the day . Shia and Sunni leaders have both called for calm , hoping to avoid a return to those dark days . But the bloodshed continues , with more than 4,000 people killed over the past five months alone . That includes 804 Iraqis killed just last month , according to U.N. figures released earlier this week . In Baghdads southern suburbs , gunmen stormed the house of a member of a Sunni militia opposed to al-Qaeda , killing him and his wife and three children in a southern suburb of the capital , according to police . The militia , known as the Sahwa , helped U.S. troops fight al-Qaeda at the height of the war and since been a target for hard-line insurgents who consider them traitors . Prominent Sahwa leader Wisam al-Hardan escaped unharmed an assassination attempt on Monday by two suicide bombers , but six of his bodyguards and a bystander were killed . In the southern city of Basra , gunmen shot and killed Sunni cleric Abdul-Karim Mustafa . AP OPEN'
+p63
+sS'injured'
+p64
+S'28'
+p65
+sS'org_unorg'
+p66
+S'ORGANISED'
+p67
+sS'O'
+p68
+(lp69
+S'blasts:6'
+p70
+aS'violence:11'
+p71
+aS'car bombings:36'
+p72
+aS'Iraqi capital:42'
+p73
+aS'blasts:59'
+p74
+aS'deadly violence:78'
+p75
+aS'insurgents:84'
+p76
+aS'capitalise:87'
+p77
+aS'sectarian and ethnic tensions:90'
+p78
+aS'deadliest single blast:97'
+p79
+aS'Shia:109'
+p80
+aS'attacks:128'
+p81
+aS'car bombings:132'
+p82
+aS'attacks:135'
+p83
+aS'civilians and Iraqi security forces:137'
+p84
+aS'Iraqi branch:148'
+p85
+aS'attacks:160'
+p86
+aS'blasts:171'
+p87
+aS'Shia:185'
+p88
+aS'Sunni:187'
+p89
+aS'dark days:202'
+p90
+aS'bloodshed:207'
+p91
+aS'4,000 people:213'
+p92
+aS'804 Iraqis:225'
+p93
+aS'gunmen:246'
+p94
+aS'sunni militia:255'
+p95
+aS'militia:282'
+p96
+aS'war:299'
+p97
+aS'hard-line insurgents:306'
+p98
+aS'traitors:311'
+p99
+aS'assassination attempt:321'
+p100
+aS'suicide bombers:327'
+p101
+aS'bodyguards:334'
+p102
+aS'bystander:337'
+p103
+aS'Sunni cleric Abdul-Karim Mustafa:352'
+p104
+asS'unexpl'
+p105
+(lp106
+g56
+asS'ocassion'
+p107
+S'INSURGENCY/CIVIL WAR'
+p108
+sS'link'
+p109
+S'http://www.thehindu.com/todays-paper/tp-international/bombings-attacks-in-iraq-kill-47/article5091711.ece'
+p110
+sS'date'
+p111
+S'03-09-2013'
+p112
+sS'target'
+p113
+S'TOWN'
+p114
+sS'hot_spot'
+p115
+S'Shia eastern neighbourhood of Talibiyah in Baghdad.'
+p116
+sS'delivery_mod'
+p117
+S'CAR'
+p118
+sS'delivery_met'
+p119
+S'PLANTED'
+p120
+sS'expl'
+p121
+(lp122
+g56
+asS'ORG'
+p123
+(lp124
+(lp125
+S'al-Qaeda'
+p126
+aS'151'
+p127
+aS'Accused'
+p128
+aa(lp129
+S'U.N.'
+p130
+aS'234'
+p131
+aS'Others'
+p132
+aa(lp133
+S'al-Qaeda'
+p134
+aS'259'
+p135
+aS'Accused'
+p136
+aa(lp137
+S'Sahwa'
+p138
+aS'287'
+p139
+aS'Assoc Victim'
+p140
+aa(lp141
+S'al-Qaeda'
+p142
+aS'293'
+p143
+aS'Assoc Accused'
+p144
+aa(lp145
+S'Sahwa'
+p146
+aS'314'
+p147
+aS'Others'
+p148
+aa(lp149
+S'AP'
+p150
+aS'357'
+p151
+aS'Others'
+p152
+aas.

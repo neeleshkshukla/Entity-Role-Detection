@@ -1,0 +1,287 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Guwahati'
+p4
+aS'14'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'city'
+p8
+aS'44'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Jorhat'
+p12
+aS'51'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Paltanbazar'
+p16
+aS'81'
+p17
+aS'Event'
+p18
+aa(lp19
+S'R.G. Baruah Road'
+p20
+aS'84'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Guwahati'
+p24
+aS'88'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Assam'
+p28
+aS'97'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Guwahati'
+p32
+aS'117'
+p33
+aS'Event'
+p34
+aa(lp35
+S'A.T. Road'
+p36
+aS'157'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Panbazar'
+p40
+aS'173'
+p41
+aS'Event'
+p42
+aasS'PER'
+p43
+(lp44
+(lp45
+S'Sushanta Talukdar'
+p46
+aS'1'
+p47
+aS'Others'
+p48
+aasS'TIM'
+p49
+(lp50
+S'6:10:121'
+p51
+aS'6:10 p.m.:121'
+p52
+aS'6:10 p.m.:196'
+p53
+asS'hot_setting'
+p54
+S''
+p55
+sS'DAT'
+p56
+(lp57
+S'Sunday night:55'
+p58
+asS'death'
+p59
+g47
+sS'title'
+p60
+S'ULFA triggers four blasts, one killed'
+p61
+sS'org_unorg'
+p62
+g55
+sS'terror_group'
+p63
+(lp64
+S' UNITED LIBERATION FRONT OF ASOM'
+p65
+asS'content'
+p66
+VSushanta Talukdar . . Militants lob grenade at police patrol post . . Guwahati : One person was killed and eight security personnel were injured when suspected United Liberation Front of Asom -LRB- ULFA -RRB- militants triggered four blasts - three in the city and one in Upper Assam 's Jorhat town - on Sunday night . . . The militants lobbed a grenade at a police patrol post and triggered two time devices almost simultaneously near Police Reserve at Paltanbazar and on R.G. Baruah Road in Guwahati . . . Four CRPF personnel and an Assam police personnel were injured when the militants lobbed a grenade at them while they were checking a vehicle near Guwahati Commerce College at 6:10 p.m. . The police said the grenade was lobbed from a car which sped away . . . Almost at the same time two blasts occurred in quick succession near Police Reserve on the busy A.T. Road . A civilian was killed and three police personnel , including the officer-in-charge of Panbazar station , were injured . . . The first bomb , suspected to be a programmed time device , went off at 6:10 p.m. instantly killing a civilian .
+p67
+sS'injured'
+p68
+S'8'
+p69
+sS'det_loc'
+p70
+(lp71
+S'India'
+p72
+aS'Assam'
+p73
+aS'Kamrup'
+p74
+aS'Guwahati'
+p75
+ag55
+asS'O'
+p76
+(lp77
+S'Militants:5'
+p78
+aS'grenade:7'
+p79
+aS'police patrol post:9'
+p80
+aS'killed:19'
+p81
+aS'security personnel:22'
+p82
+aS'injured:25'
+p83
+aS'suspected:27'
+p84
+aS'militants triggered:36'
+p85
+aS'four blasts:38'
+p86
+aS"Upper Assam 's Jorhat town:48"
+p87
+aS'militants:61'
+p88
+aS'lobbed:62'
+p89
+aS'grenade:64'
+p90
+aS'police patrol post:67'
+p91
+aS'triggered:71'
+p92
+aS'two time devices:72'
+p93
+aS'Police Reserve:78'
+p94
+aS'Four CRPF personnel:92'
+p95
+aS'Assam police personnel:97'
+p96
+aS'injured:101'
+p97
+aS'militants:104'
+p98
+aS'lobbed:105'
+p99
+aS'grenade:107'
+p100
+aS'checking:113'
+p101
+aS'vehicle:115'
+p102
+aS'grenade:128'
+p103
+aS'lobbed:130'
+p104
+aS'car:133'
+p105
+aS'two blasts:145'
+p106
+aS'quick succession:149'
+p107
+aS'Police Reserve:152'
+p108
+aS'killed:163'
+p109
+aS'three police personnel:165'
+p110
+aS'officer-in-charge:171'
+p111
+aS'Panbazar station:173'
+p112
+aS'injured:177'
+p113
+aS'first bomb:182'
+p114
+aS'suspected:185'
+p115
+aS'programmed time device:189'
+p116
+aS'civilian:201'
+p117
+asS'unexpl'
+p118
+(lp119
+g55
+asS'ocassion'
+p120
+g55
+sS'link'
+p121
+S'http://www.thehindu.com/todays-paper/ulfa-triggers-four-blasts-one-killed/article3243477.ece'
+p122
+sS'date'
+p123
+S'22-01-2006'
+p124
+sS'target'
+p125
+S'PUBLIC PLACES'
+p126
+sS'hot_spot'
+p127
+g55
+sS'delivery_mod'
+p128
+S'CAR'
+p129
+sS'delivery_met'
+p130
+S'THROWN'
+p131
+sS'expl'
+p132
+(lp133
+S'GRENADE'
+p134
+asS'ORG'
+p135
+(lp136
+(lp137
+S'United Liberation Front of Asom'
+p138
+aS'28'
+p139
+aS'Accused'
+p140
+aa(lp141
+S'ULFA'
+p142
+aS'34'
+p143
+aS'Accused'
+p144
+aa(lp145
+S'CRPF'
+p146
+aS'93'
+p147
+aS'Others'
+p148
+aa(lp149
+S'Guwahati Commerce College'
+p150
+aS'117'
+p151
+aS'Others'
+p152
+aas.

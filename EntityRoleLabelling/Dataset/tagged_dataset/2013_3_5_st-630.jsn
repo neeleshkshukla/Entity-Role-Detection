@@ -1,0 +1,262 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "Ranchi", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Bariatu", 
+            "58", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "119", 
+            "Event"
+        ], 
+        [
+            "Wagamon", 
+            "163", 
+            "Neutral"
+        ], 
+        [
+            "Kochi", 
+            "165", 
+            "Neutral"
+        ], 
+        [
+            "Kochi", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "Ernakulam", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "249", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "265", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manzar Imam", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "Danish Iqbal", 
+            "134", 
+            "Others"
+        ], 
+        [
+            "Imam", 
+            "158", 
+            "Others"
+        ], 
+        [
+            "Danish Iqbal", 
+            "200", 
+            "Victim", 
+            "Others"
+        ], 
+        [
+            "Imam", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "Imam", 
+            "224", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:69", 
+        "2010:168"
+    ], 
+    "death": "", 
+    "title": "NIA arrests former SIMI activist", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "HYDERABAD", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "An ex-activist of the outlawed Students Islamic Movement of India ( SIMI ) , Manzar Imam , who had been evading the police for over two years , was arrested by the National Investigation Agency ( NIA ) officials in Ranchi in Jharkhand , when he was on his way to his house near Joda Talab in Bariatu . He was produced in the Judicial Magistrates Court on Monday afternoon . Initially , a news agency put out a report stating that he was held in connection with the Hyderabad blasts , sending everyone into a tizzy here . But , the NIA officials later clarified that his arrest had no connection with the recent twin explosions at Dilsukhnagar . However , there is a connection to the city in the sense that Danish Iqbal , who was working for an IT company here , took part in a militant training camp organised by SIMI along with Imam and 50 others at Wagamon near Kochi , in 2010 . They underwent firing practice , handling of explosives and detonation of bombs , a NIA officer said . They were taught on ways to escape from a police raid . Danish Iqbal is currently lodged in prison and Imam is the 24th accused in the case reported in Kochi . Police officials said that Imam has been sent to a five-day transit remand to Ernakulam . He had been evading arrest for two yearsHis arrest is not connected to Hyderabad blasts He had been evading arrest for two years His arrest is not connected to Hyderabad blasts OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "ex-activist:2", 
+        "islamic movement:7", 
+        "tizzy:97", 
+        "firing practice:172", 
+        "detonation:179", 
+        "prison:206", 
+        "arrest:255"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/nia-arrests-former-simi-activist/article4477193.ece", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Islamic Movement of India ( SIMI )", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "National", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "National Investigation", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "National Investigation", 
+            "33", 
+            "Others"
+        ], 
+        [
+            "Investigation Agency", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "Investigation", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "Agency", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "Joda Talab in Bariatu", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Judicial", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Judicial Magistrates", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Judicial Magistrates Court", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Court", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "Court on Monday", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "IT company", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "militant training", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "155", 
+            "Others"
+        ], 
+        [
+            "NIA officer", 
+            "184", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "184", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "220", 
+            "Others"
+        ]
+    ]
+}

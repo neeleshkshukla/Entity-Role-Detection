@@ -1,0 +1,348 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'22'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Pune'
+p8
+aS'36'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Maharashtra'
+p12
+aS'91'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Pune'
+p16
+aS'97'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Pune'
+p20
+aS'180'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Pune'
+p24
+aS'196'
+p25
+aS'Event'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'P. Chidambaram'
+p30
+aS'27'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Chidambaram'
+p34
+aS'76'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Praveen Pant'
+p38
+aS'124'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Chidambaram'
+p42
+aS'252'
+p43
+aS'Comment'
+p44
+aasS'TIM'
+p45
+(lp46
+sS'hot_setting'
+p47
+S''
+p48
+sS'DAT'
+p49
+(lp50
+S'Tuesday : 30'
+p51
+aS'February 13 : 41'
+p52
+aS'October 9 , 2009 : 106'
+p53
+aS'December 2009 : 153'
+p54
+aS'April 3 or 4 : 369'
+p55
+asS'death'
+p56
+S'17'
+p57
+sS'title'
+p58
+S'Pune blast a blot on our record, says Chidambaram'
+p59
+sS'org_unorg'
+p60
+g48
+sS'terror_group'
+p61
+(lp62
+g48
+asS'content'
+p63
+VSpecial Correspondent . . Denies there was intelligence failure . . States urged to have their own anti-terrorist forces . . NEW DELHI : Home Minister P. Chidambaram on Tuesday said the bomb blast in Pune 's German Bakery on February 13 despite the Centre sharing enough intelligence about the terror threat was a blot on our record . . . Seventeen persons including some foreigners were killed in the blast . . . Mr. Chidambaram claimed that there was no intelligence failure as enough information was shared with the Maharashtra police about specific targets in Pune . In turn , the Pune police on October 9 , 2009 , sent advisories to various establishments , including the German Bakery and its manager Praveen Pant even acknowledged receipt of the police 's letter . But the German Bakery and some other establishments did not pay heed to the warning . Again in December 2009 , the same advisory was reiterated . . . The Minister , who was responding to a supplementary question in the Lok Sabha on the Pune blast , said : Despite the intelligence shared , despite the advisories issued , the Pune blast occurred . It is a blot . I regard that as a blot on our record . The Centre monitors and reviews the internal security situation on a continuous basis . Intelligence inputs are regularly shared with State governments and Union Territories and wherever necessary , advisories are also issued . . . Mr. Chidambaram said the Centre helped the State governments under the police modernisation scheme to establish an elite Anti-Terrorist Force -LRB- ATF -RRB- . Six States had so far raised their own ATFs . Some States had Quick Reaction Teams which were smaller units . . . He urged all the States to have their own ATFs and promised Central assistance for procuring weapons , bullet-proof jackets and accessories . If the States want to ride piggy back on the Centre they can give their requirement and need not undergo the tendering process . . . On procuring bullet-proof jackets for the Central forces , he said the final decision on the tendering process would be taken on April 3 or 4 . . . He expressed confidence that threats from terrorists would be countered as things were improving , the capacity -LRB- of the police -RRB- was being strengthened and the police forces were becoming more efficient . But it will take time to have a more strong anti-terrorist capacity in this country , he said .
+p64
+sS'injured'
+p65
+g48
+sS'det_loc'
+p66
+(lp67
+S'India'
+p68
+aS'Maharashtra'
+p69
+aS'Pune'
+p70
+ag48
+ag48
+asS'O'
+p71
+(lp72
+S'Denies:5'
+p73
+aS'intelligence failure:8'
+p74
+aS'States:12'
+p75
+aS'anti-terrorist forces:18'
+p76
+aS'bomb blast:33'
+p77
+aS'German Bakery:38'
+p78
+aS'Centre:45'
+p79
+aS'intelligence:48'
+p80
+aS'terror threat:51'
+p81
+aS'blot:55'
+p82
+aS'record:58'
+p83
+aS'foreigners:66'
+p84
+aS'killed:68'
+p85
+aS'blast:71'
+p86
+aS'claimed:77'
+p87
+aS'no intelligence failure:81'
+p88
+aS'enough information:85'
+p89
+aS'specific targets:94'
+p90
+aS'advisories:112'
+p91
+aS'German Bakery:119'
+p92
+aS"police 's letter:131"
+p93
+aS'German Bakery:137'
+p94
+aS'heed:146'
+p95
+aS'warning:149'
+p96
+aS'advisory:158'
+p97
+aS'reiterated:160'
+p98
+aS'supplementary question:172'
+p99
+aS'Lok Sabha:176'
+p100
+aS'Pune blast:180'
+p101
+aS'intelligence:187'
+p102
+aS'advisories issued:192'
+p103
+aS'blast:197'
+p104
+aS'record:213'
+p105
+aS'Centre monitors:216'
+p106
+aS'reviews:219'
+p107
+aS'internal security situation:221'
+p108
+aS'Intelligence inputs:229'
+p109
+aS'advisories:244'
+p110
+aS'Centre:255'
+p111
+aS'modernisation scheme:263'
+p112
+aS'Six States:275'
+p113
+aS'raised:280'
+p114
+aS'States:286'
+p115
+aS'Quick Reaction Teams:288'
+p116
+aS'States:302'
+p117
+aS'promised:309'
+p118
+aS'Central assistance:310'
+p119
+aS'procuring weapons:313'
+p120
+aS'bullet-proof jackets:316'
+p121
+aS'accessories:319'
+p122
+aS'States:323'
+p123
+aS'ride piggy back:326'
+p124
+aS'Centre:331'
+p125
+aS'requirement:336'
+p126
+aS'tendering process:342'
+p127
+aS'bullet-proof jackets:349'
+p128
+aS'Central forces:353'
+p129
+aS'final decision:359'
+p130
+aS'tendering process:363'
+p131
+aS'confidence:378'
+p132
+aS'threats:380'
+p133
+aS'terrorists:382'
+p134
+aS'improving:389'
+p135
+aS'strengthened:400'
+p136
+aS'anti-terrorist:420'
+p137
+asS'unexpl'
+p138
+(lp139
+g48
+asS'ocassion'
+p140
+g48
+sS'link'
+p141
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/pune-blast-a-blot-on-our-record-says-chidambaram/article730261.ece'
+p142
+sS'date'
+p143
+S'13-02-2010'
+p144
+sS'target'
+p145
+g48
+sS'hot_spot'
+p146
+g48
+sS'delivery_mod'
+p147
+g48
+sS'delivery_met'
+p148
+S'PLANTED'
+p149
+sS'expl'
+p150
+(lp151
+g48
+asS'ORG'
+p152
+(lp153
+(lp154
+S'State governments'
+p155
+aS'235'
+p156
+aS'Others'
+p157
+aa(lp158
+S'Union Territories'
+p159
+aS'238'
+p160
+aS'Others'
+p161
+aa(lp162
+S'State governments'
+p163
+aS'258'
+p164
+aS'Others'
+p165
+aa(lp166
+S'Anti-Terrorist Force'
+p167
+aS'269'
+p168
+aS'Others'
+p169
+aa(lp170
+S'ATF'
+p171
+aS'272'
+p172
+aS'Others'
+p173
+aa(lp174
+S'ATFs'
+p175
+aS'283'
+p176
+aS'Others'
+p177
+aa(lp178
+S'ATFs'
+p179
+aS'307'
+p180
+aS'Others'
+p181
+aas.

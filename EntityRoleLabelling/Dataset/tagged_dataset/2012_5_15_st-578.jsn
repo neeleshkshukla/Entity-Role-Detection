@@ -1,0 +1,134 @@
+{
+    "LOC": [
+        [
+            "Sitanagaram", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Dummugudem mandal", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Sitanagaram", 
+            "87", 
+            "Event"
+        ], 
+        [
+            "Chhattisgarh", 
+            "200", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "forest section officer", 
+            "74", 
+            "Victim"
+        ], 
+        [
+            "Kurasam Rajulu", 
+            "78", 
+            "Victim"
+        ], 
+        [
+            "Adivasis", 
+            "122", 
+            "Assoc Victim"
+        ]
+    ], 
+    "TIM": [
+        "2 a.m.:89"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:23", 
+        "May 16:42"
+    ], 
+    "death": "", 
+    "title": "Maoists attempt to blast forest official's quarters", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        "Sitanagaram in Dummugudem mandal,khammam"
+    ], 
+    "terror_group": [
+        "Maoist Communist Centre (MCC)"
+    ], 
+    "content": "Maoists made an attempt to blast a forest section officer 's quarters at Sitanagaram in Dummugudem mandal in the early hours of Monday . The incident comes just two days ahead of the nationwide bandh called by the banned outfit on May 16 against Operation Green Hunt and the proposed National Counter Terrorism Centre . According to sources , the Maoists , mainly comprising militia members , went to the quarters of the forest section officer , Kurasam Rajulu , abutting the Bhadrachalam-Charla main road at Sitanagaram around 2 a.m. . A group went inside the quarters and woke up the official , who was alone . Partial damage The naxalites hit him with rifle butts and accused him of harassing Adivasis . After throwing his belongings outside the quarters , the Maoists planted two tiffin carriers containing explosive material inside the quarters . They then set off the bombs . One of them went off causing partial damage to the floor and doors . They snatched the official 's mobile phone and left behind a poster calling upon people to make the bandh a success . The incident , which occurred a few kilometres from the border with Chhattisgarh , caught the local police by surprise . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "attempt:4", 
+        "blast:6", 
+        "forest section officer:8", 
+        "mandal:17", 
+        "incident:26", 
+        "bandh:35", 
+        "outfit:40", 
+        "operation green hunt:45", 
+        "operation green:45", 
+        "hunt:47", 
+        "national counter terrorism centre:51", 
+        "militia:65", 
+        "forest section officer:74", 
+        "bhadrachalam-charla:83", 
+        "road:85", 
+        "group:93", 
+        "official:102", 
+        "damage:109", 
+        "hit:112", 
+        "rifle:115", 
+        "tiffin:136", 
+        "explosive material:139", 
+        "set:147", 
+        "damage:159", 
+        "floor:162", 
+        "official:169", 
+        "phone:172", 
+        "poster:177", 
+        "bandh:184", 
+        "success:186", 
+        "incident:189", 
+        "border:198", 
+        "surprise:207"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Riots", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/maoists-attempt-to-blast-forest-officials-quarters/article3419954.ece", 
+    "date": "14-05-2012", 
+    "target": "quarters", 
+    "hot_spot": "", 
+    "delivery_mod": "tiffin", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Counter Terrorism Centre", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "naxalites", 
+            "111", 
+            "Accused"
+        ], 
+        [
+            "Maoists", 
+            "133", 
+            "Accused"
+        ]
+    ]
+}

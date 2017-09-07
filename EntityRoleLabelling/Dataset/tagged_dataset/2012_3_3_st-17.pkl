@@ -1,0 +1,216 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mazgaon'
+p4
+aS'47'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'New Delhi'
+p8
+aS'96'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Mumbai'
+p12
+aS'122'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Haroon Naik'
+p18
+aS'11'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Kanwal Nain Patrija'
+p22
+aS'14'
+p23
+aS'Accused'
+p24
+aa(lp25
+S'Haroon Naik'
+p26
+aS'72'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Kanwal Nain Patrija'
+p30
+aS'90'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Yasin Bhatkal'
+p34
+aS'114'
+p35
+aS'Accused'
+p36
+aasS'TIM'
+p37
+(lp38
+sS'hot_setting'
+p39
+S''
+p40
+sS'DAT'
+p41
+(lp42
+S'Friday : 5'
+p43
+aS'13/7 : 30'
+p44
+aS'9th March : 35'
+p45
+aS'July : 124'
+p46
+asS'death'
+p47
+g40
+sS'title'
+p48
+S'Custody of IM operatives extended'
+p49
+sS'det_loc'
+p50
+(lp51
+S'India'
+p52
+ag40
+ag40
+aS'Mumbai'
+p53
+ag40
+asS'terror_group'
+p54
+(lp55
+g40
+asS'content'
+p56
+S"A local court on Friday extended the police custody of Haroon Naik and Kanwal Nain Patrija , alleged operatives of Indian Mujahideen , arrested for their role in the 13/7 bomb blasts , till 9th March . The Anti-Terrorism Squad ( ATS ) lawyer told the Mazgaon Court that the investigating agency needed more time to complete investigations as new evidence in the form of phone numbers was recently discovered . Haroon Naik is alleged to have used Hawala channels to fund the triple blasts here last year and Kanwal Nain Patrija , arrested from New Delhi , is accused of handing over Rs . 10 lakh to fugitive IM 's top operative Yasin Bhatkal to execute the terror attack in Mumbai in July last year . OPEN"
+p57
+sS'injured'
+p58
+g40
+sS'org_unorg'
+p59
+S'ORGANISED'
+p60
+sS'O'
+p61
+(lp62
+S'local court:2'
+p63
+aS'police custody:8'
+p64
+aS'alleged operatives:18'
+p65
+aS'arrested:24'
+p66
+aS'bomb blasts:31'
+p67
+aS'investigating agency:51'
+p68
+aS'investigations:58'
+p69
+aS'new evidence:60'
+p70
+aS'phone numbers:66'
+p71
+aS'hawala channels:79'
+p72
+aS'triple blasts:84'
+p73
+aS'rs . 10 lakh:104'
+p74
+aS'fugitive:109'
+p75
+aS'terror attack:119'
+p76
+asS'unexpl'
+p77
+(lp78
+g40
+asS'ocassion'
+p79
+g40
+sS'link'
+p80
+S'http://www.thehindu.com/todays-paper/custody-of-im-operatives-extended/article2956013.ece'
+p81
+sS'date'
+p82
+S'13-07-2011'
+p83
+sS'target'
+p84
+S'TOWN'
+p85
+sS'hot_spot'
+p86
+g40
+sS'delivery_mod'
+p87
+g40
+sS'delivery_met'
+p88
+S'PLANTED'
+p89
+sS'expl'
+p90
+(lp91
+g40
+asS'ORG'
+p92
+(lp93
+(lp94
+S'Indian Mujahideen'
+p95
+aS'21'
+p96
+aS'Accused'
+p97
+aa(lp98
+S'Anti-Terrorism Squad'
+p99
+aS'39'
+p100
+aS'Others'
+p101
+aa(lp102
+S'ATS'
+p103
+aS'42'
+p104
+aS'Others'
+p105
+aa(lp106
+S'Mazgaon Court'
+p107
+aS'47'
+p108
+aS'Others'
+p109
+aa(lp110
+S'IM'
+p111
+aS'110'
+p112
+aS'Accused'
+p113
+aas.

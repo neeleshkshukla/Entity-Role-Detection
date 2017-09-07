@@ -1,0 +1,457 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Osho Ashram'
+p4
+aS'27'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Jewish Chabad House'
+p8
+aS'34'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Mumbai'
+p12
+aS'88'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'India'
+p16
+aS'115'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Pakistan'
+p20
+aS'117'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Mumbai'
+p24
+aS'129'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Delhi'
+p28
+aS'146'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'German Bakery'
+p32
+aS'203'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Mumbai'
+p36
+aS'215'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'O Hotel'
+p40
+aS'306'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Chabad House'
+p44
+aS'354'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Mumbai'
+p48
+aS'357'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Pune'
+p52
+aS'377'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Koregaon'
+p56
+aS'388'
+p57
+aS'Accused Location'
+p58
+aa(lp59
+S'Delhi'
+p60
+aS'399'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Pune'
+p64
+aS'448'
+p65
+aS'Assoc Event Location'
+p66
+aa(lp67
+S'Pune'
+p68
+aS'461'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Koregaon Park'
+p72
+aS'540'
+p73
+aS'Event'
+p74
+aa(lp75
+S'Delhi'
+p76
+aS'578'
+p77
+aS'Neutral'
+p78
+aa(lp79
+S'Pune'
+p80
+aS'595'
+p81
+aS'Neutral'
+p82
+aa(lp83
+S'Maharashtra'
+p84
+aS'616'
+p85
+aS'Neutral'
+p86
+aa(lp87
+S'German Bakery'
+p88
+aS'634'
+p89
+aS'Event'
+p90
+aa(lp91
+S'Koregaon'
+p92
+aS'644'
+p93
+aS'Neutral'
+p94
+aasS'PER'
+p95
+(lp96
+(lp97
+S'David Coleman Headley'
+p98
+aS'42'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'G K Pillai'
+p102
+aS'183'
+p103
+aS'Comment'
+p104
+aa(lp105
+S'M Z Ansari'
+p106
+aS'268'
+p107
+aS'Comment'
+p108
+aa(lp109
+S'Ramesh Bagwe'
+p110
+aS'337'
+p111
+aS'Comment'
+p112
+aa(lp113
+S'Headley'
+p114
+aS'367'
+p115
+aS'Accused'
+p116
+aa(lp117
+S'Headley'
+p118
+aS'379'
+p119
+aS'Accused'
+p120
+aa(lp121
+S'Pillai'
+p122
+aS'401'
+p123
+aS'Others'
+p124
+aa(lp125
+S'Shahzad Ahmad'
+p126
+aS'433'
+p127
+aS'Assoc Accused'
+p128
+aa(lp129
+S'G K Pillai'
+p130
+aS'492'
+p131
+aS'Comment'
+p132
+aa(lp133
+S'U K Bansal'
+p134
+aS'571'
+p135
+aS'Comment'
+p136
+aa(lp137
+S'R R Patil'
+p138
+aS'591'
+p139
+aS'Others'
+p140
+aa(lp141
+S'Ashok Chavan'
+p142
+aS'604'
+p143
+aS'Others'
+p144
+aa(lp145
+S'Chhagan Bhujbal'
+p146
+aS'619'
+p147
+aS'Others'
+p148
+aa(lp149
+S'R R Patil'
+p150
+aS'651'
+p151
+aS'Comment'
+p152
+aasS'TIM'
+p153
+(lp154
+S'7.15 pm : 163'
+p155
+asS'hot_setting'
+p156
+S''
+p157
+sS'DAT'
+p158
+(lp159
+S'Saturday:10'
+p160
+aS'26/11 : 40'
+p161
+aS'26/11 : 87'
+p162
+aS'February 25:143'
+p163
+aS'February:143'
+p164
+aS'26/11 : 362'
+p165
+aS'Saturday:598'
+p166
+aS'Saturday night:598'
+p167
+aS'Saturday:614'
+p168
+asS'death'
+p169
+S'9'
+p170
+sS'title'
+p171
+S"Blast rips Pune's German Bakery; 9 dead, 45 wounded"
+p172
+sS'org_unorg'
+p173
+S'ORGANISED'
+p174
+sS'terror_group'
+p175
+(lp176
+g157
+asS'content'
+p177
+VPUNE : Terror returned to haunt the country on Saturday when a bomb blast ripped through the city 's popular German Bakery , close to the Osho Ashram and diagonally across from the Jewish Chabad House , recced by 26/11 suspect David Coleman Headley , killing at least nine people , four of them foreigners , all women . -LRB- Watch Video -RRB- More than 45 people have been rushed to hospital with varying degrees of injury . This is the first terror attack since the 26/11 Mumbai attacks , 15 months ago . For the last two months , there has been a growing buzz of an imminent terror attack , especially as India and Pakistan were preparing to resume talks that have been suspended since the Mumbai carnage . Now there is a question mark over the talks scheduled for February 25 in Delhi . The blast , which left a 6ftx4ft hole in the wall , took place at 7.15 pm when the bakery was milling with people , many of them foreigners . According to Union home secretary G K Pillai , there was an unattended packet which exploded when a waiter tried to open it . The German Bakery is a popular haunt of foreigners like Leopold restaurant in Mumbai in fact , both are mentioned by the Lonely Planet tourist guide and are therefore patronised by many backpackers . Investigators from the Army 's bomb disposal squad said it appears that a battery-operated improvised explosive device had been used . '' We have found traces of an explosive , '' said M Z Ansari , an official . The impact was such that the walls of the bakery caved in . Body parts of some of the dead were found strewn on the North Main Road and near the O Hotel , a few metres from the bakery . '' The dead include some foreigners but we are yet to establish their nationality , '' minister of state for home Ramesh Bagwe said . The injured suffered burns and fractures , said doctors at Sassoon hospital . Chabad House in Mumbai which was attacked on 26/11 had been recced by Headley , just as he had recced the one in Pune . Headley had stayed at the Surya Villa hotel in Koregaon , which is close to the blast site . In Delhi , Pillai called an emergency meeting of security officials and instructed all state capitals to be put on high alert . A team also began interrogation of the Batla House terror suspect , Shahzad Ahmad , to find out if he had any information about an attack in Pune . The Centre immediately moved in to rush a forensic team to Pune . ` It is most probably a terror attack . We are sending a forensic team of CBI and personnel of National Investigative Agency , ' said Union home secretary G K Pillai . Panic gripped the city as the news of the blast spread . The police , however , refused to confirm whether any terror group was involved , saying it was too early to arrive at any conclusion . The police closed all roads to Koregaon Park area and a nakabandi has been ordered across the city . '' We suspect foreigners could be involved in this blast , '' said special secretary -LRB- home -RRB- U K Bansal , when asked in Delhi whether he suspected any specific terror group . The state home minister R R Patil reached Pune late on Saturday night , while chief minister Ashok Chavan is expected to be in the city on Saturday . Maharashtra deputy CM Chhagan Bhujbal and some officials said that police had inputs about a threat to the German Bakery and security had been beefed up in the Koregaon area , but state home minister R R Patil denied there was any intelligence input about an attack .
+p178
+sS'injured'
+p179
+S'45'
+p180
+sS'det_loc'
+p181
+(lp182
+S'India'
+p183
+aS'Maharashtra'
+p184
+aS'Pune'
+p185
+ag157
+aS'German Bakery'
+p186
+asS'O'
+p187
+(lp188
+S'pune:1'
+p189
+aS'PUNE:1'
+p190
+aS'popular german bakery:20'
+p191
+aS'osho ashram:27'
+p192
+aS'hospital:72'
+p193
+aS'carnage:130'
+p194
+aS'bakery:167'
+p195
+aS'leopold restaurant:212'
+p196
+aS'lonely planet tourist guide:224'
+p197
+aS'army:239'
+p198
+aS'bomb disposal squad:241'
+p199
+aS'o hotel:306'
+p200
+aS'headley:379'
+p201
+aS'security:407'
+p202
+aS'interrogation:425'
+p203
+aS'batla house:428'
+p204
+aS'terror suspect:430'
+p205
+aS'Union home secretary:489'
+p206
+aS'panic:496'
+p207
+aS'nakabandi:545'
+p208
+aS'state home minister:588'
+p209
+aS'minister:603'
+p210
+aS'deputy cm:617'
+p211
+aS'police:626'
+p212
+aS'threat:631'
+p213
+aS'state home minister:648'
+p214
+aS'intelligence input:658'
+p215
+asS'unexpl'
+p216
+(lp217
+S'BATTERIES'
+p218
+asS'ocassion'
+p219
+g157
+sS'link'
+p220
+S'http://timesofindia.indiatimes.com/city/pune/Blast-rips-Punes-German-Bakery-9-dead-45-wounded/articleshow/5570692.cms?referral=PM'
+p221
+sS'date'
+p222
+S'13-02-2010'
+p223
+sS'target'
+p224
+S'PARK AND RESTRAUNT'
+p225
+sS'hot_spot'
+p226
+g157
+sS'delivery_mod'
+p227
+S'BAG'
+p228
+sS'delivery_met'
+p229
+S'PLACED'
+p230
+sS'expl'
+p231
+(lp232
+S'IED'
+p233
+asS'ORG'
+p234
+(lp235
+(lp236
+S'Sassoon hospital'
+p237
+aS'351'
+p238
+aS'Others'
+p239
+aa(lp240
+S'Surya Villa hotel'
+p241
+aS'384'
+p242
+aS'Others'
+p243
+aa(lp244
+S'CBI'
+p245
+aS'479'
+p246
+aS'Others'
+p247
+aa(lp248
+S'National Investigative Agency'
+p249
+aS'483'
+p250
+aS'Others'
+p251
+aas.

@@ -1,0 +1,119 @@
+{
+    "LOC": [
+        [
+            "Karnatakas", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "Malleshwaram", 
+            "118", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "121", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Raghavendra Auradkar", 
+            "102", 
+            "Comment"
+        ], 
+        [
+            "R. Ashoka", 
+            "207", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "10.20 a.m.:74"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday morning:32"
+    ], 
+    "death": "", 
+    "title": "16 hurt in blast near BJP office in Bangalore", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Malleswaram", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Sixteen people were injured , two of them seriously , in an explosion in a congested locality near the office of Karnatakas ruling Bharatiya Janata Party ( BJP ) here on Wednesday morning , police said , suspecting a bomb blast . Several vehicles were gutted but there was no damage to the party office in the explosion that was initially believed to be a cylinder blast . The explosion took place around 10.20 a.m. and investigation is on to find out whether it is caused by a bomb as a motorbike was found at the site , Bangalore Police Commissioner Raghavendra Auradkar told reporters . The BJP office is located in the crowded residential locality of Malleshwaram in north Bangalore , about 8 km from the city centre . The two seriously injured are women , one of whom has a suffered fracture in her leg , doctors at the KC General hospital , about 5 km from the explosion site , told reporters . The others have suffered minor injuries with two of them complaining of loss of hearing , the doctors said . Of the 16 injured , 11 are police personnel and five are civilians , including three women , Home Minister R. Ashoka said at the explosion site . Residents in the area told reporters that the blast shook the windowpanes of several houses . OPEN", 
+    "injured": "16", 
+    "org_unorg": "", 
+    "O": [
+        "explosion:13", 
+        "suspecting:38", 
+        "bomb blast:40", 
+        "vehicles:44", 
+        "gutted:46", 
+        "no damage:50", 
+        "party office:54", 
+        "explosion:58", 
+        "cylinder blast:66", 
+        "explosion:70", 
+        "investigation:77", 
+        "bomb:89", 
+        "motorbike:92", 
+        "site:97", 
+        "crowded residential locality:114", 
+        "two seriously injured:132", 
+        "suffered fracture:143", 
+        "explosion site:161", 
+        "suffered minor injuries:170", 
+        "loss of hearing:179", 
+        "explosion site:212", 
+        "Residents:215", 
+        "blast:223", 
+        "windowpanes:226"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/16-hurt-in-blast-near-bjp-office-in-bangalore/article4628292.ece", 
+    "date": "17-04-2013", 
+    "target": "POLITICAL LEADER/GROUP", 
+    "hot_spot": "BJP", 
+    "delivery_mod": "MOTORCYCLES", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bharatiya Janata Party", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "KC General hospital", 
+            "152", 
+            "Others"
+        ]
+    ]
+}

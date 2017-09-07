@@ -1,0 +1,69 @@
+{
+    "LOC": [
+        [
+            "Mecca Masjid", 
+            "36", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 18 , 2007 : 43"
+    ], 
+    "death": "", 
+    "title": "Masjid blast: Muslim youths to get compensation", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A sum of Rs . 70 lakh sanctioned by the State government towards payment of compensation to 20 Muslim youths , who were falsely booked and allegedly harassed by the city police in connection with Mecca Masjid bomb blast that occurred on May 18 , 2007 , will be disbursed immediately to them . The compensation allotted to these youths of the old city is described by the government as a measure to build confidence among the Muslims , particularly in the city , a Minorities Welfare Department official said . He said each of these 20 youths would get a little more than Rs . 3 lakh , out of the sanctioned amount . This was the first time that the government had come forward with such a benevolent gesture to allow the compensation . It 's a social mission , he said . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "sanctioned:8", 
+        "state government:11", 
+        "compensation:16", 
+        "Muslim youths:19", 
+        "falsely booked:24", 
+        "city police:31", 
+        "Mecca Masjid bomb blast:36", 
+        "compensation:56", 
+        "youths:60", 
+        "government:69", 
+        "build confidence:74", 
+        "Muslims:78", 
+        "youths:98", 
+        "sanctioned amount:113", 
+        "government:123", 
+        "compensation:135", 
+        "social mission:140"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/masjid-blast-muslim-youths-to-get-compensation/article2700268.ece", 
+    "date": "09-12-2011", 
+    "target": "Religious Places", 
+    "hot_spot": "Mecca Masjid", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Minorities Welfare Department", 
+            "86", 
+            "Others"
+        ]
+    ]
+}

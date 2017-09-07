@@ -1,0 +1,57 @@
+{
+    "LOC": [], 
+    "PER": [
+        [
+            "Sadhvi Pragnya Thakur", 
+            "9", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:6", 
+        "2008:18"
+    ], 
+    "death": "", 
+    "title": "Pragnya to face trial under MCOCA", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Bombay High Court on Monday ordered that Sadhvi Pragnya Thakur and 10 others accused in the 2008 Malegaon bomb blasts case face trial under MCOCA . PTI OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "2008 malegaon bomb blasts case:18", 
+        "malegaon bomb blasts case face trial:19", 
+        "malegaon bomb:19", 
+        "mcoca:26"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/pragnya-to-face-trial-under-mcoca/article524058.ece", 
+    "date": "29-09-2008", 
+    "target": "Public Transport", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bombay High Court", 
+            "2", 
+            "Others"
+        ]
+    ]
+}

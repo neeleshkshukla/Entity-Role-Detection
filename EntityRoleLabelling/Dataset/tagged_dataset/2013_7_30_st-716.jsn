@@ -1,0 +1,107 @@
+{
+    "LOC": [
+        [
+            "central : 10", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "southern Iraq : 12", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "Baghdad", 
+            "165", 
+            "Neutral"
+        ], 
+        [
+            "Sadr", 
+            "175", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "morning : 15"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 30,2013 : 0", 
+        "Monday : 19", 
+        "2003 : 82", 
+        "April : 101", 
+        "July : 111"
+    ], 
+    "death": "51", 
+    "title": "Iraq car bombings kill 51", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A wave of over a dozen car bombings hit central and southern Iraq during morning rush hour on Monday , officials said , killing at least 51 people in the latest coordinated attack by insurgents determined to undermine the government . The blasts , which wounded scores more , are part of a months-long surge of attacks that is reviving fears of a return to the widespread sectarian bloodshed that pushed the country to the brink of civil war after the 2003 U.S.-led invasion . Suicide attacks , car bombings and other violence have killed more than 3,000 people since April , including more than 500 since the start of July , according to an Associated Press count . The group , known as the Islamic State of Iraq , frequently sets off such coordinated blasts in an effort to break Iraqis confidence in the Shia-led government . Officials said 12 parked car bombs hit markets and parking lots in predominantly Shia neighbourhoods of Baghdad within one hour the deadliest being in the of Sadr City . AP OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "car bombings:7", 
+        "rush hour:16", 
+        "attack:33", 
+        "insurgents:35", 
+        "blasts:43", 
+        "wounded scores:46", 
+        "months-long surge of attacks:54", 
+        "reviving fears:60", 
+        "sectarian bloodshed:68", 
+        "civil war:78", 
+        "U.S.-led invasion:83", 
+        "Suicide attacks:86", 
+        "car bombings:89", 
+        "violence:93", 
+        "killed:95", 
+        "3,000 people:98", 
+        "Islamic State of Iraq:126", 
+        "blasts:136", 
+        "break Iraqis confidence:141", 
+        "Shia-led government:146", 
+        "12 parked car bombs:151", 
+        "markets:156", 
+        "parking lots:158", 
+        "Shia:162"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/iraq-car-bombings-kill-51/article4968436.ece", 
+    "date": "30-07-2013", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Associated Press count", 
+            "116", 
+            "Others"
+        ], 
+        [
+            "AP", 
+            "178", 
+            "Others"
+        ]
+    ]
+}

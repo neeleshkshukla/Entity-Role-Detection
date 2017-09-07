@@ -1,0 +1,127 @@
+{
+    "LOC": [
+        [
+            "Damascus", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Washington", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "United States", 
+            "131", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "142", 
+            "Neutral"
+        ], 
+        [
+            "Syria", 
+            "193", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bashar al-Assad", 
+            "74", 
+            "Others"
+        ], 
+        [
+            "Assad", 
+            "111", 
+            "Others"
+        ], 
+        [
+            "Michel Sleiman", 
+            "157", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:11", 
+        "November 2:195", 
+        "November:195"
+    ], 
+    "death": "", 
+    "title": "40 dead in two suicide blasts in Damascus", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        "Damascus", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Suicide bombers hit two security service bases in Damascus on Friday , killing 40 people and casting a pall over the first day of work of an Arab observer mission intended to oversee an end to nine months of bloodshed . The bombings , which officials blamed on al-Qaeda , were the first against the powerful security services in the heart of the capital since the uprising began and overshadowed protests against President Bashar al-Assad 's regime . The new toll for the two attacks today is established at 40 dead and 150 injured , an official told AFP . Lebanese Shia militant group Hezbollah , an ally of Mr. Assad , accused terrorist Washington of orchestrating the attacks . The movement said such bombings are the speciality of the United States , which is seeking revenge for its defeat in Iraq , days after its forces completed their withdrawal from the country . Lebanese President Michel Sleiman condemned the blasts as terrorist attacks and said they were aimed at disrupting the Arab League 's efforts to resolve the crisis . The observer mission is part of an Arab plan endorsed by Syria on November 2 that also calls for the withdrawal of the military from towns and a halt to violence against civilians . AFP OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "Suicide bombers:1", 
+        "security service bases:5", 
+        "arab observer mission:28", 
+        "bloodshed:40", 
+        "bombings:43", 
+        "security services:57", 
+        "President:73", 
+        "attacks:85", 
+        "Lebanese Shia militant group:101", 
+        "group:104", 
+        "ally:108", 
+        "terrorist Washington:114", 
+        "attacks:119", 
+        "bombings:125", 
+        "revenge:137", 
+        "defeat:140", 
+        "withdrawal:150", 
+        "Lebanese President:155", 
+        "blasts:161", 
+        "terrorist attacks:163", 
+        "arab league:173", 
+        "crisis:180", 
+        "observer mission:183", 
+        "arab plan:189", 
+        "withdrawal:202", 
+        "military:205", 
+        "violence:212"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/40-dead-in-two-suicide-blasts-in-damascus/article2743301.ece", 
+    "date": "24-12-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "al-Qaeda", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "AFP", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "Hezbollah", 
+            "105", 
+            "Others"
+        ]
+    ]
+}

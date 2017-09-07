@@ -1,0 +1,144 @@
+{
+    "LOC": [
+        [
+            "Koregaon", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Kaij tehsil", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Beed", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Kendrewadi", 
+            "48", 
+            "Accused Location"
+        ], 
+        [
+            "Ambejogai", 
+            "51", 
+            "Accused Location"
+        ], 
+        [
+            "Ambejogai", 
+            "102", 
+            "Accused Location"
+        ], 
+        [
+            "Mumbai", 
+            "145", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Aba", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "Rajabhau Giri", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "Giri", 
+            "54", 
+            "Accused"
+        ], 
+        [
+            "Gopinath Tarkase", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "Tarkase", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "Giri", 
+            "75", 
+            "Accused"
+        ], 
+        [
+            "Tarkase", 
+            "89", 
+            "Others"
+        ], 
+        [
+            "Om Nimbalkar", 
+            "108", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "0", 
+    "title": "Beed blast due to personal enmity, say police", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Beed", 
+        "Koregaon village", 
+        "Koregaon village of Kaij tehsil in Beed district of Maharashtra"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The police have ruled out terror angle in the radio bomb blast at Koregaon village of Kaij tehsil in Beed district of Maharashtra last week . Four members of a family were injured in the blast . The police , who arrested Aba alias Rajabhau Giri of Kendrewadi village in Ambejogai , said Giri had personal enmity with Gopinath Tarkase of his village . Mr. Tarkase had filed a police complaint against him . Giri put some explosives in a radio set and wrote the name of Mr. Tarkase on it . He then left it in an MRCTC bus in Ambejogai . The bus conductor , Om Nimbalkar , took it home and when he tried to switch it on , it exploded , injuring him , his wife , mother and a son . The injured were admitted to JJ hospital in Mumbai . OPEN", 
+    "injured": "4", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "terror angle:6", 
+        "radio bomb blast:10", 
+        "Four members:27", 
+        "injured:33", 
+        "blast:36", 
+        "personal enmity:56", 
+        "police complaint:70", 
+        "explosives:78", 
+        "radio set:81", 
+        "bus:100", 
+        "bus conductor:105", 
+        "exploded:124", 
+        "injured:138"
+    ], 
+    "unexpl": [
+        "RADIO SET"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/beed-blast-due-to-personal-enmity-say-police/article4162142.ece", 
+    "date": "30-11-2012", 
+    "target": "INDIVIDUAL", 
+    "hot_spot": "People other than the targeted person was victimised by mistake.", 
+    "delivery_mod": "BUS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "MRCTC", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "JJ hospital", 
+            "142", 
+            "Others"
+        ]
+    ]
+}

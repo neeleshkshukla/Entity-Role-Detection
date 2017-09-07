@@ -1,0 +1,78 @@
+{
+    "LOC": [
+        [
+            "Karachi", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Baldia Town", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Defence Housing Area", 
+            "64", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:24"
+    ], 
+    "death": "4", 
+    "title": "Karachi blasts target Navy staff", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Four people were killed and nearly 57 injured in two separate bomb attacks on buses ferrying naval personnel to work in Karachi on Tuesday . All four killed , including a lady doctor , were naval employees and 50 of the injured also worked for the Pakistan Navy . The two blasts took place in quick succession ; the first in the upmarket Defence Housing Area and the second in the Baldia Town neighbourhood . The bombs were planted along the regular routes of the buses and detonated by remote control . While the first bomb was packed into a motorcycle , the second was thrown into a garbage dump . No terrorist organisation had claimed responsibility for the two blasts till evening . OPEN", 
+    "injured": "57", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Karachi", 
+        "Defence Housing Area and Baldia Town neighbourhood"
+    ], 
+    "O": [
+        "lady doctor:32", 
+        "succession:57", 
+        "upmarket:63", 
+        "neighbourhood:74", 
+        "control:91", 
+        "motorcycle:101", 
+        "garbage dump:109", 
+        "terrorist organisation:113", 
+        "responsibility:117", 
+        "separate bomb attacks:11", 
+        "naval personnel:17", 
+        "naval employees:36", 
+        "Baldia Town neighbourhood:72", 
+        "detonated:88", 
+        "remote control:90", 
+        "upmarket Defence Housing Area:63"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/karachi-blasts-target-navy-staff/article1771661.ece", 
+    "date": "27-04-2011", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "Buses carrying Naval personnel", 
+    "delivery_mod": "Two wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Pakistan Navy", 
+            "47", 
+            "Victim"
+        ]
+    ]
+}

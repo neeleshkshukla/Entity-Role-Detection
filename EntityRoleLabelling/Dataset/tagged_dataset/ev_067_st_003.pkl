@@ -1,0 +1,300 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'HYDERABAD'
+p4
+aS'21'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Mecca Masjid'
+p8
+aS'33'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Delhi'
+p12
+aS'69'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Mecca Masjid'
+p16
+aS'115'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Masjid premises'
+p20
+aS'132'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Masjid premises'
+p24
+aS'188'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Masjid'
+p28
+aS'259'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Hyderabad'
+p32
+aS'327'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Mecca Masjid'
+p36
+aS'337'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Jama Masjid'
+p40
+aS'346'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Delhi'
+p44
+aS'349'
+p45
+aS'Accused Location'
+p46
+aa(lp47
+S'Malegaon'
+p48
+aS'351'
+p49
+aS'Assoc Event Location'
+p50
+aa(lp51
+S'Maharashtra'
+p52
+aS'353'
+p53
+aS'Accused Location'
+p54
+aasS'PER'
+p55
+(lp56
+sS'TIM'
+p57
+(lp58
+S'two days : 46'
+p59
+aS'last year : 355'
+p60
+asS'hot_setting'
+p61
+S''
+p62
+sS'DAT'
+p63
+(lp64
+S'Sunday : 52'
+p65
+aS'Sunday morning : 135'
+p66
+aS'Friday : 191'
+p67
+aS'Friday : 370'
+p68
+aS'Sunday : 386'
+p69
+asS'death'
+p70
+S'9'
+p71
+sS'title'
+p72
+S'Another mobile found in Mecca Masjid'
+p73
+sS'det_loc'
+p74
+(lp75
+S'India'
+p76
+aS'Andhra Pradesh'
+p77
+ag62
+aS'Hydrabad'
+p78
+ag62
+asS'terror_group'
+p79
+(lp80
+g62
+asS'content'
+p81
+VStaff Reporter . . Cell phone found in water tank of mosque ; old city returning to normality . . HYDERABAD : Another mobile phone was found on the premises of the Mecca Masjid , where a powerful bomb went off leaving nine persons dead two days ago , here on Sunday . . . A team of forensic and bomb experts from the National Security Guard , Delhi , unearthed the cell phone from the mosque 's water tank -LRB- houz -RRB- used by namaazis to perform ablutions before offering prayers . The NSG team also recovered electronic keys of a car , used for locking , from the water tank of the Mecca Masjid . . . The experts conducted a thorough search of the blast site and the Masjid premises from Sunday morning and directed the Masjid officials to empty the water tank . . . The team also found scraps of metal , pieces of wire , a cell phone , a small piece of metal tube , which may or may not have links with the actual bomb that exploded in the Masjid premises on Friday . . . Platform removed . . The team also removed the marble platform , which broke under the impact of the bomb , to conduct a thorough search underneath . They collected shreds of marble pieces , before packing them in polythene bags for investigation . . . The whole water tank was emptied under the strict vigil of the NSG team . Workers from the Masjid were told to remove whatever foreign objects they could lay their hands on and hand them over to the team of experts . . . Old rings made up of various metals , visiting cards , metal objects of various shapes and sizes , cellular phone , electronic lock for cars were carefully collected for investigation by the team of experts . . . Meanwhile , the Hyderabad police began analysing if the bomb blast inside the Mecca Masjid had any similarities to the explosions in Jama Masjid of Delhi and Malegaon in Maharashtra reported last year . Explosions at all the three places were triggered , incidentally , on Friday and inside or close to mosques . . . The old city remained peaceful on Sunday with the police continuing their patrolling all through the day and night . Higher officials continued to camp in the old city and monitored the situation on an hourly basis .
+p82
+sS'injured'
+p83
+g62
+sS'org_unorg'
+p84
+g62
+sS'O'
+p85
+(lp86
+S'Cell phone:5'
+p87
+aS'water tank:9'
+p88
+aS'mosque:12'
+p89
+aS'mobile phone:24'
+p90
+aS'premises:30'
+p91
+aS'powerful bomb:38'
+p92
+aS'team of forensic:57'
+p93
+aS'bomb experts:61'
+p94
+aS'unearthed:71'
+p95
+aS"mosque 's water tank:77"
+p96
+aS'namaazis:86'
+p97
+aS'ablutions:89'
+p98
+aS'recovered:98'
+p99
+aS'electronic keys:99'
+p100
+aS'experts:121'
+p101
+aS'blast site:128'
+p102
+aS'Masjid officials:140'
+p103
+aS'scraps of metal:154'
+p104
+aS'pieces of wire:158'
+p105
+aS'a cell phone:162'
+p106
+aS'a small piece of metal tube:166'
+p107
+aS'actual bomb:182'
+p108
+aS'polythene bags:234'
+p109
+aS'investigation:237'
+p110
+aS'strict vigil:249'
+p111
+aS'Workers:256'
+p112
+aS'Old rings:285'
+p113
+aS'metals:291'
+p114
+aS'visiting cards:293'
+p115
+aS'metal objects of various shapes and sizes:296'
+p116
+aS'cellular phone:304'
+p117
+aS'electronic lock:307'
+p118
+aS'investigation:315'
+p119
+aS'experts:320'
+p120
+aS'bomb blast:333'
+p121
+aS'Explosions:358'
+p122
+aS'three places:362'
+p123
+aS'peaceful:384'
+p124
+aS'patrolling:392'
+p125
+aS'day and night:396'
+p126
+aS'camp:404'
+p127
+aS'hourly basis:415'
+p128
+asS'unexpl'
+p129
+(lp130
+g62
+asS'ocassion'
+p131
+g62
+sS'link'
+p132
+S'http://www.thehindu.com/todays-paper/another-mobile-found-in-mecca-masjid/article1845337.ece'
+p133
+sS'date'
+p134
+S'18-03-2007'
+p135
+sS'target'
+p136
+S'MOSQUE'
+p137
+sS'hot_spot'
+p138
+g62
+sS'delivery_mod'
+p139
+g62
+sS'delivery_met'
+p140
+S'ACCIDENTAL'
+p141
+sS'expl'
+p142
+(lp143
+g62
+asS'ORG'
+p144
+(lp145
+(lp146
+S'National Security Guard'
+p147
+aS'65'
+p148
+aS'Others'
+p149
+aa(lp150
+S'NSG'
+p151
+aS'95'
+p152
+aS'Others'
+p153
+aa(lp154
+S'NSG'
+p155
+aS'253'
+p156
+aS'Others'
+p157
+aas.

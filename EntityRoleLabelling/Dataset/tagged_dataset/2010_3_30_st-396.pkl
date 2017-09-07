@@ -1,0 +1,252 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'MOSCOW'
+p4
+aS'11'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Moscow'
+p8
+aS'27'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Moscow'
+p12
+aS'56'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Moscow'
+p16
+aS'99'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Russian'
+p20
+aS'272'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+sS'TIM'
+p25
+(lp26
+sS'hot_setting'
+p27
+S''
+p28
+sS'DAT'
+p29
+(lp30
+S'Monday:29'
+p31
+aS'Monday:64'
+p32
+aS'February:75'
+p33
+aS'February 2004:75'
+p34
+aS'August:101'
+p35
+aS'August 2004:101'
+p36
+aS'February 2004:122'
+p37
+aS'February:122'
+p38
+aS'Monday:126'
+p39
+aS'2004:146'
+p40
+aS'Monday:209'
+p41
+aS'Monday:371'
+p42
+asS'death'
+p43
+S'38'
+p44
+sS'title'
+p45
+S'Target of Chechen terrorists'
+p46
+sS'org_unorg'
+p47
+S'Organized'
+p48
+sS'terror_group'
+p49
+(lp50
+g28
+asS'content'
+p51
+S"Vladimir Radyuhin Both stations were packed during the rush hour MOSCOW : The two suicide bomb attacks that killed 38 people and wounded over 60 in Moscow on Monday targeted the city 's busy subway system , a favourite target of Chechen terrorists . In the past six years militants mounted five attacks on the Moscow Metro . In terms of casualties , Monday 's bombings were the worst attack on the capital since February 2004 , when a suicide bombing killed at least 41 people on a metro train . There have been no terrorist attacks in Moscow since August 2004 , when a suicide bomber blew herself up outside a subway station , killing 10 people . As in February 2004 , on Monday women suicide bombers set off their homemade bombs strapped to their bodies when they were inside trains . In 2004 , the blast occurred when the train was travelling in a tunnel , which explains why it caused more casualties than the current two blasts that ripped through trains parked at stations . Eye-witnesses said that surprisingly there was little panic among passengers and this helped avoid more casualties as thousands of people were evacuated outside . Both metro stations bombed on Monday Lubyanka and Park Kultury are busy interchange stations and are packed during rush hour . They are situated in the city centre and the blasts not only halted train service on several lines , but also paralysed all traffic above as police sealed off streets to give free passage to dozens of ambulances that rushed wounded passengers to hospital . Even as Russian authorities strengthened security and installed closed circuit TV on all stations and in trains , officials conceded it was impossible to provide 100 per cent protection to the underground transport system . Experts said it was not feasible to set up airport-style screening that could detect explosives and metal objects as this would disrupt subway traffic . However , thanks to CCTV police could promptly identify the two suicide bombers and their three accomplices and launch a manhunt for them . Interestingly , none of the metro blasts caused much damage to the subway stations themselves . On Monday , both bombed stations reopened for traffic in the afternoon . The Moscow Metro has 298.8 km of route length , 12 lines and 180 stations ; on a normal weekday it carries about 8 million passengers . OPEN"
+p52
+sS'injured'
+p53
+S'60'
+p54
+sS'det_loc'
+p55
+(lp56
+S'Russia'
+p57
+ag28
+ag28
+aS'Moscow'
+p58
+aS'Vladimir Radyuhin Both station'
+p59
+asS'O'
+p60
+(lp61
+S'rush hour:9'
+p62
+aS'rush hour moscow:9'
+p63
+aS'moscow:11'
+p64
+aS'suicide bomb:15'
+p65
+aS'city:32'
+p66
+aS'subway system:35'
+p67
+aS'target:40'
+p68
+aS'attack:70'
+p69
+aS'capital:73'
+p70
+aS'suicide bombing:80'
+p71
+aS'metro train:89'
+p72
+aS'terrorist:96'
+p73
+aS'suicide bomber:106'
+p74
+aS'subway station:113'
+p75
+aS'suicide:128'
+p76
+aS'set:130'
+p77
+aS'homemade:133'
+p78
+aS'blast:149'
+p79
+aS'train:153'
+p80
+aS'tunnel:158'
+p81
+aS'panic:187'
+p82
+aS'metro:205'
+p83
+aS'interchange:216'
+p84
+aS'rush hour:222'
+p85
+aS'city centre:230'
+p86
+aS'halted train service:237'
+p87
+aS'traffic:248'
+p88
+aS'passage:258'
+p89
+aS'hospital:268'
+p90
+aS'security:275'
+p91
+aS'circuit tv:279'
+p92
+aS'cent protection:297'
+p93
+aS'transport system:302'
+p94
+aS'set:312'
+p95
+aS'screening:315'
+p96
+aS'metal:321'
+p97
+aS'subway traffic:327'
+p98
+aS'cctv:334'
+p99
+aS'cctv police:334'
+p100
+aS'suicide:341'
+p101
+aS'launch:348'
+p102
+aS'manhunt:350'
+p103
+aS'none:356'
+p104
+aS'metro:359'
+p105
+aS'damage:363'
+p106
+aS'subway:366'
+p107
+aS'traffic:378'
+p108
+aS'afternoon:381'
+p109
+aS'km:388'
+p110
+aS'route length:390'
+p111
+aS'weekday:402'
+p112
+asS'unexpl'
+p113
+(lp114
+g28
+asS'ocassion'
+p115
+g28
+sS'link'
+p116
+S'http://www.thehindu.com/todays-paper/tp-international/target-of-chechen-terrorists/article737737.ece'
+p117
+sS'date'
+p118
+S'30-03-2010'
+p119
+sS'target'
+p120
+S'Railway Station'
+p121
+sS'hot_spot'
+p122
+g28
+sS'delivery_mod'
+p123
+g28
+sS'delivery_met'
+p124
+g28
+sS'expl'
+p125
+(lp126
+g28
+asS'ORG'
+p127
+(lp128
+s.

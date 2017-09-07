@@ -1,0 +1,142 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Laxmi Bazar'
+p4
+aS'12'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Hinjli'
+p8
+aS'16'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Ganjam'
+p12
+aS'18'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+sS'TIM'
+p17
+(lp18
+sS'hot_setting'
+p19
+S''
+p20
+sS'DAT'
+p21
+(lp22
+S'Wednesday:21'
+p23
+asS'death'
+p24
+g20
+sS'title'
+p25
+S'Bombs hurled at liquor shop'
+p26
+sS'det_loc'
+p27
+(lp28
+S'India'
+p29
+aS'Orissa'
+p30
+aS'Ganjam'
+p31
+aS'Berhampur'
+p32
+aS'Liquor shop in Laxmi Bazar Market'
+p33
+asS'terror_group'
+p34
+(lp35
+S'Miscreants,Dacoits & Smuggler Gang'
+p36
+asS'content'
+p37
+S'Two miscreants hurled crude bombs at a liquor shop located in Laxmi Bazar market at Hinjli in Ganjam district on Wednesday night . The miscreants escaped on a bike . A worker of the liquor shop received injuries and two bomb blasts also damaged liquor stock . OPEN'
+p38
+sS'injured'
+p39
+S'1'
+p40
+sS'org_unorg'
+p41
+S'Organized'
+p42
+sS'O'
+p43
+(lp44
+S'crude bombs:4'
+p45
+aS'liquor shop:8'
+p46
+aS'laxmi bazar market:12'
+p47
+aS'market:14'
+p48
+aS'night:22'
+p49
+aS'miscreants escaped:25'
+p50
+aS'bike:29'
+p51
+aS'worker:32'
+p52
+aS'liquor shop:35'
+p53
+aS'bomb blasts:41'
+p54
+aS'liquor stock:45'
+p55
+asS'unexpl'
+p56
+(lp57
+g20
+asS'ocassion'
+p58
+g20
+sS'link'
+p59
+S'http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/bombs-hurled-at-liquor-shop/article2697248.ece'
+p60
+sS'date'
+p61
+S'07-12-2011'
+p62
+sS'target'
+p63
+S'Market Place'
+p64
+sS'hot_spot'
+p65
+S'Liquor shop'
+p66
+sS'delivery_mod'
+p67
+S'Two wheeler'
+p68
+sS'delivery_met'
+p69
+S'Thrown'
+p70
+sS'expl'
+p71
+(lp72
+S'Crude bomb'
+p73
+asS'ORG'
+p74
+(lp75
+s.

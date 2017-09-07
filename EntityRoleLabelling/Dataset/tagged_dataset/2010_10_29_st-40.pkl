@@ -1,0 +1,278 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Kalyanpur'
+p4
+aS'35'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Kanpur'
+p8
+aS'38'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Uttar Pradesh'
+p12
+aS'40'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Kanpur'
+p16
+aS'108'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Kalyanpur'
+p20
+aS'136'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'CHC compound'
+p24
+aS'231'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Kanpur'
+p28
+aS'269'
+p29
+aS'Neutral'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Rajesh'
+p34
+aS'57'
+p35
+aS'Assoc Accused'
+p36
+aa(lp37
+S'Rajesh'
+p38
+aS'78'
+p39
+aS'Assoc Accused'
+p40
+aa(lp41
+S'Brij Lal'
+p42
+aS'170'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Ruchi Gautam'
+p46
+aS'219'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Krishna Gautam'
+p50
+aS'222'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Sudha Shukla'
+p54
+aS'225'
+p55
+aS'Others'
+p56
+aa(lp57
+S'Rajesh'
+p58
+aS'237'
+p59
+aS'Assoc Accused'
+p60
+aa(lp61
+S'Lal'
+p62
+aS'252'
+p63
+aS'Others'
+p64
+aasS'TIM'
+p65
+(lp66
+sS'hot_setting'
+p67
+S''
+p68
+sS'DAT'
+p69
+(lp70
+S'Thursday:43'
+p71
+asS'death'
+p72
+S'3'
+p73
+sS'title'
+p74
+S'3 killed in Kanpur blast'
+p75
+sS'det_loc'
+p76
+(lp77
+S'India'
+p78
+aS'Uttar Pradesh'
+p79
+aS'Lucknow'
+p80
+aS'Kanpur'
+p81
+ag68
+asS'terror_group'
+p82
+(lp83
+S'Miscreants,Dacoits & Smuggler Gang'
+p84
+asS'content'
+p85
+S'Three persons were killed and three seriously injured in a blast purported to have been caused during the illegal manufacture of firecrackers in government quarters within a community health centre ( CHC ) in Kalyanpur area of Kanpur in Uttar Pradesh on Thursday . The explosion , which took place in the quarters allotted to one Rajesh , working as a ward boy in the CHC , was so powerful that two houses were flattened . While Rajesh has been reported missing , the three deceased persons have not been identified . The dead included a woman . The injured have been shifted to a hospital in Kanpur . Ten persons who were trapped in the debris were rescued . Unofficial reports said the government quarters served as an illegal crude bomb manufacturing unit the Kalyanpur area of the bustling industrial metropolis is notorious for the illegal trade as packets and traces of thread were found at the blast site . However , ADG ( Law & Order ) Brij Lal told journalists here that according to preliminary investigations conducted by the bomb disposal squad and the Anti-Terrorist Squad ( ATS ) the presence of thread at the explosion site suggested that the house was being used for manufacturing firecrackers . He said three auxiliary nursing midwives , Ruchi Gautam , Krishna Gautam and Sudha Shukla , living in the CHC compound told the police that Rajesh was a bachelor and a loner and nobody was seen visiting him . Mr. Lal confirmed that the house was used as an illegal firecracker manufacturing unit . Some reports from Kanpur also spoke of the presence of gunpowder at the blast site but there was no official confirmation . OPEN'
+p86
+sS'injured'
+p87
+g73
+sS'org_unorg'
+p88
+S'Unorganized'
+p89
+sS'O'
+p90
+(lp91
+S'killed:4'
+p92
+aS'injured:8'
+p93
+aS'blast:11'
+p94
+aS'manufacture:20'
+p95
+aS'firecrackers:22'
+p96
+aS'government quarters:24'
+p97
+aS'community health centre:28'
+p98
+aS'explosion:46'
+p99
+aS'hospital:106'
+p100
+aS'debris:117'
+p101
+aS'government:125'
+p102
+aS'crude bomb:131'
+p103
+aS'metropolis:142'
+p104
+aS'notorious:144'
+p105
+aS'trade:148'
+p106
+aS'thread:154'
+p107
+aS'blast site:159'
+p108
+aS'bomb disposal squad:183'
+p109
+aS'anti-terrorist squad:188'
+p110
+aS'presence:194'
+p111
+aS'explosion site:199'
+p112
+aS'house:204'
+p113
+aS'auxiliary nursing:215'
+p114
+aS'chc compound:231'
+p115
+aS'firecracker:262'
+p116
+aS'presence:274'
+p117
+aS'gunpowder:276'
+p118
+aS'blast site:279'
+p119
+asS'unexpl'
+p120
+(lp121
+g68
+asS'ocassion'
+p122
+g68
+sS'link'
+p123
+S'http://www.thehindu.com/todays-paper/tp-national/3-killed-in-kanpur-blast/article856286.ece'
+p124
+sS'date'
+p125
+S'28-10-2010'
+p126
+sS'target'
+p127
+g68
+sS'hot_spot'
+p128
+S'government quarters within a community health centre'
+p129
+sS'delivery_mod'
+p130
+g68
+sS'delivery_met'
+p131
+S'Accidental'
+p132
+sS'expl'
+p133
+(lp134
+S'Crude bomb'
+p135
+asS'ORG'
+p136
+(lp137
+(lp138
+S'bomb disposal squad'
+p139
+aS'183'
+p140
+aS'Others'
+p141
+aa(lp142
+S'Anti-Terrorist Squad'
+p143
+aS'188'
+p144
+aS'Others'
+p145
+aa(lp146
+S'ATS'
+p147
+aS'191'
+p148
+aS'Others'
+p149
+aas.

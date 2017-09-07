@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "Arakandanallur police station", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Villupuram", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "147", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "K. Shanmugavel", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "N. Bhaskaran", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Shanmugavel", 
+            "66", 
+            "Comment"
+        ], 
+        [
+            "Shanmugavel", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "Bhaskaran", 
+            "131", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday night:15", 
+        "Friday:15", 
+        "Friday night:15"
+    ], 
+    "death": "", 
+    "title": "Blast at Arakandanallur police station", 
+    "org_unorg": "Unorganized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A blast occurred on the premises of the Arakandanallur police station near here on Friday night , damaging window panes in the building . It created panic among police personnel and residents of the locality . Deputy Inspector-General of Police ( Villupuram Range ) K. Shanmugavel , Superintendent of Police N. Bhaskaran along with a contingent of police personnel rushed to the spot . Mr. Shanmugavel told The Hindu that it was a low-intensity explosion from a dump of fireworks seized from unlicensed vendors . The fireworks were kept in the space between the new and old buildings of the police station . Owing to high daytime temperature , the fireworks might have caught fire and exploded . Nobody was injured in the blast , Mr. Shanmugavel said . Mr. Bhaskaran told this correspondent that Bomb Detection and Disposal Squad personnel , who had come from Chennai , examined the residue . They concluded that it was the kind of fireworks being used in rural areas during local festivals . Had it been a crude bomb or any sort of improvised explosive device , a crater would have formed . In this case , the blast did not affect the floor . Therefore , the role of anti-social elements or any sabotage attempt was ruled out . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Villupuram", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "blast:2", 
+        "panic:27", 
+        "Deputy Inspector-General of Police:37", 
+        "Superintendent of Police:48", 
+        "contingent:56", 
+        "spot:63", 
+        "explosion:75", 
+        "dump:78", 
+        "space:92", 
+        "station:102", 
+        "temperature:108", 
+        "fire:115", 
+        "blast:124", 
+        "correspondent:134", 
+        "Bomb Detection and Disposal Squad:136", 
+        "residue:151", 
+        "kind:159", 
+        "crude bomb:175", 
+        "sort:179", 
+        "explosive device:182", 
+        "crater:186", 
+        "case:193", 
+        "blast:196", 
+        "floor:201", 
+        "role:206", 
+        "sabotage attempt:212"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/blast-at-arakandanallur-police-station/article3438147.ece", 
+    "date": "18-05-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Accidental", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "The Hindu", 
+            "68", 
+            "Others"
+        ]
+    ]
+}

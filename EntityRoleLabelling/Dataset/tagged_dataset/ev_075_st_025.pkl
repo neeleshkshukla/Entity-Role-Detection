@@ -1,0 +1,391 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Pink City'
+p4
+aS'10'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Rajasthan'
+p8
+aS'138'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Jodhpur'
+p12
+aS'178'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Chandpol'
+p16
+aS'238'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Hawamahal'
+p20
+aS'240'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Hawamahal ,'
+p24
+aS'240'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Sanganeri Gate'
+p28
+aS'242'
+p29
+aS'Event'
+p30
+aa(lp31
+S'City Kotwali'
+p32
+aS'246'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Maniharon Ka Rasta'
+p36
+aS'249'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Manak Chowk Khanda'
+p40
+aS'253'
+p41
+aS'Event'
+p42
+aa(lp43
+S'LMB Hotel Johri Bazar'
+p44
+aS'257'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Delhi'
+p48
+aS'384'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Jaipur'
+p52
+aS'399'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Rajasthan'
+p56
+aS'479'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'North East'
+p60
+aS'522'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'India David Mulford'
+p64
+aS'620'
+p65
+aS'Neutral'
+p66
+aasS'PER'
+p67
+(lp68
+(lp69
+S'Gulab Chand Kataria'
+p70
+aS'56'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Narpat Singh Rajvi'
+p74
+aS'112'
+p75
+aS'Comment'
+p76
+aa(lp77
+S'A S Gill'
+p78
+aS'143'
+p79
+aS'Comment'
+p80
+aa(lp81
+S'Vasundhara Raje'
+p82
+aS'172'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Pratibha Patil'
+p86
+aS'425'
+p87
+aS'Comment'
+p88
+aa(lp89
+S'Hamid Ansari'
+p90
+aS'429'
+p91
+aS'Comment'
+p92
+aa(lp93
+S'Manmohan Singh'
+p94
+aS'434'
+p95
+aS'Comment'
+p96
+aa(lp97
+S'Ms Patil'
+p98
+aS'460'
+p99
+aS'Comment'
+p100
+aa(lp101
+S'Singh'
+p102
+aS'473'
+p103
+aS'Others'
+p104
+aa(lp105
+S'Vasundhara Raje'
+p106
+aS'494'
+p107
+aS'Comment'
+p108
+aa(lp109
+S'Shivraj Patil'
+p110
+aS'512'
+p111
+aS'Others'
+p112
+aa(lp113
+S'Sonia Gandhi'
+p114
+aS'547'
+p115
+aS'Comment'
+p116
+aasS'TIM'
+p117
+(lp118
+S'evening : 17'
+p119
+aS'12 minutes : 32'
+p120
+aS'1935 hrs : 229'
+p121
+aS'1947 hrs : 232'
+p122
+asS'hot_setting'
+p123
+S''
+p124
+sS'DAT'
+p125
+(lp126
+S'May 14:4'
+p127
+asS'death'
+p128
+S'67'
+p129
+sS'title'
+p130
+S'8 serial blasts in Jaipur; 67 killed and 200 injured'
+p131
+sS'org_unorg'
+p132
+S'ORGANISED'
+p133
+sS'terror_group'
+p134
+(lp135
+S'HUJI'
+p136
+asS'content'
+p137
+VView PhotosJaipur , May 14 : Terror struck the Pink City for the first time this evening , as a series of seven powerful blasts were triggered in a span of 12 minutes in crowded markets and near religious places , killing at least 67 people and injuring nearly 200 others . State Home Minister Gulab Chand Kataria and hospital sources confirmed the number of fatalities . . . Apart from the Sawai Madhav Singh Hospital , where 55 bodies were kept in the mortuary , arrangements for treatment and post-mortems of the victims were also made at the Santokhba Durlabhji Hospital and Sanganeri Gate Mahila Hospital , state Health Minister Narpat Singh Rajvi said . The condition of 20 injured , who were admitted to SMS hospital , was stated to be critical . . . Rajasthan Director General of Police A S Gill said nobody had so far claimed responsibility for the explosions but prima facie they appeared to be the handiwork of some terror outfits . Chief Minister Vasundhara Raje , who was in Jodhpur , immediately rushed back to the state capital after hearing news of the blasts and spoke to senior police officials regarding the incident . . . According to police , the blasts occurred at seven places while a live bomb was defused at one place . The blasts occurred between 1935 hrs and 1947 hrs near religious places in Chandpol , Hawamahal , Sanganeri Gate , near City Kotwali , Maniharon Ka Rasta , Manak Chowk Khanda and LMB Hotel Johri Bazar areas . . . At least three blasts took place near religious places where a large number of devotees were present to offer obeisance in the evening . The nature of the bombs and explosives could not be ascertained immediately . Most of the bombs were planted in vehicles , including cars , auto-rickshaws and cycle-rickshaws . . . The state government announced a relief of Rs five lakh to the next of kin of each of those killed , Rs one lakh for those critically wounded and Rs 25,000 for the other injured . . . High alert across the country . . A high alert was sounded and security heightened across various states in the wake of the blasts . In Delhi , intelligence sources said Bangladesh-based militant organisation HUJI was suspected to be behind the Jaipur serial blasts . . . They said HUJI had reportedly penetrated the Indian hinterland and had sleeper cells in many towns and cities . President Pratibha Patil , Vice-President Hamid Ansari and Prime Minister Manmohan Singh denounced the blasts , terming them as reprehensible , and expressed grief at the huge loss of lives . While deploring the blasts , Ms Patil requested people to maintain peace and harmony . . . Dr Singh assured full support to the Rajasthan government and assistance to the affected families . He also spoke to Chief Minister Vasundhara Raje over the telephone and offered all possible assistance in probing the explosions . Union Home Minister Shivraj Patil , who was on a visit to the North East , rushed back to the national capital tonight in the wake of the serial blasts . . . Congress President and UPA Chairperson Sonia Gandhi denounced the blasts and condoled the tragic loss of lives , calling it a crime against humanity . The BJP said the spurt in terror attacks was a direct fallout of '' a weak Prime Minister and a cowardly Home Minister '' . . . The United States also condemned the blasts , saying there could be no justification for such a murderous assault on innocent people . US Ambassador to India David Mulford , while describing the bombings as '' vicious '' , expressed deepest sympathies with the victims ' families . . . Panic gripped the entire walled city after the blasts and rampage broke out as people started running helter skelter for their homes . Shopkeepers closed their shutters in panic in the walled city market . . . The Rapid Action Force ( RAF ) has been deployed at various points in the city as a precautionary measure . Roads leading to the scenes of the blasts were sealed off and people were advised to stay indoors . There were traffic jams at several points . . . .
+p138
+sS'injured'
+p139
+S'200'
+p140
+sS'det_loc'
+p141
+(lp142
+S'India'
+p143
+aS'Rajasthan'
+p144
+aS'Jaipur'
+p145
+aS'Jaipur'
+p146
+aS'Pink City'
+p147
+asS'O'
+p148
+(lp149
+S'state Health Minister:109'
+p150
+aS'Director General of Police:139'
+p151
+aS'cars:312'
+p152
+aS'auto-rickshaws:314'
+p153
+aS'Prime Minister:432'
+p154
+aS'Union Home Minister:509'
+p155
+asS'unexpl'
+p156
+(lp157
+g124
+asS'ocassion'
+p158
+g124
+sS'link'
+p159
+S'http://www.oneindia.com/2008/05/14/8-serial-blast-in-jaipur-65-killed.html'
+p160
+sS'date'
+p161
+S'14-05-2008'
+p162
+sS'target'
+p163
+g124
+sS'hot_spot'
+p164
+S'Pink City'
+p165
+sS'delivery_mod'
+p166
+S'VEHICLE'
+p167
+sS'delivery_met'
+p168
+S'PLANTED'
+p169
+sS'expl'
+p170
+(lp171
+g124
+asS'ORG'
+p172
+(lp173
+(lp174
+S'Sawai Madhav Singh Hospital'
+p175
+aS'73'
+p176
+aS'Others'
+p177
+aa(lp178
+S'Santokhba Durlabhji Hospital'
+p179
+aS'100'
+p180
+aS'Others'
+p181
+aa(lp182
+S'Sanganeri Gate Mahila Hospital'
+p183
+aS'104'
+p184
+aS'Others'
+p185
+aa(lp186
+S'SMS hospital'
+p187
+aS'127'
+p188
+aS'Others'
+p189
+aa(lp190
+S'HUJI'
+p191
+aS'392'
+p192
+aS'Accused'
+p193
+aa(lp194
+S'HUJI'
+p195
+aS'407'
+p196
+aS'Accused'
+p197
+aa(lp198
+S'Congress'
+p199
+aS'542'
+p200
+aS'Others'
+p201
+aa(lp202
+S'UPA'
+p203
+aS'545'
+p204
+aS'Others'
+p205
+aa(lp206
+S'BJP'
+p207
+aS'568'
+p208
+aS'Others'
+p209
+aa(lp210
+S'Rapid Action Force'
+p211
+aS'682'
+p212
+aS'Others'
+p213
+aa(lp214
+S'RAF'
+p215
+aS'686'
+p216
+aS'Others'
+p217
+aas.

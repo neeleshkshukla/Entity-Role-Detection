@@ -1,0 +1,64 @@
+{
+    "LOC": [
+        [
+            "Thai south", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Thailand", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Narathiwat", 
+            "55", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "A day after Thailand signed a peace talk deal with one of several rebel groups", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Blast rattles Thai south after peace talk deal", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Six people were injured in a bomb blast in the restive Thai south , police said , as unrest continued barely a day after Thailand signed a peace talk deal with one of several rebel groups . The device , hidden in a motorcycle , was detonated outside a market in the town of Narathiwat , police said.AFP OPEN", 
+    "injured": "6", 
+    "det_loc": [
+        "Thailand", 
+        "", 
+        "", 
+        "Narathiwat", 
+        "Outside a market in Narathiwat"
+    ], 
+    "O": [
+        "injured:4", 
+        "bomb blast:7", 
+        "unrest:19", 
+        "peace talk:28", 
+        "rebel groups:35", 
+        "device:39", 
+        "hidden:41", 
+        "motorcycle:44", 
+        "detonated:47", 
+        "market:50"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "INSURGENCY/CIVIL WAR", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/blast-rattles-thai-south-after-peace-talk-deal/article4467346.ece", 
+    "date": "01-03-2013", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "Outside a market in the town", 
+    "delivery_mod": "TWO WHEELER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

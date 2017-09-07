@@ -1,0 +1,324 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Patel Nagar'
+p4
+aS'237'
+p5
+aa(lp6
+S'Delhi'
+p7
+aS'8'
+p8
+aS'Event'
+p9
+aa(lp10
+S'Ghaffar Market'
+p11
+aS'21'
+p12
+aS'Event'
+p13
+aa(lp14
+S'Karol Bagh'
+p15
+aS'24'
+p16
+aS'Event'
+p17
+aa(lp18
+S'Ahmedabad'
+p19
+aS'97'
+p20
+aS'Accused Location'
+p21
+aa(lp22
+S'Connaught Place'
+p23
+aS'129'
+p24
+aS'Event'
+p25
+aa(lp26
+S'Karol Bagh'
+p27
+aS'132'
+p28
+aS'Event'
+p29
+aa(lp30
+S'Greater Kailash'
+p31
+aS'135'
+p32
+aS'Event'
+p33
+aa(lp34
+S'Gujarat'
+p35
+aS'175'
+p36
+aS'Accused Location'
+p37
+aa(lp38
+S'Maharashtra'
+p39
+aS'184'
+p40
+aS'Neutral'
+p41
+aa(lp42
+S'Delhi'
+p43
+aS'195'
+p44
+aS'Neutral'
+p45
+aa(lp46
+S'Mathura Road'
+p47
+aS'213'
+p48
+aS'Neutral'
+p49
+aa(lp50
+S'Nizamuddin police station'
+p51
+aS'216'
+p52
+aS'Neutral'
+p53
+aa(lp54
+S'police'
+p55
+aS'217'
+p56
+aS'Neutral'
+p57
+aa(lp58
+S'Gaffar Market'
+p59
+aS'231'
+p60
+aS'Event'
+p61
+aa(lp62
+S'Saraswati Marg'
+p63
+aS'242'
+p64
+aS'Neutral'
+p65
+aa(lp66
+S'Delhi'
+p67
+aS'333'
+p68
+aS'Neutral'
+p69
+aasS'PER'
+p70
+(lp71
+(lp72
+S'Narinder Kumar'
+p73
+aS'80'
+p74
+aS'Others'
+p75
+aa(lp76
+S'Mool Chand'
+p77
+aS'107'
+p78
+aS'Accused'
+p79
+aa(lp80
+S'Chand'
+p81
+aS'198'
+p82
+aS'Comment'
+p83
+aa(lp84
+S'Chand'
+p85
+aS'272'
+p86
+aS'Comment'
+p87
+aa(lp88
+S'Rebecca John'
+p89
+aS'392'
+p90
+aS'Comment'
+p91
+aa(lp92
+S'Mohammed Shakeel'
+p93
+aS'398'
+p94
+aS'Accused'
+p95
+aa(lp96
+S'Kumar'
+p97
+aS'501'
+p98
+aS'Comment'
+p99
+aasS'TIM'
+p100
+(lp101
+S'5-30 p.m.:221'
+p102
+asS'hot_setting'
+p103
+S''
+p104
+sS'DAT'
+p105
+(lp106
+S'September 2008:6'
+p107
+aS'September 13 , 2008  : 138'
+p108
+aS'October 31:522'
+p109
+asS'death'
+p110
+g104
+sS'title'
+p111
+S'Witness fails to identify Delhi blasts case accused'
+p112
+sS'org_unorg'
+p113
+S'ORGANISED'
+p114
+sS'terror_group'
+p115
+(lp116
+S'INDIAN MUJAHIDEEN'
+p117
+asS'content'
+p118
+S'A prosecution witness in the September 2008 Delhi serial blasts case , in whose auto-rickshaw a bomb went off at Ghaffar Market in Karol Bagh , failed to identify the accused person who had allegedly planted the bomb that exploded minutes after he got off the TSR . Though the witness in his statement to the police had said he could identify the accused , he failed to do so despite over half-an-hour being granted by Additional Sessions Judge Narinder Kumar . Six of the accused were paraded before him through video-conferencing from Sabarmati Jail in Ahmedabad where they are presently lodged . But auto-rickshaw driver Mool Chand could not identify the youth who had hired the auto-rickshaw before the bomb went off . Five blasts occurred at Connaught Place , Karol Bagh and Greater Kailash on September 13 , 2008 , which killed 26 persons and injured over 100 others . Thirteen alleged Indian Mujahideen militants are on trial in the case . Six of them are presently lodged in Sabarmati jail in Gujarat , five are presently at Taluja Jail in Maharashtra , and the remaining two are at Tihar Jail in Delhi . Mr. Chand in his deposition to the court said that he was waiting for passengers on Mathura Road near Nizamuddin police station at about 5-30 p.m. when a youth asked him to go to Gaffar Market and thereafter , to Patel Nagar . Upon reaching Saraswati Marg , the passenger allegedly asked him to stop the auto rickshaw saying he wanted to purchase a mobile phone . When the youth did not return , Mr. Chand stepped out of the TSR to look for him , when the bomb exploded leaving him injured and unconscious . After the witness failed to identify the accused despite the camera focusing on each of the six accused persons faces , the prosecution sought that the six men , lodged in Sabarmati Jail , be summoned via production warrants to Delhi . Defence lawyers objected saying that it was the prosecution that had wanted the trial to proceed without the accused being present in person , overruling their objections . They also claimed that any more attempts to allow the witness to identify the accused would allow the police to tutor the witness in identifying the accused . Advocate Rebecca John , counsel for accused Mohammed Shakeel , said the decision to conduct the trial through video-conferencing had affected the defence , as lawyers were not able to ascertain various facts of the case from the accused men . In the given circumstances , when the witness has seen all the six accused on video-conferencing screen one-by-one when the camera was even focused on the face of each one of them and he could not identify the concerned accused , providing any further opportunity to the prosecution may lend an opportunity to the authorities to show the concerned accused to the witness in the meanwhile , ASJ Mr. Kumar said , rejecting the prosecution plea for summoning of the accused . The next hearing in the case is on October 31 . Six of the accused were paraded before him through video-conferencing from Sabarmati JailBut he could not identify the youth who had hired the auto before the bomb went off Six of the accused were paraded before him through video-conferencing from Sabarmati Jail But he could not identify the youth who had hired the auto before the bomb went off OPEN'
+p119
+sS'injured'
+p120
+S'100'
+p121
+sS'det_loc'
+p122
+(lp123
+S'India'
+p124
+aS'Delhi'
+p125
+ag104
+aS'NEW DELHI:'
+p126
+aS'Ghaffar Market in Karol Bagh'
+p127
+asS'O'
+p128
+(lp129
+S'A:1'
+p130
+aS'additional sessions judge:77'
+p131
+aS'video-conferencing:92'
+p132
+aS'sabarmati jail:94'
+p133
+aS'auto-rickshaw:105'
+p134
+aS'militants:157'
+p135
+aS'sabarmati jail:172'
+p136
+aS'taluja jail:181'
+p137
+aS'tihar jail:192'
+p138
+aS'mobile phone:261'
+p139
+aS'TSR:277'
+p140
+aS'sabarmati jail:324'
+p141
+aS'sabarmati jail:565'
+p142
+asS'unexpl'
+p143
+(lp144
+g104
+asS'ocassion'
+p145
+g104
+sS'link'
+p146
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/witness-fails-to-identify-delhi-blasts-case-accused/article4011692.ece'
+p147
+sS'date'
+p148
+S'13-09-2008'
+p149
+sS'target'
+p150
+g104
+sS'hot_spot'
+p151
+S'Ghaffar Market in Karol Bagh'
+p152
+sS'delivery_mod'
+p153
+S'AUTO-RICKSHAW'
+p154
+sS'delivery_met'
+p155
+S'PLANTED'
+p156
+sS'expl'
+p157
+(lp158
+g104
+asS'ORG'
+p159
+(lp160
+(lp161
+S'Indian Mujahideen'
+p162
+aS'155'
+p163
+aS'Accused'
+p164
+aS'Others'
+p165
+aa(lp166
+S'police'
+p167
+aS'57'
+p168
+aS'Others'
+p169
+aa(lp170
+S'Defence lawyers'
+p171
+aS'335'
+p172
+aS'Others'
+p173
+aa(lp174
+S'police'
+p175
+aS'381'
+p176
+aS'Others'
+p177
+aas.

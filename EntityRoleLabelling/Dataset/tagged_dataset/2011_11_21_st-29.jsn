@@ -1,0 +1,46 @@
+{
+    "LOC": [], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:18"
+    ], 
+    "death": "", 
+    "title": "10 injured in Karachi cinema hall blast", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 10 people were injured when a bomb went off in a cinema hall here on Sunday , the police said . The blast occurred during the interval , when many people stepped out of the hall , witnesses said . OPEN", 
+    "injured": "10", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Karachi", 
+        ""
+    ], 
+    "O": [
+        "injured:6", 
+        "bomb:9", 
+        "cinema hall:14", 
+        "blast:25", 
+        "interval:29", 
+        "hall:38"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/10-injured-in-karachi-cinema-hall-blast/article2644741.ece", 
+    "date": "21-11-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

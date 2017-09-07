@@ -1,0 +1,162 @@
+{
+    "LOC": [
+        [
+            "Kozhikode", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "KSRTC bus stand", 
+            "76", 
+            "Event"
+        ], 
+        [
+            "mofussil bus stand", 
+            "81", 
+            "Event"
+        ], 
+        [
+            "Kozhikode", 
+            "85", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "T. Nazeer", 
+            "15", 
+            "Accused"
+        ], 
+        [
+            "Abdul Halim", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "C. Yusuf", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "Halim", 
+            "46", 
+            "Accused"
+        ], 
+        [
+            "Yusuf", 
+            "60", 
+            "Accused"
+        ], 
+        [
+            "Nazeer", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "Shammi Feroz", 
+            "152", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:8", 
+        "Friday:68", 
+        "March 3 , 2006 : 87", 
+        "August 2010:145"
+    ], 
+    "death": "", 
+    "title": "Kozhikode blast: 2 found guilty", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)"
+    ], 
+    "content": "The National Investigation Agency Special Court on Thursday found suspected Laskhar-e-Taiba -LSB- militant -RSB- T. Nazeer and another accused guilty in the Kozhikode twin blast cases . The court , however , acquitted the two other accused , Abdul Halim and C. Yusuf . While Halim was acquitted on benefit of doubt , the court found no evidence against Yusuf . The sentence will be pronounced on Friday . The blasts took place at the KSRTC bus stand and the mofussil bus stand in Kozhikode on March 3 , 2006 , within a span of 30 minutes . This is the first case probed by the NIA in the State . The court found that the bombs were placed by the first accused Nazeer . The intention was to create communal disharmony between two religious communities . The NIA filed the charge sheet in August 2010 against eight accused . Accused Shammi Feroz had turned an approver . Two other accused were in the hiding . The charge sheet said the accused planted the bombs in retaliation against the perceived partisan attitude of the State government and the judiciary in not granting bail to the Muslim accused in the second Marad incident . In order to express the resentment of the Muslim community , they hatched a conspiracy and manufactured bombs , which they subsequently exploded at two main bus stands , causing panic , terror and hardship to the general public , thereby waging a war against the establishment and the government . These accused wanted to create communal disharmony and disturbances in the area , the charge sheet said . The court found that the accused had committed offences punishable under Section 16 ( 1 ) , 18 and 23 of Unlawful Activities ( Prevention ) Act , 1967 , by attempting to strike terror in the general public and threaten the security and integrity of the country . The court also found them guilty of offences punishable under Section 124 A of the Indian Penal Code ( sedition ) . They were also found guilty of offences under Section 120 B ( criminal conspiracy ) and under Section 153 A ( creating communal disharmony and enmity between two groups ) of the IPC , besides being punishable under Section 3 , 4 and 5 of the Explosive Substances Act . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Kozhikode", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "kozhikode twin blast cases:23", 
+        "court:29", 
+        "acquitted:33", 
+        "acquitted:48", 
+        "benefit of doubt:50", 
+        "blasts:71", 
+        "court:113", 
+        "bombs:117", 
+        "intention:127", 
+        "communal disharmony:131", 
+        "religious communities:135", 
+        "charge sheet:168", 
+        "bombs:175", 
+        "retaliation:177", 
+        "state government:185", 
+        "bail:193", 
+        "muslim accused:196", 
+        "second marad incident:200", 
+        "resentment:209", 
+        "muslim community:212", 
+        "conspiracy:218", 
+        "manufactured bombs:220", 
+        "bus stands:230", 
+        "war:247", 
+        "communal disharmony:260", 
+        "charge sheet:269", 
+        "court:274", 
+        "offences punishable:281", 
+        "unlawful activities ( prevention ) act , 1967:294", 
+        "public:311", 
+        "court:323", 
+        "indian penal code:337", 
+        "section 120 b:352", 
+        "criminal conspiracy:356", 
+        "conspiracy:357", 
+        "section:361", 
+        "section 153 a:361", 
+        "communal disharmony:366", 
+        "enmity:369", 
+        "ipc:376", 
+        "explosive substances act:390"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/kozhikode-blast-2-found-guilty/article2348987.ece", 
+    "date": "03-03-2006", 
+    "target": "Public Transport", 
+    "hot_spot": "Bus stand", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency Special Court", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Laskhar-e-Taiba", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "107", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "139", 
+            "Others"
+        ]
+    ]
+}

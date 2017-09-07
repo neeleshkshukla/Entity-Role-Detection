@@ -1,0 +1,168 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Pune'
+p4
+aS'27'
+p5
+aS'Event'
+p6
+aa(lp7
+S'7 Race Course Road'
+p8
+aS'37'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Metro stations'
+p12
+aS'103'
+p13
+aS'Neutral'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Manmohan Singh'
+p18
+aS'45'
+p19
+aS'Others'
+p20
+aasS'TIM'
+p21
+(lp22
+sS'hot_setting'
+p23
+S''
+p24
+sS'DAT'
+p25
+(lp26
+S'Wednesday:29'
+p27
+asS'death'
+p28
+g24
+sS'title'
+p29
+S'Security stepped up after Pune blasts'
+p30
+sS'org_unorg'
+p31
+g24
+sS'terror_group'
+p32
+(lp33
+g24
+asS'content'
+p34
+S'Security at vital installations and residences of senior government functionaries in the Capital was stepped up in the wake of a series of low-intensity blasts in Pune on Wednesday . The security personnel deployed at the 7 Race Course Road residence of Prime Minister Manmohan Singh were alerted and the entire area surrounding the bungalow barricaded soon after the blasts , which obstructed smooth vehicular flow . A high alert was sounded in the city and all the police stations besides special units instructed to keep a watch on any suspicious activity . Extra security personnel were also deployed in and around Metro stations , particularly those located near vital installations like Parliament and railway stations . Bomb detection and disposal squads are on stand-by . All emergency services have been activated to meet any contingency , said an officer . OPEN'
+p35
+sS'injured'
+p36
+g24
+sS'det_loc'
+p37
+(lp38
+S'India'
+p39
+aS'Maharashtra'
+p40
+ag24
+aS'Pune'
+p41
+ag24
+asS'O'
+p42
+(lp43
+S'security:1'
+p44
+aS'vital installations:3'
+p45
+aS'residences:6'
+p46
+aS'senior government functionaries:8'
+p47
+aS'capital:13'
+p48
+aS'low-intensity blasts:24'
+p49
+aS'security personnel:32'
+p50
+aS'7 race course road residence:37'
+p51
+aS'race course road:38'
+p52
+aS'prime minister manmohan singh:43'
+p53
+aS'alerted:48'
+p54
+aS'bungalow barricaded:55'
+p55
+aS'blasts:60'
+p56
+aS'smooth vehicular flow:64'
+p57
+aS'police stations:79'
+p58
+aS'suspicious activity:91'
+p59
+aS'extra security personnel:94'
+p60
+aS'metro stations:103'
+p61
+aS'vital installations:110'
+p62
+aS'parliament:113'
+p63
+aS'railway stations:115'
+p64
+aS'bomb detection:118'
+p65
+aS'disposal squads:121'
+p66
+aS'emergency:128'
+p67
+aS'contingency:136'
+p68
+asS'unexpl'
+p69
+(lp70
+g24
+asS'ocassion'
+p71
+g24
+sS'link'
+p72
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/security-stepped-up-after-pune-blasts/article3715224.ece'
+p73
+sS'date'
+p74
+S'01-08-2012'
+p75
+sS'target'
+p76
+S'RESIDENCE'
+p77
+sS'hot_spot'
+p78
+g24
+sS'delivery_mod'
+p79
+g24
+sS'delivery_met'
+p80
+g24
+sS'expl'
+p81
+(lp82
+g24
+asS'ORG'
+p83
+(lp84
+s.

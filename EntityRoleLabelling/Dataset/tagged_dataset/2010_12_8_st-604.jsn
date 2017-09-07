@@ -1,0 +1,142 @@
+{
+    "LOC": [
+        [
+            "Chennai", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Gudiyatham", 
+            "220", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "B. Sudershan Reddy", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "S.S. Nijjar", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Kaza Nizamuddin", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Hyder Ali", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "Abubucker Siddique", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Reddy", 
+            "129", 
+            "Others"
+        ], 
+        [
+            "R. Natarajan", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "G. Balaji", 
+            "199", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "August 6:95", 
+        "August:95", 
+        "1993:98"
+    ], 
+    "death": "11", 
+    "title": "RSS office bomb blast accused acquitted", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Supreme Court has ordered acquittal of three main accused in the case relating to a bomb blast at the RSS office in Chennai and directed their release forthwith . The TADA court in Chennai had awarded life imprisonment to them . A Bench of Justice B. Sudershan Reddy and Justice S.S. Nijjar allowed the appeals of Kaza Nizamuddin , Hyder Ali and Abubucker Siddique challenging the life sentence and dismissed the CBI 's appeals questioning the acquittal of some of the accused by the TADA court . The prosecution case was that on August 6 , 1993 , there were loud explosions which resulted in the death of 11 persons , injuries to seven , and complete demolition of the building . Writing the judgment , Justice Reddy said , Excepting for the confessional statements , admittedly , there is no other independent evidence with regard to the participation of the accused in the conspiracy and the particular role played by them . It is apparent that even according to the prosecution version , they could have only carried bombs made from gelatine . The Bench , accepting the arguments of senior counsel R. Natarajan and counsel G. Balaji appearing for the appellants , said the confessional statements reveal that what was purchased was only gelatine sticks from Gudiyatham and not RDX or PETN , which has got a serious bearing on the acceptability of the confessional statements of the accused and their involvement of all the accused in the conspiracy . The lid on the prosecution case is blown away by the report of forensic experts and the traces of the explosive material collected at the bomb site . The prosecution story does not inspire confidence on the basis of the material placed on record , it said . OPEN", 
+    "injured": "7", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "bomb blast:17", 
+        "life sentence:68", 
+        "tada court:86", 
+        "confessional:135", 
+        "evidence:145", 
+        "gelatine:184", 
+        "confessional:208", 
+        "gelatine sticks:217", 
+        "rdx:223", 
+        "petn:225", 
+        "involvement:245", 
+        "explosive material:274", 
+        "bomb site:279", 
+        "prosecution story:283", 
+        "confidence:288", 
+        "basis:291", 
+        "record:297"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/rss-office-bomb-blast-accused-acquitted/article938930.ece", 
+    "date": "06-08-1993", 
+    "target": "Public Organization", 
+    "hot_spot": "bomb blast at the RSS office", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Supreme Court", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "RSS office", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "TADA court", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "TADA court", 
+            "86", 
+            "Others"
+        ]
+    ]
+}

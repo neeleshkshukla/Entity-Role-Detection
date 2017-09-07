@@ -1,0 +1,238 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Palace of Justice'
+p4
+aS'6'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Damascus'
+p8
+aS'10'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Turkey'
+p12
+aS'21'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Syria'
+p16
+aS'30'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Damascus'
+p20
+aS'34'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Turkey'
+p24
+aS'123'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Syria'
+p28
+aS'140'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Turkish'
+p32
+aS'144'
+p33
+aS'Event'
+p34
+aasS'PER'
+p35
+(lp36
+sS'TIM'
+p37
+(lp38
+S'15-month : 97'
+p39
+asS'hot_setting'
+p40
+S''
+p41
+sS'DAT'
+p42
+(lp43
+S'Thursday:12'
+p44
+aS'Wednesday:105'
+p45
+aS'Friday:147'
+p46
+asS'death'
+p47
+S'69'
+p48
+sS'title'
+p49
+S'Turkey troops at border'
+p50
+sS'org_unorg'
+p51
+g41
+sS'terror_group'
+p52
+(lp53
+g41
+asS'content'
+p54
+S'Twin bombs exploded outside the Palace of Justice in Damascus on Thursday as deadly violence raged across the country and Turkey deployed missile batteries along its volatile border with Syria . In central Damascus , three people were wounded when bombs blasted a car park outside the court complex , state media reported . A police source told AFP that two magnetic bombs exploded in judges cars and that a third was being defused . Elsewhere , violence killed at least 69 people , including 38 civilians , after one of the bloodiest days of the 15-month revolt left at least 149 dead on Wednesday , a watchdog said . The days death toll also included 23 soldiers and eight rebels . Turkey has sent missile batteries , tanks and troops to the border as a security corridor after Syria shot down a Turkish warplane last Friday , media reports said . There was no official confirmation , but state-run TRT television showed dozens of military vehicles reportedly heading for the border , in a convoy that included air defence systems . AFP OPEN'
+p55
+sS'injured'
+p56
+S'3'
+p57
+sS'det_loc'
+p58
+(lp59
+S'Syria'
+p60
+ag41
+ag41
+aS'Damacus'
+p61
+ag41
+asS'O'
+p62
+(lp63
+S'twin bombs:1'
+p64
+aS'violence:15'
+p65
+aS'missile batteries:23'
+p66
+aS'volatile border:27'
+p67
+aS'central damascus:33'
+p68
+aS'bombs blasted:41'
+p69
+aS'car park:44'
+p70
+aS'court complex:48'
+p71
+aS'state media:51'
+p72
+aS'police source:56'
+p73
+aS'two magnetic bombs:61'
+p74
+aS'judges cars:66'
+p75
+aS'defused:74'
+p76
+aS'violence:78'
+p77
+aS'bloodiest:93'
+p78
+aS'15-month revolt:97'
+p79
+aS'watchdog:108'
+p80
+aS'death toll:113'
+p81
+aS'23 soldiers:117'
+p82
+aS'eight rebels:120'
+p83
+aS'missile batteries:126'
+p84
+aS'tanks:129'
+p85
+aS'troops:131'
+p86
+aS'security corridor:137'
+p87
+aS'syria shot:140'
+p88
+aS'warplane:145'
+p89
+aS'official confirmation:156'
+p90
+aS'military vehicles:166'
+p91
+aS'convoy:176'
+p92
+aS'air defence systems:179'
+p93
+asS'unexpl'
+p94
+(lp95
+S'MAGNET'
+p96
+asS'ocassion'
+p97
+g41
+sS'link'
+p98
+S'http://www.thehindu.com/todays-paper/tp-international/turkey-troops-at-border/article3582904.ece'
+p99
+sS'date'
+p100
+S'28-06-2012'
+p101
+sS'target'
+p102
+S'PALACE OF JUSTICE'
+p103
+sS'hot_spot'
+p104
+g41
+sS'delivery_mod'
+p105
+S'CAR'
+p106
+sS'delivery_met'
+p107
+S'PLANTED'
+p108
+sS'expl'
+p109
+(lp110
+S'MAGNETIC BOMB'
+p111
+asS'ORG'
+p112
+(lp113
+(lp114
+S'AFP'
+p115
+aS'59'
+p116
+aS'Others'
+p117
+aa(lp118
+S'TRT television'
+p119
+aS'161'
+p120
+aS'Others'
+p121
+aa(lp122
+S'AFP'
+p123
+aS'183'
+p124
+aS'Others'
+p125
+aas.

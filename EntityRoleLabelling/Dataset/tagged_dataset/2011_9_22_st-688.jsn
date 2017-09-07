@@ -1,0 +1,95 @@
+{
+    "LOC": [], 
+    "PER": [
+        [
+            "Parvesh Kumar", 
+            "123", 
+            "Accused"
+        ], 
+        [
+            "Parvesh", 
+            "142", 
+            "Accused"
+        ], 
+        [
+            "Parvesh", 
+            "168", 
+            "Accused"
+        ], 
+        [
+            "Parvesh", 
+            "191", 
+            "Accused"
+        ], 
+        [
+            "Parvesh", 
+            "276", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "August 13:60", 
+        "Tuesday:137"
+    ], 
+    "death": "", 
+    "title": "Youth poses as terrorist to extort Rs. 2 crore from neighbour, held", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A young man who allegedly posing as terrorist to extort Rs .2 crore from a neighbour has been arrested by the Delhi Police Crime Branch . The accused had exploded a low-intensity crude bomb near the victim 's residence to intimidate him . The police received a complaint from an auto-parts supplier alleging that in the early hours of August 13 an incendiary device had exploded near his house . The businessman received threat calls and letters from a person claiming to be member of a terror outfit . He threatened to eliminate the victim 's family members if he did not cough up Rs .2 crore . Based on the complaint , the police registered a case and zeroed in on Parvesh Kumar , 22 , the victim 's neighbour . He was arrested on Tuesday . During interrogation , Parvesh purportedly disclosed that he earlier had cordial relations with the businessman . The victim 's financial status improved with the passage of time , but Parvesh 's remained the same . The businessman had loaned some money to his family and recently asked for repayment . This irked Parvesh and he allegedly decided to extort money from him . The accused configured a crude bomb using inflammable materials used in crackers , planted it on the fuel tank of a mini-truck owned by the businessman and set it afire , which caused a minor blast . Posing as terrorist , he then allegedly threatened the victim for protection money . The accused worked as supervisor in a construction company . He had exploded low-intensity crude bomb near victim 's house to intimidate him Parvesh was irked when the victim asked for repayment of loan OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "posing:6", 
+        "terrorist:8", 
+        "crude bomb:33", 
+        "incendiary device:63", 
+        "exploded:66", 
+        "businessman:72", 
+        "threat calls:74", 
+        "terror outfit:87", 
+        "neighbour:131", 
+        "interrogation:140", 
+        "businessman:153", 
+        "businessman:175", 
+        "extort money:197", 
+        "crude bomb:206", 
+        "inflammable materials:209", 
+        "fuel tank:219", 
+        "mini-truck:223", 
+        "businessman:227", 
+        "blast:237", 
+        "terrorist:241", 
+        "exploded:265", 
+        "crude bomb:267"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/youth-poses-as-terrorist-to-extort-rs-2-crore-from-neighbour-held/article2474898.ece", 
+    "date": "22-09-2011", 
+    "target": "", 
+    "hot_spot": "Residence", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Delhi Police Crime Branch", 
+            "22", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "12", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Altamas Kabir", 
+            "49", 
+            "Comment"
+        ], 
+        [
+            "Zaibunnisa Anwar Kazi", 
+            "57", 
+            "Accused"
+        ], 
+        [
+            "Ishaq Mohammed", 
+            "61", 
+            "Accused"
+        ], 
+        [
+            "Sharif Abdul", 
+            "64", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:5", 
+        "1993 : 11"
+    ], 
+    "death": "", 
+    "title": "SC rejects Mumbai blast convicts plea for relief", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Supreme Court on Tuesday rejected the plea of three 1993 Mumbai bomb blasts convicts that they may be permitted not to surrender to serve the remainder of their sentences till their clemency petitions are decided by the President . The apex court bench headed by Chief Justice Altamas Kabir while ruling on the plea of Zaibunnisa Anwar Kazi , Ishaq Mohammed and Sharif Abdul , said that if such a prayer was allowed , the Presidents Office will be flooded with clemency petitions.IANS OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        ""
+    ], 
+    "O": [
+        "rejected:6", 
+        "plea:8", 
+        "mumbai bomb blasts:12", 
+        "surrender:23", 
+        "sentences:30", 
+        "clemency petitions:33", 
+        "president:39", 
+        "apex court bench:42", 
+        "chief justice altamas kabir:47", 
+        "prayer:72", 
+        "presidents office:77", 
+        "flooded:81"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/sc-rejects-mumbai-blast-convicts-plea-for-relief/article4625247.ece", 
+    "date": "12-03-1993", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Supreme Court", 
+            "2", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "LOC": [
+        [
+            "Sodigadde-Banasale", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Belke Gram Panchayat", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Bhatkal taluk", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Mangalore", 
+            "109", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "Bhatkal", 
+            "127", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kartik Ramesh Naik", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Ramesh Mastappa Naik", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Vedamurty", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "Naik", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "Vedamurthy", 
+            "118", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:25"
+    ], 
+    "death": "2", 
+    "title": "Boy killed in blast in Bhatkal", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Uttara Kannada", 
+        "Belke Gram Panchayat limits in Bhatkal taluk"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A 12-year-old boy was killed and his father seriously injured in a blast in Sodigadde-Banasale in Belke Gram Panchayat limits in Bhatkal taluk on Sunday . The reason behind the blast is yet to be ascertained . According to local people , Kartik Ramesh Naik ( 12 ) and his father , Ramesh Mastappa Naik , were preparing a sulphur mixture for a crude bomb to scare away pigs . Deputy Superintendent of Police Vedamurty said that the exact reason behind the blast was not known . He said that the police searched Mr. Naik 's house but they did not find any clues . Forensic experts from Mangalore and Bangalore had been called in , Mr. Vedamurthy said . This is the second blast in Bhatkal this week . OPEN", 
+    "injured": "0", 
+    "org_unorg": "Organized", 
+    "O": [
+        "sulphur mixture for a crude bomb:60", 
+        "crude bomb:64"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/boy-killed-in-blast-in-bhatkal/article616952.ece", 
+    "date": "05-09-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": []
+}

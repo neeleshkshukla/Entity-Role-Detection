@@ -1,0 +1,366 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Imphal West'
+p4
+aS'4'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bishnupur districts'
+p8
+aS'7'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Andro'
+p12
+aS'60'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Imphal East'
+p16
+aS'63'
+p17
+aS'Event'
+p18
+aa(lp19
+S'M-sector'
+p20
+aS'110'
+p21
+aS'Event'
+p22
+aa(lp23
+S'army administrative office'
+p24
+aS'113'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Imphal'
+p28
+aS'117'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Raj Bhavan'
+p32
+aS'121'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Khwairakpan Lamkhai'
+p36
+aS'163'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Bishnupur district'
+p40
+aS'166'
+p41
+aS'Event'
+p42
+aa(lp43
+S'6/8 Gorkha Regiment'
+p44
+aS'173'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Moidangpok'
+p48
+aS'183'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Imphal West'
+p52
+aS'185'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Manipur'
+p56
+aS'193'
+p57
+aS'Assoc Event Location'
+p58
+aa(lp59
+S'Assam'
+p60
+aS'217'
+p61
+aS'Neutral'
+p62
+aasS'PER'
+p63
+(lp64
+sS'TIM'
+p65
+(lp66
+S'morning : 11'
+p67
+aS'morning : 104'
+p68
+asS'hot_setting'
+p69
+S''
+p70
+sS'DAT'
+p71
+(lp72
+S'Tuesday:10'
+p73
+aS'Monday:52'
+p74
+aS'Tuesday:94'
+p75
+aS'September 5:213'
+p76
+aS'September 8:233'
+p77
+asS'death'
+p78
+g70
+sS'title'
+p79
+S'Triple blasts rock Manipur'
+p80
+sS'org_unorg'
+p81
+S'ORGANISED'
+p82
+sS'terror_group'
+p83
+(lp84
+S'REVOLUTIONARY PEOPLES FRONT'
+p85
+aS'PEOPLES LIBERATION ARMY'
+p86
+asS'content'
+p87
+S'Three explosions rocked Imphal West and Bishnupur districts on Tuesday morning . There were no casualties . The police suspect the hand of the Peoples Liberation Army ( PLA ) , the armed wing of the Revolutionary Peoples Front , since the insurgent group is celebrating its foundation day . On Monday , the PLA exploded a bomb at Andro , in Imphal East , though the police commandos targeted escaped unhurt . Police and security personnel have arrested 10 persons , including three women , in connection with the explosions . On Tuesday , the first blast took place early in the morning near the boundary wall of M-sector , the army administrative office in Imphal adjacent to the Raj Bhavan . Security sidestepped Despite being heavily guarded by armed personnel round the clock , suspected insurgents sneaked into the area and planted the bomb , which was later triggered with a remote-control device . The second explosion took place at Khwairakpan Lamkhai in Bishnupur district , near the gate of 6/8 Gorkha Regiment , while the third took place at Moidangpok in Imphal West district . The PLA and the Manipur Peoples Army , the military wing of the United National Liberation Front , have continuously targeted security personnel since September 5 . One Assam Rifles personnel was killed and some others , including a civilian , were wounded on September 8 . The insurgent groups had advised people to stay away from security personnel , who they said could be attacked at will , any time , any place . Police suspect role of Peoples Liberation ArmyOne bomb was planted near Army office Police suspect role of Peoples Liberation Army One bomb was planted near Army office OPEN'
+p88
+sS'injured'
+p89
+g70
+sS'det_loc'
+p90
+(lp91
+S'India'
+p92
+aS'Manipur'
+p93
+aS'Imphal West'
+p94
+aS'IMPHAL'
+p95
+aS'Imphal West and Bishnupur districts '
+p96
+asS'O'
+p97
+(lp98
+S'three explosions:1'
+p99
+aS'commandos:69'
+p100
+aS'10 persons:80'
+p101
+aS'first blast:97'
+p102
+aS'insurgents:138'
+p103
+aS'sneaked:139'
+p104
+aS'bomb:146'
+p105
+aS'remote-control device:154'
+p106
+aS'second explosion:158'
+p107
+aS'third:179'
+p108
+aS'security:210'
+p109
+aS'civilian:228'
+p110
+asS'unexpl'
+p111
+(lp112
+g70
+asS'ocassion'
+p113
+g70
+sS'link'
+p114
+S'http://www.thehindu.com/todays-paper/tp-national/triple-blasts-rock-manipur/article3937062.ece'
+p115
+sS'date'
+p116
+S'25-09-2012'
+p117
+sS'target'
+p118
+S'MILLITARY TROOPS'
+p119
+sS'hot_spot'
+p120
+S'Imphal West and Bishnupur districts '
+p121
+sS'delivery_mod'
+p122
+g70
+sS'delivery_met'
+p123
+S'STORED'
+p124
+sS'expl'
+p125
+(lp126
+S'REMOTE-CONTROL DEVICE'
+p127
+asS'ORG'
+p128
+(lp129
+(lp130
+S'police'
+p131
+aS'19'
+p132
+aS'Others'
+p133
+aa(lp134
+S'Peoples Liberation Army'
+p135
+aS'25'
+p136
+aS'Accused'
+p137
+aa(lp138
+S'PLA'
+p139
+aS'29'
+p140
+aS'Accused'
+p141
+aa(lp142
+S'Revolutionary Peoples Front'
+p143
+aS'37'
+p144
+aS'Accused'
+p145
+aa(lp146
+S'PLA'
+p147
+aS'55'
+p148
+aS'Accused'
+p149
+aa(lp150
+S'police'
+p151
+aS'68'
+p152
+aS'Others'
+p153
+aa(lp154
+S'Police'
+p155
+aS'74'
+p156
+aS'Others'
+p157
+aa(lp158
+S'security personnel'
+p159
+aS'76'
+p160
+aS'Others'
+p161
+aa(lp162
+S'armed personnel'
+p163
+aS'131'
+p164
+aS'Others'
+p165
+aa(lp166
+S'PLA'
+p167
+aS'190'
+p168
+aS'Accused'
+p169
+aa(lp170
+S'Manipur Peoples Army'
+p171
+aS'193'
+p172
+aS'Others'
+p173
+aa(lp174
+S'United National Liberation Front'
+p175
+aS'202'
+p176
+aS'Accused'
+p177
+aa(lp178
+S'Assam Rifles'
+p179
+aS'217'
+p180
+aS'Others'
+p181
+aa(lp182
+S'insurgent groups'
+p183
+aS'237'
+p184
+aS'Others'
+p185
+aa(lp186
+S'Police'
+p187
+aS'264'
+p188
+aS'Others'
+p189
+aa(lp190
+S'Army office Police'
+p191
+aS'275'
+p192
+aS'Others'
+p193
+aa(lp194
+S'Peoples Liberation Army'
+p195
+aS'281'
+p196
+aS'Accused'
+p197
+aa(lp198
+S'Army office'
+p199
+aS'289'
+p200
+aS'Others'
+p201
+aas.

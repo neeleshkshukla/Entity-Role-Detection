@@ -1,0 +1,181 @@
+{
+    "LOC": [
+        [
+            "Mecca Masjid", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "41", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mecca Masjid", 
+            "61", 
+            "Event"
+        ], 
+        [
+            "Old City", 
+            "80", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "Old City", 
+            "202", 
+            "Event"
+        ], 
+        [
+            "Lal Darwaza", 
+            "208", 
+            "Neutral"
+        ], 
+        [
+            "Gowlipura", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "Uppuguda", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "258", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "267", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Old City", 
+            "281", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "294", 
+            "Event"
+        ], 
+        [
+            "Old City", 
+            "312", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tarun Joshi", 
+            "238", 
+            "Others"
+        ], 
+        [
+            "Joshi", 
+            "250", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 32", 
+        "Friday : 52", 
+        "Friday : 97", 
+        "Thursday : 269"
+    ], 
+    "death": "", 
+    "title": "A day later, Friday prayers offered amid fear", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hydrabad", 
+        "Meccqa Masjid"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Consequent to an appeal by community leaders to avoid big congregations and carrying bags and covers to the mosques , the turnout at the historic Mecca Masjid was very low on Friday , a day after two bomb blasts ripped Dilsukhnagar and resulted in 16 casualties . About 3,500 people offered Friday prayers at the mosque . With memories of Mecca Masjid blast revisiting the minds of the people , tension in the air was quite palpable in the Old City . As a precautionary measure the police heightened the security at the Mecca Masjid for Friday prayers . Bomb Disposal ( BD ) squads and police sanitised the mosque and its surrounding areas . Namazis were frisked before being allowed inside to offer prayers . The police did not allow people to park their vehicles in front of the mosque at the time of prayers . Though the markets were open , there was hardly any crowd due to the fear of blasts . Shopkeepers complained of low customer turnout during the day . The popular tourist places also sported a deserted look . The bandh call given by the Bharatiya Janata Party ( BJP ) evoked little response in Old City and was limited to Lal Darwaza , Gowlipura and Uppuguda areas . Shops and commercial establishments here remained closed for most part of the day . Deputy Commissioner of Police , south zone , Tarun Joshi supervised the security arrangements . Speaking to media personnel Mr. Joshi said that security was tightened at the Mecca Masjid in view of the twin blasts at Dilsukhnagar on Thursday . He said that the police force was deployed in the Old City and the police are on high alert . With memories of Mecca Masjid blast revisiting the minds of the people , tension in the air quite palpable in the Old City OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "appeal:4", 
+        "community leaders:6", 
+        "big congregations:10", 
+        "carrying bags:13", 
+        "mosques:19", 
+        "two bomb blasts:37", 
+        "16 casualties:45", 
+        "3,500 people:49", 
+        "mosque:56", 
+        "Mecca Masjid blast:61", 
+        "revisiting the minds:64", 
+        "tension:71", 
+        "quite palpable:76", 
+        "precautionary measure:85", 
+        "heightened:89", 
+        "security:91", 
+        "Bomb Disposal:100", 
+        "BD:103", 
+        "sanitised:108", 
+        "mosque:110", 
+        "surrounding areas:113", 
+        "Namazis:116", 
+        "frisked:118", 
+        "vehicles:136", 
+        "mosque:141", 
+        "markets:150", 
+        "blasts:164", 
+        "Shopkeepers:166", 
+        "popular tourist places:177", 
+        "deserted look:183", 
+        "bandh call:187", 
+        "response:200", 
+        "Shops:216", 
+        "commercial establishments:218", 
+        "supervised:240", 
+        "security arrangements:242", 
+        "security:253", 
+        "tightened:255", 
+        "twin blasts:264", 
+        "deployed:278", 
+        "high alert:288", 
+        "Mecca Masjid blast:294", 
+        "revisiting the minds:297", 
+        "tension:304", 
+        "quite palpable:308"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/a-day-later-friday-prayers-offered-amid-fear/article4445351.ece", 
+    "date": "22-02-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bharatiya Janata Party", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "196", 
+            "Others"
+        ]
+    ]
+}

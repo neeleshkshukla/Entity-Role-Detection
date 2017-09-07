@@ -1,0 +1,283 @@
+{
+    "LOC": [
+        [
+            "Ajmer dargah", 
+            "33", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ajmer", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Panchkula", 
+            "61", 
+            "Accused Location"
+        ], 
+        [
+            "Haryana", 
+            "63", 
+            "Accused Location"
+        ], 
+        [
+            "Ajmer", 
+            "96", 
+            "Neutral"
+        ], 
+        [
+            "Ahata-e-Noor", 
+            "206", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Haridwar", 
+            "258", 
+            "Accused Location"
+        ], 
+        [
+            "Uttarakhand", 
+            "260", 
+            "Accused Location"
+        ], 
+        [
+            "Ajmer dargah", 
+            "291", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Delhi", 
+            "313", 
+            "Neutral"
+        ], 
+        [
+            "Panchkula", 
+            "319", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad 's Mecca Masjid", 
+            "336", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Malegaon mosque", 
+            "341", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ajmer dargarh", 
+            "344", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Swami Aseemanand", 
+            "14", 
+            "Accused"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "Vikram Singh", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "Khwaja Moinuddin Chishti", 
+            "214", 
+            "Others"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "255", 
+            "Accused"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "321", 
+            "Accused"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "375", 
+            "Accused"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "432", 
+            "Others"
+        ], 
+        [
+            "Indresh Kumar", 
+            "439", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:12", 
+        "2007:32", 
+        "February 5:108", 
+        "October 11 , 2007 : 218", 
+        "November:263", 
+        "February 2007:369"
+    ], 
+    "death": "3", 
+    "title": "ATS takes Aseemanand into custody", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Anti-Terrorism Squad ( ATS ) of the Rajasthan police on Saturday took Swami Aseemanand , a key figure in the Hindutva terror network , into custody in connection with the 2007 Ajmer dargah blast case . The Chief Judicial Magistrate of Ajmer had earlier this week issued production warrants against Swami Aseemanand directing the ATS to bring him from Panchkula in Haryana , where he was lodged in judicial custody as an accused in the Samjhauta Express blast case being probed by the National Investigation Agency . He was produced before Judicial Magistrate-I , Ajmer , Vikram Singh , who remanded him to ATS custody till February 5 . He will be brought to court again , after completion of interrogation , for further proceedings . After the public prosecutor representing the ATS informed the court that Swami Aseemanand had emerged as a key conspirator in the dargah blast , the Magistrate permitted the investigating agency to arrest him and asked the accused if he wished to engage a lawyer . On his refusal , the court ordered that the services of counsel appointed by the government would be provided to him . Three persons were killed and 17 injured in the explosion at Ahata-e-Noor in the world-famous shrine of Sufi saint Khwaja Moinuddin Chishti on October 11 , 2007 during Ramzan , shortly after the fast-breaking custom of Iftar . The dargah was packed to capacity with 5,000 devotees at the time of the blast . The Central Bureau of Investigation arrested Swami Aseemanand from Haridwar , Uttarakhand , in November last year . He has since confessed to having taken part in the conspiracy for carrying out blasts at different places of worship and especially targeted the Ajmer dargah to deter Hindus from going there . Link to earlier blasts In his statements recorded before a Metropolitan Magistrate in Delhi and a Judicial Magistrate in Panchkula , Swami Aseemanand is reported to have admitted that the Muslim places of worship such as Hyderabad 's Mecca Masjid , Malegaon mosque and Ajmer dargarh were selected for blasts in revenge for the previous explosions . The NIA has also claimed his connection with the Samjhauta blast of February 2007 . The confessions of Swami Aseemanand , associated with the front organisations of the Rashtriya Swayamsevak Sangh , constitute legally admissible evidence having been recorded under Section 164 of the Criminal Procedure Code and are thought to be crucial for the investigators probing the terror bombings allegedly planned and executed by the Sangh functionaries . RSS leader 's role Significantly , Swami Aseemanand has named senior RSS leader Indresh Kumar whose name figures in the ATS charge sheet filed in the dargah blast case as one of the key conspirators in the terror blasts who financed several of these plots . OPEN", 
+    "injured": "17", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Ajmer", 
+        ""
+    ], 
+    "O": [
+        "anti-terrorism squad:2", 
+        "anti-terrorism:2", 
+        "squad:3", 
+        "key figure:18", 
+        "hindutva terror network:22", 
+        "hindutva:22", 
+        "terror network:23", 
+        "custody:27", 
+        "connection:29", 
+        "chief judicial:39", 
+        "magistrate:41", 
+        "week:47", 
+        "production:49", 
+        "custody:71", 
+        "express blast case:78", 
+        "express:78", 
+        "blast case:79", 
+        "judicial magistrate-i:93", 
+        "judicial:93", 
+        "magistrate-i:94", 
+        "custody:106", 
+        "court:116", 
+        "completion:120", 
+        "interrogation:122", 
+        "public prosecutor:130", 
+        "court:137", 
+        "key conspirator:145", 
+        "dargah blast:149", 
+        "magistrate:153", 
+        "agency:157", 
+        "arrest:159", 
+        "lawyer:171", 
+        "refusal:175", 
+        "court:178", 
+        "counsel:184", 
+        "government:188", 
+        "explosion:204", 
+        "shrine:210", 
+        "saint:213", 
+        "ramzan:223", 
+        "custom:229", 
+        "iftar:231", 
+        "dargah:234", 
+        "capacity:238", 
+        "time:244", 
+        "blast:247", 
+        "year:265", 
+        "part:274", 
+        "conspiracy:277", 
+        "worship:286", 
+        "hindus:295", 
+        "link:300", 
+        "metropolitan:310", 
+        "metropolitan magistrate:310", 
+        "magistrate:311", 
+        "judicial:316", 
+        "judicial magistrate:316", 
+        "magistrate:317", 
+        "worship:333", 
+        "revenge:351", 
+        "connection:363", 
+        "blast:367", 
+        "front:381", 
+        "evidence:392", 
+        "section:397", 
+        "criminal:401", 
+        "criminal procedure:401", 
+        "procedure code:402", 
+        "procedure:402", 
+        "code:403", 
+        "thought:406", 
+        "terror:415", 
+        "sangh functionaries:423", 
+        "sangh:423", 
+        "role:429", 
+        "name:442", 
+        "charge sheet:447", 
+        "dargah blast case:452", 
+        "key:459", 
+        "terror:463"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/ats-takes-aseemanand-into-custody/article1117795.ece", 
+    "date": "11-10-2007", 
+    "target": "Religious Places", 
+    "hot_spot": "Ajmer dargah", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajasthan police", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "Central Bureau of Investigation", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "358", 
+            "Others"
+        ], 
+        [
+            "Rashtriya Swayamsevak Sangh", 
+            "385", 
+            "Accused"
+        ], 
+        [
+            "RSS", 
+            "426", 
+            "Accused"
+        ], 
+        [
+            "RSS", 
+            "437", 
+            "Accused"
+        ]
+    ]
+}

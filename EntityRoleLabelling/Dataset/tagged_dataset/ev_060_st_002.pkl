@@ -1,0 +1,166 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Church Road'
+p4
+aS'30'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Srinagar'
+p8
+aS'36'
+p9
+aS'Event'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Mufti Mohammed'
+p14
+aS'221'
+p15
+aS'Comment'
+p16
+aa(lp17
+S'Mufti Mohammed Sayeed'
+p18
+aS'221'
+p19
+aS'Comment'
+p20
+aasS'TIM'
+p21
+(lp22
+S'9 am : 46'
+p23
+asS'hot_setting'
+p24
+S''
+p25
+sS'DAT'
+p26
+(lp27
+S'Wednesday:14'
+p28
+asS'death'
+p29
+S'5'
+p30
+sS'title'
+p31
+S'Srinagar: Army major among five killed in car-bomb explosion'
+p32
+sS'det_loc'
+p33
+(lp34
+S'India'
+p35
+aS'Jammu & Kashmir'
+p36
+aS'Srinagar'
+p37
+aS'Srinagar'
+p38
+aS'Church Road'
+p39
+asS'terror_group'
+p40
+(lp41
+S'HIZB-UL-MUJAHIDEEN / HIZB-UL-MUJAHIDEEN PIR PANJAL REGIMENT'
+p42
+asS'content'
+p43
+VThree armymen including a major were among five persons killed when militants on Wednesday exploded a car-bomb targeting a military convoy near a missionary school on the high security Church Road in the heart of Srinagar . . . The explosion that took place around 9 am damaged eight vehicles and rattled the Burnhall School and nearby buildings , but no harm was done to the students as there is a huge playground between the boundary wall and classrooms . . . . . . . The Road to Peace . . The police were investigating if a suicide bomber rammed an explosive-laden Maruti car into an army jeep . Militant outfit Hizbul Mujahideen claimed responsibility for the attack , but did not say that it was a suicide attack . . . At least 17 persons , including four army soldiers , were injured in the explosion , the police said . . . It was a gory sight with badly mutilated bodies lying in pool of blood and the injured crying for help . Mangled pieces of damaged vehicles and shattered window panes were strewn around . . . The Maruti car used in the attack was blown to pieces and only the engine of the vehicle could be retrieved by the police . . . Chief Minister Mufti Mohammed Sayeed said such incidents would not deter the people from pursuing the peace process and the perpetrators of violence would not achieve anything by indulging in such acts . . . .
+p44
+sS'injured'
+p45
+S'17'
+p46
+sS'org_unorg'
+p47
+S'ORGANISED'
+p48
+sS'O'
+p49
+(lp50
+S'convoy:21'
+p51
+aS'school:25'
+p52
+aS'church road:30'
+p53
+aS'suicide:99'
+p54
+aS'an explosive-laden:102'
+p55
+asS'unexpl'
+p56
+(lp57
+g25
+asS'ocassion'
+p58
+g25
+sS'link'
+p59
+S'http://www.rediff.com/news/2005/jul/20srinagar.htm'
+p60
+sS'date'
+p61
+S'20-07-2005'
+p62
+sS'target'
+p63
+S'MILITARY GROUP'
+p64
+sS'hot_spot'
+p65
+S'Church Road'
+p66
+sS'delivery_mod'
+p67
+S'FOUR WHEELER'
+p68
+sS'delivery_met'
+p69
+g25
+sS'expl'
+p70
+(lp71
+g25
+asS'ORG'
+p72
+(lp73
+(lp74
+S'Burnhall School'
+p75
+aS'54'
+p76
+aS'Victim'
+p77
+aa(lp78
+S'Maruti'
+p79
+aS'104'
+p80
+aS'Others'
+p81
+aa(lp82
+S'Hizbul Mujahideen'
+p83
+aS'113'
+p84
+aS'Accused'
+p85
+aa(lp86
+S'Maruti'
+p87
+aS'193'
+p88
+aS'Others'
+p89
+aas.

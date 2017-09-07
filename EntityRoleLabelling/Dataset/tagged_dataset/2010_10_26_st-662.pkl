@@ -1,0 +1,169 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Pakpattan'
+p4
+aS'18'
+p5
+aS'Event'
+p6
+aS'Neutral'
+p7
+aa(lp8
+S'Punjab'
+p9
+aS'21'
+p10
+aS'Neutral'
+p11
+aa(lp12
+S'Data Darbar'
+p13
+aS'113'
+p14
+aS'Assoc Event Location'
+p15
+aa(lp16
+S'Lahore'
+p17
+aS'116'
+p18
+aS'Neutral'
+p19
+aa(lp20
+S'Abdullah Shah Ghazi shrine'
+p21
+aS'122'
+p22
+aS'Assoc Event Location'
+p23
+aa(lp24
+S'Karachi'
+p25
+aS'127'
+p26
+aS'Neutral'
+p27
+aasS'PER'
+p28
+(lp29
+(lp30
+S'Baba Farid Shakar Ganj'
+p31
+aS'57'
+p32
+aS'Victim'
+p33
+aa(lp34
+S'Baba Farid'
+p35
+aS'158'
+p36
+aS'Others'
+p37
+aasS'TIM'
+p38
+(lp39
+S'6.30 a.m.:68'
+p40
+asS'hot_setting'
+p41
+S''
+p42
+sS'DAT'
+p43
+(lp44
+S'Monday morning:24'
+p45
+aS'Monday:24'
+p46
+asS'death'
+p47
+S'0'
+p48
+sS'title'
+p49
+S'Blast at Sufi shrine'
+p50
+sS'org_unorg'
+p51
+S'Organized'
+p52
+sS'terror_group'
+p53
+(lp54
+S'Miscreants,Dacoits & Smuggler Gang'
+p55
+asS'content'
+p56
+S'At least six people were killed and dozen injured in a blast outside a Sufi shrine in Pakpattan in the Punjab province on Monday morning . The bomb was apparently planted in a milk container . According to the police , two men came on a motorcycle and left the milk container at the gate of Baba Farid Shakar Ganj shrine soon after the morning prayers around 6.30 a.m. Though several kg of explosive material were stashed up in the milk container , the toll was low because of the early hour of the blast . Sufi shrines have increasingly come under attack in recent months ; the most serious being at Data Darbar in Lahore and more recently at the Abdullah Shah Ghazi shrine in Karachi earlier this month . The blast damaged the outer wall of the shrine and some shops alongside it but the mausoleum of the 12th Century Baba Farid remained untouched . Baba Farid is said to be the first major poet of Punjabi language and revered by Muslims , Sikhs and Hindus alike . Some of his works have been incorporated in the Guru Granth Sahib . OPEN'
+p57
+sS'injured'
+p58
+g48
+sS'det_loc'
+p59
+(lp60
+S'Pakistan'
+p61
+ag42
+ag42
+aS'Punjab province'
+p62
+aS'outside a Sufi shrine'
+p63
+asS'O'
+p64
+(lp65
+S'bomb:28'
+p66
+aS'milk container:34'
+p67
+aS'motorcycle:47'
+p68
+aS'explosive material:74'
+p69
+aS'Sufi:97'
+p70
+aS'guru granth sahib:190'
+p71
+asS'unexpl'
+p72
+(lp73
+g42
+asS'ocassion'
+p74
+g42
+sS'link'
+p75
+S'http://www.thehindu.com/todays-paper/tp-international/blast-at-sufi-shrine/article849465.ece'
+p76
+sS'date'
+p77
+S'26-10-2010'
+p78
+sS'target'
+p79
+S'Religious Places'
+p80
+sS'hot_spot'
+p81
+g42
+sS'delivery_mod'
+p82
+S'Two wheeler'
+p83
+sS'delivery_met'
+p84
+S'Thrown'
+p85
+sS'expl'
+p86
+(lp87
+g42
+asS'ORG'
+p88
+(lp89
+s.

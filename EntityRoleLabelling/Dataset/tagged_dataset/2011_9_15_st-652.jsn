@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "67", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Santosh Snehi Mann", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "Mann", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "Mann", 
+            "283", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2008:12", 
+        "Wednesday:40", 
+        "2008:77", 
+        "Wednesday:145", 
+        "Wednesday:194"
+    ], 
+    "death": "", 
+    "title": "Trial in Delhi serial blasts cases to be speeded up", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Observing that the examination of the 750-odd prosecution witnesses in the 2008 Delhi serial blasts cases will take more than six years to complete if the trial proceeds at the current pace , a Tis Hazari Sessions court on Wednesday decided to expedite the trial by holding more hearings and summoning more witnesses on each hearing date . Thirteen persons , eleven of them lodged at Ahmedabad 's Sabarmati Central Jail , are accused in the 2008 serial blasts which left 26 people dead and injured over 100 persons . Additional Sessions Judge Santosh Snehi Mann noted that there were 750 prosecution witnesses in the five consolidated blast cases , of whom 29 witnesses have been examined till date in six hearings . On an average five witnesses have been examined per hearing . These cases are taken up on the second and fourth Wednesday of every month that is , two hearings are scheduled in a month . With this pace , it will take more than six years to examine the remaining prosecution witnesses . Directive Ms. Mann directed that henceforth the blast cases would now be listed for hearing every Wednesday and at least 15 witnesses would be summoned for each hearing . In her order , the judge wrote : The trial needs to be further expedited keeping in view the nature of cases , gravity of offences , and the fact that more than two dozen precious lives were lost and more than 100 innocent people were injured and maimed in the serial bomb blast , which not only created terror amongst common people but also challenged the existence of a democratically elected welfare State . Ms. Mann further pointed out that the State was expected to ensure that public witnesses appear to depose in court during trial without any fear or inducement . Needless to say that threat perception be assessed under supervision of the Commissioner of Police and all necessary steps be taken accordingly . The court also took a dim view of some doctors not appearing in court against the summons issued to them . It also issued a bailable warrant against a doctor who refused to receive the summons issued to him twice . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "prosecution:8", 
+        "witnesses:9", 
+        "Delhi serial blasts:13", 
+        "trial:27", 
+        "court:38", 
+        "trial:45", 
+        "witnesses:53", 
+        "serial blasts:78", 
+        "dead:84", 
+        "injured:86", 
+        "prosecution:102", 
+        "witnesses:103", 
+        "blast cases:108", 
+        "witnesses:114", 
+        "witnesses:128", 
+        "prosecution:175", 
+        "witnesses:176", 
+        "blast cases:185", 
+        "trial:216", 
+        "offences:232", 
+        "lives:243", 
+        "injured:253", 
+        "serial bomb blast:258", 
+        "terror:266", 
+        "witnesses:296", 
+        "court:301", 
+        "trial:303", 
+        "Commissioner of Police:322", 
+        "court:334", 
+        "court:346", 
+        "summons:349", 
+        "warrant:359", 
+        "doctor:362", 
+        "summons:368"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/trial-in-delhi-serial-blasts-cases-to-be-speeded-up/article2454711.ece", 
+    "date": "15-09-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Tis Hazari Sessions court", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "Sabarmati Central Jail", 
+            "69", 
+            "Others"
+        ]
+    ]
+}

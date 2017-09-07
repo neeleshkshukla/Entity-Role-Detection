@@ -1,0 +1,548 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Hyderabad'
+p4
+aS'27'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Malegaon'
+p8
+aS'30'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Maharashtra'
+p12
+aS'33'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Ujjain'
+p16
+aS'46'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Madhya Pradesh'
+p20
+aS'49'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Madhya Pradesh'
+p24
+aS'105'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Ujjain'
+p28
+aS'188'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Mecca Masjid'
+p32
+aS'200'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Chitrakoot'
+p36
+aS'221'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Malegaon'
+p40
+aS'240'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Malegaon'
+p44
+aS'279'
+p45
+aS'Assoc Event Location'
+p46
+aa(lp47
+S'Malegaon'
+p48
+aS'305'
+p49
+aS'Assoc Event Location'
+p50
+aa(lp51
+S'Malegaon'
+p52
+aS'354'
+p53
+aS'Event'
+p54
+aS'Assoc Event Location'
+p55
+aa(lp56
+S'Ajmers Dargah Sharif'
+p57
+aS'440'
+p58
+aS'Assoc Event Location'
+p59
+aa(lp60
+S'Mecca Masjid'
+p61
+aS'445'
+p62
+aS'Assoc Event Location'
+p63
+aa(lp64
+S'Pakistan'
+p65
+aS'459'
+p66
+aS'Neutral'
+p67
+aasS'PER'
+p68
+(lp69
+(lp70
+S'Rajendra Chaudhary'
+p71
+aS'35'
+p72
+aS'Accused'
+p73
+aa(lp74
+S'Samandar'
+p75
+aS'38'
+p76
+aS'Accused'
+p77
+aa(lp78
+S'Chaudhary'
+p79
+aS'76'
+p80
+aS'Accused'
+p81
+aa(lp82
+S'S.A.R. Geelani'
+p83
+aS'89'
+p84
+aS'Accused'
+p85
+aa(lp86
+S'Geelani'
+p87
+aS'111'
+p88
+aS'Accused'
+p89
+aa(lp90
+S'Chaudharys'
+p91
+aS'147'
+p92
+aS'Accused'
+p93
+aa(lp94
+S'Sunil Joshi'
+p95
+aS'160'
+p96
+aS'Accused'
+p97
+aa(lp98
+S'Tej Ram'
+p99
+aS'185'
+p100
+aS'Accused'
+p101
+aa(lp102
+S'Dhan Singh'
+p103
+aS'216'
+p104
+aS'Accused'
+p105
+aa(lp106
+S'Chaudhary'
+p107
+aS'251'
+p108
+aS'Accused'
+p109
+aa(lp110
+S'Dhan Singh'
+p111
+aS'264'
+p112
+aS'Accused'
+p113
+aa(lp114
+S'Ramji Kalsangra'
+p115
+aS'267'
+p116
+aS'Accused'
+p117
+aa(lp118
+S'Amit'
+p119
+aS'270'
+p120
+aS'Accused'
+p121
+aa(lp122
+S'Ashwini Chauhan'
+p123
+aS'272'
+p124
+aS'Accused'
+p125
+aa(lp126
+S'Dhan Singh'
+p127
+aS'294'
+p128
+aS'Accused'
+p129
+aa(lp130
+S'Swami Aseemanand'
+p131
+aS'370'
+p132
+aS'Accused'
+p133
+aa(lp134
+S'Ramji Kalsangra'
+p135
+aS'400'
+p136
+aS'Accused'
+p137
+aa(lp138
+S'Amit'
+p139
+aS'403'
+p140
+aS'Accused'
+p141
+aa(lp142
+S'Sandeep Dange'
+p143
+aS'405'
+p144
+aS'Accused'
+p145
+aa(lp146
+S'Sunil Joshi'
+p147
+aS'416'
+p148
+aS'Accused'
+p149
+aa(lp150
+S'Ramji Kalsangra'
+p151
+aS'463'
+p152
+aS'Accused'
+p153
+aa(lp154
+S'Sandeep Dange'
+p155
+aS'466'
+p156
+aS'Accused'
+p157
+aasS'TIM'
+p158
+(lp159
+sS'hot_setting'
+p160
+S''
+p161
+sS'DAT'
+p162
+(lp163
+S'2007:15'
+p164
+aS'May 2007:21'
+p165
+aS'February 18:68'
+p166
+aS'February 2005:92'
+p167
+aS'2008:108'
+p168
+aS'December 13 , 2001 : 124'
+p169
+aS'October 2003:142'
+p170
+aS'December 2007:167'
+p171
+aS'2008:242'
+p172
+aS'2006:281'
+p173
+aS'2008:307'
+p174
+aS'2006:317'
+p175
+aS'2011:368'
+p176
+aS'2006:382'
+p177
+aS'Wednesday:552'
+p178
+asS'death'
+p179
+g161
+sS'title'
+p180
+S'Recent arrests may help NIA crack blast cases'
+p181
+sS'org_unorg'
+p182
+S'Organized'
+p183
+sS'terror_group'
+p184
+(lp185
+S'Indian Mujahideen'
+p186
+asS'content'
+p187
+S'Three recent arrests by the National Investigation Agency may throw new light on the 2007 Samjhauta Express blasts , the May 2007 Mecca Masjid blast in Hyderabad and the Malegaon explosion in Maharashtra . Rajendra Chaudhary alias Samandar , who was arrested last week from Ujjain district of Madhya Pradesh , had allegedly planted explosives aboard the Samjhauta Express . The train blast claimed 68 lives on February 18 , 2007 . NIA sources said Chaudhary was also suspected to be behind the attack on Delhi University professor S.A.R. Geelani in February 2005 as well as involved in the killing of a witness in Madhya Pradesh in 2008 . Prof. Geelani , who was arrested and chargesheeted by the Delhi Police in the December 13 , 2001 Parliament House terror attack case , was acquitted by the Delhi High Court in October 2003 . Investigators see Chaudharys hand also in the murderous attack on the former RSS pracharak , Sunil Joshi , who was eliminated in December 2007 allegedly to put the lid on a conspiracy by Hindu extremist groups . The NIA arrested Tej Ram from Ujjain . He was suspected to have planted a bomb at the Mecca Masjid and carried out the explosion that killed nine people . The third person , Dhan Singh , arrested from Chitrakoot on the Uttar Pradesh-Madhya Pradesh border , is suspected to have been involved in the second blast at Malegaon in 2008 as well as in the Samjhauta blast . Chaudhary is believed to have told NIA investigators that he , along with Dhan Singh , Ramji Kalsangra and Amit alias Ashwini Chauhan , had planted bombs in Malegaon in 2006 in which 37 people were killed and more than 300 injured . Dhan Singh is also suspected to have planted the bomb in Malegaon in 2008 that killed seven people . The Malegaon blasts in 2006 , probed by Maharashtras Anti-Terrorism Squad , were blamed on nine Muslim men . The arrested men claimed that they had been framed . Most of them were freed on bail by court last year . Malegaon was chosen for bomb attacks twice as it has a sizable Muslim population.In 2011 , Swami Aseemanand admitted that radical Hindu and right-wing extremists were behind the 2006 blasts . He , however , retracted his confession . The NIA is on the lookout for Ramji Kalsangra , Amit and Sandeep Dange , who was a close associate of the slain Sunil Joshi . The investigators believe that the loosely-held module , comprising fringe elements of right-wing extremism , was also behind the blasts in Ajmers Dargah Sharif , the Mecca Masjid and the Samjhauta Express that provides a much sought-after rail link to Pakistan . Uphill task Ramji Kalsangra and Sandeep Dange are two crucial missing links in these terror cases , the investigators said . As the cases are more than five years old and were earlier probed by other agencies , including the Central Bureau of Investigation , gathering corroborative evidence to link and nail the arrested to the terror cases may prove an uphill task for the NIA.We hope to get some clarity in the ongoing probe in all these cases over the next 2-3 weeks , NIA sources told The Hindu on Wednesday . OPEN'
+p188
+sS'injured'
+p189
+g161
+sS'det_loc'
+p190
+(lp191
+S'India'
+p192
+aS'Maharashtra'
+p193
+aS'Mumbai-City'
+p194
+ag161
+ag161
+asS'O'
+p195
+(lp196
+S'Samjhauta Express blasts:16'
+p197
+aS'mecca masjid blast:23'
+p198
+aS'train blast:62'
+p199
+aS'witness:103'
+p200
+aS'parliament house:128'
+p201
+aS'terror attack case:130'
+p202
+aS'attack:153'
+p203
+aS'conspiracy:176'
+p204
+aS'hindu extremist groups:178'
+p205
+aS'bomb:197'
+p206
+aS'explosion:206'
+p207
+aS'person:214'
+p208
+aS'border:227'
+p209
+aS'blast:238'
+p210
+aS'nia:257'
+p211
+aS'bomb:303'
+p212
+aS'malegaon blasts:314'
+p213
+aS'bail:348'
+p214
+aS'court:350'
+p215
+aS'year:352'
+p216
+aS'bomb:358'
+p217
+aS'radical hindu:374'
+p218
+aS'confession:391'
+p219
+aS'lookout:398'
+p220
+aS'associate:412'
+p221
+aS'loosely-held module:424'
+p222
+aS'fringe:428'
+p223
+aS'extremism:432'
+p224
+aS'samjhauta express:449'
+p225
+aS'rail link:456'
+p226
+aS'task:462'
+p227
+aS'terror:475'
+p228
+aS'gathering:506'
+p229
+aS'evidence:508'
+p230
+aS'link:510'
+p231
+aS'nail:512'
+p232
+aS'terror:517'
+p233
+aS'task:523'
+p234
+aS'nia.we hope:526'
+p235
+aS'clarity:531'
+p236
+aS'probe:535'
+p237
+aS'nia:546'
+p238
+asS'unexpl'
+p239
+(lp240
+g161
+asS'ocassion'
+p241
+g161
+sS'link'
+p242
+S'http://www.thehindu.com/todays-paper/recent-arrests-may-help-nia-crack-blast-cases/article4243387.ece'
+p243
+sS'date'
+p244
+S'27-12-2012'
+p245
+sS'target'
+p246
+g161
+sS'hot_spot'
+p247
+g161
+sS'delivery_mod'
+p248
+g161
+sS'delivery_met'
+p249
+g161
+sS'expl'
+p250
+(lp251
+g161
+asS'ORG'
+p252
+(lp253
+(lp254
+S'National Investigation Agency'
+p255
+aS'6'
+p256
+aS'Others'
+p257
+aa(lp258
+S'NIA'
+p259
+aS'73'
+p260
+aS'Others'
+p261
+aa(lp262
+S'Delhi University'
+p263
+aS'86'
+p264
+aS'Others'
+p265
+aa(lp266
+S'Delhi Police'
+p267
+aS'120'
+p268
+aS'Others'
+p269
+aa(lp270
+S'Delhi High Court'
+p271
+aS'138'
+p272
+aS'Others'
+p273
+aa(lp274
+S'RSS'
+p275
+aS'157'
+p276
+aS'Others'
+p277
+aa(lp278
+S'NIA'
+p279
+aS'183'
+p280
+aS'Others'
+p281
+aa(lp282
+S'Maharashtras Anti-Terrorism Squad'
+p283
+aS'321'
+p284
+aS'Others'
+p285
+aa(lp286
+S'NIA'
+p287
+aS'394'
+p288
+aS'Others'
+p289
+aa(lp290
+S'Central Bureau of Investigation'
+p291
+aS'501'
+p292
+aS'Others'
+p293
+aa(lp294
+S'The Hindu'
+p295
+aS'549'
+p296
+aS'Others'
+p297
+aas.

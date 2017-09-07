@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "southern Pakistan", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "southern Shikarpur", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Shikarpur district", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Shikarpur", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "53", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammad Ibrahim Jatoi", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "Mr Jatoi", 
+            "88", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:7", 
+        "May:64", 
+        "May 11:64", 
+        "May:201", 
+        "May 11:201", 
+        "April:218", 
+        "April 11:218"
+    ], 
+    "death": "", 
+    "title": "Pakistani election candidate escapes suicide bombing", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "An election candidate escaped unharmed on Wednesday in a suicide bombing in southern Pakistan which left two people wounded , police said , after the latest in a wave of attacks to hit the campaign . The attack came in southern Shikarpur district of Sindh province , some 400 kilometres northeast of Karachi , when Mohammad Ibrahim Jatoi , a candidate for the May 11 poll , was on the campaign trail . `` A suicide bomber on a motorcycle blew himself up near the car of Mr Jatoi , but he was unharmed , '' local police station chief Zaheer Mahesar told AFP . Only the bomber died in the blast . Jatoi , from the small National People 's Party , was returning from campaigning when the bomber targeted him at a toll collection point , Mahesar said , adding that two passers-by were wounded . `` We have found arms and head of the suicide bomber , '' he said . District police chief Ghulam Azfar confirmed the suicide attack and said that up to six kilos of explosives were used in the device . Violence has spiked in the nuclear-armed country ahead of national elections on May 11 , with at least 61 people killed in attacks on politicians and political parties since April 11 , according to an AFP tally.AFP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "election candidate:2", 
+        "suicide bombing:10", 
+        "wave:29", 
+        "hit:33", 
+        "campaign:35", 
+        "attack:38", 
+        "district:43", 
+        "sindh province:45", 
+        "sindh:45", 
+        "province:46", 
+        "candidate:61", 
+        "poll:66", 
+        "campaign trail:71", 
+        "suicide bomber:76", 
+        "motorcycle:80", 
+        "car:86", 
+        "station chief:99", 
+        "afp:104", 
+        "bomber:108", 
+        "blast:112", 
+        "jatoi:114", 
+        "small national:118", 
+        "national people:119", 
+        "party:122", 
+        "campaigning:127", 
+        "bomber:130", 
+        "toll collection point:135", 
+        "head:155", 
+        "suicide bomber:158", 
+        "district police chief:165", 
+        "district:165", 
+        "chief:167", 
+        "suicide attack:172", 
+        "device:187", 
+        "violence:189", 
+        "country:195"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/pakistani-election-candidate-escapes-suicide-bombing/article4674848.ece", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

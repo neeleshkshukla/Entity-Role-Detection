@@ -1,0 +1,384 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bodh Gaya'
+p4
+aS'6'
+p5
+aS'Event'
+p6
+aa(lp7
+S'India'
+p8
+aS'18'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Bodh Gaya'
+p12
+aS'259'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Bihar'
+p16
+aS'274'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Bihar'
+p20
+aS'287'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Bihar'
+p24
+aS'404'
+p25
+aS'Event'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'Nitish Kumar'
+p30
+aS'412'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Kumar'
+p34
+aS'492'
+p35
+aS'Others'
+p36
+aasS'TIM'
+p37
+(lp38
+sS'hot_setting'
+p39
+S''
+p40
+sS'event'
+p41
+S'ec0000_ei0007'
+p42
+sS'DAT'
+p43
+(lp44
+S'Sundays : 41'
+p45
+aS'July 2:282'
+p46
+asS'death'
+p47
+g40
+sS'title'
+p48
+S'New kind of improvised devices used'
+p49
+sS'org_unorg'
+p50
+S'ORGANISED'
+p51
+sS'terror_group'
+p52
+(lp53
+g40
+asS'content'
+p54
+S'While the bomb blasts in Bodh Gaya is first-of-its kind terror attack on a Buddhist temple in India , the use of small cylinders , explosives and timers is also a new kind of improvised devices that were used in Sundays blasts . Investigators have also indicated that at least three to four terrorists might be involved in placing the crude bombs in and around the historic temple complex . In their initial report sent to the Union Home Ministry , bomb experts from the National Security Guard have indicated that the small cylinders were packed with a deadly combination of ammonium nitrate , sulphur and potassium . The coordinated low-intensity blasts might have been carried out by using analogue clock timers . This was a new kind of improvised bomb created by terrorists after pressure-cookers , Home Ministry sources said . Each cylinder that was converted into an improvised device might be around 4-5 kg in weight , and to place such bombs in the complex fitted with CCTV cameras would have required a group to carry out the task , they added . Help from insiders Pointing out that these bombs might have been carried in big bags or cartons , sources said probe agencies were also looking at involvement of insiders who might have helped terrorists to take inside the temple complex these bombs by hoodwinking private security guards deployed by the temple management . Referring to security lapse and lack of preparedness on part of the authorities concerned , a senior MHA official said Bodh Gaya was the target of the terrorists and the Centre had repeatedly alerted the Bihar government , the last one being on July 2 . But the Bihar police failed to come up with a security plan with the temple management to avert the blasts , he added . Meanwhile , the National Investigation Agency has not yet taken over the probe and is still assisting the Bihar police in investigations . The MHA official also said the Union Home Ministry was yet to receive a formal request from the Bihar government for CISF cover for the temple complex . When we receive the request , the Home Ministry will certainly consider it , the official said . Referring the issue of the National Counter Terrorism Centre ( NCTC ) that has been hanging fire due to opposition from non-Congress ruled States , including Bihar , the official hoped that Chief Minister Nitish Kumar might now soften his stand and support the agency that would help fight terrorism in a better way . The delay in setting up of NCTC will continue to hamper the governments anti-terror initiatives , the official said . The cylinders were packed with a combination of ammonium nitrate , sulphur and potassiumKumar might now soften his stand and support NCTC : MHA official The cylinders were packed with a combination of ammonium nitrate , sulphur and potassium Kumar might now soften his stand and support NCTC : MHA official OPEN'
+p55
+sS'injured'
+p56
+g40
+sS'det_loc'
+p57
+(lp58
+S'India'
+p59
+aS'Bihar'
+p60
+ag40
+aS'Bodh Gaya'
+p61
+aS'Bodh Gaya'
+p62
+asS'O'
+p63
+(lp64
+S'bomb blasts:3'
+p65
+aS'terror attack:11'
+p66
+aS'Buddhist temple:15'
+p67
+aS'small cylinders:23'
+p68
+aS'explosives:26'
+p69
+aS'timers:28'
+p70
+aS'improvised devices:35'
+p71
+aS'Sundays blasts:41'
+p72
+aS'Investigators:44'
+p73
+aS'three to four terrorists:51'
+p74
+aS'crude bombs:61'
+p75
+aS'historic temple complex:67'
+p76
+aS'initial report:73'
+p77
+aS'bomb experts:82'
+p78
+aS'small cylinders:93'
+p79
+aS'ammonium nitrate:102'
+p80
+aS'sulphur and potassium:105'
+p81
+aS'low-intensity blasts:111'
+p82
+aS'analogue clock timers:120'
+p83
+aS'improvised bomb:130'
+p84
+aS'terrorists:134'
+p85
+aS'pressure-cookers:136'
+p86
+aS'cylinder:144'
+p87
+aS'improvised device:150'
+p88
+aS'4-5 kg:155'
+p89
+aS'bombs:164'
+p90
+aS'CCTV cameras:170'
+p91
+aS'bombs:193'
+p92
+aS'big bags or cartons:199'
+p93
+aS'probe agencies:206'
+p94
+aS'involvement of insiders:212'
+p95
+aS'terrorists:219'
+p96
+aS'temple complex:224'
+p97
+aS'hoodwinking private security guards:229'
+p98
+aS'temple management:236'
+p99
+aS'security lapse:241'
+p100
+aS'lack of preparedness:244'
+p101
+aS'terrorists:266'
+p102
+aS'repeatedly alerted:271'
+p103
+aS'security plan:295'
+p104
+aS'temple management:299'
+p105
+aS'blasts:304'
+p106
+aS'investigations:330'
+p107
+aS'formal request:346'
+p108
+aS'temple complex:357'
+p109
+aS'hanging fire:393'
+p110
+aS'fight terrorism:426'
+p111
+aS'anti-terror initiatives:446'
+p112
+aS'cylinders:454'
+p113
+aS'ammonium nitrate:461'
+p114
+aS'sulphur and potassiumKumar:464'
+p115
+aS'cylinders:479'
+p116
+aS'ammonium nitrate:486'
+p117
+aS'sulphur:489'
+p118
+aS'potassium:491'
+p119
+asS'unexpl'
+p120
+(lp121
+S'MECHANICAL TIMERS'
+p122
+asS'ocassion'
+p123
+g40
+sS'link'
+p124
+S'http://www.thehindu.com/todays-paper/tp-national/new-kind-of-improvised-devices-used/article4896547.ece'
+p125
+sS'date'
+p126
+S'07-07-2013'
+p127
+sS'target'
+p128
+S'RELIGIOUS PLACES'
+p129
+sS'hot_spot'
+p130
+g40
+sS'delivery_mod'
+p131
+S'GAS CYLINDER'
+p132
+sS'delivery_met'
+p133
+S'PLANTED'
+p134
+sS'expl'
+p135
+(lp136
+S'CRUDE BOMB'
+p137
+aS'SULPHUR'
+p138
+aS'POTASSIUM NITRATE'
+p139
+asS'ORG'
+p140
+(lp141
+(lp142
+S'National Security Guard'
+p143
+aS'86'
+p144
+aS'Others'
+p145
+aa(lp146
+S'MHA'
+p147
+aS'256'
+p148
+aS'Others'
+p149
+aa(lp150
+S'Bihar government'
+p151
+aS'274'
+p152
+aS'Others'
+p153
+aa(lp154
+S'Bihar police'
+p155
+aS'287'
+p156
+aS'Others'
+p157
+aa(lp158
+S'National Investigation Agency'
+p159
+aS'312'
+p160
+aS'Others'
+p161
+aa(lp162
+S'Bihar police'
+p163
+aS'327'
+p164
+aS'Others'
+p165
+aa(lp166
+S'MHA'
+p167
+aS'333'
+p168
+aS'Others'
+p169
+aa(lp170
+S'Bihar government'
+p171
+aS'350'
+p172
+aS'Others'
+p173
+aa(lp174
+S'CISF'
+p175
+aS'353'
+p176
+aS'Others'
+p177
+aa(lp178
+S'National Counter Terrorism Centre'
+p179
+aS'383'
+p180
+aS'Others'
+p181
+aa(lp182
+S'NCTC'
+p183
+aS'388'
+p184
+aS'Others'
+p185
+aa(lp186
+S'NCTC'
+p187
+aS'439'
+p188
+aS'Others'
+p189
+aa(lp190
+S'NCTC'
+p191
+aS'474'
+p192
+aS'Others'
+p193
+aa(lp194
+S'MHA'
+p195
+aS'476'
+p196
+aS'Others'
+p197
+aa(lp198
+S'NCTC'
+p199
+aS'500'
+p200
+aS'Others'
+p201
+aa(lp202
+S'MHA'
+p203
+aS'502'
+p204
+aS'Others'
+p205
+aas.

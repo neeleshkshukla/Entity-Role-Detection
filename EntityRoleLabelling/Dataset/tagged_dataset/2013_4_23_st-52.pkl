@@ -1,0 +1,197 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Khudengthabi'
+p4
+aS'20'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Sekmai'
+p8
+aS'117'
+p9
+aS'Assoc Event Location'
+p10
+aasS'PER'
+p11
+(lp12
+sS'TIM'
+p13
+(lp14
+sS'hot_setting'
+p15
+S'The insurgents were after Assam Rifles personnel who were in a camp just 300 metres away'
+p16
+sS'DAT'
+p17
+(lp18
+S'Sunday morning : 17'
+p19
+aS'Sunday : 120'
+p20
+asS'death'
+p21
+S'1'
+p22
+sS'title'
+p23
+S'Outfit claims responsibility for Manipur ambush'
+p24
+sS'org_unorg'
+p25
+S'ORGANISED'
+p26
+sS'terror_group'
+p27
+(lp28
+S"PEOPLE'S LIBERATION ARMY (PLA)"
+p29
+asS'content'
+p30
+S'The Revolutionary Peoples Front has claimed responsibility for the three bomb blasts and gun attacks on Sunday morning at Khudengthabi . In the ambush , one 8 Manipur Rifles trooper was killed and 10 others , including some engineers and drivers of the Public Works Department , were injured . In a statement , the outfit said the strike was carried out by its military wing , the Peoples Liberation Army . It claimed that its policy of not attacking State forces remained unchanged . The PLA insurgents were after the Assam Rifles personnel who were in the camp just 300 metres away . The outfit also claimed that it had carried out the blast at Sekmai market on Sunday . Two CRPF personnel and some civilians were injured . OPEN'
+p31
+sS'injured'
+p32
+S'10'
+p33
+sS'det_loc'
+p34
+(lp35
+S'India'
+p36
+aS'Manipur'
+p37
+aS'Chandel'
+p38
+aS'Khudengthabi'
+p39
+aS''
+p40
+asS'O'
+p41
+(lp42
+S'responsibility:7'
+p43
+aS'three bomb blasts:10'
+p44
+aS'gun attacks:14'
+p45
+aS'ambush:24'
+p46
+aS'trooper:30'
+p47
+aS'engineers:39'
+p48
+aS'drivers:41'
+p49
+aS'injured:49'
+p50
+aS'statement:53'
+p51
+aS'outfit:56'
+p52
+aS'strike:59'
+p53
+aS'military wing:65'
+p54
+aS'State forces:81'
+p55
+aS'insurgents:88'
+p56
+aS'outfit:106'
+p57
+aS'blast:115'
+p58
+aS'civilians:127'
+p59
+asS'unexpl'
+p60
+(lp61
+g40
+asS'ocassion'
+p62
+S'INSURGENCY/CIVIL WAR'
+p63
+sS'link'
+p64
+S'http://www.thehindu.com/todays-paper/tp-national/outfit-claims-responsibility-for-manipur-ambush/article4645419.ece'
+p65
+sS'date'
+p66
+S'21-04-2013'
+p67
+sS'target'
+p68
+S'POLICE AND DEFENCE FORCES'
+p69
+sS'hot_spot'
+p70
+S'The insurgents were after Assam Rifles personnel who were in a camp just 300 metres away'
+p71
+sS'delivery_mod'
+p72
+g40
+sS'delivery_met'
+p73
+g40
+sS'expl'
+p74
+(lp75
+g40
+asS'ORG'
+p76
+(lp77
+(lp78
+S'Revolutionary Peoples Front'
+p79
+aS'2'
+p80
+aS'Accused'
+p81
+aa(lp82
+S'8 Manipur Rifles'
+p83
+aS'27'
+p84
+aS'Victim'
+p85
+aa(lp86
+S'Public Works Department'
+p87
+aS'44'
+p88
+aS'Victim'
+p89
+aa(lp90
+S'Peoples Liberation Army'
+p91
+aS'69'
+p92
+aS'Accused'
+p93
+aa(lp94
+S'PLA'
+p95
+aS'87'
+p96
+aS'Accused'
+p97
+aa(lp98
+S'Assam Rifles'
+p99
+aS'92'
+p100
+aS'Victim'
+p101
+aa(lp102
+S'CRPF'
+p103
+aS'123'
+p104
+aS'Assoc Victim'
+p105
+aas.

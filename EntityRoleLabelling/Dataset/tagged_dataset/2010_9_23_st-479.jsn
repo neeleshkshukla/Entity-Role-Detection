@@ -1,0 +1,104 @@
+{
+    "LOC": [
+        [
+            "Sompeta", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Srikakulam", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Sompeta", 
+            "70", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "C. Bhaskar Rao", 
+            "46", 
+            "Comment"
+        ], 
+        [
+            "Krishna Murthy", 
+            "73", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:29"
+    ], 
+    "death": "0", 
+    "title": "Probe sought", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Organisation for Protection of Democratic Rights ( OPDR ) has strongly condemned the bomb blast at the hospital of Krishna Murthy at Sompeta in Srikakulam district on Wednesday and demanded a probe into the incident . In a statement , OPDR State general secretary C. Bhaskar Rao said that the bomb blast could be the handiwork of the police or the management of the power plant proposed at Sompeta as Dr. Krishna Murthy had been relentlessly campaigning against the project . He said the State government should immediately order a probe to find out the people who planted the bomb and bring them to book at the earliest . OPEN", 
+    "injured": "0", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "", 
+        "", 
+        "hospital of Krishna Murthy at Sompeta"
+    ], 
+    "O": [
+        "bomb blast:15", 
+        "probe:33", 
+        "incident:36", 
+        "statement:40", 
+        "secretary:45", 
+        "bomb blast:52", 
+        "handiwork:57", 
+        "management:63", 
+        "power plant:66", 
+        "campaigning:78", 
+        "project:81", 
+        "state government:86", 
+        "order:90", 
+        "probe:92", 
+        "bomb:101", 
+        "book:106"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/probe-sought/article778707.ece", 
+    "date": "22-09-2010", 
+    "target": "", 
+    "hot_spot": "bomb blast at the hospital of Krishna Murthy", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Organisation for Protection of Democratic Rights", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "OPDR", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "hospital of Krishna Murthy", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "OPDR", 
+            "42", 
+            "Others"
+        ]
+    ]
+}

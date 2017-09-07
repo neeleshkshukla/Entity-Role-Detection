@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "Abuja", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Nigeria", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Africa", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Jos", 
+            "133", 
+            "Event"
+        ], 
+        [
+            "Gadaka", 
+            "157", 
+            "Event"
+        ], 
+        [
+            "Damaturu", 
+            "178", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "Christmas Services during Christmas celebrations", 
+    "DAT": [], 
+    "death": "27", 
+    "title": "28 killed in Nigeria church attacks", 
+    "det_loc": [
+        "Nigeria", 
+        "", 
+        "", 
+        "Madalla", 
+        "Churches in and out of Capital Abuja, City Jos, Gadaka, Damaturu "
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Bomb attacks on churches during Christmas services , including one outside the capital Abuja , have killed at least 28 people in Nigeria amid spiralling violence claimed by an Islamist group . The Islamist group Boko Haram claimed responsibility for theAbuja blast and violence in recent days that has stoked fear and anger in Africa 's most populous nation . Authorities have been seemingly unable to stop the attacks despite heavy-handed military crackdowns and claims of arrests of Boko Haram members . The area around the scene of the blast outside Abuja , which killed at least 27 , degenerated into chaos , with angry youths starting fires and threatening to attack a n A bomb blast later hit outside an evangelical church hundreds of km away in the central city of Jos , killing a policeman , according to a spokesman for the governor . Another explosion targeted a church in the northeastern area of Gadaka on Christmas Eve , but no one was reported killed , while two other blasts hit the northeastern city of Damaturu on Christmas Day , including a suspected suicide bombing . AFP OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "christmas services:6", 
+        "capital abuja:13", 
+        "nigeria:23", 
+        "abuja blast:41", 
+        "military crackdowns:72", 
+        "boko haram:79", 
+        "jos:133", 
+        "church:151", 
+        "christmas eve:159", 
+        "christmas day:180", 
+        "christmas:180", 
+        "suicide bombing:186"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Religious festivals", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/28-killed-in-nigeria-church-attacks/article2748315.ece", 
+    "date": "26-12-2011", 
+    "target": "Religious Places", 
+    "hot_spot": "Churches", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Boko Haram", 
+            "36", 
+            "Accused"
+        ]
+    ]
+}

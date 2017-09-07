@@ -1,0 +1,158 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Sri Lanka'
+p4
+aS'60'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Cuddalore'
+p8
+aS'73'
+p9
+aS'Assoc Event Location'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Sivanesan'
+p14
+aS'30'
+p15
+aS'Accused'
+p16
+aa(lp17
+S'Maheswaran'
+p18
+aS'32'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Gopi'
+p22
+aS'34'
+p23
+aS'Accused'
+p24
+aasS'TIM'
+p25
+(lp26
+sS'hot_setting'
+p27
+S''
+p28
+sS'DAT'
+p29
+(lp30
+S'Friday : 10'
+p31
+aS'December 2012 : 76'
+p32
+asS'death'
+p33
+g28
+sS'title'
+p34
+S'Former LTTE cadres arrested'
+p35
+sS'det_loc'
+p36
+(lp37
+S'Sri Lanka'
+p38
+ag28
+ag28
+aS'Cuddalore'
+p39
+ag28
+asS'terror_group'
+p40
+(lp41
+g28
+asS'content'
+p42
+S'The Q Branch CID of the State Intelligence on Friday arrested two persons alleged to be former LTTE cadres . Acting on a tip-off , a special team apprehended Sivanesan and Maheswaran alias Gopi , both Sri Lankan nationals , here . Agency sources said the duo was part of a gang that conspired to trigger bomb blasts in Sri Lanka . They carried out trial blasts at a remote location in Cuddalore districts in December 2012 . Special Correspondent OPEN'
+p43
+sS'injured'
+p44
+g28
+sS'org_unorg'
+p45
+g28
+sS'O'
+p46
+(lp47
+S'State Intelligence:7'
+p48
+aS'arrested:11'
+p49
+aS'LTTE cadres:18'
+p50
+aS'Sri Lankan nationals:37'
+p51
+aS'Agency sources:43'
+p52
+aS'gang:52'
+p53
+aS'trigger bomb blasts:56'
+p54
+aS'trial blasts:66'
+p55
+aS'remote location:70'
+p56
+asS'unexpl'
+p57
+(lp58
+g28
+asS'ocassion'
+p59
+g28
+sS'link'
+p60
+S'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/former-ltte-cadres-arrested/article5077971.ece'
+p61
+sS'date'
+p62
+S'30-08-2013'
+p63
+sS'target'
+p64
+g28
+sS'hot_spot'
+p65
+g28
+sS'delivery_mod'
+p66
+g28
+sS'delivery_met'
+p67
+S'TRIAL'
+p68
+sS'expl'
+p69
+(lp70
+g28
+asS'ORG'
+p71
+(lp72
+(lp73
+S'Q Branch CID'
+p74
+aS'2'
+p75
+aS'Others'
+p76
+aa(lp77
+S'LTTE'
+p78
+aS'18'
+p79
+aS'Others'
+p80
+aas.

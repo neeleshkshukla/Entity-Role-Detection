@@ -1,0 +1,79 @@
+{
+    "LOC": [
+        [
+            "Somanath Nagar", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Jayaprakash Nagar", 
+            "53", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kali Charan Padhi", 
+            "31", 
+            "Victim"
+        ], 
+        [
+            "Prakash Chandra Sabat", 
+            "74", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "7 p.m.:26", 
+        "8.30 p.m.:58"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:12"
+    ], 
+    "death": "", 
+    "title": "Two injured in bomb blasts", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "Ganjam", 
+        " BERHAMPUR", 
+        " BERHAMPUR"
+    ], 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "Miscreants hurled crude bombs at two places in the city on Friday evening . First case of bombing occurred at Somanath Nagar area at around 7 p.m. . A trader Kali Charan Padhi was injured . He was targeted by some youths who came on a motorcycle . Second incident occurred at Jayaprakash Nagar area at around 8.30 p.m. . A group of miscreants blasted bombs there . A stenographer of Irrigation Department Prakash Chandra Sabat was injured in the blasts . OPEN", 
+    "injured": "2", 
+    "org_unorg": "Organized", 
+    "O": [
+        "crude bombs:3", 
+        "friday evening:12", 
+        "trader kali charan padhi:30", 
+        "some:41", 
+        "some youths:41", 
+        "motorcycle:47", 
+        "group of miscreants:62", 
+        "stenographer of irrigation department:70"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/two-injured-in-bomb-blasts/article2664769.ece", 
+    "date": "25-11-2011", 
+    "target": "", 
+    "hot_spot": "Somanath Nagar, Jayaprakash Nagar", 
+    "delivery_mod": "Two wheeler", 
+    "delivery_met": "Thrown", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Irrigation Department", 
+            "72", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "LOC": [
+        [
+            "Haroon", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "Pathrija", 
+            "120", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Haroon Rashid Naik", 
+            "17", 
+            "Accused"
+        ], 
+        [
+            "Kanwar Nain Pathrija", 
+            "24", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 13 , 2011 : 29", 
+        "February 18 : 122", 
+        "February 17:129"
+    ], 
+    "death": "", 
+    "title": "Police custody of 13/7 blasts accused extended", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "A court here has extended the police custody of alleged Indian Mujahideen ( IM ) operative Haroon Rashid Naik and Delhi-based hawala operator Kanwar Nain Pathrija in the July 13 , 2011 triple bomb blasts case in the city . The Maharashtra Anti-Terrorism Squad ( ATS ) has so far made four arrests in the case . They have all been charged under various sections of the Unlawful Activities ( Prevention ) Act , the Explosives Act , the Indian Penal Code , etc. . The court also granted police custody to the other two accused in another bomb blast case the same day . Thus , all the four accused are to stay in police custody Haroon and Pathrija till February 18 and the other two till February 17 . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "court:2", 
+        "custody:8", 
+        "operative:16", 
+        "hawala operator:22", 
+        "bomb:34", 
+        "explosives act:76", 
+        "indian penal code:80", 
+        "custody:91", 
+        "bomb blast case:99"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/police-custody-of-137-blasts-accused-extended/article2885005.ece", 
+    "date": "12-02-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "42", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Quetta", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Quetta", 
+            "155", 
+            "Event"
+        ], 
+        [
+            "Baluchistan", 
+            "160", 
+            "Source"
+        ], 
+        [
+            "Afghanistan", 
+            "165", 
+            "Neutral"
+        ], 
+        [
+            "Iran", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "208", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdur Rahim Khokhar", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "Khokhar", 
+            "108", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:20", 
+        "2004:177"
+    ], 
+    "death": "15", 
+    "title": "Baluchistan seminary bomb toll rises to 15", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The death toll from a bomb attack in Pakistan 's troubled southwestern city of Quetta rose to 15 on Friday after seven people injured died overnight in hospital , police said . The dead included five students from the seminary where the bomb exploded as people gathered to attend a degree ceremony . The 10 others were teachers , employees and relatives of the students , police said . `` Seven more critically injured died in hospitals overnight . A total of 30 people , including students , were wounded in the blast , '' Abdur Rahim Khokhar , a local police official , told AFP . Khokhar warned that the death toll could still rise further . Police said six kilograms ( 13 pounds ) of explosives were planted on a bicycle , parked outside the seminary and covered with garlands . There was no immediate claim of responsibility for the attack . Quetta is the capital of Baluchistan province , which borders Afghanistan and Iran . Baluch rebels rose up in the province in 2004 , demanding political autonomy and a greater share of profits from oil , gas and mineral resources in the region . It is one of the most deprived regions of Pakistan despite its wealth in resources , and human rights activists have heavily condemned the military for summary arrests . AFP OPEN", 
+    "injured": "30", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Quetta", 
+        "Quetta, Capital of Baluchistan, seminary"
+    ], 
+    "O": [
+        "death toll:2", 
+        "bomb attack:6", 
+        "city:13", 
+        "hospital:28", 
+        "bomb:43", 
+        "degree ceremony:51", 
+        "total:81", 
+        "blast:93", 
+        "official:103", 
+        "death toll:112", 
+        "rise:116", 
+        "bicycle:133", 
+        "claim:148", 
+        "responsibility:150", 
+        "attack:153", 
+        "capital:158", 
+        "province:161", 
+        "province:175", 
+        "autonomy:181", 
+        "share:185", 
+        "oil:189", 
+        "gas:191", 
+        "mineral:193", 
+        "region:197", 
+        "wealth:211", 
+        "summary:225"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/baluchistan-seminary-bomb-toll-rises-to-15/article3506762.ece", 
+    "date": "13-07-2012", 
+    "target": "Public Organization", 
+    "hot_spot": "", 
+    "delivery_mod": "Bicycle", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "Baluch", 
+            "169", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Jamrud", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Afghan", 
+            "28", 
+            "Neutral"
+        ], 
+        [
+            "Jamrud", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "Khyber", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Khyber", 
+            "198", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mutahir Zeb", 
+            "205", 
+            "Comment"
+        ], 
+        [
+            "Azam", 
+            "268", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:13"
+    ], 
+    "death": "17", 
+    "title": "Bomb attack kills 17 at Pakistan market", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Jamrud", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A car bomb attack killed 17 people and wounded around 70 on Monday in a Pakistan market in the northwestern town of Jamrud , close to the Afghan border , officials said . The bomb exploded in a small market near a bus stop , killing and wounding people waiting for buses to take them across the northwest and to other parts of the country , according to officials . Pools of blood and charred pieces of human flesh littered the roadside , along with at least 20 burnt vehicles , said an AFP reporter . Clothes , school books , children 's shoes and burqas lay everywhere . Jamrud is in Khyber district , which is part of Pakistan 's semi-autonomous tribal belt where the Taliban and Al-Qaeda-linked groups have strongholds . A government office of the district administration was around 100 metres from where the bomb detonated but was not damaged in the attack , according to an AFP reporter . `` At least 17 people were killed and 71 others wounded in the blast caused by an explosive-laden car , which had been parked very close to the waiting area for passengers , '' Khyber 's most senior administration official , Mutahir Zeb , told AFP . He said ordinary civilians and not the government office , some distance from the explosion , were the target . `` We are still ascertaining what procedure was exactly used to blow up the vehicle , '' he said . `` The blast also damaged 10 vehicles and more than 15 shops in the market , '' Azam told AFP . OPEN", 
+    "injured": "71", 
+    "org_unorg": "Organized", 
+    "O": [
+        "car bomb attack:2", 
+        "market:17", 
+        "border:29", 
+        "bomb:35", 
+        "market:40", 
+        "killing and wounding people:46", 
+        "country:65", 
+        "blood:73", 
+        "roadside:82", 
+        "20 burnt vehicles:88", 
+        "district:114", 
+        "government office:135", 
+        "district administration:139", 
+        "bomb:148", 
+        "attack:156", 
+        "wounded:174", 
+        "blast:177", 
+        "explosive-laden:181", 
+        "car:182", 
+        "area:193", 
+        "administration official:202", 
+        "government office:218", 
+        "explosion:225", 
+        "target:229", 
+        "vehicle:245", 
+        "blast:253", 
+        "15 shops:261", 
+        "market:265"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/bomb-attack-kills-17-at-pakistan-market/article4211445.ece", 
+    "date": "", 
+    "target": "Market Place", 
+    "hot_spot": "", 
+    "delivery_mod": "Four wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "Taliban", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "Al-Qaeda-linked", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "AFP", 
+            "161", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "209", 
+            "Others"
+        ]
+    ]
+}

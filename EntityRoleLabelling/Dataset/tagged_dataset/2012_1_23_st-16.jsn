@@ -1,0 +1,129 @@
+{
+    "LOC": [
+        [
+            "Ningombam", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Thoubal", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "16", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Manipur", 
+            "118", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Okram Ibobi Singh", 
+            "19", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "Thoubal Assembly constituency ", 
+    "DAT": [
+        "Saturday night:26"
+    ], 
+    "death": "", 
+    "title": "Bombs go off in Ibobi constituency", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "CORCOM"
+    ], 
+    "content": "Two powerful bombs exploded at Ningombam in the Thoubal Assembly constituency , the stronghold of Manipur Chief Minister Okram Ibobi Singh , around midnight on Saturday night . However , there was no casualty in the blasts , alleged to be part of the continuing campaign by the CorCom ( Co-ordination Committee ) of seven proscribed underground organisations against Congress candidates . The CorCom of UNLF , the RPF , the KCP , the PREPAK , the PREPAK ( Pro ) , the KYKL and the UPPK had banned the Congress from contesting the Assembly elections , alleging that it was anti-people and anti- revolutionary . Besides , it played a major role in the merger of Manipur with Indian Union . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Thoubal", 
+        "IMPHAL", 
+        "Ningombam"
+    ], 
+    "O": [
+        "Assembly constituency:10", 
+        "stronghold:14", 
+        "Chief Minister:17", 
+        "casualty:34", 
+        "campaign:46", 
+        "co-ordination committee:51", 
+        "Congress candidates:60", 
+        "assembly elections:95", 
+        "revolutionary:105", 
+        "role:113", 
+        "merger:116"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "ELECTIONS", 
+    "link": "http://www.thehindu.com/todays-paper/bombs-go-off-in-ibobi-constituency/article2824110.ece", 
+    "date": "21-01-2012", 
+    "target": "MINISTER", 
+    "hot_spot": "Ningombam in the Thoubal Assembly constituency", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "CorCom", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "CorCom", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "UNLF", 
+            "66", 
+            "Accused"
+        ], 
+        [
+            "RPF", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "KCP", 
+            "72", 
+            "Accused"
+        ], 
+        [
+            "PREPAK", 
+            "75", 
+            "Accused"
+        ], 
+        [
+            "PREPAK ( Pro", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "KYKL", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "UPPK", 
+            "87", 
+            "Accused"
+        ], 
+        [
+            "Indian Union", 
+            "120", 
+            "Others"
+        ]
+    ]
+}

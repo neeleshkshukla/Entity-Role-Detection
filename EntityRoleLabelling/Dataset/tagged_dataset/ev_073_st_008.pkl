@@ -1,0 +1,435 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Lucknow'
+p4
+aS'33'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Varanasi'
+p8
+aS'35'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Faizabad'
+p12
+aS'37'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Lucknow'
+p16
+aS'43'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Lucknow'
+p20
+aS'80'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Varanasi'
+p24
+aS'82'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Faizabad'
+p28
+aS'84'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Uttar Pradesh'
+p32
+aS'98'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Allahabad railway station'
+p36
+aS'140'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Faizabad'
+p40
+aS'147'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Uttar Pradesh'
+p44
+aS'197'
+p45
+aS'Event'
+p46
+aa(lp47
+S'East Delhi'
+p48
+aS'302'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Uttar Pradesh'
+p52
+aS'307'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Uttar Pradesh'
+p56
+aS'369'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Varansi'
+p60
+aS'402'
+p61
+aS'Event'
+p62
+aa(lp63
+S'Faizabad'
+p64
+aS'406'
+p65
+aS'Event'
+p66
+aa(lp67
+S'Lucknow'
+p68
+aS'410'
+p69
+aS'Event'
+p70
+aasS'PER'
+p71
+(lp72
+(lp73
+S'Rajnath Singh'
+p74
+aS'92'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Vikram Singh'
+p78
+aS'227'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Singh'
+p82
+aS'276'
+p83
+aS'Comment'
+p84
+aa(lp85
+S'Mayawati'
+p86
+aS'311'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Rahul Gandhi'
+p90
+aS'452'
+p91
+aS'Others'
+p92
+aasS'TIM'
+p93
+(lp94
+S'today : 21'
+p95
+aS'today : 68'
+p96
+aS'15 minutes : 423'
+p97
+asS'hot_setting'
+p98
+S''
+p99
+sS'DAT'
+p100
+(lp101
+S'Friday : 39'
+p102
+aS'Nov 24 : 45'
+p103
+aS'Friday : 86'
+p104
+aS'Saturday morning : 131'
+p105
+aS'Friday night : 193'
+p106
+aS'Friday : 372'
+p107
+asS'death'
+p108
+S'15'
+p109
+sS'title'
+p110
+S'BJP, VHP call for shutdown in Uttar Pradesh'
+p111
+sS'org_unorg'
+p112
+g99
+sS'terror_group'
+p113
+(lp114
+S'INDIAN MUJAHIDEEN'
+p115
+asS'content'
+p116
+VThe Bharatiya Janata Party ( BJP ) and Vishwa Hindu Parishad ( VHP ) have called for a state-wide shutdown today in protest against the simultaneous bomb blasts in court premises in Lucknow , Varanasi and Faizabad on Friday . . . Lucknow , Nov 24 : The Bharatiya Janata Party ( BJP ) and Vishwa Hindu Parishad ( VHP ) have called for a state-wide shutdown today in protest against the simultaneous bomb blasts in court premises in Lucknow , Varanasi and Faizabad on Friday . . . BJP President Rajnath Singh is scheduled to visit Uttar Pradesh to meet injured in the hospitals and to take stock of the situation in the affected areas . . . Meanwhile , Samajwadi Party workers have already begun their protest early Saturday morning , stopping the Ganga-Gomti Express at the Allahabad railway station . . . In Faizabad , a four-member forensic team is examining vital clues related to the blasts as to who could be behind the serial blasts . . . According to sources , a terrorist group called Indian Mujahideen has claimed responsibility for the blast . . . On Friday night , the Uttar Pradesh police released sketches of three suspects believed to be behind the blasts . All sketches were prepared on the basis of information received from eyewitness . . . Vikram Singh , Director General of Uttar Pradesh Police has said that new cycles could be likely clues for probe into blasts . . . `` Special Task Force will probe the case . We can not rule out anything and will soon give you the result , '' Singh said . . . According to unconfirmed reports , investigators have traced an email , which warned of the attack , to a cybercafe in East Delhi . . . Uttar Pradesh Chief Minister Mayawati blamed the Central intelligence agencies for failing to provide any inputs about the blasts , and said that state agencies were not even asked to stay ` alert ' . . . The Home Ministry has already issued advisory to all States and Union Territories to step up vigilance and surveillance . . . Terror struck in Uttar Pradesh on Friday when militants triggered near-simultaneous blasts in court premises killing 15 people , four of them lawyers , and injuring over 80 . . . Six bombs - three in Varansi , two in Faizabad and one in Lucknow - some planted on cycles , went off within a span of 15 minutes . . . The blasts came a week after the Uttar Pradesh police along with central security agencies busted a Jaish-e-Mohammed module , who wanted to target Rahul Gandhi . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .
+p117
+sS'injured'
+p118
+S'80'
+p119
+sS'det_loc'
+p120
+(lp121
+S'India'
+p122
+aS'Uttar Pradesh'
+p123
+aS'Lucknow'
+p124
+aS'Lucknow'
+p125
+ag99
+asS'O'
+p126
+(lp127
+S'protest:23'
+p128
+aS'bomb blasts:27'
+p129
+aS'protest:70'
+p130
+aS'bomb blasts:74'
+p131
+aS'injured:102'
+p132
+aS'Ganga-Gomti Express:136'
+p133
+aS'four-member forensic team:150'
+p134
+aS'blasts:160'
+p135
+aS'serial blasts:168'
+p136
+aS'terrorist group:178'
+p137
+aS'blast:188'
+p138
+aS'suspects:204'
+p139
+aS'blasts:210'
+p140
+aS'clues:244'
+p141
+aS'blasts:248'
+p142
+aS'attack:296'
+p143
+aS'blasts:325'
+p144
+aS'state agencies:330'
+p145
+aS'alert:339'
+p146
+aS'vigilance:360'
+p147
+aS'surveillance:362'
+p148
+aS'Terror struck:366'
+p149
+aS'militants triggered:374'
+p150
+aS'blasts:377'
+p151
+aS'blasts:429'
+p152
+aS'central security agencies:440'
+p153
+asS'unexpl'
+p154
+(lp155
+g99
+asS'ocassion'
+p156
+g99
+sS'link'
+p157
+S'http://www.andhranews.net/India/2007/November/24-call-shutdown-23525.asp'
+p158
+sS'date'
+p159
+g99
+sS'target'
+p160
+S'CITIES'
+p161
+sS'hot_spot'
+p162
+g99
+sS'delivery_mod'
+p163
+g99
+sS'delivery_met'
+p164
+S'PLANTED'
+p165
+sS'expl'
+p166
+(lp167
+g99
+asS'ORG'
+p168
+(lp169
+(lp170
+S'Bharatiya Janata Party'
+p171
+aS'2'
+p172
+aS'Others'
+p173
+aa(lp174
+S'BJP'
+p175
+aS'6'
+p176
+aS'Others'
+p177
+aa(lp178
+S'Vishwa Hindu Parishad'
+p179
+aS'9'
+p180
+aS'Others'
+p181
+aa(lp182
+S'VHP'
+p183
+aS'13'
+p184
+aS'Others'
+p185
+aa(lp186
+S'Bharatiya Janata Party'
+p187
+aS'49'
+p188
+aS'Others'
+p189
+aa(lp190
+S'BJP'
+p191
+aS'53'
+p192
+aS'Others'
+p193
+aa(lp194
+S'Vishwa Hindu Parishad'
+p195
+aS'56'
+p196
+aS'Others'
+p197
+aa(lp198
+S'VHP'
+p199
+aS'60'
+p200
+aS'Others'
+p201
+aa(lp202
+S'BJP'
+p203
+aS'90'
+p204
+aS'Others'
+p205
+aa(lp206
+S'Samajwadi Party'
+p207
+aS'122'
+p208
+aS'Others'
+p209
+aa(lp210
+S'Indian Mujahideen'
+p211
+aS'181'
+p212
+aS'Accused'
+p213
+aa(lp214
+S'Uttar Pradesh Police'
+p215
+aS'233'
+p216
+aS'Others'
+p217
+aa(lp218
+S'Special Task Force'
+p219
+aS'253'
+p220
+aS'Others'
+p221
+aa(lp222
+S'Central intelligence agencies'
+p223
+aS'314'
+p224
+aS'Others'
+p225
+aa(lp226
+S'States and Union Territories'
+p227
+aS'353'
+p228
+aS'Others'
+p229
+aa(lp230
+S'Uttar Pradesh police'
+p231
+aS'435'
+p232
+aS'Others'
+p233
+aa(lp234
+S'Jaish-e-Mohammed'
+p235
+aS'445'
+p236
+aS'Accused'
+p237
+aas.

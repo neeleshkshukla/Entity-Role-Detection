@@ -1,0 +1,131 @@
+{
+    "LOC": [
+        [
+            "central Oslo", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Utoya", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Oslo", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Norway", 
+            "285", 
+            "Event"
+        ], 
+        [
+            "Einar Gerhardsens plaza", 
+            "326", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jens Stoltenberg", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Runar Kvernen", 
+            "197", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "3.20 p.m.:182"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:7"
+    ], 
+    "death": "", 
+    "title": "Seven killed as blasts rock Oslo", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Powerful explosions shook central Oslo on Friday afternoon , blowing out the windows of several government buildings , including one housing the office of the Norwegian Prime Minister . ( An AFP report said that in what seemed to be a related incident , a man dressed as a police officer opened fire at a youth camp at Utoya , an island outside Oslo , killing four people . ) Seven people were killed and several more injured in the blasts . A spokeswoman for Prime Minister Jens Stoltenberg said he was safe and not hurt . Stunned office staff and civil servants working in the vicinity of the bombed building said at least two explosions could be heard in close succession , as the sound of the blasts echoed across the city . Giant clouds of light-coloured smoke continued to rise hundreds of feet into the air over the city as a fire burned in one of the damaged structures , a six-storey office building that houses the Oil Ministry . The police said the initial blast occurred at around 3.20 p.m. local time . We think there was more than one blast , said Runar Kvernen , spokesman for the National Police Directorate under the Ministry of Justice and Police . The cause of the explosions was not immediately clear , but a Reuters reporter described seeing the mangled wreckage of a car near one of the buildings . Photos and television footage showed windows blown out in the 17-storey office building across the street from the Oil Ministry , and the street and plaza areas on each side were strewn with glass and debris . The centre of the city , Norway 's capital , was sealed off , and police said they were on heightened alert as they combed through the debris in search of clues . The explosions , which ripped through the cluster of modern office buildings around the Einar Gerhardsens plaza , occurred at a time when many Norwegians were on vacation and many more had left their offices early for the weekend . New York Times News Service OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Norway", 
+        "", 
+        "", 
+        "Oslo", 
+        ""
+    ], 
+    "O": [
+        "explosions:2", 
+        "buildings:17", 
+        "Norwegian:26", 
+        "Prime Minister:27", 
+        "AFP report:32", 
+        "police officer:50", 
+        "opened fire:52", 
+        "youth camp:56", 
+        "island:62", 
+        "oslo:64", 
+        "killing:66", 
+        "killed:74", 
+        "injured:78", 
+        "blasts:81", 
+        "Prime Minister:86", 
+        "bombed building:110", 
+        "explosions:116", 
+        "succession:122", 
+        "blasts:129", 
+        "smoke:139", 
+        "office building:165", 
+        "Oil Ministry:170", 
+        "blast:178", 
+        "blast:194", 
+        "explosions:218", 
+        "reuters reporter:226", 
+        "wreckage:232", 
+        "car:235", 
+        "footage:245", 
+        "office building:253", 
+        "Oil Ministry:260", 
+        "debris:277", 
+        "debris:306", 
+        "explosions:313", 
+        "office buildings:322", 
+        "Norwegians:336"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/seven-killed-as-blasts-rock-oslo/article2286732.ece", 
+    "date": "23-07-2011", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "Bicycle", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "National Police Directorate", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "Ministry of Justice and Police", 
+            "208", 
+            "Others"
+        ]
+    ]
+}

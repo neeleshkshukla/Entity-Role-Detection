@@ -1,0 +1,266 @@
+{
+    "LOC": [
+        [
+            "Jammu & Kashmir", 
+            "14", 
+            "Accused Location"
+        ], 
+        [
+            "Kishtwar", 
+            "93", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Jammu", 
+            "118", 
+            "Accused Location"
+        ], 
+        [
+            "India", 
+            "159", 
+            "Neutral"
+        ], 
+        [
+            "Delhi airport", 
+            "168", 
+            "Neutral"
+        ], 
+        [
+            "Jammu", 
+            "252", 
+            "Neutral"
+        ], 
+        [
+            "Kashmir Valley", 
+            "309", 
+            "Neutral"
+        ], 
+        [
+            "Kishtwar", 
+            "352", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Wasim Akram Malik", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Amir Abbas Dev", 
+            "66", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "95", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "181", 
+            "Accused"
+        ], 
+        [
+            "Wasim", 
+            "220", 
+            "Accused"
+        ], 
+        [
+            "Azhar Ali", 
+            "242", 
+            "Assoc Accused"
+        ], 
+        [
+            "Azhar", 
+            "266", 
+            "Assoc Accused"
+        ], 
+        [
+            "Wasim", 
+            "270", 
+            "Accused"
+        ], 
+        [
+            "Junaid", 
+            "274", 
+            "Assoc Accused"
+        ], 
+        [
+            "Junaid", 
+            "281", 
+            "Assoc Accused"
+        ], 
+        [
+            "Junaid", 
+            "301", 
+            "Assoc Accused"
+        ], 
+        [
+            "Amir Abbas Dev", 
+            "321", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:39", 
+        "September 7:78", 
+        "September 7:120"
+    ], 
+    "death": "", 
+    "title": "Delhi blast suspect sent to 14 days in NIA custody", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The National Investigation Agency ( NIA ) has arrested a young man from Jammu & Kashmir for suspected involvement in the conspiracy behind the recent bomb blast at the Delhi High Court . Wasim Akram Malik was on Friday produced in a special court here , which remanded him in NIA custody for 14 days , during which he would also be confronted with co-accused Amir Abbas Dev . The arrest comes exactly a month after the September 7 blast . The elder son of a worker at a hydel project in Kishtwar , Wasim went to Bangladesh about five years ago for medical studies at a Dhaka institute . Preliminary enquiries suggested that Wasim was in Jammu on September 7 when the blast took place . Suspecting his involvement , the NIA contacted his father seeking his cooperation in the probe and sought his presence for questioning . At his father 's instance , Wasim returned to India and was handed over to the NIA at Delhi airport . According to sources , the NIA is yet to establish Wasim 's exact role in the conspiracy . He would be probed for any links with the Bangladesh-based Harkat-ul-Jihad-e-Islami ( HuJI ) or any other outfit . Even as the NIA remained tight-lipped about the timing and place of Wasim 's arrest , besides his affiliation to any terror outfit , sources said the agency received information about him from one Azhar Ali , an alleged HM recruiter presently lodged in Jammu 's Kotbalwal Jail . According to sources , NIA officials had recently questioned Azhar and found that Wasim 's teenaged brother Junaid had been initiated into terrorism . Junaid allegedly disappeared a year ago and his family has lodged a missing person report . Intelligence agencies suspect that Junaid has been operating from somewhere in the Kashmir Valley . In a related development , the special court sent Amir Abbas Dev to seven days ' NIA custody and ordered that the third accused in the case be produced before a Juvenile Justice Board . The two were arrested in Kishtwar for alleged complicity in sending an e-mail on behalf of HuJI claiming responsibility for the blast . The e-mail had been sent from a local cyber caf hours after the blast . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "arrested:9", 
+        "conspiracy:22", 
+        "bomb blast:26", 
+        "court:44", 
+        "nia custody:51", 
+        "arrest:71", 
+        "blast:80", 
+        "hydel project:90", 
+        "medical studies:104", 
+        "blast:124", 
+        "probe:142", 
+        "questioning:148", 
+        "conspiracy:187", 
+        "Bangladesh-based:198", 
+        "outfit:206", 
+        "arrest:222", 
+        "terror outfit:229", 
+        "HM recruiter:247", 
+        "terrorism:279", 
+        "missing person:293", 
+        "Intelligence agencies:297", 
+        "court:319", 
+        "nia custody:328", 
+        "Juvenile Justice Board:343", 
+        "arrested:350", 
+        "e-mail:359", 
+        "responsibility:365", 
+        "blast:368", 
+        "e-mail:371", 
+        "cyber caf:378", 
+        "blast:383"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/delhi-blast-suspect-sent-to-14-days-in-nia-custody/article2519904.ece", 
+    "date": "08-10-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "30", 
+            "Victim"
+        ], 
+        [
+            "NIA", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Dhaka institute", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihad-e-Islami", 
+            "199", 
+            "Accused"
+        ], 
+        [
+            "HuJI", 
+            "201", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "Kotbalwal Jail", 
+            "254", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "328", 
+            "Others"
+        ], 
+        [
+            "HuJI", 
+            "363", 
+            "Accused"
+        ]
+    ]
+}

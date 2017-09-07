@@ -1,0 +1,133 @@
+{
+    "LOC": [
+        [
+            "Poocherikunnu", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Kadalundy", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Kozhikode", 
+            "112", 
+            "Neutral"
+        ], 
+        [
+            "Thiruvananthapuram", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Kadalundy", 
+            "172", 
+            "Event"
+        ], 
+        [
+            "Athanvalavil", 
+            "212", 
+            "Neutral"
+        ], 
+        [
+            "Mannur", 
+            "233", 
+            "Neutral"
+        ], 
+        [
+            "Kadalundy", 
+            "235", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anup Kuruvilla John", 
+            "104", 
+            "Comment"
+        ], 
+        [
+            "K. Mohanachandran", 
+            "166", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "5.30 a.m.:35"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:21"
+    ], 
+    "death": "", 
+    "title": "Crude bomb blast in Kozhikode", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Kozhikode", 
+        "Kozhikode", 
+        "Poocherikunnu near Kadalundy"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A country-made bomb exploded at a bus stop at Poocherikunnu near Kadalundy on the outskirts of the city early on Wednesday . No casualties have been reported in the incident that occurred at around 5.30 a.m. . The tiles of a waiting shed were destroyed in the explosion . Local people said they heard a big sound and tremors were felt at a nearby house . The police recovered fragmented pieces of steel , nails , paper pieces and jute twines from the site . Low-intensity explosion The explosion was of low intensity . Clues obtained suggested that the bomb was homemade , Anup Kuruvilla John , Commissioner of Police , Kozhikode city , said . Forensic experts collected samples from the debris and sent it for chemical examination at the Forensic Science Laboratory in Thiruvananthapuram . The Feroke police registered a case . A bomb detection and disposal squad and a dog squad checked the area . Assistant Commissioner of Police ( South ) K. Mohanachandran visited the spot . Kadalundy and its adjoining areas are usually conflict-free zones . However , two years ago a similar explosion had occurred at the bus stop . Later , explosive devices were recovered from a cable chamber of the Telecom Department at Athanvalavil , a nearby place . A week before the Assembly elections , the police had recovered four old swords from Mannur near Kadalundy . Heightened political activity and activities of fundamentalist outfits in the region in recent times had created suspicion among the residents . The police think that miscreants could have set off the blast as a test at an unoccupied bus stop or to create panic . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb:3", 
+        "bus stop:7", 
+        "waiting shed:42", 
+        "explosion:48", 
+        "steel:73", 
+        "nails:75", 
+        "explosion:87", 
+        "explosion:89", 
+        "bomb:100", 
+        "commissioner of police:108", 
+        "chemical examination:128", 
+        "bomb detection and disposal squad:146", 
+        "assistant commissioner of police:159", 
+        "spot:170", 
+        "explosion:189", 
+        "bus stop:194", 
+        "explosive devices:199", 
+        "cable chamber:205", 
+        "assembly elections:222", 
+        "swords:231", 
+        "fundamentalist outfits:243", 
+        "blast:268", 
+        "bus stop:275"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/crude-bomb-blast-in-kozhikode/article1714086.ece", 
+    "date": "20-04-2011", 
+    "target": "Public Transport", 
+    "hot_spot": "bus stop", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Forensic Science Laboratory", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Feroke police", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "Telecom Department", 
+            "209", 
+            "Others"
+        ]
+    ]
+}

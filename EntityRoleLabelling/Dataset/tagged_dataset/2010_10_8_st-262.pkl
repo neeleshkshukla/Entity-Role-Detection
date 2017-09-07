@@ -1,0 +1,176 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'M. Chinnaswamy Stadium'
+p4
+aS'7'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Cubbon Park Subdivision'
+p8
+aS'168'
+p9
+aS'Neutral'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'G. Ramesh'
+p14
+aS'133'
+p15
+aS'Others'
+p16
+aa(lp17
+S'Devaraju'
+p18
+aS'172'
+p19
+aS'Others'
+p20
+aa(lp21
+S'Ramesh'
+p22
+aS'335'
+p23
+aS'Others'
+p24
+aasS'TIM'
+p25
+(lp26
+sS'hot_setting'
+p27
+S''
+p28
+sS'DAT'
+p29
+(lp30
+S'Saturday:17'
+p31
+aS'April:27'
+p32
+aS'April blasts:77'
+p33
+aS'April:77'
+p34
+aS'April:100'
+p35
+aS'April 17:100'
+p36
+aS'April bombs:272'
+p37
+aS'April:272'
+p38
+asS'death'
+p39
+g28
+sS'title'
+p40
+S'Stadium secured ahead of Test'
+p41
+sS'det_loc'
+p42
+(lp43
+S'India'
+p44
+aS'Karnataka'
+p45
+aS'Bangalore Urban'
+p46
+ag28
+ag28
+asS'terror_group'
+p47
+(lp48
+g28
+asS'content'
+p49
+S'A three-layer cordon will secure the M. Chinnaswamy Stadium for the second India-Australia cricket Test starting Saturday . Chastised after the blasts at the stadium in April on the day of an IPL match , the city police are taking no chances . The stadium has already been sanitised in the run-up to the five-day match . Anyone entering is being frisked , while anti-sabotage units are checking the length and breadth of the stadium . April blasts Two low-intensity crude bombs had gone off just before the IPL league match between Mumbai Indians and Bangalore Royal Challengers on April 17 this year , injuring 17 people and nine policemen . We have tightened the security to eliminate any chances of a recurrence , Deputy Commissioner of Police ( Central Division ) G. Ramesh told The Hindu . Even the stadium staff will not be spared from the checks , he added . The security is as per the blueprint devised by Assistant Commissioner of Police ( Cubbon Park Subdivision ) Devaraju and his colleagues . Eight Assistant Commissioners of Police , 30 police inspectors , 60 sub-inspectors and around 2,000 police constables are being deployed . At least 12 door-fitted metal detectors ( DFMD ) , about 100 hand-held metal detectors ( HHMD ) and 12 closed-circuit cameras have been installed in and outside the stadium . The cameras can see even in the dark , the police said . Spectators will not be allowed to carry bags , bottles , matchboxes , cigarette lighters , nail cutters or mobile phones into the stadium . Ad boards banned Considering the April bombs were hidden behind plastic boards , this time advertisement hoardings have been banned across the stadium . The police have told stadium officials to guard vulnerable areas , including ceilings , toilets and passages . The police have already checked the antecedents of stadium employees . They have also obtained the list of housekeeping staff and verified their background , Mr. Ramesh said . The police will keep ready a patrol vehicle , a fire tender and an ambulance near the stadium . OPEN'
+p50
+sS'injured'
+p51
+g28
+sS'org_unorg'
+p52
+S'Organized'
+p53
+sS'O'
+p54
+(lp55
+S'india-australia cricket test:13'
+p56
+aS'ipl match:33'
+p57
+aS'stadium:75'
+p58
+aS'crude bombs:81'
+p59
+aS'ipl:89'
+p60
+aS'deputy commissioner:125'
+p61
+aS'housekeeping staff:327'
+p62
+aS'fire tender:348'
+p63
+asS'unexpl'
+p64
+(lp65
+g28
+asS'ocassion'
+p66
+g28
+sS'link'
+p67
+S'http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/stadium-secured-ahead-of-test/article819071.ece'
+p68
+sS'date'
+p69
+S'17-04-2010'
+p70
+sS'target'
+p71
+g28
+sS'hot_spot'
+p72
+g28
+sS'delivery_mod'
+p73
+g28
+sS'delivery_met'
+p74
+g28
+sS'expl'
+p75
+(lp76
+g28
+asS'ORG'
+p77
+(lp78
+(lp79
+S'Mumbai Indians'
+p80
+aS'93'
+p81
+aS'Others'
+p82
+aa(lp83
+S'Bangalore Royal Challengers'
+p84
+aS'96'
+p85
+aS'Others'
+p86
+aa(lp87
+S'The Hindu'
+p88
+aS'136'
+p89
+aS'Others'
+p90
+aas.

@@ -1,0 +1,69 @@
+{
+    "LOC": [
+        [
+            "Myanmar", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Yangon", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Kandawgyi Lake", 
+            "64", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "3 p.m.:51"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:19"
+    ], 
+    "death": "10", 
+    "title": "Myanmar blasts kill 9", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "Yangon", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "YANGON : Three bombs ripped through traditional New Year festivities in Myanmar 's biggest city of Yangon on Thursday , killing nine people and injuring 94 others , said officials and state television . There was no indication as to who was behind the blasts , which occurred at about 3 p.m. near some 20 pavilions erected for the celebrations at the sprawling Kandawgyi Lake . In the past , the government has blamed bomb blasts on exiled anti-government groups and insurgents . AP OPEN", 
+    "injured": "94", 
+    "org_unorg": "Organized", 
+    "O": [
+        "traditional new:7", 
+        "new year festivities:8", 
+        "new year:8", 
+        "year:9", 
+        "city:15", 
+        "yangon:17", 
+        "state television:32", 
+        "indication:38", 
+        "government:72", 
+        "bomb:75", 
+        "anti-government:79"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/myanmar-blasts-kill-9/article750579.ece", 
+    "date": "01-04-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

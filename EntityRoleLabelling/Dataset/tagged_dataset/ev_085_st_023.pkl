@@ -1,0 +1,434 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Varanasi'
+p4
+aS'7'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Pakistan'
+p8
+aS'49'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Dubai'
+p12
+aS'127'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Pakistan'
+p16
+aS'129'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Delhi'
+p20
+aS'161'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Ahmedabad'
+p24
+aS'163'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Jaipur'
+p28
+aS'165'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Azamgarh'
+p32
+aS'183'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Sanjarpur-Saraimeer-Phulpur'
+p36
+aS'210'
+p37
+aS'Source'
+p38
+aa(lp39
+S'Azamgarh'
+p40
+aS'214'
+p41
+aS'Accused Location'
+p42
+aa(lp43
+S'Varanasi'
+p44
+aS'221'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Nepal'
+p48
+aS'243'
+p49
+aS'Victim Location'
+p50
+aa(lp51
+S'Dubai'
+p52
+aS'261'
+p53
+aS'Accused Location'
+p54
+aa(lp55
+S'Pakistan'
+p56
+aS'263'
+p57
+aS'Accused Location'
+p58
+aa(lp59
+S'Varanasi'
+p60
+aS'294'
+p61
+aS'Event'
+p62
+aa(lp63
+S'suburb Vashi'
+p64
+aS'298'
+p65
+aS'Source'
+p66
+aa(lp67
+S'Navi Mumbai'
+p68
+aS'301'
+p69
+aS'Source'
+p70
+aa(lp71
+S'Navi Mumbai'
+p72
+aS'351'
+p73
+aS'Neutral'
+p74
+aasS'PER'
+p75
+(lp76
+(lp77
+S'Riyaz'
+p78
+aS'28'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Iqbal'
+p82
+aS'30'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Dr Shahnawaz'
+p86
+aS'68'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Mohammed Saif'
+p90
+aS'77'
+p91
+aS'Assoc Accused'
+p92
+aa(lp93
+S'Atiq Amin'
+p94
+aS'110'
+p95
+aS'Others'
+p96
+aa(lp97
+S'Saif'
+p98
+aS'115'
+p99
+aS'Assoc Accused'
+p100
+aa(lp101
+S'Dr Shahnawaz'
+p102
+aS'120'
+p103
+aS'Accused'
+p104
+aa(lp105
+S'Shahnawz'
+p106
+aS'140'
+p107
+aS'Assoc Accused'
+p108
+aa(lp109
+S'Dr Shahnawaz'
+p110
+aS'225'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Khalid'
+p114
+aS'230'
+p115
+aS'Accused'
+p116
+aa(lp117
+S'Abu Rashid'
+p118
+aS'232'
+p119
+aS'Accused'
+p120
+aa(lp121
+S'Bada Sajid'
+p122
+aS'235'
+p123
+aS'Accused'
+p124
+aa(lp125
+S'Mohammed Sajid'
+p126
+aS'238'
+p127
+aS'Accused'
+p128
+aasS'TIM'
+p129
+(lp130
+sS'hot_setting'
+p131
+S''
+p132
+sS'DAT'
+p133
+(lp134
+S'Wednesday : 24'
+p135
+aS'September 19 : 88'
+p136
+aS'2008 : 91'
+p137
+asS'death'
+p138
+S'1'
+p139
+sS'title'
+p140
+S'Varanasi blast: Dr Shahnawaz, Bhatkal brothers emerge as main suspects after mail traced to Vashi'
+p141
+sS'org_unorg'
+p142
+g132
+sS'terror_group'
+p143
+(lp144
+S'INDIAN MUJAHIDEEN'
+p145
+asS'content'
+p146
+VA day after the blast in Varanasi 's Sheetla ghat killed a toddler and injured 37 others , the Mumbai Police said on Wednesday that Bhatkal brothers Riyaz and Iqbal the chiefs of the Indian Mujahideen had masterminded the explosion . . . The Bhatkal brothers are in Pakistan . . . Preliminary investigations have shown the actual muscle to carry on the blasts was provided by Dr Shahnawaz , the brother of IM foot soldier Mohammed Saif who was arrested in the Batla House encounter in September 19 , 2008 . . . In that encounter , a week after the Delhi blasts , the then IM commander Atiq Amin was killed and Saif arrested . . . Dr Shahnawaz , who is both in Dubai and Pakistan now , took charge thereafter . A Pakistan-trained mujahideen , Shahnawz is in regular touch with the Bhatkal brothers , sources said . . . He is also involved in the Delhi , Ahmedabad and Jaipur blasts . . . It was widely expected that the IM terror modules that operated out of Azamgarh had been wiped out after the Batla encounter . But that is not so . . . Preliminary investigations point at IM members based in the Sanjarpur-Saraimeer-Phulpur area of the Azamgarh district , just 100 kilometres from Varanasi . . . Dr Shahnawaz along with aides Khalid , Abu Rashid and Bada Sajid or Mohammed Sajid had fled to Nepal after the Batla House encounter . This former physician in Lucknow Hospital is purportedly now in both Dubai and Pakistan . All four now hold Nepalese passports . . Meanwhile , the email in which the banned terrorist group , Indian Mujahideen , claimed responsibility for the bomb blast in Varanasi originated from the suburb Vashi in Navi Mumbai . . . The email which was shot to several media houses minutes after the blast was sent through an unsecured WiFi connection of the Airtel broadband , official sources have said . . . The Indian Mujahideen module had hacked into a broadband Internet connection of a Navi Mumbai resident . . . ... contd .
+p147
+sS'injured'
+p148
+S'37'
+p149
+sS'det_loc'
+p150
+(lp151
+S'India'
+p152
+aS'Uttar Pradesh'
+p153
+aS'Varanasi'
+p154
+ag132
+ag132
+asS'O'
+p155
+(lp156
+S'Sheetla ghat:9'
+p157
+aS'killed:11'
+p158
+aS'toddler:13'
+p159
+aS'injured 37:15'
+p160
+aS'Bhatkal brothers:26'
+p161
+aS'chiefs:32'
+p162
+aS'masterminded:38'
+p163
+aS'explosion:40'
+p164
+aS'Preliminary investigations:53'
+p165
+aS'foot soldier:75'
+p166
+aS'Batla House encounter:84'
+p167
+aS'Delhi blasts:103'
+p168
+aS'commander:109'
+p169
+aS'Pakistan-trained mujahideen:137'
+p170
+aS'regular touch:143'
+p171
+aS'blasts:166'
+p172
+aS'IM terror:176'
+p173
+aS'wiped out:186'
+p174
+aS'Batla encounter:190'
+p175
+aS'100 kilometres:218'
+p176
+aS'fled:241'
+p177
+aS'physician:252'
+p178
+aS'four:266'
+p179
+aS'Nepalese passports:269'
+p180
+aS'email:276'
+p181
+aS'claimed responsibility:287'
+p182
+aS'bomb blast:291'
+p183
+aS'unsecured WiFi connection:323'
+p184
+aS'Airtel broadband:328'
+p185
+aS'hacked:343'
+p186
+aS'broadband Internet connection:346'
+p187
+asS'unexpl'
+p188
+(lp189
+g132
+asS'ocassion'
+p190
+g132
+sS'link'
+p191
+S'http://archive.indianexpress.com/news/varanasi-blast-terror-mail-traced-to-vashi;-dr-shahnawaz-main-suspect/721924/'
+p192
+sS'date'
+p193
+S'07-12-2010'
+p194
+sS'target'
+p195
+S'RELIGIOUS PLACES'
+p196
+sS'hot_spot'
+p197
+g132
+sS'delivery_mod'
+p198
+g132
+sS'delivery_met'
+p199
+g132
+sS'expl'
+p200
+(lp201
+g132
+asS'ORG'
+p202
+(lp203
+(lp204
+S'Mumbai Police'
+p205
+aS'20'
+p206
+aS'Others'
+p207
+aa(lp208
+S'Indian Mujahideen'
+p209
+aS'35'
+p210
+aS'Accused'
+p211
+aa(lp212
+S'IM'
+p213
+aS'74'
+p214
+aS'Accused'
+p215
+aa(lp216
+S'IM'
+p217
+aS'108'
+p218
+aS'Accused'
+p219
+aa(lp220
+S'IM'
+p221
+aS'205'
+p222
+aS'Accused'
+p223
+aa(lp224
+S'Lucknow Hospital'
+p225
+aS'254'
+p226
+aS'Others'
+p227
+aa(lp228
+S'Indian Mujahideen'
+p229
+aS'284'
+p230
+aS'Accused'
+p231
+aa(lp232
+S'Indian Mujahideen'
+p233
+aS'339'
+p234
+aS'Accused'
+p235
+aS'Others'
+p236
+aas.

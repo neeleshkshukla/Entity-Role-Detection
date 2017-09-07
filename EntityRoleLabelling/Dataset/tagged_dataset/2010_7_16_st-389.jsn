@@ -1,0 +1,107 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "398", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "400", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2009:186", 
+        "May:193", 
+        "2004:317", 
+        "2007:402", 
+        "2008:404"
+    ], 
+    "death": "", 
+    "title": "Alleged blast at place of worship", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The police have launched a quiet inquiry into allegations that the sound of an explosion was heard from the precincts of a religious place of worship in the city recently . Some local people , who claimed to have heard the blast , informed the police . They alleged that some radical elements had tested a crude bomb at the site . No casualty or damage to property was reported . The police have received no complaint from the custodians of the place . They were likely to forensically examine the spot for bomb residue if more evidence emerged . Law enforcers were concerned that explosives acquired legitimately for quarrying and fabrication of fireworks were diverted for illegal purposes . Bursting crackers at places of worship was a means of livelihood for scores of people . Some of them stocked low-grade gunpowder without licence or even after their licence period expired . There was a pressing need to audit their stocks and , if necessary , review their licences , officials feel . The police detected 31 instances of violation of the Explosives Act in 2009 . The number this year till May is 10 . The officials said crude bombs used for criminal activities , including poaching , were fabricated chiefly from explosives sourced illegally from stone quarries . The police said illegal diversion of explosives from fireworks makers and quarry workers were not easy to monitor , given the large number of them in the district . The use of thotta , ' a crude dynamite used for indiscriminate and destructive fishing , has been a constant source of tension between fishermen at communally sensitive coastal localities . Investigators suspect that Nitro-glycerine based explosives , such as gelignite , were being secretly traded in the State despite a ban on the possession and sale of such substances by the Chief Controller of Explosives in 2004 . The ban was imposed chiefly to prevent such lethal explosives from falling into the hands of radical elements . Recently , the police told the judicial commission inquiring into the Cheriathura firing that forensic experts had found a crude unexploded bomb fashioned out of gelignite sticks carrying the brand name NEO GEL 90 at the scene of the clash . They deposed that the same brand of explosives was also found at the sites of the terrorist bombings in Hyderabad and Jaipur in 2007 and 2008 respectively . The attacks had claimed over 100 lives in those cities . The Forensic Department 's scene of occurrence report stated that it was a powerful bomb which on explosion was capable of demolishing an area of 10 sq m. OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Thiruvananthapuram", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "sound:12", 
+        "explosion:15", 
+        "blast:42", 
+        "radical:52", 
+        "crude bomb:57", 
+        "casualty:64", 
+        "damage:66", 
+        "property:68", 
+        "complaint:77", 
+        "bomb residue:94", 
+        "evidence:98", 
+        "fabrication:112", 
+        "gunpowder:142", 
+        "licence:144", 
+        "review:167", 
+        "Explosives Act in 2009:183", 
+        "crude:200", 
+        "stone quarries:218", 
+        "quarry:232", 
+        "district:248", 
+        "use:251", 
+        "crude dynamite:257", 
+        "fishing:264", 
+        "source:270", 
+        "tension:272", 
+        "suspect:282", 
+        "nitro-glycerine:284", 
+        "explosives:286", 
+        "gelignite:290", 
+        "state:298", 
+        "ban:301", 
+        "possession:304", 
+        "Chief Controller of Explosives:312", 
+        "cheriathura firing:349", 
+        "crude:357", 
+        "bomb:359", 
+        "gelignite:363", 
+        "brand name neo gel:367", 
+        "clash:377", 
+        "brand:384", 
+        "terrorist:395", 
+        "occurrence report:424", 
+        "bomb:432", 
+        "explosion:435"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/alleged-blast-at-place-of-worship/article518384.ece", 
+    "date": "16-07-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "gelignite", 
+        "crude dynamite", 
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Forensic Department", 
+            "419", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Assam", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Nadia", 
+            "45", 
+            "Accused Location"
+        ], 
+        [
+            "West Bengal", 
+            "47", 
+            "Accused Location"
+        ], 
+        [
+            "Masjid Talha", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Khagragarh", 
+            "56", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Burdwan", 
+            "58", 
+            "Event"
+        ], 
+        [
+            "Khagragarh", 
+            "188", 
+            "Accused Location"
+        ], 
+        [
+            "Guwahati", 
+            "220", 
+            "Neutral"
+        ], 
+        [
+            "Guwahati", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Gorchuk", 
+            "259", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Zia-ul-Haque", 
+            "40", 
+            "Accused"
+        ], 
+        [
+            "Rezaul Karim", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Yusuf Sheikh", 
+            "94", 
+            "Accused"
+        ], 
+        [
+            "Moulana Yusuf", 
+            "97", 
+            "Accused"
+        ], 
+        [
+            "Zia-ul-Haque", 
+            "135", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Shakil Ahmed", 
+            "194", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Sovan Mandal", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "Sujana Begam", 
+            "222", 
+            "Others"
+        ], 
+        [
+            "Sahanur Alom", 
+            "231", 
+            "Accused"
+        ], 
+        [
+            "Sujana", 
+            "248", 
+            "Accused"
+        ], 
+        [
+            "Sudhakar Singh", 
+            "275", 
+            "Comment"
+        ], 
+        [
+            "Sujana", 
+            "279", 
+            "Accused"
+        ], 
+        [
+            "Singh", 
+            "304", 
+            "Comment"
+        ], 
+        [
+            "Sahanur Alom", 
+            "321", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2 : 176"
+    ], 
+    "death": "", 
+    "title": "One More Held in Connection with Bengal's Burdwan Blast", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Kolkata", 
+        ""
+    ], 
+    "terror_group": [
+        "Jamiat-ul-Mujahideen"
+    ], 
+    "content": "The National Investigation Agency ( NIA ) today arrested one more person in connection with West Bengal 's Burdwan blast for allegedly indoctrinating youth for training by showing ` Jihadi ' videos related to Gujarat and Assam violence . Zia-ul-Haque , a resident of Nadia in West Bengal , was arrested from Masjid Talha in Khagragarh of Burdwan district where he was hiding and was traced by NIA with the help of central security agencies . According to NIA spokesperson , Haque was a close associate of absconding accused persons Rezaul Karim and Yusuf Sheikh alias Moulana Yusuf . During investigation , it was found that the accused was part of a Jihadi training module where he was a key motivator for trainees in the Jihadi ideology . The investigation into the role of Zia-ul-Haque showed that he was also closely associated with top Jamaat-ul - Mujahideen Bangladesh ( JMB ) commanders including absconding commander Sajid for whose arrest a cash reward of Rs . 10 lakh has been announced by the NIA . On October 2 , the blast had taken place inside a house at Khagragarh in which one person , Shakil Ahmed , died on the spot and another person Sovan Mandal died in hospital . Both were suspected to have terror links . Meanwhile in Guwahati , Sujana Begam , wife of Burdwan blast case accused Sahanur Alom , was arrested , police said today . The Guwahati city police had information about Sujana 's movements and tracked her to the ISBT in the Gorchuk area where they arrested her last night , Superintendent of Police ( Operations ) City Sudhakar Singh said . Sujana , wanted in the Special Operation Unit ( SOU ) case number 1/14 , was handed over to the SOU for further action , Singh said . She was with her minor son when police nabbed her , he added . Sahanur Alom is absconding and the NIA has recently declared a Rs . 5 lakh reward for anyone giving information leading to his arrest . OPEN", 
+    "injured": "", 
+    "org_unorg": "Unorganized", 
+    "O": [
+        "burdwan blast:9", 
+        "Jihadi:30", 
+        "Jihadi:113", 
+        "Jihadi ideology:126"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/one-more-held-in-connection-with-bengals-burdwan-blast-690237", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul - Mujahideen Bangladesh", 
+            "145", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "ISBT", 
+            "256", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "327", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "U.P.", 
+            "36", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "42", 
+            "Assoc Event Location"
+        ], 
+        [
+            "U.P.", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Gorakhpur", 
+            "149", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "159", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "176", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "185", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "194", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Nepal", 
+            "201", 
+            "Neutral"
+        ], 
+        [
+            "Basti", 
+            "203", 
+            "Neutral"
+        ], 
+        [
+            "Siddhartnagar", 
+            "205", 
+            "Neutral"
+        ], 
+        [
+            "UP", 
+            "208", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Salman", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "Chhotu", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "116", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "197", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:44", 
+        "March:104", 
+        "March 15:104", 
+        "May:151", 
+        "May 22:151", 
+        "November:163", 
+        "November 23:163", 
+        "November 23 , 2007:163", 
+        "May 13:169", 
+        "May:169", 
+        "2008:172", 
+        "July 26:187", 
+        "July:187", 
+        "2008:190", 
+        "September:234", 
+        "September 13:234", 
+        "2008:237"
+    ], 
+    "death": "", 
+    "title": "Police remand for blasts accused", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        "Accused was arrested for involvement in multiple serial bomb blast cases"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter NEW DELHI : An alleged Indian Mujahideen operative and accused in the Delhi bomb blasts , Salman alias Chhotu , who has been arrested by the Anti-Terrorist Squad ( ATS ) of the U.P. police , was brought to Delhi on Sunday and remanded to eight days police custody . Salman , who has been named an accused in five FIRs lodged by the Delhi police , was brought to the Capital by a team of Delhi Police Special Cell after obtaining his transit remand . He was produced before a duty magistrate who sent him to the police custody till March 15 . The police had sought ten days custodial interrogation of Salman to unearth the Indian Mujahideen network and interrogate him in connection with several blast cases . According to the U.P. police , Salman was also involved in the serial bomb blasts in Gorakhpur on May 22 , 2007 , blasts in the Varanasi civil court on November 23 , 2007 , the May 13 , 2008 bomb blasts in Jaipur , as well as the serial blasts in Ahmedabad on July 26 , 2008 . Following the Delhi blasts , Salman slipped away to Nepal via Basti and Siddhartnagar districts of UP . He carried a cash reward of Rs .1 lakh on his head announced the Delhi Police for his alleged involvement in the blasts on September 13 , 2008 . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "anti-terrorist:29", 
+        "anti-terrorist squad:29", 
+        "interrogation:114", 
+        "serial bomb:145"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/police-remand-for-blasts-accused/article724956.ece", 
+    "date": "08-03-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "Anti-Terrorist Squad", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Delhi police", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "Delhi Police Special Cell", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "120", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "224", 
+            "Others"
+        ]
+    ]
+}

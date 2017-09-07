@@ -1,0 +1,201 @@
+{
+    "LOC": [
+        [
+            "U.S", 
+            "31", 
+            "Neutral"
+        ], 
+        [
+            "Logar", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Kabul", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Azra", 
+            "166", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "173", 
+            "Event"
+        ], 
+        [
+            "Afghan", 
+            "208", 
+            "Neutral"
+        ], 
+        [
+            "Tehran", 
+            "237", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "255", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "271", 
+            "Neutral"
+        ], 
+        [
+            "Iran", 
+            "301", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Logar", 
+            "308", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "315", 
+            "Event"
+        ], 
+        [
+            "Khad Abad", 
+            "339", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Kunduz", 
+            "347", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Barack Obama", 
+            "33", 
+            "Comment"
+        ], 
+        [
+            "Zabihullah Mujahid", 
+            "186", 
+            "Comment"
+        ], 
+        [
+            "Hamid Karzai", 
+            "210", 
+            "Comment"
+        ], 
+        [
+            "Karzai", 
+            "231", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:18", 
+        "Friday:321"
+    ], 
+    "death": "", 
+    "title": "Afghan hospital bombing kills 20", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Logar province, Kabul", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Women and children among killed as maternity ward is hit A bomb at an Afghan hospital on Saturday killed at least 20 people including women and children , days after U.S. President Barack Obama said 10,000 U.S. forces would leave the country this year . The brazen suicide car bombing in Logar province , about 75 km south of the capital Kabul , also wounded over 20 people and officials warned the death toll could still rise . It was condemned in the strongest terms by the United Nations , which said the hospital 's maternity ward was badly damaged in the attack and many of the victims were women and children . Underlining the confusion and chaos at the site , the Ministry of Public Health initially put the death toll at 60 but later corrected its own figures . An eyewitness described horrific scenes of victims on fire and body parts scattered in all directions following the blast in the remote district of Azra , close to the border with Pakistan . The Taliban denied it was behind the attack , with spokesman Zabihullah Mujahid saying : We condemn this attack on a hospital ... whoever has done this wants to defame the Taliban . Afghan President Hamid Karzai condemned the attack as savage and ignorant in a statement released by his office . It came as Mr. Karzai told a counterterrorism summit in Tehran that militancy was on the rise in both his country and the region . Not only has Afghanistan not yet achieved peace and security but terrorism is expanding and threatening more than ever Afghanistan and the region , he told the opening session . The two-day summit is being attended by the heads of state of six regional countries , including Afghan neighbours Iran and Pakistan . The blast in Logar is the second major attack in Afghanistan in two days . On Friday , 10 people were killed by a bicycle bomb which went off in a busy bazaar in Khad Abad district of the northern province of Kunduz . AFP Suicide car bombing in Logar provinceKarzai in Tehran for terrorism meet Suicide car bombing in Logar province Karzai in Tehran for terrorism meet OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "maternity ward:7", 
+        "bomb:12", 
+        "afghan hospital:15", 
+        "killed:19", 
+        "u.s. president:31", 
+        "suicide car bombing:48", 
+        "logar province:52", 
+        "wounded:65", 
+        "death toll:73", 
+        "condemned:81", 
+        "maternity ward:96", 
+        "attack:103", 
+        "women and children:110", 
+        "public health:126", 
+        "death toll:131", 
+        "eyewitness:143", 
+        "victims:148", 
+        "blast:160", 
+        "remote district:163", 
+        "border:171", 
+        "attack:182", 
+        "spokesman zabihullah mujahid:185", 
+        "condemn:191", 
+        "attack:193", 
+        "hospital:196", 
+        "defame:204", 
+        "afghan president hamid karzai:208", 
+        "attack:214", 
+        "statement:221", 
+        "counterterrorism summit:234", 
+        "militancy:239", 
+        "rise:243", 
+        "peace:259", 
+        "security:261", 
+        "terrorism:263", 
+        "summit:284", 
+        "heads of state:290", 
+        "blast:306", 
+        "attack:313", 
+        "bicycle bomb:329", 
+        "bazaar:337", 
+        "khad abad district:339"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/afghan-hospital-bombing-kills-20/article2135928.ece", 
+    "date": "26-06-2011", 
+    "target": "Public Organization", 
+    "hot_spot": "Hospital Maternity Ward", 
+    "delivery_mod": "Four wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "U.S. forces", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "United Nations", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Ministry of Public Health", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "Taliban", 
+            "176", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "LOC": [
+        [
+            "Lahore railway station", 
+            "16", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "7 p.m.:51"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday evening:20"
+    ], 
+    "death": "2", 
+    "title": "Blast at Lahore railway station kills two", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least two persons were killed and 25 injured in a bomb explosion inside the Lahore railway station on Tuesday evening . The bomb was apparently placed in a bag left at the waiting area for the recently launched luxury train , Business Express . The blast took place around 7 p.m. on Platform No. 2 of the railway station . Given the tight security arrangements at the railway station , the biggest concern of the authorities was how the bomber managed to get the explosives past the various levels of screening in and around the premises . According to the police , about five kg of explosives had been packed into the bag . No organisation had claimed responsibility for the blast till at least two hours after the blast . OPEN", 
+    "injured": "25", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Islamabad", 
+        ""
+    ], 
+    "O": [
+        "bomb:24", 
+        "bag:30", 
+        "luxury train:40", 
+        "business:43", 
+        "business express:43", 
+        "express:44", 
+        "blast:47", 
+        "place:49", 
+        "platform no.:54", 
+        "railway station:59", 
+        "security:65", 
+        "railway station:69", 
+        "concern:74", 
+        "bomber:81", 
+        "bag:114", 
+        "responsibility:120", 
+        "blast:123"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/blast-at-lahore-railway-station-kills-two/article3351037.ece", 
+    "date": "24-04-2012", 
+    "target": "Railway Station", 
+    "hot_spot": "Lahore railway station bomb blast", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

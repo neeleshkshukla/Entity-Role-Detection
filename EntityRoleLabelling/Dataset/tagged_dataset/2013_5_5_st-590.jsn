@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "U.S.", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Maiwand", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Kabul", 
+            "87", 
+            "Neutral"
+        ], 
+        [
+            "Helmand province", 
+            "130", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kandahar", 
+            "56", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:8", 
+        "April 30:121"
+    ], 
+    "death": "", 
+    "title": "Five Americans killed in Afghanistan", 
+    "org_unorg": "", 
+    "terror_group": [
+        "TALIBAN ISLAMISTS"
+    ], 
+    "content": "Five U.S. service members were killed on Saturday by a roadside bomb in southern Afghanistan , the latest deadly attack against international troops since the Taliban announced the start of their spring offensive this week . The coalition did not disclose the location of the blast . However , a spokesman for the Governor of Kandahar said the patrol hit the roadside bomb in Maiwand district of the province , the spiritual birthplace of the Taliban . A public affairs official for the U.S.-led coalition in Kabul confirmed that all five were Americans . With the deaths , 47 members of the coalition have been killed so far this year including 32 Americans . Three British soldiers were killed on April 30 when their vehicle hit a bomb in Helmand province . AP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Kabul", 
+        ""
+    ], 
+    "O": [
+        "Five U.S. service members:1", 
+        "killed:6", 
+        "roadside bomb:11", 
+        "deadly attack:19", 
+        "international troops:22", 
+        "announced:27", 
+        "spring offensive:32", 
+        "coalition:38", 
+        "disclose:41", 
+        "blast:46", 
+        "patrol:59", 
+        "hit:60", 
+        "roadside bomb:62", 
+        "province:69", 
+        "spiritual birthplace:72", 
+        "public affairs official:79", 
+        "U.S.-led coalition:84", 
+        "confirmed:88", 
+        "Americans:93", 
+        "47 members:99", 
+        "coalition:103", 
+        "killed:106", 
+        "32 Americans:112", 
+        "Three British soldiers:115", 
+        "killed:119", 
+        "vehicle:125", 
+        "hit a bomb:126"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/five-americans-killed-in-afghanistan/article4685134.ece", 
+    "date": "04-05-2013", 
+    "target": "MILLITARY TROOPS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Taliban", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Taliban", 
+            "76", 
+            "Accused"
+        ], 
+        [
+            "AP", 
+            "133", 
+            "Others"
+        ]
+    ]
+}

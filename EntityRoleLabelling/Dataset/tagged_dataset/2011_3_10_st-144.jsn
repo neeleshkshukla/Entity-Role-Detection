@@ -1,0 +1,60 @@
+{
+    "LOC": [
+        [
+            "Meensurutti", 
+            "20", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:22"
+    ], 
+    "death": "", 
+    "title": "Explosive found", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A ball-like plastic pack containing explosive chemicals was reportedly found on the premises of the Government Higher Secondary School Meensurutti on Wednesday . Police sources said the substance meant for blasting in quarries could have mistakenly landed on the school premises . It was seized and taken for defusing by the Bomb Detection and Disposal Squad , police sources said . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Ariyalur", 
+        "Ariyalur", 
+        "Meensurutti"
+    ], 
+    "O": [
+        "plastic pack:3", 
+        "explosive chemicals:6", 
+        "premises:13", 
+        "blasting:31", 
+        "school:40", 
+        "school premises:40", 
+        "defusing:49", 
+        "Bomb Detection and Disposal Squad:52"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/explosive-found/article1524784.ece", 
+    "date": "10-03-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Government Higher Secondary School", 
+            "16", 
+            "Victim"
+        ]
+    ]
+}

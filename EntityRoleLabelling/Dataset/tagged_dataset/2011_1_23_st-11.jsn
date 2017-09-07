@@ -1,0 +1,72 @@
+{
+    "LOC": [
+        [
+            "Telipati", 
+            "24", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:21"
+    ], 
+    "death": "", 
+    "title": "KCP group claims responsibility for blast", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Kangleipak Communist Party (KCP)"
+    ], 
+    "content": "The Kangleipak Communist Party ( Military Council ) , Lalheiba group , has claimed responsibility for the bomb blast on Friday in the Telipati area here , inhabited by migrant workers and small traders . One woman was injured , and two houses and some vehicles were damaged . The outfit said it launched the attack to demand the enforcement of the Inner Line Permit System to check the flow of outsiders into the State . It also demanded that the Family Welfare Department withdraw the population control programmes . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Imphal West", 
+        "Imphal", 
+        "Telipati Area"
+    ], 
+    "O": [
+        "responsibility:15", 
+        "bomb blast:18", 
+        "telipati area:24", 
+        "migrant workers:30", 
+        "small traders:33", 
+        "vehicles:46", 
+        "damaged:48", 
+        "outfit:51", 
+        "attack:56", 
+        "enforcement:60", 
+        "inner line permit system:63", 
+        "flow:70", 
+        "outsiders:72", 
+        "demanded:79", 
+        "population control:87"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/kcp-group-claims-responsibility-for-blast/article1117877.ece", 
+    "date": "21-01-2011", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kangleipak Communist Party ( Military Council ) , Lalheiba group", 
+            "2", 
+            "Accused"
+        ], 
+        [
+            "Family Welfare Department", 
+            "82", 
+            "Others"
+        ]
+    ]
+}

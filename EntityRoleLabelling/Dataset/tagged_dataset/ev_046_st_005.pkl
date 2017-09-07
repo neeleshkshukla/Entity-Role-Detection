@@ -1,0 +1,527 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Guntur'
+p4
+aS'180'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Vijayawada'
+p8
+aS'182'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Tamil Nadu'
+p12
+aS'209'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Chennai'
+p16
+aS'279'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Tamil Nadu'
+p20
+aS'387'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Sri Lanka'
+p24
+aS'461'
+p25
+aS'Accused Location'
+p26
+aa(lp27
+S'Bangalore'
+p28
+aS'502'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'New Delhi'
+p32
+aS'507'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Chennai'
+p36
+aS'511'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Himachal Pradesh'
+p40
+aS'648'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Chennai'
+p44
+aS'780'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Hyderabad'
+p48
+aS'795'
+p49
+aS'Assoc Event Location'
+p50
+aa(lp51
+S'Tamil Nadu'
+p52
+aS'837'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Chennai'
+p56
+aS'873'
+p57
+aS'Event'
+p58
+aasS'PER'
+p59
+(lp60
+(lp61
+S'Swati'
+p62
+aS'177'
+p63
+aS'Victim'
+p64
+aa(lp65
+S'K Ramanujam'
+p66
+aS'212'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Ramanujam'
+p70
+aS'309'
+p71
+aS'Comment'
+p72
+aa(lp73
+S'Anoop Jaiswal'
+p74
+aS'348'
+p75
+aS'Comment'
+p76
+aa(lp77
+S'Jaiswal'
+p78
+aS'373'
+p79
+aS'Comment'
+p80
+aa(lp81
+S'J Jayalalithaa'
+p82
+aS'391'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Mallikarjun Kharge'
+p86
+aS'498'
+p87
+aS'Comment'
+p88
+aa(lp89
+S'S K Mittal'
+p90
+aS'621'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Anil Saxena'
+p94
+aS'634'
+p95
+aS'Comment'
+p96
+aa(lp97
+S'Sushilkumar Shinde'
+p98
+aS'642'
+p99
+aS'Others'
+p100
+aa(lp101
+S'Anil Goswami'
+p102
+aS'678'
+p103
+aS'Comment'
+p104
+aa(lp105
+S'Goswami'
+p106
+aS'717'
+p107
+aS'Comment'
+p108
+aa(lp109
+S'Arunendra Kumar'
+p110
+aS'747'
+p111
+aS'Comment'
+p112
+aa(lp113
+S'M Karunanidhi'
+p114
+aS'917'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Mohamed Zahir Hussain'
+p118
+aS'924'
+p119
+aS'Others'
+p120
+aasS'TIM'
+p121
+(lp122
+S'five minutes : 26'
+p123
+aS'today : 42'
+p124
+aS'7.05 AM : 82'
+p125
+aS'five minutes : 93'
+p126
+aS'ten minute : 128'
+p127
+aS'today : 900'
+p128
+asS'hot_setting'
+p129
+S''
+p130
+sS'DAT'
+p131
+(lp132
+sS'death'
+p133
+S'1'
+p134
+sS'title'
+p135
+S'Twin bomb blasts at Chennai railway station, one killed'
+p136
+sS'det_loc'
+p137
+(lp138
+S'India'
+p139
+aS'Tamil Nadu'
+p140
+aS'Chennai'
+p141
+aS'Chennai'
+p142
+aS'Chennai Cenral Railway Station'
+p143
+asS'terror_group'
+p144
+(lp145
+g130
+asS'content'
+p146
+VCHENNAI : A woman was killed and 14 others injured , two of them critically , when two low-intensity bombs exploded in a span of five minutes on two coaches of the Bangalore-Guwahati train at the busy Central Railway station here today . . . The Tamil Nadu government ordered a probe by its special CB-CID wing as police detained a suspect in connection with the blasts . . . The Guwahati-bound train arrived here late by about an hour at 7.05 AM at Platform No. 9 and in a span of five minutes , two low intensity bombs exploded in S4 and S5 coaches , police said . . . Passengers of the train , who were waiting to board on its onward journey after a ten minute halt , were jolted by the sound of the explosion and ran helter-skelter . . . A woman was killed in the blast while 14 others were injured . . . The 22-year-old victim , who lost her life in the explosion , has been identified as Swati travelling to Guntur via Vijayawada and the injured are undergoing treatment at the state-run Rajiv Gandhi hospital where doctors described their condition as `` out of danger '' . . . Tamil Nadu DGP K Ramanujam , who inspected the damaged S4 and S5 coaches of the train , said , `` City police , Railway Police , forensic experts and bomb disposal squads have been searching the coaches of the train . The coaches of other trains are also being checked '' , he said . . . `` It is not a major blast . It is suspected that Chennai could not have been target of those who were behind the blast because the train was running late . Some other location could have been the target '' , Ramanujam said . . . `` It is premature to say what kind of device was used in the blast . Damage to the train is not heavy , '' he added . . . DGP ( Elections ) Anoop Jaiswal said , `` We are picking up clues and any speculation on this is too premature '' , he said . . . Jaiswal said nobody has been arrested in connection with the blasts . . . Tamil Nadu Chief Minister J Jayalalithaa ordered CB-CID investigation into the blasts and announced Rs one lakh ex-gratia to the family of the deceased , besides Rs 50,000 each to the grievously wounded and Rs 25,000 to those with minor injuries . . . She condemned the explosions and directed police to nab those behind the act . . . The blasts came two days after the arrest of a terror suspect hailing from Sri Lanka and believed to have links with Indian terror modules . . . The Guwahati-bound train was cleared for onward journey after replacing the damaged coaches , Railway sources said . . . Railway Minister M Mallikarjun Kharge said in Bangalore that an expert from New Delhi will visit Chennai to find the cause behind the blasts and announced Rs one lakh ex-gratia to the family of the deceased . . . He also announced Rs 25,000 each to the seriously injured and Rs 5,000 each to those with minor injuries.Treatment expenses for the injured would be borne by the Railways , he said . . . `` Investigation is going on and both the railway board and Tamil Nadu Police are cooperating with each other . When we get the detailed report , we will be able to know the cause of the incident , '' he said . . . Commissioner Railway Safety ( southern circle ) S K Mittal will conduct an inquiry into the incident , Railway Spokesperson Anil Saxena said . . . Home Minister Sushilkumar Shinde , who is in Himachal Pradesh for campaigning for Congress candidates , said , `` I have directed my officials to provide all assistance to the state government . . . Union Home Secretary Anil Goswami told PTI , `` We are in touch with the Tamil Nadu government and have sought a report on the incident '' . . . Asked whether the blast can be termed as a terror attack , Goswami said it was too early to arrive at any conclusion . . . `` We are still waiting for the details , '' he said . Railway Board Chairman Arunendra Kumar said , `` It seems the blast took place under a berth '' . . . A team of National Security Guard and explosive experts is likely to be sent to Chennai to join in the investigation into the blast . . . NIA team from Hyderabad is being rushed to the blast site , official sources said . . . Southern Railway has set up a helpline to provide information to the public . The helpline number is 044-64502416 . . . Security has been tightened across Tamil Nadu particularly at airports , railway stations and bus terminals besides key installations like nuclear power stations in the wake of the bomb blasts . . . Search on all inbound and out-bound trains in Chennai Central station continued and police also resorted to similar action across the state which affected train schedules . . . Opposition parties including DMK and DMDK today slammed the state government for failing to maintain law and order . . . DMK president M Karunanidhi recalled the recent arrest of Mohamed Zahir Hussain , suspected of having links with Indian terror modules , and charged that lack of proper steps in the wake of his nabbing has led to such an incident . PTI .
+p147
+sS'injured'
+p148
+S'14'
+p149
+sS'org_unorg'
+p150
+g130
+sS'O'
+p151
+(lp152
+S'killed:6'
+p153
+aS'injured:10'
+p154
+aS'two low-intensity bombs:18'
+p155
+aS'bangalore-guwahati train:33'
+p156
+aS'central railway station:38'
+p157
+aS'blasts:67'
+p158
+aS'guwahati-bound train:72'
+p159
+aS'platform no. 9:85'
+p160
+aS'two low intensity bombs:96'
+p161
+aS's4 and s5 coaches:102'
+p162
+aS'explosion:139'
+p163
+aS'killed:149'
+p164
+aS'injured:157'
+p165
+aS'22-year-old victim:162'
+p166
+aS'explosion:171'
+p167
+aS's4 and s5 coaches:219'
+p168
+aS'target:284'
+p169
+aS'blast:291'
+p170
+aS'blast:328'
+p171
+aS'arrested:378'
+p172
+aS'blasts:383'
+p173
+aS'blasts:398'
+p174
+aS'rs one lakh ex-gratia:401'
+p175
+aS'explosions:434'
+p176
+aS'blasts:448'
+p177
+aS'terror suspect:457'
+p178
+aS'indian terror modules:469'
+p179
+aS'guwahati-bound train:476'
+p180
+aS'railway:489'
+p181
+aS'rs one lakh ex-gratia:521'
+p182
+aS'railways:562'
+p183
+aS'investigation:570'
+p184
+aS'railway board:577'
+p185
+aS'blast:755'
+p186
+aS'explosive experts:772'
+p187
+aS'investigation:785'
+p188
+aS'blast:788'
+p189
+aS'blast site:801'
+p190
+aS'southern railway:810'
+p191
+aS'helpline number:825'
+p192
+aS'044-64502416:828'
+p193
+aS'airports:841'
+p194
+aS'railway stations:843'
+p195
+aS'bus terminals:846'
+p196
+aS'bomb blasts:860'
+p197
+aS'central station:874'
+p198
+aS'indian terror modules:933'
+p199
+asS'unexpl'
+p200
+(lp201
+g130
+asS'ocassion'
+p202
+g130
+sS'link'
+p203
+S'http://articles.economictimes.indiatimes.com/2014-05-01/news/49552011_1_blasts-guwahati-bound-train-railway-police'
+p204
+sS'date'
+p205
+S'01-05-2014'
+p206
+sS'target'
+p207
+g130
+sS'hot_spot'
+p208
+g130
+sS'delivery_mod'
+p209
+g130
+sS'delivery_met'
+p210
+S'PLANTED'
+p211
+sS'expl'
+p212
+(lp213
+g130
+asS'ORG'
+p214
+(lp215
+(lp216
+S'Tamil Nadu government'
+p217
+aS'47'
+p218
+aS'Others'
+p219
+aa(lp220
+S'CB-CID'
+p221
+aS'56'
+p222
+aS'Others'
+p223
+aa(lp224
+S'Rajiv Gandhi hospital'
+p225
+aS'192'
+p226
+aS'Others'
+p227
+aa(lp228
+S'City police'
+p229
+aS'230'
+p230
+aS'Others'
+p231
+aa(lp232
+S'Railway Police'
+p233
+aS'233'
+p234
+aS'Others'
+p235
+aa(lp236
+S'forensic experts'
+p237
+aS'236'
+p238
+aS'Others'
+p239
+aa(lp240
+S'bomb disposal squads'
+p241
+aS'239'
+p242
+aS'Others'
+p243
+aa(lp244
+S'CB-CID'
+p245
+aS'394'
+p246
+aS'Others'
+p247
+aa(lp248
+S'Tamil Nadu Police'
+p249
+aS'580'
+p250
+aS'Others'
+p251
+aa(lp252
+S'Congress'
+p253
+aS'653'
+p254
+aS'Others'
+p255
+aa(lp256
+S'state government'
+p257
+aS'670'
+p258
+aS'Others'
+p259
+aa(lp260
+S'PTI'
+p261
+aS'681'
+p262
+aS'Others'
+p263
+aa(lp264
+S'Tamil Nadu government'
+p265
+aS'690'
+p266
+aS'Others'
+p267
+aa(lp268
+S'National Security Guard'
+p269
+aS'768'
+p270
+aS'Others'
+p271
+aa(lp272
+S'NIA'
+p273
+aS'792'
+p274
+aS'Others'
+p275
+aa(lp276
+S'DMK'
+p277
+aS'897'
+p278
+aS'Others'
+p279
+aa(lp280
+S'DMDK'
+p281
+aS'899'
+p282
+aS'Others'
+p283
+aa(lp284
+S'DMK'
+p285
+aS'915'
+p286
+aS'Others'
+p287
+aas.

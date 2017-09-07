@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "Anantapur", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Koukuntla village", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Uravakonda mandal", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Anantapur", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Guntakal", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "Uravakonda", 
+            "141", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vasanthamani", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Vasanthamani", 
+            "133", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:31", 
+        "Wednesday morning:31"
+    ], 
+    "death": "", 
+    "title": "Country bombs hidden in kitchen attic explode", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Staff Reporter Anantapur : Country made bombs hidden in the attic of a kitchen exploded reducing the concrete house to rubble at Koukuntla village in Uravakonda mandal of Anantapur on Wednesday morning . No casualties were reported as there was none in the house then . The house belongs to one Vasanthamani . Her husband , who died a couple of years ago , was reportedly involved in faction feuds and the bombs may have been hidden by him then . The walls of the rear portion of the house where others were living suffered cracks due to the impact of the blast . Paddy stored in the house was also destroyed completely . According to Guntakal DSP Victor efforts were on to ascertain the cause for the explosion . He said Vasanthamani feigned ignorance about the bombs . The Uravakonda police are investigating . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "Anantapur", 
+        "Uravakonda mandal", 
+        "Koukuntla village in Uravakonda mandal of Anantapur"
+    ], 
+    "O": [
+        "country made bombs:5", 
+        "concrete house:18", 
+        "explosion:129", 
+        "bombs:138"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/country-bombs-hidden-in-kitchen-attic-explode/article758278.ece", 
+    "date": "31-03-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

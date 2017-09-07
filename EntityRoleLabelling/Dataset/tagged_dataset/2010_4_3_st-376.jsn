@@ -1,0 +1,284 @@
+{
+    "LOC": [
+        [
+            "Uttar Pradesh", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Bani Park Courts Complex", 
+            "68", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "143", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "184", 
+            "Neutral"
+        ], 
+        [
+            "Kota", 
+            "217", 
+            "Neutral"
+        ], 
+        [
+            "Baran", 
+            "219", 
+            "Neutral"
+        ], 
+        [
+            "Jodhpur", 
+            "221", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Azamgarh", 
+            "275", 
+            "Neutral"
+        ], 
+        [
+            "Batla House", 
+            "294", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "297", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "317", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "347", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "349", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "398", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "519", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shahbaz Ahmed", 
+            "265", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Sarvar", 
+            "270", 
+            "Accused"
+        ], 
+        [
+            "Saif-ur-Rehman", 
+            "273", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Saif", 
+            "287", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Saif", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "Saif-ur-Rehman", 
+            "392", 
+            "Others"
+        ], 
+        [
+            "Sarvar", 
+            "431", 
+            "Others"
+        ], 
+        [
+            "Paikar Farooq", 
+            "434", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May:10", 
+        "May 2008:10", 
+        "April 10:26", 
+        "April:26", 
+        "December:74", 
+        "April:126", 
+        "April 10:126", 
+        "February:134", 
+        "February 22:134", 
+        "September:302", 
+        "September 19:302", 
+        "2008:305", 
+        "July 2008:404", 
+        "July:404", 
+        "Thursday:441", 
+        "May:521", 
+        "May 13:521", 
+        "2008:524"
+    ], 
+    "death": "", 
+    "title": "Jaipur blasts trial likely to begin on April 10", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent JAIPUR : The much-awaited trial in the May 2008 Jaipur serial blasts case is likely to begin in a Special Court here on April 10 , nearly 18 months after the accused were arrested from different towns in Uttar Pradesh following the controversial Batla House encounter in Delhi , in which two young men were killed . Though the Special Court was established at the Bani Park Courts Complex here in December last year and a presiding officer of the rank of District and Sessions Judge was appointed to it , it was not functioning for want of infrastructure and staff . Only recently , the Rajasthan High Court has ordered transfer of case files to it with the first hearing scheduled for April 10 . The Supreme Court had on February 22 issued notices to several States , including Rajasthan , asking them about the progress of special courts for speedy trial of terror cases . The notices were issued on a petition moved by nine accused in blasts cases across the country lodged in the Sabarmati Central Jail in Gujarat . The matter has been pending in the court of the Additional District Judge ( Fast Track ) No. 1 , where the trial in a related case of 13 persons from Kota , Baran and Jodhpur facing charges of involvement in the conspiracy for blasts and taking part in the activities of the banned Students Islamic Movement of India is in progress . The accused in the main case , in which eight FIRs have been registered , are Shahbaz Ahmed from Lucknow and Mohammed Sarvar and Saif-ur-Rehman from Azamgarh , who have been arraigned on the basis of interrogation of Mohammed Saif arrested from L-18 flat of Batla House in Delhi after the encounter on September 19 , 2008 in mysterious circumstances . The Anti-Terrorism Squad ( ATS ) of Rajasthan police has obtained arrest warrants against several others with the claim that they are absconding , while some of the accused face charges of involvement in bomb blasts in Delhi and Ahmedabad as well . Mohammed Saif is an accused in as many as 40 blasts-related FIRs . The prosecution has provided a list of 72 witnesses to the court here for recording of evidence with the charge-sheets filed against the accused . While Saif-ur-Rehman has since been shifted to Ahmedabad to face charges in the July 2008 blasts there , other accused languishing in the Central Jail here are mired in a prolonged legal battle to prove their innocence . Voluminous charge-sheets Sarvar 's counsel Paikar Farooq told The Hindu here on Thursday that the voluminous charge-sheets running into hundreds of pages contained documents such as post-mortem reports of the 70 victims of blasts , injury reports , X-ray reports and photographs of destruction caused by the powerful explosions . This material does not provide any direct evidence of involvement of the accused in the crime , he said . The ATS has neither recovered anything substantial from the accused nor provided concrete evidence to prove that they came to Jaipur on May 13 , 2008 , to carry out the blasts . The 72 witnesses who will depose and will be cross-examined include persons such as shopkeepers of the Walled City , policemen , owners of cycle stores , medical jurists , relatives of the deceased and the injured . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "correspondent:2", 
+        "jaipur serial:12", 
+        "jaipur serial blasts case:12", 
+        "serial:13", 
+        "special court:22", 
+        "Batla House encounter:46", 
+        "special court:62", 
+        "bani park:68", 
+        "complex:71", 
+        "officer:80", 
+        "district:85", 
+        "district and sessions judge:85", 
+        "sessions judge:87", 
+        "infrastructure:101", 
+        "staff:103", 
+        "transfer:114", 
+        "case:116", 
+        "hearing:123", 
+        "progress:149", 
+        "terror:157", 
+        "petition:166", 
+        "country:176", 
+        "sabarmati central:180", 
+        "jail:182", 
+        "matter:187", 
+        "court:193", 
+        "additional district judge:196", 
+        "fast track:200", 
+        "involvement:225", 
+        "conspiracy:228", 
+        "islamic movement:241", 
+        "progress:247", 
+        "saif-ur-rehman:273", 
+        "interrogation:285", 
+        "l-18:291", 
+        "encounter:300", 
+        "anti-terrorism:311", 
+        "anti-terrorism squad:311", 
+        "squad:312", 
+        "arrest:321", 
+        "claim:328", 
+        "involvement:342", 
+        "prosecution:367", 
+        "court:377", 
+        "evidence:382", 
+        "saif-ur-rehman:392", 
+        "central:414", 
+        "central jail:414", 
+        "battle:423", 
+        "innocence:427", 
+        "post-mortem:455", 
+        "injury:464", 
+        "destruction:472", 
+        "material:480", 
+        "evidence:486", 
+        "involvement:488", 
+        "anything:504", 
+        "concrete evidence:511", 
+        "walled city:549"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/jaipur-blasts-trial-likely-to-begin-on-april-10/article743481.ece", 
+    "date": "03-04-2010", 
+    "target": "", 
+    "hot_spot": "Jaipur serial blasts case", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajasthan High Court", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "Supreme Court", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Sabarmati Central Jail", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "240", 
+            "Accused"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "311", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "314", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "437", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "500", 
+            "Others"
+        ]
+    ]
+}

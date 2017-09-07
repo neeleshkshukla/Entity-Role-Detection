@@ -1,0 +1,157 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Peshawar", 
+            "27", 
+            "Accused Location"
+        ], 
+        [
+            "Afghan", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Afghan consul", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "Afghan", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "Peshawar", 
+            "204", 
+            "Accused Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sahibzada Anees", 
+            "110", 
+            "Victim"
+        ], 
+        [
+            "official Mohammad", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "Syed Mohammad Ibrahim Khel", 
+            "195", 
+            "Others"
+        ], 
+        [
+            "Mohammad Ibrahim Khel", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "Afghan consulate", 
+            "208", 
+            "Accused"
+        ], 
+        [
+            "Qazi Hilal", 
+            "226", 
+            "Others"
+        ], 
+        [
+            "Mohammad Idrees", 
+            "234", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "National election", 
+    "DAT": [
+        "Monday:29", 
+        "May 11:77", 
+        "April 11:93", 
+        "April:93"
+    ], 
+    "death": "8", 
+    "title": "Suicide bomber kills eight in Pakistan", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Peshawar", 
+        "Northwestern city"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A suicide bomber killed at least eight people and wounded 45 others when he rammed his motorcycle into a bus in Pakistan 's northwestern city of Peshawar on Monday , police said . Two staff at the Afghan consulate were among those killed in the attack , which police said targeted a top civil servant who heads the city 's administration . Escalating violence Violence has spiked in the nuclear-armed country ahead of national elections on May 11 with at least 56 people killed in attacks on politicians and political parties since April 11 , according to an AFP tally . Monday 's suicide bombing targeted senior official , Sahibzada Anees , who passed by shortly before the blast in the Jehangir Abad neighbourhood . `` At least eight people were killed and 45 others were wounded in the suicide bombing , '' police official Mohammad Faisal told AFP . `` The commissioner , who passed just a minute before from the road , was the target of the bombing , but he escaped unhurt as the bomber missed the target and struck his motorcycle into a passenger bus , '' Faisal said . Syed Mohammad Ibrahim Khel , Afghan consul general in Peshawar , confirmed two Afghan consulate employees who were standing at a bus stop were among those killed in the attack . Qazi Hilal worked as a business attache and Mohammad Idrees in the refugee section of the consulate , Khel said . Police said body parts of the suicide bomber were found at the site and hospital officials confirmed the death toll . Bomb squad officials said the explosives weighed up to six kilograms ( 13 pounds ) . AFP OPEN", 
+    "injured": "45", 
+    "org_unorg": "Organized", 
+    "O": [
+        "suicide bomber:2", 
+        "motorcycle:17", 
+        "bus:20", 
+        "city:25", 
+        "staff:35", 
+        "consulate:39", 
+        "attack:46", 
+        "top:53", 
+        "servant:55", 
+        "city:59", 
+        "administration:61", 
+        "violence violence:64", 
+        "country:71", 
+        "afp tally:99", 
+        "suicide bombing:104", 
+        "official:108", 
+        "blast:119", 
+        "jehangir abad:122", 
+        "neighbourhood:124", 
+        "suicide bombing:140", 
+        "official:145", 
+        "afp:149", 
+        "commissioner:153", 
+        "minute:159", 
+        "road:163", 
+        "target:167", 
+        "bombing:170", 
+        "bomber:178", 
+        "target:181", 
+        "motorcycle:185", 
+        "passenger bus:188", 
+        "consul:201", 
+        "consulate:209", 
+        "standing:213", 
+        "bus:216", 
+        "attack:224", 
+        "business attache:231", 
+        "refugee section:238", 
+        "consulate:242", 
+        "khel:244", 
+        "body:249", 
+        "suicide bomber:253", 
+        "site:259", 
+        "hospital:261", 
+        "death toll:265", 
+        "bomb squad:268", 
+        "six kilograms:277"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Elections", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/suicide-bomber-kills-eight-in-pakistan/article4668421.ece", 
+    "date": "29-04-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

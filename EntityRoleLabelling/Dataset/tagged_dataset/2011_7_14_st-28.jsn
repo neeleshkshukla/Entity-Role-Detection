@@ -1,0 +1,86 @@
+{
+    "LOC": [
+        [
+            "Gujarat", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "17", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narendra Modi", 
+            "4", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "73", 
+            "Comment"
+        ], 
+        [
+            "Modi", 
+            "122", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:11"
+    ], 
+    "death": "", 
+    "title": "It may be a rehearsal for a bigger attack: Modi", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Gandhinagar", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Gujarat Chief Minister Narendra Modi has expressed the apprehension that Wednesday 's serial bomb blasts in Mumbai could be a dress rehearsal for a bigger terror attack in the country . Expressing sympathy with the deceased and injured in the blasts , he said the initial information indicated that it was only a limited operation which could portend a more organised terror attack in the country in the near future . Mr. Modi hit out at the Congress-led United Progressive Alliance government at the Centre and said the terrorists were perhaps trying to prove that the present Indian government can do no harm to them and that they are still capable of causing immense damage to the country . But Mr. Modi reminded the terror groups that in case of any terror attack , the entire country would stand up as one person to uproot terrorism . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "Gujarat Chief Minister:1", 
+        "serial bomb blasts:13", 
+        "dress rehearsal:21", 
+        "terror attack:26", 
+        "blasts:41", 
+        "limited operation:54", 
+        "terror attack:62", 
+        "terrorists:89", 
+        "Indian government:98", 
+        "damage:115", 
+        "terror groups:125", 
+        "terror attack:132", 
+        "terrorism:146"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/it-may-be-a-rehearsal-for-a-bigger-attack-modi/article2225358.ece", 
+    "date": "14-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Congress-led United Progressive Alliance government", 
+            "78", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "LOC": [], 
+    "PER": [
+        [
+            "R.S. Krishnia", 
+            "71", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:75"
+    ], 
+    "death": "", 
+    "title": "A day after the blast,Delhi Police have no clue", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi", 
+        "Delhi High Court"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "More than 24 hours after a low-intensity explosive device went off near a car parked on a service lane outside the Delhi High Court , the Delhi Police had no clue to the identity of the group behind the blast or the motive . We are yet to conclusively identify the group behind the explosion . The matter is under investigation , Joint Commissioner of Police ( Special Cell ) R.S. Krishnia said on Thursday . Also , it is difficult to comment on the composition and nature of the bomb as we are awaiting the Central Forensic Science Laboratory 's report . The explosives kept in a case resembling a toilet-kit bag went off near Gate No. 7 . A battery-like object , wires and some nails were also found on the site by forensic experts . A white powder , suspected to be ammonium nitrate , was used . Several theories Though senior police officers remained tight-lipped about the investigation , sources said they were working on several theories . According to one theory , the bomb was meant to be planted in the court , but the culprit could not gain entry to the premises and abandoned the bag in the parking lot . Another is that the crude bomb was not meant to cause any major damage , and could be the handiwork of some disgruntled elements . Some eyewitnesses are reported to have told the police that they had seen a motorcyclist coming from the direction of the parked car minutes before the explosion . We have been trying to get the description of the motorcyclist the culprits could have come on foot or in a car . It seems the target has been chosen carefully as there are no closed-circuit television cameras there , a senior police officer said . Crude bomb was not meant to cause damage , feel policeCentral Forensic Science Lab report awaited Crude bomb was not meant to cause damage , feel police Central Forensic Science Lab report awaited OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "low-intensity explosive device:7", 
+        "car parked:14", 
+        "group:37", 
+        "blast:40", 
+        "motive:43", 
+        "group:52", 
+        "explosion:55", 
+        "investigation:61", 
+        "Joint Commissioner of Police ( Special Cell ):63", 
+        "bomb:91", 
+        "report:102", 
+        "explosives:105", 
+        "toilet-kit bag:112", 
+        "forensic experts:136", 
+        "ammonium nitrate:146", 
+        "investigation:162", 
+        "bomb:179", 
+        "court:187", 
+        "parking lot:205", 
+        "crude bomb:212", 
+        "motorcyclist:247", 
+        "parked car:254", 
+        "explosion:259", 
+        "motorcyclist:271", 
+        "closed-circuit television cameras:296", 
+        "crude bomb:307"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/a-day-after-the-blastdelhi-police-have-no-clue/article2053025.ece", 
+    "date": "27-05-2011", 
+    "target": "Government Building", 
+    "hot_spot": "Delhi High Court", 
+    "delivery_mod": "Four wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Ammonium Nitrate"
+    ], 
+    "ORG": [
+        [
+            "Delhi High Court", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "Central Forensic Science Laboratory", 
+            "97", 
+            "Others"
+        ]
+    ]
+}

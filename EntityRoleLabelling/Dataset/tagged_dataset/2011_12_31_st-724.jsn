@@ -1,0 +1,104 @@
+{
+    "LOC": [
+        [
+            "Quetta", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "southwest Pakistan", 
+            "34", 
+            "Event"
+        ], 
+        [
+            "Balochistan", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Arbab Karam Khan Road", 
+            "153", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shafeeq Mengal", 
+            "47", 
+            "Victim"
+        ], 
+        [
+            "Mir Muhammad Naseer Mengal", 
+            "57", 
+            "Comment"
+        ], 
+        [
+            "Nazir Kurd", 
+            "105", 
+            "Comment"
+        ], 
+        [
+            "Shafeeq Mengal", 
+            "117", 
+            "Victim"
+        ], 
+        [
+            "Shafeeq Mengal", 
+            "143", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:12"
+    ], 
+    "death": "9", 
+    "title": "Nine killed, 20 injured in Quetta blast", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Quetta", 
+        "Quetta city of southwest Pakistan"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least nine persons were killed and 20 others injured on Friday when a powerful car bomb went off outside the home of the son of a prominent politician in Quetta city of southwest Pakistan , police said . The blast ripped through the residence of Shafeeq Mengal , the son of former Balochistan Chief Minister Mir Muhammad Naseer Mengal . At least nine persons were killed , police officials told the media . Nearly 20 injured people , including a boy , were taken to a nearby hospital . Officials described the condition of two of the injured as serious . Police chief Nazir Kurd confirmed that the blast occurred outside the house of Mr. Shafeeq Mengal . Preliminary investigations showed the bomb was planted in a car , he said . There was no word on the fate of Mr. Shafeeq Mengal . The blast in a residential area near Arbab Karam Khan Road was heard from several kilometres away . It blew out the windows of nearby structures and caused severe damage to several buildings and shops . The blast also triggered a blaze and fire fighters were called in to extinguish it . The nature of the blast could not immediately be ascertained . No group claimed responsibility for the attack . Footage on television showed ambulances taking the injured , their clothes spattered with blood , to hospital . Security forces cordoned off the area thick black smoke was seen rising from a building . PTI Close to home of a politician son 's houseBomb was planted in a car Close to home of a politician son 's house Bomb was planted in a car OPEN", 
+    "injured": "20", 
+    "org_unorg": "Organized", 
+    "O": [
+        "powerful car bomb:15", 
+        "prominent politician:28", 
+        "quetta city:31", 
+        "blast:41", 
+        "residence:45", 
+        "former balochistan chief minister:53", 
+        "nearby hospital:88", 
+        "blast:110", 
+        "bomb:124", 
+        "planted:126", 
+        "car:129", 
+        "blast:183", 
+        "fire fighters:189", 
+        "blast:202", 
+        "footage:217", 
+        "hospital:233", 
+        "cordoned off:237"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/nine-killed-20-injured-in-quetta-blast/article2762258.ece", 
+    "date": "31-12-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "Four wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,212 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Samjhauta Express'
+p4
+aS'18'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Mecca Masjid'
+p8
+aS'32'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Nagda'
+p12
+aS'52'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Ujjain'
+p16
+aS'54'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Madhya Pradesh'
+p20
+aS'56'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Mecca Masjid'
+p24
+aS'113'
+p25
+aS'Assoc Event Location'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'Rajender Chaudhary'
+p30
+aS'12'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Chaudhary'
+p34
+aS'38'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Samundar Das'
+p38
+aS'43'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Chaudhary'
+p42
+aS'97'
+p43
+aS'Accused'
+p44
+aasS'TIM'
+p45
+(lp46
+S'Saturday : 49'
+p47
+asS'hot_setting'
+p48
+S''
+p49
+sS'DAT'
+p50
+(lp51
+S'2007 : 31'
+p52
+aS'Saturday : 49'
+p53
+asS'death'
+p54
+g49
+sS'title'
+p55
+S'NIA to bring Samjhauta case accused to Hyderabad'
+p56
+sS'det_loc'
+p57
+(lp58
+S'India'
+p59
+aS'Andhra Pradesh'
+p60
+ag49
+ag49
+ag49
+asS'terror_group'
+p61
+(lp62
+g49
+asS'content'
+p63
+S'The National Investigation Agency ( NIA ) is likely to bring Rajender Chaudhary , arrested in the Samjhauta Express blasts case , to the city shortly in connection with the 2007 Mecca Masjid bomb blast case . Chaudhary , also known as Samundar Das , was arrested on Saturday night at Nagda in Ujjain , Madhya Pradesh . He will be brought here on a prisoners transit warrant , sources in the NIA said . A police custody petition will be filed in a court here for his interrogation , they said . We will question Chaudhary with regard to the planting of two improvised explosive devices -LSB- IEDs -RSB- in the Mecca Masjid , a senior official said . OPEN'
+p64
+sS'injured'
+p65
+g49
+sS'org_unorg'
+p66
+S'Organized'
+p67
+sS'O'
+p68
+(lp69
+S'mecca masjid bomb blast case:32'
+p70
+aS'prisoners:66'
+p71
+aS'transit warrant:67'
+p72
+aS'custody petition:78'
+p73
+aS'court:85'
+p74
+aS'interrogation:89'
+p75
+aS'improvised explosive devices:105'
+p76
+aS'official:118'
+p77
+asS'unexpl'
+p78
+(lp79
+g49
+asS'ocassion'
+p80
+g49
+sS'link'
+p81
+S'http://www.thehindu.com/todays-paper/nia-to-bring-samjhauta-case-accused-to-hyderabad/article4208006.ece'
+p82
+sS'date'
+p83
+S'15-12-2012'
+p84
+sS'target'
+p85
+S'Public Transport'
+p86
+sS'hot_spot'
+p87
+S'Samjhauta Express'
+p88
+sS'delivery_mod'
+p89
+S'Train'
+p90
+sS'delivery_met'
+p91
+S'Planted'
+p92
+sS'expl'
+p93
+(lp94
+S'IED'
+p95
+asS'ORG'
+p96
+(lp97
+(lp98
+S'National Investigation Agency'
+p99
+aS'2'
+p100
+aS'Others'
+p101
+aa(lp102
+S'NIA'
+p103
+aS'6'
+p104
+aS'Others'
+p105
+aa(lp106
+S'NIA'
+p107
+aS'73'
+p108
+aS'Others'
+p109
+aa(lp110
+S'police'
+p111
+aS'77'
+p112
+aS'Others'
+p113
+aas.

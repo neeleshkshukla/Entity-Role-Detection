@@ -1,0 +1,143 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Arjun Nagar'
+p4
+aS'8'
+p5
+aS'Event'
+p6
+aa(lp7
+S'South Delhi'
+p8
+aS'11'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Delhi'
+p12
+aS'25'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+sS'TIM'
+p17
+(lp18
+S'10 p.m. : 67'
+p19
+asS'hot_setting'
+p20
+S''
+p21
+sS'DAT'
+p22
+(lp23
+S'Monday : 14'
+p24
+asS'death'
+p25
+S'0'
+p26
+sS'title'
+p27
+S'Minor blast in car'
+p28
+sS'det_loc'
+p29
+(lp30
+S'India'
+p31
+aS'Delhi'
+p32
+ag21
+aS'New Delhi'
+p33
+aS'Arjun Nagar in South Delhi district of Delhi'
+p34
+asS'terror_group'
+p35
+(lp36
+g21
+asS'content'
+p37
+S'A minor blast in a car at Arjun Nagar in South Delhi on Monday evening created panic in the area . According to a Delhi Police spokesperson , preliminary investigations suggested that the radiator of the car exploded because of the heat . Though no injuries were reported , the bomb disposal squad and the forensic team were called in . The incident took place around 10 p.m. OPEN'
+p38
+sS'injured'
+p39
+g26
+sS'org_unorg'
+p40
+S'UNORGANISED'
+p41
+sS'O'
+p42
+(lp43
+S'minor blast:2'
+p44
+aS'car:6'
+p45
+aS'panic:17'
+p46
+aS'preliminary investigations:29'
+p47
+aS'radiator:34'
+p48
+aS'heat:42'
+p49
+aS'no injuries:45'
+p50
+aS'bomb disposal squad:51'
+p51
+aS'forensic team:56'
+p52
+asS'unexpl'
+p53
+(lp54
+S'CAR RADIATOR'
+p55
+asS'ocassion'
+p56
+g21
+sS'link'
+p57
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/minor-blast-in-car/article3571384.ece'
+p58
+sS'date'
+p59
+S'25-06-2012'
+p60
+sS'target'
+p61
+g21
+sS'hot_spot'
+p62
+g21
+sS'delivery_mod'
+p63
+S'FOUR WHEELER'
+p64
+sS'delivery_met'
+p65
+S'ACCIDENTAL'
+p66
+sS'expl'
+p67
+(lp68
+g21
+asS'ORG'
+p69
+(lp70
+(lp71
+S'Delhi Police'
+p72
+aS'25'
+p73
+aS'Others'
+p74
+aas.

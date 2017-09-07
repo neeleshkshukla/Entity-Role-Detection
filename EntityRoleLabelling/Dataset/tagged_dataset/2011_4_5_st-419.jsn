@@ -1,0 +1,171 @@
+{
+    "LOC": [
+        [
+            "Narikatteri", 
+            "29", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Nadapuram", 
+            "31", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Chelakkad", 
+            "44", 
+            "Accused Location"
+        ], 
+        [
+            "Nadapuram", 
+            "57", 
+            "Neutral"
+        ], 
+        [
+            "Narikatteri", 
+            "134", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Nadapuram", 
+            "280", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "E. Kunhammed", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "K. Ismail", 
+            "102", 
+            "Accused"
+        ], 
+        [
+            "P.K. Dhanjayababu", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "C.M. Pradeepkumar", 
+            "173", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:11", 
+        "February:33"
+    ], 
+    "death": "5", 
+    "title": "Nadapuram bomb blast case: IUML activist held", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "The Kozhikode Crime Branch - Crime Investigation Department , on Monday , arrested an Indian Union Muslim League ( IUML ) activist in connection with bomb blast at Narikatteri at Nadapuram in February . The police identified the person as E. Kunhammed of Chelakkad . He was produced in the Judicial First Class Magistrate Court at Nadapuram and remanded in judicial custody for 14 days . He had been charged under Section 3 ( Punishment for causing explosion likely to endanger life or property ) of the Explosive Substance Act , the police said . Earlier , the team had arrested K. Ismail , an IUML sympathiser . Five IUML activists were killed and three seriously injured when powerful steel bombs went off at a secret bomb-making facility at an uninhabited house at Narikatteri . The police suspected that the activists had planned to instigate violence during the forthcoming Assembly elections . A 15-member Crime Branch team , headed by Circle Inspector P.K. Dhanjayababu and supervised by Crime Branch Superintendent of Police C.M. Pradeepkumar , is investigating the case . More than 60 persons had been interrogated . The team had not been able to gather any details from the injured persons . They were recuperating from their injuries , the police said . The investigators are also awaiting a report from the Forensic Science Laboratory . The politically and communally sensitive regions in the limits of the Nadapuram police station started witnessing large-scale violence after the elections to the local bodies . The Nadapuram police station alone recorded 100 rioting cases and 30 arms and explosives cases last year . Police awaiting forensic report 100 rioting cases in Nadapuram last year OPEN", 
+    "injured": "3", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Kozhikode", 
+        "Kozhikode", 
+        ""
+    ], 
+    "O": [
+        "activist:22", 
+        "bomb blast:26", 
+        "custody:62", 
+        "section:72", 
+        "explosion:78", 
+        "explosive substance act:88", 
+        "arrested:101", 
+        "activists:111", 
+        "killed:113", 
+        "injured:117", 
+        "bombs:121", 
+        "bomb-making:127", 
+        "activists:141", 
+        "violence:146", 
+        "assembly elections:150", 
+        "crime branch team:155", 
+        "circle inspector:161", 
+        "crime branch:168", 
+        "superintendent of police:170", 
+        "interrogated:187", 
+        "injured:201", 
+        "injuries:209", 
+        "report:221", 
+        "violence:245", 
+        "elections:248", 
+        "rioting:261", 
+        "arms and explosives:265"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/nadapuram-bomb-blast-case-iuml-activist-held/article1601059.ece", 
+    "date": "05-04-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kozhikode Crime Branch", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Crime Investigation Department", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Indian Union Muslim League", 
+            "15", 
+            "Accused"
+        ], 
+        [
+            "IUML", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "Judicial First Class Magistrate Court", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "IUML", 
+            "106", 
+            "Accused"
+        ], 
+        [
+            "IUML", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "Forensic Science Laboratory", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Nadapuram police station", 
+            "239", 
+            "Others"
+        ], 
+        [
+            "Nadapuram police station", 
+            "255", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "121", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "128", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "135", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "August , 2012 : 116", 
+        "February , 2011 : 123"
+    ], 
+    "death": "16", 
+    "title": "A week after twin blasts, police groping in dark", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "HYDERABAD", 
+        "Dilsukhnagar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Even after six days after the twin explosions snuffed out 16 lives in the citys densely populated Dilsukhnagar , the leads available are taking the investigators nowhere . With no terror group claiming responsibility for the deadly terror strike and the lack of clinching evidence to indicate the involvement of pan-Islamic organisations or right wing terror outfits , forensic data became the soul source to draw inferences . The bomb signature - usage of factory-made ammonium nitrate like supergel and detonation with timers - swung the needle of suspicion towards the banned Indian Mujahideen ( IM ) , which is believed to behind similar blasts earlier . The latest terror attacks in IMs account - August , 2012 , in Pune and February , 2011 , in Mumbai - are akin to those at Dilsukhnagar since improvised explosive devices ( IEDs ) were detonated with timers . Compelled by this evidence , agencies probing the incident are racking their brains to identify as to who could have engineered the blasts . But they are not prepared to name the IM as the organisation behind the attacks . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "twin explosions:7", 
+        "clinching evidence:44", 
+        "wing terror:55", 
+        "forensic data:59", 
+        "needle:87", 
+        "IMs:113", 
+        "improvised explosive devices:137", 
+        "agencies probing:153"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/a-week-after-twin-blasts-police-groping-in-dark/article4457368.ece", 
+    "date": "22-02-2013", 
+    "target": "COMMERCIAL AND RESIDENTIAL CENTERS", 
+    "hot_spot": "Dilsukhnagar", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "AMMONIUM NITRATE", 
+        "DETONATING", 
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "pan-Islamic", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "93", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "96", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "180", 
+            "Others"
+        ]
+    ]
+}

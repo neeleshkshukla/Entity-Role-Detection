@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "Cuttack", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Kaliaboda", 
+            "102", 
+            "Event"
+        ], 
+        [
+            "Sikharpur", 
+            "281", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kartik Behera", 
+            "164", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:11", 
+        "Saturday:113", 
+        "Saturday:187", 
+        "Saturday:264", 
+        "Friday evening:284"
+    ], 
+    "death": "", 
+    "title": "No clue yet in shop blast case", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "Cuttak", 
+        "Cuttack", 
+        "Kaliaboda area of the city under Chauliaganj police station"
+    ], 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "The Commissionerate police are still groping in the dark about Saturday 's blast that took place in a shop in Cuttack in which at least seven persons suffered injuries while the shop owner is still absconding . Senior police officers of the city are silent over the findings of the investigations but scientific experts are convinced that crude bombs went off during preparation stage . We have retrieved some bomb residues from the spot which indicate that bombs were prepared inside the shop . At least two powerful bombs went off in a shop dealing with cell phone recharge vouchers at Kaliaboda area of the city under Chauliaganj police station late on Saturday evening . The bombs were so potent that at least seven persons standing at a distance from the shop received grievous injuries . While the police claim that there was nobody in the shop when the bombs exploded , they have however , not yet traced the shop owner , Kartik Behera of the locality . Locals maintain that the shop had been closed for over a month and it opened only on Saturday morning . They suspect that the shop owner was involved in preparing the bombs and the explosives were prepared in the shop clandestinely . The local police began investigating the matter after registering a case and they claim that they are looking into all possible angles to ascertain the motive , including the claims made by some natives that the shop was used for making bombs . People panicky Meanwhile , panic gripped the area after Saturday 's incident which came just within 24 hours of a firing incident that happened in nearby Sikharpur area on Friday evening . A works contractor had narrowly escaped when an accomplice of an extortionist fired at him right in front of his house . While the bullet had missed the contractor , it had hit an aquarium stationed nearby causing a splinter injury to an old woman sitting beside it . At least seven injured ; shop-owner absconding Scientific experts say that crude bombs went off during preparation stage OPEN", 
+    "injured": "7", 
+    "org_unorg": "Organized", 
+    "O": [
+        "Commissionerate police:2", 
+        "blast:13", 
+        "shop:19", 
+        "shop owner:32", 
+        "absconding:36", 
+        "officers:40", 
+        "crude bombs:58", 
+        "preparation stage:63", 
+        "bomb residues:70", 
+        "bombs:78", 
+        "prepared:80", 
+        "shop:83", 
+        "powerful bombs:88", 
+        "shop:94", 
+        "cell phone:97", 
+        "cell phone recharge vouchers:97", 
+        "Kaliaboda area:102", 
+        "shop:132", 
+        "shop:147", 
+        "bombs exploded:150", 
+        "shop owner:161", 
+        "shop:174", 
+        "suspect:191", 
+        "shop owner:194", 
+        "preparing the bombs:199", 
+        "explosives:204", 
+        "shop:209", 
+        "claim:225", 
+        "motive:237", 
+        "shop:248", 
+        "making bombs:252", 
+        "panic:259", 
+        "firing incident:275", 
+        "Sikharpur area:281", 
+        "contractor:289", 
+        "extortionist:298", 
+        "fired:299", 
+        "bullet:311", 
+        "contractor:315", 
+        "aquarium:321", 
+        "splinter injury:326", 
+        "shop-owner:341", 
+        "crude bombs:347", 
+        "preparation stage:352"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/no-clue-yet-in-shop-blast-case/article2524760.ece", 
+    "date": "10-10-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Chauliaganj police station", 
+            "108", 
+            "Others"
+        ]
+    ]
+}

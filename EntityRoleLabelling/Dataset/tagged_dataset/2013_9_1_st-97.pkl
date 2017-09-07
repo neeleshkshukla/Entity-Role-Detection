@@ -1,0 +1,459 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'India'
+p4
+aS'62'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Azamgarh'
+p8
+aS'106'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Uttar Pradesh'
+p12
+aS'108'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'UAE'
+p16
+aS'139'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Gulf country'
+p20
+aS'190'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'India'
+p24
+aS'201'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'IGI Airport'
+p28
+aS'214'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Delhi'
+p32
+aS'217'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Saudi Arabia'
+p36
+aS'223'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Saudi Arabia'
+p40
+aS'235'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Karachi'
+p44
+aS'265'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Mumbai'
+p48
+aS'271'
+p49
+aS'Assoc Event Location'
+p50
+aa(lp51
+S'India'
+p52
+aS'310'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Saudi Arabia'
+p56
+aS'322'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Indo-Nepal border'
+p60
+aS'377'
+p61
+aS'Neutral'
+p62
+aasS'PER'
+p63
+(lp64
+(lp65
+S'Yasin Bhatkal'
+p66
+aS'24'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Yasin Bhatkal'
+p70
+aS'92'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Asadullah Akhtar'
+p74
+aS'100'
+p75
+aS'Assoc Accused'
+p76
+aa(lp77
+S'Adbul Sattar'
+p78
+aS'131'
+p79
+aS'Assoc Accused'
+p80
+aa(lp81
+S'Sayed Zabiuddin Ansari'
+p82
+aS'207'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Abu Jundal'
+p86
+aS'211'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Fasih Mahmood'
+p90
+aS'327'
+p91
+aS'Assoc Accused'
+p92
+aa(lp93
+S'Abdul Karim Tunda'
+p94
+aS'369'
+p95
+aS'Assoc Accused'
+p96
+aa(lp97
+S'Tunda'
+p98
+aS'392'
+p99
+aS'Assoc Accused'
+p100
+aa(lp101
+S'Dawood Ibrahim'
+p102
+aS'403'
+p103
+aS'Assoc Accused'
+p104
+aasS'TIM'
+p105
+(lp106
+sS'hot_setting'
+p107
+S''
+p108
+sS'DAT'
+p109
+(lp110
+S'2007 : 193'
+p111
+aS'May : 198'
+p112
+aS'26/11 : 270'
+p113
+aS'May 2012 : 307'
+p114
+aS'1990s : 390'
+p115
+asS'death'
+p116
+g108
+sS'title'
+p117
+S'Arrest of IM operatives a rare success for intelligence agencies'
+p118
+sS'org_unorg'
+p119
+g108
+sS'terror_group'
+p120
+(lp121
+S'INDIAN MUJAHIDEEN'
+p122
+asS'content'
+p123
+S'The arrest of some important Indian Mujahideen ( IM ) operatives in quick succession , the latest being one of its alleged co-founder Yasin Bhatkal , is being seen as a major success for Indian intelligence agencies , particularly the Intelligence Bureau ( IB ) , in dismantling the terror group that is responsible for some of major terror attacks across India in recent years . Through these arrests , the agencies have managed to dent funding and operational capabilities of the terror group to great extend . For instance , Yasin Bhatkal , who was arrested along with Asadullah Akhtar , who hails from Azamgarh in Uttar Pradesh , were IMs main operative who were expert in bomb-making and in carrying out operations . Similarly , another IM terrorist Adbul Sattar , who was deported by the UAE earlier this month , used to hold camps and was a hawala operative . He trained IM operatives and arranged funds for the organisation , says the National Investigation Agency ( NIA ) charge sheet . But after his involvement in terror cases was revealed , he fled to the Gulf country in 2007 . Then , in May last year India managed to get hold of Sayed Zabiuddin Ansari alias Abu Jundal from IGI Airport in Delhi when he was travelling from Saudi Arabia on a Pakistani passport . He was reportedly deported from Saudi Arabia , though the government denied it . Apart from other cases of terror , he is alleged to be one of the terrorists who were sitting in the Karachi control room and coordinating 26/11 Mumbai terror attacks . He was an important LeT operative who was also having close links with the IM , and his job was to raise cadre and sources funds for terror operations . Again in May 2012 , India registered a diplomatic victory of sorts when it managed to convince Saudi Arabia government to deport Fasih Mahmood , another alleged IM operative who was involved in at least two bomb blasts . He was not only an alleged indoctrinator for the terror group but also a fund raiser . Another important arrest this month was that of Abdul Karim Tunda from a location near the Indo-Nepal border . An LeT operative involved in many bomb blasts in the 1990s , Tunda was also close to one of Indias most wanted terrorist Dawood Ibrahim . He was reportedly working in a madarsa and looking for people to recruit in his organisation besides arranging for funds . These arrests have been made possible due to intelligence gathering and sharing between various intelligence and security agencies ... The coordination between of the IB and the Research & Analysis Wing proved to be very crucial in these arrests , said a senior intelligence official . OPEN'
+p124
+sS'injured'
+p125
+g108
+sS'det_loc'
+p126
+(lp127
+S'India'
+p128
+ag108
+ag108
+ag108
+ag108
+asS'O'
+p129
+(lp130
+S'The:1'
+p131
+aS'quick succession:13'
+p132
+aS'co-founder Yasin Bhatkal:23'
+p133
+aS'major success:32'
+p134
+aS'Indian intelligence agencies:35'
+p135
+aS'dismantling the terror group:48'
+p136
+aS'major terror attacks:58'
+p137
+aS'arrests:69'
+p138
+aS'managed to dent funding:74'
+p139
+aS'operational capabilities:79'
+p140
+aS'terror group:83'
+p141
+aS'great extend:86'
+p142
+aS'arrested:97'
+p143
+aS'bomb-making:119'
+p144
+aS'operations:124'
+p145
+aS'hold camps:146'
+p146
+aS'hawala operative:151'
+p147
+aS'arranged funds:159'
+p148
+aS'organisation:163'
+p149
+aS'charge sheet:173'
+p150
+aS'terror cases:181'
+p151
+aS'Pakistani passport:227'
+p152
+aS'cases of terror:247'
+p153
+aS'terrorists:259'
+p154
+aS'Karachi control room:265'
+p155
+aS'Mumbai terror attacks:271'
+p156
+aS'raise cadre:296'
+p157
+aS'sources funds:299'
+p158
+aS'terror operations:302'
+p159
+aS'diplomatic victory of sorts:313'
+p160
+aS'bomb blasts:341'
+p161
+aS'alleged indoctrinator:349'
+p162
+aS'terror group:353'
+p163
+aS'fund raiser:358'
+p164
+aS'bomb blasts:386'
+p165
+aS'Indias most wanted terrorist Dawood Ibrahim:399'
+p166
+aS'madarsa:412'
+p167
+aS'recruit:418'
+p168
+aS'organisation:421'
+p169
+aS'funds:425'
+p170
+aS'arrests:428'
+p171
+aS'intelligence gathering:435'
+p172
+aS'sharing:438'
+p173
+aS'intelligence and security agencies:441'
+p174
+aS'senior intelligence official:469'
+p175
+asS'unexpl'
+p176
+(lp177
+g108
+asS'ocassion'
+p178
+g108
+sS'link'
+p179
+S'http://www.thehindu.com/todays-paper/tp-national/arrest-of-im-operatives-a-rare-success-for-intelligence-agencies/article5081347.ece'
+p180
+sS'date'
+p181
+S'01-09-2013'
+p182
+sS'target'
+p183
+g108
+sS'hot_spot'
+p184
+g108
+sS'delivery_mod'
+p185
+g108
+sS'delivery_met'
+p186
+g108
+sS'expl'
+p187
+(lp188
+g108
+asS'ORG'
+p189
+(lp190
+(lp191
+S'Indian Mujahideen'
+p192
+aS'6'
+p193
+aS'Accused'
+p194
+aa(lp195
+S'IM'
+p196
+aS'9'
+p197
+aS'Accused'
+p198
+aa(lp199
+S'Intelligence Bureau'
+p200
+aS'41'
+p201
+aS'Others'
+p202
+aa(lp203
+S'IMs'
+p204
+aS'112'
+p205
+aS'Others'
+p206
+aa(lp207
+S'IM'
+p208
+aS'129'
+p209
+aS'Others'
+p210
+aa(lp211
+S'IM'
+p212
+aS'156'
+p213
+aS'Others'
+p214
+aa(lp215
+S'National Investigation Agency'
+p216
+aS'167'
+p217
+aS'Others'
+p218
+aa(lp219
+S'NIA'
+p220
+aS'171'
+p221
+aS'Others'
+p222
+aa(lp223
+S'LeT'
+p224
+aS'279'
+p225
+aS'Others'
+p226
+aa(lp227
+S'IM'
+p228
+aS'289'
+p229
+aS'Others'
+p230
+aa(lp231
+S'IM'
+p232
+aS'332'
+p233
+aS'Others'
+p234
+aa(lp235
+S'LeT'
+p236
+aS'381'
+p237
+aS'Others'
+p238
+aa(lp239
+S'IB'
+p240
+aS'451'
+p241
+aS'Others'
+p242
+aa(lp243
+S'Research & Analysis Wing'
+p244
+aS'454'
+p245
+aS'Others'
+p246
+aas.

@@ -1,0 +1,390 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'India'
+p4
+aS'1'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Mumbai'
+p8
+aS'24'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Pakistan'
+p12
+aS'138'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Mumbai'
+p16
+aS'211'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Pakistan'
+p20
+aS'317'
+p21
+aS'Accused Location'
+p22
+aa(lp23
+S'Islamabad'
+p24
+aS'326'
+p25
+aS'Accused Location'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'Yakub Memon'
+p30
+aS'39'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Tiger Memon'
+p34
+aS'50'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Sanjay Dutt'
+p38
+aS'96'
+p39
+aS'Assoc Accused'
+p40
+aa(lp41
+S'P. Sathashivam'
+p42
+aS'118'
+p43
+aS'Comment'
+p44
+aa(lp45
+S'Memon'
+p46
+aS'122'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Dawood Ibrahim'
+p50
+aS'128'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Sathashivam'
+p54
+aS'165'
+p55
+aS'Comment'
+p56
+aa(lp57
+S'Yakub'
+p58
+aS'234'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Essa'
+p62
+aS'243'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Yusuf'
+p66
+aS'245'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Rubina'
+p70
+aS'248'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Tiger Memon'
+p74
+aS'288'
+p75
+aS'Accused'
+p76
+aa(lp77
+S'Dawood Ibrahim'
+p78
+aS'291'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Memon'
+p82
+aS'328'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Dawood Ibrahim'
+p86
+aS'331'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Memon'
+p90
+aS'355'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Dawood Ibrahim'
+p94
+aS'358'
+p95
+aS'Accused'
+p96
+aasS'TIM'
+p97
+(lp98
+sS'hot_setting'
+p99
+S''
+p100
+sS'DAT'
+p101
+(lp102
+S'Thursday : 10'
+p103
+aS'1993 : 26'
+p104
+aS'March 12 , 1993 : 199'
+p105
+aS'1993 : 308'
+p106
+asS'death'
+p107
+S'257'
+p108
+sS'title'
+p109
+S"5 years for Sanjay Dutt, it's death for Yakub Memon"
+p110
+sS'org_unorg'
+p111
+S'ORGANISED'
+p112
+sS'terror_group'
+p113
+(lp114
+S"MUMBAI'S UNDERWORLD"
+p115
+asS'content'
+p116
+S"India 's top court upheld the death penalty on Thursday for a mastermind of a series of bombings which killed 257 people in Mumbai in 1993 , the deadliest set of attacks in the country 's history . Yakub Memon , brother of the alleged main plotter and fugitive Tiger Memon , was the only one of 11 convicts to see his death sentence upheld by the Supreme Court for his role in the blasts which wounded more than 800 people . The judges also handed down a five-year term for the prominent Bollywood actor Sanjay Dutt for possessing illegal weapons bought from gangsters accused of orchestrating the bombings . Announcing the sentences , Supreme Court judge P. Sathashivam said the Memon brothers and another suspect , Dawood Ibrahim , who is said to be living in Pakistan , `` were archers and rest of the appellants were arrows in their hands '' . `` They were the architects of the blasts , '' Sathashivam , one of two judges presiding over the case , said . The remaining convicts who had appealed against the death penalty saw their sentences commuted to life imprisonment . The attacks on March 12 , 1993 , were believed to have been staged by Mumbai 's Muslim-dominated underworld in retaliation for anti-Muslim violence that left more than 1,000 dead in the city a few months earlier . Yakub , an accountant by profession , his brothers Essa and Yusuf and sister-in-law Rubina were all convicted for their involvement in the serial blasts at 13 different locations . The Bombay Stock Exchange , the offices of the national carrier Air India and the luxury Sea Rock hotel were among the targets . Tiger Memon and Dawood Ibrahim , the other alleged masterminds of the attacks , have been on the run since 1993 . Indian investigators say they were helped by Pakistan 's intelligence service , a charge denied by Islamabad . Memon brothers and Dawood Ibrahim were the architects of the blasts `` Remaining convicts who had appealed against death penalty saw their sentences commuted to life imprisonment Memon brothers and Dawood Ibrahim were the architects of the blasts '' Remaining convicts who had appealed against death penalty saw their sentences commuted to life imprisonment OPEN"
+p117
+sS'injured'
+p118
+S'800'
+p119
+sS'det_loc'
+p120
+(lp121
+S'India'
+p122
+aS'Maharashtra'
+p123
+aS'Mumbai-City'
+p124
+aS'Bombay'
+p125
+aS'The Bombay Stock Exchange, the offices of Air India, and Sea Rock hotel in Bombay'
+p126
+asS'O'
+p127
+(lp128
+S'death penalty:7'
+p129
+aS'mastermind:13'
+p130
+aS'series of bombings:16'
+p131
+aS'deadliest:29'
+p132
+aS'attacks:32'
+p133
+aS"country 's history:35"
+p134
+aS'plotter and fugitive:47'
+p135
+aS'11 convicts:58'
+p136
+aS'death sentence:63'
+p137
+aS'blasts:75'
+p138
+aS'judges:84'
+p139
+aS'five-year term:89'
+p140
+aS'bollywood actor:94'
+p141
+aS'illegal weapons:100'
+p142
+aS'gangsters:104'
+p143
+aS'bombings:109'
+p144
+aS'sentences:113'
+p145
+aS'suspect:126'
+p146
+aS'archers:142'
+p147
+aS'architects:159'
+p148
+aS'blasts:162'
+p149
+aS'death penalty:186'
+p150
+aS'sentences:190'
+p151
+aS'life imprisonment:193'
+p152
+aS'attacks:197'
+p153
+aS'staged:209'
+p154
+aS'muslim-dominated underworld:213'
+p155
+aS'retaliation:216'
+p156
+aS'anti-muslim violence:218'
+p157
+aS'serial blasts:257'
+p158
+aS'Rock hotel:281'
+p159
+aS'targets:286'
+p160
+aS'masterminds:297'
+p161
+aS'attacks:300'
+p162
+aS'indian investigators:310'
+p163
+aS"pakistan 's intelligence service:317"
+p164
+aS'architects:335'
+p165
+aS'blasts:338'
+p166
+aS'death penalty:346'
+p167
+aS'sentences:350'
+p168
+aS'life imprisonment:353'
+p169
+aS'architects:362'
+p170
+aS'blasts:365'
+p171
+aS'death penalty:373'
+p172
+aS'life imprisonment:380'
+p173
+asS'unexpl'
+p174
+(lp175
+g100
+asS'ocassion'
+p176
+g100
+sS'link'
+p177
+S'http://www.thehindu.com/todays-paper/tp-in-school/5-years-for-sanjay-dutt-its-death-for-yakub-memon/article4535854.ece'
+p178
+sS'date'
+p179
+S'12-03-1993'
+p180
+sS'target'
+p181
+S'TOWN'
+p182
+sS'hot_spot'
+p183
+S'The Bombay Stock Exchange, the offices of Air India, and Sea Rock hotel in Bombay'
+p184
+sS'delivery_mod'
+p185
+g100
+sS'delivery_met'
+p186
+S'PLANTED'
+p187
+sS'expl'
+p188
+(lp189
+g100
+asS'ORG'
+p190
+(lp191
+(lp192
+S'Supreme Court'
+p193
+aS'68'
+p194
+aS'Others'
+p195
+aa(lp196
+S'Supreme Court'
+p197
+aS'115'
+p198
+aS'Others'
+p199
+aa(lp200
+S'Bombay Stock Exchange'
+p201
+aS'265'
+p202
+aS'Victim'
+p203
+aa(lp204
+S'Air India'
+p205
+aS'275'
+p206
+aS'Victim'
+p207
+aa(lp208
+S'Sea Rock'
+p209
+aS'280'
+p210
+aS'Victim'
+p211
+aas.

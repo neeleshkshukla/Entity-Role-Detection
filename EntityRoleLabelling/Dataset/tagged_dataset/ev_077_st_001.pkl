@@ -1,0 +1,365 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bangalore'
+p4
+aS'11'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Ahmedabad'
+p8
+aS'13'
+p9
+aS'Event'
+p10
+aa(lp11
+S'dargah'
+p12
+aS'41'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Ajmer'
+p16
+aS'47'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Rajasthan'
+p20
+aS'49'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Saudi Arabia'
+p24
+aS'67'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Mumbai'
+p28
+aS'179'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Ajmer sharif'
+p32
+aS'202'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Ajmer sharif'
+p36
+aS'202'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'India'
+p40
+aS'224'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Ahmedabad'
+p44
+aS'265'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Bangalore'
+p48
+aS'415'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Ahmedabad .'
+p52
+aS'417'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Ahmedabad'
+p56
+aS'417'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Maharashtra'
+p60
+aS'455'
+p61
+aS'Neutral'
+p62
+aasS'PER'
+p63
+(lp64
+(lp65
+S'Khwaja Moinuddin Chishti'
+p66
+aS'43'
+p67
+aS'Victim'
+p68
+aa(lp69
+S'Saeed Noori'
+p70
+aS'182'
+p71
+aS'Assoc Victim'
+p72
+aa(lp73
+S'Narendra Modis'
+p74
+aS'270'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Majeed Memon'
+p78
+aS'359'
+p79
+aS'Comment'
+p80
+aasS'TIM'
+p81
+(lp82
+sS'hot_setting'
+p83
+S''
+p84
+sS'DAT'
+p85
+(lp86
+sS'death'
+p87
+g84
+sS'title'
+p88
+S'Experts see Wahabis in garb of Indian Mujahideen'
+p89
+sS'org_unorg'
+p90
+g84
+sS'terror_group'
+p91
+(lp92
+g84
+asS'content'
+p93
+VMUMBAI : The intelligence community believes the serial blasts of Bangalore and Ahmedabad were executed by a network of Wahabi fundamentalists masquerading as Indian Mujahideen.This terror network started by organizing blasts at holy places of rival Barelvi Muslims like the dargah of Khwaja Moinuddin Chishti in Ajmer , Rajasthan . Over the past five years the Wahabis , who are heavily funded by religious puritans in Saudi Arabia , have been conducting a high-intensity propaganda war within the Muslim community against so-called un-Islamic practices.Thousands of publications have been brought out by them to convince Muslims to follow the path of ` true Islam ' . Members of several front organizations also visit homes to convince people to abandon ` non-Islamic rituals ' . Sources said predictably these activities have been vehemently opposed by the Barelvis who also brought out publications countering the Wahabi ideology , which is believed to provide a theological justification for terror . A Barelvi publication titled Gair Mokallidon ke Akeede quotes chapter and verse from Wahabi publications , which are against Islam . In Mumbai maulanas like Saeed Noori have been in the forefront of the campaign to counter Wahabism.The proverbial last straw was the blast at Ajmer sharif . It provoked widespread reaction among the Barelvis against Wahabi fanaticism , which had backed the Students Islamic Movement of India -LRB- SIMI -RRB- , police sources said . ` Fearing their isolation , the Wahabi elements are now trying to project themselves as people fighting against injustice to Muslims as a whole . The decision to organize serial blasts in Ahmedabad , including four in Narendra Modis constituency , was clearly aimed at getting the sympathy of the Muslim masses , ' a senior intelligence official observed . ` There is a big vacuum in Muslim leadership and the Wahabis are planning to fill the gap with their violent deeds , he added . However , a majority of Muslims have condemned the blasts and they say that a ` big injustice ' is being done to the community by those sponsoring such terror strikes.National secretary of the Nationalist Congress Party and noted advocate Majeed Memon said : ` The blasts can have no place in Islam . But if the Indian Mujahideens have any grievance then it should appoint a committee to have a dialogue with the government . Meanwhile , the Intelligence Bureau is reported to be close on the heels of the mastermind behind the blasts in Bangalore and Ahmedabad . The bureau is convinced that Indian Mujahideen has been trained by the ISI , which was why the blasts could be executed with professional precision . It is feared that the next targets could be in Maharashtra where the police force is at its demoralised worst .
+p94
+sS'injured'
+p95
+g84
+sS'det_loc'
+p96
+(lp97
+S'India'
+p98
+aS'Karnataka'
+p99
+aS'Bangalore Urban'
+p100
+ag84
+ag84
+asS'O'
+p101
+(lp102
+S'mumbai:1'
+p103
+aS'intelligence community:4'
+p104
+aS'network:18'
+p105
+aS'wahabi fundamentalists:20'
+p106
+aS'rival barelvi:36'
+p107
+aS'barelvi muslims:37'
+p108
+aS'dargah:41'
+p109
+aS'Wahabis:57'
+p110
+aS'propaganda war:75'
+p111
+aS'Muslim:79'
+p112
+aS'community:80'
+p113
+aS'un-Islamic practices.Thousands:83'
+p114
+aS'true islam:102'
+p115
+aS'barelvis:135'
+p116
+aS'wahabi:143'
+p117
+aS'ideology:144'
+p118
+aS'justification:153'
+p119
+aS'terror:155'
+p120
+aS'Barelvi publication titled Gair Mokallidon ke Akeede:158'
+p121
+aS'wahabi publications:170'
+p122
+aS'wahabi:170'
+p123
+aS'islam:176'
+p124
+aS'Wahabism.The:194'
+p125
+aS'sharif:203'
+p126
+aS'barelvis against wahabi:211'
+p127
+aS'barelvis:211'
+p128
+aS'wahabi fanaticism:213'
+p129
+aS'wahabi:213'
+p130
+aS'fanaticism:214'
+p131
+aS'islamic movement:221'
+p132
+aS'police:229'
+p133
+aS'isolation:236'
+p134
+aS'Wahabi:239'
+p135
+aS'injustice:251'
+p136
+aS'Muslims:253'
+p137
+aS'constituency:272'
+p138
+aS'intelligence official:289'
+p139
+aS'leadership:301'
+p140
+aS'injustice:336'
+p141
+aS'community:343'
+p142
+aS'terror strikes.national secretary:348'
+p143
+aS'islam:371'
+p144
+aS'grievance:380'
+p145
+aS'government:393'
+p146
+aS'intelligence bureau:398'
+p147
+aS'mastermind:410'
+p148
+aS'bureau:420'
+p149
+aS'police force:458'
+p150
+asS'unexpl'
+p151
+(lp152
+g84
+asS'ocassion'
+p153
+g84
+sS'link'
+p154
+S'http://timesofindia.indiatimes.com/india/Experts-see-Wahabis-in-garb-of-Indian-Mujahideen/articleshow/3292655.cms?referral=PM'
+p155
+sS'date'
+p156
+S'25-07-2008'
+p157
+sS'target'
+p158
+g84
+sS'hot_spot'
+p159
+g84
+sS'delivery_mod'
+p160
+g84
+sS'delivery_met'
+p161
+g84
+sS'expl'
+p162
+(lp163
+g84
+asS'ORG'
+p164
+(lp165
+(lp166
+S'Indian Mujahideen.This'
+p167
+aS'24'
+p168
+aS'Accused'
+p169
+aa(lp170
+S'Students Islamic Movement of India'
+p171
+aS'220'
+p172
+aS'Assoc Accused'
+p173
+aa(lp174
+S'SIMI'
+p175
+aS'226'
+p176
+aS'Assoc Accused'
+p177
+aa(lp178
+S'Nationalist Congress Party'
+p179
+aS'353'
+p180
+aS'Others'
+p181
+aa(lp182
+S'Indian Mujahideens'
+p183
+aS'376'
+p184
+aS'Assoc Accused'
+p185
+aa(lp186
+S'Indian Mujahideen'
+p187
+aS'424'
+p188
+aS'Assoc Accused'
+p189
+aa(lp190
+S'ISI'
+p191
+aS'431'
+p192
+aS'Assoc Accused'
+p193
+aas.

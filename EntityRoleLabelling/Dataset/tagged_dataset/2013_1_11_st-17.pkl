@@ -1,0 +1,309 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Jharkhands Latehar'
+p4
+aS'48'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Ranchi'
+p8
+aS'234'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Latehar'
+p12
+aS'332'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Latehar'
+p16
+aS'365'
+p17
+aS'Accused Location'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Sushilkumar Shinde'
+p22
+aS'297'
+p23
+aS'Comment'
+p24
+aasS'TIM'
+p25
+(lp26
+sS'hot_setting'
+p27
+S''
+p28
+sS'DAT'
+p29
+(lp30
+S'Monday : 52'
+p31
+aS'Monday : 348'
+p32
+asS'death'
+p33
+S'10'
+p34
+sS'title'
+p35
+S'Belly bomb recovered from soldiers body'
+p36
+sS'org_unorg'
+p37
+g28
+sS'terror_group'
+p38
+(lp39
+S'MAOIST COMMUNIST CENTRE (MCC)'
+p40
+asS'content'
+p41
+S'Maoists are changing their tactics to counter security forces growing offensive in their strongholds . The latest examples came in the form of planting of a 1.5-kg improvised explosive device ( IED ) inside the stomach of a CRPF personnel killed in an encounter with Naxals in Jharkhands Latehar district on Monday , and placing of two IEDs beneath the bodies of two jawans at the encounter site . In the first case , the bomb was recovered and in the second , the IEDs exploded leading to some casualties . Had the bomb inside the body exploded before being detected by doctors at a local hospital , it would have claimed many innocent lives . It was a booby trap , a first of its kind , where the IED was meticulously concealed inside the stomach that had multiple stitches . The IED was a pressure bomb prototype which explodes on being disturbed . This is a first-of-its-kind incident where it is evident that Maoists are under tremendous pressure from security forces and thinking of new ways to target them , a senior official of the Ministry of Home Affairs ( MHA ) said . The jawans body , recovered by a patrol party after the encounter , was strategically placed to ensure that security personnel do not miss it . The body with implanted IED was taken to a hospital in Ranchi where the doctors became suspicious after noticing stitches . The body was placed in an open field and a bomb disposal squad called , which later defused the bomb , the intention was clear that through the IED blast , they wanted to kill many more , the official said . Acknowledging that Maoists are changing their strategy , Union Home Minister Sushilkumar Shinde said : They are employing new tacticsour forces are aware of it and have been very cautious while dealing with Maoists . In a major setback to the governments offensive against Maoists in Latehar district , 10 security personnel , including nine from the CRPF lost their lives on Monday . The police and the CRPF jointly launched a big operation in the Maoist strongholds of Latehar where they are entrenched for decades and are familiar with the terrain . It is going to be tough for security forces , but we will still neutralise them . Though we have lost jawans , intelligence inputs suggest that Maoists too have suffered significant causalities . We will continue with our operations till Maoists are cleared from this area , the official said . OPEN'
+p42
+sS'injured'
+p43
+g28
+sS'det_loc'
+p44
+(lp45
+S'India'
+p46
+aS'Jharkhand'
+p47
+aS'Latehar'
+p48
+ag28
+ag28
+asS'O'
+p49
+(lp50
+S'tactics:5'
+p51
+aS'counter security forces:7'
+p52
+aS'1.5-kg improvised explosive device:27'
+p53
+aS'IED:32'
+p54
+aS'stomach:36'
+p55
+aS'Naxals:46'
+p56
+aS'IEDs:58'
+p57
+aS'two jawans:63'
+p58
+aS'encounter site:67'
+p59
+aS'bomb:76'
+p60
+aS'IEDs:85'
+p61
+aS'casualties:90'
+p62
+aS'bomb:94'
+p63
+aS'body exploded:97'
+p64
+aS'innocent lives:114'
+p65
+aS'booby trap:120'
+p66
+aS'IED:131'
+p67
+aS'meticulously concealed:133'
+p68
+aS'stomach:137'
+p69
+aS'multiple stitches:140'
+p70
+aS'IED:144'
+p71
+aS'pressure bomb:147'
+p72
+aS'tremendous pressure:169'
+p73
+aS'security forces:172'
+p74
+aS'target:180'
+p75
+aS'patrol party:204'
+p76
+aS'IED:227'
+p77
+aS'stitches:242'
+p78
+aS'open field:250'
+p79
+aS'bomb disposal squad:254'
+p80
+aS'defused:261'
+p81
+aS'bomb:263'
+p82
+aS'intention:266'
+p83
+aS'IED blast:272'
+p84
+aS'Union Home Minister Sushilkumar Shinde:294'
+p85
+aS'tacticsour forces:305'
+p86
+aS'launched:356'
+p87
+aS'big operation:358'
+p88
+aS'terrain:377'
+p89
+aS'security forces:386'
+p90
+aS'neutralise:393'
+p91
+aS'significant causalities:410'
+p92
+aS'operations:418'
+p93
+asS'unexpl'
+p94
+(lp95
+g28
+asS'ocassion'
+p96
+g28
+sS'link'
+p97
+S'http://www.thehindu.com/todays-paper/belly-bomb-recovered-from-soldiers-body/article4296705.ece'
+p98
+sS'date'
+p99
+S'07-01-2013'
+p100
+sS'target'
+p101
+S'JAWANS'
+p102
+sS'hot_spot'
+p103
+g28
+sS'delivery_mod'
+p104
+S'HUMAN'
+p105
+sS'delivery_met'
+p106
+S'PLANTED'
+p107
+sS'expl'
+p108
+(lp109
+S'IED'
+p110
+asS'ORG'
+p111
+(lp112
+(lp113
+S'Maoists'
+p114
+aS'1'
+p115
+aS'Accused'
+p116
+aa(lp117
+S'CRPF'
+p118
+aS'39'
+p119
+aS'Victim'
+p120
+aa(lp121
+S'Maoists'
+p122
+aS'166'
+p123
+aS'Accused'
+p124
+aa(lp125
+S'Ministry of Home Affairs'
+p126
+aS'188'
+p127
+aS'Others'
+p128
+aa(lp129
+S'MHA'
+p130
+aS'193'
+p131
+aS'Others'
+p132
+aa(lp133
+S'Maoists'
+p134
+aS'288'
+p135
+aS'Accused'
+p136
+aa(lp137
+S'Maoists'
+p138
+aS'319'
+p139
+aS'Accused'
+p140
+aa(lp141
+S'Maoists'
+p142
+aS'330'
+p143
+aS'Accused'
+p144
+aa(lp145
+S'CRPF'
+p146
+aS'343'
+p147
+aS'Victim'
+p148
+aa(lp149
+S'CRPF'
+p150
+aS'354'
+p151
+aS'Victim'
+p152
+aa(lp153
+S'Maoist'
+p154
+aS'362'
+p155
+aS'Accused'
+p156
+aa(lp157
+S'Maoists'
+p158
+aS'406'
+p159
+aS'Accused'
+p160
+aa(lp161
+S'Maoists'
+p162
+aS'420'
+p163
+aS'Accused'
+p164
+aas.

@@ -1,0 +1,543 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'GUWAHATI'
+p4
+aS'15'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Assam'
+p8
+aS'23'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Dhemaji'
+p12
+aS'72'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Assam'
+p16
+aS'162'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Assam'
+p20
+aS'188'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Assam'
+p24
+aS'233'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Dhemaji : 349'
+p28
+aS'Event'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Dhemaji'
+p32
+aS'374'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Dibrugarh'
+p36
+aS'393'
+p37
+aS'Neutral'
+p38
+aasS'PER'
+p39
+(lp40
+(lp41
+S'Tarun Gogoi'
+p42
+aS'207'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Brindaban Goswami'
+p46
+aS'292'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Tarun Gogoi'
+p50
+aS'308'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Gogoi'
+p54
+aS'347'
+p55
+aS'Others'
+p56
+aa(lp57
+S'Gogoi'
+p58
+aS'359'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Ajai Singh'
+p62
+aS'370'
+p63
+aS'Others'
+p64
+aa(lp65
+S'Gogoi'
+p66
+aS'390'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Gogoi'
+p70
+aS'417'
+p71
+aS'Others'
+p72
+aasS'TIM'
+p73
+(lp74
+S'today : 31'
+p75
+aS'morning : 85'
+p76
+aS'today : 164'
+p77
+aS'12-hour : 187'
+p78
+aS'tomorrow : 190'
+p79
+aS'12-hour : 232'
+p80
+aS'tomorrow : 235'
+p81
+aS'day : 356'
+p82
+aS'today : 375'
+p83
+aS'evening : 414'
+p84
+aS'year : 480'
+p85
+aS'day : 483'
+p86
+aS'today : 500'
+p87
+asS'hot_setting'
+p88
+S''
+p89
+sS'DAT'
+p90
+(lp91
+S'AUG. 17 : 17'
+p92
+aS'August 16 : 474'
+p93
+asS'death'
+p94
+S'16'
+p95
+sS'title'
+p96
+S'Students take to the streets'
+p97
+sS'org_unorg'
+p98
+g89
+sS'terror_group'
+p99
+(lp100
+S'UNITED LIBERATION FRONT OF ASSAM (ULFA)'
+p101
+asS'content'
+p102
+VNational Students take to the streets . . By Our Special Correspondent . . GUWAHATI , AUG. 17 . School children in Assam took to the streets throughout the State today to join the widespread protest by intellectuals , artists , senior citizens , students ' organisations and political parties against the killing of 16 school children , in a bomb attack by the banned United Liberation Front of Asom in Dhemaji district on Independence Day . . . Hundreds of students assembled this morning in the four main public grounds of the city displaying banners with slogans condemning the dastardly attack by the ULFA inscribed on them . . . The State units of the Students ' Federation of India and the Communist Party of India -LRB- Marxist -RRB- took out separate protest rallies through the main thoroughfares condemning the bomb attack and protesting the Government 's failure to protect the lives of the State 's people . . . Assam bandh today . . The protests came amid the ULFA owning responsibility for the blast and the All-Assam Students ' Union calling for a 12-hour Assam bandh tomorrow to protest the killing . The AASU has demanded the resignation of the Chief Minister , Tarun Gogoi . . . In a separate statement , the State unit of the Communist Party of India -LRB- Marxist -RRB- called for a 12-hour Assam bandh tomorrow in protest against the bomb attack , and to protest the State Government 's failure to protect the lives and property of the general public . . . It also called for building up a strong public opinion against ` insurgent violence . ' . . Government attacked . . The Asom Gana Parishad president , Brindaban Goswami , and other senior AGP leaders who met the bereaved family members said that Tarun Gogoi Government had lost the ` moral right ' to continue in office for its failure to protect the lives and property of the people despite intelligence agencies forewarning about a possible militants ' attack . . . Gogoi visits Dhemaji . . Earlier , in the day , Mr. Gogoi and the Governor , Lt. Gen. -LRB- retd . -RRB- Ajai Singh , visited Dhemaji today and met the families of the deceased children to express their condolences . Mr. Gogoi also visited Dibrugarh to enquire about the condition of the injured at the Dibrugarh Medical College Hospital . . . Late in the evening , Mr. Gogoi announced that the Government had decided to set up libraries in the respective schools in memory of the students killed . . . The Government was also considering the institution of a bravery award for those killed in the blast as they had defied the boycott call given by the ULFA . . . Besides , August 16 would be observed every year as a day of mourning in the State in memory of the deceased children . . . The Government today also enhanced the ex-gratia to the next of kin of those killed in the blast from Rs . 3 lakhs to Rs . 5 lakhs and to the injured from Rs . 50,000 to Rs . 1 lakh . . . Related Stories : COWARDLY ATTACK .
+p103
+sS'injured'
+p104
+g89
+sS'det_loc'
+p105
+(lp106
+S'India'
+p107
+aS'Assam'
+p108
+ag89
+aS'Dhemaji'
+p109
+ag89
+asS'O'
+p110
+(lp111
+S'National Students:1'
+p112
+aS'streets:6'
+p113
+aS'streets:27'
+p114
+aS'State:30'
+p115
+aS'widespread protest:35'
+p116
+aS'intellectuals:38'
+p117
+aS'artists:40'
+p118
+aS'senior citizens:42'
+p119
+aS"students ' organisations:45"
+p120
+aS'political parties:49'
+p121
+aS'killing:53'
+p122
+aS'bomb attack:61'
+p123
+aS'banned:65'
+p124
+aS'Independence Day:75'
+p125
+aS'assembled:83'
+p126
+aS'public grounds:90'
+p127
+aS'city:94'
+p128
+aS'banners:96'
+p129
+aS'slogans:98'
+p130
+aS'condemning:99'
+p131
+aS'dastardly attack:101'
+p132
+aS'State units:113'
+p133
+aS'protest rallies:134'
+p134
+aS'bomb attack:142'
+p135
+aS'protesting:145'
+p136
+aS"Government 's failure:147"
+p137
+aS'protect:151'
+p138
+aS'bandh:163'
+p139
+aS'protests:168'
+p140
+aS'amid:170'
+p141
+aS'blast:177'
+p142
+aS'bandh:189'
+p143
+aS'protest:192'
+p144
+aS'killing:194'
+p145
+aS'demanded:199'
+p146
+aS'resignation:201'
+p147
+aS'State unit:218'
+p148
+aS'bandh:234'
+p149
+aS'protest against:237'
+p150
+aS'bomb attack:240'
+p151
+aS'protest:245'
+p152
+aS'failure:250'
+p153
+aS'protect:252'
+p154
+aS'lives:254'
+p155
+aS'general public:259'
+p156
+aS'strong public opinion:271'
+p157
+aS'insurgent violence:276'
+p158
+aS'attacked:283'
+p159
+aS'leaders:299'
+p160
+aS'bereaved family members:303'
+p161
+aS'moral right:315'
+p162
+aS'failure:324'
+p163
+aS'protect:326'
+p164
+aS'intelligence agencies:335'
+p165
+aS'forewarning:337'
+p166
+aS"militants ' attack:341"
+p167
+aS'deceased children:382'
+p168
+aS'express:385'
+p169
+aS'condolences:387'
+p170
+aS'enquire:395'
+p171
+aS'injured:401'
+p172
+aS'announced:418'
+p173
+aS'decided:423'
+p174
+aS'libraries:427'
+p175
+aS'killed:437'
+p176
+aS'institution:447'
+p177
+aS'bravery award:450'
+p178
+aS'killed:454'
+p179
+aS'blast:457'
+p180
+aS'boycott call:463'
+p181
+aS'observed:478'
+p182
+aS'mourning:485'
+p183
+aS'State:488'
+p184
+aS'memory:490'
+p185
+aS'deceased children:493'
+p186
+aS'enhanced:502'
+p187
+aS'ex-gratia:504'
+p188
+aS'kin:509'
+p189
+aS'killed:512'
+p190
+aS'blast:515'
+p191
+aS'Rs . 3 lakhs:517'
+p192
+aS'Rs . 5 lakhs:522'
+p193
+aS'injured:529'
+p194
+aS'Rs . 50,000 to Rs . 1 lakh:531'
+p195
+aS'COWARDLY ATTACK:545'
+p196
+asS'unexpl'
+p197
+(lp198
+g89
+asS'ocassion'
+p199
+g89
+sS'link'
+p200
+S'http://www.thehindu.com/2004/08/18/stories/2004081805171100.htm'
+p201
+sS'date'
+p202
+S'17-08-2004'
+p203
+sS'target'
+p204
+S'PARADE GROUND'
+p205
+sS'hot_spot'
+p206
+g89
+sS'delivery_mod'
+p207
+g89
+sS'delivery_met'
+p208
+S'PLANTED'
+p209
+sS'expl'
+p210
+(lp211
+g89
+asS'ORG'
+p212
+(lp213
+(lp214
+S'United Liberation Front of Asom'
+p215
+aS'66'
+p216
+aS'Others'
+p217
+aa(lp218
+S'ULFA'
+p219
+aS'105'
+p220
+aS'Others'
+p221
+aa(lp222
+S"Students ' Federation of India"
+p223
+aS'117'
+p224
+aS'Others'
+p225
+aa(lp226
+S'Communist Party of India'
+p227
+aS'124'
+p228
+aS'Others'
+p229
+aa(lp230
+S'Marxist'
+p231
+aS'129'
+p232
+aS'Others'
+p233
+aa(lp234
+S'ULFA'
+p235
+aS'172'
+p236
+aS'Others'
+p237
+aa(lp238
+S"All-Assam Students ' Union"
+p239
+aS'180'
+p240
+aS'Others'
+p241
+aa(lp242
+S'AASU'
+p243
+aS'197'
+p244
+aS'Others'
+p245
+aa(lp246
+S'Communist Party of India'
+p247
+aS'222'
+p248
+aS'Others'
+p249
+aa(lp250
+S'Marxist'
+p251
+aS'227'
+p252
+aS'Others'
+p253
+aa(lp254
+S'State Government'
+p255
+aS'247'
+p256
+aS'Others'
+p257
+aa(lp258
+S'Government'
+p259
+aS'282'
+p260
+aS'Others'
+p261
+aa(lp262
+S'Asom Gana Parishad'
+p263
+aS'287'
+p264
+aS'Others'
+p265
+aa(lp266
+S'AGP'
+p267
+aS'298'
+p268
+aS'Others'
+p269
+aa(lp270
+S'Dibrugarh Medical College Hospital'
+p271
+aS'404'
+p272
+aS'Others'
+p273
+aa(lp274
+S'Government'
+p275
+aS'421'
+p276
+aS'Others'
+p277
+aa(lp278
+S'Government'
+p279
+aS'442'
+p280
+aS'Others'
+p281
+aa(lp282
+S'ULFA'
+p283
+aS'468'
+p284
+aS'Accused'
+p285
+aa(lp286
+S'Government'
+p287
+aS'499'
+p288
+aS'Others'
+p289
+aas.

@@ -1,0 +1,419 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Kishtwar'
+p4
+aS'83'
+p5
+aS'Accused Location'
+p6
+aa(lp7
+S'Jammu and Kashmir'
+p8
+aS'86'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Uttar Pradesh'
+p12
+aS'92'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Gandhinagar'
+p16
+aS'166'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Hyderabad'
+p20
+aS'168'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Kishtwar'
+p24
+aS'225'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Balrampur'
+p28
+aS'243'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'U.P.'
+p32
+aS'245'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Delhi'
+p36
+aS'372'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'Jama Masjid'
+p40
+aS'378'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Mehrauli'
+p44
+aS'382'
+p45
+aS'Assoc Event Location'
+p46
+aasS'PER'
+p47
+(lp48
+(lp49
+S'U.K. Bansal'
+p50
+aS'133'
+p51
+aS'Comment'
+p52
+aa(lp53
+S'Bansal'
+p54
+aS'196'
+p55
+aS'Comment'
+p56
+aa(lp57
+S'P. Chidambaram'
+p58
+aS'314'
+p59
+aS'Others'
+p60
+aasS'TIM'
+p61
+(lp62
+sS'hot_setting'
+p63
+S''
+p64
+sS'DAT'
+p65
+(lp66
+S'Thursday:23'
+p67
+aS'Thursday:174'
+p68
+aS'May 25:353'
+p69
+asS'death'
+p70
+S'13'
+p71
+sS'title'
+p72
+S'No definite leads yet, only email from Indian Mujahideen'
+p73
+sS'det_loc'
+p74
+(lp75
+S'India'
+p76
+aS'Delhi'
+p77
+aS'New Delhi'
+p78
+ag64
+aS'Delhi High Court'
+p79
+asS'terror_group'
+p80
+(lp81
+S'Indian Mujahideen'
+p82
+asS'content'
+p83
+S'A day after a bomb blast outside the Delhi High Court claimed 13 lives and injured over 75 people , investigators on Thursday failed to get definite leads . But a new e-mail , reportedly by the Indian Mujahideen ( IM ) , claimed that it was behind the incident and not the Harkat-ul-Jehadi Islami and dared the security agencies to prevent another explosion planned by it at a shopping complex next week . Reward announced Police have detained five persons in Kishtwar district of Jammu and Kashmir and one in Uttar Pradesh in connection with the blast . The National Investigation Agency ( NIA ) has announced a reward of Rs . 5 lakh to anyone providing clues about the explosion . Secretary ( Internal Security ) in the Home Ministry U.K. Bansal said teams of Anti-Terror Squads from the neighbouring States were coming here for consultations with the NIA and the Delhi Police to help in the probe . Forensic science experts from Gandhinagar and Hyderabad scanned the blast site on Thursday and the NIA was vigorously pursuing various leads and looking at all possible connections . On the new e-mail , Mr. Bansal said the investigators were examining it to determine its authenticity . The first e-mail , sent by Harkat-ul-Jehadi Islami , was traced to the Global Cyber Caf in Kishtwar district . Its owner and four others were being questioned by police . The person detained in Balrampur in U.P. , resembled one of the sketches released by the Delhi Police and his identity and antecedents were being verified , well placed sources said.Intelligence experts said the latest claim by IM could be a ploy to perplex the investigators and turn out to be a prank . The IM claimed that the HuJI had no role in the blast . Earlier in the day , Union Home Minister P. Chidambaram presided over a meeting of the chiefs of the Research and Analysis Wing ( R&AW ) , Intelligence Bureau and the NIA and reviewed the security scenario . The Home Ministry has entrusted the probe into the May 25 blast in the Delhi High Court to the NIA . Bomb blasts in the recent past in Delhi , which occurred outside the Jama Masjid and in Mehrauli , remain unsolved till date . OPEN'
+p84
+sS'injured'
+p85
+S'75'
+p86
+sS'org_unorg'
+p87
+S'Organized'
+p88
+sS'O'
+p89
+(lp90
+S'bomb blast:5'
+p91
+aS'lives:14'
+p92
+aS'injured:16'
+p93
+aS'investigators:21'
+p94
+aS'e-mail:33'
+p95
+aS'explosion:64'
+p96
+aS'shopping complex:70'
+p97
+aS'detained:79'
+p98
+aS'blast:98'
+p99
+aS'reward:110'
+p100
+aS'explosion:122'
+p101
+aS'secretary ( internal security ):124'
+p102
+aS'anti-terror squads:138'
+p103
+aS'probe:160'
+p104
+aS'forensic science:162'
+p105
+aS'blast site:171'
+p106
+aS'e-mail:193'
+p107
+aS'authenticity:206'
+p108
+aS'e-mail:210'
+p109
+aS'sketches:251'
+p110
+aS'claim:274'
+p111
+aS'investigators:284'
+p112
+aS'prank:291'
+p113
+aS'blast:304'
+p114
+aS'union home minister:311'
+p115
+aS'meeting:319'
+p116
+aS'security scenario:341'
+p117
+aS'probe:350'
+p118
+aS'blast:355'
+p119
+aS'bomb blasts:365'
+p120
+asS'unexpl'
+p121
+(lp122
+g64
+asS'ocassion'
+p123
+g64
+sS'link'
+p124
+S'http://www.thehindu.com/todays-paper/no-definite-leads-yet-only-email-from-indian-mujahideen/article2437641.ece'
+p125
+sS'date'
+p126
+S'09-09-2011'
+p127
+sS'target'
+p128
+g64
+sS'hot_spot'
+p129
+g64
+sS'delivery_mod'
+p130
+g64
+sS'delivery_met'
+p131
+g64
+sS'expl'
+p132
+(lp133
+g64
+asS'ORG'
+p134
+(lp135
+(lp136
+S'Delhi High Court'
+p137
+aS'9'
+p138
+aS'Victim'
+p139
+aa(lp140
+S'Indian Mujahideen'
+p141
+aS'38'
+p142
+aS'Accused'
+p143
+aa(lp144
+S'IM'
+p145
+aS'41'
+p146
+aS'Accused'
+p147
+aa(lp148
+S'Harkat-ul-Jehadi Islami'
+p149
+aS'54'
+p150
+aS'Assoc Accused'
+p151
+aS'Others'
+p152
+aa(lp153
+S'National Investigation Agency'
+p154
+aS'101'
+p155
+aS'Others'
+p156
+aa(lp157
+S'NIA'
+p158
+aS'105'
+p159
+aS'Others'
+p160
+aa(lp161
+S'Home Ministry'
+p162
+aS'131'
+p163
+aS'Others'
+p164
+aa(lp165
+S'NIA'
+p166
+aS'151'
+p167
+aS'Others'
+p168
+aa(lp169
+S'Delhi Police'
+p170
+aS'154'
+p171
+aS'Others'
+p172
+aa(lp173
+S'NIA'
+p174
+aS'177'
+p175
+aS'Others'
+p176
+aa(lp177
+S'Harkat-ul-Jehadi Islami'
+p178
+aS'214'
+p179
+aS'Assoc Accused'
+p180
+aa(lp181
+S'Global Cyber Caf'
+p182
+aS'221'
+p183
+aS'Others'
+p184
+aa(lp185
+S'Delhi Police'
+p186
+aS'255'
+p187
+aS'Others'
+p188
+aa(lp189
+S'IM'
+p190
+aS'276'
+p191
+aS'Accused'
+p192
+aa(lp193
+S'IM'
+p194
+aS'294'
+p195
+aS'Accused'
+p196
+aa(lp197
+S'HuJI'
+p198
+aS'298'
+p199
+aS'Assoc Accused'
+p200
+aa(lp201
+S'Research and Analysis Wing'
+p202
+aS'325'
+p203
+aS'Others'
+p204
+aa(lp205
+S'R&AW'
+p206
+aS'330'
+p207
+aS'Others'
+p208
+aa(lp209
+S'Intelligence Bureau'
+p210
+aS'333'
+p211
+aS'Others'
+p212
+aa(lp213
+S'NIA'
+p214
+aS'337'
+p215
+aS'Others'
+p216
+aa(lp217
+S'Home Ministry'
+p218
+aS'345'
+p219
+aS'Others'
+p220
+aa(lp221
+S'Delhi High Court'
+p222
+aS'358'
+p223
+aS'Victim'
+p224
+aa(lp225
+S'NIA'
+p226
+aS'363'
+p227
+aS'Others'
+p228
+aas.

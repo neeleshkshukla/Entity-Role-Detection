@@ -1,0 +1,238 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Moscow'
+p4
+aS'67'
+p5
+aS'Victim Location'
+p6
+aa(lp7
+S'United States'
+p8
+aS'95'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Pattalur'
+p12
+aS'282'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Bhavani'
+p16
+aS'286'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Coimbatore'
+p20
+aS'288'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Bhavani'
+p24
+aS'357'
+p25
+aS'Neutral'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'Khrushchev'
+p30
+aS'59'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Adlai Stevenson'
+p34
+aS'100'
+p35
+aS'Comment'
+p36
+aa(lp37
+S'Eugene R. Black'
+p38
+aS'216'
+p39
+aS'Comment'
+p40
+aasS'TIM'
+p41
+(lp42
+sS'hot_setting'
+p43
+S''
+p44
+sS'DAT'
+p45
+(lp46
+S'Western Europe on October:10'
+p47
+aS'October 31:13'
+p48
+aS'October 31:69'
+p49
+aS'October 31:128'
+p50
+asS'death'
+p51
+g44
+sS'title'
+p52
+S'This day that age'
+p53
+sS'org_unorg'
+p54
+S'Organized'
+p55
+sS'terror_group'
+p56
+(lp57
+g44
+asS'content'
+p58
+S"A shock wave of alarm and dismay surged across Western Europe on October 31 in the wake of the Soviet super bomb explosion . Newspapers denounced the blast as a brutal crime against humanity , a political terror weapon aimed at covering the non-Communist world , a threat to the very existence of the human race . Mr. Khrushchev told the Soviet Communist Party Congress in Moscow on October 31 that Russian scientists had miscalculated and set off a nuclear bomb of more than 50 megatons yesterday . At the United Nations , the United States Chief delegate Mr. Adlai Stevenson said the Russians had contemptuously spurned the appeal of the United Nations and of all peace-loving peoples by the test . The World Bank announced on October 31 the establishment of a new development advisory service . The service is designed to provide a corps of expert talent available to furnish economic and financial advice to the Government of the less developed member countries of the Bank particularly in connection with the preparation and execution of development programmes . The Bank indicated that the establishment of the new service and related organisational changes are part of a general policy of enlarging the Bank 's technical assistance and training activities . Announcing this , Mr. Eugene R. Black , President of the Bank stated : Our experience continues to confirm that shortage of capital is not the only , and indeed not the principal obstacle , to more rapid economic progress in the less developed countries . Inexperience and lack of trained manpower at every level are even more serious handicaps . A villager , collecting herbs on a hillock at Pattalur village , near Bhavani in Coimbatore district recently , came across a mud-pot . Inside the pot were 14 gold coins . The villager allowed some nearby shepherds to inspect his find , but the shepherds claimed a share of the gold and a dispute arose . Word spread and the Revenue authorities appeared on the scene and took charge of the gold , which is at present being kept with the Tahsildar , Bhavani . OPEN"
+p59
+sS'injured'
+p60
+g44
+sS'det_loc'
+p61
+(lp62
+S'Russia'
+p63
+ag44
+ag44
+aS'Moscow'
+p64
+ag44
+asS'O'
+p65
+(lp66
+S'shock wave:2'
+p67
+aS'alarm:5'
+p68
+aS'western europe:10'
+p69
+aS'bomb explosion:22'
+p70
+aS'blast:28'
+p71
+aS'terror weapon:38'
+p72
+aS'russian scientists:72'
+p73
+aS'nuclear bomb:80'
+p74
+aS'chief delegate:97'
+p75
+aS'government:159'
+p76
+aS'assistance:207'
+p77
+aS'training:209'
+p78
+aS'president:220'
+p79
+aS'experience:227'
+p80
+aS'shortage:232'
+p81
+aS'capital:234'
+p82
+aS'principal obstacle:244'
+p83
+aS'progress:251'
+p84
+aS'inexperience:258'
+p85
+aS'manpower:263'
+p86
+aS'level:266'
+p87
+aS'hillock:280'
+p88
+aS'district:289'
+p89
+aS'word spread:330'
+p90
+aS'revenue:334'
+p91
+aS'charge:342'
+p92
+asS'unexpl'
+p93
+(lp94
+g44
+asS'ocassion'
+p95
+g44
+sS'link'
+p96
+S'http://www.thehindu.com/todays-paper/tp-miscellaneous/this-day-that-age/article2587067.ece'
+p97
+sS'date'
+p98
+S'01-11-2011'
+p99
+sS'target'
+p100
+g44
+sS'hot_spot'
+p101
+g44
+sS'delivery_mod'
+p102
+g44
+sS'delivery_met'
+p103
+g44
+sS'expl'
+p104
+(lp105
+g44
+asS'ORG'
+p106
+(lp107
+(lp108
+S'Soviet Communist Party Congress'
+p109
+aS'62'
+p110
+aS'Others'
+p111
+aa(lp112
+S'United Nations'
+p113
+aS'91'
+p114
+aS'Others'
+p115
+aa(lp116
+S'United Nations'
+p117
+aS'112'
+p118
+aS'Others'
+p119
+aa(lp120
+S'World Bank'
+p121
+aS'124'
+p122
+aS'Others'
+p123
+aas.

@@ -1,0 +1,201 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dashashwamedh ghat'
+p4
+aS'9'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Varanasi'
+p8
+aS'12'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Varanasi'
+p12
+aS'125'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+sS'TIM'
+p17
+(lp18
+sS'hot_setting'
+p19
+S''
+p20
+sS'DAT'
+p21
+(lp22
+S'1992:98'
+p23
+asS'death'
+p24
+S'1'
+p25
+sS'title'
+p26
+S'Security agencies clueless on Varanasi blast'
+p27
+sS'det_loc'
+p28
+(lp29
+S'India'
+p30
+aS'Uttar Pradesh'
+p31
+aS'Varanasi'
+p32
+aS'Varanasi'
+p33
+aS'Dashashwamedh ghat'
+p34
+asS'terror_group'
+p35
+(lp36
+S'Indian Mujahideen'
+p37
+asS'content'
+p38
+S'A year after an explosion had rocked the Dashashwamedh ghat in Varanasi , security agencies are clueless about the module that was used to trigger the bomb blast that left a 2-year-old girl dead and over three dozen injured . Those behind the blast continued to remain a mystery for investigators as did the nature of the explosive material used to trigger the bomb . However , Indian Mujahideen ( IM ) had claimed responsibility for the blast in e-mails sent to media houses and said the incident was in response to demolition of Babri Masjid in 1992 . The recent modules busted by the Delhi Police in which six persons allegedly belonging to the IM were arrested have expressed their ignorance about the Varanasi explosion . Security forces have rounded up many people and jailed terrorists were questioned without any results . There was a move to handover the probe to the National Investigation Agency ( NIA ) but it was dropped because of issues between the Centre and the Uttar Pradesh Government . - PTI OPEN'
+p39
+sS'injured'
+p40
+S'36'
+p41
+sS'org_unorg'
+p42
+S'Organized'
+p43
+sS'O'
+p44
+(lp45
+S'security agencies:14'
+p46
+aS'trigger:25'
+p47
+aS'bomb blast:27'
+p48
+aS'girl dead:33'
+p49
+aS'blast:44'
+p50
+aS'explosive material:58'
+p51
+aS'trigger:62'
+p52
+aS'bomb:64'
+p53
+aS'responsibility:75'
+p54
+aS'e-mails:80'
+p55
+aS'response:91'
+p56
+aS'demolition:93'
+p57
+aS'babri masjid:95'
+p58
+aS'modules busted:102'
+p59
+aS'varanasi explosion:125'
+p60
+aS'jailed terrorists:136'
+p61
+aS'probe:151'
+p62
+asS'unexpl'
+p63
+(lp64
+g20
+asS'ocassion'
+p65
+g20
+sS'link'
+p66
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/security-agencies-clueless-on-varanasi-blast/article2696580.ece'
+p67
+sS'date'
+p68
+S'07-12-2010'
+p69
+sS'target'
+p70
+S'Religious Places'
+p71
+sS'hot_spot'
+p72
+g20
+sS'delivery_mod'
+p73
+g20
+sS'delivery_met'
+p74
+S'Planted'
+p75
+sS'expl'
+p76
+(lp77
+g20
+asS'ORG'
+p78
+(lp79
+(lp80
+S'Indian Mujahideen'
+p81
+aS'68'
+p82
+aS'Accused'
+p83
+aa(lp84
+S'IM'
+p85
+aS'71'
+p86
+aS'Accused'
+p87
+aa(lp88
+S'Delhi Police'
+p89
+aS'106'
+p90
+aS'Others'
+p91
+aa(lp92
+S'IM'
+p93
+aS'116'
+p94
+aS'Accused'
+p95
+aa(lp96
+S'National Investigation Agency'
+p97
+aS'154'
+p98
+aS'Others'
+p99
+aa(lp100
+S'NIA'
+p101
+aS'158'
+p102
+aS'Others'
+p103
+aa(lp104
+S'Uttar Pradesh Government'
+p105
+aS'172'
+p106
+aS'Others'
+p107
+aas.

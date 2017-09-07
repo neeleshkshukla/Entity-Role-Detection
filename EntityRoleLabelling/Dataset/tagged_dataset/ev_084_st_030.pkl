@@ -1,0 +1,552 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bajpe airport'
+p4
+aS'15'
+p5
+aS'Accused Location'
+p6
+aa(lp7
+S'Dubai'
+p8
+aS'67'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Maharashtra'
+p12
+aS'71'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Mumbai'
+p16
+aS'143'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Bajpe Airport'
+p20
+aS'166'
+p21
+aS'Accused Location'
+p22
+aa(lp23
+S'Mangalore'
+p24
+aS'192'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Maharashtra'
+p28
+aS'207'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Bhatkal'
+p32
+aS'213'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Mangalore'
+p36
+aS'215'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Bangalore'
+p40
+aS'262'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Bhatkal'
+p44
+aS'272'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Mangalore'
+p48
+aS'277'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Uttara Kannada'
+p52
+aS'280'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Pune'
+p56
+aS'307'
+p57
+aS'Assoc Event Location'
+p58
+aa(lp59
+S'Mumbai'
+p60
+aS'387'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Mangalore'
+p64
+aS'415'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Bangalore'
+p68
+aS'426'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Dubai'
+p72
+aS'444'
+p73
+aS'Neutral'
+p74
+aa(lp75
+S'Pune'
+p76
+aS'471'
+p77
+aS'Neutral'
+p78
+aasS'PER'
+p79
+(lp80
+(lp81
+S'Abdul Samad'
+p82
+aS'6'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Samad'
+p86
+aS'34'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Samad'
+p90
+aS'123'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Samad'
+p94
+aS'156'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'Samad'
+p98
+aS'249'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'Abdul Samad Bhatkal'
+p102
+aS'294'
+p103
+aS'Accused'
+p104
+aa(lp105
+S'Abdul'
+p106
+aS'403'
+p107
+aS'Accused'
+p108
+aa(lp109
+S'Abdul'
+p110
+aS'410'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Chidambaram'
+p114
+aS'455'
+p115
+aS'Comment'
+p116
+aa(lp117
+S'Abdul Bhatkal'
+p118
+aS'459'
+p119
+aS'Accused'
+p120
+aa(lp121
+S'Yasin Bhatkal'
+p122
+aS'490'
+p123
+aS'Assoc Accused'
+p124
+aa(lp125
+S'Riyaz Bhatkal'
+p126
+aS'496'
+p127
+aS'Assoc Accused'
+p128
+aasS'TIM'
+p129
+(lp130
+S'8.40 a.m.:42'
+p131
+aS'month : 196'
+p132
+aS'month : 219'
+p133
+asS'hot_setting'
+p134
+S''
+p135
+sS'DAT'
+p136
+(lp137
+S'Monday : 12'
+p138
+aS'May 22 : 178'
+p139
+aS'Tuesday : 311'
+p140
+aS'June 1 : 317'
+p141
+aS'2009 : 327'
+p142
+aS'August 2009 : 378'
+p143
+aS'2008 : 408'
+p144
+aS'July 2008 : 422'
+p145
+aS'Tuesday : 457'
+p146
+aS'February : 473'
+p147
+asS'death'
+p148
+S'17'
+p149
+sS'title'
+p150
+S'Abdul Samad arrested at Bajpe airport'
+p151
+sS'org_unorg'
+p152
+g135
+sS'terror_group'
+p153
+(lp154
+g135
+asS'content'
+p155
+VThe arrest of terror suspect Abdul Samad -LRB- 23 -RRB- on Monday from the Bajpe airport was a meticulously planned operation according to highly placed sources of the district police . . . Samad was arrested inside the airport at around 8.40 a.m. as he was attempting to get past the immigration check point after landing in an Air India Express plane IX 812 coming from Dubai . The team Maharashtra Anti-Terrorism Squad , which had prior information about his arrival , coordinated with the local police manning the immigration centre and swooped down on the suspect the moment he tried to clear the check post , sources said . Caught inside the airport , which has several layers of security , Samad had very little room to escape . He was arrested using a Lookout Notice that was issued by the Mumbai police to almost every major airport in the country . . . Samad was trying to slip into the country through the Bajpe Airport by taking advantage of the situation that prevailed following the May 22 crash of the Air India Express flight . . . ATS in Mangalore for over a month . . Local police sources said the personnel of the Maharashtra Anti-Terrorism Squad were camping at Bhatkal and Mangalore for over a month leading up to the eventual arrest of the suspect . Their primary pursuit during this period was gathering as much information about the man as possible . . . Samad , who police say is registered as a Hotel Management student at Bangalore , is a native of the seaside town of Bhatkal 120 km north of Mangalore in the Uttara Kannada district of the State . . . PTI adds : . . Abdul Samad Bhatkal , a prime suspect in the German Bakery blast in Pune , was on Tuesday remanded in police custody till June 1 by a local court in connection with a 2009 illegal arms seizure case . . . He was produced before the Mazgaon metropolitan magistrate . Asked by the court if he wanted a stateappointed lawyer to defend him , he said , No . I would appoint a lawyer for myself at a later stage . . . In August 2009 , three persons were arrested from south Mumbai for possession of illegal firearms which , according to the ATS , were supplied by Abdul . . . In 2008 , Abdul was picked up by Mangalore police for his alleged role in July 2008 blasts in Bangalore . However , he was let off due to lack of evidence after which he went to Dubai , ATS officials said . . . Home Minister P. Chidambaram on Tuesday said Abdul Bhatkal is the prime suspect in the German Bakery blast in Pune in February which left 17 people dead . . . The ATS is also on the lookout for Yasin Bhatkal , a relative of Riyaz Bhatkal , founder of terror outfit Indian Mujahideen -LRB- IM -RRB- .
+p156
+sS'injured'
+p157
+g135
+sS'det_loc'
+p158
+(lp159
+S'India'
+p160
+aS'Karnataka'
+p161
+ag135
+aS'Mangalore'
+p162
+ag135
+asS'O'
+p163
+(lp164
+S'arrest:2'
+p165
+aS'terror suspect:4'
+p166
+aS'meticulously planned operation:19'
+p167
+aS'highly placed sources:24'
+p168
+aS'district police:29'
+p169
+aS'arrested:36'
+p170
+aS'airport:39'
+p171
+aS'attempting:47'
+p172
+aS'immigration check point:52'
+p173
+aS'landing:56'
+p174
+aS'Air India Express plane:59'
+p175
+aS'IX 812:63'
+p176
+aS'prior information:77'
+p177
+aS'arrival:81'
+p178
+aS'local police:86'
+p179
+aS'manning:88'
+p180
+aS'immigration centre:90'
+p181
+aS'swooped down:93'
+p182
+aS'suspect:97'
+p183
+aS'moment:99'
+p184
+aS'check post:105'
+p185
+aS'airport:114'
+p186
+aS'several layers of security:118'
+p187
+aS'little room:126'
+p188
+aS'escape:129'
+p189
+aS'arrested:133'
+p190
+aS'Lookout Notice:136'
+p191
+aS'issued:140'
+p192
+aS'airport:149'
+p193
+aS'country:152'
+p194
+aS'trying:158'
+p195
+aS'slip:160'
+p196
+aS'country:163'
+p197
+aS'advantage:170'
+p198
+aS'situation:173'
+p199
+aS'prevailed:175'
+p200
+aS'crash:180'
+p201
+aS'Air India Express flight:183'
+p202
+aS'Local police:199'
+p203
+aS'personnel:204'
+p204
+aS'camping:211'
+p205
+aS'eventual arrest:224'
+p206
+aS'suspect:228'
+p207
+aS'primary pursuit:231'
+p208
+aS'gathering:237'
+p209
+aS'information:240'
+p210
+aS'registered:255'
+p211
+aS'Hotel Management student:258'
+p212
+aS'seaside town:269'
+p213
+aS'120 km:273'
+p214
+aS'State:285'
+p215
+aS'prime suspect:299'
+p216
+aS'German Bakery blast:303'
+p217
+aS'remanded:312'
+p218
+aS'police custody:314'
+p219
+aS'local court:321'
+p220
+aS'connection:324'
+p221
+aS'illegal arms seizure case:328'
+p222
+aS'Mazgaon metropolitan magistrate:340'
+p223
+aS'court:347'
+p224
+aS'stateappointed lawyer:352'
+p225
+aS'defend:355'
+p226
+aS'lawyer:367'
+p227
+aS'arrested:384'
+p228
+aS'illegal firearms:391'
+p229
+aS'alleged role:419'
+p230
+aS'blasts:424'
+p231
+aS'lack of evidence:436'
+p232
+aS'prime suspect:463'
+p233
+aS'German Bakery blast:467'
+p234
+aS'dead:478'
+p235
+aS'terror outfit:501'
+p236
+asS'unexpl'
+p237
+(lp238
+g135
+asS'ocassion'
+p239
+g135
+sS'link'
+p240
+S'http://www.thehindu.com/news/national/article437892.ece'
+p241
+sS'date'
+p242
+S'24-05-2010'
+p243
+sS'target'
+p244
+g135
+sS'hot_spot'
+p245
+g135
+sS'delivery_mod'
+p246
+g135
+sS'delivery_met'
+p247
+g135
+sS'expl'
+p248
+(lp249
+g135
+asS'ORG'
+p250
+(lp251
+(lp252
+S'Anti-Terrorism Squad'
+p253
+aS'72'
+p254
+aS'Others'
+p255
+aa(lp256
+S'Mumbai police'
+p257
+aS'143'
+p258
+aS'Others'
+p259
+aa(lp260
+S'ATS'
+p261
+aS'190'
+p262
+aS'Others'
+p263
+aa(lp264
+S'Anti-Terrorism Squad'
+p265
+aS'208'
+p266
+aS'Others'
+p267
+aa(lp268
+S'PTI'
+p269
+aS'289'
+p270
+aS'Others'
+p271
+aa(lp272
+S'ATS'
+p273
+aS'398'
+p274
+aS'Others'
+p275
+aa(lp276
+S'Mangalore police'
+p277
+aS'415'
+p278
+aS'Others'
+p279
+aa(lp280
+S'ATS'
+p281
+aS'446'
+p282
+aS'Others'
+p283
+aa(lp284
+S'ATS'
+p285
+aS'483'
+p286
+aS'Others'
+p287
+aa(lp288
+S'Indian Mujahideen'
+p289
+aS'503'
+p290
+aS'Accused'
+p291
+aa(lp292
+S'IM'
+p293
+aS'506'
+p294
+aS'Accused'
+p295
+aas.

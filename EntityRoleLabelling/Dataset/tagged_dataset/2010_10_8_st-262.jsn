@@ -1,0 +1,98 @@
+{
+    "LOC": [
+        [
+            "M. Chinnaswamy Stadium", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Cubbon Park Subdivision", 
+            "168", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "G. Ramesh", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "Devaraju", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "Ramesh", 
+            "335", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:17", 
+        "April:27", 
+        "April blasts:77", 
+        "April:77", 
+        "April:100", 
+        "April 17:100", 
+        "April bombs:272", 
+        "April:272"
+    ], 
+    "death": "", 
+    "title": "Stadium secured ahead of Test", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A three-layer cordon will secure the M. Chinnaswamy Stadium for the second India-Australia cricket Test starting Saturday . Chastised after the blasts at the stadium in April on the day of an IPL match , the city police are taking no chances . The stadium has already been sanitised in the run-up to the five-day match . Anyone entering is being frisked , while anti-sabotage units are checking the length and breadth of the stadium . April blasts Two low-intensity crude bombs had gone off just before the IPL league match between Mumbai Indians and Bangalore Royal Challengers on April 17 this year , injuring 17 people and nine policemen . We have tightened the security to eliminate any chances of a recurrence , Deputy Commissioner of Police ( Central Division ) G. Ramesh told The Hindu . Even the stadium staff will not be spared from the checks , he added . The security is as per the blueprint devised by Assistant Commissioner of Police ( Cubbon Park Subdivision ) Devaraju and his colleagues . Eight Assistant Commissioners of Police , 30 police inspectors , 60 sub-inspectors and around 2,000 police constables are being deployed . At least 12 door-fitted metal detectors ( DFMD ) , about 100 hand-held metal detectors ( HHMD ) and 12 closed-circuit cameras have been installed in and outside the stadium . The cameras can see even in the dark , the police said . Spectators will not be allowed to carry bags , bottles , matchboxes , cigarette lighters , nail cutters or mobile phones into the stadium . Ad boards banned Considering the April bombs were hidden behind plastic boards , this time advertisement hoardings have been banned across the stadium . The police have told stadium officials to guard vulnerable areas , including ceilings , toilets and passages . The police have already checked the antecedents of stadium employees . They have also obtained the list of housekeeping staff and verified their background , Mr. Ramesh said . The police will keep ready a patrol vehicle , a fire tender and an ambulance near the stadium . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "india-australia cricket test:13", 
+        "ipl match:33", 
+        "stadium:75", 
+        "crude bombs:81", 
+        "ipl:89", 
+        "deputy commissioner:125", 
+        "housekeeping staff:327", 
+        "fire tender:348"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/stadium-secured-ahead-of-test/article819071.ece", 
+    "date": "17-04-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Mumbai Indians", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Bangalore Royal Challengers", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "136", 
+            "Others"
+        ]
+    ]
+}

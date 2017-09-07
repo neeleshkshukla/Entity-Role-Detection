@@ -1,0 +1,95 @@
+{
+    "LOC": [
+        [
+            "Egypt", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Sinai peninsula", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Rafah", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Gaza Strip", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Rafah", 
+            "132", 
+            "Event"
+        ], 
+        [
+            "Imam Ali", 
+            "134", 
+            "Event"
+        ], 
+        [
+            "Rafah", 
+            "156", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ahmed Aly", 
+            "66", 
+            "Comment"
+        ], 
+        [
+            "Aly", 
+            "111", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:6"
+    ], 
+    "death": "6", 
+    "title": "Six Egyptian soldiers killed in attacks", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Twin car bomb blasts on Wednesday targeting Egypt 's army killed at least six soldiers in the restive Sinai peninsula , where the military is battling Islamist militants , officials said . Security officials said an explosion targeted the military intelligence headquarters in Rafah on the border with the Gaza Strip , minutes before a second explosion hit an army checkpoint nearby . Military spokesman Ahmed Aly said in a statement the blasts were caused by car bombs . `` Islamist terrorist elements carried out a treacherous attack using two cars loaded with a large quantity of explosives ... that left six soldiers dead and 17 people injured , '' Aly said.The injured included seven civilians , he added . Witnesses said the first blast shattered the windows of buildings in Rafah 's Imam Ali area . The military intelligence headquarters is located in a high-security military zone and surrounded by checkpoints , sources in Rafah said.AFP OPEN", 
+    "injured": "17", 
+    "det_loc": [
+        "Egypt", 
+        "", 
+        "", 
+        "Cairo", 
+        "Sinai peninsula"
+    ], 
+    "O": [
+        "Twin car bomb:1", 
+        "army:10", 
+        "Islamist militants:27", 
+        "military intelligence headquarters:40", 
+        "army checkpoint:60", 
+        "car bombs:77", 
+        "shattered:126", 
+        "windows:128"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/six-egyptian-soldiers-killed-in-attacks/article5117732.ece", 
+    "date": "", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "military intelligence headquarters,\r\narmy checkpoint", 
+    "delivery_mod": "Four wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

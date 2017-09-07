@@ -1,0 +1,475 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Purana Qila'
+p4
+aS'424'
+p5
+aS'Neutral'
+p6
+aasS'PER'
+p7
+(lp8
+(lp9
+S'Afzal Guru'
+p10
+aS'105'
+p11
+aS'Assoc Accused'
+p12
+aa(lp13
+S'Sheila Dikshit'
+p14
+aS'187'
+p15
+aS'Others'
+p16
+aa(lp17
+S'Rahul Gupta'
+p18
+aS'438'
+p19
+aS'Victim'
+p20
+aa(lp21
+S'P. Chidambaram'
+p22
+aS'635'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Manmohan Singh'
+p26
+aS'650'
+p27
+aS'Others'
+p28
+aasS'TIM'
+p29
+(lp30
+S'10.14 a.m.:300'
+p31
+aS'1 p.m.:641'
+p32
+asS'hot_setting'
+p33
+S''
+p34
+sS'DAT'
+p35
+(lp36
+S'Wednesday:37'
+p37
+aS'May 25:716'
+p38
+asS'death'
+p39
+S'11'
+p40
+sS'title'
+p41
+S'11 killed as blast rocks Delhi High Court complex'
+p42
+sS'org_unorg'
+p43
+S'Organized'
+p44
+sS'terror_group'
+p45
+(lp46
+g34
+asS'content'
+p47
+S"Less than four months after a mysterious bomb went off in the parking lot , a powerful blast ripped through the reception counter of the Delhi High Court complex in the heart of the capital on Wednesday , leaving at least 11 people dead and more than 75 injured . Even as a red alert was sounded in the city , an email sent to various media organisations claimed responsibility for the blast on behalf of the Harkat-ul-Jihadi . ' The claim , sent from harkatuljihadi2011@gmail.com, threatened similar blasts at the Supreme Court and other major High Courts if the Parliament attack case convict Afzal Guru 's death sentence was not repealed . ( sic ) . While 57 of the injured have been admitted to the Ram Manohar Lohia Hospital , others have been referred to the Sir Ganga Ram Hospital , the Apollo Hospital , the Safdarjung Hospital , the Moolchand Hospital and the JPNA Trauma Centre of the AIIMS . The identity of all the deceased , including a 55-year-old woman and three elderly men , has been established . Compensation Chief Minister Sheila Dikshit announced that Rs . 4 lakh in compensation would be paid to the families of the deceased , Rs . 2 lakh to those who suffered permanent incapacitation , Rs . 1 lakh to those with serious injury , and Rs . 10,000 for those who suffered minor injury . A preliminary analysis of the samples collected from the spot has suggested that a mixture of some plastic explosive , such as PETN , and ammonium nitrate had been used to configure the bomb kept in a briefcase . However , the exact composition will be established through proper laboratory tests , said a senior officer . It all happened at 10.14 a.m. when scores of litigants had queued up at the reception desk counters , adjacent to Gate No. 5 , to collect entry passes . The deafening explosion created a two-foot crater on the cemented platform , blew off the tin roof and sent splinters flying in all directions . All those standing in a five-metre radius were knocked off their feet . According to eyewitnesses , the bomb was probably planted in the briefcase placed near a stone bench on the right side of the reception desk . Based on the descriptions provided by two eyewitnesses , the police prepared two sketches of the suspects . A witness claimed that he saw one of the suspects , wearing kurta-pyjama , fleeing towards Purana Qila and he tried to chase him , but the man escaped . Rahul Gupta , a visibly shaken public interest litigation litigant , said : I was about to collect my pass when I heard a loud explosion that shook the earth . There was smoke all around . I saw people lying on the ground , some piled up on each other . They were all covered in blood , their clothes torn into shreds . Pieces of clothes were hanging from a tree over the reception desk . Some had lost their limbs . I escaped with splinter injuries in the right hand . As many as 22 police control room vans reached the spot and swiftly removed the injured to hospitals with the help of lawyers and volunteers . The area was cordoned off and the site covered with a plastic sheet to protect the evidence from rain . Officers of the National Investigation Agency and the Delhi Police , personnel of the National Disaster Response Force and bomb experts of the National Security Guard rushed to the site to gather evidence . No CCTVs The police found that no closed-circuit television cameras had been installed at any of the entry gates . Union Home Minister P. Chidambaram visited the site around 1 p.m. Later in the evening , Prime Minister Manmohan Singh went to the Ram Manohar Lohia Hospital to enquire about the injured . A case has been registered by the Special Cell of the Delhi Police . While efforts are on to identify those behind the attack , the blast is being perceived as a sequel to an ammonium nitrate-fuelled , low-intensity explosion which occurred outside Gate No. 7 of the High Court on May 25 . No one was injured in that incident . The case remains unsolved . OPEN"
+p48
+sS'injured'
+p49
+S'75'
+p50
+sS'det_loc'
+p51
+(lp52
+S'India'
+p53
+aS'Delhi'
+p54
+aS'New Delhi'
+p55
+aS'New Delhi'
+p56
+aS'Delhi High Court complex'
+p57
+asS'O'
+p58
+(lp59
+S'bomb:8'
+p60
+aS'parking lot:13'
+p61
+aS'blast:18'
+p62
+aS'reception:22'
+p63
+aS'complex:29'
+p64
+aS'heart:32'
+p65
+aS'capital:35'
+p66
+aS'city:60'
+p67
+aS'email:63'
+p68
+aS'responsibility:70'
+p69
+aS'blast:73'
+p70
+aS'behalf:75'
+p71
+aS'claim:82'
+p72
+aS'harkatuljihadi2011@gmail.com,:86'
+p73
+aS'parliament attack case:101'
+p74
+aS'parliament:101'
+p75
+aS'attack case:102'
+p76
+aS'death sentence:108'
+p77
+aS'sic:115'
+p78
+aS'jpna trauma:157'
+p79
+aS'jpna trauma centre:157'
+p80
+aS'centre:159'
+p81
+aS'identity:165'
+p82
+aS'woman:174'
+p83
+aS'rs:191'
+p84
+aS'lakh:194'
+p85
+aS'compensation:196'
+p86
+aS'rs:207'
+p87
+aS'lakh:210'
+p88
+aS'incapacitation:216'
+p89
+aS'rs:218'
+p90
+aS'lakh:221'
+p91
+aS'injury:226'
+p92
+aS'rs:229'
+p93
+aS'injury:237'
+p94
+aS'analysis:241'
+p95
+aS'spot:248'
+p96
+aS'mixture:253'
+p97
+aS'plastic explosive:256'
+p98
+aS'petn:261'
+p99
+aS'ammonium:264'
+p100
+aS'bomb:272'
+p101
+aS'briefcase:276'
+p102
+aS'composition:282'
+p103
+aS'laboratory:288'
+p104
+aS'officer:294'
+p105
+aS'reception desk:311'
+p106
+aS'gate no.:317'
+p107
+aS'entry:323'
+p108
+aS'explosion:328'
+p109
+aS'crater:332'
+p110
+aS'platform:336'
+p111
+aS'tin roof:341'
+p112
+aS'standing:353'
+p113
+aS'radius:357'
+p114
+aS'bomb:369'
+p115
+aS'briefcase:375'
+p116
+aS'stone bench:379'
+p117
+aS'side:384'
+p118
+aS'reception desk:387'
+p119
+aS'witness:409'
+p120
+aS'saw:413'
+p121
+aS'kurta-pyjama:420'
+p122
+aS'chase:430'
+p123
+aS'man:435'
+p124
+aS'public interest litigation litigant:444'
+p125
+aS'pass:457'
+p126
+aS'explosion:463'
+p127
+aS'earth:467'
+p128
+aS'smoke:471'
+p129
+aS'saw:476'
+p130
+aS'ground:481'
+p131
+aS'blood:495'
+p132
+aS'pieces:503'
+p133
+aS'tree:510'
+p134
+aS'reception desk:513'
+p135
+aS'splinter:525'
+p136
+aS'hand:530'
+p137
+aS'control room:537'
+p138
+aS'spot:542'
+p139
+aS'help:552'
+p140
+aS'area:559'
+p141
+aS'site:565'
+p142
+aS'plastic sheet:569'
+p143
+aS'evidence:574'
+p144
+aS'rain:576'
+p145
+aS'bomb:597'
+p146
+aS'site:607'
+p147
+aS'evidence:610'
+p148
+aS'television:620'
+p149
+aS'entry:629'
+p150
+aS'union:632'
+p151
+aS'union home:632'
+p152
+aS'home:633'
+p153
+aS'home minister:633'
+p154
+aS'site:639'
+p155
+aS'evening:646'
+p156
+aS'enquire:660'
+p157
+aS'case:666'
+p158
+aS'cell:673'
+p159
+aS'attack:688'
+p160
+aS'blast:691'
+p161
+aS'sequel:697'
+p162
+aS'ammonium:700'
+p163
+aS'explosion:704'
+p164
+aS'gate no.:708'
+p165
+aS'incident:725'
+p166
+aS'case:728'
+p167
+asS'unexpl'
+p168
+(lp169
+g34
+asS'ocassion'
+p170
+g34
+sS'link'
+p171
+S'http://www.thehindu.com/todays-paper/11-killed-as-blast-rocks-delhi-high-court-complex/article2433965.ece'
+p172
+sS'date'
+p173
+S'07-09-2011'
+p174
+sS'target'
+p175
+S'Government Building'
+p176
+sS'hot_spot'
+p177
+S'Delhi High Court Complex'
+p178
+sS'delivery_mod'
+p179
+S'Bicycle'
+p180
+sS'delivery_met'
+p181
+S'Planted'
+p182
+sS'expl'
+p183
+(lp184
+S'Ammonium Nitrate'
+p185
+asS'ORG'
+p186
+(lp187
+(lp188
+S'Delhi High Court'
+p189
+aS'26'
+p190
+aS'Victim'
+p191
+aa(lp192
+S'Harkat-ul-Jihadi'
+p193
+aS'78'
+p194
+aS'Accused'
+p195
+aa(lp196
+S'Supreme Court'
+p197
+aS'92'
+p198
+aS'Others'
+p199
+aa(lp200
+S'Ram Manohar Lohia Hospital'
+p201
+aS'128'
+p202
+aS'Others'
+p203
+aa(lp204
+S'Sir Ganga Ram Hospital'
+p205
+aS'139'
+p206
+aS'Others'
+p207
+aa(lp208
+S'Apollo Hospital'
+p209
+aS'145'
+p210
+aS'Others'
+p211
+aa(lp212
+S'Safdarjung Hospital'
+p213
+aS'149'
+p214
+aS'Others'
+p215
+aa(lp216
+S'Moolchand Hospital'
+p217
+aS'153'
+p218
+aS'Others'
+p219
+aa(lp220
+S'AIIMS'
+p221
+aS'162'
+p222
+aS'Others'
+p223
+aa(lp224
+S'National Investigation Agency'
+p225
+aS'581'
+p226
+aS'Others'
+p227
+aa(lp228
+S'Delhi Police'
+p229
+aS'586'
+p230
+aS'Others'
+p231
+aa(lp232
+S'National Disaster Response Force'
+p233
+aS'592'
+p234
+aS'Others'
+p235
+aa(lp236
+S'National Security Guard'
+p237
+aS'601'
+p238
+aS'Others'
+p239
+aa(lp240
+S'Ram Manohar Lohia Hospital'
+p241
+aS'655'
+p242
+aS'Others'
+p243
+aa(lp244
+S'Delhi Police'
+p245
+aS'676'
+p246
+aS'Others'
+p247
+aa(lp248
+S'High Court'
+p249
+aS'713'
+p250
+aS'Others'
+p251
+aas.

@@ -1,0 +1,255 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'ISLAMABAD'
+p4
+aS'17'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'U.S.'
+p8
+aS'24'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Peshawar'
+p12
+aS'27'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Rawalpindi'
+p16
+aS'94'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Lower Dir district'
+p20
+aS'115'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'North West Frontier Province'
+p24
+aS'119'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'North Waziristan'
+p28
+aS'161'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'U.S'
+p32
+aS'239'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'downtown Sadar'
+p36
+aS'304'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Peshawar'
+p40
+aS'322'
+p41
+aS'Neutral'
+p42
+aasS'PER'
+p43
+(lp44
+(lp45
+S'Anita Joshua'
+p46
+aS'1'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Taliban'
+p50
+aS'7'
+p51
+aS'Others'
+p52
+aasS'TIM'
+p53
+(lp54
+sS'hot_setting'
+p55
+S''
+p56
+sS'DAT'
+p57
+(lp58
+S'Monday afternoon:29'
+p59
+aS'Monday afternoon:29'
+p60
+aS'Monday:29'
+p61
+aS'October:96'
+p62
+asS'death'
+p63
+S'6'
+p64
+sS'title'
+p65
+S'Suicide attacks on U.S. mission in Peshawar, Awami party rally'
+p66
+sS'det_loc'
+p67
+(lp68
+S'Pakistan'
+p69
+ag56
+ag56
+aS'peshawar'
+p70
+ag56
+asS'terror_group'
+p71
+(lp72
+S'Tehrik-i-Taliban'
+p73
+asS'content'
+p74
+S"Anita Joshua Over 46 killed ; Taliban says attack was meant to avenge U.S. drone offensive ISLAMABAD : Suicide bombers struck at the U.S. Consulate-General in Peshawar on Monday afternoon in an attempt to breach the premises . Two Pakistani guards and four terrorists were killed in the attack and no American casualties were reported . The Tehrik-i-Taliban ( TTP-Pakistan wing of the Taliban ) has claimed responsibility for the attack , which is being billed by security analysts as similar to the terror strike at the General Headquarters of the Army in Rawalpindi in October last . Hours earlier , in a suicide bomb strike at an Awami National Party rally in the Lower Dir district of North West Frontier Province ( NWFP ) over 40 persons were killed . The rally was organised to celebrate the renaming of the NWFP as Khyber-Pukhtoonkhwa . A TTP spokesman told AFP that the attack was to avenge the drone attacks in North Waziristan and there would be more such attacks on any place where there are Americans . '' Preliminary investigations reveal that the suicide bombers , disguised as security personnel , rammed their bomb-laden vehicle into the security picket at the Consulate-General . In the confusion caused by the first blast , their associates lobbed grenades triggering a series of blasts and engaged in a gun battle with security personnel while attempting to enter the building . The U.S. Embassy confirmed that an attempt was made to enter the consulate premises . It said , The coordinated attack involved a vehicle suicide bomb and terrorists attempting to enter the building using grenades and weapons fire '' . Stunned that the terrorists had managed to get as far as they did given the multiple layers of security around the mission shopkeepers in the nearby downtown Sadar area downed their shutters as security personnel cordoned off roads leading to the consulate and the Peshawar headquarters of the ISI which had faced a similar attack last year . OPEN"
+p75
+sS'injured'
+p76
+g56
+sS'org_unorg'
+p77
+S'Organized'
+p78
+sS'O'
+p79
+(lp80
+S'u.s. drone offensive:14'
+p81
+aS'Suicide bombers:19'
+p82
+aS'american casualties:52'
+p83
+aS'tehrik-i-taliban:58'
+p84
+aS'responsibility:68'
+p85
+aS'terror strike:84'
+p86
+aS'general headquarters:88'
+p87
+aS'headquarters:89'
+p88
+aS'suicide bomb strike:104'
+p89
+aS'ttp spokesman:147'
+p90
+aS'drone attacks:158'
+p91
+aS'suicide:184'
+p92
+aS'suicide bombers:184'
+p93
+aS'bomb-laden vehicle:194'
+p94
+aS'blast:211'
+p95
+aS'gun battle:226'
+p96
+aS'u.s. embassy:239'
+p97
+aS'consulate:250'
+p98
+aS'attack:258'
+p99
+aS'vehicle suicide bomb:261'
+p100
+aS'building:270'
+p101
+aS'security:296'
+p102
+asS'unexpl'
+p103
+(lp104
+g56
+asS'ocassion'
+p105
+g56
+sS'link'
+p106
+S'http://www.thehindu.com/todays-paper/suicide-attacks-on-us-mission-in-peshawar-awami-party-rally/article745009.ece'
+p107
+sS'date'
+p108
+S'06-04-2010'
+p109
+sS'target'
+p110
+S'Government Building'
+p111
+sS'hot_spot'
+p112
+S'U.S. Consulate-General'
+p113
+sS'delivery_mod'
+p114
+g56
+sS'delivery_met'
+p115
+g56
+sS'expl'
+p116
+(lp117
+g56
+asS'ORG'
+p118
+(lp119
+(lp120
+S'Tehrik-i-Taliban'
+p121
+aS'58'
+p122
+aS'Others'
+p123
+aa(lp124
+S'Awami National Party'
+p125
+aS'109'
+p126
+aS'Others'
+p127
+aa(lp128
+S'Khyber-Pukhtoonkhwa'
+p129
+aS'144'
+p130
+aS'Others'
+p131
+aa(lp132
+S'ISI'
+p133
+aS'326'
+p134
+aS'Others'
+p135
+aas.

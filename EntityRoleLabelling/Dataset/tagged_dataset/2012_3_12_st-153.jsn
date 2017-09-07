@@ -1,0 +1,147 @@
+{
+    "LOC": [
+        [
+            "Uthangarai", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Uthangarai", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Krishnagiri", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Perampathy", 
+            "41", 
+            "Accused Location"
+        ], 
+        [
+            "Vellore", 
+            "44", 
+            "Accused Location"
+        ], 
+        [
+            "Karapattu", 
+            "52", 
+            "Accused Location"
+        ], 
+        [
+            "Krishnagiri", 
+            "55", 
+            "Accused Location"
+        ], 
+        [
+            "Uthangarai", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Salem", 
+            "91", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "V. Kasi Viswanathan", 
+            "15", 
+            "Comment"
+        ], 
+        [
+            "Viswanathan", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Jeeva", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "Viswanathan", 
+            "81", 
+            "Accused"
+        ], 
+        [
+            "Viswanathan", 
+            "96", 
+            "Accused"
+        ], 
+        [
+            "Jeeva", 
+            "104", 
+            "Accused"
+        ], 
+        [
+            "Jeeva", 
+            "106", 
+            "Accused"
+        ], 
+        [
+            "T. Srinivasan", 
+            "112", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:34", 
+        "Saturday:60", 
+        "Monday:121"
+    ], 
+    "death": "", 
+    "title": "Uthangarai blast: two more held", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two more persons have been arrested in connection with the Uthangarai bomb blast . V. Kasi Viswanathan , Deputy Superintendent of Police ( Uthangarai , Krishnagiri District ) , told The Hindu on Sunday that Viswanathan ( 65 ) of Perampathy village in Vellore district and Jeeva ( 22 ) of Karapattu village in Krishnagiri district were arrested on Saturday and produced before the Uthangarai Judicial Magistrate . When the accused were being taken to the Salem Central Prison , Viswanathan took ill and was admitted to a hospital in Salem . The DSP said Viswanathan had supplied about 125 gelatine sticks to Jeeva . Jeeva had sold some sticks to T. Srinivasan , who died in a blast on Monday last . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "", 
+        "Krishnagiri", 
+        ""
+    ], 
+    "O": [
+        "bomb blast:12", 
+        "judicial magistrate:66", 
+        "accused:71", 
+        "hospital:89", 
+        "dsp:94", 
+        "gelatine sticks:101", 
+        "blast:119"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/uthangarai-blast-two-more-held/article2986293.ece", 
+    "date": "11-03-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "The Hindu", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "Salem Central Prison", 
+            "77", 
+            "Others"
+        ]
+    ]
+}

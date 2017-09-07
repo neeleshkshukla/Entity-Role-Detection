@@ -1,0 +1,123 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "12", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mayor Mohd .", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "Majid Hussain", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "Mayor Rajkumar", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "M.T. Krishna Babu", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "V. Ramulu", 
+            "70", 
+            "Victim"
+        ], 
+        [
+            "Swapna Reddy", 
+            "73", 
+            "Victim"
+        ], 
+        [
+            "Mohd . Rafiuddin", 
+            "76", 
+            "Victim"
+        ], 
+        [
+            "N. Venkateswarlu", 
+            "80", 
+            "Victim"
+        ], 
+        [
+            "Aijaz Ahmed", 
+            "83", 
+            "Victim"
+        ], 
+        [
+            "Ahmedullah Khan", 
+            "86", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:44"
+    ], 
+    "death": "17", 
+    "title": "GHMCs compensation for victims of twin blasts", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "HYDERABAD", 
+        " Dilsukhnagar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Family members of six of the 17 persons killed in the Dilsukhnagar twin bomb blasts were handed over ex-gratia of Rs . 1 lakh each by Mayor Mohd . Majid Hussain at the Greater Hyderabad Municipal Corporation ( GHMC ) head office on Tuesday . Ex-gratia in phases Deputy Mayor Rajkumar and GHMC Commissioner M.T. Krishna Babu were also present when the cheques were issued to the families of V. Ramulu , Swapna Reddy , Mohd . Rafiuddin , N. Venkateswarlu , Aijaz Ahmed and Ahmedullah Khan . Ex-gratia for the rest too would be given in phases , an official spokesperson of the GHMC said . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "family members:1", 
+        "twin bomb:13", 
+        "handed:17", 
+        "ex-gratia:19", 
+        "head office:41"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/ghmcs-compensation-for-victims-of-twin-blasts/article4575630.ece", 
+    "date": "02-04-2013", 
+    "target": "", 
+    "hot_spot": "  Dilsukhnagar", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Greater Hyderabad Municipal Corporation", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "GHMC", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "GHMC Commissioner", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "GHMC", 
+            "105", 
+            "Others"
+        ]
+    ]
+}

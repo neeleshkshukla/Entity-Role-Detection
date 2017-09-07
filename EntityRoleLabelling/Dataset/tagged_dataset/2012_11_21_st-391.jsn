@@ -1,0 +1,215 @@
+{
+    "LOC": [
+        [
+            "Varkala", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Chilakoor", 
+            "234", 
+            "Neutral"
+        ], 
+        [
+            "Attingal", 
+            "256", 
+            "Neutral"
+        ], 
+        [
+            "Technopark", 
+            "260", 
+            "Event"
+        ], 
+        [
+            "Kazhakuttom", 
+            "262", 
+            "Event"
+        ], 
+        [
+            "Nila", 
+            "300", 
+            "Event"
+        ], 
+        [
+            "Technopark", 
+            "479", 
+            "Event"
+        ], 
+        [
+            "Technopark", 
+            "492", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "48-hour : 58", 
+        "5.30 a.m. : 236", 
+        "9.30 a.m. : 332"
+    ], 
+    "hot_setting": "The Indian Navy's Joint Operations Centre had launched the 48-hour counter-terrorism exercise code-named Operation Gemini to test the preparedness of the State and Central agencies to combat seaborne terrorist threats and infiltration bids.", 
+    "DAT": [
+        "Tuesday : 47", 
+        "Monday : 65", 
+        "Wednesday : 475"
+    ], 
+    "death": "0", 
+    "title": "Seaborne terrorists attack Technopark", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Trivandrum", 
+        "Thiruvananthapuram", 
+        "Nila building, Technopark campus, Kazhakuttom"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "In a simulated seaborne terrorist attack on a high-value land target , three armed operatives made landfall at an isolated stretch of the shoreline here , foxed the police , and infiltrated the well guarded Technopark campus to plant a bomb there at rush hour on Tuesday . The Indian Navys Joint Operations Centre had launched the 48-hour counter-terrorism exercise code-named Operation Gemini on Monday to test the preparedness of the State and Central agencies to combat seaborne terrorist threats and infiltration bids . The operation involved the Navy , Coast Guard , Indian Air Force , and neighbourhood watch committees comprising shore dwellers and seagoing fishermen . The Navy had earlier informed the State police of an imminent seaborne terrorist threat . The police upped its presence at potential landing points along the States 600-km long coastline and put its resources , including civilian look-outs at sea and near the shore , on alert . The agents , two Navy operatives and one Coast Guard man , arrived off the Varkala coast in a seagoing vessel with a shallow draft , which enabled it to operate in waters close to the shore . The agents hailed a small fishing boat and pleaded the fishermen to drop them ashore urgently under the pretext that one of them was ill . The fishermen dropped the agents in a remote stretch of the coast near Chilakoor around 5.30 a.m. . The agents donned the type of dress commonly worn by white-collar workers and took a bus from Attingal bus stand to Technopark at Kazhakuttom . The agents skipped the main security gate and entered the States IT hub through an unmanned path used by IT employees to access local eateries outside the expansive campus . They reached the portals of the Nila building , which houses scores of IT firms , flashed their identity cards to the security , and made their way into the complex along with a lot of employees at 9.30 a.m. . They placed a small cardboard box marked RDX Bomb in a remote corner of the building , alerted the police , and vanished . Fire engines , police vehicles , and vans carrying sniffer dogs and men and equipment of the Bomb Detection and Disposal Squad ( BDDS ) converged on the campus , causing quite a furore there . The police evacuated the building of employees and the BDDS men , clad in large anti-blast bomb suits and wielding ordnance-detection equipment , scoured the structure for explosives . State Police Commando units and Quick Reaction Teams assisted the search . The police found the bomb an hour later , used robotic equipment to put it in a special compartment designed to withstand blasts and took it to a safe locale to be defused . The operation will conclude on Wednesday . Agents enter Technopark through an unmanned pathPolice find the bomb an hour later Agents enter Technopark through an unmanned path Police find the bomb an hour later OPEN", 
+    "injured": "0", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "seaborne terrorist attack:4", 
+        "high-value land target:9", 
+        "armed operatives:14", 
+        "landfall:17", 
+        "shoreline:24", 
+        "infiltrated:32", 
+        "Technopark campus:36", 
+        "bomb:41", 
+        "rush hour:44", 
+        "counter-terrorism:59", 
+        "Operation Gemini:62", 
+        "State and Central agencies:72", 
+        "seaborne terrorist threats:78", 
+        "infiltration bids:82", 
+        "shore dwellers:103", 
+        "seagoing fishermen:106", 
+        "seaborne terrorist threat:120", 
+        "coastline:138", 
+        "seagoing vessel:176", 
+        "shallow draft:180", 
+        "ill:219", 
+        "remote:228", 
+        "security gate:269", 
+        "States IT:274", 
+        "IT employees:283", 
+        "IT firms:307", 
+        "identity cards:312", 
+        "security:316", 
+        "RDX:342", 
+        "Fire engines:359", 
+        "police vehicles:362", 
+        "vans:366", 
+        "anti-blast bomb suits:410", 
+        "wielding ordnance-detection equipment:414", 
+        "structure for explosives:420", 
+        "robotic equipment:446", 
+        "blasts:458"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "MOCK COUNTER-TERRORISM EXERCISE", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/seaborne-terrorists-attack-technopark/article4118169.ece", 
+    "date": "20-11-2012", 
+    "target": "OFFICE BUILDING", 
+    "hot_spot": "A building which houses offices of IT firms at Technopark which is the state's IT hub.", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "Technopark", 
+            "36", 
+            "Victim"
+        ], 
+        [
+            "Indian Navys", 
+            "50", 
+            "Accused"
+        ], 
+        [
+            "Joint Operations Centre", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "Navy", 
+            "89", 
+            "Accused"
+        ], 
+        [
+            "Coast Guard", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Indian Air Force", 
+            "94", 
+            "Accused"
+        ], 
+        [
+            "Navy", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "State police", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "Navy", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "Coast Guard", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "IT", 
+            "275", 
+            "Others"
+        ], 
+        [
+            "IT", 
+            "283", 
+            "Others"
+        ], 
+        [
+            "IT", 
+            "307", 
+            "Others"
+        ], 
+        [
+            "Bomb Detection and Disposal Squad", 
+            "376", 
+            "Others"
+        ], 
+        [
+            "BDDS", 
+            "382", 
+            "Others"
+        ], 
+        [
+            "BDDS", 
+            "404", 
+            "Others"
+        ], 
+        [
+            "State Police Commando", 
+            "424", 
+            "Others"
+        ], 
+        [
+            "Quick Reaction Teams", 
+            "429", 
+            "Others"
+        ]
+    ]
+}

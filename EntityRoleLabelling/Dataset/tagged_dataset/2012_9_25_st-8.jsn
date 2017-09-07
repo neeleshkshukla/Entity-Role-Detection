@@ -1,0 +1,104 @@
+{
+    "LOC": [
+        [
+            "Assams", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Sivasagar", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "74", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Paresh Barua", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "G.D. Tripathi", 
+            "46", 
+            "Comment", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:24"
+    ], 
+    "death": "1", 
+    "title": "1 killed as bomb goes off in Assam", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "United Liberation Front of Assam (ULFA"
+    ], 
+    "content": "One person was killed and seven were injured when a bicycle-bomb went off outside a cinema hall in upper Assams Sivasagar town on Monday night . Police suspect that the blast was the handiwork of the Paresh Barua faction of the ULFA . Home Secretary G.D. Tripathi told The Hindu that one critically injured person was shifted to the Assam Medical College in Dibrugarh , while the others were admitted to hospitals in Sivasagar town . It is suspected that an improvised explosive device was used . Had the blast occurred in the evening when the place is crowded , there would have been many more casualties . OPEN", 
+    "injured": "7", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Sivasagar", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "injured:8", 
+        "bicycle-bomb:11", 
+        "cinema hall:16", 
+        "town:22", 
+        "night:25", 
+        "suspect:28", 
+        "blast:31", 
+        "handiwork:34", 
+        "faction:39", 
+        "home secretary:44", 
+        "home:44", 
+        "person:55", 
+        "town:75", 
+        "explosive device:83", 
+        "blast:90"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/1-killed-as-bomb-goes-off-in-assam/article3933909.ece", 
+    "date": "24-09-2012", 
+    "target": "Market Place", 
+    "hot_spot": "", 
+    "delivery_mod": "Bicycle", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ULFA", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "Assam Medical College", 
+            "60", 
+            "Others"
+        ]
+    ]
+}

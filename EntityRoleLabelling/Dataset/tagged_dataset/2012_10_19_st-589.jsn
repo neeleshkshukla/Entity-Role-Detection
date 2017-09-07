@@ -1,0 +1,200 @@
+{
+    "LOC": [
+        [
+            "Patel Nagar", 
+            "237"
+        ], 
+        [
+            "Delhi", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Ghaffar Market", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Karol Bagh", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "97", 
+            "Accused Location"
+        ], 
+        [
+            "Connaught Place", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "Karol Bagh", 
+            "132", 
+            "Event"
+        ], 
+        [
+            "Greater Kailash", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "175", 
+            "Accused Location"
+        ], 
+        [
+            "Maharashtra", 
+            "184", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "195", 
+            "Neutral"
+        ], 
+        [
+            "Mathura Road", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Nizamuddin police station", 
+            "216", 
+            "Neutral"
+        ], 
+        [
+            "police", 
+            "217", 
+            "Neutral"
+        ], 
+        [
+            "Gaffar Market", 
+            "231", 
+            "Event"
+        ], 
+        [
+            "Saraswati Marg", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "333", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Narinder Kumar", 
+            "80", 
+            "Others"
+        ], 
+        [
+            "Mool Chand", 
+            "107", 
+            "Accused"
+        ], 
+        [
+            "Chand", 
+            "198", 
+            "Comment"
+        ], 
+        [
+            "Chand", 
+            "272", 
+            "Comment"
+        ], 
+        [
+            "Rebecca John", 
+            "392", 
+            "Comment"
+        ], 
+        [
+            "Mohammed Shakeel", 
+            "398", 
+            "Accused"
+        ], 
+        [
+            "Kumar", 
+            "501", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "5-30 p.m.:221"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "September 2008:6", 
+        "September 13 , 2008  : 138", 
+        "October 31:522"
+    ], 
+    "death": "", 
+    "title": "Witness fails to identify Delhi blasts case accused", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "A prosecution witness in the September 2008 Delhi serial blasts case , in whose auto-rickshaw a bomb went off at Ghaffar Market in Karol Bagh , failed to identify the accused person who had allegedly planted the bomb that exploded minutes after he got off the TSR . Though the witness in his statement to the police had said he could identify the accused , he failed to do so despite over half-an-hour being granted by Additional Sessions Judge Narinder Kumar . Six of the accused were paraded before him through video-conferencing from Sabarmati Jail in Ahmedabad where they are presently lodged . But auto-rickshaw driver Mool Chand could not identify the youth who had hired the auto-rickshaw before the bomb went off . Five blasts occurred at Connaught Place , Karol Bagh and Greater Kailash on September 13 , 2008 , which killed 26 persons and injured over 100 others . Thirteen alleged Indian Mujahideen militants are on trial in the case . Six of them are presently lodged in Sabarmati jail in Gujarat , five are presently at Taluja Jail in Maharashtra , and the remaining two are at Tihar Jail in Delhi . Mr. Chand in his deposition to the court said that he was waiting for passengers on Mathura Road near Nizamuddin police station at about 5-30 p.m. when a youth asked him to go to Gaffar Market and thereafter , to Patel Nagar . Upon reaching Saraswati Marg , the passenger allegedly asked him to stop the auto rickshaw saying he wanted to purchase a mobile phone . When the youth did not return , Mr. Chand stepped out of the TSR to look for him , when the bomb exploded leaving him injured and unconscious . After the witness failed to identify the accused despite the camera focusing on each of the six accused persons faces , the prosecution sought that the six men , lodged in Sabarmati Jail , be summoned via production warrants to Delhi . Defence lawyers objected saying that it was the prosecution that had wanted the trial to proceed without the accused being present in person , overruling their objections . They also claimed that any more attempts to allow the witness to identify the accused would allow the police to tutor the witness in identifying the accused . Advocate Rebecca John , counsel for accused Mohammed Shakeel , said the decision to conduct the trial through video-conferencing had affected the defence , as lawyers were not able to ascertain various facts of the case from the accused men . In the given circumstances , when the witness has seen all the six accused on video-conferencing screen one-by-one when the camera was even focused on the face of each one of them and he could not identify the concerned accused , providing any further opportunity to the prosecution may lend an opportunity to the authorities to show the concerned accused to the witness in the meanwhile , ASJ Mr. Kumar said , rejecting the prosecution plea for summoning of the accused . The next hearing in the case is on October 31 . Six of the accused were paraded before him through video-conferencing from Sabarmati JailBut he could not identify the youth who had hired the auto before the bomb went off Six of the accused were paraded before him through video-conferencing from Sabarmati Jail But he could not identify the youth who had hired the auto before the bomb went off OPEN", 
+    "injured": "100", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "NEW DELHI:", 
+        "Ghaffar Market in Karol Bagh"
+    ], 
+    "O": [
+        "A:1", 
+        "additional sessions judge:77", 
+        "video-conferencing:92", 
+        "sabarmati jail:94", 
+        "auto-rickshaw:105", 
+        "militants:157", 
+        "sabarmati jail:172", 
+        "taluja jail:181", 
+        "tihar jail:192", 
+        "mobile phone:261", 
+        "TSR:277", 
+        "sabarmati jail:324", 
+        "sabarmati jail:565"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/witness-fails-to-identify-delhi-blasts-case-accused/article4011692.ece", 
+    "date": "13-09-2008", 
+    "target": "", 
+    "hot_spot": "Ghaffar Market in Karol Bagh", 
+    "delivery_mod": "AUTO-RICKSHAW", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "155", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "Defence lawyers", 
+            "335", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "381", 
+            "Others"
+        ]
+    ]
+}

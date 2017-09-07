@@ -1,0 +1,111 @@
+{
+    "LOC": [
+        [
+            "Armoor", 
+            "5", 
+            "Victim Location"
+        ], 
+        [
+            "Vannel", 
+            "8", 
+            "Victim Location"
+        ], 
+        [
+            "Balkonda mandal", 
+            "14", 
+            "Victim Location"
+        ], 
+        [
+            "Kabul", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Kabul", 
+            "58", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Naveen", 
+            "35", 
+            "Victim"
+        ], 
+        [
+            "Sandeep", 
+            "40", 
+            "Victim"
+        ], 
+        [
+            "Naveen", 
+            "45", 
+            "Victim"
+        ], 
+        [
+            "Sandeep", 
+            "66", 
+            "Victim"
+        ], 
+        [
+            "Naveen", 
+            "73", 
+            "Victim"
+        ], 
+        [
+            "Sandeep", 
+            "83", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "six months : 86"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 28", 
+        "February : 79"
+    ], 
+    "death": "", 
+    "title": "2 victims of Kabul blast from AP", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Kabul", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two youths belonging to Armoor town and Vannel ( B ) village of Balkonda mandal were killed in the suicide bomb blast in Kabul in Afghanistan on Tuesday . The victims were identified as Naveen ( 24 ) and Sandeep ( 24 ) . Naveen , after having completed his hotel management course , had gone to Kabul to work in a hotel , while Sandeep was doing some manual works . Naveen visited his family members in February last , while Sandeep got married six months ago . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "Two youths:1", 
+        "suicide bomb blast:20", 
+        "victims:31", 
+        "hotel management course:51", 
+        "hotel:63", 
+        "manual works:70"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/2-victims-of-kabul-blast-from-ap/article4879124.ece", 
+    "date": "02-07-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "HUMAN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

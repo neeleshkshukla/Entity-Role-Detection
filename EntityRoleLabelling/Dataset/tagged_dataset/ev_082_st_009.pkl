@@ -1,0 +1,274 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Agartala'
+p4
+aS'20'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Agartala'
+p8
+aS'65'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Tripura'
+p12
+aS'157'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'S.B. Dutta'
+p18
+aS'161'
+p19
+aS'Others'
+p20
+aa(lp21
+S'Bikash Debbarma'
+p22
+aS'183'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Kumaria Debbarma'
+p26
+aS'186'
+p27
+aS'Others'
+p28
+aa(lp29
+S'Sachindra Debbarma'
+p30
+aS'189'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Dinesh Debbarma'
+p34
+aS'192'
+p35
+aS'Others'
+p36
+aasS'TIM'
+p37
+(lp38
+S'evening : 41'
+p39
+aS'six years : 137'
+p40
+asS'hot_setting'
+p41
+S''
+p42
+sS'DAT'
+p43
+(lp44
+S'Tuesday : 4'
+p45
+aS'2008 : 16'
+p46
+aS'October 1 : 43'
+p47
+aS'Tuesday : 164'
+p48
+asS'death'
+p49
+g42
+sS'title'
+p50
+S'4 get life for 2008 Agartala serial bombings'
+p51
+sS'org_unorg'
+p52
+g42
+sS'terror_group'
+p53
+(lp54
+S'ALL TRIPURA TIGER FORCE'
+p55
+asS'content'
+p56
+VA court on Tuesday awarded life imprisonment to four extremist collaborators for their involvement in 2008 serial blasts in Agartala . Around 100 people , many of them women , were injured in the bombings in four crowded places on evening of October 1 . . . The attacks on eve of Durga Puja biggest annual festival of the state created huge panic in Agartala and elsewhere of the state . Three bombs were later recovered in separate places of the city and defused preventing further casualties . . . Despite initial confusion CID of state police cracked the case and found evidence to link outlawed All Tripura Tiger Force -LRB- ATTF -RRB- . Police had chargesheeted seven men for carrying out the bombings in connivance with the extremists . . . The trial took over six years to complete and the designated judge earlier freed three accused from charges for want of evidence . West Tripura Additional District Judge S.B. Dutta on Tuesday sentenced four men to life under different IPC sections including Explosive Substance Act . . . Counsels representing Bikash Debbarma , Kumaria Debbarma , Sachindra Debbarma and Dinesh Debbarma said they would appeal in the High Court against the verdict . Two of the convicts however pleaded guilty in the court .
+p57
+sS'injured'
+p58
+S'100'
+p59
+sS'det_loc'
+p60
+(lp61
+S'India'
+p62
+aS'Tripura'
+p63
+aS'West District'
+p64
+aS'Agartala'
+p65
+ag42
+asS'O'
+p66
+(lp67
+S'court:2'
+p68
+aS'awarded:5'
+p69
+aS'life imprisonment:6'
+p70
+aS'four extremist:9'
+p71
+aS'collaborators:11'
+p72
+aS'involvement:14'
+p73
+aS'serial blasts:17'
+p74
+aS'women:29'
+p75
+aS'injured:32'
+p76
+aS'bombings:35'
+p77
+aS'four crowded places:37'
+p78
+aS'attacks:49'
+p79
+aS'durga puja:53'
+p80
+aS'festival:57'
+p81
+aS'huge panic:62'
+p82
+aS'state:70'
+p83
+aS'three bombs:72'
+p84
+aS'recovered:76'
+p85
+aS'separate places:78'
+p86
+aS'defused:84'
+p87
+aS'casualties:87'
+p88
+aS'initial confusion:92'
+p89
+aS'cracked:98'
+p90
+aS'case:100'
+p91
+aS'found evidence:102'
+p92
+aS'chargesheeted:117'
+p93
+aS'bombings:124'
+p94
+aS'connivance:126'
+p95
+aS'extremists:129'
+p96
+aS'trial:134'
+p97
+aS'designated judge:143'
+p98
+aS'three accused:147'
+p99
+aS'charges:150'
+p100
+aS'evidence:154'
+p101
+aS'sentenced:165'
+p102
+aS'ipc sections:172'
+p103
+aS'explosive substance act:175'
+p104
+aS'counsels:181'
+p105
+aS'appeal:197'
+p106
+aS'verdict:204'
+p107
+aS'convicts:209'
+p108
+aS'guilty:212'
+p109
+aS'court:215'
+p110
+asS'unexpl'
+p111
+(lp112
+g42
+asS'ocassion'
+p113
+g42
+sS'link'
+p114
+S'http://www.thehindu.com/news/national/other-states/4-get-life-for-2008-agartala-serial-bombings/article7150985.ece'
+p115
+sS'date'
+p116
+S'01-10-2015'
+p117
+sS'target'
+p118
+S'PUBLIC PLACES'
+p119
+sS'hot_spot'
+p120
+g42
+sS'delivery_mod'
+p121
+g42
+sS'delivery_met'
+p122
+S'PLANTED'
+p123
+sS'expl'
+p124
+(lp125
+g42
+asS'ORG'
+p126
+(lp127
+(lp128
+S'CID'
+p129
+aS'94'
+p130
+aS'Others'
+p131
+aa(lp132
+S'All Tripura Tiger Force'
+p133
+aS'107'
+p134
+aS'Accused'
+p135
+aa(lp136
+S'ATTF'
+p137
+aS'112'
+p138
+aS'Accused'
+p139
+aa(lp140
+S'High Court'
+p141
+aS'200'
+p142
+aS'Others'
+p143
+aas.

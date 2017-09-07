@@ -1,0 +1,154 @@
+{
+    "LOC": [
+        [
+            "Tiruchi", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Tiruchi", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Kallakudi Palanganatham", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Kallagam", 
+            "68", 
+            "Event"
+        ], 
+        [
+            "Tiruchi", 
+            "112", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P.Velmurugan", 
+            "15", 
+            "Comment"
+        ], 
+        [
+            "S.Senthilkumar", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "D.Periyasamy", 
+            "46", 
+            "Accused"
+        ], 
+        [
+            "Senthilkumar", 
+            "120", 
+            "Accused"
+        ], 
+        [
+            "Periyasamy", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "Lenin", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "Seeliyampatti Rajaram", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "Nagarajan", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Lenin", 
+            "174", 
+            "Accused"
+        ], 
+        [
+            "Rajaram", 
+            "183", 
+            "Accused"
+        ], 
+        [
+            "Nagarajan", 
+            "185", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:17", 
+        "1992:35", 
+        "October 1992:62"
+    ], 
+    "death": "1", 
+    "title": "One gets life, 5-year RI for other in railway track bomb blast case", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": ": The Principal Sessions Judge and Designated Judge under TADA Act , Tiruchi , P.Velmurugan on Wednesday convicted two persons in the case pertaining to a bomb blast on railway track near Tiruchi in 1992 . The Judge awarded life imprisonment to S.Senthilkumar and sentenced D.Periyasamy to undergo five-year rigorous imprisonment . The bomb blast on railway track took place in October 1992 between Kallakudi Palanganatham and Kallagam in the wee hours minutes before the ChennaiQuilon Express was to pass through damaging wooden sleepers and rails to a length of 20 feet . The case initially registered by the Vriddhachalam Railway Police was subsequently transferred to the Q Branch police , Tiruchi , for further investigation . Five persons Senthilkumar , Periyasamy , Lenin , Seeliyampatti Rajaram and Nagarajan were cited as accused in the bomb blast case . They were members of Tamil Nadu Viduthalai Padai and Tamil Nadu Makkal Viduthalai Padai . The case was registered under the TADA Act , Explosive Substances Act , and the Indian Railway Act . Lenin was killed in a blast later , while Rajaram and Nagarajan died in an encounter with police . A total number of 41 witnesses were examined by the prosecution during the course of the trial . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Tiruchiorappalli", 
+        "Tiruchi", 
+        ""
+    ], 
+    "O": [
+        "bomb blast:27", 
+        "railway track:30", 
+        "judge:38", 
+        "life imprisonment:40", 
+        "bomb blast:54", 
+        "railway track:57", 
+        "chennaiquilon express:76", 
+        "q branch:108", 
+        "investigation:116", 
+        "bomb blast case:136", 
+        "tada act:161", 
+        "railway act:171", 
+        "blast:179", 
+        "encounter:189"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/one-gets-life-5year-ri-for-other-in-railway-track-bomb-blast-case/article3579288.ece", 
+    "date": "28-06-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Vriddhachalam Railway Police", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu Viduthalai Padai", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu Makkal Viduthalai Padai", 
+            "149", 
+            "Others"
+        ]
+    ]
+}

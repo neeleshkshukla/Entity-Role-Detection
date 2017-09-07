@@ -1,0 +1,126 @@
+{
+    "LOC": [
+        [
+            "U.S.", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Peshawar", 
+            "34", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "North Waziristan", 
+            "226", 
+            "Neutral"
+        ], 
+        [
+            "Peshawar", 
+            "275", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anita Joshua", 
+            "1", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:36"
+    ], 
+    "death": "", 
+    "title": "A well-coordinated strike in Peshawar", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Peshawar", 
+        ""
+    ], 
+    "terror_group": [
+        "Tehrik-i-Taliban"
+    ], 
+    "content": "Anita Joshua Suicide bombers came disguised as security personnel Attackers attempt to enter building TTP warns of more such attacks ISLAMABAD : Preliminary investigations into the attack on the U.S. Consulate General in Peshawar on Monday reveal that it was with the suicide bombers disguised as security personnel ramming their bomb-laden vehicle into the security picket . In the confusion caused by the first blast , their associates lobbed grenades triggering a series of blasts and engaged in a gun battle with security personnel while attempting to enter the building . The U.S. Embassy confirmed that an attempt was made to enter the consulate premises . It said , The coordinated attack involved a vehicle suicide bomb and terrorists attempting to enter the building using grenades and weapons fire '' . Stunned that the terrorists had managed to get as far as they did given the multiple layers of security around the mission shopkeepers in the nearby downtown Sadar area downed their shutters as security personnel cordoned off roads leading to the consulate and the Peshawar headquarters of the ISI which had faced a similar attack last year . The blast was so powerful that it formed a huge crater in the road and brought down a boundary wall . Claiming that they had struck at the U.S. mission to avenge the drone attacks in North Waziristan , the Tehrik-i-Taliban ( TTP-Pakistan wing of the Taliban ) TTP spokesman told AFP that there would be more such attacks on any place where there are Americans '' . The attack on the American mission comes less than two months after the U.S. diplomatic presence in Peshawar was elevated from Consulate to Consulate General status to demonstrate the growing importance and broadening of bilateral government cooperation and people-to-people relations '' OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "suicide:3", 
+        "security:8", 
+        "islamabad:21", 
+        "attack:27", 
+        "consulate general:31", 
+        "consulate:31", 
+        "suicide:43", 
+        "security picket:55", 
+        "confusion:60", 
+        "blast:65", 
+        "series:73", 
+        "gun battle:80", 
+        "security:83", 
+        "building:90", 
+        "u.s. embassy:93", 
+        "attempt:98", 
+        "consulate:104", 
+        "attack:112", 
+        "vehicle suicide bomb:115", 
+        "building:124", 
+        "security:150", 
+        "mission:153", 
+        "security:165", 
+        "consulate:173", 
+        "peshawar:176", 
+        "peshawar headquarters:176", 
+        "boundary wall:208", 
+        "U.S. mission:218", 
+        "drone attacks:223", 
+        "taliban:236", 
+        "attack:259", 
+        "american mission:262", 
+        "government cooperation:293"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/a-wellcoordinated-strike-in-peshawar/article744984.ece", 
+    "date": "06-04-2010", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ISI", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "Tehrik-i-Taliban", 
+            "230", 
+            "Others"
+        ], 
+        [
+            "TTP-Pakistan wing of the Taliban", 
+            "232", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "241", 
+            "Others"
+        ]
+    ]
+}

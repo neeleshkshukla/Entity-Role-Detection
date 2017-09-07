@@ -1,0 +1,136 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Cuttack'
+p4
+aS'23'
+p5
+aS'Event'
+p6
+aasS'PER'
+p7
+(lp8
+sS'TIM'
+p9
+(lp10
+sS'hot_setting'
+p11
+S''
+p12
+sS'DAT'
+p13
+(lp14
+S'Monday : 25'
+p15
+asS'death'
+p16
+S'0'
+p17
+sS'title'
+p18
+S'19 students injured in blast'
+p19
+sS'org_unorg'
+p20
+g12
+sS'terror_group'
+p21
+(lp22
+g12
+asS'content'
+p23
+S'At least 19 students were injured when a low-intensity bomb exploded in the classroom of a government-run school on the outskirts of Cuttack on Monday . The blast took place when a teacher of Class IX was taking a roll call in Ayutpur High School . Of the 58 students present in the class , 19 were taken to the SCB Medical College Hospital . OPEN'
+p24
+sS'injured'
+p25
+S'19'
+p26
+sS'det_loc'
+p27
+(lp28
+S'India'
+p29
+aS'Orissa'
+p30
+aS'Cuttak'
+p31
+aS'Cuttack'
+p32
+aS'Classroom of Ayutpur High School on the outskirts of Cuttack'
+p33
+asS'O'
+p34
+(lp35
+S'students:4'
+p36
+aS'injured:6'
+p37
+aS'low-intensity bomb:9'
+p38
+aS'exploded:11'
+p39
+aS'classroom:14'
+p40
+aS'government-run school:17'
+p41
+aS'blast:28'
+p42
+aS'Class IX:35'
+p43
+aS'roll call:40'
+p44
+aS'58 students:49'
+p45
+asS'unexpl'
+p46
+(lp47
+g12
+asS'ocassion'
+p48
+g12
+sS'link'
+p49
+S'http://www.thehindu.com/todays-paper/19-students-injured-in-blast/article4871910.ece'
+p50
+sS'date'
+p51
+S'01-07-2013'
+p52
+sS'target'
+p53
+S'EDUCATIONAL INSTITUTION'
+p54
+sS'hot_spot'
+p55
+S'Classroom of Ayutpur High School, a government-run school on the outskirts of Cuttack'
+p56
+sS'delivery_mod'
+p57
+g12
+sS'delivery_met'
+p58
+g12
+sS'expl'
+p59
+(lp60
+g12
+asS'ORG'
+p61
+(lp62
+(lp63
+S'Ayutpur High School'
+p64
+aS'43'
+p65
+aS'Victim'
+p66
+aa(lp67
+S'SCB Medical College Hospital'
+p68
+aS'61'
+p69
+aS'Others'
+p70
+aas.

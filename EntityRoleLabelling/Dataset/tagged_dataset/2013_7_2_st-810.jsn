@@ -1,0 +1,99 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Quetta city", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "northwest Pakistan", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Peshawar", 
+            "90", 
+            "Event"
+        ], 
+        [
+            "Kohat district", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "southwestern city of Quetta", 
+            "117", 
+            "Event"
+        ], 
+        [
+            "Hazara town", 
+            "128", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "53", 
+    "title": "Violence rocks Pakistan, 53 dead", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 53 people were killed and nearly 140 injured in Pakistan in separate attacks , including a deadly suicide bombing in restive Quetta city . In the first of Sundays attacks , at least 17 people , including four children , were killed and nearly 50 injured when a powerful remotecontrolled bomb targeted a passing convoy of security forces near a busy market here in northwest Pakistan . The blast , believed to be an IED explosion , targeted the convoy of Frontier Corps on their way to Peshawar from Kohat district but narrowly missed it . In the deadliest attack , two bomb blasts near a Shiite mosque killed at least 29 people in southwestern city of Quetta . The suicide bombing at the Shiitemajority Hazara town also injured over 70 persons.PTI OPEN", 
+    "injured": "120", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Peshawar", 
+        "Quetta city, Siite mosque,Hazara town"
+    ], 
+    "O": [
+        "53 people:3", 
+        "killed:6", 
+        "140 injured:9", 
+        "suicide bombing:20", 
+        "four children:40", 
+        "powerful remotecontrolled bomb:51", 
+        "convoy:57", 
+        "security:59", 
+        "market:64", 
+        "ied explosion:77", 
+        "deadliest:101", 
+        "attack:102", 
+        "suicide bombing:123", 
+        "shiitemajority:127"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/violence-rocks-pakistan-53-dead/article4871177.ece", 
+    "date": "30-06-2013", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "Frontier Corps,Shiite mosque", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Frontier Corps", 
+            "84", 
+            "Victim"
+        ], 
+        [
+            "Shiite mosque", 
+            "109", 
+            "Victim"
+        ]
+    ]
+}

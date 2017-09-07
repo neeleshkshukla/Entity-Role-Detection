@@ -1,0 +1,179 @@
+{
+    "LOC": [
+        [
+            "Boston", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Boston", 
+            "73", 
+            "Event"
+        ], 
+        [
+            "Boston", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "114", 
+            "Neutral"
+        ], 
+        [
+            "Boston", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "Boston", 
+            "141", 
+            "Event"
+        ], 
+        [
+            "Alabama", 
+            "176", 
+            "Neutral"
+        ], 
+        [
+            "Boston", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "256", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "272", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Muralidhar Nannapaneni", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Rajesh Vetcha", 
+            "119", 
+            "Others"
+        ], 
+        [
+            "Muralidhar", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "Muralidhar", 
+            "232", 
+            "Others"
+        ], 
+        [
+            "Sadasiva Rao Katta", 
+            "302", 
+            "Others"
+        ], 
+        [
+            "Shobha", 
+            "325", 
+            "Others"
+        ], 
+        [
+            "Meghana", 
+            "331", 
+            "Others"
+        ], 
+        [
+            "Priya", 
+            "333", 
+            "Others"
+        ], 
+        [
+            "Muralidhar", 
+            "411", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "four years : 108"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "April 18 : 30"
+    ], 
+    "death": "", 
+    "title": "Boston marathon: doctor sad he couldnt make city proud", 
+    "det_loc": [
+        "United States", 
+        "", 
+        "", 
+        "Boston", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "He was the lone Hyderabadi from among the 26,000 runners from 100 countries in the Boston Marathon , which was rocked by bomb explosions at the finish line on April 18 . But back home in the city after what he describes as an experience of a lifetime , Dr. Muralidhar Nannapaneni is a picture of unflappable spirit despite being shocked at the terror attack . The most priceless souvenirs being the Boston Marathon jerseys ! Well , if I am asked to run the Boston Marathon next week again I am ready for that , says the 43-year-old doctor . His passion for running started off four years ago and thanks to Hyderabad Runners , founded by Rajesh Vetcha , Dr. Muralidhar could get an entry into the Boston Marathon in the doctors category . By all means , Boston edition , being one of the five majors of a marathon in the world has its unique identity and charm , says the doctor who in fact flew a distance of 1,000 km from Alabama to Boston along with his family members for the event . Well , in hindsight I can say the cramps which I suffered put me away from that incident as I had to get repeated treatment on the way even as my ultimate dream was to finish the marathon at any cost , says Dr. Muralidhar . Definitely , it is a huge disappointment eventually that I could not realise my dream . I always wanted to hold the Hyderabad Runners banner to represent this proud city at the finish line , says the former Hyderabad Public School student . As I said , all of us runners were about 800 m away from the finish line and were dazed when we ( his brother-in-law Sadasiva Rao Katta also took part ) first heard about the bomb blasts . And , I was more worried about my sister Shobha and my two nieces ( Meghana and Priya ) who were waiting at the finish line to receive me , he recalls . It was a great escape for them too as they had just gone into a nearby restaurant for a break when the bombings took place , says the doctor . It took three hours for me to get the message that everyone of my family members was safe . Till then , we were in a lost world honestly , says Dr. Muralidhar . The Sheraton Hotel where all the runners were diverted to represented a war-line zone . But , what stood out was the remarkable resilience and hospitality of everyone concerned , he remembers . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "lone hyderabadi:4", 
+        "26,000 runners:9", 
+        "100 countries:12", 
+        "boston marathon:16", 
+        "bomb explosions:23", 
+        "finish line:27", 
+        "lifetime:48", 
+        "unflappable spirit:57", 
+        "terror attack:64", 
+        "priceless souvenirs:69", 
+        "boston marathon jerseys:73", 
+        "boston marathon:86", 
+        "hyderabad runners:114", 
+        "boston marathon:130", 
+        "marathon:152", 
+        "unique identity and charm:158", 
+        "treatment:212", 
+        "ultimate dream:219", 
+        "finish:223", 
+        "marathon:225", 
+        "disappointment:240", 
+        "hyderabad runners banner:256", 
+        "proud city:262", 
+        "finish line:266", 
+        "hyderabad public school student:272", 
+        "runners:284", 
+        "finish line:292", 
+        "dazed:296", 
+        "bomb blasts:313", 
+        "two nieces:328", 
+        "finish line:340", 
+        "restaurant:365", 
+        "bombings:371", 
+        "message:388", 
+        "safe:396", 
+        "sheraton hotel:414", 
+        "runners:419", 
+        "war-line zone:425", 
+        "resilience:436", 
+        "hospitality:438"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/boston-marathon-doctor-sad-he-couldnt-make-city-proud/article4648694.ece", 
+    "date": "15-04-2013", 
+    "target": "SPORTS VENUE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

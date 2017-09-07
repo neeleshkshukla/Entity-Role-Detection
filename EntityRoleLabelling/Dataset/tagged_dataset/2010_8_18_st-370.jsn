@@ -1,0 +1,84 @@
+{
+    "LOC": [], 
+    "PER": [
+        [
+            "Abdul Nasir Maudany", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Subair Paduppe", 
+            "65", 
+            "Comment"
+        ], 
+        [
+            "Madikkai Kammaran", 
+            "128", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:17", 
+        "2008:34", 
+        "Thursday:80"
+    ], 
+    "death": "", 
+    "title": "PDP hartal in Kasaragod today", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Peoples Democratic Party 's district unit has announced a day-long hartal in the district on Thursday in protest against the arrest of its leader Abdul Nasir Maudany , an accused in the 2008 Bangalore bomb blasts case . We have asked traders to shut down shops and bus operators to suspend the services to protest against the unwarranted arrest , PDP district president Subair Paduppe said . The State Committee of the PDP will observe black day on Thursday . The Bharatiya Janata Party has asked the public to reject the hartal call . The PDP 's move to garner sympathy of a section of the Muslim community and the Home Ministry 's attempt to delay the arrest should be condemned , its national council member Madikkai Kammaran said in a statement . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "district unit:6", 
+        "district:15", 
+        "protest:19", 
+        "arrest:22", 
+        "leader:25", 
+        "bangalore bomb blasts case:35", 
+        "arrest:60", 
+        "pdp:62", 
+        "home ministry:112", 
+        "council member:126"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/pdp-hartal-in-kasaragod-today/article578153.ece", 
+    "date": "25-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Peoples Democratic Party", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "PDP", 
+            "74", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "83", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,617 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Assam'
+p4
+aS'9'
+p5
+aS'Event'
+p6
+aa(lp7
+S'GUWAHATI'
+p8
+aS'18'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Assam'
+p12
+aS'36'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Dhemaji'
+p16
+aS'38'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Dhemaji'
+p20
+aS'83'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Dhemaji'
+p24
+aS'100'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Dibrugarh'
+p28
+aS'113'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Dhakuakhana'
+p32
+aS'122'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Normal School'
+p36
+aS'139'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Dhubri'
+p40
+aS'165'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Gauripur ground'
+p44
+aS'175'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Guwahati'
+p48
+aS'268'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Dhemaji'
+p52
+aS'400'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Dhemaji'
+p56
+aS'479'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Dhemaji : 514'
+p60
+aS'Event'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Lakhimpur'
+p64
+aS'516'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Dhemaji'
+p68
+aS'546'
+p69
+aS'Event'
+p70
+aa(lp71
+S'New Delhi'
+p72
+aS'662'
+p73
+aS'Neutral'
+p74
+aasS'PER'
+p75
+(lp76
+(lp77
+S'Sushanta Talukdar'
+p78
+aS'14'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Gogoi'
+p82
+aS'282'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Tarun Gogoi'
+p86
+aS'290'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Gogoi'
+p90
+aS'439'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Rockybul Hussain'
+p94
+aS'450'
+p95
+aS'Others'
+p96
+aa(lp97
+S'P.V. Sumant'
+p98
+aS'456'
+p99
+aS'Others'
+p100
+aa(lp101
+S'C.K. Sarma'
+p102
+aS'464'
+p103
+aS'Others'
+p104
+aa(lp105
+S'IGP'
+p106
+aS'468'
+p107
+aS'Others'
+p108
+aa(lp109
+S'D.K. Pathak'
+p110
+aS'474'
+p111
+aS'Others'
+p112
+aa(lp113
+S'Gogoi'
+p114
+aS'489'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Gogoi'
+p118
+aS'598'
+p119
+aS'Comment'
+p120
+aa(lp121
+S'Manmohan Singh'
+p122
+aS'670'
+p123
+aS'Others'
+p124
+aasS'TIM'
+p125
+(lp126
+S'today : 40'
+p127
+aS'9 a.m.:76'
+p128
+aS'7.55 a.m.:152'
+p129
+aS'afternoon : 168'
+p130
+aS'morning : 184'
+p131
+aS'1 . 20 p.m. : 188'
+p132
+aS'midnight : 239'
+p133
+aS'5.30 p.m.:244'
+p134
+aS'p.m. today:245'
+p135
+aS'p.m.:245'
+p136
+aS'morning : 481'
+p137
+asS'hot_setting'
+p138
+S''
+p139
+sS'DAT'
+p140
+(lp141
+S'AUG. 15 : 20'
+p142
+aS'August 14 : 241'
+p143
+aS'August 16 : 303'
+p144
+aS'August 16 : 533'
+p145
+asS'death'
+p146
+S'16'
+p147
+sS'title'
+p148
+S'16 killed, 40 injured in Assam blast'
+p149
+sS'org_unorg'
+p150
+g139
+sS'terror_group'
+p151
+(lp152
+S'UNITED LIBERATION FRONT OF ASSAM (ULFA)'
+p153
+asS'content'
+p154
+VFront Page 16 killed , 40 injured in Assam blast . . By Sushanta Talukdar . . GUWAHATI , AUG. 15 . Sixteen schoolchildren , including nine girls , were killed and 40 injured in Assam 's Dhemaji district today , when suspected militants of the banned United Liberation Front of Asom -LRB- ULFA -RRB- triggered a powerful blast . . . Police said that the blast triggered by a remote-controlled device took place around 9 a.m. when the children gathered at Dhemaji College ground for the Independence Day parade . All the injured have been admitted to the Dhemaji Civil Hospital and 10 of the critically injured will be shifted to Dibrugarh Civil Hospital . . . Another blast at Dhakuakhana in the same district uprooted the main pillar for the flag in the central field near Normal School . There was no casualty in the blast which occurred at 7.55 a.m. . . There were also reports of a bomb explosion in Dhubri district this afternoon . The bomb planted in the Gauripur ground where Independence Day was being observed this morning went off at 1 . 20 p.m. just behind the VIP enclosure . There were no reports of casualty . . . The ULFA had called for a boycott of the celebrations , along with five other rebel groups of the northeast region . The outfits had called a general strike beginning on the midnight of August 14 till 5.30 p.m. today . However , the ULFA attack came despite the militant outfit announcing that the general strike would be enforced only in Guwahati in view of the prevailing flood situation . . . Most barbaric : Gogoi . . The Assam Chief Minister , Tarun Gogoi , condemned the blast and announced that the State would observe August 16 as mourning day in memory of the killed children . . . He said the incident was ` most barbaric , inhuman and pathetic . ' ` This incident once again laid bare the utter denigration of all human values of the terrorists . ' He said this is yet another instance of ` cowardice on the part of the frustrated terrorists . Such a heinous act of violence must be condemned by one and all . ' . . Suspended . . Official sources said that the Superintendent of Police and Additional SP of Dhemaji district have been suspended for negligence of duty . The State Government decided to transfer the Deputy Commissioner of the district for security lapse as the intelligence agencies had warned about an attack . . . On Mr. Gogoi 's orders , the Minister of State for Home , Rockybul Hussain , the DGP , P.V. Sumant , Commissioner North Assam Division , C.K. Sarma , and IGP -LRB- Law and Order -RRB- D.K. Pathak , rushed to Dhemaji this morning . . . Ex-gratia . . Mr. Gogoi announced an ex-gratia of Rs . 3 lakhs for the victims and Rs . 50,000 for the seriously injured in the blast . The Dhemaji and Lakhimpur unit of the All-Assam Students Union has called a 12-hour bandh in both the districts on August 16 in protest against the blast . . . Violence erupted in Dhemaji after the killing of the schoolchildren and there were protests against the ` security lapse . ' Police resorted to blank fire and fired teargas shells to disperse crowds which laid siege to the DC 's office . . . PTI reports : . . Soon after the blast , Mr. Gogoi said the Armed Forces Special Powers Act should stay in disturbed areas . The increasing activities by insurgent groups proved its relevance , he said . . . He admitted there was a `` serious security lapse '' resulting in the killing of the innocent schoolchildren and reiterated that a district-wise contingency action plan was required to combat insurgency . . . A New Delhi report said the Prime Minister , Manmohan Singh , asserted that perpetrators of the blast would not be spared and the country was determined to eliminate terrorism . He said in a statement that ` such dastardly acts show the terrorists ' callous disregard for innocent lives .
+p155
+sS'injured'
+p156
+S'40'
+p157
+sS'det_loc'
+p158
+(lp159
+S'India'
+p160
+aS'Assam'
+p161
+aS'Dhemaji'
+p162
+aS'Guwahati'
+p163
+ag139
+asS'O'
+p164
+(lp165
+S'Assam blast:9'
+p166
+aS'Sixteen schoolchildren:23'
+p167
+aS'nine girls:27'
+p168
+aS'killed:31'
+p169
+aS'40 injured:33'
+p170
+aS'suspected militants:43'
+p171
+aS'banned United Liberation Front of Asom:47'
+p172
+aS'triggered:56'
+p173
+aS'powerful blast:58'
+p174
+aS'blast triggered:67'
+p175
+aS'remote-controlled device:71'
+p176
+aS'children gathered:80'
+p177
+aS'Dhemaji College ground:83'
+p178
+aS'Independence Day parade:88'
+p179
+aS'injured:94'
+p180
+aS'admitted:97'
+p181
+aS'critically injured:107'
+p182
+aS'shifted:111'
+p183
+aS'Dibrugarh Civil Hospital:113'
+p184
+aS'blast:120'
+p185
+aS'uprooted the main pillar:127'
+p186
+aS'flag:133'
+p187
+aS'central field:136'
+p188
+aS'no casualty:144'
+p189
+aS'blast:148'
+p190
+aS'occurred:150'
+p191
+aS'reports:159'
+p192
+aS'bomb explosion:162'
+p193
+aS'bomb planted:171'
+p194
+aS'Independence Day:178'
+p195
+aS'VIP enclosure:195'
+p196
+aS'boycott:213'
+p197
+aS'celebrations:216'
+p198
+aS'five other rebel groups:220'
+p199
+aS'northeast region:226'
+p200
+aS'outfits:230'
+p201
+aS'general strike:234'
+p202
+aS'attack:252'
+p203
+aS'militant outfit:256'
+p204
+aS'general strike:261'
+p205
+aS'enforced:265'
+p206
+aS'prevailing flood situation:273'
+p207
+aS'barbaric:280'
+p208
+aS'condemned:293'
+p209
+aS'blast:295'
+p210
+aS'announced:297'
+p211
+aS'mourning day:306'
+p212
+aS'memory:309'
+p213
+aS'killed children:312'
+p214
+aS'incident:320'
+p215
+aS'most barbaric:323'
+p216
+aS'inhuman:326'
+p217
+aS'pathetic:328'
+p218
+aS'incident:333'
+p219
+aS'laid bare:336'
+p220
+aS'utter denigration:339'
+p221
+aS'terrorists:347'
+p222
+aS'cowardice:359'
+p223
+aS'frustrated terrorists:365'
+p224
+aS'heinous act of violence:370'
+p225
+aS'condemned:376'
+p226
+aS'Suspended:385'
+p227
+aS'suspended:404'
+p228
+aS'negligence of duty:406'
+p229
+aS'decided:413'
+p230
+aS'transfer:415'
+p231
+aS'security lapse:423'
+p232
+aS'intelligence agencies:427'
+p233
+aS'warned:430'
+p234
+aS'attack:433'
+p235
+aS'Law and Order:470'
+p236
+aS'rushed:477'
+p237
+aS'Ex-gratia:485'
+p238
+aS'announced:490'
+p239
+aS'ex-gratia:492'
+p240
+aS'Rs . 3 lakhs:494'
+p241
+aS'victims:500'
+p242
+aS'Rs . 50,000:502'
+p243
+aS'seriously injured:507'
+p244
+aS'blast:511'
+p245
+aS'12-hour bandh:526'
+p246
+aS'protest:536'
+p247
+aS'blast:539'
+p248
+aS'Violence:543'
+p249
+aS'erupted:544'
+p250
+aS'killing of the schoolchildren:549'
+p251
+aS'protests:556'
+p252
+aS'security lapse:560'
+p253
+aS'resorted:565'
+p254
+aS'blank fire:567'
+p255
+aS'fired teargas shells:570'
+p256
+aS'crowds:575'
+p257
+aS'laid siege:577'
+p258
+aS'blast:595'
+p259
+aS'Armed Forces Special Powers Act:601'
+p260
+aS'disturbed areas:609'
+p261
+aS'increasing activities:613'
+p262
+aS'insurgent groups:616'
+p263
+aS'relevance:620'
+p264
+aS'admitted:628'
+p265
+aS'serious security lapse:633'
+p266
+aS'killing:640'
+p267
+aS'innocent:643'
+p268
+aS'schoolchildren:644'
+p269
+aS'reiterated:646'
+p270
+aS'district-wise contingency action plan:649'
+p271
+aS'combat insurgency:656'
+p272
+aS'asserted:673'
+p273
+aS'perpetrators:675'
+p274
+aS'blast:678'
+p275
+aS'spared:682'
+p276
+aS'determined:687'
+p277
+aS'eliminate terrorism:689'
+p278
+aS'dastardly acts:700'
+p279
+aS'terrorists:704'
+p280
+aS'disregard:707'
+p281
+aS'innocent lives:709'
+p282
+asS'unexpl'
+p283
+(lp284
+g139
+asS'ocassion'
+p285
+g139
+sS'link'
+p286
+S'http://www.thehindu.com/2004/08/16/stories/2004081604820100.htm'
+p287
+sS'date'
+p288
+S'15-08-2004'
+p289
+sS'target'
+p290
+S'PARADE GROUND'
+p291
+sS'hot_spot'
+p292
+g139
+sS'delivery_mod'
+p293
+S'REMOTE CONTROL DEVICE'
+p294
+sS'delivery_met'
+p295
+S'PLANTED'
+p296
+sS'expl'
+p297
+(lp298
+g139
+asS'ORG'
+p299
+(lp300
+(lp301
+S'United Liberation Front of Asom'
+p302
+aS'48'
+p303
+aS'Accused'
+p304
+aa(lp305
+S'ULFA'
+p306
+aS'54'
+p307
+aS'Accused'
+p308
+aa(lp309
+S'Dhemaji College'
+p310
+aS'83'
+p311
+aS'Others'
+p312
+aa(lp313
+S'Dhemaji Civil Hospital'
+p314
+aS'100'
+p315
+aS'Others'
+p316
+aa(lp317
+S'ULFA'
+p318
+aS'208'
+p319
+aS'Accused'
+p320
+aa(lp321
+S'ULFA'
+p322
+aS'251'
+p323
+aS'Accused'
+p324
+aa(lp325
+S'All-Assam Students Union'
+p326
+aS'520'
+p327
+aS'Others'
+p328
+aas.

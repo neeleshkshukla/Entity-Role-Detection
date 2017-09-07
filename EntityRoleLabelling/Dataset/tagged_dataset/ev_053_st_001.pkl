@@ -1,0 +1,324 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'4'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'South Block'
+p8
+aS'25'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Rajaji Marg'
+p12
+aS'28'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Sena Bhavan'
+p16
+aS'33'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Dalhousie'
+p20
+aS'39'
+p21
+aS'Event'
+p22
+aa(lp23
+S'New Delhi'
+p24
+aS'42'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'opposite Gate No. 1'
+p28
+aS'65'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Sena Bhavan'
+p32
+aS'71'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Dalhousie'
+p36
+aS'98'
+p37
+aS'Event'
+p38
+aa(lp39
+S'New Delhi'
+p40
+aS'189'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'South Block'
+p44
+aS'231'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Dalhousie'
+p48
+aS'253'
+p49
+aS'Event'
+p50
+aa(lp51
+S'North Block'
+p52
+aS'331'
+p53
+aS'Source'
+p54
+aa(lp55
+S'North Block'
+p56
+aS'359'
+p57
+aS'Source'
+p58
+aa(lp59
+S'New Delhi'
+p60
+aS'461'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Chanakyapuri'
+p64
+aS'476'
+p65
+aS'Assoc Event Location'
+p66
+aa(lp67
+S'Delhi'
+p68
+aS'494'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'New Delhi'
+p72
+aS'521'
+p73
+aS'Neutral'
+p74
+aa(lp75
+S'North Block'
+p76
+aS'531'
+p77
+aS'Source'
+p78
+aa(lp79
+S'Connaught Place'
+p80
+aS'547'
+p81
+aS'Source'
+p82
+aa(lp83
+S'Connaught Place'
+p84
+aS'574'
+p85
+aS'Source'
+p86
+aasS'PER'
+p87
+(lp88
+(lp89
+S'Prashant Pandey'
+p90
+aS'2'
+p91
+aS'Others'
+p92
+aa(lp93
+S'R.P.Sood'
+p94
+aS'135'
+p95
+aS'Victim'
+p96
+aa(lp97
+S'R. S. Krishnia'
+p98
+aS'194'
+p99
+aS'Others'
+p100
+aa(lp101
+S'Suresh Roy'
+p102
+aS'467'
+p103
+aS'Others'
+p104
+aa(lp105
+S'Prashant Pandey'
+p106
+aS'587'
+p107
+aS'Comment'
+p108
+aasS'TIM'
+p109
+(lp110
+S'3-07 p.m.:75'
+p111
+aS'3-14 p.m.:102'
+p112
+asS'hot_setting'
+p113
+S''
+p114
+sS'DAT'
+p115
+(lp116
+S'MAY 9 : 7'
+p117
+aS'April 10:334'
+p118
+aS'April 10:534'
+p119
+aS'May 2:550'
+p120
+asS'death'
+p121
+g114
+sS'title'
+p122
+S'Twin blasts near Sena Bhavan'
+p123
+sS'org_unorg'
+p124
+S'ORGANISED'
+p125
+sS'terror_group'
+p126
+(lp127
+g114
+asS'content'
+p128
+VBy Prashant Pandey NEW DELHI , MAY 9 . Two crude bombs went off in quick succession in the highly sensitive area behind the South Block on Rajaji Marg - where the Sena Bhavan is located - and Dalhousie Road in New Delhi today leaving one person injured . The first bomb went off in the parking lot of the Army Headquarters canteen located opposite Gate No. 1 of the Sena Bhavan at about 3-07 p.m. Before the police could assess the damage , another bomb went off in a parking lot about 100 metres away on Dalhousie Road at about 3-14 p.m. . The bomb , which went off on the canteen premises , was kept on a bicycle carrier and was wrapped in a polythene bag . One person , identified as R.P.Sood , a civilian working in the Army canteen , suffered minor injuries . `` The blast was of very low intensity and no shrapnels were found . The explosive simply spread around the area leading to superficial injuries to a worker in the canteen , '' said the Deputy Commissioner of Police -LRB- New Delhi -RRB- , Mr. R. S. Krishnia , who rushed to the spot along with other senior police officials . The second bomb was hidden among a heap of leaves collected below a neem tree in the parking lot behind the South Block - which houses the Prime Minister 's Office , the Ministry of Defence and the Ministry of External Affairs on Dalhousie Road . Nobody was injured . Police said some objects flew and landed some 10 metres away . However , there were very few Army vehicles in the parking space at that time and none were damaged . A timer-detonator , a nine-volt Duracell battery and a timer were recovered from the blast spots . Preliminary investigations revealed that the explosive used in both bombs were similar to the one found in the bomb discovered at the North Block on April 10 . The timers recovered from both spots today were ABCD timers , the type found in the bomb that was detected in the North Block . The explosive used was a nitrate-based compound . However , no group has claimed responsibility for the blasts . Though security of the area is under the Army , police said entry to the canteen did not involve any checking or frisking . Meanwhile , security in the entire area has been beefed up . Police have set up pickets around the area and checking of vehicles is on . `` We have also discussed the matter with the Army counterparts and they have decided to mount special security measures , '' said the Joint Commissioner of Police -LRB- New Delhi Range -RRB- , Mr. Suresh Roy . Police have registered two cases at Chanakyapuri and Parliament Street police stations . Investigations have been handed over to the Special Cell of the Delhi police , while the Army is also conducting parallel investigations . In the past one month , two bombs have been discovered in the high security New Delhi area . The first was found in the North Block on April 10 , while the other was discovered in a garbage bin in Connaught Place on May 2 . While there is no clue yet of the culprit in the first case , the police claimed to have solved the Connaught Place case by arresting an alleged ISI agent . . . By Prashant Pandey . . NEW DELHI , MAY 9 . Two crude bombs went off in quick succession in the highly sensitive area behind the South Block on Rajaji Marg - where the Sena Bhavan is located - and Dalhousie Road in New Delhi today leaving one person injured . . . The first bomb went off in the parking lot of the Army Headquarters canteen located opposite Gate No. 1 of the Sena Bhavan at about 3-07 p.m. Before the police could assess the damage , another bomb went off in a parking lot about 100 metres away on Dalhousie Road at about 3-14 p.m. . . The bomb , which went off on the canteen premises , was kept on a bicycle carrier and was wrapped in a polythene bag . One person , identified as R.P.Sood , a civilian working in the Army canteen , suffered minor injuries . . . `` The blast was of very low intensity and no shrapnels were found . The explosive simply spread around the area leading to superficial injuries to a worker in the canteen , '' said the Deputy Commissioner of Police -LRB- New Delhi -RRB- , Mr. R. S. Krishnia , who rushed to the spot along with other senior police officials . . . The second bomb was hidden among a heap of leaves collected below a neem tree in the parking lot behind the South Block - which houses the Prime Minister 's Office , the Ministry of Defence and the Ministry of External Affairs on Dalhousie Road . Nobody was injured . Police said some objects flew and landed some 10 metres away . However , there were very few Army vehicles in the parking space at that time and none were damaged . . . A timer-detonator , a nine-volt Duracell battery and a timer were recovered from the blast spots . . . Preliminary investigations revealed that the explosive used in both bombs were similar to the one found in the bomb discovered at the North Block on April 10 . . . The timers recovered from both spots today were ABCD timers , the type found in the bomb that was detected in the North Block . The explosive used was a nitrate-based compound . However , no group has claimed responsibility for the blasts . . . Though security of the area is under the Army , police said entry to the canteen did not involve any checking or frisking . . . Meanwhile , security in the entire area has been beefed up . Police have set up pickets around the area and checking of vehicles is on . `` We have also discussed the matter with the Army counterparts and they have decided to mount special security measures , '' said the Joint Commissioner of Police -LRB- New Delhi Range -RRB- , Mr. Suresh Roy . . . Police have registered two cases at Chanakyapuri and Parliament Street police stations . Investigations have been handed over to the Special Cell of the Delhi police , while the Army is also conducting parallel investigations . . . In the past one month , two bombs have been discovered in the high security New Delhi area . The first was found in the North Block on April 10 , while the other was discovered in a garbage bin in Connaught Place on May 2 . While there is no clue yet of the culprit in the first case , the police claimed to have solved the Connaught Place case by arresting an alleged ISI agent .
+p129
+sS'injured'
+p130
+g114
+sS'det_loc'
+p131
+(lp132
+S'India'
+p133
+aS'Delhi'
+p134
+aS'New Delhi'
+p135
+aS'Delhi'
+p136
+aS'South Block on Rajaji Marg'
+p137
+asS'O'
+p138
+(lp139
+S'army headquarters:61'
+p140
+aS'prime minister:237'
+p141
+aS'ministry of defence:243'
+p142
+aS'ministry of external affairs:248'
+p143
+aS'timer-detonator:293'
+p144
+aS'a nine-volt duracell battery:295'
+p145
+aS'a timer:300'
+p146
+aS'abcd timers:345'
+p147
+aS'nitrate-based compound:367'
+p148
+aS'garbage bin:544'
+p149
+aS'two crude bombs:597'
+p150
+asS'unexpl'
+p151
+(lp152
+g114
+asS'ocassion'
+p153
+g114
+sS'link'
+p154
+S'http://www.thehindu.com/2001/05/10/stories/01100009.htm'
+p155
+sS'date'
+p156
+S'09-05-2001'
+p157
+sS'target'
+p158
+g114
+sS'hot_spot'
+p159
+S'South Block on Rajaji Marg'
+p160
+sS'delivery_mod'
+p161
+S'BYCICLE'
+p162
+sS'delivery_met'
+p163
+S'PLANTED'
+p164
+sS'expl'
+p165
+(lp166
+S'CRUDE BOMB'
+p167
+asS'ORG'
+p168
+(lp169
+(lp170
+S'Delhi police'
+p171
+aS'494'
+p172
+aS'Others'
+p173
+aa(lp174
+S'ISI'
+p175
+aS'581'
+p176
+aS'Others'
+p177
+aas.

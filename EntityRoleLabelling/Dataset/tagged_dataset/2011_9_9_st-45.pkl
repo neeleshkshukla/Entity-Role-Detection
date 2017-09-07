@@ -1,0 +1,412 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Delhi High Court'
+p4
+aS'8'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Jaipur'
+p8
+aS'344'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Kishtwar'
+p12
+aS'438'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Jammu and Kashmir'
+p16
+aS'440'
+p17
+aS'Accused Location'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Chotoo Minani Ayushman'
+p22
+aS'166'
+p23
+aS'Accused'
+p24
+aa(lp25
+S'Afzal Guru'
+p26
+aS'417'
+p27
+aS'Assoc Accused'
+p28
+aa(lp29
+S'S.C. Sinha'
+p30
+aS'496'
+p31
+aS'Others'
+p32
+aa(lp33
+S'B.K. Gupta'
+p34
+aS'503'
+p35
+aS'Others'
+p36
+aasS'TIM'
+p37
+(lp38
+S'10.14 a.m.:536'
+p39
+asS'hot_setting'
+p40
+S''
+p41
+sS'DAT'
+p42
+(lp43
+S'Thursday:16'
+p44
+aS'September 13:46'
+p45
+aS'Wednesday:79'
+p46
+aS'Thursday:94'
+p47
+aS'Wednesday:129'
+p48
+aS'2008:343'
+p49
+aS'Thursday:499'
+p50
+asS'death'
+p51
+S'13'
+p52
+sS'title'
+p53
+S'Email warns shopping complex is next target'
+p54
+sS'org_unorg'
+p55
+S'Organized'
+p56
+sS'terror_group'
+p57
+(lp58
+S'Indian Mujahideen'
+p59
+asS'content'
+p60
+S"Even as the death toll in the Delhi High Court blast rose to 13 on Thursday , another email purportedly from the Indian Mujahideen ( IM ) not only claimed responsibility for the powerful explosion , but also threatened to target a shopping complex on September 13 the day a series of blasts attributed to the same outfit had claimed 26 lives in the capital three years ago . Countering the claim of the Harkat-ul-Jihadi that had on Wednesday sent an email owning responsibility , the second email from Internet account chotoominani5@gmail.com on Thursday said the explosion could not in any way be the handiwork of the Harkat-ul-Jehad-e-Islami . because we have carried it out . At the very outset we had planned to trigger the blast on Wednesday as a huge crowd descends there that day . We ( IM ) have carried it out , HuJI has no links whatsoever . Email sender The email sender , who identified himself as IM member Chotoo Minani Ayushman , said the outfit 's next goal was to carry out a strike at a shopping complex . Stop us if you can , said the email , throwing an open challenge to the Indian security and intelligence agencies . The National Investigation Agency ( NIA ) , which is mainly conducting the blast probe , has taken the matter seriously and is trying to identify the sender . However , striking differences have been noticed between this email and the previous ones sent by IM that is being held responsible for several blasts in different parts of the country in recent years . New-look IM logo IM had started using a logo depicting silhouettes of two men carrying assault rifles in the background and a globe and a book in the fore . The mails gave specific details to confirm that the outfit was indeed involved in those blasts and they also contained reasons for carrying out the terror strikes . It would attach video clips showing bombs being planted . In the 2008 Jaipur serial blasts , the outfit sent a mail mentioning the email account that it had earlier used , along with its password , said a police officer . However , a large number of alleged IM terrorists have been arrested and many of them are suspected to have fled abroad . The first email sent by harkatuljihadi2011@gmail.com has threatened to target the Supreme Court of India and other major High Courts if Afzal Guru 's death sentence is not repealed . It was traced to a computer installed at Global Cyber Caf at Kishtwar in Jammu and Kashmir . The police have not been able to identify the email sender yet . According to sources , identification papers of Internet users were not being recorded by the caf manager . Hence , other ways are being explored to achieve a breakthrough . Probe discussed In a related development , NlA head S.C. Sinha on Thursday met Police Commissioner B.K. Gupta at the Delhi Police headquarters to discuss various facets of the investigations . The Special Cell sleuths are assisting the NIA in the blast probe . The blast took place at 10.14 a.m. when people had queued up at the reception desk counters adjacent to Gate No. 5 of the court complex to collect their entry passes . Eyewitness accounts indicated that the bomb had been planted in a black briefcase placed near a stone bench close to the reception desk . The stone bench took the impact , restricting the number of casualties , said another officer . OPEN"
+p61
+sS'injured'
+p62
+g41
+sS'det_loc'
+p63
+(lp64
+S'India'
+p65
+aS'Delhi'
+p66
+aS'New Delhi'
+p67
+ag41
+ag41
+asS'O'
+p68
+(lp69
+S'death toll:4'
+p70
+aS'delhi high court blast:8'
+p71
+aS'email:19'
+p72
+aS'responsibility:31'
+p73
+aS'explosion:35'
+p74
+aS'target:41'
+p75
+aS'shopping complex:43'
+p76
+aS'blasts:53'
+p77
+aS'lives:62'
+p78
+aS'claim:72'
+p79
+aS'harkat-ul-jihadi:75'
+p80
+aS'email:82'
+p81
+aS'responsibility:84'
+p82
+aS'email:88'
+p83
+aS'internet account:90'
+p84
+aS'chotoominani5@gmail.com:92'
+p85
+aS'explosion:97'
+p86
+aS'harkat-ul-jehad-e-islami:108'
+p87
+aS'blast:127'
+p88
+aS'crowd:133'
+p89
+aS'email sender:157'
+p90
+aS'im member:164'
+p91
+aS'strike:181'
+p92
+aS'shopping complex:184'
+p93
+aS'email:195'
+p94
+aS'open challenge:199'
+p95
+aS'indian security and intelligence agencies:203'
+p96
+aS'blast probe:222'
+p97
+aS'sender:236'
+p98
+aS'email:247'
+p99
+aS'blasts:262'
+p100
+aS'im logo:274'
+p101
+aS'silhouettes:283'
+p102
+aS'two men:285'
+p103
+aS'globe and a book:295'
+p104
+aS'blasts:318'
+p105
+aS'terror strikes:328'
+p106
+aS'video clips:334'
+p107
+aS'bombs:337'
+p108
+aS'planted:339'
+p109
+aS'jaipur serial blasts:344'
+p110
+aS'mail:352'
+p111
+aS'email account:355'
+p112
+aS'password:366'
+p113
+aS'im:380'
+p114
+aS'im terrorists:380'
+p115
+aS'email:398'
+p116
+aS'harkatuljihadi2011@gmail.com:401'
+p117
+aS'target:405'
+p118
+aS"afzal guru 's death sentence:417"
+p119
+aS'email sender:453'
+p120
+aS'internet users:464'
+p121
+aS'caf manager:472'
+p122
+aS'blast probe:528'
+p123
+aS'blast:532'
+p124
+aS'reception desk:545'
+p125
+aS'gate no. 5:550'
+p126
+aS'court complex:555'
+p127
+aS'eyewitness:563'
+p128
+aS'bomb:568'
+p129
+aS'briefcase:575'
+p130
+aS'stone bench:579'
+p131
+aS'reception desk:584'
+p132
+aS'stone bench:588'
+p133
+asS'unexpl'
+p134
+(lp135
+g41
+asS'ocassion'
+p136
+g41
+sS'link'
+p137
+S'http://www.thehindu.com/todays-paper/tp-national/email-warns-shopping-complex-is-next-target/article2437750.ece'
+p138
+sS'date'
+p139
+S'09-09-2011'
+p140
+sS'target'
+p141
+S'Government Building'
+p142
+sS'hot_spot'
+p143
+S'Delhi High Court'
+p144
+sS'delivery_mod'
+p145
+g41
+sS'delivery_met'
+p146
+S'Planted'
+p147
+sS'expl'
+p148
+(lp149
+g41
+asS'ORG'
+p150
+(lp151
+(lp152
+S'Indian Mujahideen'
+p153
+aS'23'
+p154
+aS'Accused'
+p155
+aa(lp156
+S'IM'
+p157
+aS'26'
+p158
+aS'Accused'
+p159
+aa(lp160
+S'Harkat-ul-Jihadi'
+p161
+aS'75'
+p162
+aS'Assoc Accused'
+p163
+aa(lp164
+S'Harkat-ul-Jehad-e-Islami'
+p165
+aS'108'
+p166
+aS'Assoc Accused'
+p167
+aa(lp168
+S'IM'
+p169
+aS'141'
+p170
+aS'Accused'
+p171
+aa(lp172
+S'HuJI'
+p173
+aS'148'
+p174
+aS'Assoc Accused'
+p175
+aa(lp176
+S'IM'
+p177
+aS'164'
+p178
+aS'Accused'
+p179
+aa(lp180
+S'National Investigation Agency'
+p181
+aS'210'
+p182
+aS'Others'
+p183
+aa(lp184
+S'NIA'
+p185
+aS'214'
+p186
+aS'Others'
+p187
+aa(lp188
+S'IM'
+p189
+aS'254'
+p190
+aS'Accused'
+p191
+aa(lp192
+S'IM'
+p193
+aS'276'
+p194
+aS'Accused'
+p195
+aa(lp196
+S'IM'
+p197
+aS'380'
+p198
+aS'Accused'
+p199
+aa(lp200
+S'Supreme Court of India'
+p201
+aS'407'
+p202
+aS'Others'
+p203
+aa(lp204
+S'Global Cyber Caf'
+p205
+aS'434'
+p206
+aS'Others'
+p207
+aa(lp208
+S'NlA'
+p209
+aS'494'
+p210
+aS'Others'
+p211
+aa(lp212
+S'Delhi Police headquarters'
+p213
+aS'507'
+p214
+aS'Others'
+p215
+aa(lp216
+S'NIA'
+p217
+aS'525'
+p218
+aS'Others'
+p219
+aas.

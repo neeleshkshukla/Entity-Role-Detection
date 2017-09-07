@@ -1,0 +1,83 @@
+{
+    "LOC": [
+        [
+            "Metiabruz", 
+            "22", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Samir Khan", 
+            "48", 
+            "Victim"
+        ], 
+        [
+            "Razia Khatun", 
+            "72", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:6", 
+        "April 19:13", 
+        "Sunday evening:32", 
+        "Sunday:32"
+    ], 
+    "death": "2", 
+    "title": "One arrested for Kolkata blast", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "Kolkata", 
+        "Metiabruz,Kolkata"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "One person was arrested on Monday and remanded in police custody till April 19 in connection with an explosion in the Metiabruz area of the city which claimed two lives on Sunday evening . The blast occurred when some persons were trying to remove the bombs . Samir Khan , who was working in the embroidery factory inside the four-storey building , died of the injuries sustained in the explosion while Razia Khatun , a neighbour who was cooking in her house , died when a portion of the building collapsed on her . There were 15 persons working in the building when the explosion occurred . The explosion created panic among the residents of the thickly populated area . Some of the adjacent buildings were also damaged in the impact . The police are looking for three promoters of the building who are absconding after the incident . OPEN", 
+    "injured": "", 
+    "org_unorg": "Unorganized", 
+    "O": [
+        "person:2", 
+        "custody:11", 
+        "connection:16", 
+        "explosion:19", 
+        "area:23", 
+        "city:26", 
+        "blast:36", 
+        "embroidery factory:56", 
+        "building:61", 
+        "explosion:70", 
+        "neighbour:76", 
+        "cooking:79", 
+        "house:82", 
+        "portion:87", 
+        "building:90", 
+        "building:102", 
+        "explosion:105", 
+        "explosion:109", 
+        "panic:111", 
+        "area:119", 
+        "impact:131", 
+        "building:142", 
+        "incident:148"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/one-arrested-for-kolkata-blast/article3298803.ece", 
+    "date": "08-04-2012", 
+    "target": "Public Organization", 
+    "hot_spot": "embroidery factory", 
+    "delivery_mod": "", 
+    "delivery_met": "Accidental", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

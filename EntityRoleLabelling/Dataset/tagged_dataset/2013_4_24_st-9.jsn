@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "U.S. officials", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "hospital room", 
+            "63", 
+            "Event"
+        ], 
+        [
+            "getaway", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "160", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "187", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dzhokhar Tsarnaev", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "Tsarnaev", 
+            "54", 
+            "Accused"
+        ], 
+        [
+            "Tamerlan", 
+            "92", 
+            "Accused"
+        ], 
+        [
+            "Tsarnaev", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "Dzhokhar", 
+            "147", 
+            "Others"
+        ], 
+        [
+            "Kazakh", 
+            "167", 
+            "Others"
+        ], 
+        [
+            "Dzhokhar", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Kazakh", 
+            "194", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:60", 
+        "Friday:98"
+    ], 
+    "death": "", 
+    "title": "Boston bomb blast suspect charged", 
+    "det_loc": [
+        "United States", 
+        "", 
+        "", 
+        "BOSTON", 
+        "Boston Marathon"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The two brothers suspected of bombing the Boston Marathon appear to have been motivated by a radical brand of Islam but do not seem connected to any Muslim terrorist groups , U.S. officials said after interrogating and charging surviving brother Dzhokhar Tsarnaev with crimes that could bring the death penalty . Serious condition Tsarnaev ( 19 ) was charged Monday in his hospital room , where he was in serious condition with a gunshot wound to the throat and other injuries suffered during his attempted getaway . His older brother , Tamerlan ( 26 ) died on Friday after a fierce gunbattle with police . Tsarnaev communicated with his interrogators in writing , according to officials who cautioned that they were still trying to verify what they were told and are also looking at the suspects telephone and online communications . - AP Video footage shows Dzhokhar manipulating his phone moments before blasts , says FBITwo persons arrested in U.S. may have known the suspects : Kazakh Foreign Ministry Video footage shows Dzhokhar manipulating his phone moments before blasts , says FBI Two persons arrested in U.S. may have known the suspects : Kazakh Foreign Ministry OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "boston marathon:8", 
+        "Islam:20", 
+        "death penalty:49", 
+        "gunshot wound:74", 
+        "getaway:86", 
+        "video footage:144", 
+        "fbi:182"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/boston-bomb-blast-suspect-charged/article4648814.ece", 
+    "date": "22-04-2013", 
+    "target": "", 
+    "hot_spot": "Boston Marathon", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "radical brand", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Muslim terrorist", 
+            "28", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "Foreign Ministry", 
+            "168", 
+            "Others"
+        ], 
+        [
+            "FBI", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "Kazakh Foreign Ministry", 
+            "194", 
+            "Others"
+        ], 
+        [
+            "Foreign Ministry", 
+            "195", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "LOC": [
+        [
+            "America", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Boston", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "New York", 
+            "63", 
+            "Accused Location"
+        ], 
+        [
+            "Washington", 
+            "66", 
+            "Accused Location"
+        ], 
+        [
+            "Pennsylvania", 
+            "68", 
+            "Accused Location"
+        ], 
+        [
+            "White House", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Boston", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "United States", 
+            "164", 
+            "Event"
+        ], 
+        [
+            "Boston", 
+            "229", 
+            "Event"
+        ], 
+        [
+            "Massachusetts", 
+            "268", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Barack Obama", 
+            "80", 
+            "Others"
+        ], 
+        [
+            "Rick DesLauriers", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Obama", 
+            "177", 
+            "Others"
+        ], 
+        [
+            "Martin Richard", 
+            "234", 
+            "Others"
+        ], 
+        [
+            "William", 
+            "239", 
+            "Others"
+        ], 
+        [
+            "Deval Patrick", 
+            "270", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 13", 
+        "September 11 , 2001 : 70", 
+        "September 11 : 173"
+    ], 
+    "death": "3", 
+    "title": "3 dead, over 100 hurt in Boston Marathon bomb blasts", 
+    "det_loc": [
+        "United States", 
+        "", 
+        "", 
+        "Boston", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two bomb blasts struck one of America 's top sporting events on Monday , killing at least three and wounding more than 100 as the Boston Marathon erupted in a maelstrom of blood , screams , smoke and panic . The twin explosions 13 seconds apart came more than a decade after nearly 3,000 people were killed in suicide airliner strikes on New York , Washington and Pennsylvania on September 11 , 2001 . Act of terror ? President Barack Obama went on national television to warn against `` jumping to conclusions '' but a senior White House official , speaking on condition of anonymity , said such an attack was `` clearly an act of terror . '' Special agent Rick DesLauriers , who heads the Federal Bureau of Investigations ( FBI ) Boston bureau , told reporters : `` It is a criminal investigation that is a potential terrorist investigation . '' Security was stepped up in major cities across the United States amid fears of a repeat of the September 11 attacks . Obama said those behind the blasts will `` feel the full weight of justice . '' At the blast scene , a horrific chorus of high-pitched wailing and screaming rang out as bewildered runners and spectators fled the carnage and debris . An eight-year-old boy was reportedly among the dead . The Boston Globe identified him as Martin Richard , whose father William was running in the race . His mother and a sister were gravely injured while a second sister was unharmed . More than 100 people were wounded , Massachusetts governor Deval Patrick said , without giving an exact figure . The Globe said more than 140 were hurt . OPEN", 
+    "injured": "100", 
+    "org_unorg": "", 
+    "O": [
+        "bomb blasts:2", 
+        "sporting events:10", 
+        "Boston Marathon:26", 
+        "maelstrom of blood:31", 
+        "screams:35", 
+        "smoke:37", 
+        "panic:39", 
+        "twin explosions:42", 
+        "decade:51", 
+        "3,000 people:54", 
+        "suicide airliner strikes:59", 
+        "Act of terror:75", 
+        "President Barack Obama:79", 
+        "warn against:87", 
+        "jumping to conclusions:90", 
+        "House official:98", 
+        "anonymity:105", 
+        "attack:110", 
+        "clearly an act of terror:113", 
+        "criminal investigation:145", 
+        "terrorist investigation:151", 
+        "Security:155", 
+        "fears:167", 
+        "full weight of justice:187", 
+        "blast scene:195", 
+        "horrific chorus:199", 
+        "high-pitched wailing:202", 
+        "screaming rang out:205", 
+        "bewildered runners:209", 
+        "spectators:212", 
+        "carnage and debris:215", 
+        "eight-year-old boy:220", 
+        "unharmed:259", 
+        "governor Deval Patrick:269"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/3-dead-over-100-hurt-in-boston-marathon-bomb-blasts/article4625200.ece", 
+    "date": "15-04-2013", 
+    "target": "SPORTS VENUE", 
+    "hot_spot": "Boston Marathon", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Federal Bureau of Investigations", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "FBI", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "Boston bureau", 
+            "135", 
+            "Others"
+        ], 
+        [
+            "Boston Globe", 
+            "229", 
+            "Others"
+        ], 
+        [
+            "Globe", 
+            "281", 
+            "Others"
+        ]
+    ]
+}

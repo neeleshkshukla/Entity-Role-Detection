@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Samjhauta Express", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "32", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Nagda", 
+            "52", 
+            "Neutral"
+        ], 
+        [
+            "Ujjain", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "56", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "113", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rajender Chaudhary", 
+            "12", 
+            "Accused"
+        ], 
+        [
+            "Chaudhary", 
+            "38", 
+            "Accused"
+        ], 
+        [
+            "Samundar Das", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "Chaudhary", 
+            "97", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "Saturday : 49"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007 : 31", 
+        "Saturday : 49"
+    ], 
+    "death": "", 
+    "title": "NIA to bring Samjhauta case accused to Hyderabad", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The National Investigation Agency ( NIA ) is likely to bring Rajender Chaudhary , arrested in the Samjhauta Express blasts case , to the city shortly in connection with the 2007 Mecca Masjid bomb blast case . Chaudhary , also known as Samundar Das , was arrested on Saturday night at Nagda in Ujjain , Madhya Pradesh . He will be brought here on a prisoners transit warrant , sources in the NIA said . A police custody petition will be filed in a court here for his interrogation , they said . We will question Chaudhary with regard to the planting of two improvised explosive devices -LSB- IEDs -RSB- in the Mecca Masjid , a senior official said . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "mecca masjid bomb blast case:32", 
+        "prisoners:66", 
+        "transit warrant:67", 
+        "custody petition:78", 
+        "court:85", 
+        "interrogation:89", 
+        "improvised explosive devices:105", 
+        "official:118"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/nia-to-bring-samjhauta-case-accused-to-hyderabad/article4208006.ece", 
+    "date": "15-12-2012", 
+    "target": "Public Transport", 
+    "hot_spot": "Samjhauta Express", 
+    "delivery_mod": "Train", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "77", 
+            "Others"
+        ]
+    ]
+}

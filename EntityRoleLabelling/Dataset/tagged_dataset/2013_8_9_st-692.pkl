@@ -1,0 +1,334 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Afghanistan'
+p4
+aS'10'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Pakistan'
+p8
+aS'31'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Nangarhar provinces'
+p12
+aS'95'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Ghany Khel'
+p16
+aS'97'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Nangarhar'
+p20
+aS'245'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Jalalabad'
+p24
+aS'278'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Pakistan'
+p28
+aS'295'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Quetta'
+p32
+aS'310'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Balochistan province'
+p36
+aS'315'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'Baluchistan'
+p40
+aS'335'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Baluchistan'
+p44
+aS'456'
+p45
+aS'Assoc Event Location'
+p46
+aasS'PER'
+p47
+(lp48
+(lp49
+S'Haji Khayali'
+p50
+aS'151'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Haji Ghalib'
+p54
+aS'175'
+p55
+aS'Comment'
+p56
+aa(lp57
+S'Ghalib'
+p58
+aS'196'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Fayaz Sumbal'
+p62
+aS'326'
+p63
+aS'Others'
+p64
+aa(lp65
+S'Mohammed'
+p66
+aS'355'
+p67
+aS'Comment'
+p68
+aa(lp69
+S'Sumbal'
+p70
+aS'359'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Sumbal'
+p74
+aS'374'
+p75
+aS'Accused'
+p76
+aasS'TIM'
+p77
+(lp78
+S'telephone : 212'
+p79
+asS'hot_setting'
+p80
+S''
+p81
+sS'DAT'
+p82
+(lp83
+S'Thursday : 19'
+p84
+aS'Thursday : 186'
+p85
+asS'death'
+p86
+S'21'
+p87
+sS'title'
+p88
+S'Bombings in Afghanistan, Pakistan kill scores'
+p89
+sS'org_unorg'
+p90
+g81
+sS'terror_group'
+p91
+(lp92
+S'TALIBAN'
+p93
+asS'content'
+p94
+S'A bomb planted in a graveyard in rural eastern Afghanistan killed 14 members of a single family on Thursday while a suicide bomber attacked a police officers funeral in southwestern Pakistan killing 30 people gathered to mourn a man shot dead earlier that day in front of his children . The Afghan family was getting together to mark the start of a major Muslim holiday , the Eid al-Fitr at the end of the holy month of Ramzan , with a visit to the tomb of a relative . The attack took place in Nangarhar provinces Ghany Khel district and all 14 killed seven women and seven children were members of the same extended family , said police . No one immediately claimed responsibility for the bombing . Its unclear why the family was targeted , but they were visiting the grave of a relative , a tribal elder named Haji Khayali who worked for a security company and who was killed by the Taliban earlier this year . The dead mans brother , Haji Ghalib , who said his daughter was among those killed Thursday , blamed the Taliban for the attack . Mr. Ghalib , who was not with his family when the bombing happened , said over the telephone that he also worked at a security company and was a member of a local peace council seeking to reconcile with the insurgents . A spate of bombings and Taliban attacks in Nangarhar in recent weeks has killed dozens of people , including police and security forces . Among the attacks was a botched bombing last week against the Indian consulate in the city of Jalalabad that killed nine people , including six children . No Indian officials were hurt . In Pakistan , the funeral was being held in an open field outside a mosque in Quetta , the capital of Balochistan province . Some 250 people gathered for the service . Fayaz Sumbal , the head of police operations in Baluchistan , noticed the bomber near the gate of the mosque before he detonated his explosives , a police official Mohammed said . Mr. Sumbal called on officers to question the bomber , who then blew himself up . Sumbal died in the blast . Most of the 30 dead and 55 wounded in the suicide bombing were police officers . They had gathered for the funeral of an officer gunned down earlier in the day as he travelled through the city in a vehicle with his children . Two of his children were wounded in the attack . No one has claimed responsibility for the attack , but suspicion will likely fall on Islamic militants based in the province . Baluchistan is also home to separatists who have been waging a low-level insurgency against the governments for decades , but they rarely carry out suicide bombings . AP OPEN'
+p95
+sS'injured'
+p96
+g81
+sS'det_loc'
+p97
+(lp98
+S'Afghanistan'
+p99
+ag81
+ag81
+ag81
+aS'Rural Eastern Afganistan'
+p100
+asS'O'
+p101
+(lp102
+S'bomb:2'
+p103
+aS'graveyard:6'
+p104
+aS'single family:16'
+p105
+aS'suicide bomber:22'
+p106
+aS'police officers funeral:26'
+p107
+aS'30 people:33'
+p108
+aS'mourn:37'
+p109
+aS'shot dead:40'
+p110
+aS'Afghan family:52'
+p111
+aS'Muslim holiday:64'
+p112
+aS'Eid al-Fitr:68'
+p113
+aS'Ramzan:78'
+p114
+aS'tomb:85'
+p115
+aS'attack:91'
+p116
+aS'targeted:135'
+p117
+aS'tribal:148'
+p118
+aS'attack:193'
+p119
+aS'bombing:206'
+p120
+aS'security company:219'
+p121
+aS'peace council:228'
+p122
+aS'reconcile:232'
+p123
+aS'insurgents:235'
+p124
+aS'spate of bombings:238'
+p125
+aS'bombings:240'
+p126
+aS'police and security:256'
+p127
+aS'botched bombing:266'
+p128
+aS'Indian consulate:272'
+p129
+aS'mosque:308'
+p130
+aS'bomber:339'
+p131
+aS'mosque:345'
+p132
+aS'explosives:350'
+p133
+aS'bomber:366'
+p134
+aS'blew himself:370'
+p135
+aS'blast:378'
+p136
+aS'suicide bombing:390'
+p137
+aS'suspicion:444'
+p138
+aS'Islamic militants:449'
+p139
+aS'province:454'
+p140
+aS'separatists:461'
+p141
+aS'low-level insurgency:467'
+p142
+aS'decades:473'
+p143
+aS'suicide bombings:480'
+p144
+asS'unexpl'
+p145
+(lp146
+g81
+asS'ocassion'
+p147
+g81
+sS'link'
+p148
+S'http://www.thehindu.com/todays-paper/tp-international/bombings-in-afghanistan-pakistan-kill-scores/article5005838.ece'
+p149
+sS'date'
+p150
+S'08-08-2013'
+p151
+sS'target'
+p152
+S'FAMILY'
+p153
+sS'hot_spot'
+p154
+g81
+sS'delivery_mod'
+p155
+g81
+sS'delivery_met'
+p156
+S'PLANTED'
+p157
+sS'expl'
+p158
+(lp159
+g81
+asS'ORG'
+p160
+(lp161
+(lp162
+S'Taliban'
+p163
+aS'165'
+p164
+aS'Accused'
+p165
+aa(lp166
+S'Taliban'
+p167
+aS'190'
+p168
+aS'Accused'
+p169
+aa(lp170
+S'Taliban'
+p171
+aS'242'
+p172
+aS'Accused'
+p173
+aa(lp174
+S'AP'
+p175
+aS'483'
+p176
+aS'Others'
+p177
+aas.

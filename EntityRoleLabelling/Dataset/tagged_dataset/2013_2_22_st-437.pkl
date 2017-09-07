@@ -1,0 +1,306 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsukhnagar'
+p4
+aS'10'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Saibaba temple'
+p8
+aS'28'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Hyderabad'
+p12
+aS'42'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Gokul Chat'
+p16
+aS'47'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Kothi'
+p20
+aS'50'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Lumbini Park'
+p24
+aS'52'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Secretariat'
+p28
+aS'58'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Dilsukhnagar'
+p32
+aS'73'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Dilsukhnagar'
+p36
+aS'113'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Dilsukhnagar'
+p40
+aS'142'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Hyderabad'
+p44
+aS'153'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Dilsukhnagar'
+p48
+aS'167'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Dilsukhnagar'
+p52
+aS'223'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Vijayawada'
+p56
+aS'268'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Guntur'
+p60
+aS'270'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Tenali'
+p64
+aS'272'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Sai Baba temple'
+p68
+aS'331'
+p69
+aS'Event'
+p70
+aasS'PER'
+p71
+(lp72
+sS'TIM'
+p73
+(lp74
+S'evenings : 183'
+p75
+aS'sundown : 241'
+p76
+aS'sunset : 351'
+p77
+aS'6 p.m. : 377'
+p78
+aS'9 p.m. : 380'
+p79
+asS'hot_setting'
+p80
+S'On Thursday evening when aarti is held around the sunset at Sai Baba temple'
+p81
+sS'DAT'
+p82
+(lp83
+S'2002 : 31'
+p84
+aS'1980s : 219'
+p85
+aS'90s : 221'
+p86
+aS'Thursday evening : 343'
+p87
+asS'death'
+p88
+S''
+p89
+sS'title'
+p90
+S'Dilsukhnagar: a target yet again'
+p91
+sS'det_loc'
+p92
+(lp93
+S'India'
+p94
+aS'Andhra Pradesh'
+p95
+ag89
+aS'Hyderabad'
+p96
+aS'Near Sai Baba temple in Dilsukhnagar'
+p97
+asS'terror_group'
+p98
+(lp99
+g89
+asS'content'
+p100
+S'It was the third time in last decade that Dilsukhnagar has been targeted by terrorists . The bustling residential-commercial centre had earlier witnessed a bomb blast at Saibaba temple in 2002 , which claimed two lives . Five years later , Hyderabad experienced twin blasts at Gokul Chat in Kothi and Lumbini Park in front of the Secretariat . The terrorists had also planted a bomb at the foot over bridge in Dilsukhnagar , but it was detected and defused in time . And now again by a quirk of fate , five years later , the same area is rocked by blasts . Why do the terror planners keep returning to Dilsukhnagar ? Is it because of the high concentration of crowds so that maximum damage could be inflicted ? Located almost on the south-eastern tip of the city , Dilsukhnagar ranks high among the densely populated and busy corridors of Hyderabad . Given the numerous middle class colonies in the vicinity , the central Dilsukhnagar area around the bus stop teems with crowds throughout the day , peaking during the evenings . The bus stop here connects to almost all the parts of the city and thus has a large fleet of buses making a halt here to pick up and drop commuters . In the 1980s and 90s , Dilsukhnagar was the most preferred location by the government employees for setting up home and even now , sundown sees a large administrative staff getting down from buses here to return home . The location is the last pick up point for passengers heading for Vijayawada , Guntur , Tenali and parts of the coastal region , which adds to the crowd presence here . Also , the surroundings of the bus stop here have metamorphosed into a beehive of commercial activity with road side kiosks to well furnished showrooms and a couple of film theatres . Also , the bomb attack site is close to the popular Sai Baba temple which draws devotees in large numbers , particularly on Thursday evening when aarti is held around the sunset . With little or no mechanism to control and streamline the movement of crowds along or across the roads , chaotic conditions prevail particularly between 6 p.m. to 9 p.m. . At the same time , the area does not get adequate attention from security agencies . The focus that is paid to other parts of the main city or even the emerging IT corridors on peripheries is not accorded here . OPEN'
+p101
+sS'injured'
+p102
+g89
+sS'org_unorg'
+p103
+S'ORGANISED'
+p104
+sS'O'
+p105
+(lp106
+S'third time:4'
+p107
+aS'terrorists:15'
+p108
+aS'bustling residential-commercial centre:18'
+p109
+aS'bomb blast:25'
+p110
+aS'twin blasts:44'
+p111
+aS'terrorists:61'
+p112
+aS'planted a bomb:64'
+p113
+aS'bridge:71'
+p114
+aS'detected and defused:78'
+p115
+aS'blasts:103'
+p116
+aS'terror planners:108'
+p117
+aS'crowds:123'
+p118
+aS'maximum damage:126'
+p119
+aS'densely populated:147'
+p120
+aS'busy corridors:150'
+p121
+aS'middle class colonies:158'
+p122
+aS'crowds:175'
+p123
+aS'government employees:231'
+p124
+aS'administrative staff:245'
+p125
+aS'coastal region:277'
+p126
+aS'crowd presence:284'
+p127
+aS'metamorphosed:298'
+p128
+aS'beehive:301'
+p129
+aS'commercial activity:303'
+p130
+aS'road side kiosks:306'
+p131
+aS'showrooms:312'
+p132
+aS'film theatres:317'
+p133
+aS'bomb attack site:323'
+p134
+aS'devotees:336'
+p135
+aS'aarti:346'
+p136
+aS'crowds:365'
+p137
+aS'chaotic conditions:372'
+p138
+aS'attention:394'
+p139
+aS'security agencies:396'
+p140
+asS'unexpl'
+p141
+(lp142
+g89
+asS'ocassion'
+p143
+S'RELIGIOUS GATHERING'
+p144
+sS'link'
+p145
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/dilsukhnagar-a-target-yet-again/article4441518.ece'
+p146
+sS'date'
+p147
+S'21-02-2013'
+p148
+sS'target'
+p149
+S'TOWN'
+p150
+sS'hot_spot'
+p151
+S'Near Sai Baba temple in Dilsukhnagar, a bustling residential-commercial centre in Hyderabad'
+p152
+sS'delivery_mod'
+p153
+g89
+sS'delivery_met'
+p154
+S'PLANTED'
+p155
+sS'expl'
+p156
+(lp157
+g89
+asS'ORG'
+p158
+(lp159
+(lp160
+S'IT'
+p161
+aS'415'
+p162
+aS'Others'
+p163
+aas.

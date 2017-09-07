@@ -1,0 +1,98 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "40", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Haddi", 
+            "23", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Yasin Bhatkals", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "Asadullah Akhtar", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "Akhtar", 
+            "77", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:30", 
+        "February 21:34", 
+        "October 17:51"
+    ], 
+    "death": "", 
+    "title": "NIA gets 15-day custody of Bhatkal's aide", 
+    "org_unorg": "", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Amid tight security , the National Investigation Agency ( NIA ) produced Indian Mujahideen co-founder Yasin Bhatkals close aide Asadullah Akhtar alias Haddi before a local court here on Thursday in connection with February 21 twin bomb blasts at Dilsukhnagar . The court later remanded him to judicial custody till October 17 . The police asked presspersons to stay out of the court hall during the proceedings . The court has also granted 15-days custody of Akhtar to the NIA . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        "Dilsukhnagar"
+    ], 
+    "O": [
+        "tight security:2", 
+        "indian mujahideen co-founder yasin bhatkals:13", 
+        "local court:26", 
+        "february 21 twin bomb blasts:34", 
+        "judicial custody:48", 
+        "court hall:63", 
+        "15-days custody of akhtar:74"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/nia-gets-15day-custody-of-bhatkals-aide/article5148521.ece", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "80", 
+            "Others"
+        ]
+    ]
+}

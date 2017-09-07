@@ -1,0 +1,295 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Boston : 17'
+p4
+aS'Event'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Boston'
+p8
+aS'62'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Boylston Street'
+p12
+aS'90'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Boston'
+p16
+aS'109'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Boston'
+p20
+aS'185'
+p21
+aS'Event'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'John King'
+p26
+aS'158'
+p27
+aS'Comment'
+p28
+aa(lp29
+S'Obama'
+p30
+aS'275'
+p31
+aS'Others'
+p32
+aasS'TIM'
+p33
+(lp34
+S'48 hours : 3'
+p35
+asS'hot_setting'
+p36
+S''
+p37
+sS'DAT'
+p38
+(lp39
+S'Tuesday:230'
+p40
+asS'death'
+p41
+S'3'
+p42
+sS'title'
+p43
+S'Boston blasts suspect spotted in video'
+p44
+sS'det_loc'
+p45
+(lp46
+S'United States'
+p47
+ag37
+ag37
+aS'Boston'
+p48
+ag37
+asS'terror_group'
+p49
+(lp50
+g37
+asS'content'
+p51
+S'Less than 48 hours after two lethal bombs went off near the finish line of the Boston Marathon , killing three and injuring more than 170 , federal investigators were said to have identified a suspect after examining a security video shot from a nearby department store . The Associated Press said on Twitter Law enforcement official : Arrest imminent in Boston Marathon bombing , suspect to be brought to court , while CNN news channel reported that after analysing CCTV footage from the Lord & Taylor shop at Boylston Street An arrest has been ... based on two videos showing images of the suspect . However , Boston Police tweeted : Despite reports to the contrary , there has not been an arrest in the Marathon attack . The FBI also said no arrest was made and urged the media to exercise caution . Both AP and CNN quoted an unnamed law enforcement official with CNNs John King saying a second source briefed on the investigation said the suspect placed at least one of the bombs and walked away . Meanwhile , The Boston Globe reported that authorities had an image of a suspect carrying , and possibly dropping , a bag at the second bombing scene , just outside the Forum restaurant . The news of the suspects identification and possible arrest came after authorities revealed on Tuesday that the attacker used pressure cookers packed with metal nails and ball bearings as part of the bomb design . The news also broke after a Chinese consulate here revealed that the third victim of the blasts was a Chinese national . Letter to Obama contains ricin : International Page OPEN'
+p52
+sS'injured'
+p53
+S'170'
+p54
+sS'org_unorg'
+p55
+g37
+sS'O'
+p56
+(lp57
+S'two lethal bombs:6'
+p58
+aS'finish line:13'
+p59
+aS'boston marathon:17'
+p60
+aS'federal investigators:28'
+p61
+aS'suspect:36'
+p62
+aS'security video shot:40'
+p63
+aS'department store:46'
+p64
+aS'associated press:50'
+p65
+aS'twitter law enforcement official:54'
+p66
+aS'arrest imminent:59'
+p67
+aS'boston marathon bombing:62'
+p68
+aS'cnn news channel:74'
+p69
+aS'cctv footage:81'
+p70
+aS'lord:85'
+p71
+aS'lord & taylor shop:85'
+p72
+aS'two videos:99'
+p73
+aS'suspect:105'
+p74
+aS'boston:109'
+p75
+aS'boston police:109'
+p76
+aS'contrary:117'
+p77
+aS'arrest:124'
+p78
+aS'marathon:127'
+p79
+aS'marathon attack:127'
+p80
+aS'media:141'
+p81
+aS'exercise caution:143'
+p82
+aS'law enforcement official:153'
+p83
+aS'cnns john king:157'
+p84
+aS'investigation:167'
+p85
+aS'suspect:170'
+p86
+aS'bombs:177'
+p87
+aS'authorities:189'
+p88
+aS'image of a suspect:192'
+p89
+aS'bag:203'
+p90
+aS'bombing scene:207'
+p91
+aS'forum restaurant:213'
+p92
+aS'suspects:220'
+p93
+aS'arrest:224'
+p94
+aS'authorities:227'
+p95
+aS'attacker:233'
+p96
+aS'pressure cookers:235'
+p97
+aS'metal nails:239'
+p98
+aS'ball bearings:242'
+p99
+aS'bomb design:248'
+p100
+aS'broke:254'
+p101
+aS'chinese consulate:257'
+p102
+aS'third victim:263'
+p103
+aS'blasts:267'
+p104
+aS'chinese national:270'
+p105
+aS'letter:273'
+p106
+aS'ricin:277'
+p107
+aS'international page:279'
+p108
+asS'unexpl'
+p109
+(lp110
+g37
+asS'ocassion'
+p111
+g37
+sS'link'
+p112
+S'http://www.thehindu.com/todays-paper/tp-national/boston-blasts-suspect-spotted-in-video/article4628712.ece'
+p113
+sS'date'
+p114
+S'15-04-2013'
+p115
+sS'target'
+p116
+g37
+sS'hot_spot'
+p117
+g37
+sS'delivery_mod'
+p118
+S'PRESSURE COOKER'
+p119
+sS'delivery_met'
+p120
+S'PLANTED'
+p121
+sS'expl'
+p122
+(lp123
+S'METAL NAILS'
+p124
+asS'ORG'
+p125
+(lp126
+(lp127
+S'Associated Press'
+p128
+aS'50'
+p129
+aS'Others'
+p130
+aa(lp131
+S'Twitter'
+p132
+aS'54'
+p133
+aS'Others'
+p134
+aa(lp135
+S'CNN'
+p136
+aS'74'
+p137
+aS'Others'
+p138
+aa(lp139
+S'FBI'
+p140
+aS'131'
+p141
+aS'Others'
+p142
+aa(lp143
+S'AP'
+p144
+aS'147'
+p145
+aS'Others'
+p146
+aa(lp147
+S'CNN'
+p148
+aS'149'
+p149
+aS'Others'
+p150
+aa(lp151
+S'Boston Globe'
+p152
+aS'185'
+p153
+aS'Others'
+p154
+aas.

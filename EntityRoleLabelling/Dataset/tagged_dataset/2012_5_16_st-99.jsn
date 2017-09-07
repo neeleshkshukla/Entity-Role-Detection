@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "Melapalayam", 
+            "45", 
+            "Accused Location"
+        ], 
+        [
+            "Tirunelveli", 
+            "47", 
+            "Neutral"
+        ], 
+        [
+            "Melapalayam", 
+            "62", 
+            "Accused Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "S. Gowthul Aalam", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Syed Mohamed Buhari", 
+            "67", 
+            "Accused"
+        ], 
+        [
+            "Buhari", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "S.M.A. Jinnah", 
+            "155", 
+            "Others"
+        ], 
+        [
+            "Segu Pillai Sheik Mathar", 
+            "178", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "1998:27", 
+        "2007:88", 
+        "May 27:296", 
+        "May 25:315", 
+        "June 3:318"
+    ], 
+    "death": "", 
+    "title": "Leave sought for bomb blast convict", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Madurai", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": ": A writ petition has been filed in the Madras High Court Bench here seeking 10 days of emergency leave for a life convict in the 1998 Coimbatore bomb blast case in order to attend the circumcision function of his brother 's children at Melapalayam in Tirunelveli district . According to the petitioner , S. Gowthul Aalam ( 45 ) of Melapalayam , his elder brother Syed Mohamed Buhari alias TADA ' Buhari was convicted by a Sessions Court in connection with the bomb blast case in 2007 and lodged in the Coimbatore central prison . His appeal was rejected by the High Court and a further appeal made to the Supreme Court was still pending . In the meantime , he was also implicated in connection with a bomb blast in the Rashtriya Swayamsevak Sangh ( RSS ) office but that ended up in acquittal . Filing the writ petition through his counsel S.M.A. Jinnah , the petitioner also said that his was a joint family of two brothers and two sisters headed by their father Segu Pillai Sheik Mathar who passed away recently . After his demise , the family took every decision on the advice of the convict as he was the eldest . Our elder brother is leading us in the right path towards a decent and happy life and we have lots of respect , love and affection for him . His presence in the family functions would give happiness to our entire family and we treat him as the head of our family next to our father . Performing circumcision is the duty of every Muslim . The circumcision of my three sons is the first family celebration after my father 's death and it has been scheduled on May 27 as per my brother 's advice , the petitioner said and sought leave for the convict between May 25 and June 3 . OPEN", 
+    "injured": "", 
+    "org_unorg": "Unorganized", 
+    "O": [
+        "bench:13", 
+        "emergency leave:19", 
+        "life convict:23", 
+        "coimbatore bomb blast case:28", 
+        "district:48", 
+        "petitioner:53", 
+        "tada:71", 
+        "connection:81", 
+        "bomb blast case:84", 
+        "prison:95", 
+        "appeal:98", 
+        "appeal:108", 
+        "meantime:120", 
+        "connection:127", 
+        "bomb blast:130", 
+        "office:140", 
+        "acquittal:146", 
+        "filing:148", 
+        "writ petition:150", 
+        "counsel:154", 
+        "joint family:166", 
+        "brother:210", 
+        "death:289", 
+        "petitioner:306"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/leave-sought-for-bomb-blast-convict/article3424245.ece", 
+    "date": "01-05-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Madras High Court", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Sessions Court", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "Coimbatore central prison", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "Supreme Court", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "Rashtriya Swayamsevak Sangh", 
+            "134", 
+            "Others"
+        ], 
+        [
+            "RSS", 
+            "138", 
+            "Others"
+        ]
+    ]
+}

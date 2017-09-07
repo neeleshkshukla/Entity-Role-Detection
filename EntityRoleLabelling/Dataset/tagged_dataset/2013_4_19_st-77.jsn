@@ -1,0 +1,145 @@
+{
+    "LOC": [
+        [
+            "Tamil Nadu", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "109", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "126", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "253", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:14", 
+        "Friday:40", 
+        "Wednesday:66"
+    ], 
+    "death": "", 
+    "title": "T.N. police to inspect blast site", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A special team of the Tamil Nadu police will inspect the scene of Wednesday 's bomb blast in Bangalore that left 16 people injured . The team comprising senior officers of the Special Branch CID will reach Bangalore on Friday and hold discussions with the investigators there and peruse available evidence and statements of eyewitnesses , police sources said . Soon after the incident on Wednesday , it was reported that a motorcycle with Tamil Nadu registration number was used to trigger the explosion . Though the registration number was found to be a fake one , the State police , relying on the input provided by their Karnataka counterpart , managed to track down the registered owner of the vehicle on the outskirts of Chennai . However , he claimed to have sold the motorcycle to someone else a few months ago . From then on , investigators came across several fake names , photographs and addresses . A couple of brokers who deal with used two-wheelers remember to have arranged the sale of the motorcycle . But the name , identity proof and address provided by them were found to be fake . It appears that the motorcycle changed a few handsefforts are on to zero in on the person who owned or used it last , a senior police official said . Meanwhile , it has been decided to visit the scene of blast to ascertain certain inputs . A few registration numbers were given to us by the Bangalore police . Most of them were found to be fake . In one case , the vehicle and the owner were found at the registered address ... it was obvious that he had nothing to do with the blast . The State police are working in close coordination with other agencies , the official said . OPEN", 
+    "injured": "16", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "Bangalore", 
+        "Bangalore"
+    ], 
+    "O": [
+        "team:3", 
+        "bomb blast:16", 
+        "senior officers:29", 
+        "special branch:33", 
+        "cid:35", 
+        "motorcycle:73", 
+        "registration number:77", 
+        "trigger:82", 
+        "explosion:84", 
+        "fake:95", 
+        "vehicle:121", 
+        "motorcycle:177", 
+        "identity proof:183", 
+        "motorcycle:200", 
+        "police:222", 
+        "police:254"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tn-police-to-inspect-blast-site/article4632215.ece", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "Bangalore", 
+    "delivery_mod": "MOTORCYCLES", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "team", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "Bangalore on Friday", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "investigators", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "222", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "296", 
+            "Others"
+        ], 
+        [
+            "agencies", 
+            "304", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "LOC": [
+        [
+            "Kozhikode", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "Kozhikode", 
+            "106", 
+            "Event"
+        ], 
+        [
+            "Kannur", 
+            "128", 
+            "Event"
+        ], 
+        [
+            "Anakkulam", 
+            "146", 
+            "Source"
+        ], 
+        [
+            "Maidanappally", 
+            "158", 
+            "Source", 
+            "Accused Location"
+        ], 
+        [
+            "Payyambalam", 
+            "160", 
+            "Source", 
+            "Accused Location"
+        ], 
+        [
+            "Chalad", 
+            "171", 
+            "Source"
+        ], 
+        [
+            "Bangalore", 
+            "239", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "253", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bangladesh border", 
+            "276", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Thadiyantavide Nazir", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "55", 
+            "Accused"
+        ], 
+        [
+            "T.K. Rajmohan", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "Nazir", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "202", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "257", 
+            "Accused"
+        ], 
+        [
+            "Shafas Shamsuddin", 
+            "261", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:25", 
+        "2006:53", 
+        "Tuesday:108", 
+        "December:235"
+    ], 
+    "death": "", 
+    "title": "Nazir brought to Kannur", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)"
+    ], 
+    "content": "To collect evidence in connection with the Kozhikode twin blasts case KANNUR : A team of the National Investigation Agency ( NIA ) on Wednesday took suspected Lashkar-e-Taiba operative Thadiyantavide Nazir to difference places in the district to collect evidence in connection with the investigation in the Kozhikode twin blasts case of 2006 . Nazir , prime accused in the case , was taken to difference places after he was brought here from Kozhikode around noon by the NIA team headed by Superintendent of Police T.K. Rajmohan . The police escorted him to the places as a sequel to the evidence collection exercise completed in Kozhikode on Tuesday . According to the investigators , Nazir and his associates had hatched the conspiracy for the twin blasts in Kannur . After interrogating him at the Police Club here , Nazir was taken to a room at Anakkulam where the bombs used for the blasts had been made , Maidanappally and Payyambalam where the bombs had been tested , a madrassa at Chalad where the explosive devices had been allegedly kept and a shop from where some of the materials for making the devices had been purchased . It was the second time Nazir , who is hailing from here and is believed to have connections with LeT and the Indian Mujahideen , was brought here for evidence gathering in a terror-related case . Earlier in December last , the Bangalore police had taken him to different places here to unearth evidence in the Bangalore blasts case . Nazir and his associate Shafas Shamsuddin had been handed over to the Bangalore police after their arrest from the Bangladesh border . They have now been transferred to the custody of the NIA for the probe in the Kozhikode blasts case . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "", 
+        "Kannur", 
+        ""
+    ], 
+    "O": [
+        "kozhikode twin blasts case:8", 
+        "national investigation agency ( nia ):18", 
+        "kozhikode twin blasts case:48", 
+        "kozhikode blasts case:295"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/nazir-brought-to-kannur/article722528.ece", 
+    "date": "03-03-2006", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "216", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "219", 
+            "Accused"
+        ], 
+        [
+            "Bangalore police", 
+            "269", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "289", 
+            "Others"
+        ]
+    ]
+}

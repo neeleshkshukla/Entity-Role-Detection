@@ -1,0 +1,178 @@
+{
+    "LOC": [
+        [
+            "Vadakara", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Narikkatteripara", 
+            "82", 
+            "Neutral"
+        ], 
+        [
+            "Vadakara", 
+            "193", 
+            "Neutral"
+        ], 
+        [
+            "Kannur", 
+            "319", 
+            "Neutral"
+        ], 
+        [
+            "Nadapauram", 
+            "338", 
+            "Neutral"
+        ], 
+        [
+            "Nadapuram", 
+            "438", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Neeraj Kumar Gupta", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "K.P. Pavilesh", 
+            "144", 
+            "Accused"
+        ], 
+        [
+            "C. Nigesh", 
+            "149", 
+            "Accused"
+        ], 
+        [
+            "C. Vijith", 
+            "154", 
+            "Accused"
+        ], 
+        [
+            "V. Bijesh", 
+            "159", 
+            "Accused"
+        ], 
+        [
+            "V. Sajith", 
+            "164", 
+            "Accused"
+        ], 
+        [
+            "K. Abhilash", 
+            "181", 
+            "Accused"
+        ], 
+        [
+            "Gupta", 
+            "237", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:26", 
+        "Wednesday:87", 
+        "October 23:135", 
+        "Wednesday:489", 
+        "Wednesday Steel:489"
+    ], 
+    "death": "0", 
+    "title": "Major crude bomb haul in Nadapuram", 
+    "org_unorg": "Unorganized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The rural police here seized nearly 34 unexploded steel bombs and a cache of explosive substances from Varikkoli-Narikkatteripara in the Nadapauram police stations limits on Thursday . A team of police officers led by Vadakara Superintendent of Police Neeraj Kumar Gupta unearthed the country bombs during a raid carried out in search of explosives following an incident where six suspected activists of the Communist Party of India-Marxist ( CPI-M ) were injured in a bomb explosion inside a thatched shed at Narikkatteripara in the night on Wednesday . The police believe that the explosion occurred as the victims were making the bombs inside the shed . The area had witnessed frequent clashes between the CPI ( M ) and the Indian Union Muslim League ( IUML ) soon after the local body polls on October 23 . Five of the injured persons , K.P. Pavilesh , 25 ; C. Nigesh , 27 ; C. Vijith , 20 ; V. Bijesh , 25 and V. Sajith , 24 , have been admitted to the Baby Memorial Hospital in the city while K. Abhilash , 24 , was admitted to a private hospital at Vadakara . The injuries of three persons are reported to be serious . Two of them have lost their palms in the explosion ; one suffered burn-injuries on the abdomen and had critically wounded one of his limbs , the police said . Mr. Gupta said as many as 31 empty steel containers , gunpowder weighing five kg , aluminium powder and potassium chloratean oxidising agent used for making matches and firecrackerswere recovered from the shed . Some of the unexploded bombs were concealed in bags and buckets and also under rocks . Specialists attached to the bomb disposal squad defused the bombs expect one that was covered with blood stains . Samples of the explosive substances have been sent to the Forensic Science Laboratory at Kannur . Experts also visited the site to gather more details . Raids to continue The raids in the Nadapauram station limits and adjoining areas would continue . A case has been registered in connection with the incident . More clues could be obtained only after questioning the injured persons , the officer said . The police said steel vessels having a volumetric capacity of 250 ml are easily available in market . Jagged pieces of steel could inflict serious injury after explosion . More than a fortnight ago , three personssuspected to be IUML activistswere injured while making bombs in the limits of Kuttiyadi police station limits . The recovery of bombs from the politically and communally sensitive Nadapuram is a big jolt to the ongoing peace initiatives by the State government . It has also raised fears about political parties and fundamentalist outfits manufacturing bombs to trigger clashes in the region prior to the Assembly elections next year . Raid following bomb blast in a thatched shed on Wednesday Steel vessels for making bombs aplenty in market OPEN", 
+    "injured": "6", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Mallapuram", 
+        "Nadapauram", 
+        ""
+    ], 
+    "O": [
+        "the:1", 
+        "steel bombs:9", 
+        "explosive:15", 
+        "raid:48", 
+        "cpi-m:69", 
+        "bomb explosion:75", 
+        "explosion:94", 
+        "explosion:215", 
+        "gunpowder:247", 
+        "aluminium powder:252", 
+        "potassium chloratean:255", 
+        "firecrackerswere:264", 
+        "bomb disposal squad:290", 
+        "explosion:401", 
+        "state government:450", 
+        "bomb blast:482"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/major-crude-bomb-haul-in-nadapuram/article895517.ece", 
+    "date": "19-11-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Accidental", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Nadapauram police stations", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India-Marxist", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "Indian Union Muslim League", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "IUML", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "Baby Memorial Hospital", 
+            "174", 
+            "Others"
+        ], 
+        [
+            "Forensic Science Laboratory", 
+            "315", 
+            "Others"
+        ], 
+        [
+            "IUML", 
+            "413", 
+            "Others"
+        ], 
+        [
+            "Kuttiyadi police station", 
+            "423", 
+            "Others"
+        ]
+    ]
+}

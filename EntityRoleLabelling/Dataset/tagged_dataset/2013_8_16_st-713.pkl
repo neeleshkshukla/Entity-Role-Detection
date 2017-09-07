@@ -1,0 +1,228 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Baghdad'
+p4
+aS'7'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Kadhimiyah'
+p8
+aS'120'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Baghdad'
+p12
+aS'124'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Baladiyat'
+p16
+aS'138'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Iraq'
+p20
+aS'191'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Nuri al-Maliki'
+p26
+aS'25'
+p27
+aS'Comment'
+p28
+aasS'TIM'
+p29
+(lp30
+S'five years : 66'
+p31
+asS'hot_setting'
+p32
+S''
+p33
+sS'DAT'
+p34
+(lp35
+S'Thursday:14'
+p36
+aS'Thursday morning:85'
+p37
+asS'death'
+p38
+S'23'
+p39
+sS'title'
+p40
+S'Series of Baghdad bombings kills 23'
+p41
+sS'det_loc'
+p42
+(lp43
+S'Iraq'
+p44
+ag33
+ag33
+aS'Baghdad'
+p45
+ag33
+asS'terror_group'
+p46
+(lp47
+S'AL-QAEDA'
+p48
+asS'content'
+p49
+S"Bombings mainly targeting Shiite-majority areas of Baghdad killed at least 23 people on Thursday , officials said , a day after Iraqi Prime Minister Nuri al-Maliki vowed to press a campaign against militants . Security forces have carried out major operations against Iraqi militants in recent weeks , but the action has so far failed to stem the worst violence to hit the country in five years . The six car bombs and a roadside bomb struck six different areas of the capital on Thursday morning - five of them Shiite-majority and a sixth mixed - also wounding more than 70 people . In the single deadliest attack , a car bomb exploded at a bus station in the Kadhimiyah area of north Baghdad , killing seven people and wounding 24 . Another car bomb exploded in Baladiyat near an office of Al-Ahad television , which is affiliated with Asaib Ahl al-Haq , a Shiite militant group that split from powerful Shiite cleric Moqtada al-Sadr 's Mahdi Army . No group immediately claimed responsibility for the attacks , but Sunni militants including those linked to Al-Qaeda frequently target members of Iraq 's Shiite Muslim majority , whom they consider apostates . The violence came a day after attacks including a blast at a cafe north of the capital killed 17 people.AFP OPEN"
+p50
+sS'injured'
+p51
+S'94'
+p52
+sS'org_unorg'
+p53
+g33
+sS'O'
+p54
+(lp55
+S'bombings:1'
+p56
+aS'shiite-majority:4'
+p57
+aS'iraqi prime minister:22'
+p58
+aS'iraqi prime minister nuri al-maliki:22'
+p59
+aS'press:29'
+p60
+aS'campaign:31'
+p61
+aS'militants:33'
+p62
+aS'security forces:35'
+p63
+aS'major operations:40'
+p64
+aS'iraqi militants:43'
+p65
+aS'far failed:54'
+p66
+aS'worst violence:59'
+p67
+aS'violence:60'
+p68
+aS'six car bombs:70'
+p69
+aS'roadside bomb:75'
+p70
+aS'different areas:79'
+p71
+aS'shiite-majority:91'
+p72
+aS'sixth mixed:94'
+p73
+aS'deadliest attack:107'
+p74
+aS'car bomb:111'
+p75
+aS'bus station:116'
+p76
+aS'kadhimiyah area:120'
+p77
+aS'car bomb:134'
+p78
+aS'al-ahad television:143'
+p79
+aS'shiite militant:155'
+p80
+aS"shiite cleric moqtada al-sadr 's mahdi army:162"
+p81
+aS'sunni militants:180'
+p82
+aS'target members:188'
+p83
+aS"iraq 's shiite muslim:191"
+p84
+aS'apostates:200'
+p85
+aS'violence:203'
+p86
+aS'attacks:208'
+p87
+aS'blast:211'
+p88
+aS'cafe:214'
+p89
+asS'unexpl'
+p90
+(lp91
+g33
+asS'ocassion'
+p92
+g33
+sS'link'
+p93
+S'http://www.thehindu.com/todays-paper/tp-in-school/series-of-baghdad-bombings-kills-23/article5026819.ece'
+p94
+sS'date'
+p95
+S'15-08-2013'
+p96
+sS'target'
+p97
+S'SHIITE ISLAM'
+p98
+sS'hot_spot'
+p99
+g33
+sS'delivery_mod'
+p100
+g33
+sS'delivery_met'
+p101
+S'PLANTED'
+p102
+sS'expl'
+p103
+(lp104
+g33
+asS'ORG'
+p105
+(lp106
+(lp107
+S'Asaib Ahl al-Haq'
+p108
+aS'150'
+p109
+aS'Others'
+p110
+aa(lp111
+S"Moqtada al-Sadr 's Mahdi Army"
+p112
+aS'164'
+p113
+aS'Others'
+p114
+aa(lp115
+S'Al-Qaeda'
+p116
+aS'186'
+p117
+aS'Accused'
+p118
+aas.

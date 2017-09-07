@@ -1,0 +1,225 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsukhnagar'
+p4
+aS'9'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Vijayawada'
+p8
+aS'49'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Lumbini Park'
+p12
+aS'109'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Gokul Chat'
+p16
+aS'121'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Kothi'
+p20
+aS'124'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Lumbini Park'
+p24
+aS'167'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Gokul Chat'
+p28
+aS'170'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Anand Tiffin Centre'
+p32
+aS'177'
+p33
+aS'Accused Location'
+p34
+aasS'PER'
+p35
+(lp36
+sS'TIM'
+p37
+(lp38
+S'6.50 p.m.:38'
+p39
+aS'five years : 152'
+p40
+asS'hot_setting'
+p41
+S''
+p42
+sS'DAT'
+p43
+(lp44
+S'Thursday evening:19'
+p45
+aS'August 25 , 2007 : 102'
+p46
+aS'Thursdays : 136'
+p47
+asS'death'
+p48
+S'13'
+p49
+sS'title'
+p50
+S'The Hindu Archive: 13 killed, 83 injured as twin blasts rock Hyderabad'
+p51
+sS'org_unorg'
+p52
+g42
+sS'terror_group'
+p53
+(lp54
+g42
+asS'content'
+p55
+VTwo powerful explosions ripped through crowded areas at Dilsukhnagar in the eastern part of the State capital on Thursday evening , killing 13 persons and injuring more than 83 . . . The first blast occurred at 6.50 p.m. on the citys busiest road that links it with Vijayawada ; as terrified people were scampering to safety , the second blast went off . . . Authorities say the explosions were caused by improvised explosive devices that could have been kept on bicycles or packed inside frames of bicycles . . . The twin blasts brought back painful memories of the August 25 , 2007 IED attacks in Lumbini Park , in front of the State secretariat , and at Gokul Chat in Kothi that killed 44 people . . . Incidentally , one of Thursdays blasts took place near a crowded foot over-bridge , where security forces defused an IED five years ago . The device was to go off along with the blasts in Lumbini Park and Gokul Chat . . . Eyewitnesses at Anand Tiffin Centre , near the spot where the first blast took place , said someone began shouting about a bomb going off . Even as confused people watched , the IED detonated .
+p56
+sS'injured'
+p57
+S'83'
+p58
+sS'det_loc'
+p59
+(lp60
+S'India'
+p61
+aS'Andhra Pradesh'
+p62
+ag42
+aS'Dilshuknagar'
+p63
+ag42
+asS'O'
+p64
+(lp65
+S'Two powerful explosions:1'
+p66
+aS'crowded areas:6'
+p67
+aS'eastern part:12'
+p68
+aS'State capital:16'
+p69
+aS'first blast:34'
+p70
+aS'citys busiest road:42'
+p71
+aS'links:46'
+p72
+aS'terrified people:52'
+p73
+aS'scampering:55'
+p74
+aS'safety:57'
+p75
+aS'second blast:60'
+p76
+aS'Authorities:67'
+p77
+aS'explosions:70'
+p78
+aS'improvised explosive devices:74'
+p79
+aS'bicycles:83'
+p80
+aS'packed inside frames of bicycles:85'
+p81
+aS'twin blasts:94'
+p82
+aS'painful memories:98'
+p83
+aS'IED:106'
+p84
+aS'attacks:107'
+p85
+aS'State secretariat:116'
+p86
+aS'blasts:137'
+p87
+aS'crowded foot over-bridge:142'
+p88
+aS'security forces defused:147'
+p89
+aS'IED:151'
+p90
+aS'device:157'
+p91
+aS'blasts:165'
+p92
+aS'Eyewitnesses:175'
+p93
+aS'first blast:186'
+p94
+aS'shouting:194'
+p95
+aS'confused:203'
+p96
+aS'IED:208'
+p97
+aS'detonated:209'
+p98
+asS'unexpl'
+p99
+(lp100
+g42
+asS'ocassion'
+p101
+g42
+sS'link'
+p102
+S'http://www.thehindu.com/news/cities/Hyderabad/at-least-10-killed-scores-injured-in-hyderabad-blasts/article4439367.ece'
+p103
+sS'date'
+p104
+S'21-02-2013'
+p105
+sS'target'
+p106
+S'PUBLIC PLACES'
+p107
+sS'hot_spot'
+p108
+g42
+sS'delivery_mod'
+p109
+S'BYCICLE'
+p110
+sS'delivery_met'
+p111
+S'PLANTED'
+p112
+sS'expl'
+p113
+(lp114
+S'IED'
+p115
+asS'ORG'
+p116
+(lp117
+s.

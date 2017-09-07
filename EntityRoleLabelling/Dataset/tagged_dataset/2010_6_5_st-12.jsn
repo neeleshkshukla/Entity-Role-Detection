@@ -1,0 +1,176 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "146", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "199", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "225", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "237", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "239", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:115", 
+        "February:140", 
+        "February 23:140", 
+        "2005:143", 
+        "2008:157", 
+        "2008:242"
+    ], 
+    "death": "", 
+    "title": "Indian Mujahideen declared terror outfit", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "Indian Mujahideen", 
+        "Students Islamic Movement of India", 
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)"
+    ], 
+    "content": "The government has declared the Indian Mujahideen ( IM ) , suspected to be a shadow outfit of the banned Students Islamic Movement of India ( SIMI ) and Pakistan-based Lashker-e-Taiba , a terrorist outfit . The IM is allegedly involved in the serial bomb blasts in Delhi , Uttar Pradesh , Bangalore and Mumbai . It has been added to the list of terror groups under the Unlawful Activities ( Prevention ) Act , 1967 . An order has been issued adding the Indian Mujahideen and all its formations and front organisations to the list of Unlawful Activities ( Prevention ) Act , 1967 , the Home Ministry said in a statement on Friday . Under the Act , the government has banned 34 groups and declared them terror outfits . The IM came to light after the February 23 , 2005 blast in Varanasi . Its hand was suspected in the incident . In 2008 , it was allegedly involved in many terror attacks . Intelligence agencies believe that the outfit is also a front group of the Harkat-ul-Jihad-al Islami ( HuJI ) . A sleeper cell of the IM was suspected to be behind the Pune blast earlier this year in which two foreign nationals and seven others were killed and 60 injured . The attack at the German Bakery in Pune was similar to the group 's earlier strikes in Bangalore , Ahmedabad and New Delhi in 2008 , say sources in intelligence agencies . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "simi:27", 
+        "serial bomb blasts:44", 
+        "prevention:72", 
+        "home ministry:108", 
+        "government:122", 
+        "terror outfits:130", 
+        "im:134", 
+        "light:137", 
+        "blast:144", 
+        "hand:149", 
+        "incident:154", 
+        "terror:165", 
+        "intelligence agencies:168", 
+        "outfit:173", 
+        "front group:177", 
+        "huji:184", 
+        "sleeper cell:188", 
+        "pune blast:199", 
+        "blast:200", 
+        "attack:219", 
+        "intelligence:247"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/indian-mujahideen-declared-terror-outfit/article469163.ece", 
+    "date": "05-06-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "Lashker-e-Taiba", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihad-al Islami", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "German Bakery", 
+            "222", 
+            "Victim", 
+            "Others"
+        ]
+    ]
+}

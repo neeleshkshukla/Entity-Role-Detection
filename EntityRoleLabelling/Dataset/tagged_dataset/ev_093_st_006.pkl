@@ -1,0 +1,358 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bodh Gaya'
+p4
+aS'19'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Ranchi'
+p8
+aS'30'
+p9
+aS'Source'
+p10
+aa(lp11
+S'Hindpidih'
+p12
+aS'64'
+p13
+aS'Source'
+p14
+aa(lp15
+S'Ranchi'
+p16
+aS'67'
+p17
+aS'Source'
+p18
+aa(lp19
+S'Bodh Gaya'
+p20
+aS'92'
+p21
+aS'Event'
+p22
+aa(lp23
+S'city railway station'
+p24
+aS'144'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Bodh Gaya'
+p28
+aS'155'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Thai Monastery'
+p32
+aS'180'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Bodh Gaya'
+p36
+aS'183'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Patna station'
+p40
+aS'199'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Patna station'
+p44
+aS'199'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Targhar Monastery'
+p48
+aS'210'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Bodh Gaya'
+p52
+aS'235'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Bodh Gaya'
+p56
+aS'270'
+p57
+aS'Event'
+p58
+aasS'PER'
+p59
+(lp60
+(lp61
+S'Tehsin Akhtar'
+p62
+aS'107'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Haidar Ali'
+p66
+aS'110'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Imtiaz Ansari'
+p70
+aS'131'
+p71
+aS'Assoc Accused'
+p72
+aa(lp73
+S'Ansari'
+p74
+aS'148'
+p75
+aS'Assoc Accused'
+p76
+aa(lp77
+S'Tehsin'
+p78
+aS'167'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Imtiaz'
+p82
+aS'174'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Ainul'
+p86
+aS'188'
+p87
+aS'Assoc Accused'
+p88
+aa(lp89
+S'Tarique'
+p90
+aS'190'
+p91
+aS'Assoc Accused'
+p92
+aa(lp93
+S'Mujib'
+p94
+aS'213'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'Imtiaz'
+p98
+aS'251'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'Ansari'
+p102
+aS'297'
+p103
+aS'Assoc Accused'
+p104
+aasS'TIM'
+p105
+(lp106
+sS'hot_setting'
+p107
+S''
+p108
+sS'DAT'
+p109
+(lp110
+S'July 7:17'
+p111
+aS'Monday:69'
+p112
+aS'October 27 : 120'
+p113
+aS'Monday:226'
+p114
+asS'death'
+p115
+g108
+sS'title'
+p116
+S'Ranchi document helps NIA crack Bodh Gaya blast case'
+p117
+sS'org_unorg'
+p118
+S'ORGANISED'
+p119
+sS'terror_group'
+p120
+(lp121
+S'INDIAN MUJAHIDEEN'
+p122
+asS'content'
+p123
+VNEW DELHI : The National Investigation Agency -LRB- NIA -RRB- has claimed to have solved the July 7 Bodh Gaya blasts conspiracy with the recovery of a document from Ranchi that details the entire planning , including the placement of each of the 13 bombs and the planters associated with them . The NIA , which recovered 27 bombs from a lodge in Hindpidih area of Ranchi on Monday , also found a chart in the room that listed the men who allegedly planted 13 bombs in the temple complex of Bodh Gaya . The document shows that the blasts were planned by Indian Mujahideen 's Tehsin Akhtar and Haidar Ali and included the same planters as in the October 27 Patna blasts . It also includes the name of Imtiaz Ansari , arrested after one of the Patna bombs exploded at the city railway station . Ansari had denied any involvement in the Bodh Gaya blasts but had conceded that it had been planned by Tehsin . The chart 's matrix reveals Imtiaz had planted bombs near the Thai Monastery in Bodh Gaya . His accomplice Ainul alias Tarique , who was injured while planting bombs at Patna station and later died , had planted bombs at the Targhar Monastery . Mujib , who was staying in the hotel room which was raided on Monday , had planted bombs in four places in Bodh Gaya . A senior officer privy to investigation details said , ` This shows that Imtiaz is still hiding several things about IM 's activities . With the recovery of these documents , the Bodh Gaya puzzle has been solved . We are now in the process of evidence collection and looking for the absconding accused . We will further interrogate Ansari . ' .
+p124
+sS'injured'
+p125
+g108
+sS'det_loc'
+p126
+(lp127
+S'India'
+p128
+aS'Bihar'
+p129
+ag108
+ag108
+ag108
+asS'O'
+p130
+(lp131
+S'conspiracy:22'
+p132
+aS'recovery:25'
+p133
+aS'document:28'
+p134
+aS'planning:35'
+p135
+aS'placement:39'
+p136
+aS'13 bombs:44'
+p137
+aS'recovered 27 bombs:57'
+p138
+aS'area:65'
+p139
+aS'chart:74'
+p140
+aS'room:77'
+p141
+aS'13 bombs:85'
+p142
+aS'temple complex:89'
+p143
+aS'document:96'
+p144
+aS'patna blasts:122'
+p145
+aS'patna:122'
+p146
+aS'name:129'
+p147
+aS'patna:139'
+p148
+aS'patna bombs:139'
+p149
+aS'involvement:152'
+p150
+aS'chart:170'
+p151
+aS'matrix:172'
+p152
+aS'station:200'
+p153
+aS'hotel room:220'
+p154
+aS'officer privy:240'
+p155
+aS'investigation:243'
+p156
+aS'recovery:264'
+p157
+aS'puzzle:272'
+p158
+aS'process:282'
+p159
+aS'evidence collection:284'
+p160
+asS'unexpl'
+p161
+(lp162
+g108
+asS'ocassion'
+p163
+g108
+sS'link'
+p164
+S'http://timesofindia.indiatimes.com/india/Ranchi-document-helps-NIA-crack-Bodh-Gaya-blast-case/articleshow/25281931.cms?'
+p165
+sS'date'
+p166
+S'07-07-2013'
+p167
+sS'target'
+p168
+S'RELIGIOUS PLACES'
+p169
+sS'hot_spot'
+p170
+g108
+sS'delivery_mod'
+p171
+g108
+sS'delivery_met'
+p172
+g108
+sS'expl'
+p173
+(lp174
+g108
+asS'ORG'
+p175
+(lp176
+(lp177
+S'National Investigation Agency'
+p178
+aS'5'
+p179
+aS'Others'
+p180
+aa(lp181
+S'NIA'
+p182
+aS'54'
+p183
+aS'Others'
+p184
+aa(lp185
+S'Indian Mujahideen'
+p186
+aS'104'
+p187
+aS'Accused'
+p188
+aa(lp189
+S'IM'
+p190
+aS'258'
+p191
+aS'Assoc Accused'
+p192
+aas.

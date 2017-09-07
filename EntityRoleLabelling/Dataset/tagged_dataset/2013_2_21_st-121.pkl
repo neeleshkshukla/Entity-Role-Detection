@@ -1,0 +1,363 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Pune'
+p4
+aS'201'
+p5
+aS'Assoc Event Location'
+p6
+aa(lp7
+S'Mumbai'
+p8
+aS'308'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Opera House'
+p12
+aS'323'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Zaveri Bazaar'
+p16
+aS'326'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Pune'
+p20
+aS'391'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Ahmedabad'
+p24
+aS'422'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Surat'
+p28
+aS'424'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Bangalore'
+p32
+aS'426'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Delhi'
+p36
+aS'428'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'Hyderabad'
+p40
+aS'430'
+p41
+aS'Assoc Event Location'
+p42
+aasS'PER'
+p43
+(lp44
+(lp45
+S'chief Yasin'
+p46
+aS'20'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Yasin'
+p50
+aS'21'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Yasin Bhatkal'
+p54
+aS'21'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Asadullah Akhtar Javed Akhtar'
+p58
+aS'214'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Yasin Bhatkal'
+p62
+aS'262'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Yasin'
+p66
+aS'262'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Tahaseen Akhtar Wasim Aktar Shaikh'
+p70
+aS'268'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Asadulla Akhtar Javed Akhtar'
+p74
+aS'277'
+p75
+aS'Accused'
+p76
+aa(lp77
+S'Asadulla'
+p78
+aS'277'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Asadulla Akhtar'
+p82
+aS'277'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Akhtar Javed Akhtar'
+p86
+aS'278'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Waqas alias Ahmed'
+p90
+aS'285'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Waqas'
+p94
+aS'285'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'Ahmed'
+p98
+aS'287'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'Yasin'
+p102
+aS'408'
+p103
+aS'Assoc Accused'
+p104
+aa(lp105
+S'Asadulla'
+p106
+aS'410'
+p107
+aS'Assoc Accused'
+p108
+aasS'TIM'
+p109
+(lp110
+sS'hot_setting'
+p111
+S''
+p112
+sS'DAT'
+p113
+(lp114
+S'February 12:239'
+p115
+aS'July 13 , 2011 : 314'
+p116
+aS'August 1 , 2012 . : 394'
+p117
+asS'death'
+p118
+S'27'
+p119
+sS'title'
+p120
+S'ATS gets spate of tips on IM operatives'
+p121
+sS'det_loc'
+p122
+(lp123
+S'India'
+p124
+aS'Maharashtra'
+p125
+aS'Mumbai-City'
+p126
+aS'mumbai'
+p127
+aS'blasts occurred at Opera House , Zaveri Bazaar , and Dadar West'
+p128
+asS'terror_group'
+p129
+(lp130
+S'Indian Mujahideen'
+p131
+asS'content'
+p132
+S'The Maharashtra Anti-Terrorism Squad , which had announced rewards amounting to Rs . 10 lakh each on Indian Mujahideen chief Yasin Bhatkal and his three aides allegedly involved in terror cases , have received as many as 40 phone calls in a weeks time seeking to provide them clues , but none of them has yielded results so far . According to the police , the callers claimed they had spotted persons resembling the wanted accused either in a public transport bus or at places like bus stops and railway stations . Besides these telephone calls , about 60 missed calls were received at the numbers provided by the ATS as the callers wanted to verify if they were correct , the police said . When we called them back after the missed calls , the callers said they wanted to verify whether the numbers were correct so that they could make calls if they spot the terrorists , said a police officer . One of the callers asked the ATS to mail him the photographs of the wanted accused as the pictures on the posters were not clear , the police added . Another person who had called from Pune said he had spotted a person resembling one of the wanted accused Asadullah Akhtar Javed Akhtar a few days ago . Following this , an ATS team rushed to him and took down the details . On February 12 , the ATS announced a cash reward of Rs 10 lakh to any person providing information leading to the arrest of Yasin Bhatkal ( 30 ) , Tahaseen Akhtar Wasim Aktar Shaikh ( 23 ) , Asadulla Akhtar Javed Akhtar ( 26 ) and Waqas alias Ahmed ( 26 ) . All the four accused were allegedly involved in three coordinated bomb explosions at different locations in Mumbai during peak evening hours on July 13 , 2011 . The blasts occurred at Opera House , Zaveri Bazaar , and Dadar West , leaving 27 dead and 130 injured . Five accused had been arrested and a 4,000-page charge sheet was filed in May last year in a special MCOCA court . Tahaseen planted the bomb that caused the Dadar blast , and the remaining three were involved in the four coordinated low-intensity explosions , which struck the arterial road in Pune city on August 1 , 2012 . Eight accused had been arrested in this connection . Yasin and Asadulla were involved in blasts that occurred over the past decade in Ahmedabad , Surat , Bangalore , Delhi and Hyderabad , ATS sources said . PTI OPEN'
+p133
+sS'injured'
+p134
+S'130'
+p135
+sS'org_unorg'
+p136
+S'Organized'
+p137
+sS'O'
+p138
+(lp139
+S'rs . 10 lakh:12'
+p140
+aS'chief:20'
+p141
+aS'terror:30'
+p142
+aS'phone:39'
+p143
+aS'time:44'
+p144
+aS'public transport bus:80'
+p145
+aS'bus:87'
+p146
+aS'railway:90'
+p147
+aS'telephone:95'
+p148
+aS'spot:156'
+p149
+aS'officer:163'
+p150
+aS'mail:173'
+p151
+aS'team:228'
+p152
+aS'cash reward:246'
+p153
+aS'information:256'
+p154
+aS'arrest:260'
+p155
+aS'three coordinated bomb explosions:300'
+p156
+aS'bomb:302'
+p157
+aS'peak evening:310'
+p158
+aS'dadar west:330'
+p159
+aS'4,000-page charge sheet:347'
+p160
+aS'mcoca court:359'
+p161
+aS'bomb:365'
+p162
+aS'dadar blast:369'
+p163
+aS'city:392'
+p164
+aS'connection:406'
+p165
+aS'decade:420'
+p166
+asS'unexpl'
+p167
+(lp168
+g112
+asS'ocassion'
+p169
+g112
+sS'link'
+p170
+S'http://www.thehindu.com/todays-paper/tp-national/ats-gets-spate-of-tips-on-im-operatives/article4437588.ece'
+p171
+sS'date'
+p172
+S'13-07-2011'
+p173
+sS'target'
+p174
+g112
+sS'hot_spot'
+p175
+g112
+sS'delivery_mod'
+p176
+g112
+sS'delivery_met'
+p177
+g112
+sS'expl'
+p178
+(lp179
+g112
+asS'ORG'
+p180
+(lp181
+(lp182
+S'Maharashtra Anti-Terrorism Squad'
+p183
+aS'2'
+p184
+aS'Others'
+p185
+aa(lp186
+S'Indian Mujahideen'
+p187
+aS'18'
+p188
+aS'Accused'
+p189
+aa(lp190
+S'ATS'
+p191
+aS'110'
+p192
+aS'Others'
+p193
+aa(lp194
+S'MCOCA'
+p195
+aS'359'
+p196
+aS'Others'
+p197
+aas.

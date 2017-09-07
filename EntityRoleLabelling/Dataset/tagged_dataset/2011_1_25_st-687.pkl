@@ -1,0 +1,173 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Karbala'
+p4
+aS'46'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Karbala'
+p8
+aS'121'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Baghdad'
+p12
+aS'127'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Karbala'
+p16
+aS'208'
+p17
+aS'Event'
+p18
+aasS'PER'
+p19
+(lp20
+sS'TIM'
+p21
+(lp22
+S'7 a.m.:106'
+p23
+asS'hot_setting'
+p24
+S''
+p25
+sS'DAT'
+p26
+(lp27
+S'Monday:5'
+p28
+aS'Monday:193'
+p29
+asS'death'
+p30
+S'18'
+p31
+sS'title'
+p32
+S'18 killed in Iraq car bomb blasts'
+p33
+sS'det_loc'
+p34
+(lp35
+S'Iraq'
+p36
+ag25
+ag25
+aS'Baghdad'
+p37
+aS'Karbala'
+p38
+asS'terror_group'
+p39
+(lp40
+g25
+asS'content'
+p41
+S"Two car bombs on Monday struck Shia pilgrims in an Iraqi holy city , killing at least 18 people as pilgrims massed for religious rituals marking the end of a 40-day mourning period for the Islamic sect 's most beloved saint . The blasts in Karbala were the latest in nearly a week of attacks that have killed at least 159 people . The uptick in violence has shattered a lengthy period of calm and raised anew concerns about the readiness of Iraqi forces to take over their own security ahead of a full withdrawal by the U.S. military . The first attack occurred about 7 a.m. in a parking lot near busloads of pilgrims on the eastern outskirts of Karbala , 90 km south of Baghdad . Police and hospital officials said that six pilgrims were killed and 34 people wounded in that attack . A second bomb was discovered nearby and dismantled , police said . More than four hours later , a second car bomb struck pilgrims on the southern edge , killing at least 12 people , including 10 pilgrims and two soldiers , and wounding 21 . Monday 's attacks followed a triple suicide bombing last week along two highways leading to Karbala that killed 56 and wounded at least 180 most of them Shia pilgrims . AP OPEN"
+p42
+sS'injured'
+p43
+g25
+sS'org_unorg'
+p44
+S'Organized'
+p45
+sS'O'
+p46
+(lp47
+S'car bombs:2'
+p48
+aS'Shia pilgrims:7'
+p49
+aS'Iraqi holy city:11'
+p50
+aS'pilgrims:21'
+p51
+aS'blasts:44'
+p52
+aS'Iraqi forces:83'
+p53
+aS'security:90'
+p54
+aS'withdrawal:95'
+p55
+aS'attack:103'
+p56
+aS'parking lot:110'
+p57
+aS'pilgrims:115'
+p58
+aS'attack:145'
+p59
+aS'second bomb:148'
+p60
+aS'car bomb:167'
+p61
+aS'pilgrims:170'
+p62
+aS'pilgrims:184'
+p63
+aS'suicide bombing:199'
+p64
+aS'highways:205'
+p65
+aS'Shia pilgrims:220'
+p66
+asS'unexpl'
+p67
+(lp68
+g25
+asS'ocassion'
+p69
+S'Religious festivals'
+p70
+sS'link'
+p71
+S'http://www.thehindu.com/todays-paper/tp-international/18-killed-in-iraq-car-bomb-blasts/article1122655.ece'
+p72
+sS'date'
+p73
+S'25-01-2011'
+p74
+sS'target'
+p75
+S'Religious Places'
+p76
+sS'hot_spot'
+p77
+S'Iraqi holy city of Shia Pilgrims'
+p78
+sS'delivery_mod'
+p79
+S'Four wheeler'
+p80
+sS'delivery_met'
+p81
+S'Planted'
+p82
+sS'expl'
+p83
+(lp84
+g25
+asS'ORG'
+p85
+(lp86
+(lp87
+S'U.S. military'
+p88
+aS'98'
+p89
+aS'Others'
+p90
+aas.

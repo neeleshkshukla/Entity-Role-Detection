@@ -1,0 +1,251 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "10", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Kannur", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Kerala", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Coimbatore", 
+            "35", 
+            "Accused Location"
+        ], 
+        [
+            "Bangalore", 
+            "41", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bangalore", 
+            "70", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Karnataka", 
+            "73", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Coimbatore", 
+            "83", 
+            "Event"
+        ], 
+        [
+            "Madurai", 
+            "141", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Tamil Nadu", 
+            "150", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "153", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Coimbatore", 
+            "191", 
+            "Event"
+        ], 
+        [
+            "Coimbatore", 
+            "214", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Coimbatore", 
+            "220", 
+            "Accused Location"
+        ], 
+        [
+            "Kannur", 
+            "226", 
+            "Accused Location"
+        ], 
+        [
+            "Coimbatore", 
+            "241", 
+            "Event"
+        ], 
+        [
+            "Coimbatore", 
+            "256", 
+            "Accused Location"
+        ], 
+        [
+            "Bangalore", 
+            "260", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Malleswaram", 
+            "315", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Zulfiquar Ali", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "Boxer Ali", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "Arjun Sampaths", 
+            "102", 
+            "Assoc Victim"
+        ], 
+        [
+            "Zulfiquar Ali", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "Kichan Buhari", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Zulfiquar Ali", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "Kichan Buhari", 
+            "268", 
+            "Accused"
+        ], 
+        [
+            "Rahmatullah", 
+            "271", 
+            "Accused"
+        ], 
+        [
+            "Syed Suleiman", 
+            "273", 
+            "Accused"
+        ], 
+        [
+            "Saddam Hussein", 
+            "276", 
+            "Accused"
+        ], 
+        [
+            "Olongo Suleiman", 
+            "279", 
+            "Accused"
+        ], 
+        [
+            "Askar Ali", 
+            "282", 
+            "Accused"
+        ], 
+        [
+            "Valayal Hakkim", 
+            "285", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "Legislative Assembly elections", 
+    "DAT": [
+        "April 17:8", 
+        "Friday:16", 
+        "April 14:106", 
+        "April 23:143", 
+        "April 17:289"
+    ], 
+    "death": "", 
+    "title": "Suspect in Bangalore blast nabbed in Kannur", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "", 
+        "Kannur", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "One of the main suspects behind the April 17 Bangalore bomb blast was nabbed on Friday in Kannur , Kerala , with the assistance of the Coimbatore City Police . The eighth person from Coimbatore to be arrested in the Bangalore blast case , Zulfiquar Ali alias Boxer Ali is suspected to have parked the explosive-laden motorcycle , according to police sources . He has been taken away to Bangalore . The Karnataka police have already interrogated a few suspects lodged in Coimbatore Prison after being arrested for their alleged role in hurling a petrol explosive at Indu Makkal Katchi leader Arjun Sampaths house on April 14 . A suspected Al-Umma activist , the police said Zulfiquar Ali had received training in bomb-making from Kichan Buhari , one of the prime accused in the blast case who was arrested in Madurai on April 23 by a special team of Tamil Nadu and Karnataka police . Police are also probing the source of ammonium nitrate , the explosive used in bomb blast . Zulfiquar Ali had also visited two convicts belonging to a fundamentalist outfit in Coimbatore Central Prison in the Coimbatore serial blasts case . He is suspected to have close links with some of the other persons arrested in this case from Coimbatore . He was born in Coimbatore and his family hails from Kannur . He has a degree in Electrical and Electronics Engineering and was working in Coimbatore as a scrap dealer , police sources added . The seven others hailing from Coimbatore arrested in the Bangalore blast case are : the prime accused Kichan Buhari , Rahmatullah , Syed Suleiman , Saddam Hussein , Olongo Suleiman , Askar Ali and Valayal Hakkim . On April 17 , as many as 17 persons , including 11 policemen , were injured in a bomb blast near the Bharatiya Janata Partys office in Malleswaram ahead of the Legislative Assembly elections . The attackers rigged a motorcycle with ammonium nitrate . OPEN", 
+    "injured": "17", 
+    "org_unorg": "Organized", 
+    "O": [
+        "main suspects:4", 
+        "blast case:42", 
+        "explosive-laden motorcycle:56", 
+        "coimbatore prison:83", 
+        "petrol explosive:95", 
+        "leader:101", 
+        "training:121", 
+        "bomb-making:123", 
+        "prime accused:131", 
+        "ammonium nitrate:163", 
+        "outfit:184", 
+        "serial blasts:192", 
+        "degree in electrical and electronics engineering:231", 
+        "scrap dealer:244", 
+        "office:313", 
+        "legislative assembly elections:319", 
+        "ammonium:329", 
+        "ammonium nitrate:329"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Elections", 
+    "link": "http://www.thehindu.com/todays-paper/suspect-in-bangalore-blast-nabbed-in-kannur/article4708073.ece", 
+    "date": "10-05-2013", 
+    "target": "", 
+    "hot_spot": "Bharatiya Janata Partys office", 
+    "delivery_mod": "Two wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Ammonium Nitrate"
+    ], 
+    "ORG": [
+        [
+            "Coimbatore City Police", 
+            "27", 
+            "Others"
+        ], 
+        [
+            "Indu Makkal Katchi", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Al-Umma", 
+            "111", 
+            "Accused"
+        ], 
+        [
+            "Coimbatore Central Prison", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Partys", 
+            "310", 
+            "Victim"
+        ]
+    ]
+}

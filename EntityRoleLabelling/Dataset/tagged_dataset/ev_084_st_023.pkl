@@ -1,0 +1,656 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Delhi'
+p4
+aS'54'
+p5
+aS'Assoc Event Location'
+p6
+aa(lp7
+S'Jama Masjid'
+p8
+aS'56'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Pune German Bakery'
+p12
+aS'83'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Chinnaswamy stadium'
+p16
+aS'88'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Jama Masjid'
+p20
+aS'92'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Delhi'
+p24
+aS'110'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'West Bengal'
+p28
+aS'164'
+p29
+aS'Accused Location'
+p30
+aa(lp31
+S'Tamil Nadu'
+p32
+aS'167'
+p33
+aS'Accused Location'
+p34
+aa(lp35
+S'Bihar'
+p36
+aS'170'
+p37
+aS'Accused Location'
+p38
+aa(lp39
+S'Anand Vihar Bus Terminal'
+p40
+aS'264'
+p41
+aS'Accused Location'
+p42
+aa(lp43
+S'Jama Masjid'
+p44
+aS'302'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Bhatkal'
+p48
+aS'372'
+p49
+aS'Source'
+p50
+aa(lp51
+S'Karnataka'
+p52
+aS'374'
+p53
+aS'Source'
+p54
+aa(lp55
+S'Delhi'
+p56
+aS'389'
+p57
+aS'Accused Location'
+p58
+aa(lp59
+S'Madhubani'
+p60
+aS'400'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Bihar'
+p64
+aS'402'
+p65
+aS'Accused Location'
+p66
+aa(lp67
+S'Karachi'
+p68
+aS'427'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Madhubani'
+p72
+aS'432'
+p73
+aS'Accused Location'
+p74
+aa(lp75
+S'India'
+p76
+aS'438'
+p77
+aS'Neutral'
+p78
+aa(lp79
+S'Chennai'
+p80
+aS'463'
+p81
+aS'Accused Location'
+p82
+aa(lp83
+S'Delhi'
+p84
+aS'565'
+p85
+aS'Neutral'
+p86
+aa(lp87
+S'Bangalore'
+p88
+aS'681'
+p89
+aS'Event'
+p90
+aa(lp91
+S'Chinnaswamy stadium'
+p92
+aS'683'
+p93
+aS'Event'
+p94
+aa(lp95
+S'Jama Masjid'
+p96
+aS'706'
+p97
+aS'Event'
+p98
+aasS'PER'
+p99
+(lp100
+(lp101
+S'Ahmad Siddi Bappa'
+p102
+aS'4'
+p103
+aS'Accused'
+p104
+aa(lp105
+S'Imran'
+p106
+aS'8'
+p107
+aS'Accused'
+p108
+aa(lp109
+S'Imran'
+p110
+aS'44'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Chinnaswamy'
+p114
+aS'88'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Mohd Adil'
+p118
+aS'125'
+p119
+aS'Assoc Accused'
+p120
+aa(lp121
+S'Mohd Qateel Siddique'
+p122
+aS'128'
+p123
+aS'Assoc Accused'
+p124
+aa(lp125
+S'Mohd Irshad Khan'
+p126
+aS'132'
+p127
+aS'Assoc Accused'
+p128
+aa(lp129
+S'Gauhar Aziz Khomani'
+p130
+aS'136'
+p131
+aS'Assoc Accused'
+p132
+aa(lp133
+S'Gayur Ahmad Jamali'
+p134
+aS'140'
+p135
+aS'Assoc Accused'
+p136
+aa(lp137
+S'Abdur Rehman'
+p138
+aS'144'
+p139
+aS'Assoc Accused'
+p140
+aa(lp141
+S'Siddiqui'
+p142
+aS'258'
+p143
+aS'Accused'
+p144
+aa(lp145
+S'Adil'
+p146
+aS'296'
+p147
+aS'Accused'
+p148
+aa(lp149
+S'Vivek Mishra'
+p150
+aS'330'
+p151
+aS'Others'
+p152
+aa(lp153
+S'Siddiqui'
+p154
+aS'345'
+p155
+aS'Others'
+p156
+aa(lp157
+S'Bappa'
+p158
+aS'361'
+p159
+aS'Accused'
+p160
+aa(lp161
+S'Shahrukh'
+p162
+aS'363'
+p163
+aS'Accused'
+p164
+aa(lp165
+S'Yashin Ahmad'
+p166
+aS'365'
+p167
+aS'Accused'
+p168
+aa(lp169
+S'Imran'
+p170
+aS'368'
+p171
+aS'Accused'
+p172
+aa(lp173
+S'Asif'
+p174
+aS'370'
+p175
+aS'Accused'
+p176
+aa(lp177
+S'Khomani'
+p178
+aS'382'
+p179
+aS'Accused'
+p180
+aa(lp181
+S'Jamali'
+p182
+aS'408'
+p183
+aS'Accused'
+p184
+aa(lp185
+S'Adil'
+p186
+aS'419'
+p187
+aS'Accused'
+p188
+aa(lp189
+S'Adil'
+p190
+aS'435'
+p191
+aS'Others'
+p192
+aa(lp193
+S'Riaz'
+p194
+aS'446'
+p195
+aS'Others'
+p196
+aa(lp197
+S'Iqbal Bhatkal'
+p198
+aS'448'
+p199
+aS'Others'
+p200
+aa(lp201
+S'Khan'
+p202
+aS'472'
+p203
+aS'Assoc Accused'
+p204
+aa(lp205
+S'Abdur Rahman'
+p206
+aS'477'
+p207
+aS'Assoc Accused'
+p208
+aa(lp209
+S'Siddiqi'
+p210
+aS'486'
+p211
+aS'Others'
+p212
+aa(lp213
+S'Ahmad Siddi Bappa'
+p214
+aS'491'
+p215
+aS'Others'
+p216
+aa(lp217
+S'Imran'
+p218
+aS'495'
+p219
+aS'Others'
+p220
+aa(lp221
+S'Khan'
+p222
+aS'513'
+p223
+aS'Others'
+p224
+aa(lp225
+S'Bappa'
+p226
+aS'515'
+p227
+aS'Others'
+p228
+aa(lp229
+S'Bappa'
+p230
+aS'548'
+p231
+aS'Others'
+p232
+aa(lp233
+S'Khomani'
+p234
+aS'553'
+p235
+aS'Others'
+p236
+aa(lp237
+S'Bappa'
+p238
+aS'558'
+p239
+aS'Others'
+p240
+aa(lp241
+S'Bappa'
+p242
+aS'575'
+p243
+aS'Others'
+p244
+aa(lp245
+S'Jamali'
+p246
+aS'591'
+p247
+aS'Others'
+p248
+aa(lp249
+S'Bappa'
+p250
+aS'596'
+p251
+aS'Others'
+p252
+aa(lp253
+S'Rahman'
+p254
+aS'603'
+p255
+aS'Others'
+p256
+aa(lp257
+S'Bappa'
+p258
+aS'605'
+p259
+aS'Others'
+p260
+aasS'TIM'
+p261
+(lp262
+sS'hot_setting'
+p263
+S''
+p264
+sS'DAT'
+p265
+(lp266
+S'Wednesday:40'
+p267
+aS'September 19:59'
+p268
+aS'2010:62'
+p269
+aS'November 22:269'
+p270
+aS'November 23:379'
+p271
+aS'November 25:416'
+p272
+aS'August 2010:440'
+p273
+aS'November:465'
+p274
+aS'November 27:465'
+p275
+aS'2008:501'
+p276
+aS'2009:521'
+p277
+aS'2007:561'
+p278
+aS'November 2008:568'
+p279
+aS'November:568'
+p280
+aS'April 17:690'
+p281
+aS'2010:693'
+p282
+aS'September 19:709'
+p283
+aS'2010:712'
+p284
+asS'death'
+p285
+g264
+sS'title'
+p286
+S'6 Indian Mujahideen terror suspects held across country'
+p287
+sS'det_loc'
+p288
+(lp289
+S'India'
+p290
+aS'Delhi'
+p291
+ag264
+ag264
+aS'Jama Masjid'
+p292
+asS'terror_group'
+p293
+(lp294
+S'INDIAN MUJAHIDEEN'
+p295
+asS'content'
+p296
+VA seventh person Ahmad Siddi Bappa alias Imran , believed to be the `` main man '' who was allegedly providing finance and other logistics besides coordinating various modules , is on the run , police sources said on Wednesday . . . Imran had allegedly planted the bomb in a car outside Delhi 's Jama Masjid on September 19 , 2010 , the sources said . . . Police smashed an `` Indian Mujahideen terrorist module suspected to be involved in Pune German Bakery blast , Chinnaswamy stadium blast and Jama Masjid firing and blast in a car with the help of central intelligence agencies '' , a Delhi Police statement said . . . The arrested have been identified as Pakistani national Mohd Adil , Mohd Qateel Siddique , Mohd Irshad Khan , Gauhar Aziz Khomani , Gayur Ahmad Jamali and Abdur Rehman . . . `` The arrests came following a coordinated action with central agencies and police forces in West Bengal , Tamil Nadu and Bihar , '' a senior police official said . . . Two AK-47 rifles along with 50 cartridges , one 9mm pistol along with 14 live cartridges , 1.4 kgs of black explosive material , 3.2 kgs of white explosive material , 350 gms granular off white explosive material , 5 detonators and fake Indian currency notes of the face value of Rs 2 lakh along with other incriminating material were recovered from the six arrested , he said . . . The first to be arrested was Siddiqui -LRB- 27 -RRB- from near Anand Vihar Bus Terminal on November 22 . A 9 mm loaded pistol along with 14 live cartridges besides fake Indian currency were seized from him . Sources said he along with Adil were allegedly involved in the Jama Masjid incident . . . `` Two fake passports , one forged identity card of National Cadet Corps and one fake driving licence in the name of Vivek Mishra were recovered , '' the official said . . . The statement said Siddiqui 's interrogation led to the revelation that an Indian Mujahideen terrorist module was led by Bappa alias Shahrukh alias Yashin Ahmad alias Imran alias Asif of Bhatkal in Karnataka . . . On November 23 , Khomani -LRB- 31 -RRB- was apprehended from Delhi . . . His interrogation led to raids in in Madhubani , Bihar and the next day , Jamali -LRB- 21 -RRB- was arrested . On November 25 , Adil -LRB- 40 -RRB- , who hails from Karachi , was apprehended from Madhubani . `` Adil came to India in August 2010 on the instructions of Riaz and Iqbal Bhatkal for action , '' the statement said . . . Further raids in Chennai on November 27 led to the apprehension of Khan -LRB- 52 -RRB- and Abdur Rahman -LRB- 19 -RRB- . . . `` Siddiqi came in contact with Ahmad Siddi Bappa alias Imran in the last quarter of 2008 and became a member of the terrorist module Indian Mujahiddin . Khan met Bappa in the first quarter of 2009 . They became close associates and he also joined the Indian Mujahiddin terrorist module . . . `` All the six members came in contact with Bappa at various occasions . Khomani came in contact with Bappa . In 2007 he came to Delhi and in November 2008 he renewed his contact with Bappa and joined Indian Mujahiddin . He provided them logistic and financial support . . . Jamali came in contact with Bappa and joined Indian Mujahiddin later . Rahman met Bappa about four months ago and become a member of Indian Mujahiddin . He provided hide out and logistic support , '' the statement said . . . Seventeen people were killed in the German Bakery blast and over 40 people have been arrested in this case . . . This is , however , the first arrest in the Jama Masjid terror strike case . . . 15 people were injured in the blast outside Bangalore 's Chinnaswamy stadium during an IPL match on April 17 , 2010 . . . Two Taiwanese tourists were injured in the firing at Jama Masjid on September 19 , 2010 ahead of Commonwealth Games here while no one was injured in the explosion in a car the same day .
+p297
+sS'injured'
+p298
+g264
+sS'org_unorg'
+p299
+S'ORGANISED'
+p300
+sS'O'
+p301
+(lp302
+S'AK-47 rifles:182'
+p303
+aS'indian:284'
+p304
+aS'passports:311'
+p305
+aS'interrogation:347'
+p306
+aS'terrorist:356'
+p307
+aS'module:509'
+p308
+aS'IPL match:687'
+p309
+aS'Taiwanese:698'
+p310
+aS'Commonwealth Games:715'
+p311
+asS'unexpl'
+p312
+(lp313
+g264
+asS'ocassion'
+p314
+g264
+sS'link'
+p315
+S'http://archive.indianexpress.com/news/6-indian-mujahideen-terror-suspects-held-across-country/882337/0'
+p316
+sS'date'
+p317
+S'19-09-2010'
+p318
+sS'target'
+p319
+S'RELIGIOUS PLACES'
+p320
+sS'hot_spot'
+p321
+g264
+sS'delivery_mod'
+p322
+g264
+sS'delivery_met'
+p323
+g264
+sS'expl'
+p324
+(lp325
+S'BOMB'
+p326
+asS'ORG'
+p327
+(lp328
+(lp329
+S'Indian Mujahideen'
+p330
+aS'74'
+p331
+aS'Accused'
+p332
+aa(lp333
+S'National Cadet Corps'
+p334
+aS'318'
+p335
+aS'Others'
+p336
+aa(lp337
+S'Indian Mujahideen'
+p338
+aS'354'
+p339
+aS'Accused'
+p340
+aa(lp341
+S'Indian Mujahiddin'
+p342
+aS'510'
+p343
+aS'Accused'
+p344
+aa(lp345
+S'Indian Mujahiddin'
+p346
+aS'532'
+p347
+aS'Accused'
+p348
+aa(lp349
+S'Indian Mujahiddin'
+p350
+aS'578'
+p351
+aS'Others'
+p352
+aa(lp353
+S'Indian Mujahiddin'
+p354
+aS'599'
+p355
+aS'Others'
+p356
+aa(lp357
+S'Indian Mujahiddin'
+p358
+aS'615'
+p359
+aS'Others'
+p360
+aa(lp361
+S'German Bakery'
+p362
+aS'639'
+p363
+aS'Victim'
+p364
+aas.

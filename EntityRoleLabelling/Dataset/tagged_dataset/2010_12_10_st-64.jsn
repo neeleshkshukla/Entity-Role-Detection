@@ -1,0 +1,155 @@
+{
+    "LOC": [
+        [
+            "Allahabad", 
+            "19", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "25", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad", 
+            "45", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "57", 
+            "Neutral"
+        ], 
+        [
+            "Chak Bahadurganj", 
+            "88", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "93", 
+            "Neutral"
+        ], 
+        [
+            "Agra", 
+            "102", 
+            "Neutral"
+        ], 
+        [
+            "Shitla Ghat", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "153", 
+            "Neutral"
+        ], 
+        [
+            "Azamgarh", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Azamgarh", 
+            "246", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Brij Lal", 
+            "66", 
+            "Comment"
+        ], 
+        [
+            "Shahnawaz", 
+            "194", 
+            "Comment"
+        ], 
+        [
+            "Lal", 
+            "209", 
+            "Accused"
+        ], 
+        [
+            "Shahnawaz", 
+            "272", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "crude bombs were discovered in Allahabad", 
+    "DAT": [
+        "Tuesday:7", 
+        "Thursday:28", 
+        "Friday:120", 
+        "Tuesday:226", 
+        "Tuesday and Wednesday:249", 
+        "Tuesday:249", 
+        "Wednesday:251"
+    ], 
+    "death": "", 
+    "title": "Crude bombs found in Allahabad", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Allahabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Even as investigations are on into Tuesday 's Varanasi bomb blast , three crude bombs were discovered in Allahabad , about 120 km from Varanasi , on Thursday . The low-intensity bombs were defused by a bomb disposal squad . Though the situation in Allahabad was described as normal , vigil has been stepped up . Uttar Pradesh Additional Director-General ( Law and Order ) Brij Lal said the crude bombs , wrapped in polythene , were kept in a waste disposal cart in a lane in Chak Bahadurganj . In the Varanasi blast case , the forensic team returned to Agra after collecting material from the Shitla Ghat site . The results are expected to be known on Friday , Mr. Lal said . Though the blast probe had been transferred to the Anti-Terrorism Squad , a team of the National Investigation Agency and some Central government experts were also in Varanasi in connection with the investigation , he said . Mr. Lal said there was no breakthrough in the case and no information on the involvement of any person or terrorist organisation in the blast . About the suspected mastermind , Shahnawaz , and the alleged involvement of the Indian Mujahideen ( IM ) , Mr. Lal said some IM members from Azamgarh were wanted in some cases , but their involvement in Tuesday 's blast was yet to be proved . Unconfirmed reports have stated that the police raided some places in Azamgarh district on Tuesday and Wednesday in a bid to find crucial leads . Reports also said a red corner notice had been issued against Dr. Shahnawaz . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "varanasi bomb blast:9", 
+        "crude bombs:14", 
+        "bomb disposal squad:37", 
+        "waste disposal cart:81", 
+        "varanasi blast case:93", 
+        "ghat:109", 
+        "anti-terrorism:135", 
+        "anti-terrorism squad:135", 
+        "terrorist organisation:183"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/crude-bombs-found-in-allahabad/article942737.ece", 
+    "date": "10-12-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorism Squad", 
+            "135", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "Agency", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "202", 
+            "Others"
+        ]
+    ]
+}

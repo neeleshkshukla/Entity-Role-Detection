@@ -1,0 +1,169 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "72", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "98", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "120", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Pakistan", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "199", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mumbai", 
+            "201", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "346", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "366", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "368", 
+            "Neutral"
+        ], 
+        [
+            "West Asia", 
+            "370", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P. Chidambaram", 
+            "3", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "94", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "193", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "229", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "264", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:6", 
+        "July 13:18", 
+        "2002:252", 
+        "2008:254"
+    ], 
+    "death": "", 
+    "title": "Indian module could be involved in Mumbai blasts, says Chidambaram", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Home Minister P. Chidambaram on Thursday said there were indications of involvement of Indian module in the July 13 Mumbai blasts that killed 26 people . It is for the first time that the government has pointed towards the involvement of a home-grown terror group for the three explosions in the metropolis . The Home Minister also said all over the world right wing fascist forces were on the rise and India was no exception to it . While no conclusion has been reached , all indications point to Indian module , Mr. Chidambaram said about the Mumbai blasts , adding that perhaps it could be the same module that carried out a blast in the German Bakery in Pune last year . He said that while there was a finger-pointing for every terror incident towards the neighbouring country , a clear reference to Pakistan , there was also an existence of home-grown terror modules as also right wing fascist forces . We can not live in denial . We can not close our eyes to facts . There are home-grown modules . They do not belong to one religion , Mr. Chidambaram said . He said the Pune and Mumbai blasts were two major blots in the last 32 months since he assumed the charge of Home Minister . I accept it , he said . Mr. Chidambaram said another mistake was to point fingers at a particular religion whenever a bomb blast took place . Describing the period from 2002 to 2008 as the worst phase of terrorism-related violence , Mr. Chidambaram said there was a failure to recognise the growth of SIMI and Indian Mujahideen in these years at the political and government level . He said the security forces had so far smashed 51 terror modules in last two years . We have successfully busted a number of modules . The Minister said terrorism had taken a new dimension and it not only affected the nation 's security but also the nation 's survival as one entity . He said that India lived in the most troubled and vulnerable neighbourhood in the world as the epicentre of terrorism has shifted to Afghanistan and Pakistan from West Asia . As long as the epicentre of terrorism is in this region , we continue to be under the shadow of terror and continue to be vulnerable , he said . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "home minister:1", 
+        "indian module:14", 
+        "mumbai blasts:20", 
+        "terror group:44", 
+        "explosions:49", 
+        "home minister:55", 
+        "right wing:63", 
+        "indian module:90", 
+        "mumbai blasts:98", 
+        "module:109", 
+        "blast:114", 
+        "terror incident:134", 
+        "terror modules:154", 
+        "right wing:158", 
+        "home minister:218", 
+        "minister:219", 
+        "mistake:232", 
+        "bomb blast:243", 
+        "terrorism-related:260", 
+        "violence:261", 
+        "security forces:292", 
+        "terror modules:299", 
+        "modules:313", 
+        "terrorism:318", 
+        "security:332", 
+        "terrorism:362", 
+        "terrorism:379", 
+        "terror:393"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/indian-module-could-be-involved-in-mumbai-blasts-says-chidambaram/article2323847.ece", 
+    "date": "05-08-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "German Bakery", 
+            "117", 
+            "Victim"
+        ], 
+        [
+            "SIMI", 
+            "275", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "277", 
+            "Accused"
+        ]
+    ]
+}

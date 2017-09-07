@@ -1,0 +1,135 @@
+{
+    "LOC": [
+        [
+            "Ajmer", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "155", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "178", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Harshad Bai Solanki", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "Mukesh Vasani", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Rattan Lal Mund", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "Harshad Bai Solanki", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Mukesh Vasani", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "Aseemanand", 
+            "166", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:10", 
+        "December:26", 
+        "December 7:26", 
+        "October:75", 
+        "October 11:75", 
+        "October 11 , 2007:75"
+    ], 
+    "death": "", 
+    "title": "Judicial remand for Ajmer blast accused", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Ajmer", 
+        "", 
+        "Ajmer Dargah"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The court of Chief Judicial Magistrate in Ajmer on Tuesday remanded two of the arrested in the Ajmer Dargah blast case to judicial custody till December 7 . Harshad Bai Solanki , and Mukesh Vasani were in police custody till now . CJM court of Rattan Lal Mund ordered their judicial custody after the Rajasthan 's Anti Terror Squad ( ATS ) , probing the Ajmer Dargah bomb blast which claimed three lives on October 11 , 2007 , informed that they had done with the accused for the time being . Harshad Bai Solanki is charged with manufacturing and packing the bombs used in the subversive activity while Mukesh Vasani has been accused of planting them in Dargah premises . The ATS , which has filed an 806-page charge sheet in this connection , has so far arrested five persons . The case is being tried in the District and Sessions Court , Ajmer . ATS sources here said they would try to bring Aseemanand , one of the said kingpins of the conspiracy , to Rajasthan for questioning after getting him on a transit remand . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "court:2", 
+        "chief judicial:4", 
+        "magistrate:6", 
+        "ajmer dargah blast case:18", 
+        "custody:24", 
+        "custody:39", 
+        "cjm court:43", 
+        "custody:52", 
+        "ajmer dargah bomb blast:66", 
+        "time:90", 
+        "packing:101", 
+        "activity:108", 
+        "charge sheet:130", 
+        "connection:134", 
+        "case:144", 
+        "conspiracy:175", 
+        "transit remand:186"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/judicial-remand-for-ajmer-blast-accused/article908562.ece", 
+    "date": "11-10-2007", 
+    "target": "Religious Places", 
+    "hot_spot": "Ajmer dargah", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajasthan 's Anti Terror Squad", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "Sessions Court", 
+            "152", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "157", 
+            "Others"
+        ]
+    ]
+}

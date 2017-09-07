@@ -1,0 +1,423 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Nashik", 
+            "47", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Maharashtra", 
+            "63", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Udgir", 
+            "131", 
+            "Neutral"
+        ], 
+        [
+            "Latur", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "Aurangabad", 
+            "324", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Beed", 
+            "343", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Maharashtra", 
+            "346", 
+            "Neutral"
+        ], 
+        [
+            "Udgir", 
+            "351", 
+            "Neutral"
+        ], 
+        [
+            "Ashoknagar", 
+            "385", 
+            "Neutral"
+        ], 
+        [
+            "Satpur", 
+            "387", 
+            "Neutral"
+        ], 
+        [
+            "Nashik", 
+            "389", 
+            "Neutral"
+        ], 
+        [
+            "Hotgi", 
+            "406", 
+            "Neutral"
+        ], 
+        [
+            "Solapur", 
+            "408", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "428", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "448", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "463", 
+            "Neutral"
+        ], 
+        [
+            "Nepal", 
+            "467", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "538", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "613", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "657", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "659", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "662", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "664", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "667", 
+            "Neutral"
+        ], 
+        [
+            "Daman and Diu", 
+            "669", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "673", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "676", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ashok Chavan", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Mirza Himayat Baig", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Sheikh Lalbaba Mohammad Hussain Farid", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "R.R. Patil", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "Rakesh Maria", 
+            "97", 
+            "Others"
+        ], 
+        [
+            "Mohsin Chaudhary", 
+            "105", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Ahmed Zarar Siddibappa", 
+            "108", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "113", 
+            "Accused"
+        ], 
+        [
+            "Shah Rukh", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "154", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "189", 
+            "Others"
+        ], 
+        [
+            "Iqbal", 
+            "271", 
+            "Accused"
+        ], 
+        [
+            "Riyaz Shahbandari", 
+            "273", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "297", 
+            "Others"
+        ], 
+        [
+            "Fayyaz Qazi", 
+            "305", 
+            "Accused"
+        ], 
+        [
+            "Zabiuddin Ansari", 
+            "308", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "348", 
+            "Accused"
+        ], 
+        [
+            "Fayyaz Qazi", 
+            "366", 
+            "Accused"
+        ], 
+        [
+            "Zabiuddin Ansari", 
+            "369", 
+            "Accused"
+        ], 
+        [
+            "Bilal", 
+            "373", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "480", 
+            "Others"
+        ], 
+        [
+            "Sukhwinder Singh", 
+            "542", 
+            "Others"
+        ], 
+        [
+            "Bilal", 
+            "554", 
+            "Accused"
+        ], 
+        [
+            "Maria", 
+            "601", 
+            "Comment"
+        ], 
+        [
+            "Baig", 
+            "606", 
+            "Accused"
+        ], 
+        [
+            "Bilal", 
+            "632", 
+            "Accused"
+        ], 
+        [
+            "Mohsin", 
+            "647", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "649", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "5 a.m.:139", 
+        "7.30 p.m.:230", 
+        "8.45 p.m.:380"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:6", 
+        "February 13:91", 
+        "February:91", 
+        "February 7:142", 
+        "February:142", 
+        "February:151", 
+        "February 13:151", 
+        "2008:241", 
+        "May 2006:317", 
+        "May:317", 
+        "Tuesday:383", 
+        "January 2008:430", 
+        "January:430", 
+        "2010:434", 
+        "Wednesday afternoon:615", 
+        "Wednesday:615", 
+        "Wednesday afternoon:615", 
+        "September 20:625", 
+        "September:625", 
+        "September 14:637", 
+        "September:637"
+    ], 
+    "death": "", 
+    "title": "Bomb was fabricated at Baig's cyber caf and taken to Pune: ATS", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)", 
+        "Indian Mujahideen"
+    ], 
+    "content": "Chief Minister Ashok Chavan on Wednesday announced an award of Rs . 5 lakh for the Maharashtra Anti-Terrorism Squad team which cracked the German Bakery blast case by arresting Mirza Himayat Baig ( 29 ) from Pune and Sheikh Lalbaba Mohammad Hussain Farid alias Bilal in Nashik . Declaring the case solved , Home Minister R.R. Patil said : I congratulate the Maharashtra ATS and other national agencies involved in the investigation . The Chief Minister will soon felicitate the ATS team . Narrating the sequence of events before the February 13 blast , ATS chief Rakesh Maria told presspersons here that the conspirators Mohsin Chaudhary , Mohammad Ahmed Zarar Siddibappa alias Yasin alias Shah Rukh and Baig brought the explosives to Global Internet Caf , run by Baig at Udgir in Latur district , between 1 and 5 a.m. on February 7 and fabricated the bomb there . On February 13 , Yasin and Baig , carrying the bomb , travelled to Pune by bus , and planted the bomb in the bakery . However , the CCTV in the bakery did not capture Baig . Mr. Maria said the person in the footage was Yasin as he entered the bakery , while Baig waited outside . The ATS chief said the accused used a Nokia mobile alarm to set off the bomb , which went off around 7.30 p.m. Baig was previously involved in two cases one a 2008 UAPA ( Unlawful Activities Prevention Act ) case of the ATS in Pune and the other under the Arms Act . He had gone to Bhatkal for training . Iqbal and Riyaz Shahbandari known as the Bhatkal brothers sheltered him when he was on the run for his involvement in the two cases , Mr. Maria said . He is from the original Fayyaz Qazi and Zabiuddin Ansari module , which was involved in a May 2006 arms haul case -LSB- in Aurangabad -RSB- . He was part of that group , the ATS chief said . Originally a resident of Beed district in Maharashtra , Baig settled in Udgir . He failed in the B.A. second year examination . He was close to Fayyaz Qazi and Zabiuddin Ansari . Reconnaissance Bilal ( 27 ) was arrested at 8.45 p.m. on Tuesday from Ashoknagar , Satpur in Nashik , for doing a recce of vital government installations there . He was a resident of Hotgi in Solapur district . He set up an Indian Mujahideen sleeper cell in Nashik and was trained by the Lashkar-e-Taiba in Pakistan from January 2008 to early 2010 . In these two years , he did not officially come back to India . But according to our information , he crossed the border thrice twice via Bangladesh and once via Nepal . He has failed in B.Sc . first year examination , Mr. Maria said . The ATS seized from Bilal two kg of RDX , LeT literature , soldering wires , cutters , booklets on bomb-making , SIM cards , fake documents used for getting SIM cards , mobile phones , pen drives and $ 1,300 and Rs . 10,500 in cash . He has got the U.S. dollars from Pakistan , ATS officer Sukhwinder Singh said . According to the ATS ' preliminary information , Bilal was not directly involved in planning or executing the bakery blast . His prime objective was to recce government buildings . He carried many fake documents . He also possessed a driving licence , a residential certificate and other documents all under fake identities , Mr. Maria said . Police custody Baig was produced before a court in Pune on Wednesday afternoon and was remanded to 14-day police custody till September 20 . A Nashik court remanded Bilal to police custody till September 14 . The ATS is on the lookout for Mohsin and Yasin . The probe took ATS teams to Karnataka , Andhra Pradesh , Kerala , Uttar Pradesh , Gujarat , Daman and Diu , Tamil Nadu and New Delhi . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "O": [
+        "german bakery blast:24", 
+        "home minister:54", 
+        "investigation:72", 
+        "district:134", 
+        "bomb:147", 
+        "bomb:160", 
+        "bomb:171", 
+        "training:269", 
+        "module:310", 
+        "chief:336", 
+        "resident:341", 
+        "district:344", 
+        "government:397", 
+        "resident:404", 
+        "district:409", 
+        "set:412", 
+        "sleeper cell:417", 
+        "nashik:420", 
+        "information:454", 
+        "year examination:476", 
+        "bomb-making:503", 
+        "sim cards:505", 
+        "pen drives:519", 
+        "bakery blast:564", 
+        "objective:569", 
+        "licence:587", 
+        "certificate:591", 
+        "fake:597", 
+        "custody:605", 
+        "court:611", 
+        "afternoon:616", 
+        "custody:623", 
+        "nashik court:629", 
+        "custody:635", 
+        "probe:652"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/bomb-was-fabricated-at-baigs-cyber-caf-and-taken-to-pune-ats/article622073.ece", 
+    "date": "13-02-2010", 
+    "target": "Hotel and Restaurant", 
+    "hot_spot": "German Bakery", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "415", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "426", 
+            "Accused"
+        ]
+    ]
+}

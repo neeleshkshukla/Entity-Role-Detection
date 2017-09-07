@@ -1,0 +1,197 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Birbhum", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "Kolkata", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "Basti", 
+            "284", 
+            "Neutral"
+        ], 
+        [
+            "Uttar Pradesh", 
+            "286", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "307", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "351", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Amjad Sheikh", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "Sheikh", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "Kajal", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "Sheikh", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "114", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Sheikh", 
+            "150", 
+            "Accused"
+        ], 
+        [
+            "Sheikh", 
+            "207", 
+            "Accused"
+        ], 
+        [
+            "Sheikh", 
+            "253", 
+            "Accused"
+        ], 
+        [
+            "Sheikh", 
+            "319", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2 : 120", 
+        "Saturday : 132", 
+        "October 2 : 266", 
+        "October 8 : 277"
+    ], 
+    "death": "", 
+    "title": "Amjad Sheikh, Another Key Burdwan Blast Suspect, Held", 
+    "org_unorg": "Unorganized", 
+    "terror_group": [
+        "Jamiat-ul-Mujahideen"
+    ], 
+    "content": "In yet another major breakthrough , the National Investigation Agency ( NIA ) today arrested Amjad Sheikh , alleged to be a key member of Jamaat-ul-Mujahideen Bangladesh ( JMB ) terror group , in connection with the Burdwan blast case . Sheikh , alias Kajal , a resident of Birbhum district of West Bengal , is alleged to be the main suspect who used to procure material , meant for making improvised explosive devices , from open market . The NIA said 30-year-old Sheikh was instrumental in procuring chemicals and providing these to other co-conspirators for making Improvised Explosive Devices . This is the second major breakthrough after the arrest of Bangladeshi national Sajid , suspected mastermind of the October 2 blast , by West Bengal police near Kolkata airport on Saturday . Sajid is alleged to be the Chief Commander of JMB . According to official sources , Sheikh was working with a Kolkata-based medical firm which deals with manufacturing of various sterilisation products . He used his employment with the firm for procuring many restricted acids including ` Picric acid ' used for triggering an explosive device . The NIA had announced a cash reward of Rs . five lakh on information leading to Sheikh 's arrest but later enhanced it to Rs . 10 lakh . Soon after the blasts , the NIA had raided his Kolkata house and recovered receipts and vouchers related to purchase of chemicals which were used in making the IEDs . Investigation found that Sheikh was part of the top brass of JMB in India and after October 2 blast , he took shelter in New Delhi on October 8 and from there moved to Basti in Uttar Pradesh where he was provided shelter for a few days by a policeman . Ultimately , he went back to West Bengal from where he was arrested today , NIA said . Sheikh , who is the sixth person arrested in the case , is alleged to be closely associated with top JMB commanders who were running jihadi training modules in two madrassas of West Bengal . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Kolkata", 
+        ""
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/amjad-sheikh-another-key-burdwan-blast-suspect-held-691533", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "West Bengal police", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "143", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "226", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "261", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "316", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "339", 
+            "Accused"
+        ]
+    ]
+}

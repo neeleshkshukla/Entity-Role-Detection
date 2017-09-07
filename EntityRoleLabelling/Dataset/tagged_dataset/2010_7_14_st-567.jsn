@@ -1,0 +1,122 @@
+{
+    "LOC": [
+        [
+            "Uttar Pradesh", 
+            "10", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Agra", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Kotwali police station", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "Bahadurganj", 
+            "131", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nand Gopal Gupta Nandi", 
+            "13", 
+            "Victim"
+        ], 
+        [
+            "Nandi", 
+            "116", 
+            "Victim"
+        ], 
+        [
+            "Rakesh Malviya", 
+            "133", 
+            "Victim"
+        ], 
+        [
+            "Brij Lal", 
+            "169", 
+            "Others"
+        ], 
+        [
+            "Malviya", 
+            "182", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:20", 
+        "Tuesday:157", 
+        "Monday:160", 
+        "Tuesday:186"
+    ], 
+    "death": "", 
+    "title": "Bomb attack on Minister: police still clueless", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Allahabad", 
+        "", 
+        "Lucknow"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "More than 24 hours after the bomb attack on Uttar Pradesh Minister Nand Gopal Gupta Nandi in Allahabad on Monday , the STF and the ATS have not got any clue to the motive . The remnants of the explosives and the Scooty which together with two motorcycles were damaged in the fire caused by the blast have been sent to Agra for examination by a team of the Forensic Science Laboratory . The vehicle 's chassis number was found erased . A First Information Report , under Section 307 of the IPC and Section 3/4 of the Explosives Act , has been filed at the Kotwali police station . Six persons , including Mr. Nandi , were injured in the blast near the Institutional Finance Minister 's residence at Bahadurganj . Rakesh Malviya , one of those who were with the Minister when the blast occurred , died of injuries . Post-mortem was conducted on Tuesday . On Monday , Additional D-G ( Law and Order ) Brij Lal denied that the blast claimed a life , but he confirmed Malviya 's death on Tuesday . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb attack:7", 
+        "first information report:84", 
+        "section 307 of the ipc:89", 
+        "explosives act:99", 
+        "post-mortem:153"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/bomb-attack-on-minister-police-still-clueless/article514678.ece", 
+    "date": "12-07-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "STF", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "Forensic Science Laboratory", 
+            "70", 
+            "Others"
+        ], 
+        [
+            "Law and Order", 
+            "165", 
+            "Others"
+        ]
+    ]
+}

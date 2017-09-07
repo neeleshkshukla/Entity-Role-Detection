@@ -1,0 +1,135 @@
+{
+    "LOC": [
+        [
+            "The", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "central Iraq", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Balad Ruz", 
+            "46", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Baquba", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Balad Ruz", 
+            "107", 
+            "Neutral"
+        ], 
+        [
+            "Baquba", 
+            "201", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "236", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ahmed Alwan", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "Dr. Alwan", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "Ahmed al-Tamimi", 
+            "112", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:29", 
+        "October:36", 
+        "Friday night:38", 
+        "Friday night:38", 
+        "Friday:38", 
+        "Friday:77", 
+        "Friday:117", 
+        "2008:157", 
+        "2003:183", 
+        "Friday:187"
+    ], 
+    "death": "30", 
+    "title": "Iraq: coffee shop bombing kills 30", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Baquba", 
+        ""
+    ], 
+    "terror_group": [
+        "Al-Queda"
+    ], 
+    "content": "The death toll from a suicide bombing at a coffee house in central Iraq 's restive Diyala province has risen to 30 , a medical official said on Saturday , making the deadliest attack in October . Friday night 's bombing in the town of Balad Ruz also wounded 68 people , according to Ahmed Alwan , a doctor at the general hospital of Baquba , the provincial capital of Diyala . The final toll from Friday 's bombing is 30 dead and 68 wounded . All the dead are men , but the wounded include three women and two children , Dr. Alwan said . Balad Ruz police chief Major Ahmed al-Tamimi had given on Friday a toll of 25 dead and 70 wounded when a suicide bomber detonated a belt filled with explosives at a coffee house in the centre of the city . Fall in bombings Suicide bombings across Iraq have fallen since 2008 when Diyala province was an Al-Qaeda stronghold . Although the militants have lost ground , the province remains one of the most restive since the 2003 U.S.-led invasion . Friday 's attack took place in a region with a Kurdish Shia majority . Baquba , once a stronghold of Al-Qaeda , is the ethnically mixed capital of Diyala , which remains one of the country 's most unstable provinces . The blast was the first major attack in Iraq in several weeks , as a seven-month political stalemate surrounding the formation of a new government has dragged on . AFP OPEN", 
+    "injured": "78", 
+    "org_unorg": "Organized", 
+    "O": [
+        "suicide bombing:6", 
+        "coffee house:10", 
+        "diyala province:17", 
+        "attack:34", 
+        "bombing:41", 
+        "bombing:79", 
+        "suicide bomber:128", 
+        "coffee house:138", 
+        "suicide:150", 
+        "iraq:153", 
+        "diyala province:159", 
+        "province:160", 
+        "al-qaeda stronghold:163", 
+        "baquba:201", 
+        "stronghold:205", 
+        "al-qaeda:207"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/iraq-coffee-shop-bombing-kills-30/article860616.ece", 
+    "date": "31-10-2010", 
+    "target": "Government Building", 
+    "hot_spot": "coffee house in central Iraq", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Al-Qaeda", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "Al-Qaeda", 
+            "207", 
+            "Others"
+        ]
+    ]
+}

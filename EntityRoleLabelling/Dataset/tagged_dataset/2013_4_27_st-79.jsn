@@ -1,0 +1,90 @@
+{
+    "LOC": [
+        [
+            "Malleswaram", 
+            "20", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Leesha N.S.", 
+            "6", 
+            "Victim"
+        ], 
+        [
+            "Rakshita Sujai", 
+            "9", 
+            "Victim"
+        ], 
+        [
+            "S.P. Kulkarni", 
+            "106", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "April 17:22"
+    ], 
+    "death": "0", 
+    "title": "Two blast victims to write CET in hospital", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Malleswaram", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "All is not lost for Leesha N.S. and Rakshita Sujai , both victims of the bomb blasts that rocked Malleswaram on April 17 . The Karnataka Examinations Authority ( KEA ) , acting on the request of the two girls , has made arrangments for them to appear for the CET exam in the M.S. Ramaiah Memorial Hospital , where they are recuperating . A press note from the hospital said that a separate room will be designated for the conduct of the examination for the two patients , who are still bedridden and unable to move out of bed . A team led by S.P. Kulkarni , Administrative Officer , KEA , visited the hospital to ensure that all the arrangements are in place , the press release added . OPEN", 
+    "injured": "0", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb:16", 
+        "request:36", 
+        "cet:51", 
+        "cet exam:51", 
+        "exam:52", 
+        "press note:66", 
+        "hospital:70", 
+        "room:75", 
+        "conduct:81", 
+        "examination:84", 
+        "move:97", 
+        "bed:100", 
+        "team:103", 
+        "administrative officer:109", 
+        "hospital:116", 
+        "place:125", 
+        "press release:128"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/two-blast-victims-to-write-cet-in-hospital/article4659307.ece", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Karnataka Examinations Authority", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "M.S. Ramaiah Memorial Hospital", 
+            "55", 
+            "Others"
+        ]
+    ]
+}

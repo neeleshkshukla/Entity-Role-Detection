@@ -1,0 +1,841 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'ISLAMABAD'
+p4
+aS'5'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Kashmir'
+p8
+aS'20'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Karachi'
+p12
+aS'43'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Karachi'
+p16
+aS'134'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Karachi'
+p20
+aS'154'
+p21
+aS'Event'
+p22
+aa(lp23
+S'India'
+p24
+aS'212'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Karachi'
+p28
+aS'234'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Srinagar'
+p32
+aS'248'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Srinagar'
+p36
+aS'260'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'Karachi'
+p40
+aS'266'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Pakistan'
+p44
+aS'278'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Lahore'
+p48
+aS'285'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Pakistan'
+p52
+aS'295'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Lahore'
+p56
+aS'319'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Delhi'
+p60
+aS'335'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'India'
+p64
+aS'370'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'ISLAMABAD'
+p68
+aS'380'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Kashmir'
+p72
+aS'395'
+p73
+aS'Neutral'
+p74
+aa(lp75
+S'Karachi'
+p76
+aS'418'
+p77
+aS'Event'
+p78
+aa(lp79
+S'Karachi'
+p80
+aS'515'
+p81
+aS'Accused Location'
+p82
+aa(lp83
+S'Karachi'
+p84
+aS'539'
+p85
+aS'Event'
+p86
+aa(lp87
+S'India'
+p88
+aS'599'
+p89
+aS'Neutral'
+p90
+aa(lp91
+S'Karachi'
+p92
+aS'623'
+p93
+aS'Neutral'
+p94
+aa(lp95
+S'Srinagar'
+p96
+aS'637'
+p97
+aS'Assoc Event Location'
+p98
+aa(lp99
+S'Srinagar'
+p100
+aS'649'
+p101
+aS'Assoc Event Location'
+p102
+aa(lp103
+S'Karachi'
+p104
+aS'657'
+p105
+aS'Event'
+p106
+aa(lp107
+S'Pakistan'
+p108
+aS'669'
+p109
+aS'Event'
+p110
+aa(lp111
+S'Lahore'
+p112
+aS'676'
+p113
+aS'Event'
+p114
+aa(lp115
+S'Pakistan'
+p116
+aS'688'
+p117
+aS'Event'
+p118
+aa(lp119
+S'Lahore'
+p120
+aS'714'
+p121
+aS'Event'
+p122
+aa(lp123
+S'Delhi'
+p124
+aS'730'
+p125
+aS'Assoc Event Location'
+p126
+aa(lp127
+S'India'
+p128
+aS'765'
+p129
+aS'Neutral'
+p130
+aasS'PER'
+p131
+(lp132
+(lp133
+S'B. Muralidhar Reddy'
+p134
+aS'2'
+p135
+aS'Others'
+p136
+aa(lp137
+S'Masood Azar'
+p138
+aS'55'
+p139
+aS'Accused'
+p140
+aa(lp141
+S'Maulana Masood Azar'
+p142
+aS'87'
+p143
+aS'Accused'
+p144
+aa(lp145
+S'Mufti Jamil'
+p146
+aS'194'
+p147
+aS'Comment'
+p148
+aa(lp149
+S'Moinuddin Haider'
+p150
+aS'305'
+p151
+aS'Others'
+p152
+aa(lp153
+S'B. Muralidhar Reddy'
+p154
+aS'375'
+p155
+aS'Others'
+p156
+aa(lp157
+S'Masood Azar'
+p158
+aS'432'
+p159
+aS'Accused'
+p160
+aa(lp161
+S'Maulana Masood Azar'
+p162
+aS'466'
+p163
+aS'Accused'
+p164
+aa(lp165
+S'Mufti Jamil'
+p166
+aS'581'
+p167
+aS'Comment'
+p168
+aa(lp169
+S'Moinuddin Haider'
+p170
+aS'698'
+p171
+aS'Others'
+p172
+aasS'TIM'
+p173
+(lp174
+S'last year : 103'
+p175
+aS'last week : 249'
+p176
+aS'four days : 269'
+p177
+aS'today : 397'
+p178
+aS'last year : 482'
+p179
+aS'blast : 626'
+p180
+aS'last week : 638'
+p181
+aS'four days : 660'
+p182
+asS'hot_setting'
+p183
+S''
+p184
+sS'DAT'
+p185
+(lp186
+S'DEC. . 30 : 7'
+p187
+aS'Friday night : 45'
+p188
+aS'December : 102'
+p189
+aS'December 25 : 262'
+p190
+aS'December 22 : 337'
+p191
+aS'DEC. . 30 : 382'
+p192
+aS'Friday night : 420'
+p193
+aS'December : 481'
+p194
+aS'December 25 : 651'
+p195
+aS'December 22 : 732'
+p196
+asS'death'
+p197
+g184
+sS'title'
+p198
+S'Jaish too threatens suicide attacks'
+p199
+sS'det_loc'
+p200
+(lp201
+S'Pakistan'
+p202
+ag184
+ag184
+aS'Karachi'
+p203
+ag184
+asS'terror_group'
+p204
+(lp205
+g184
+asS'content'
+p206
+VBy B. Muralidhar Reddy ISLAMABAD , DEC. . 30 . The Jaish-e-Mohammad , a Pakistan-based militant organisation operating in Kashmir , today threatened to carry out suicide attacks in various Indian cities in retaliation to the blast that wrecked its office in Karachi on Friday night . The outfit formed by the cleric , Masood Azar , accused the Indian intelligence agency , Research and Analysis Wing -LRB- RAW -RRB- , of having masterminded the blast that killed a girl and injured a dozen others . Maulana Masood Azar was one of the three militants released by the Indian Government in December last year in exchange for the passengers of the hijacked Indian Airlines aircraft . According to reports , the bomb ripped through the building in which the Jaish-e-Mohammad is housed in Karachi . It damaged a restaurant on the ground floor and other parts of the multi-storey building . While the Karachi police said they had detained some suspects and are investigating the incident , an office-bearer of the Jaish blamed the RAW for the blast and said his group would hit back soon . A spokesperson of the group , Mufti Jamil , was quoted as saying : `` We will carry out suicide attacks in cities in India . The RAW should now get ready for our reply . '' On the basis of preliminary investigations , authorities in Karachi said the blast appeared to be in retaliation to the car-bomb blast in Srinagar last week . Eleven persons were killed in the incident in Srinagar on December 25 . The Karachi explosion came four days after bomb blasts in different parts of Pakistan , including a blast in the Lahore market , which injured over 50 people . The Pakistan Interior Minister , Lt. Gen. -LRB- retd . -RRB- Moinuddin Haider , had blamed the Indian intelligence agencies for the explosions . The Lahore police said they had anticipated such retaliation following the attack on the Red Fort in Delhi on December 22 in which three people were killed . The Pakistan-based militant outfit , Lashkar-e-Taiba , had taken responsibility for the attack and threatened to strike at more military and Government buildings in India . . . By B. Muralidhar Reddy . . ISLAMABAD , DEC. . 30 . The Jaish-e-Mohammad , a Pakistan-based militant organisation operating in Kashmir , today threatened to carry out suicide attacks in various Indian cities in retaliation to the blast that wrecked its office in Karachi on Friday night . . . The outfit formed by the cleric , Masood Azar , accused the Indian intelligence agency , Research and Analysis Wing -LRB- RAW -RRB- , of having masterminded the blast that killed a girl and injured a dozen others . . . Maulana Masood Azar was one of the three militants released by the Indian Government in December last year in exchange for the passengers of the hijacked Indian Airlines aircraft . . . According to reports , the bomb ripped through the building in which the Jaish-e-Mohammad is housed in Karachi . . . It damaged a restaurant on the ground floor and other parts of the multi-storey building . . . While the Karachi police said they had detained some suspects and are investigating the incident , an office-bearer of the Jaish blamed the RAW for the blast and said his group would hit back soon . . . A spokesperson of the group , Mufti Jamil , was quoted as saying : `` We will carry out suicide attacks in cities in India . The RAW should now get ready for our reply . '' . . On the basis of preliminary investigations , authorities in Karachi said the blast appeared to be in retaliation to the car-bomb blast in Srinagar last week . Eleven persons were killed in the incident in Srinagar on December 25 . . . The Karachi explosion came four days after bomb blasts in different parts of Pakistan , including a blast in the Lahore market , which injured over 50 people . . . The Pakistan Interior Minister , Lt. Gen. -LRB- retd . -RRB- Moinuddin Haider , had blamed the Indian intelligence agencies for the explosions . . . The Lahore police said they had anticipated such retaliation following the attack on the Red Fort in Delhi on December 22 in which three people were killed . The Pakistan-based militant outfit , Lashkar-e-Taiba , had taken responsibility for the attack and threatened to strike at more military and Government buildings in India .
+p207
+sS'injured'
+p208
+S'50'
+p209
+sS'org_unorg'
+p210
+g184
+sS'O'
+p211
+(lp212
+S'Pakistan-based militant:15'
+p213
+aS'threatened:23'
+p214
+aS'suicide attacks:27'
+p215
+aS'Indian cities:31'
+p216
+aS'retaliation:34'
+p217
+aS'blast:37'
+p218
+aS'wrecked:39'
+p219
+aS'outfit:49'
+p220
+aS'cleric:53'
+p221
+aS'accused:58'
+p222
+aS'masterminded:74'
+p223
+aS'blast:76'
+p224
+aS'killed:78'
+p225
+aS'girl:80'
+p226
+aS'injured:82'
+p227
+aS'dozen:84'
+p228
+aS'three militants:94'
+p229
+aS'exchange:106'
+p230
+aS'passengers:109'
+p231
+aS'hijacked:112'
+p232
+aS'aircraft:115'
+p233
+aS'reports:119'
+p234
+aS'bomb ripped:122'
+p235
+aS'building:126'
+p236
+aS'damaged:137'
+p237
+aS'restaurant:139'
+p238
+aS'ground floor:142'
+p239
+aS'multi-storey building:149'
+p240
+aS'Karachi police:154'
+p241
+aS'detained:159'
+p242
+aS'suspects:161'
+p243
+aS'investigating:164'
+p244
+aS'incident:166'
+p245
+aS'office-bearer:169'
+p246
+aS'blast:178'
+p247
+aS'hit back:184'
+p248
+aS'quoted:198'
+p249
+aS'suicide attacks:207'
+p250
+aS'cities:210'
+p251
+aS'preliminary investigations:229'
+p252
+aS'blast:237'
+p253
+aS'retaliation:242'
+p254
+aS'car-bomb blast:245'
+p255
+aS'Eleven persons:252'
+p256
+aS'killed:255'
+p257
+aS'incident:258'
+p258
+aS'Karachi explosion:266'
+p259
+aS'bomb blasts:272'
+p260
+aS'blast:282'
+p261
+aS'market:286'
+p262
+aS'injured:289'
+p263
+aS'explosions:316'
+p264
+aS'Lahore police:319'
+p265
+aS'anticipated:324'
+p266
+aS'retaliation:326'
+p267
+aS'attack:329'
+p268
+aS'Red Fort:332'
+p269
+aS'killed:344'
+p270
+aS'Pakistan-based militant outfit:347'
+p271
+aS'responsibility:355'
+p272
+aS'attack:358'
+p273
+aS'threatened:360'
+p274
+aS'strike:362'
+p275
+aS'military:365'
+p276
+aS'Government buildings:367'
+p277
+aS'Pakistan-based militant organisation:390'
+p278
+aS'threatened:398'
+p279
+aS'suicide attacks:402'
+p280
+aS'Indian cities:406'
+p281
+aS'retaliation:409'
+p282
+aS'blast:412'
+p283
+aS'wrecked:414'
+p284
+aS'outfit:426'
+p285
+aS'cleric:430'
+p286
+aS'accused:435'
+p287
+aS'masterminded:451'
+p288
+aS'blast:453'
+p289
+aS'killed:455'
+p290
+aS'girl:457'
+p291
+aS'injured:459'
+p292
+aS'three militants released:473'
+p293
+aS'exchange:485'
+p294
+aS'passengers:488'
+p295
+aS'hijacked:491'
+p296
+aS'aircraft:494'
+p297
+aS'reports:500'
+p298
+aS'bomb ripped:503'
+p299
+aS'building:507'
+p300
+aS'damaged:520'
+p301
+aS'restaurant:522'
+p302
+aS'ground floor:525'
+p303
+aS'multi-storey building:532'
+p304
+aS'Karachi police:539'
+p305
+aS'detained:544'
+p306
+aS'suspects:546'
+p307
+aS'investigating:549'
+p308
+aS'incident:551'
+p309
+aS'office-bearer:554'
+p310
+aS'blamed:558'
+p311
+aS'blast:563'
+p312
+aS'hit back:569'
+p313
+aS'suicide attacks:594'
+p314
+aS'cities:597'
+p315
+aS'reply:609'
+p316
+aS'preliminary investigations:618'
+p317
+aS'authorities:621'
+p318
+aS'retaliation:631'
+p319
+aS'car-bomb blast:634'
+p320
+aS'Eleven persons:641'
+p321
+aS'killed:644'
+p322
+aS'incident:647'
+p323
+aS'Karachi explosion:657'
+p324
+aS'bomb blasts:663'
+p325
+aS'Lahore market:676'
+p326
+aS'injured:680'
+p327
+aS'explosions:709'
+p328
+aS'Lahore police:714'
+p329
+aS'anticipated:719'
+p330
+aS'retaliation:721'
+p331
+aS'attack:724'
+p332
+aS'Red Fort:727'
+p333
+aS'killed:739'
+p334
+aS'Pakistan-based militant outfit:742'
+p335
+aS'responsibility:750'
+p336
+aS'attack:753'
+p337
+aS'threatened:755'
+p338
+aS'strike:757'
+p339
+aS'military and Government buildings:760'
+p340
+asS'unexpl'
+p341
+(lp342
+g184
+asS'ocassion'
+p343
+g184
+sS'link'
+p344
+S'http://www.thehindu.com/2000/12/31/stories/01310004.htm'
+p345
+sS'date'
+p346
+S'29-12-2000'
+p347
+sS'target'
+p348
+g184
+sS'hot_spot'
+p349
+g184
+sS'delivery_mod'
+p350
+g184
+sS'delivery_met'
+p351
+g184
+sS'expl'
+p352
+(lp353
+g184
+asS'ORG'
+p354
+(lp355
+(lp356
+S'Jaish-e-Mohammad'
+p357
+aS'12'
+p358
+aS'Accused'
+p359
+aa(lp360
+S'Indian intelligence agency'
+p361
+aS'60'
+p362
+aS'Others'
+p363
+aa(lp364
+S'Research and Analysis Wing'
+p365
+aS'64'
+p366
+aS'Others'
+p367
+aa(lp368
+S'RAW'
+p369
+aS'69'
+p370
+aS'Others'
+p371
+aa(lp372
+S'Indian Government'
+p373
+aS'99'
+p374
+aS'Others'
+p375
+aa(lp376
+S'Indian Airlines'
+p377
+aS'113'
+p378
+aS'Others'
+p379
+aa(lp380
+S'Jaish-e-Mohammad'
+p381
+aS'130'
+p382
+aS'Accused'
+p383
+aa(lp384
+S'Jaish'
+p385
+aS'172'
+p386
+aS'Accused'
+p387
+aa(lp388
+S'RAW'
+p389
+aS'175'
+p390
+aS'Others'
+p391
+aa(lp392
+S'RAW'
+p393
+aS'215'
+p394
+aS'Others'
+p395
+aa(lp396
+S'Indian intelligence agencies'
+p397
+aS'311'
+p398
+aS'Others'
+p399
+aa(lp400
+S'Lashkar-e-Taiba'
+p401
+aS'351'
+p402
+aS'Assoc Accused'
+p403
+aa(lp404
+S'Jaish-e-Mohammad'
+p405
+aS'387'
+p406
+aS'Accused'
+p407
+aa(lp408
+S'Indian intelligence agency'
+p409
+aS'437'
+p410
+aS'Others'
+p411
+aa(lp412
+S'Research and Analysis Wing'
+p413
+aS'441'
+p414
+aS'Others'
+p415
+aa(lp416
+S'RAW'
+p417
+aS'446'
+p418
+aS'Others'
+p419
+aa(lp420
+S'Indian Government'
+p421
+aS'478'
+p422
+aS'Others'
+p423
+aa(lp424
+S'Indian Airlines'
+p425
+aS'492'
+p426
+aS'Others'
+p427
+aa(lp428
+S'Jaish-e-Mohammad'
+p429
+aS'511'
+p430
+aS'Accused'
+p431
+aa(lp432
+S'Jaish'
+p433
+aS'557'
+p434
+aS'Accused'
+p435
+aa(lp436
+S'RAW'
+p437
+aS'560'
+p438
+aS'Others'
+p439
+aa(lp440
+S'RAW'
+p441
+aS'602'
+p442
+aS'Others'
+p443
+aa(lp444
+S'Indian intelligence agencies'
+p445
+aS'704'
+p446
+aS'Others'
+p447
+aa(lp448
+S'Lashkar-e-Taiba'
+p449
+aS'746'
+p450
+aS'Assoc Accused'
+p451
+aas.

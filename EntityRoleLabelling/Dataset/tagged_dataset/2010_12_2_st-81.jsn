@@ -1,0 +1,129 @@
+{
+    "LOC": [
+        [
+            "Shekowal", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Kalewal", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "109", 
+            "Neutral"
+        ], 
+        [
+            "Ludhiana", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Ludhiana", 
+            "436", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vinod Bhat", 
+            "248", 
+            "Others"
+        ], 
+        [
+            "Bhat", 
+            "572", 
+            "Others"
+        ], 
+        [
+            "Bhatt", 
+            "669", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "7 am:588"
+    ], 
+    "hot_setting": "disposing of over 17,000 pieces of ammunitions of unknown origin", 
+    "DAT": [
+        "November:37", 
+        "1999:118", 
+        "2004:120", 
+        "2004:166"
+    ], 
+    "death": "", 
+    "title": "Army begins biggest operation to destroy deadly scrap", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mortar bombs , projectiles , grenades , rockets , detonators , artillery shells were unheard of in Shekowal and Kalewal village , until Indian Army 's biggest operation to dispose off scrap ammunitions began there in November . Over 30 kms from here , 738 residents and 2,500 animals of the villages are evacuated each day by the police to the nearby Gurdwara and other safe places so that the Army can transport , segregate and then dispose of over 17,000 pieces of ammunitions of unknown origin that made their way to the centre of the industrial capital of Punjab . Steel and other metal re-rolling units in Punjab had imported the scrap at throwaway prices between 1999 and 2004 . They had not specified the nature of the consignment and only mentioning scrap while taking permission for the imports . It was only during inspections by Customs that their hazardous nature was discovered at a dry port in the industrial hub of Ludhiana in 2004 but it took nearly six years to start the process of disposing it off . Bomb disposal is always high risk so we take extra precautions to ensure the safety of the men handling the ammunition , the villagers and even the cattle . We execute six to eight blasts every day and the project should be complete in two months . The sheer scale of the operation has given us a chance to train our team , said Lt. Col. Vinod Bhat , commanding officer of the 202 Bomb Disposal Unit ( BDU ) , about the Operation . The operation has been named Saiyam ' ( patience ) . We have been trained but each time a bomb is picked or placed there is considerable risk involved , that is why the remote controlled vehicles , telescopic handling machines , bomb suits etc are used , if proper precautions are taken there is little fear left , said a jawan in a bomb suit as he picked a rusted piece of metal and carefully placed it on a padded crane . The scrap was intended to be recycled for the steel industry and had the explosives gone off while melting the scrap , consequences would have been catastrophic . The ammunitions , weighing over 50 tonnes , was imported into the country in the garb of metal scrap to be recycled into steel . It was stored in five containers , four of which were 20 feet long and one was 40 feet in length at the dry port which is located inside a populated area in Ludhiana . Operation Saiyam will cost about Rs . 13.5 million and the authorities have levied this penalty on the eight private individuals who imported the scrap . Till now , Army officers have conducted over 60 blasts and destroyed over 1400 pieces . It is only through visual inspection that we saying that there are about 17,000 pieces of ammunitions . We have not counted them physically . The number can go up when we take actual stock of the situation in the coming days , he said . This is a very tedious process and consumes a long time . Our officers can not rush things and they have to be very patient . Therefore , we keep rotating our officers on different jobs so that monotony does not set in , Lt. Col. Bhat pointed out . The villagers have been told to keep away from their fields between 7 am and 5 pm till the operation is completed . Army aims to destroy the large calibre ammunition first so that the villages can be rehabilitates as soon as possible , the cooperation of the villagers is very important , we have 12 police posts to ensure that once the blasts begin , there is no one around the area and until we are left with very small calibre ammunitions , we wo n't take any risk , Lt Col Bhatt said adding the most dangerous are the hand grenades as most of them are without their pins . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Punjab", 
+        "Ludhiana", 
+        "Shekowal and Kalewal village", 
+        ""
+    ], 
+    "O": [
+        "mortar bombs:1", 
+        "artillery:12", 
+        "indian army:24", 
+        "scrap:32", 
+        "gurdwara:63", 
+        "transport:73", 
+        "steel:102", 
+        "scrap:113", 
+        "consignment:130", 
+        "bomb disposal:182", 
+        "safety:196", 
+        "ammunition:202", 
+        "operation:234", 
+        "train:241", 
+        "team:243", 
+        "bomb disposal unit:256", 
+        "bomb:286", 
+        "bomb:309", 
+        "bomb suit:331", 
+        "metal:340", 
+        "scrap:351", 
+        "steel industry:359", 
+        "melting:368", 
+        "scrap:370", 
+        "country:390", 
+        "garb:393", 
+        "metal scrap:395", 
+        "steel:401", 
+        "length:423", 
+        "port:427", 
+        "area:434", 
+        "operation:438", 
+        "cost:441", 
+        "rs:443", 
+        "penalty:453", 
+        "scrap:462", 
+        "army:599"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/army-begins-biggest-operation-to-destroy-deadly-scrap/article926659.ece", 
+    "date": "02-12-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

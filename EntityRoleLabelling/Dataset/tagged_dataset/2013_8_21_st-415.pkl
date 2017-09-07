@@ -1,0 +1,239 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Visakhapatnam'
+p4
+aS'42'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Berhampur'
+p8
+aS'60'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Sri Ram Nagar'
+p12
+aS'96'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Sitaram Sahu'
+p16
+aS'104'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Shapu'
+p20
+aS'186'
+p21
+aS'Source'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Kamana Panda'
+p26
+aS'101'
+p27
+aS'Accused'
+p28
+aS'Others'
+p29
+aa(lp30
+S'Sheikh Shapu'
+p31
+aS'24'
+p32
+aS'Victim'
+p33
+aa(lp34
+S'Thakur Prasad Patra'
+p35
+aS'70'
+p36
+aS'Comment'
+p37
+aa(lp38
+S'Jitu Swain'
+p39
+aS'93'
+p40
+aS'Accused'
+p41
+aa(lp42
+S'Jitu'
+p43
+aS'131'
+p44
+aS'Others'
+p45
+aa(lp46
+S'Sapu'
+p47
+aS'146'
+p48
+aS'Assoc Accused'
+p49
+aa(lp50
+S'Jitu'
+p51
+aS'163'
+p52
+aS'Accused'
+p53
+aa(lp54
+S'Jitu'
+p55
+aS'169'
+p56
+aS'Accused'
+p57
+aasS'TIM'
+p58
+(lp59
+sS'hot_setting'
+p60
+S''
+p61
+sS'DAT'
+p62
+(lp63
+S'Monday evening : 18'
+p64
+aS'Tuesday : 44'
+p65
+asS'death'
+p66
+g61
+sS'title'
+p67
+S'Two arrested in bombing case'
+p68
+sS'det_loc'
+p69
+(lp70
+S'India'
+p71
+aS'Orissa'
+p72
+aS'Ganjam'
+p73
+aS'Berhampur'
+p74
+ag61
+asS'terror_group'
+p75
+(lp76
+g61
+asS'content'
+p77
+S'The city police nabbed two youths in connection with the case of bombing at corporation road on Monday evening . The person , Sheikh Shapu , who was injured by the blast of bombs thrown at him , was shifted to Visakhapatnam on Tuesday for treatment . Earlier , he was admitted to MKCG Medical College and Hospital in Berhampur . Speaking to newsmen , Berhampur Sub-Divisional Police Officer Thakur Prasad Patra said an altercation over trivial matter had led to the violent situation . The two arrested youths were identified as Jitu Swain of Sri Ram Nagar area and Kamana Panda of Sitaram Sahu area of the city . Absconding The police are still in search of three others involved in the case . According to the police , Jitu and some of his friends were roaming in corporation road area when they met Sapu . For some reason , an altercation took place between them over a small issue . Jitu was allegedly beaten up . Jitu left the area in a rage and returned with his associates to hurl crude bombs at Shapu . OPEN'
+p78
+sS'injured'
+p79
+g61
+sS'org_unorg'
+p80
+g61
+sS'O'
+p81
+(lp82
+S'city police nabbed:2'
+p83
+aS'bombing:13'
+p84
+aS'corporation road:15'
+p85
+aS'injured:29'
+p86
+aS'blast:32'
+p87
+aS'bombs thrown:34'
+p88
+aS'treatment:46'
+p89
+aS'admitted:52'
+p90
+aS'berhampur sub-divisional police officer:66'
+p91
+aS'altercation:75'
+p92
+aS'trivial:77'
+p93
+aS'violent situation:83'
+p94
+aS'arrested:88'
+p95
+aS'absconding:111'
+p96
+aS'corporation road:140'
+p97
+aS'altercation:153'
+p98
+aS'small issue:160'
+p99
+aS'beaten:166'
+p100
+aS'rage:175'
+p101
+aS'returned:177'
+p102
+aS'hurl crude bombs:182'
+p103
+aS'crude bombs:183'
+p104
+asS'unexpl'
+p105
+(lp106
+g61
+asS'ocassion'
+p107
+g61
+sS'link'
+p108
+S'http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/two-arrested-in-bombing-case/article5043955.ece'
+p109
+sS'date'
+p110
+S'19-08-2013'
+p111
+sS'target'
+p112
+S'CORPORATION ROAD'
+p113
+sS'hot_spot'
+p114
+g61
+sS'delivery_mod'
+p115
+S'THROWN'
+p116
+sS'delivery_met'
+p117
+S'PLANTED'
+p118
+sS'expl'
+p119
+(lp120
+g61
+asS'ORG'
+p121
+(lp122
+(lp123
+S'MKCG Medical College and Hospital'
+p124
+aS'54'
+p125
+aS'Others'
+p126
+aas.

@@ -1,0 +1,225 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dadar Kabutarkhana'
+p4
+aS'7'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Kabutarkhana'
+p8
+aS'281'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Mumbai'
+p12
+aS'292'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Dadar Kabutarkhana'
+p16
+aS'380'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Jayendra Bhavan'
+p20
+aS'439'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'K.R. Jodatar'
+p26
+aS'123'
+p27
+aS'Others'
+p28
+aa(lp29
+S'Jodatar'
+p30
+aS'155'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Brahmadeo Gupta'
+p34
+aS'271'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Shreerang Gandhe'
+p38
+aS'312'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Bablu'
+p42
+aS'357'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Arvind Mehta'
+p46
+aS'433'
+p47
+aS'Others'
+p48
+aasS'TIM'
+p49
+(lp50
+sS'hot_setting'
+p51
+S''
+p52
+sS'DAT'
+p53
+(lp54
+S'Wednesday evening:22'
+p55
+aS'Wednesday:81'
+p56
+aS'Thursday morning:151'
+p57
+aS'Wednesday evening:203'
+p58
+aS'Thursday morning:374'
+p59
+asS'death'
+p60
+g52
+sS'title'
+p61
+S"It's business as usual on bomb-hit Dadar street"
+p62
+sS'det_loc'
+p63
+(lp64
+S'India'
+p65
+aS'Maharashtra'
+p66
+aS'Mumbai-City'
+p67
+aS'Darar'
+p68
+ag52
+asS'terror_group'
+p69
+(lp70
+g52
+asS'content'
+p71
+S"Just a 100-metre stretch in the Dadar Kabutarkhana area here shows the contrast . The place where a bomb exploded on Wednesday evening has been cordoned off . Shops on the road are closed and so is the school which stands just a wall away from the bus stop where the IED exploded . But barely 100 metres away , other shops are open and business is as usual . Yes . There was a blast there yesterday -LSB- on Wednesday -RSB- . We all thought initially that it was a cylinder blast . But then there was a lot of commotion . The police appeared on the scene within 15 minutes . We all shut our shops immediately after that , K.R. Jodatar , an umbrella shop owner on the unaffected side , told The Hindu . But all of them opened the shops at the usual time on Thursday morning , said Jodatar . Everything is fine now . It is just that the area is sealed by the police , so there is no traffic there . However , a sense of helplessness is evident among the same people who must have run around to help the victims on Wednesday evening . There were also some who did not bother to check what happened . We did not go to see what happened . There was no need . We saw lot of commotion and closed our shops and went home . The blast was so loud that our shop felt the brunt . Some loose soil fell off the ceiling , this place shattered , said Brahmadeo Gupta , owner of a small utilities shop near Kabutarkhana , showing the place close to where he sat . Mumbai is back on its feet . Whether it is out of compulsion or grit , who knows , said Shreerang Gandhe , a customer at a peanuts shop . Missing in action were many street vendors selling vegetables . Why ? There is fear . There is no protection for us . But what to do ? We ca n't stop working , said Bablu , a vendor . He did not know why many others did not turn up on Thursday morning . Residents in the Dadar Kabutarkhana area said no CCTV camera was installed in any of the shops on the street , where the blast occurred . It mainly has hardware and plywood shops . We have been staying here for years . There are no CCTV cameras installed in any of the shops here , said Arvind Mehta , who stays at Jayendra Bhavan , right opposite the blast site . OPEN"
+p72
+sS'injured'
+p73
+g52
+sS'org_unorg'
+p74
+S'Organized'
+p75
+sS'O'
+p76
+(lp77
+S'dadar kabutarkhana:7'
+p78
+aS'bomb:19'
+p79
+aS'road:32'
+p80
+aS'school:39'
+p81
+aS'IED:52'
+p82
+aS'yesterday:78'
+p83
+aS'thought:86'
+p84
+aS'cylinder blast:92'
+p85
+aS'commotion:102'
+p86
+aS'umbrella shop owner:127'
+p87
+aS'traffic:178'
+p88
+aS'customer:316'
+p89
+aS'shop:320'
+p90
+aS'vendor:360'
+p91
+aS'dadar kabutarkhana:380'
+p92
+aS'cctv camera:385'
+p93
+aS'street:396'
+p94
+aS'blast:400'
+p95
+aS'cctv cameras:422'
+p96
+aS'blast site:445'
+p97
+asS'unexpl'
+p98
+(lp99
+g52
+asS'ocassion'
+p100
+g52
+sS'link'
+p101
+S'http://www.thehindu.com/todays-paper/its-business-as-usual-on-bombhit-dadar-street/article2229110.ece'
+p102
+sS'date'
+p103
+S'15-07-2011'
+p104
+sS'target'
+p105
+S'Market Place'
+p106
+sS'hot_spot'
+p107
+g52
+sS'delivery_mod'
+p108
+g52
+sS'delivery_met'
+p109
+S'Planted'
+p110
+sS'expl'
+p111
+(lp112
+g52
+asS'ORG'
+p113
+(lp114
+(lp115
+S'The Hindu'
+p116
+aS'136'
+p117
+aS'Others'
+p118
+aas.

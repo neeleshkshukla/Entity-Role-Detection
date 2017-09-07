@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Bangladesh border", 
+            "48", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "60", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Kerala", 
+            "62", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Coimbatore", 
+            "137", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nazir", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "Abdul Nasir Maudhany", 
+            "116", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:33", 
+        "December 30 , 2002 : 85"
+    ], 
+    "death": "", 
+    "title": "Identification parade held", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Coimbatore", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Accused in the custody of the Special Investigation Team ( SIT ) of the Crime Branch CID Nazir ( 30 ) was subjected to an identification parade at Coimbatore Central Prison on Monday . He was arrested by the Border Security Force ( BSF ) along the Bangladesh border and was a wanted accused in bomb blast cases in Bangalore and Kerala , SIT sources said . He was also a wanted accused in the planting of a bomb at Coimbatore Press Club on December 30 , 2002 . The planting of the bomb was part of the campaign by the activists seeking the release of Kerala-based People 's Democratic Party ( PDP ) leader Abdul Nasir Maudhany . He was arrested and lodged at Coimbatore Central Prison as an undertrial prisoner in connection with the Coimbatore Serial Blasts Case . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "Special Investigation Team:7", 
+        "SIT:11", 
+        "identification parade:26", 
+        "bomb blast:56", 
+        "SIT:64", 
+        "bomb:79", 
+        "bomb:94", 
+        "release:105", 
+        "undertrial prisoner:131", 
+        "coimbatore serial blasts case:137"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/identification-parade-held/article1144557.ece", 
+    "date": "01-02-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Crime Branch CID", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "Coimbatore Central Prison", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "Border Security Force", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "BSF", 
+            "44", 
+            "Others"
+        ], 
+        [
+            "Coimbatore Press Club", 
+            "81", 
+            "Victim"
+        ], 
+        [
+            "People 's Democratic Party", 
+            "108", 
+            "Others"
+        ], 
+        [
+            "PDP", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "Coimbatore Central Prison", 
+            "126", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,257 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Tinsukia'
+p4
+aS'36'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Assam'
+p8
+aS'38'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Chamber road'
+p12
+aS'94'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Dibrugarh'
+p16
+aS'114'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Chikajan'
+p20
+aS'152'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Tinsukia'
+p24
+aS'154'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Dinjan'
+p28
+aS'245'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Assam'
+p32
+aS'266'
+p33
+aS'Event'
+p34
+aasS'PER'
+p35
+(lp36
+sS'TIM'
+p37
+(lp38
+S'today : 132'
+p39
+asS'hot_setting'
+p40
+S''
+p41
+sS'DAT'
+p42
+(lp43
+S'Friday : 32'
+p44
+aS'May 4 : 41'
+p45
+aS'Friday : 75'
+p46
+asS'death'
+p47
+g41
+sS'title'
+p48
+S'Seven injured in Assam blast'
+p49
+sS'det_loc'
+p50
+(lp51
+S'India'
+p52
+aS'Assam'
+p53
+aS'Tinsukia'
+p54
+aS'Guwahati'
+p55
+ag41
+asS'terror_group'
+p56
+(lp57
+S'UNITED LIBERATION FRONT OF ASSAM (ULFA)'
+p58
+asS'content'
+p59
+VAt least seven persons , all of them Hindi-speaking , were injured in a car bomb explosion triggered by the banned United Liberation Front of Asom ( ULFA ) here on Friday . . . Tinsukia ( Assam ) , May 4 : At least seven persons , all of them Hindi-speaking , were injured in a car bomb explosion triggered by the banned United Liberation Front of Asom ( ULFA ) here on Friday . . . The timed explosive placed in a jeep blew up near a wholesale grain market on Chamber road , which is dominated by Hindi-speaking traders , police said . . . The injured were rushed to Dibrugarh District 's Assam Medical College Hospital , police said . . . Meanwhile , the Indian Army today averted a major tragedy by timely detecting an Improvised Explosive Device ( IED ) , which was placed at Chikajan in Tinsukia to target a military patrol team by the ULFA . . . Three persons have been apprehended for questioning in connection to it . . . The weight of explosives in the seized IED was approximately 40-45 kgs , which could have blown up two vehicles moving together , according to the patrol team that recovered the IED . . . The IED was placed inside a gas cylinder that was cut from below . . . On detection , the Bomb Disposal team of 55 Engineer Regiment based at Dinjan rushed to the spot and the area was cordoned off . . . Security has been beefed up in upper Assam , which is an ULFA stronghold . . . addthis_url = location.href ; addthis_title = document.title ; addthis_pub = ` vijaytech ' ; . . a36 ( ) ; . . .
+p60
+sS'injured'
+p61
+S'7'
+p62
+sS'org_unorg'
+p63
+g41
+sS'O'
+p64
+(lp65
+S'hindi-speaking:9'
+p66
+aS'injured:12'
+p67
+aS'car bomb explosion:15'
+p68
+aS'hindi-speaking:52'
+p69
+aS'injured:55'
+p70
+aS'car bomb explosion:58'
+p71
+aS'timed explosive:80'
+p72
+aS'wholesale grain market:90'
+p73
+aS'hindi-speaking traders:101'
+p74
+aS'injured:110'
+p75
+aS'tragedy:136'
+p76
+aS'improvised explosive device:141'
+p77
+aS'ied:145'
+p78
+aS'military patrol:158'
+p79
+aS'explosives:184'
+p80
+aS'ied:188'
+p81
+aS'patrol team:207'
+p82
+aS'ied:212'
+p83
+aS'ied:217'
+p84
+aS'gas cylinder:222'
+p85
+aS'bomb disposal team:236'
+p86
+aS'55 engineer regiment:240'
+p87
+asS'unexpl'
+p88
+(lp89
+g41
+asS'ocassion'
+p90
+g41
+sS'link'
+p91
+S'http://www.andhranews.net/India/2007/May/4-Seven-injured-479.asp'
+p92
+sS'date'
+p93
+S'04-05-2007'
+p94
+sS'target'
+p95
+S'MARKET PLACE'
+p96
+sS'hot_spot'
+p97
+g41
+sS'delivery_mod'
+p98
+S'CAR'
+p99
+sS'delivery_met'
+p100
+g41
+sS'expl'
+p101
+(lp102
+S'IED'
+p103
+asS'ORG'
+p104
+(lp105
+(lp106
+S'United Liberation Front of Asom'
+p107
+aS'22'
+p108
+aS'Accused'
+p109
+aa(lp110
+S'ULFA'
+p111
+aS'28'
+p112
+aS'Accused'
+p113
+aa(lp114
+S'United Liberation Front of Asom'
+p115
+aS'65'
+p116
+aS'Accused'
+p117
+aa(lp118
+S'ULFA'
+p119
+aS'71'
+p120
+aS'Accused'
+p121
+aa(lp122
+S'Assam Medical College Hospital'
+p123
+aS'117'
+p124
+aS'Others'
+p125
+aa(lp126
+S'Indian Army'
+p127
+aS'130'
+p128
+aS'Others'
+p129
+aa(lp130
+S'ULFA'
+p131
+aS'163'
+p132
+aS'Accused'
+p133
+aa(lp134
+S'ULFA'
+p135
+aS'271'
+p136
+aS'Accused'
+p137
+aas.

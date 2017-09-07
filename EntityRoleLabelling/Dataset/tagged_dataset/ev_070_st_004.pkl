@@ -1,0 +1,656 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Andhra Pradesh'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Andhra Pradesh'
+p8
+aS'6'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'HYDERABAD'
+p12
+aS'23'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Andhra Pradesh'
+p16
+aS'25'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Hyderabad'
+p20
+aS'49'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Lumbini Park'
+p24
+aS'197'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Gokul Chat'
+p28
+aS'200'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Koti'
+p32
+aS'203'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Dilsukhnagar'
+p36
+aS'245'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Nagpur'
+p40
+aS'277'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Mecca Masjid'
+p44
+aS'311'
+p45
+aS'Assoc Event Location'
+p46
+aa(lp47
+S'Mecca Masjid'
+p48
+aS'358'
+p49
+aS'Assoc Event Location'
+p50
+aa(lp51
+S'Hyderabad'
+p52
+aS'652'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Osmania'
+p56
+aS'726'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Pune'
+p60
+aS'740'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Madhya Pradesh'
+p64
+aS'747'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'New Delhi'
+p68
+aS'828'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Hyderabad'
+p72
+aS'886'
+p73
+aS'Neutral'
+p74
+aasS'PER'
+p75
+(lp76
+(lp77
+S'Y.S. Rajasekhara Reddy'
+p78
+aS'29'
+p79
+aS'Comment'
+p80
+aa(lp81
+S'M. L. Kumawat'
+p82
+aS'126'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Reddy'
+p86
+aS'333'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Shivraj Patil'
+p90
+aS'463'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Reddys'
+p94
+aS'476'
+p95
+aS'Others'
+p96
+aa(lp97
+S'L.K. Advani'
+p98
+aS'508'
+p99
+aS'Others'
+p100
+aa(lp101
+S'N. Chandrababu Naidu'
+p102
+aS'577'
+p103
+aS'Comment'
+p104
+aa(lp105
+S'Reddy'
+p106
+aS'592'
+p107
+aS'Others'
+p108
+aa(lp109
+S'Bandaru Dattatreya'
+p110
+aS'794'
+p111
+aS'Comment'
+p112
+aa(lp113
+S'Manmohan'
+p114
+aS'820'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Manmohan Singh'
+p118
+aS'835'
+p119
+aS'Others'
+p120
+aa(lp121
+S'Shivraj Patil'
+p122
+aS'878'
+p123
+aS'Others'
+p124
+aasS'TIM'
+p125
+(lp126
+S'minute : 604'
+p127
+aS'today : 754'
+p128
+asS'hot_setting'
+p129
+S''
+p130
+sS'DAT'
+p131
+(lp132
+S'Sunday : 35'
+p133
+aS'Saturday : 51'
+p134
+aS'May 18 : 354'
+p135
+aS'Sunday : 658'
+p136
+aS'Monday : 768'
+p137
+aS'Sunday : 838'
+p138
+asS'death'
+p139
+S'40'
+p140
+sS'title'
+p141
+S'External forces behind Hyderabad blasts'
+p142
+sS'org_unorg'
+p143
+g130
+sS'terror_group'
+p144
+(lp145
+S'HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI'
+p146
+asS'content'
+p147
+VAndhra Pradesh Bureau . . Andhra Pradesh Chief Minister sees Bangladeshi , Pakistani connections ; death toll mounts to 40 . . HYDERABAD : Andhra Pradesh Chief Minister Y.S. Rajasekhara Reddy said here on Sunday that there were Bangladeshi and Pakistani connections to the twin explosions that rocked Hyderabad on Saturday leaving 40 dead and 54 injured , although police have not announced any breakthrough in its investigations . . . The Home Department , however , confirmed that it had obtained vital clues and was coordinating with the Intelligence Bureau -LRB- IB -RRB- and the Central Bureau of Investigation -LRB- CBI -RRB- to obtain further leads about the persons responsible for the attack . The Union Home Ministry has deputed its Special Secretary , M. L. Kumawat , to assist the State police . The police have constituted seven teams to conduct the investigations . . . Vigil continues . . In the wake of a red alert being sounded all over the State , the 10,000-strong city police force , assisted by several Rapid Action Force platoons , continued its vigil , even as security and bomb experts sifted through the blast sites at Lumbini Park and Gokul Chat at Koti . Though the security forces were pointing an accusing finger at the Harkat ul-Jihad-e-Islami -LRB- HuJI -RRB- , no concrete evidence was found to link it to the blasts . . . After analysing the contents of an unexploded bomb at Dilsukhnagar , experts said the charge in the bomb was that of Neo Gel-90 , the Ammonium Nitrate emulsifier-based explosive . The packing indicated that it was made by Amin Explosives in Nagpur . Metal balls , easily available in any spare parts shops , were packed into the device . Police say the device was not similar to the ones that were exploded in the Mecca Masjid , where RDX and TNT were used and the detonation was done through a cellular phone . . . Dr. Reddy declined to give details of the investigation , merely saying that this dastardly attack against humanity had similarities with the May 18 blast in Mecca Masjid -LRB- in which HuJI operatives were suspected to have links -RRB- . Denying that there was intelligence failure , he said the police could not be blamed for not foiling a plot hatched in a neighbouring country , but executed here . . . After presiding over an emergency meeting of the Cabinet and separately meeting the leaders of all political parties , the Chief Minister announced that the Government would pay Rs . 5 lakh ex-gratia to the families of those killed in the blasts and offer jobs if the victim had been a family bread-winner . . . Union Home Minister Shivraj Patil , who visited the blast sites , declined to confirm Dr. Reddys theory about the Bangladeshi links on the ground that such information was shared with security agencies and not discussed in the open . He turned down the demand of BJP leader L.K. Advani , who also went to the blast sites earlier , to revive the Prevention of Terrorism Act because it had not served as a deterrent for terrorists . . . TDPs charge . . The Telugu Desam Party , claiming that law and order in the State was at its nadir , demanded the Chief Ministers resignation . A meeting of the partys Polit Bureau chaired by N. Chandrababu Naidu said the blasts were a result of intelligence failure and that Dr. Reddy had no moral right to continue in office even for a minute . An all-party meeting expressed solidarity with the government in combating terrorism , but cautioned it against neglecting law and order as this would cause an adverse impact on the States economy . . . In spite of these developments , the resilience of the people of Hyderabad was very much visible on Sunday . The State capital recovered quickly from trauma of the blasts while police forces heaved a sigh of relief as no untoward incident was reported in the metropolis . . . The 54 injured persons , admitted to six different hospitals , are said to be progressing though some are still in a critical state . Authorities handed over all the bodies after the customary autopsy at Osmania and Gandhi Hospitals . The bodies of seven engineering students were flown to Pune and those of two others to Madhya Pradesh . . . BJP bandh today . . The Bharatiya Janata Party has called for a State bandh on Monday to protest against terrorism in the wake of the blasts in the city . . . At a press conference here , State BJP president Bandaru Dattatreya said the city had become a hub of terrorist activities and wanted the Government to take stringent steps to prevent them . . . Manmohan moots fund . . PTI reports from New Delhi : . . Prime Minister Manmohan Singh on Sunday suggested the setting up of a permanent fund for providing relief to the victims of terror attacks . . . The suggestion came during a high-level meeting chaired by him at his Race Course residence during which Home Minister Shivraj Patil apprised him of the situation in Hyderabad in the aftermath of the blasts .
+p148
+sS'injured'
+p149
+S'54'
+p150
+sS'det_loc'
+p151
+(lp152
+S'India'
+p153
+aS'Andhra Pradesh'
+p154
+ag130
+aS'Hyderabad'
+p155
+ag130
+asS'O'
+p156
+(lp157
+S'bangladeshi:11'
+p158
+aS'pakistani connections:13'
+p159
+aS'death toll:16'
+p160
+aS'bangladeshi and pakistani connections:39'
+p161
+aS'twin explosions:45'
+p162
+aS'rocked:48'
+p163
+aS'dead:54'
+p164
+aS'injured:57'
+p165
+aS'investigations:68'
+p166
+aS'vital clues:83'
+p167
+aS'attack:114'
+p168
+aS'state police:133'
+p169
+aS'seven teams:140'
+p170
+aS'investigations:145'
+p171
+aS'vigil:149'
+p172
+aS'red alert:158'
+p173
+aS'state:165'
+p174
+aS'10,000-strong city police force:168'
+p175
+aS'rapid action force:176'
+p176
+aS'platoons:179'
+p177
+aS'vigil:183'
+p178
+aS'security and bomb experts:187'
+p179
+aS'blast sites:194'
+p180
+aS'security forces:207'
+p181
+aS'blasts:232'
+p182
+aS'unexploded bomb:242'
+p183
+aS'experts:247'
+p184
+aS'bomb:253'
+p185
+aS'neo gel-90:257'
+p186
+aS'ammonium nitrate:261'
+p187
+aS'emulsifier-based explosive:263'
+p188
+aS'packing:267'
+p189
+aS'amin explosives:274'
+p190
+aS'metal balls:279'
+p191
+aS'spare:286'
+p192
+aS'shops:288'
+p193
+aS'device:294'
+p194
+aS'device:299'
+p195
+aS'exploded:308'
+p196
+aS'rdx:315'
+p197
+aS'tnt:317'
+p198
+aS'detonation:322'
+p199
+aS'cellular phone:327'
+p200
+aS'investigation:340'
+p201
+aS'dastardly attack:346'
+p202
+aS'humanity:349'
+p203
+aS'blast:356'
+p204
+aS'suspected:366'
+p205
+aS'intelligence failure:376'
+p206
+aS'blamed:386'
+p207
+aS'emergency meeting:408'
+p208
+aS'leaders:417'
+p209
+aS'political parties:420'
+p210
+aS'announced:426'
+p211
+aS'rs . 5 lakh:432'
+p212
+aS'ex-gratia:436'
+p213
+aS'killed:442'
+p214
+aS'blasts:445'
+p215
+aS'jobs:448'
+p216
+aS'victim:451'
+p217
+aS'bread-winner:456'
+p218
+aS'visited:467'
+p219
+aS'blast sites:469'
+p220
+aS'bangladeshi links:480'
+p221
+aS'information:487'
+p222
+aS'security agencies:491'
+p223
+aS'discussed:495'
+p224
+aS'demand:504'
+p225
+aS'blast sites:516'
+p226
+aS'prevention of terrorism act:523'
+p227
+aS'terrorists:536'
+p228
+aS'tdps charge:540'
+p229
+aS'law and order:551'
+p230
+aS'demanded:562'
+p231
+aS'resignation:566'
+p232
+aS'blasts:582'
+p233
+aS'intelligence failure:587'
+p234
+aS'moral right:595'
+p235
+aS'all-party meeting:607'
+p236
+aS'solidarity:610'
+p237
+aS'combating terrorism:615'
+p238
+aS'neglecting law and order:622'
+p239
+aS'adverse impact:631'
+p240
+aS'states economy:635'
+p241
+aS'developments:644'
+p242
+aS'resilience:647'
+p243
+aS'state capital:661'
+p244
+aS'trauma:666'
+p245
+aS'blasts:669'
+p246
+aS'police forces:671'
+p247
+aS'metropolis:686'
+p248
+aS'six different hospitals:697'
+p249
+aS'critical state:712'
+p250
+aS'authorities:715'
+p251
+aS'customary autopsy:723'
+p252
+aS'seven engineering students:734'
+p253
+aS'bandh:753'
+p254
+aS'state bandh:765'
+p255
+aS'protest against terrorism:770'
+p256
+aS'blasts:778'
+p257
+aS'city:781'
+p258
+aS'press conference:787'
+p259
+aS'city:798'
+p260
+aS'hub of terrorist activities:802'
+p261
+aS'reports:826'
+p262
+aS'suggested:839'
+p263
+aS'victims:852'
+p264
+aS'terror attacks:854'
+p265
+aS'blasts:892'
+p266
+asS'unexpl'
+p267
+(lp268
+S'METAL BALLS'
+p269
+asS'ocassion'
+p270
+g130
+sS'link'
+p271
+S'http://www.thehindu.com/todays-paper/external-forces-behind-hyderabad-blasts/article1899763.ece'
+p272
+sS'date'
+p273
+S'25-08-2007'
+p274
+sS'target'
+p275
+S'PUBLIC PLACES'
+p276
+sS'hot_spot'
+p277
+g130
+sS'delivery_mod'
+p278
+g130
+sS'delivery_met'
+p279
+S'PLANTED'
+p280
+sS'expl'
+p281
+(lp282
+S'NEO GEL-90'
+p283
+asS'ORG'
+p284
+(lp285
+(lp286
+S'Andhra Pradesh Bureau'
+p287
+ag5
+aS'Others'
+p288
+aa(lp289
+S'Intelligence Bureau'
+p290
+aS'90'
+p291
+aS'Others'
+p292
+aa(lp293
+S'IB'
+p294
+aS'93'
+p295
+aS'Others'
+p296
+aa(lp297
+S'Central Bureau of Investigation'
+p298
+aS'97'
+p299
+aS'Others'
+p300
+aa(lp301
+S'CBI'
+p302
+aS'102'
+p303
+aS'Others'
+p304
+aa(lp305
+S'Harkat ul-Jihad-e-Islami'
+p306
+aS'216'
+p307
+aS'Accused'
+p308
+aa(lp309
+S'HuJI'
+p310
+aS'219'
+p311
+aS'Accused'
+p312
+aa(lp313
+S'HuJI'
+p314
+aS'363'
+p315
+aS'Accused'
+p316
+aa(lp317
+S'BJP'
+p318
+aS'506'
+p319
+aS'Others'
+p320
+aa(lp321
+S'Telugu Desam Party'
+p322
+aS'545'
+p323
+aS'Others'
+p324
+aa(lp325
+S'Polit Bureau'
+p326
+aS'573'
+p327
+aS'Others'
+p328
+aa(lp329
+S'Gandhi Hospitals'
+p330
+aS'728'
+p331
+aS'Others'
+p332
+aa(lp333
+S'BJP'
+p334
+aS'752'
+p335
+aS'Others'
+p336
+aa(lp337
+S'Bharatiya Janata Party'
+p338
+aS'758'
+p339
+aS'Others'
+p340
+aa(lp341
+S'BJP'
+p342
+aS'792'
+p343
+aS'Others'
+p344
+aa(lp345
+S'Government'
+p346
+aS'809'
+p347
+aS'Others'
+p348
+aa(lp349
+S'PTI'
+p350
+aS'825'
+p351
+aS'Others'
+p352
+aas.

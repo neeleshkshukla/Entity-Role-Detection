@@ -1,0 +1,401 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Varanasi'
+p4
+aS'5'
+p5
+aS'Event'
+p6
+aa(lp7
+S"Varanasi 's Shitla Ghat"
+p8
+ag5
+aS'Event'
+p9
+aa(lp10
+S'Shitla Ghat'
+p11
+aS'74'
+p12
+aS'Event'
+p13
+aa(lp14
+S'Uttar Pradesh'
+p15
+aS'99'
+p16
+aS'Event'
+p17
+aa(lp18
+S'Rampur'
+p19
+aS'114'
+p20
+aS'Neutral'
+p21
+aa(lp22
+S'Varanasi'
+p23
+aS'145'
+p24
+aS'Event'
+p25
+aa(lp26
+S'Sankat Mochan temple'
+p27
+aS'165'
+p28
+aS'Assoc Event Location'
+p29
+aa(lp30
+S'railway station'
+p31
+aS'170'
+p32
+aS'Assoc Event Location'
+p33
+aa(lp34
+S'Ayodhya'
+p35
+aS'192'
+p36
+aS'Neutral'
+p37
+aa(lp38
+S'Mathura'
+p39
+aS'194'
+p40
+aS'Neutral'
+p41
+aa(lp42
+S'Lucknow'
+p43
+aS'201'
+p44
+aS'Neutral'
+p45
+aa(lp46
+S'Kanpur'
+p47
+aS'203'
+p48
+aS'Neutral'
+p49
+aa(lp50
+S'Lucknow'
+p51
+aS'244'
+p52
+aS'Neutral'
+p53
+aa(lp54
+S'Shitla Ghat'
+p55
+aS'254'
+p56
+aS'Event'
+p57
+aa(lp58
+S'Shitla Ghat'
+p59
+aS'291'
+p60
+aS'Event'
+p61
+aa(lp62
+S'Dasashwamedh Ghat'
+p63
+aS'296'
+p64
+aS'Neutral'
+p65
+aa(lp66
+S'ghat'
+p67
+aS'315'
+p68
+aS'Event'
+p69
+aa(lp70
+S'banks of the river'
+p71
+aS'318'
+p72
+aS'Event'
+p73
+aa(lp74
+S'ghats'
+p75
+aS'349'
+p76
+aS'Event'
+p77
+aa(lp78
+S'Varanasi'
+p79
+aS'381'
+p80
+aS'Event'
+p81
+aa(lp82
+S'Varanasi'
+p83
+aS'416'
+p84
+aS'Event'
+p85
+aasS'PER'
+p86
+(lp87
+(lp88
+S'Brij Lal'
+p89
+aS'239'
+p90
+aS'Comment'
+p91
+aa(lp92
+S'Lal'
+p93
+aS'324'
+p94
+aS'Comment'
+p95
+aa(lp96
+S'Mayawati'
+p97
+aS'387'
+p98
+aS'Comment'
+p99
+aa(lp100
+S'Swamy Prasad Maurya'
+p101
+aS'391'
+p102
+aS'Others'
+p103
+aa(lp104
+S'Karamveer Singh'
+p105
+aS'398'
+p106
+aS'Others'
+p107
+aa(lp108
+S'Atul Kumar Gupta'
+p109
+aS'403'
+p110
+aS'Others'
+p111
+aa(lp112
+S'Kunwar Fateh Bahadur'
+p113
+aS'412'
+p114
+aS'Others'
+p115
+aa(lp116
+S'B.L. Joshi'
+p117
+aS'421'
+p118
+aS'Comment'
+p119
+aasS'TIM'
+p120
+(lp121
+S'evening : 18'
+p122
+aS'night : 121'
+p123
+aS'7 p.m.:280'
+p124
+asS'hot_setting'
+p125
+S''
+p126
+sS'DAT'
+p127
+(lp128
+S'Tuesday:17'
+p129
+aS'December 31 , 2007 : 123'
+p130
+aS'January 1 , 2008 : 128'
+p131
+aS'2005:158'
+p132
+asS'death'
+p133
+S'2'
+p134
+sS'title'
+p135
+S'1 killed as blast rocks Varanasi'
+p136
+sS'det_loc'
+p137
+(lp138
+S'India'
+p139
+aS'Uttar Pradesh'
+p140
+ag126
+aS'Varanasi'
+p141
+aS" Varanasi 's Shitla Ghat "
+p142
+asS'terror_group'
+p143
+(lp144
+S'INDIAN MUJAHIDEEN'
+p145
+asS'content'
+p146
+VA powerful blast shook Varanasi 's Shitla Ghat when Ganga aarti ' was under way on Tuesday evening , killing a two-year-old girl and injuring over 21 people . Among the injured are some foreigners . . . The blast , occurring a day after the 18 -LCB- + t -RCB- -LCB- + h -RCB- anniversary of the demolition of the Babri Masjid , was so powerful that the stairs leading to the Shitla Ghat were ripped apart . With the Indian Mujahideen reportedly claiming responsibility for the explosion , the incident marked the return of terrorism in Uttar Pradesh , which had not witnessed a militant strike since the attack on the Rampur CRPF group centre in the intervening night of December 31 , 2007 and January 1 , 2008 . . . This is the second time in around six years that Varanasi has been targeted by terror outfits . The last attack was in 2005 , when militants struck at the Sankat Mochan temple and the railway station . . . A state of high alert has been sounded in the State , with very heavy security in Ayodhya , Mathura and other sensitive places , including Lucknow and Kanpur . . . Initial reports said it was a low intensity blast . A stampede that followed is said to have caused most of the injuries . . . ADG -LRB- Law and Order -RRB- Brij Lal told reporters in Lucknow that anti-terrorist and bomb disposal squads had reached the Shitla Ghat . The exact nature of the explosion would be confirmed only after experts examined the site . The ADG said the blast occured around 7 p.m. when Ganga aarti ' was being performed at the Shitla Ghat and the adjacent Dasashwamedh Ghat . . . He said the explosive device was purportedly placed under the stairs leading to the ghat on the banks of the river . Mr. Lal , however , denied that security was lax , considering that hundreds of tourists , both domestic and foreign , gathered daily on the ghats to witness and participate in the religious ritual . He denied that the State government had ignored the advisory sent by the Centre about the possibility of a terror strike in Varanasi . . . Chief Minister Mayawati despatched senior Minister Swamy Prasad Maurya , Director-General of Police Karamveer Singh , Chief Secretary Atul Kumar Gupta and Principal Secretary -LRB- Home -RRB- Kunwar Fateh Bahadur to Varanasi . . . Governor B.L. Joshi condemned the incident and described the explosion as a dastardly act aimed at disturbing the peace and harmony in the State . He wished the injured , who have been admitted to hospitals , speedy recovery .
+p147
+sS'injured'
+p148
+S'21'
+p149
+sS'org_unorg'
+p150
+S'ORGANISED'
+p151
+sS'O'
+p152
+(lp153
+S'Ganga aarti:10'
+p154
+aS'State:185'
+p155
+aS'anti-terrorist:246'
+p156
+aS'Ganga aarti:283'
+p157
+aS'religious ritual:356'
+p158
+aS'Chief Minister:385'
+p159
+aS'senior Minister:389'
+p160
+aS'Director-General:395'
+p161
+aS'Chief Secretary:401'
+p162
+aS'Principal Secretary:407'
+p163
+aS'Governor:420'
+p164
+aS'State:443'
+p165
+aS'hospitals:455'
+p166
+asS'unexpl'
+p167
+(lp168
+g126
+asS'ocassion'
+p169
+S'RELIGIOUS FESTIVAL'
+p170
+sS'link'
+p171
+S'http://www.thehindu.com/todays-paper/1-killed-as-blast-rocks-varanasi/article938409.ece'
+p172
+sS'date'
+p173
+S'07-12-2010'
+p174
+sS'target'
+p175
+g126
+sS'hot_spot'
+p176
+S" Varanasi 's Shitla Ghat "
+p177
+sS'delivery_mod'
+p178
+S'STAIR(GHAT)'
+p179
+sS'delivery_met'
+p180
+S'PLANTED'
+p181
+sS'expl'
+p182
+(lp183
+g126
+asS'ORG'
+p184
+(lp185
+(lp186
+S'Babri Masjid'
+p187
+aS'62'
+p188
+aS'Others'
+p189
+aa(lp190
+S'Indian Mujahideen'
+p191
+aS'82'
+p192
+aS'Accused'
+p193
+aa(lp194
+S'militant'
+p195
+aS'107'
+p196
+aS'Accused'
+p197
+aa(lp198
+S'CRPF'
+p199
+aS'115'
+p200
+aS'Others'
+p201
+aa(lp202
+S'ADG -LRB- Law'
+p203
+aS'233'
+p204
+aS'Others'
+p205
+aa(lp206
+S'ADG'
+p207
+aS'274'
+p208
+aS'Others'
+p209
+aa(lp210
+S'tourists'
+p211
+aS'338'
+p212
+aS'Accused'
+p213
+aa(lp214
+S'State government'
+p215
+aS'363'
+p216
+aS'Others'
+p217
+aa(lp218
+S'Police'
+p219
+aS'397'
+p220
+aS'Others'
+p221
+aas.

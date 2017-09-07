@@ -1,0 +1,149 @@
+{
+    "LOC": [
+        [
+            "Ziarat", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Quaid-e-Azam Residency", 
+            "61", 
+            "Event"
+        ], 
+        [
+            "collapsed building", 
+            "112", 
+            "Event"
+        ], 
+        [
+            "Ziarat", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "Quetta", 
+            "183", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Muhammad Ali Jinnah", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "Quaid-e-Azam", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "Chaudhry Nisar Ali Khan", 
+            "91", 
+            "Comment"
+        ], 
+        [
+            "Asghar Ali", 
+            "128", 
+            "Comment"
+        ], 
+        [
+            "Jinnah", 
+            "224", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1.15 a.m.:70"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:4", 
+        "1892:207"
+    ], 
+    "death": "", 
+    "title": "Militants blast Jinnahs residence in Balochistan", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "ISLAMABAD", 
+        " Quaid-e-Azam ,121-year-old building"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Baloch militants on Saturday blasted a 121-year-old building used by Pakistans founder Muhammad Ali Jinnah at Ziarat and raked it with gunfire , triggering a fire that blazed for four hours , destroying furniture and memorabilia . A policeman was killed in the shooting . Militants of the Balochistan Liberation Army ( BLA ) set off five bombs in the Quaid-e-Azam Residency and then fired at the building at 1.15 a.m. . They removed a Pakistani flag and raised the flag of their outfit in its place , Interior Minister Chaudhry Nisar Ali Khan said . Five militants were involved in the attack . Television channels , showing footage of the collapsed building , reported that the BLA claimed responsibility for the attack . District police chief Asghar Ali said a bomb disposal squad defused six more bombs , each filled with three kg of explosives . It took longer than expected for the fire to be put out as there were no fire tenders at Ziarat , a holiday resort , and one had to be summoned from the provincial capital Quetta , which is 120 km away . Security forces cordoned off the area and launched a search . The Residency , built in 1892 , was originally used as the summer residence of the Agent of the British Governor-General . Jinnah spent the last days of his life there as he suffered from tuberculosis . It was later declared a national monument . PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "pakistans:11", 
+        "gunfire:22", 
+        "four hours:30", 
+        "policeman:39", 
+        "pakistani:76", 
+        "tuberculosis:237", 
+        "national monument:244"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/militants-blast-jinnahs-residence-in-balochistan/article4818955.ece", 
+    "date": "15-06-2013", 
+    "target": "", 
+    "hot_spot": " Quaid-e-Azam ,121-year-old building", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Baloch militants", 
+            "1", 
+            "Accused"
+        ], 
+        [
+            "Militants", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "Balochistan Liberation Army", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "BLA", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "militants", 
+            "98", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "BLA", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "Security forces", 
+            "191", 
+            "Others"
+        ], 
+        [
+            "British Governor-General", 
+            "221", 
+            "Others"
+        ]
+    ]
+}

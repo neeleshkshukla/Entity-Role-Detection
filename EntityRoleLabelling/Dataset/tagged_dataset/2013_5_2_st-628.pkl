@@ -1,0 +1,226 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'southern Pakistan'
+p4
+aS'13'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Pakistan'
+p8
+aS'14'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'southern Shikarpur'
+p12
+aS'41'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Shikarpur district'
+p16
+aS'42'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Shikarpur'
+p20
+aS'42'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Karachi'
+p24
+aS'53'
+p25
+aS'Neutral'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'Mohammad Ibrahim Jatoi'
+p30
+aS'56'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Mr Jatoi'
+p34
+aS'88'
+p35
+aS'Others'
+p36
+aasS'TIM'
+p37
+(lp38
+sS'hot_setting'
+p39
+S''
+p40
+sS'DAT'
+p41
+(lp42
+S'Wednesday:7'
+p43
+aS'May:64'
+p44
+aS'May 11:64'
+p45
+aS'May:201'
+p46
+aS'May 11:201'
+p47
+aS'April:218'
+p48
+aS'April 11:218'
+p49
+asS'death'
+p50
+g40
+sS'title'
+p51
+S'Pakistani election candidate escapes suicide bombing'
+p52
+sS'org_unorg'
+p53
+S'Organized'
+p54
+sS'terror_group'
+p55
+(lp56
+g40
+asS'content'
+p57
+S"An election candidate escaped unharmed on Wednesday in a suicide bombing in southern Pakistan which left two people wounded , police said , after the latest in a wave of attacks to hit the campaign . The attack came in southern Shikarpur district of Sindh province , some 400 kilometres northeast of Karachi , when Mohammad Ibrahim Jatoi , a candidate for the May 11 poll , was on the campaign trail . `` A suicide bomber on a motorcycle blew himself up near the car of Mr Jatoi , but he was unharmed , '' local police station chief Zaheer Mahesar told AFP . Only the bomber died in the blast . Jatoi , from the small National People 's Party , was returning from campaigning when the bomber targeted him at a toll collection point , Mahesar said , adding that two passers-by were wounded . `` We have found arms and head of the suicide bomber , '' he said . District police chief Ghulam Azfar confirmed the suicide attack and said that up to six kilos of explosives were used in the device . Violence has spiked in the nuclear-armed country ahead of national elections on May 11 , with at least 61 people killed in attacks on politicians and political parties since April 11 , according to an AFP tally.AFP OPEN"
+p58
+sS'injured'
+p59
+g40
+sS'det_loc'
+p60
+(lp61
+g40
+ag40
+ag40
+ag40
+ag40
+asS'O'
+p62
+(lp63
+S'election candidate:2'
+p64
+aS'suicide bombing:10'
+p65
+aS'wave:29'
+p66
+aS'hit:33'
+p67
+aS'campaign:35'
+p68
+aS'attack:38'
+p69
+aS'district:43'
+p70
+aS'sindh province:45'
+p71
+aS'sindh:45'
+p72
+aS'province:46'
+p73
+aS'candidate:61'
+p74
+aS'poll:66'
+p75
+aS'campaign trail:71'
+p76
+aS'suicide bomber:76'
+p77
+aS'motorcycle:80'
+p78
+aS'car:86'
+p79
+aS'station chief:99'
+p80
+aS'afp:104'
+p81
+aS'bomber:108'
+p82
+aS'blast:112'
+p83
+aS'jatoi:114'
+p84
+aS'small national:118'
+p85
+aS'national people:119'
+p86
+aS'party:122'
+p87
+aS'campaigning:127'
+p88
+aS'bomber:130'
+p89
+aS'toll collection point:135'
+p90
+aS'head:155'
+p91
+aS'suicide bomber:158'
+p92
+aS'district police chief:165'
+p93
+aS'district:165'
+p94
+aS'chief:167'
+p95
+aS'suicide attack:172'
+p96
+aS'device:187'
+p97
+aS'violence:189'
+p98
+aS'country:195'
+p99
+asS'unexpl'
+p100
+(lp101
+g40
+asS'ocassion'
+p102
+g40
+sS'link'
+p103
+S'http://www.thehindu.com/todays-paper/tp-in-school/pakistani-election-candidate-escapes-suicide-bombing/article4674848.ece'
+p104
+sS'date'
+p105
+g40
+sS'target'
+p106
+g40
+sS'hot_spot'
+p107
+g40
+sS'delivery_mod'
+p108
+g40
+sS'delivery_met'
+p109
+g40
+sS'expl'
+p110
+(lp111
+g40
+asS'ORG'
+p112
+(lp113
+s.

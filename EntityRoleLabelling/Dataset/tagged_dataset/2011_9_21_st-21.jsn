@@ -1,0 +1,229 @@
+{
+    "LOC": [
+        [
+            "Afghanistan", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Kabul", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Kabul", 
+            "61", 
+            "Event"
+        ], 
+        [
+            "Kabul", 
+            "111", 
+            "Event"
+        ], 
+        [
+            "Soviet", 
+            "227", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "233", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "310", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "330", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "361", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "369", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "384", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Burhanuddin Rabbani", 
+            "1", 
+            "Victim"
+        ], 
+        [
+            "Mohammad Zahir", 
+            "114", 
+            "Comment"
+        ], 
+        [
+            "Rabbani", 
+            "125", 
+            "Victim"
+        ], 
+        [
+            "Hamid Karzai", 
+            "189", 
+            "Others"
+        ], 
+        [
+            "Mohammad Masoom Stanekzai", 
+            "195", 
+            "Victim"
+        ], 
+        [
+            "Rabbani", 
+            "204", 
+            "Victim"
+        ], 
+        [
+            "Rabbani", 
+            "219", 
+            "Victim"
+        ], 
+        [
+            "Rabbani", 
+            "292", 
+            "Victim"
+        ], 
+        [
+            "Burhauddin Rabbani", 
+            "363", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "6 p.m. : 54"
+    ], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0008", 
+    "DAT": [
+        "Tuesday : 32", 
+        "1992 : 275", 
+        "1996 : 277"
+    ], 
+    "death": "2", 
+    "title": "Former Afghan President Rabbani killed in suicide attack", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Kabul", 
+        "Wazir Akbar Khan neighbourhood"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Burhanuddin Rabbani , former President of Afghanistan and Chairman of the High Peace Council leading the year-old Afghan effort to negotiate with the Taliban was killed in a bomb blast on Tuesday at his residence in the centre of Kabul 's high-security diplomatic district . The bomb went off inside the house at 6 p.m. local time . Reports from Kabul suggested that he was meeting a couple of members of a terrorist group at the time of the blast as part of the ongoing efforts at reconciliation . One of them is understood to have detonated the bomb . The Associated Press quoted the chief of criminal investigation of Kabul Police , Mohammad Zahir , as stating that a turbaned bomber entered Prof. Rabbani 's house and blew himself up . Questions were being raised about how he accessed the house and the area without being frisked if that was the case . Speculation is that he concealed the explosive material in his turban knowing fully well that local security personnel hesitate to search the turban because it is seen as disrespectful . Another member of President Hamid Karzai 's reconciliation team , Mohammad Masoom Stanekzai , who was also with Prof. Rabbani for the meeting , was injured in the blast . The assassination of Prof. Rabbani who fought as a mujahideen against the Soviet occupation and was President of Afghanistan for two short stints is seen as a big blow to the reconciliation process as he was someone who could rally the disparate Afghan groups and ethnicities . Though the Taliban had ousted him from his first stint as President between 1992 and 1996 after which he became the nominal head of the non-Pashtun Northern Alliance , Prof. Rabbani a Tajik was regarded as a compromise figure who could reach out to the Taliban . The Pakistan government condemned the terrorist attack and conveyed its extreme anger and shock to the brotherly people and government of Afghanistan . The people of Pakistan stand by their Afghan brothers and sisters in this moment of grief on losing a visionary leader who was actively pursuing peace and reconciliation in Afghanistan Professor Burhauddin Rabbani was a friend of Pakistan with whom we were working closely on a vision for peace and prosperity in Afghanistan . OPEN", 
+    "injured": "1", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "president of afghanistan:5", 
+        "chairman of the high peace council:9", 
+        "afghan:18", 
+        "negotiate:21", 
+        "taliban:24", 
+        "bomb blast:29", 
+        "diplomatic:43", 
+        "bomb:47", 
+        "terrorist group:73", 
+        "blast:80", 
+        "reconciliation:88", 
+        "detonated the bomb:97", 
+        "investigation:109", 
+        "turbaned bomber:121", 
+        "questions:133", 
+        "speculation:155", 
+        "explosive material:161", 
+        "turban:165", 
+        "security personnel hesitate:171", 
+        "assassination:216", 
+        "president of afghanistan:231", 
+        "two short stints:235", 
+        "big blow:242", 
+        "afghan groups:257", 
+        "ethnicities:260", 
+        "first stint:270", 
+        "president:273", 
+        "nominal head:283", 
+        "non-pashtun northern alliance:287", 
+        "compromise:299", 
+        "terrorist attack:314", 
+        "afghan:339", 
+        "visionary leader:351", 
+        "peace and reconciliation:357", 
+        "vision:378", 
+        "peace and prosperity:380"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/former-afghan-president-rabbani-killed-in-suicide-attack/article2471663.ece", 
+    "date": "20-09-2011", 
+    "target": "RESIDENCE OF VICTIM", 
+    "hot_spot": "Home of a former president.", 
+    "delivery_mod": "HUMAN", 
+    "delivery_met": "STORED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "High Peace Council", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "Taliban", 
+            "24", 
+            "Accused"
+        ], 
+        [
+            "Associated Press", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "mujahideen", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Taliban", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "Northern Alliance", 
+            "288", 
+            "Others"
+        ], 
+        [
+            "Tajik", 
+            "294", 
+            "Others"
+        ], 
+        [
+            "Taliban", 
+            "307", 
+            "Accused"
+        ]
+    ]
+}

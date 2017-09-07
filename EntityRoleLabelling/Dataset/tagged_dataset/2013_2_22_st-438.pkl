@@ -1,0 +1,292 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsukhnagar : 19'
+p4
+aS'Event'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Konark theatre'
+p8
+aS'43'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Dilsukhnagar bus-stop'
+p12
+aS'46'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Dilsukhnagar'
+p16
+aS'327'
+p17
+aS'Event'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'M. Naresh'
+p22
+aS'86'
+p23
+aS'Others'
+p24
+aa(lp25
+S'L. Narsing Rao'
+p26
+aS'198'
+p27
+aS'Others'
+p28
+aa(lp29
+S'Rakesh'
+p30
+aS'209'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Rafi'
+p34
+aS'281'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Laddu'
+p38
+aS'285'
+p39
+aS'Others'
+p40
+aasS'TIM'
+p41
+(lp42
+S'6.45 p.m.:36'
+p43
+aS'7 p.m.:39'
+p44
+aS'7 p.m.:152'
+p45
+asS'hot_setting'
+p46
+S''
+p47
+sS'DAT'
+p48
+(lp49
+S'Thursday evening:27'
+p50
+asS'death'
+p51
+g47
+sS'title'
+p52
+S'Bloodstains, debris and mangled body parts '
+p53
+sS'det_loc'
+p54
+(lp55
+S'India'
+p56
+aS'Andhra Pradesh'
+p57
+ag47
+aS'Hydrabad'
+p58
+aS'Dilshuknagar'
+p59
+asS'terror_group'
+p60
+(lp61
+g47
+asS'content'
+p62
+S'Bloodstains , debris and mangled body parts strewn around were all that remained at the two locations in Dilsukhnagar where blasts happened in quick succession on Thursday evening . Eyewitness accounts recall two blasts between 6.45 p.m. and 7 p.m. near the Konark theatre and Dilsukhnagar bus-stop , respectively , resulting in widespread mayhem . After the first blast near the bus-stop , panicky crowds rushed towards the Konark theatre before the second bomb went off near a small tiffin centre opposite the theatre . M. Naresh , an MBA student who worked as an intern in an IT consultancy nearby , recalled having seen 20 to 30 people with bleeding injuries running towards a private hospital , soon after the second blast . Five to six mangled bodies were found lying there . The first blast near the bus-stop was no less horrific . I heard a big explosion around 7 p.m. Smoke enveloped the whole area , and after it cleared , I could see six to seven people bleeding profusely . Limbs were broken and for some , the intestines had been ripped out . Soon , they were shifted to hospital , recounted L. Narsing Rao from Vani Leather Shop near the bus-stop . Rakesh , another shopkeeper , said many people had gathered outside a watch repair shop when the blast happened . Most of them fell down . The impact was so powerful that mirrors and glass doors of shops up to the third floor of the Giriji Lokeshnand Complex where the incident happened , were shattered totally . A shop named Dress Code received the maximum impact near the location . Two youngsters Rafi , 24 and Laddu , 26 who sat on the steps of the shop were seriously injured . Viewers inside the Konark theatre rushed out as the floor under their feet shook due to the blast impact . Chaos prevailed at the blast location in Dilsukhnagar . Police forced closure of shops , as rumours were rife about more bombs at other locations . Phones were jammed , and SMSs could not be sent out . Parents frantically calling their wards could not connect immediately , resulting in widespread panic . OPEN'
+p63
+sS'injured'
+p64
+S'30'
+p65
+sS'org_unorg'
+p66
+g47
+sS'O'
+p67
+(lp68
+S'Bloodstains:1'
+p69
+aS'debris:3'
+p70
+aS'mangled body parts:5'
+p71
+aS'strewn:8'
+p72
+aS'remained:13'
+p73
+aS'two locations:16'
+p74
+aS'blasts happened:21'
+p75
+aS'quick succession:24'
+p76
+aS'Eyewitness:30'
+p77
+aS'recall:32'
+p78
+aS'two blasts:33'
+p79
+aS'widespread:53'
+p80
+aS'first blast:58'
+p81
+aS'bus-stop:62'
+p82
+aS'panicky crowds:64'
+p83
+aS'Konark theatre:69'
+p84
+aS'second bomb:73'
+p85
+aS'went off:75'
+p86
+aS'small tiffin centre:79'
+p87
+aS'theatre:84'
+p88
+aS'MBA student:90'
+p89
+aS'intern:96'
+p90
+aS'IT consultancy:99'
+p91
+aS'bleeding injuries:111'
+p92
+aS'running:113'
+p93
+aS'private hospital:116'
+p94
+aS'second blast:122'
+p95
+aS'Five to six mangled bodies:125'
+p96
+aS'lying:132'
+p97
+aS'first blast:136'
+p98
+aS'bus-stop:140'
+p99
+aS'no less horrific:142'
+p100
+aS'big explosion:149'
+p101
+aS'Smoke:154'
+p102
+aS'bleeding profusely:172'
+p103
+aS'Limbs:175'
+p104
+aS'broken:177'
+p105
+aS'intestines:183'
+p106
+aS'ripped out:186'
+p107
+aS'hospital:195'
+p108
+aS'Vani Leather Shop:202'
+p109
+aS'bus-stop:207'
+p110
+aS'gathered outside:218'
+p111
+aS'blast happened:226'
+p112
+aS'fell down:232'
+p113
+aS'impact:236'
+p114
+aS'powerful:239'
+p115
+aS'mirrors and glass doors:241'
+p116
+aS'Giriji Lokeshnand Complex:254'
+p117
+aS'incident happened:259'
+p118
+aS'shattered:263'
+p119
+aS'Dress Code:269'
+p120
+aS'maximum impact:273'
+p121
+aS'seriously injured:297'
+p122
+aS'Konark theatre:303'
+p123
+aS'blast impact:317'
+p124
+aS'Chaos:320'
+p125
+aS'blast:324'
+p126
+aS'rumours:336'
+p127
+aS'bombs:341'
+p128
+aS'Phones:346'
+p129
+aS'jammed:348'
+p130
+aS'SMSs:351'
+p131
+aS'Parents frantically calling:358'
+p132
+aS'widespread panic:370'
+p133
+asS'unexpl'
+p134
+(lp135
+g47
+asS'ocassion'
+p136
+g47
+sS'link'
+p137
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/bloodstains-debris-and-mangled-body-parts/article4441123.ece'
+p138
+sS'date'
+p139
+S'21-02-2013'
+p140
+sS'target'
+p141
+S'PUBLIC PLACE'
+p142
+sS'hot_spot'
+p143
+g47
+sS'delivery_mod'
+p144
+g47
+sS'delivery_met'
+p145
+S'PLANTED'
+p146
+sS'expl'
+p147
+(lp148
+g47
+asS'ORG'
+p149
+(lp150
+s.

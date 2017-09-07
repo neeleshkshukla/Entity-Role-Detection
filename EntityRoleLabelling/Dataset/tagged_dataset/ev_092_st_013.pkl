@@ -1,0 +1,544 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Konta'
+p4
+aS'61'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Bastar'
+p8
+aS'334'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Bastar-Sukma border'
+p12
+aS'409'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Bastar'
+p16
+aS'773'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Bijapur'
+p20
+aS'861'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Nand Kumar Patel'
+p26
+aS'26'
+p27
+aS'Victim'
+p28
+aa(lp29
+S'Mahendra Karma'
+p30
+aS'33'
+p31
+aS'Victim'
+p32
+aa(lp33
+S'Kawasi Lakhma'
+p34
+aS'63'
+p35
+aS'Victim'
+p36
+aa(lp37
+S'Dr Shivnarain Dwivedi'
+p38
+aS'74'
+p39
+aS'Victim'
+p40
+aa(lp41
+S'Lakhma'
+p42
+aS'80'
+p43
+aS'Victim'
+p44
+aa(lp45
+S'Patel'
+p46
+aS'89'
+p47
+aS'Victim'
+p48
+aa(lp49
+S'Dinesh Patel'
+p50
+aS'93'
+p51
+aS'Victim'
+p52
+aa(lp53
+S'Patel'
+p54
+aS'112'
+p55
+aS'Victim'
+p56
+aa(lp57
+S'Dinesh'
+p58
+aS'114'
+p59
+aS'Victim'
+p60
+aa(lp61
+S'Lakhma'
+p62
+aS'188'
+p63
+aS'Victim'
+p64
+aa(lp65
+S'Patel'
+p66
+aS'197'
+p67
+aS'Victim'
+p68
+aa(lp69
+S'Dinesh'
+p70
+aS'199'
+p71
+aS'Victim'
+p72
+aa(lp73
+S'Lakhma'
+p74
+aS'228'
+p75
+aS'Victim'
+p76
+aa(lp77
+S'Mahendra Karma'
+p78
+aS'259'
+p79
+aS'Victim'
+p80
+aa(lp81
+S'Lakhma'
+p82
+aS'315'
+p83
+aS'Victim'
+p84
+aa(lp85
+S'Lakheshwar Baghel'
+p86
+aS'337'
+p87
+aS'Victim'
+p88
+aa(lp89
+S'Ravi Kumar'
+p90
+aS'496'
+p91
+aS'Victim'
+p92
+aa(lp93
+S'Kumar'
+p94
+aS'574'
+p95
+aS'Victim'
+p96
+aa(lp97
+S'Karma'
+p98
+aS'640'
+p99
+aS'Victim'
+p100
+aa(lp101
+S'Raman Singh'
+p102
+aS'664'
+p103
+aS'Others'
+p104
+aa(lp105
+S'Mayank Srivastava'
+p106
+aS'775'
+p107
+aS'Others'
+p108
+aa(lp109
+S'Shukla'
+p110
+aS'817'
+p111
+aS'Victim'
+p112
+aa(lp113
+S'Jairam Ramesh'
+p114
+aS'868'
+p115
+aS'Others'
+p116
+aasS'TIM'
+p117
+(lp118
+S'6 pm : 176'
+p119
+aS'90 minutes : 179'
+p120
+aS'9 pm : 369'
+p121
+aS'90 minutes : 530'
+p122
+aS'20 minutes : 570'
+p123
+aS'6.15 pm : 790'
+p124
+asS'hot_setting'
+p125
+S''
+p126
+sS'DAT'
+p127
+(lp128
+S'Sunday : 580'
+p129
+aS'Saturday : 647'
+p130
+aS'Sunday : 829'
+p131
+asS'death'
+p132
+g126
+sS'title'
+p133
+S'Shukla injured, PSO shot himself: Sorry sahab, I could not protect you'
+p134
+sS'org_unorg'
+p135
+S'ORGANISED'
+p136
+sS'terror_group'
+p137
+(lp138
+S'COMMUNIST PARTY OF INDIA (MAOIST)'
+p139
+asS'content'
+p140
+VIn fact , evidence indicates that rather than an attack to eliminate top Congress leaders , the Maoists ' target was only two PCC chief Nand Kumar Patel and Salwa Judum architect Mahendra Karma . All the others probably died in the crossfire , as Maoists later let the survivors go . They even gave water to some , including Konta MLA Kawasi Lakhma , and administered a painkiller injection to Congress leader Dr Shivnarain Dwivedi . . . Lakhma , who was in the same vehicle as Patel and his son Dinesh Patel -LRB- both of whom were killed -RRB- , corroborated this . As firing began , he , Patel , Dinesh and the four others in their vehicle hid in a roadside ditch . `` Some Maoists spotted us and asked us to surrender . I surrendered but did not reveal my identity ... They took us a little inside the forest and made us wait there for nearly two hours , '' he told The Indian Express . . . Around 6 pm , 90 minutes after the attack began , Maoists asked Lakhma and the others to leave , but took Patel and Dinesh away . `` As we turned back , we heard heavy fire ... I knew it was probably over , '' he said . . . An injured Lakhma was lucky to find a bike at the spot with the key in the ignition . Another survivor drove him to Darbha thana . . . The other target , Mahendra Karma , surrendered soon after his securitymen ran out of bullets . Eyewitnesses say he told the Maoists to let the others go as he was their only enemy . The rebels then took him away and beat him before killing him . `` We heard slogans , ` Mahendra Karma Murdabad ' , `` Lakhma said . . . Among those asked to leave by the Maoists soon after the attack began was Bastar Congress leader Lakheshwar Baghel . `` As firing began , we came out of our vehicles . They asked us to run away ... We walked for 30-40 km before reaching a village around 9 pm , '' he said . . . The tactic the Maoists employed was simple , and familiar . They first laid an ambush on the hilly , serpentine NH 221 , surrounded by thick forests , on the Bastar-Sukma border , then exploded an IED , creating a crater on the ground . As the vehicles slowed down , they opened indiscriminate fire . The massive explosion completely damaged the fourth vehicle in the convoy , a Bolero , with its pieces scattered across a large area . . . `` We tried to drive fast , but found little space . In the hurry , vehicles collided with each other and we were blocked ... could n't move backward or forward , '' said Ravi Kumar , one of the drivers . `` Some of our PSOs came out , took positions , but the Maoists had surrounded us . '' . . The firing continued for over 90 minutes , till the securitymen ran out of ammunition . `` We came out , hands on head . Maoists took us inside the forest , asked us to lie down , and asked us to leave after around 20 minutes , '' Kumar said . . . On Sunday noon , he was back at the spot , fixing his vehicle . . . While the state Congress 's charge of a `` conspiracy '' may be a bit misplaced , nobody is questioning the shocking security failure that made the Maoists ' task easy . Despite the important leaders that were a part of it , especially Karma , the Congress 's convoy on Saturday was travelling through this Naxal-dominated area with practically nil security . Contrast it with Chief Minister Raman Singh 's Vikas Yatra in the district , during which 3,000 cops were deployed at each rally point . . . Besides , while the Darbha thana and a major CRPF camp are just 10 km from the spot and police got the information about the attack within minutes , it took them nearly two hours to reach . A contingent left the thana immediately but claims they were `` prevented '' from proceeding by a Maoist blockade after a few kilometres . . . `` Maoists had blocked the road by felling trees , '' said a policeman who was part of the team . . . Bastar SP Mayank Srivastava said he had personally accompanied the contingent and they reached the spot by 6.15 pm . `` The attack had ended when we reached . We did not face any resistance , '' he said . . . The vehicle Shukla was in was in the middle of the convoy . On Sunday , behind the bullet-marked Land Cruiser lay a Hindi newspaper , among his other belongings . The front page carried a report on the recent Parivartan Yatra by the Congress in Bijapur attended by Union Rural Development Minister Jairam Ramesh . It carried the details of the Congress 's changing approach towards Maoists , with the headline : ` Goli ka jawab vikaas se denge -LRB- Will fight bullets with development -RRB- ' . . . In many ways , it summed up the story of the fight against Maoists today . Development remains elusive , bullets continue .
+p141
+sS'injured'
+p142
+g126
+sS'det_loc'
+p143
+(lp144
+S'India'
+p145
+aS'Chattisgarh'
+p146
+aS'Bastar'
+p147
+ag126
+ag126
+asS'O'
+p148
+(lp149
+S'In:1'
+p150
+aS'target:20'
+p151
+aS'PCC chief:24'
+p152
+aS'architect:32'
+p153
+aS'MLA:62'
+p154
+aS'painkiller injection:69'
+p155
+aS'Congress leader:72'
+p156
+aS'son:92'
+p157
+aS'four others:117'
+p158
+aS'roadside ditch:125'
+p159
+aS'surrendered:140'
+p160
+aS'inside the forest:153'
+p161
+aS'nearly two hours:162'
+p162
+aS'Darbha thana:250'
+p163
+aS'Eyewitnesses:272'
+p164
+aS'beat:297'
+p165
+aS'slogans:306'
+p166
+aS'Mahendra Karma Murdabad:309'
+p167
+aS'Congress leader:335'
+p168
+aS'walked:360'
+p169
+aS'30-40 km:362'
+p170
+aS'village:367'
+p171
+aS'ambush:393'
+p172
+aS'NH 221:399'
+p173
+aS'IED:415'
+p174
+aS'vehicles:426'
+p175
+aS'slowed down:427'
+p176
+aS'indiscriminate fire:432'
+p177
+aS'damaged:439'
+p178
+aS'fourth vehicle:441'
+p179
+aS'convoy:445'
+p180
+aS'Bolero:448'
+p181
+aS'PSOs:508'
+p182
+aS'securitymen:535'
+p183
+aS'ran out:536'
+p184
+aS'ammunition:539'
+p185
+aS'conspiracy:605'
+p186
+aS'security failure:618'
+p187
+aS'task easy:625'
+p188
+aS'Naxal-dominated area:652'
+p189
+aS'nil security:656'
+p190
+aS'Chief Minister:662'
+p191
+aS'Vikas Yatra:667'
+p192
+aS'3,000 cops:675'
+p193
+aS'Darbha thana:690'
+p194
+aS'major CRPF camp:694'
+p195
+aS'10 km:699'
+p196
+aS'spot:703'
+p197
+aS'police:705'
+p198
+aS'information:708'
+p199
+aS'attack:711'
+p200
+aS'minutes:713'
+p201
+aS'nearly two hours:718'
+p202
+aS'reach:722'
+p203
+aS'contingent:725'
+p204
+aS'immediately:729'
+p205
+aS'prevented:735'
+p206
+aS'Maoist blockade:741'
+p207
+aS'few kilometres:745'
+p208
+aS'blocked:753'
+p209
+aS'road:755'
+p210
+aS'felling trees:757'
+p211
+aS'SP:774'
+p212
+aS'Parivartan Yatra:855'
+p213
+aS'Union Rural Development:864'
+p214
+aS'Minister:867'
+p215
+aS'details:874'
+p216
+aS'changing approach:879'
+p217
+aS'Goli ka jawab vikaas se denge:889'
+p218
+aS'Will fight bullets with development:896'
+p219
+aS'Development:922'
+p220
+aS'elusive:924'
+p221
+aS'bullets:926'
+p222
+aS'continue:927'
+p223
+asS'unexpl'
+p224
+(lp225
+g126
+asS'ocassion'
+p226
+g126
+sS'link'
+p227
+S'http://archive.indianexpress.com/news/shukla-injured-pso-shot-himself--sorry-sahab-i-could-not-protect-you-/1121087/0'
+p228
+sS'date'
+p229
+S'27-05-2013'
+p230
+sS'target'
+p231
+S'POLITICAL RALLY'
+p232
+sS'hot_spot'
+p233
+g126
+sS'delivery_mod'
+p234
+g126
+sS'delivery_met'
+p235
+g126
+sS'expl'
+p236
+(lp237
+S'IED'
+p238
+asS'ORG'
+p239
+(lp240
+(lp241
+S'Maoists'
+p242
+aS'18'
+p243
+aS'Accused'
+p244
+aa(lp245
+S'Salwa Judum'
+p246
+aS'30'
+p247
+aS'Victim'
+p248
+aa(lp249
+S'Maoists'
+p250
+aS'130'
+p251
+aS'Accused'
+p252
+aa(lp253
+S'The Indian Express'
+p254
+aS'169'
+p255
+aS'Others'
+p256
+aa(lp257
+S'Maoists'
+p258
+aS'277'
+p259
+aS'Accused'
+p260
+aa(lp261
+S'Maoists'
+p262
+aS'327'
+p263
+aS'Accused'
+p264
+aa(lp265
+S'Maoists'
+p266
+aS'381'
+p267
+aS'Accused'
+p268
+aa(lp269
+S'Maoists'
+p270
+aS'517'
+p271
+aS'Accused'
+p272
+aa(lp273
+S'Maoists'
+p274
+aS'550'
+p275
+aS'Accused'
+p276
+aa(lp277
+S'Maoists'
+p278
+aS'623'
+p279
+aS'Accused'
+p280
+aa(lp281
+S'Congress'
+p282
+aS'859'
+p283
+aS'Others'
+p284
+aa(lp285
+S'Congress'
+p286
+aS'877'
+p287
+aS'Victim'
+p288
+aa(lp289
+S'Maoists'
+p290
+aS'882'
+p291
+aS'Accused'
+p292
+aas.

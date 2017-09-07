@@ -1,0 +1,172 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "71", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "225", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "245", 
+            "Event"
+        ], 
+        [
+            "Koti", 
+            "306", 
+            "Neutral"
+        ], 
+        [
+            "Kothapet", 
+            "376", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shaik Jani Pasha", 
+            "53", 
+            "Comment"
+        ], 
+        [
+            "Pasha", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Pasha", 
+            "209", 
+            "Others"
+        ], 
+        [
+            "N. Satyanarayana", 
+            "241", 
+            "Others"
+        ], 
+        [
+            "Chiranjeevi", 
+            "249", 
+            "Others"
+        ], 
+        [
+            "Chiranjeevi", 
+            "351", 
+            "Others"
+        ], 
+        [
+            "Pasha", 
+            "379", 
+            "Others"
+        ], 
+        [
+            "Pashas", 
+            "435", 
+            "Others"
+        ], 
+        [
+            "A.K. Khan", 
+            "442", 
+            "Others"
+        ], 
+        [
+            "Pasha", 
+            "533", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 21 : 73", 
+        "Thursday : 389", 
+        "Saturday : 445"
+    ], 
+    "death": "", 
+    "title": "Love in the midst of misfortune", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The memory refuses to fade away . It is over a month , but the pathetic sight of a young girl dying in his arms keeps flashing in his mind . She breathed her last in my arms as I was shifting her into a bus . I felt wretched , said Shaik Jani Pasha , an RTC driver , as he recalled the scenes from the twin blasts at Dilsukhnagar on February 21 . On the dreadful day , when most ran helter-skelter after the bombs went off , Pasha rushed to the site to help the injured . In fact , it was his initiative that saved many lives . As the blast at Anand tiffin centre ripped through the market , motorcycles flew up in the air , and people fell apart . It was like an action scene from an English movie , and soon bodies were strewn all over , he recalled with a shudder . Even before I could react , another blast occurred at the 107 bus stop . Fire and smoke enveloped the site at Anand tiffin centre , and I ran towards the bus stop . People were injured badly and were crying in shock and pain , Mr. Pasha said . It was his weekly off , and he was having tea at the Dilsukhnagar bus stand when the blasts occurred . Immediately , he called up Malakpet Police Inspector N. Satyanarayana and later Dilsukhnagar RTC Depot Manager Chiranjeevi . I informed them that I was shifting the injured into buses and sending them to hospital . Time was crucial , recalled the 44-year-old . The sight of two children , aged about two years , crying near their mother moved him . He stopped a Metro Express bus and two ordinary buses heading towards Koti and shifted the injured into them . I made sure that all the injured were shifted immediately , and students from nearby hostels also helped me . Thankfully , police ensured that the buses had a clear passage , he said . Meanwhile , Chiranjeevi pointed out that had he waited for an ambulance instead of using the buses , casualties would have been higher . A resident of Kothapet , Mr. Pasha volunteers in organising services at Sai Baba Temple every Thursday . Just days before the blast , police had instructed all pushcart vendors and others near Venkatdri theatre to shift their operations . This saved many lives as there was not much of pedestrian traffic on the fateful day , he reminisced . Lauding Mr. Pashas initiative , APSRTC Vice-Chairman and MD A.K. Khan on Saturday presented him a cash award of Rs . 25,000 and an appreciation letter . Even before I could react , another blast occurred at 107 bus stop . Fire and smoke enveloped the site at Anand tiffin centre . People were injured badly and were crying in shock and pain . Just days before the blast , police had instructed all pushcart vendors near Venkatdri theatre to shift . This saved many lives as there was not much of pedestrian traffic . On the dreadful day , Pasha rushed to the blast sites to help the injured and shifted them to hospital , saving many lives OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Dilshuknagar", 
+        ""
+    ], 
+    "O": [
+        "memory refuses:2", 
+        "pathetic sight:16", 
+        "wretched:50", 
+        "RTC driver:58", 
+        "twin blasts:68", 
+        "dreadful day:78", 
+        "helter-skelter:84", 
+        "bombs:87", 
+        "injured:99", 
+        "blast:115", 
+        "Anand tiffin centre:117", 
+        "motorcycles flew up:125", 
+        "English movie:145", 
+        "strewn:152", 
+        "shudder:160", 
+        "blast:169", 
+        "107 bus stop:173", 
+        "Fire and smoke:177", 
+        "Anand tiffin centre:184", 
+        "injured badly:198", 
+        "Dilsukhnagar bus stand:225", 
+        "blasts:230", 
+        "Malakpet Police Inspector N. Satyanarayana:238", 
+        "Dilsukhnagar RTC Depot Manager Chiranjeevi:245", 
+        "Metro Express bus:297", 
+        "two ordinary buses:301", 
+        "ambulance:360", 
+        "Sai Baba Temple:385", 
+        "pushcart vendors:401", 
+        "Venkatdri theatre:406", 
+        "operations:411", 
+        "pedestrian traffic:423", 
+        "fateful day:427", 
+        "cash award:449", 
+        "Rs . 25,000:452", 
+        "appreciation letter:457", 
+        "107 bus stop:470", 
+        "Fire and smoke:474", 
+        "Anand tiffin centre:481", 
+        "injured badly:487", 
+        "shock and pain:493", 
+        "pushcart vendors:507", 
+        "Venkatdri theatre:510", 
+        "pedestrian traffic:525", 
+        "dreadful day:530", 
+        "blast sites:537", 
+        "injured and shifted:542"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/love-in-the-midst-of-misfortune/article4552748.ece", 
+    "date": "21-02-2013", 
+    "target": "PUBLIC TRANSPORT", 
+    "hot_spot": "", 
+    "delivery_mod": "MOTORCYCLES", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "APSRTC", 
+            "438", 
+            "Others"
+        ]
+    ]
+}

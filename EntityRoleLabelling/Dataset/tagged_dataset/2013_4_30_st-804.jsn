@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "Syrian", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Damascus", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Mazzeh", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "Mazzeh", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Damascus", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "public garden", 
+            "132", 
+            "Source"
+        ], 
+        [
+            "school", 
+            "136", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Wael al-Halqi", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Wael al-Halqi", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "Halqi", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Rami Abdel Rahman", 
+            "107", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:11"
+    ], 
+    "death": "1", 
+    "title": "Syrian PM survives bid on life", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        "DAMASCUS", 
+        "Damascus"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Syrian Prime Minister Wael al-Halqi escaped an assassination bid on Monday , surviving a blast that targeted his convoy in Damascus , Syrian state television reported . One of his bodyguards was killed in the attack which left a second bodyguard and his driver seriously injured , the Syrian Observatory for Human Rights watchdog said . `` The terrorist explosion in Mazzeh was an attempt to target the prime minister 's convoy and Dr. Wael al-Halqi was unharmed , '' state television reported . The Observatory reported that a car bomb targeted Halqi 's convoy as it passed through the Mazzeh district of Damascus . Director Rami Abdel Rahman told AFP that the bomb appeared to have been detonated from a distance . State television said the explosion happened near a public garden and a school in the neighbourhood , a well-secured district that is home to embassies , government buildings , intelligence facilities and several political figures . `` I was walking in the street when suddenly there was a very powerful explosion and I saw a car burning and people running , '' a young man told AFP at the scene . `` I heard glass shattering , '' he added , saying he had tried to hide for fear a second explosion would follow . OPEN", 
+    "injured": "1", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "prime minister:2", 
+        "assassination bid:8", 
+        "convoy:19", 
+        "bodyguards:31", 
+        "driver:44", 
+        "syrian:49", 
+        "watchdog:54", 
+        "prime minister:69", 
+        "convoy:72", 
+        "observatory:86", 
+        "director:106", 
+        "detonated:119", 
+        "explosion:128", 
+        "public garden:132", 
+        "neighbourhood:139", 
+        "government:150", 
+        "intelligence:153", 
+        "saw:177", 
+        "car:179", 
+        "afp:190"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/syrian-pm-survives-bid-on-life/article4668373.ece", 
+    "date": "29-04-2013", 
+    "target": "POLICE AND DEFENCE FORCES", 
+    "hot_spot": "prime minister 's convoy", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Syrian state television", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "Human Rights", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "terrorist", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "State television", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "150", 
+            "Others"
+        ], 
+        [
+            "intelligence", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "political", 
+            "157", 
+            "Others"
+        ]
+    ]
+}

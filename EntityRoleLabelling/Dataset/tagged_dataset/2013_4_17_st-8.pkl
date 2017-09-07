@@ -1,0 +1,204 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Boston'
+p4
+aS'11'
+p5
+aS'Event'
+p6
+aasS'PER'
+p7
+(lp8
+(lp9
+S'Barack Obama'
+p10
+aS'91'
+p11
+aS'Comment'
+p12
+aa(lp13
+S'Obama'
+p14
+aS'129'
+p15
+aS'Comment'
+p16
+aasS'TIM'
+p17
+(lp18
+S'2.45 p.m. : 58'
+p19
+asS'hot_setting'
+p20
+S'Boston Marathon'
+p21
+sS'DAT'
+p22
+(lp23
+S'Monday : 61'
+p24
+aS'Monday night : 194'
+p25
+aS'Tuesday morning : 214'
+p26
+asS'death'
+p27
+S'3'
+p28
+sS'title'
+p29
+S'FBI scours Boston'
+p30
+sS'det_loc'
+p31
+(lp32
+S'United States'
+p33
+aS''
+p34
+ag34
+aS'Boston'
+p35
+aS'Last quarter-mile of the Boston Marathon in Boston'
+p36
+asS'terror_group'
+p37
+(lp38
+g34
+asS'content'
+p39
+S'Death and destruction struck in the last quarter-mile of the Boston Marathon . Among the nearly 27,000 runners in the worlds oldest marathon , those making their way towards the final stretch of the 26.2-mile run may have felt nothing but a combination of exhilaration and exhaustion . Yet , as they approached the finish line at 2.45 p.m. on Monday the unsuspecting runners were violently hurled to the ground by the force of a powerful shockwave from coordinated twin blasts of shrapnel-spewing bombs . The blasts , which President Barack Obama described as a heinous and cowardly act ... of terror , left at least three persons dead and more than 176 injured . Speaking in a subdued but determined tone at the White House , Mr. Obama admitted : What we dont yet know , however , is who carried out this attack , or why ; whether it was planned and executed by a terrorist organisation , foreign or domestic , or was the act of a malevolent individual . He cautioned that people shouldnt jump to conclusions before we have all the facts . At a press conference on Monday night , the Federal Bureau of Investigation announced that it was taking charge of the bombings probe . On Tuesday morning , The Boston Globe reported that the FBI had raided the Waters Edge apartment complex at 364 Ocean Avenue , fuelling questions about home-grown terror . OPEN'
+p40
+sS'injured'
+p41
+S'176'
+p42
+sS'org_unorg'
+p43
+S'ORGANISED'
+p44
+sS'O'
+p45
+(lp46
+S'death and destruction:1'
+p47
+aS'last quarter-mile:7'
+p48
+aS'boston marathon:11'
+p49
+aS'27,000 runners:17'
+p50
+aS'worlds oldest marathon:21'
+p51
+aS'final stretch:31'
+p52
+aS'26.2-mile run:35'
+p53
+aS'exhilaration:45'
+p54
+aS'exhaustion:47'
+p55
+aS'finish line:55'
+p56
+aS'unsuspecting runners:63'
+p57
+aS'violently hurled:66'
+p58
+aS'powerful shockwave:76'
+p59
+aS'twin blasts:80'
+p60
+aS'shrapnel-spewing bombs:83'
+p61
+aS'blasts:87'
+p62
+aS'President Barack Obama:90'
+p63
+aS'heinous and cowardly act:96'
+p64
+aS'terror:102'
+p65
+aS'White House:125'
+p66
+aS'attack:145'
+p67
+aS'terrorist organisation:158'
+p68
+aS'malevolent individual:171'
+p69
+aS'press conference:191'
+p70
+aS'bombings probe:210'
+p71
+aS'raided:225'
+p72
+aS'Waters Edge:227'
+p73
+aS'364 Ocean Avenue:232'
+p74
+aS'home-grown terror:239'
+p75
+asS'unexpl'
+p76
+(lp77
+S'SHRAPNEL'
+p78
+asS'ocassion'
+p79
+S'SPORTS TOURNAMENT'
+p80
+sS'link'
+p81
+S'http://www.thehindu.com/todays-paper/fbi-scours-boston/article4625391.ece'
+p82
+sS'date'
+p83
+S'15-04-2013'
+p84
+sS'target'
+p85
+S'SPORTS VENUE'
+p86
+sS'hot_spot'
+p87
+S'Last quarter-mile of the 26.2-mile run of the Boston Marathon'
+p88
+sS'delivery_mod'
+p89
+g34
+sS'delivery_met'
+p90
+S'PLANTED'
+p91
+sS'expl'
+p92
+(lp93
+g34
+asS'ORG'
+p94
+(lp95
+(lp96
+S'Federal Bureau of Investigation'
+p97
+aS'198'
+p98
+aS'Others'
+p99
+aa(lp100
+S'The Boston Globe'
+p101
+aS'217'
+p102
+aS'Others'
+p103
+aa(lp104
+S'FBI'
+p105
+aS'223'
+p106
+aS'Others'
+p107
+aas.

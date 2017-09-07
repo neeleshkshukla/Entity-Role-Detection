@@ -1,0 +1,88 @@
+{
+    "LOC": [
+        [
+            "Sri Lanka", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Cuddalore", 
+            "73", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sivanesan", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Maheswaran", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "Gopi", 
+            "34", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 10", 
+        "December 2012 : 76"
+    ], 
+    "death": "", 
+    "title": "Former LTTE cadres arrested", 
+    "det_loc": [
+        "Sri Lanka", 
+        "", 
+        "", 
+        "Cuddalore", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Q Branch CID of the State Intelligence on Friday arrested two persons alleged to be former LTTE cadres . Acting on a tip-off , a special team apprehended Sivanesan and Maheswaran alias Gopi , both Sri Lankan nationals , here . Agency sources said the duo was part of a gang that conspired to trigger bomb blasts in Sri Lanka . They carried out trial blasts at a remote location in Cuddalore districts in December 2012 . Special Correspondent OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "State Intelligence:7", 
+        "arrested:11", 
+        "LTTE cadres:18", 
+        "Sri Lankan nationals:37", 
+        "Agency sources:43", 
+        "gang:52", 
+        "trigger bomb blasts:56", 
+        "trial blasts:66", 
+        "remote location:70"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/former-ltte-cadres-arrested/article5077971.ece", 
+    "date": "30-08-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "TRIAL", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Q Branch CID", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "LTTE", 
+            "18", 
+            "Others"
+        ]
+    ]
+}

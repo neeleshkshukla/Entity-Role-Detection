@@ -1,0 +1,338 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Ahmedabad'
+p4
+aS'6'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Ambur'
+p8
+aS'119'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Chennai'
+p12
+aS'183'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'New Delhi'
+p16
+aS'191'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Aligarh'
+p20
+aS'201'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'New Delhi'
+p24
+aS'235'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Kochi'
+p28
+aS'322'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'New Delhi'
+p32
+aS'390'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Alwaye'
+p36
+aS'400'
+p37
+aS'Neutral'
+p38
+aasS'PER'
+p39
+(lp40
+(lp41
+S'V.M. Khaleelur Rahman'
+p42
+aS'113'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Rettavayal S. Krishnaswamy'
+p46
+aS'177'
+p47
+aS'Others'
+p48
+aa(lp49
+S'P. Malhotra'
+p50
+aS'186'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Rashid G. Khan'
+p54
+aS'195'
+p55
+aS'Others'
+p56
+aa(lp57
+S'Yasir Malik'
+p58
+aS'230'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Thehseen Zakir'
+p62
+aS'317'
+p63
+aS'Others'
+p64
+aa(lp65
+S'Ustad Humaid'
+p66
+aS'385'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Ajmeera A. Azeez'
+p70
+aS'394'
+p71
+aS'Others'
+p72
+aasS'TIM'
+p73
+(lp74
+sS'hot_setting'
+p75
+S''
+p76
+sS'DAT'
+p77
+(lp78
+S'Aug. 1 : 13'
+p79
+asS'death'
+p80
+g76
+sS'title'
+p81
+S'Ahmedabad blasts'
+p82
+sS'det_loc'
+p83
+(lp84
+S'India'
+p85
+aS'Gujarat'
+p86
+aS'Ahmedabad'
+p87
+aS'Ahmedabad'
+p88
+ag76
+asS'terror_group'
+p89
+(lp90
+g76
+asS'content'
+p91
+VThis refers to the article Ahmedabad blasts : the usual suspects -LRB- Aug. 1 -RRB- . Indian Muslims are peace-loving . It would be better for national integration if stories and articles of sacrifices made by Muslims for their country and their achievements are published , instead of repeating the views of the lunatic fringe gone astray . . . Indian Muslims proudly sing sare jahaan say achcha Hindustan hamaara and are second to none in patriotism . Let the author give some useful suggestions to enable the police and intelligence agencies to nab the culprits who plant bombs and kill innocent people . They belong to no religion . . . V.M. Khaleelur Rahman , . . Ambur . . By reproducing the so-called manifesto of an unknown organisation , which has the most blasphemous content against a religion , the article has given legitimacy to it . There are umpteen organisations with radical ideologies which civil society can not accept . One hopes such content will not be published in future . . . Rettavayal S. Krishnaswamy , . . Chennai . . P. Malhotra , . . New Delhi . . Rashid G. Khan , . . Aligarh . . The media must observe caution , and refrain from dragging the names of religious scholars who work tirelessly to eliminate antipathy among people . . . Yasir Malik , . . New Delhi . . What is the solution ? Prompt apprehension and punishment of miscreants by the government could have averted many disasters . Sadly , the wheels of justice turn in an excruciatingly slow manner . The sane majority can make a difference by reassuring those affected and providing physical , financial and , most important of all , psychological help to them . Religious leaders should invite them to walk the tougher path of forgiveness and forbearance . . . Thehseen Zakir , . . Kochi . . It is worrisome that a bomb blast in any corner of the world spells trouble for Muslims . Whether or not a Muslim is attached to an organisation , he or she feels suspected , secretly followed , and directly or indirectly targeted . In this sense , every blast is an attack on Islam and Muslims . . . Ustad Humaid , . . New Delhi . . Ajmeera A. Azeez , . . Alwaye .
+p92
+sS'injured'
+p93
+g76
+sS'org_unorg'
+p94
+g76
+sS'O'
+p95
+(lp96
+S'ahmedabad blasts:6'
+p97
+aS'usual suspects:10'
+p98
+aS'indian muslims:17'
+p99
+aS'national integration:27'
+p100
+aS'sacrifices:34'
+p101
+aS'muslims:37'
+p102
+aS'achievements:43'
+p103
+aS'lunatic fringe:54'
+p104
+aS'indian muslims:61'
+p105
+aS'proudly:63'
+p106
+aS'sare jahaan say achcha hindustan hamaara:65'
+p107
+aS'patriotism:77'
+p108
+aS'intelligence agencies:91'
+p109
+aS'culprits:96'
+p110
+aS'plant bombs:98'
+p111
+aS'kill:101'
+p112
+aS'innocent people:102'
+p113
+aS'reproducing:123'
+p114
+aS'manifesto:126'
+p115
+aS'unknown organisation:129'
+p116
+aS'blasphemous:136'
+p117
+aS'religion:140'
+p118
+aS'legitimacy:146'
+p119
+aS'umpteen organisations:152'
+p120
+aS'radical ideologies:155'
+p121
+aS'civil society:158'
+p122
+aS'future:173'
+p123
+aS'media:205'
+p124
+aS'caution:208'
+p125
+aS'refrain:211'
+p126
+aS'dragging:213'
+p127
+aS'religious scholars:217'
+p128
+aS'tirelessly:221'
+p129
+aS'eliminate:223'
+p130
+aS'antipathy:224'
+p131
+aS'punishment:247'
+p132
+aS'miscreants:249'
+p133
+aS'averted:255'
+p134
+aS'disasters:257'
+p135
+aS'wheels of justice:262'
+p136
+aS'excruciatingly:268'
+p137
+aS'slow manner:269'
+p138
+aS'sane majority:273'
+p139
+aS'reassuring:280'
+p140
+aS'religious leaders:300'
+p141
+aS'tougher path:308'
+p142
+aS'forgiveness:311'
+p143
+aS'forbearance:313'
+p144
+aS'worrisome:327'
+p145
+aS'bomb blast:330'
+p146
+aS'spells:338'
+p147
+aS'trouble:339'
+p148
+aS'muslims:341'
+p149
+aS'muslim:347'
+p150
+aS'organisation:352'
+p151
+aS'feels suspected:357'
+p152
+aS'targeted:367'
+p153
+aS'blast:374'
+p154
+aS'attack:377'
+p155
+aS'islam:379'
+p156
+aS'muslims:381'
+p157
+asS'unexpl'
+p158
+(lp159
+g76
+asS'ocassion'
+p160
+g76
+sS'link'
+p161
+S'http://www.thehindu.com/todays-paper/tp-opinion/ahmedabad-blasts/article1306517.ece'
+p162
+sS'date'
+p163
+S'01-08-2008'
+p164
+sS'target'
+p165
+g76
+sS'hot_spot'
+p166
+g76
+sS'delivery_mod'
+p167
+g76
+sS'delivery_met'
+p168
+g76
+sS'expl'
+p169
+(lp170
+g76
+asS'ORG'
+p171
+(lp172
+(lp173
+S'government'
+p174
+aS'252'
+p175
+aS'Others'
+p176
+aas.

@@ -1,0 +1,383 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Ludhiana'
+p4
+aS'15'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Ludhiana'
+p8
+aS'19'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Sarmala road'
+p12
+aS'69'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Ludhiana'
+p16
+aS'180'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Punjab'
+p20
+aS'343'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Ludhiana'
+p24
+aS'410'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Ajmer Dargah'
+p28
+aS'434'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Rajasthan'
+p32
+aS'437'
+p33
+aS'Accused Location'
+p34
+aa(lp35
+S'Chandigarh'
+p36
+aS'451'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Punjab'
+p40
+aS'455'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Ajmer'
+p44
+aS'510'
+p45
+aS'Assoc Event Location'
+p46
+aa(lp47
+S'Ludhiana'
+p48
+aS'552'
+p49
+aS'Event'
+p50
+aasS'PER'
+p51
+(lp52
+(lp53
+S'Chandrashekar'
+p54
+aS'150'
+p55
+aS'Comment'
+p56
+aa(lp57
+S'Ishwar Singh'
+p58
+aS'182'
+p59
+aS'Comment'
+p60
+aa(lp61
+S'N. P. Singh'
+p62
+aS'214'
+p63
+aS'Comment'
+p64
+aa(lp65
+S'Madhukar Gupta'
+p66
+aS'350'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Mr. Gupta'
+p70
+aS'376'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Shivraj Patil'
+p74
+aS'381'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Sarabjit Pandher'
+p78
+aS'447'
+p79
+aS'Others'
+p80
+aa(lp81
+S'N.P.S. Aulakh'
+p82
+aS'458'
+p83
+aS'Comment'
+p84
+aa(lp85
+S'R.K. Jaiswal'
+p86
+aS'554'
+p87
+aS'Comment'
+p88
+aasS'TIM'
+p89
+(lp90
+S'8.40 p.m. : 108'
+p91
+aS'7 p.m. : 115'
+p92
+asS'hot_setting'
+p93
+S''
+p94
+sS'DAT'
+p95
+(lp96
+S'Sunday night : 21'
+p97
+aS'Thursday : 416'
+p98
+asS'death'
+p99
+S'6'
+p100
+sS'title'
+p101
+S'Six killed, 25 injured in Ludhiana cinema hall blast'
+p102
+sS'org_unorg'
+p103
+g94
+sS'terror_group'
+p104
+(lp105
+g94
+asS'content'
+p106
+VAppears to be the handiwork of some terror outfit , say police . . Ludhiana : Terror struck Ludhiana on Sunday night when six people were killed and 25 injured in a blast in one of the three cinema halls in a multiplex in a busy shopping area of this industrial town . . . It was not immediately known what caused the explosion in the multiplex on Sarmala road , which was teeming with hundreds of people . . . Janan Janam Ke Saath was being screened in the hall , which has a capacity for an audience of 600 , when the explosion occurred at 8.40 p.m. . The show started at 7 p.m. . . The police , who did not rule out the hand of terrorists , said the casualties could go up . Limbs of some of the dead were seen . . . Chandrashekar , ADGP -LRB- Law and Order -RRB- , said the blast appeared to have been caused by a bomb . . . Victims yet to be identified . . Ludhiana DIG Ishwar Singh said half of the injured were critical and the victims were yet to be identified . The cause of the blast is yet to be ascertained . . . DGP N. P. Singh said four people died on the spot and two in hospital . . . One person came inside the theatre during interval time and the needle of suspicion was on him . . . Windowpanes in the multiplex were smashed and several chairs in the cinema hall destroyed . The blast took place under a seat in the third row of second block of the theatre . . . Immediately after the blast , panic-stricken people rushed out of the theatre , officials said . . . Creates a crater . . The intensity of the blast was such that it created a big crater in the hall and smashed the window panes . . . The Union government is closely monitoring the security situation in Punjab . . . Union Home Secretary Madhukar Gupta spoke to Punjabs Chief Secretary and Director-General of Police to have first hand information about the incident , official sources said . . . Mr. Gupta apprised Home Minister Shivraj Patil of the situation . The Centre has assured all assistance to the State government . It was also rushing bomb experts from the National Security Guards to Ludhiana . . . Only on Thursday last , two people were killed and nearly a dozen injured in a bomb attack on the Ajmer Dargah in Rajasthan . PTI . . Handiwork of terrorists . . Sarabjit Pandher reports from Chandigarh : . . Punjab police chief N.P.S. Aulakh said that from the preliminary investigations , it appeared to be the handiwork of some terror outfit . . . The exact nature of the device and the explosive used would be confirmed by forensic experts . . . Keeping in view the coming festival season and the blast in Ajmer , the police have sounded an alert all over the State . . . Vigil at sensitive places had been tightened and night patrol intensified . . . Talking to reporters at the site of the incident , police chief of Ludhiana district R.K. Jaiswal , said it was suspected that RDX was used . . . The incident has sent a wave of scare across the State . Senior officers were closeted in meetings .
+p107
+sS'injured'
+p108
+S'25'
+p109
+sS'det_loc'
+p110
+(lp111
+S'India'
+p112
+aS'Punjab'
+p113
+aS'Ludhiana'
+p114
+ag94
+ag94
+asS'O'
+p115
+(lp116
+S'handiwork:5'
+p117
+aS'terror outfit:8'
+p118
+aS'Terror struck:17'
+p119
+aS'blast:33'
+p120
+aS'three cinema halls:38'
+p121
+aS'multiplex:43'
+p122
+aS'busy shopping area:46'
+p123
+aS'industrial town:51'
+p124
+aS'explosion:64'
+p125
+aS'multiplex:67'
+p126
+aS'Janan Janam Ke Saath:82'
+p127
+aS'audience of 600:99'
+p128
+aS'explosion:105'
+p129
+aS'terrorists:130'
+p130
+aS'Law and Order:154'
+p131
+aS'blast:161'
+p132
+aS'bomb:169'
+p133
+aS'Victims:173'
+p134
+aS'victims:193'
+p135
+aS'blast:204'
+p136
+aS'theatre:236'
+p137
+aS'interval time:238'
+p138
+aS'suspicion:244'
+p139
+aS'Windowpanes:251'
+p140
+aS'multiplex:254'
+p141
+aS'smashed:256'
+p142
+aS'cinema hall:262'
+p143
+aS'blast:267'
+p144
+aS'third row:275'
+p145
+aS'second block:278'
+p146
+aS'panic-stricken:291'
+p147
+aS'big crater:320'
+p148
+aS'smashed the window panes:326'
+p149
+aS'monitoring:338'
+p150
+aS'security situation:340'
+p151
+aS'Union Home Secretary Madhukar Gupta:347'
+p152
+aS'Punjabs Chief Secretary:354'
+p153
+aS'Director-General of Police:358'
+p154
+aS'first hand information:363'
+p155
+aS'Home Minister Shivraj Patil:379'
+p156
+aS'assistance:392'
+p157
+aS'rushing bomb experts:401'
+p158
+aS'bomb attack:430'
+p159
+aS'Handiwork of terrorists:442'
+p160
+aS'preliminary investigations:464'
+p161
+aS'terror outfit:475'
+p162
+aS'device:485'
+p163
+aS'explosive:488'
+p164
+aS'forensic experts:494'
+p165
+aS'Vigil:525'
+p166
+aS'sensitive places:527'
+p167
+aS'tightened:531'
+p168
+aS'night patrol:533'
+p169
+aS'RDX:562'
+p170
+asS'unexpl'
+p171
+(lp172
+g94
+asS'ocassion'
+p173
+g94
+sS'link'
+p174
+S'http://www.thehindu.com/todays-paper/six-killed-25-injured-in-ludhiana-cinema-hall-blast/article1930459.ece'
+p175
+sS'date'
+p176
+S'14-10-2007'
+p177
+sS'target'
+p178
+S'PUBLIC PLACES'
+p179
+sS'hot_spot'
+p180
+g94
+sS'delivery_mod'
+p181
+g94
+sS'delivery_met'
+p182
+S'PLACED'
+p183
+sS'expl'
+p184
+(lp185
+S'RDX'
+p186
+asS'ORG'
+p187
+(lp188
+(lp189
+S'Union government'
+p190
+aS'334'
+p191
+aS'Others'
+p192
+aa(lp193
+S'Centre'
+p194
+aS'388'
+p195
+aS'Others'
+p196
+aa(lp197
+S'State government'
+p198
+aS'395'
+p199
+aS'Others'
+p200
+aa(lp201
+S'National Security Guards'
+p202
+aS'406'
+p203
+aS'Others'
+p204
+aas.

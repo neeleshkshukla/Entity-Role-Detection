@@ -1,0 +1,72 @@
+{
+    "LOC": [
+        [
+            "Nowshera", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Khyber Pakhtunkhwa", 
+            "26", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ziarat Kaka Sahib", 
+            "48", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:17"
+    ], 
+    "death": "", 
+    "title": "Five killed in blast at Pakistan shrine (Lead)", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Islamabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least five people were killed and more than 20 others injured in a bomb blast Sunday near a shrine in Nowshera town of Pakistans Khyber Pakhtunkhwa province , Xinhua reported . A remote-controlled bomb was planted on a bicycle in front of the main gate of Ziarat Kaka Sahib shrine , police said . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb blast:15", 
+        "shrine:20", 
+        "town:23", 
+        "xinhua:30", 
+        "bomb:35", 
+        "bicycle:40", 
+        "front:42", 
+        "gate:46", 
+        "shrine:51"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/five-killed-in-blast-at-pakistan-shrine-lead/article4042041.ece", 
+    "date": "", 
+    "target": "Religious Places", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Xinhua", 
+            "30", 
+            "Others"
+        ]
+    ]
+}

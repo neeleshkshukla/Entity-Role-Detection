@@ -1,0 +1,101 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "20", 
+            "Victim Location"
+        ], 
+        [
+            "Bidar", 
+            "44", 
+            "Accused Location"
+        ], 
+        [
+            "Bidar", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Dilkushnagar", 
+            "76", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "82", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Padmakar Kulkarni", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "Satish Kumar", 
+            "47", 
+            "Comment"
+        ], 
+        [
+            "Mr. Kulkarni", 
+            "69", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "one year : 86"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 17", 
+        "Friday : 27"
+    ], 
+    "death": "16", 
+    "title": "Bidar resident among dead in Hyderabad blasts", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hydrabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "One among the 16 persons who died in the twin bomb blasts that rocked Hyderabad on Thursday was from Karnataka , the police said here on Friday . The deceased has been identified as Padmakar Kulkarni ( 45 ) , a resident of Bidar , said Satish Kumar , Bidar Superintendent of Police . His charred remains were identified by some of his friends . The police said Mr. Kulkarni was a sweetmeat vendor at Dilkushnagar and had been living in Hyderabad for the last one year . PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "not available", 
+        "twin bomb blasts:10", 
+        "deceased:30", 
+        "satish kumar , bidar superintendent:47", 
+        "sweetmeat vendor:73"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/bidar-resident-among-dead-in-hyderabad-blasts/article4448239.ece", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "89", 
+            "Others"
+        ]
+    ]
+}

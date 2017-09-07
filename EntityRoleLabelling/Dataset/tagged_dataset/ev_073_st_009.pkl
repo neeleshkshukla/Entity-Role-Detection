@@ -1,0 +1,492 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Lucknow'
+p4
+aS'12'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Faizabad'
+p8
+aS'14'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Varanasi'
+p12
+aS'16'
+p13
+aS'Event'
+p14
+aa(lp15
+S'LUCKNOW'
+p16
+aS'26'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'NEW DELHI'
+p20
+aS'28'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Uttar Pradesh'
+p24
+aS'55'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Lucknow'
+p28
+aS'71'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Faizabad'
+p32
+aS'73'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Varanasi'
+p36
+aS'75'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Lucknow'
+p40
+aS'159'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Faizabad'
+p44
+aS'198'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Varanasi'
+p48
+aS'204'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Faizabad'
+p52
+aS'297'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Lucknow'
+p56
+aS'299'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Varanasi'
+p60
+aS'307'
+p61
+aS'Event'
+p62
+aa(lp63
+S'Faizabad'
+p64
+aS'311'
+p65
+aS'Event'
+p66
+aa(lp67
+S'Lucknow'
+p68
+aS'318'
+p69
+aS'Event'
+p70
+aa(lp71
+S'Varanasi'
+p72
+aS'369'
+p73
+aS'Assoc Event Location'
+p74
+aa(lp75
+S'Lucknow'
+p76
+aS'396'
+p77
+aS'Event'
+p78
+aa(lp79
+S'Riyadh'
+p80
+aS'410'
+p81
+aS'Neutral'
+p82
+aasS'PER'
+p83
+(lp84
+(lp85
+S'Atiq Khan'
+p86
+aS'1'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Praveen Swami'
+p90
+aS'4'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Mohammad Abid'
+p94
+aS'128'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'Mohammad Yusuf'
+p98
+aS'131'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'Mirza Rashid'
+p102
+aS'134'
+p103
+aS'Accused'
+p104
+aa(lp105
+S'Rahul Gandhi'
+p106
+aS'152'
+p107
+aS'Others'
+p108
+aa(lp109
+S'Mohammad Waliullah'
+p110
+aS'208'
+p111
+aS'Assoc Accused'
+p112
+aa(lp113
+S'Taslima Nasreen'
+p114
+aS'252'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Haji Nasir Ahmad'
+p118
+aS'406'
+p119
+aS'Others'
+p120
+aasS'TIM'
+p121
+(lp122
+S'1.15 p.m.:85'
+p123
+asS'hot_setting'
+p124
+S''
+p125
+sS'DAT'
+p126
+(lp127
+S'Friday : 58'
+p128
+aS'November 18 : 169'
+p129
+aS'2005 : 186'
+p130
+aS'2006 : 217'
+p131
+aS'2006 : 368'
+p132
+asS'death'
+p133
+S'13'
+p134
+sS'title'
+p135
+S'13 killed as serial blasts rock Uttar Pradesh'
+p136
+sS'det_loc'
+p137
+(lp138
+S'India'
+p139
+aS'Uttar Pradesh'
+p140
+ag125
+aS'Lucknow, Faziabab, Varanasi'
+p141
+ag125
+asS'terror_group'
+p142
+(lp143
+S'JAISH-E-MOHAMMED / TAHRIK-E-FURQAN'
+p144
+asS'content'
+p145
+VAtiq Khan and Praveen Swami . . Bombs go off in Lucknow , Faizabad , Varanasi court complexes ; terrorist reprisal against lawyers . . LUCKNOW AND NEW DELHI : At least 13 persons , including four lawyers , were killed and 60 injured when six bombs went off in three court complexes in Uttar Pradesh on Friday . . . Loaded on cycles parked outside the lawyers chambers in Lucknow , Faizabad and Varanasi , the bombs were synchronised to explode shortly after 1.15 p.m. . . All the explosions occurred in the courts where suspects linked to recent Islamist terror strikes have been attacked or denied presentation by lawyers , suggesting that they were intended as an act of reprisal . . . Pakistani nationals Mohammad Abid , Mohammad Yusuf and Mirza Rashid , who police say were members of a Jaish-e-Mohammad module assigned to assassinate Congress general secretary Rahul Gandhi , were beaten up by Lucknow lawyers when they were produced in the court on November 18 . . . Five other Jaish terrorists , alleged to have been involved in a 2005 attack on the Babri Masjid complex , were denied representation by Faizabad lawyers . Their counterparts in Varanasi refused to defend Mohammad Waliullah , a cleric charged with facilitating the 2006 bombings of the city railway station and the Sankat Mochan temple . . . However , investigators said , the operation might also have been timed to capitalise on the protests against Bangladeshi author Taslima Nasreen , a trenchant opponent of Islamists in her country . . . Police and National Bomb Data Centre experts said they expected to harvest valuable forensic data and fingerprints from two devices which failed to detonate . One bomb each was recovered from Faizabad and Lucknow , while three others were detonated in Varanasi and two in Faizabad . One bomb went off in Lucknow . Based on preliminary research , police sources said the bombs appeared to be made up of ammonium nitrate , widely used in fertilizers and industrial explosives . All eight devices were triggered by a detonator controlled by a quartz alarm clock . Similar bombs were used in the 2006 Varanasi serial bombings , which claimed 20 lives . . . The police sources said a bag , in which the unexploded device was found in the Lucknow court complex , also contained an envelope addressed to Haji Nasir Ahmad in Riyadh . However , the investigators cautioned against drawing any immediate inference from the finding , noting that the bag and cycles could well have been stolen . . . The investigators said they were using new computer software to analyse calls made between the three cities in recent weeks .
+p146
+sS'injured'
+p147
+S'60'
+p148
+sS'org_unorg'
+p149
+g125
+sS'O'
+p150
+(lp151
+S'Bombs:8'
+p152
+aS'court complexes:17'
+p153
+aS'terrorist reprisal:20'
+p154
+aS'lawyers:23'
+p155
+aS'six bombs went off:46'
+p156
+aS'three court complexes:51'
+p157
+aS'Loaded:62'
+p158
+aS'cycles parked:64'
+p159
+aS'lawyers chambers:68'
+p160
+aS'bombs:78'
+p161
+aS'synchronised:80'
+p162
+aS'explode:82'
+p163
+aS'explosions:91'
+p164
+aS'courts:95'
+p165
+aS'suspects:97'
+p166
+aS'Islamist terror strikes:101'
+p167
+aS'attacked:106'
+p168
+aS'denied:108'
+p169
+aS'lawyers:111'
+p170
+aS'intended:117'
+p171
+aS'act of reprisal:120'
+p172
+aS'Pakistani nationals:126'
+p173
+aS'assigned to assassinate:146'
+p174
+aS'beaten up:156'
+p175
+aS'Lucknow lawyers:159'
+p176
+aS'Five:174'
+p177
+aS'Jaish terrorists:176'
+p178
+aS'involved:183'
+p179
+aS'attack:187'
+p180
+aS'Babri Masjid complex:190'
+p181
+aS'denied:195'
+p182
+aS'Faizabad lawyers:198'
+p183
+aS'counterparts:202'
+p184
+aS'refused:205'
+p185
+aS'defend:207'
+p186
+aS'cleric charged:212'
+p187
+aS'facilitating:215'
+p188
+aS'bombings:218'
+p189
+aS'city railway station:221'
+p190
+aS'Sankat Mochan temple:226'
+p191
+aS'investigators:234'
+p192
+aS'operation:238'
+p193
+aS'capitalise:245'
+p194
+aS'protests:248'
+p195
+aS'Bangladeshi author Taslima Nasreen:250'
+p196
+aS'trenchant opponent:256'
+p197
+aS'Islamists:259'
+p198
+aS'National Bomb Data Centre experts:268'
+p199
+aS'expected:275'
+p200
+aS'harvest:277'
+p201
+aS'forensic data:279'
+p202
+aS'fingerprints:282'
+p203
+aS'failed:287'
+p204
+aS'detonate:289'
+p205
+aS'bomb:292'
+p206
+aS'recovered:295'
+p207
+aS'detonated:305'
+p208
+aS'bomb:314'
+p209
+aS'preliminary research:322'
+p210
+aS'sources:326'
+p211
+aS'bombs:329'
+p212
+aS'ammonium nitrate:336'
+p213
+aS'fertilizers:342'
+p214
+aS'industrial explosives:344'
+p215
+aS'eight devices:348'
+p216
+aS'triggered:351'
+p217
+aS'detonator controlled:354'
+p218
+aS'quartz alarm clock:358'
+p219
+aS'bombs:363'
+p220
+aS'Varanasi serial bombings:369'
+p221
+aS'20 lives:375'
+p222
+aS'bag:385'
+p223
+aS'unexploded device:390'
+p224
+aS'Lucknow court complex:396'
+p225
+aS'envelope addressed:403'
+p226
+aS'investigators:415'
+p227
+aS'immediate inference:420'
+p228
+aS'bag and cycles:429'
+p229
+aS'stolen:436'
+p230
+aS'investigators:441'
+p231
+aS'computer software:447'
+p232
+aS'analyse calls:450'
+p233
+aS'three cities:455'
+p234
+aS'recent weeks:458'
+p235
+asS'unexpl'
+p236
+(lp237
+S'ALARM CLOCK'
+p238
+asS'ocassion'
+p239
+g125
+sS'link'
+p240
+S'http://www.thehindu.com/todays-paper/13-killed-as-serial-blasts-rock-uttar-pradesh/article1954611.ece'
+p241
+sS'date'
+p242
+S'23-11-2007'
+p243
+sS'target'
+p244
+S'LAWYER COMPLEX'
+p245
+sS'hot_spot'
+p246
+g125
+sS'delivery_mod'
+p247
+S'BAG'
+p248
+sS'delivery_met'
+p249
+S'PLANTED'
+p250
+sS'expl'
+p251
+(lp252
+S'AMMONIUM NITRATE'
+p253
+asS'ORG'
+p254
+(lp255
+(lp256
+S'Jaish-e-Mohammad'
+p257
+aS'144'
+p258
+aS'Accused'
+p259
+aa(lp260
+S'Jaish'
+p261
+aS'176'
+p262
+aS'Others'
+p263
+aas.

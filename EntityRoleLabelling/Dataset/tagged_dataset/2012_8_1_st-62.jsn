@@ -1,0 +1,243 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "Tehran", 
+            "8", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Iran", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Iran", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "143", 
+            "Neutral"
+        ], 
+        [
+            "Iran", 
+            "151", 
+            "Neutral"
+        ], 
+        [
+            "Iran", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Prime Ministers Race Course Road residence", 
+            "219", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Delhi", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "266", 
+            "Accused Location"
+        ], 
+        [
+            "Pakistan", 
+            "279", 
+            "Accused Location"
+        ], 
+        [
+            "Pakistan", 
+            "329", 
+            "Accused Location"
+        ], 
+        [
+            "Assam", 
+            "337", 
+            "Event"
+        ], 
+        [
+            "Assam", 
+            "375", 
+            "Neutral"
+        ], 
+        [
+            "Iran", 
+            "432", 
+            "Neutral"
+        ], 
+        [
+            "Iran", 
+            "446", 
+            "Neutral"
+        ], 
+        [
+            "Assams", 
+            "449", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chidambaram", 
+            "25", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "94", 
+            "Comment"
+        ], 
+        [
+            "Houshang Afshar", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "Masoud Sedaghatzadeh", 
+            "235", 
+            "Accused"
+        ], 
+        [
+            "Saeid Moradi", 
+            "238", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Kharzei", 
+            "241", 
+            "Accused"
+        ], 
+        [
+            "Chidambaram", 
+            "250", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "341", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "443", 
+            "Comment"
+        ], 
+        [
+            "Chidambaram", 
+            "458", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:28", 
+        "February 2012:116"
+    ], 
+    "death": "", 
+    "title": "Delhi Police to question Iranians on car blast", 
+    "det_loc": [
+        "Israel", 
+        "", 
+        "", 
+        "", 
+        "high-security zone close to the Prime Ministers Race Course Road residence "
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A Delhi Police team will soon visit Tehran to question some Iranian nationals on the Israeli embassy vehicle bomb blast , Home Minister P. Chidambaram said on Tuesday . He was addressing his last monthly press conference before taking over as Finance Minister in the UPA-led Congress government . There are some persons who we believe are in Iran , who require to be questioned . So we asked the Government of Iran for permission for one of our teams to go to Iran to question them . They have agreed , Mr. Chidambaram said . He , however , refused to comment on the alleged involvement of the elite Iranian Republican Guards in the February 2012 bombing case , in which an Israeli diplomat was injured . Let the police team return , he said . Due to logistical reasons the Delhi Police could not send its team to Iran earlier , but it has managed to get fresh dates from the Iran government to seek help from their Iranian counterparts in its probe into the high-profile case . During the blast case probe , names of four Iranian nationals came up . While Houshang Afshar has been named as the main accused for planting the bomb on the vehicle in the high-security zone close to the Prime Ministers Race Course Road residence , the other three under the Delhi Police lens are Masoud Sedaghatzadeh , Saeid Moradi and Mohammad Kharzei . Concern over tunnel Meanwhile , Mr. Chidambaram expressed gave concern over the detection of a 400-metre-long tunnel across the international border in Jammu and Kashmir and said the matter would soon be taken up with Pakistan . It is a matter of concern . This matter is being discussed at the highest levels between the Ministry of Home Affairs , Ministry of Defence and Ministry of External Affairs . An appropriate response , an appropriate way , will be found to take it up with Pakistan , he said . Referring to the Assam violence , Mr. Chidambaram said the situation was fast returning to normal and refugees have started moving back to their homes . Appealing to the various communities to live in peace and harmony , he said : Assam is a typical example of a pluralistic society , where communities like Bodos , minorities , Bengali Hindus , Adivasis , Rajbongshis and others live . My appeal to them is we must learn to live together . -LSB- Whatever legal arrangement they live under -RSB- they have to learn to live together . Government of Iran grants permissionAssams pluralistic society must learn to live together : Chidambaram Government of Iran grants permission Assams pluralistic society must learn to live together : Chidambaram OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "iranian nationals:12", 
+        "israeli:16", 
+        "Home Minister:22", 
+        "press conference:36", 
+        "finance minister:42", 
+        "israeli:124", 
+        "iranian:171", 
+        "blast case probe:183", 
+        "Iranian nationals:190", 
+        "international border:263", 
+        "refugees:351", 
+        "communities:364", 
+        "pluralistic society:382", 
+        "bodos:388", 
+        "minorities:390", 
+        "bengali hindus:392", 
+        "adivasis:395", 
+        "rajbongshis:397", 
+        "Government:430"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/delhi-police-to-question-iranians-on-car-blast/article3709879.ece", 
+    "date": "31-07-2012", 
+    "target": "", 
+    "hot_spot": "high-security zone close to the Prime Ministers Race Course Road residence ", 
+    "delivery_mod": "VEHICLES", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "UPA-led Congress government", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "Government of Iran", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "elite Iranian Republican Guards", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "Iran government", 
+            "164", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "232", 
+            "Others"
+        ], 
+        [
+            "Ministry of Home Affairs", 
+            "299", 
+            "Others"
+        ], 
+        [
+            "Ministry of Defence and Ministry of External Affairs", 
+            "304", 
+            "Others"
+        ], 
+        [
+            "Government", 
+            "444", 
+            "Others"
+        ]
+    ]
+}

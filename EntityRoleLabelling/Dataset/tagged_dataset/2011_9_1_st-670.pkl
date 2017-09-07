@@ -1,0 +1,162 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Quetta'
+p4
+aS'9'
+p5
+aS'Event'
+p6
+aasS'PER'
+p7
+(lp8
+sS'TIM'
+p9
+(lp10
+sS'hot_setting'
+p11
+S'Id-ul-Fitr'
+p12
+sS'DAT'
+p13
+(lp14
+S'Wednesday:15'
+p15
+asS'death'
+p16
+S'10'
+p17
+sS'title'
+p18
+S'10 killed in blast in Pakistan targeting Shia community'
+p19
+sS'det_loc'
+p20
+(lp21
+S'Pakistan'
+p22
+aS''
+p23
+ag23
+aS'Quetta'
+p24
+ag23
+asS'terror_group'
+p25
+(lp26
+g23
+asS'content'
+p27
+S'A blast targeting the minority Shia community of Quetta killed nearly 10 people on Wednesday just as they were returning after Id-ul-Fitr prayers in a mosque . According to the police , the loss of life would have been higher had the bomber managed to get closer to the mosque . In view of the tight security around the mosque , the bomber parked in the parking lot and detonated himself as the faithful were returning to their vehicles after offering Id prayers . Initially the police said the bomber had parked the car and left the place but with the discovery of a mutilated body in the vehicle , the attack was billed as a suicide bomb strike . At least 20 people sustained injuries and several vehicles were damaged by the explosion . Television footage of the blast site showed several cars ablaze and huge dark clouds of smoke through which people could be seen trying to push their vehicles out of the parking lot . No group claimed responsibility for the terror strike . OPEN'
+p28
+sS'injured'
+p29
+S'20'
+p30
+sS'org_unorg'
+p31
+S'Organized'
+p32
+sS'O'
+p33
+(lp34
+S'blast:2'
+p35
+aS'Shia community:6'
+p36
+aS'Id-ul-Fitr prayers:22'
+p37
+aS'mosque:26'
+p38
+aS'bomber:43'
+p39
+aS'mosque:50'
+p40
+aS'tight security:56'
+p41
+aS'mosque:60'
+p42
+aS'bomber:63'
+p43
+aS'parking lot:67'
+p44
+aS'detonated:70'
+p45
+aS'vehicles:79'
+p46
+aS'Id prayers:82'
+p47
+aS'bomber:90'
+p48
+aS'car:94'
+p49
+aS'discovery:102'
+p50
+aS'mutilated body:105'
+p51
+aS'vehicle:109'
+p52
+aS'attack:112'
+p53
+aS'suicide bomb strike:117'
+p54
+aS'vehicles:129'
+p55
+aS'explosion:134'
+p56
+aS'television footage:136'
+p57
+aS'blast site:140'
+p58
+aS'smoke:151'
+p59
+aS'vehicles:162'
+p60
+aS'parking lot:166'
+p61
+aS'responsibility:172'
+p62
+aS'terror strike:175'
+p63
+asS'unexpl'
+p64
+(lp65
+g23
+asS'ocassion'
+p66
+S'Religious festivals'
+p67
+sS'link'
+p68
+S'http://www.thehindu.com/todays-paper/tp-international/10-killed-in-blast-in-pakistan-targeting-shia-community/article2416347.ece'
+p69
+sS'date'
+p70
+S'01-09-2011'
+p71
+sS'target'
+p72
+S'Religious Places'
+p73
+sS'hot_spot'
+p74
+S'Mosque'
+p75
+sS'delivery_mod'
+p76
+S'Four wheeler'
+p77
+sS'delivery_met'
+p78
+S'Planted'
+p79
+sS'expl'
+p80
+(lp81
+g23
+asS'ORG'
+p82
+(lp83
+s.

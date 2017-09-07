@@ -1,0 +1,228 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Malegaon'
+p4
+aS'6'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Maharashtra'
+p8
+aS'87'
+p9
+aS'Event'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Raja Thakre'
+p14
+aS'225'
+p15
+aS'Comment'
+p16
+aa(lp17
+S'Farooq Anwar Iqbal Maqdumi'
+p18
+aS'50'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Shaikh Mohammed Ali Alam Shaikh'
+p22
+aS'55'
+p23
+aS'Accused'
+p24
+aa(lp25
+S'Asif Khan Bashir Khan'
+p26
+aS'61'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Junaid'
+p30
+aS'66'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Shaikh Mohammed Ali'
+p34
+aS'98'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Asif Khan'
+p38
+aS'102'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Junaid'
+p42
+aS'105'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Mridula Bhatkar'
+p46
+aS'180'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Salman Farsi'
+p50
+aS'188'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Farooq Anwar'
+p54
+aS'191'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Shaikh Mohammed'
+p58
+aS'194'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Asif Khan'
+p62
+aS'197'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Mohammed Zahid Abdul Majid'
+p66
+aS'206'
+p67
+aS'Accused'
+p68
+aasS'TIM'
+p69
+(lp70
+sS'hot_setting'
+p71
+S''
+p72
+sS'DAT'
+p73
+(lp74
+S'Wednesday:14'
+p75
+aS'December 15:203'
+p76
+aS'December 16:214'
+p77
+asS'death'
+p78
+g72
+sS'title'
+p79
+S'3 accused confess in Malegaon blast case, 2 retract later'
+p80
+sS'org_unorg'
+p81
+g72
+sS'terror_group'
+p82
+(lp83
+g72
+asS'content'
+p84
+VIn a new twist to Malegaon bomb blasts probe , three accused on Wednesday made a confession before a competent authority about their involvement in the conspiracy but soon thereafter two of them retracted before a magistrate , saying they had not made a voluntary disclosure . . . Farooq Anwar Iqbal Maqdumi , Shaikh Mohammed Ali Alam Shaikh and Asif Khan Bashir Khan alias Junaid purportedly made a confession this morning before a Deputy Commissioner of Police , a competent authority to record confession under Maharashtra Control of Organised Crime Act . . . Later , Shaikh Mohammed Ali and Asif Khan alias Junaid retracted their confession before the Chief Metropolitan Magistrate , saying it was not given voluntarily . . . This was revealed to a special court by the accused themselves when they were produced before it for remand . . . The development assumes significance as under MCOCA , a confession does not have evidential value if it is not a voluntary and true disclosure . . . Altogether five accused were produced before judge Mridula Bhatkar who remanded four of them -- Salman Farsi , Farooq Anwar , Shaikh Mohammed and Asif Khan to judicial custody till December 15 and Mohammed Zahid Abdul Majid to police custody till December 16 . . . Seeking their remand , public prosecutor Raja Thakre said the accused had played a vital role in the conspiracy and investigations conducted by Anti-Terrorist Squad so far had revealed involvement of more persons who are yet to be arrested . .
+p85
+sS'injured'
+p86
+g72
+sS'det_loc'
+p87
+(lp88
+S'India'
+p89
+aS'Maharashtra'
+p90
+aS'Nashik'
+p91
+ag72
+ag72
+asS'O'
+p92
+(lp93
+S'malegaon bomb blasts:6'
+p94
+aS'involvement in the conspiracy:24'
+p95
+aS'retracted before a magistrate:34'
+p96
+aS'deputy commissioner of police:75'
+p97
+aS'maharashtra control of organised crime act:87'
+p98
+aS'chief metropolitan magistrate:111'
+p99
+aS'mcoca:152'
+p100
+aS'more persons who are yet to be arrested:250'
+p101
+asS'unexpl'
+p102
+(lp103
+g72
+asS'ocassion'
+p104
+g72
+sS'link'
+p105
+S'http://www.rediff.com/news/2006/dec/06malegaon.htm'
+p106
+sS'date'
+p107
+S'08-09-2006'
+p108
+sS'target'
+p109
+g72
+sS'hot_spot'
+p110
+g72
+sS'delivery_mod'
+p111
+g72
+sS'delivery_met'
+p112
+g72
+sS'expl'
+p113
+(lp114
+g72
+asS'ORG'
+p115
+(lp116
+(lp117
+S'Anti-Terrorist Squad'
+p118
+aS'242'
+p119
+aS'Others'
+p120
+aas.

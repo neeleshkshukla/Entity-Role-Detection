@@ -1,0 +1,286 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'5'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Bangalore'
+p8
+aS'18'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Ahmedabad'
+p12
+aS'20'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Nusrat Ali'
+p18
+aS'96'
+p19
+aS'Others'
+p20
+aa(lp21
+S'M. Manzoor Alam'
+p22
+aS'166'
+p23
+aS'Comment'
+p24
+aa(lp25
+S'Zafarul Islam Khan'
+p26
+aS'304'
+p27
+aS'Others'
+p28
+aasS'TIM'
+p29
+(lp30
+sS'hot_setting'
+p31
+S''
+p32
+sS'DAT'
+p33
+(lp34
+sS'death'
+p35
+g32
+sS'title'
+p36
+S'Muslim bodies decry blasts'
+p37
+sS'org_unorg'
+p38
+g32
+sS'terror_group'
+p39
+(lp40
+g32
+asS'content'
+p41
+VSpecial Correspondent . . NEW DELHI : Prominent Muslim organisations have described the serial bomb blasts in Bangalore and Ahmedabad as a heinous crime against entire humanity . . . The All India Milli Council , Jamaat-Islami Hind and All India Muslim Majlis-e-Mushawarat said that no effort should be spared to nab the culprits behind these dastardly crimes . They offered condolences and sympathies to the families of those killed and also the injured . . . Call for impartial probe . . Demanding a high-level impartial and time-bound investigation , secretary general of Jamaat-e-Islami Nusrat Ali cautioned the government and the intelligence agencies against harassing innocent people . Intelligence agencies should not float certain names without proper investigation . The government must look into the real motives of perpetrators of such crimes , he said . . . He appealed to the people to remain calm and united against forces trying to disrupt communal harmony . . . All India Milli Council general secretary M. Manzoor Alam said the quick succession in which the blasts occurred in the two States was stunning . For quite some time , we have had this haunting feeling that we are not able to stop such violence because we have somehow been avoiding thinking out of the box , he said . . . The timing of the blasts , in the run-up to the general election , posed the question who stands to gain from such attacks . . . We hope that investigations will include all probable groups and individuals , than focussing on the usual suspects alone . Only comprehensive and fresh thinking will yield any results in our endeavour to put an end to such violence , he said . . . Form neutral panel . . All India Muslim Majlis-e-Mushwarat president Zafarul Islam Khan urged the government to form a high-power neutral panel of retired judges , human rights activists , top lawyers and journalists to oversee the investigations .
+p42
+sS'injured'
+p43
+g32
+sS'det_loc'
+p44
+(lp45
+S'India'
+p46
+aS'Delhi'
+p47
+ag32
+ag32
+ag32
+asS'O'
+p48
+(lp49
+S'Special Correspondent:1'
+p50
+aS'Prominent Muslim organisations:8'
+p51
+aS'described:12'
+p52
+aS'serial bomb blasts:14'
+p53
+aS'heinous crime:23'
+p54
+aS'humanity:27'
+p55
+aS'no effort:46'
+p56
+aS'spared:50'
+p57
+aS'culprits:54'
+p58
+aS'dastardly crimes:57'
+p59
+aS'condolences:62'
+p60
+aS'sympathies:64'
+p61
+aS'killed:70'
+p62
+aS'injured:74'
+p63
+aS'impartial probe:80'
+p64
+aS'Demanding:84'
+p65
+aS'high-level impartial:86'
+p66
+aS'time-bound investigation:89'
+p67
+aS'intelligence agencies:103'
+p68
+aS'harassing innocent:106'
+p69
+aS'Intelligence agencies:110'
+p70
+aS'float:114'
+p71
+aS'investigation:119'
+p72
+aS'real motives:127'
+p73
+aS'perpetrators:130'
+p74
+aS'crimes:133'
+p75
+aS'appealed:141'
+p76
+aS'remain calm:146'
+p77
+aS'united against forces:149'
+p78
+aS'disrupt:154'
+p79
+aS'communal harmony:155'
+p80
+aS'quick succession:171'
+p81
+aS'blasts:176'
+p82
+aS'two States:180'
+p83
+aS'stunning:183'
+p84
+aS'haunting feeling:194'
+p85
+aS'violence:204'
+p86
+aS'avoiding:210'
+p87
+aS'timing:223'
+p88
+aS'blasts:226'
+p89
+aS'run-up:230'
+p90
+aS'general election:233'
+p91
+aS'attacks:245'
+p92
+aS'investigations:252'
+p93
+aS'probable groups:256'
+p94
+aS'focussing:262'
+p95
+aS'usual suspects:265'
+p96
+aS'comprehensive:270'
+p97
+aS'fresh thinking:272'
+p98
+aS'results:277'
+p99
+aS'violence:287'
+p100
+aS'neutral panel:295'
+p101
+aS'high-power neutral panel:313'
+p102
+aS'retired judges:317'
+p103
+aS'human rights activists:320'
+p104
+aS'top lawyers:324'
+p105
+aS'journalists:327'
+p106
+aS'investigations:331'
+p107
+asS'unexpl'
+p108
+(lp109
+g32
+asS'ocassion'
+p110
+g32
+sS'link'
+p111
+S'http://www.thehindu.com/todays-paper/tp-national/muslim-bodies-decry-blasts/article1313588.ece'
+p112
+sS'date'
+p113
+S'29-07-2008'
+p114
+sS'target'
+p115
+g32
+sS'hot_spot'
+p116
+g32
+sS'delivery_mod'
+p117
+g32
+sS'delivery_met'
+p118
+g32
+sS'expl'
+p119
+(lp120
+g32
+asS'ORG'
+p121
+(lp122
+(lp123
+S'All India Milli Council'
+p124
+aS'32'
+p125
+aS'Others'
+p126
+aa(lp127
+S'Jamaat-Islami Hind'
+p128
+aS'37'
+p129
+aS'Others'
+p130
+aa(lp131
+S'All India Muslim Majlis-e-Mushawarat'
+p132
+aS'40'
+p133
+aS'Others'
+p134
+aa(lp135
+S'Jamaat-e-Islami'
+p136
+aS'95'
+p137
+aS'Others'
+p138
+aa(lp139
+S'All India Milli Council'
+p140
+aS'160'
+p141
+aS'Others'
+p142
+aa(lp143
+S'All India Muslim Majlis-e-Mushwarat'
+p144
+aS'299'
+p145
+aS'Others'
+p146
+aas.

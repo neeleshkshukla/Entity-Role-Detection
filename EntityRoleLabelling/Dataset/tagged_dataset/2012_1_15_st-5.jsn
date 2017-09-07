@@ -1,0 +1,76 @@
+{
+    "LOC": [
+        [
+            "Basra", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Basra", 
+            "38", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Riyadh Abdul-Amir", 
+            "52", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "Shia religious commemorations", 
+    "DAT": [
+        "Saturday : 17"
+    ], 
+    "death": "53", 
+    "title": "Basra bomb kills 53", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A bomb killed at least 53 Shia pilgrims near the southern port city of Basra on Saturday , an Iraqi official said . It was the latest in a series of attacks during Shia religious commemorations . Basra hospital received 53 killed and 137 wounded after the blast , said Dr. Riyadh Abdul-Amir , the head of Basra Health Directorate . AP OPEN", 
+    "injured": "137", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Basra", 
+        ""
+    ], 
+    "O": [
+        "bomb:2", 
+        "shia pilgrims:7", 
+        "southern port city:11", 
+        "iraqi official:20", 
+        "series of attacks:30", 
+        "shia religious commemorations:34", 
+        "hospital:39", 
+        "blast:48"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS FESTIVAL", 
+    "link": "http://www.thehindu.com/todays-paper/basra-bomb-kills-53/article2802664.ece", 
+    "date": "14-01-2012", 
+    "target": "SHIA ISLAM", 
+    "hot_spot": "Southern port city of Basra", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Basra Health Directorate", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "AP", 
+            "62", 
+            "Others"
+        ]
+    ]
+}

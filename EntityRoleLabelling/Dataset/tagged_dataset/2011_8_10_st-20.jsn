@@ -1,0 +1,62 @@
+{
+    "LOC": [
+        [
+            "Zaveri Bazar", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "26", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 13:28"
+    ], 
+    "death": "27", 
+    "title": "13/7 blasts: man who stole vehicle held", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Maharashtra Anti-Terrorism Squad has arrested a person , who allegedly stole a two-wheeler used by terrorists to plant a bomb at Zaveri Bazar in Mumbai on July 13 , when blasts left 27 people dead . PTI OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "two-wheeler:14", 
+        "terrorists:17", 
+        "bomb:21", 
+        "blasts:32", 
+        "dead:36"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/137-blasts-man-who-stole-vehicle-held/article2341322.ece", 
+    "date": "10-08-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "2", 
+            "Others"
+        ]
+    ]
+}

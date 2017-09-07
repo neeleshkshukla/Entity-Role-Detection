@@ -1,0 +1,276 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'New Delhi'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Pune'
+p8
+aS'31'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Jaipur'
+p12
+aS'74'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'south Delhi'
+p16
+aS'194'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Delhi'
+p20
+aS'205'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Pakistan'
+p24
+aS'207'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Nizamuddin railway station'
+p28
+aS'229'
+p29
+aS'Accused Location'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Vidya Parkash'
+p34
+aS'39'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Landge Irfan Mustafa'
+p38
+aS'64'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Landge Irfan Mustafa'
+p42
+aS'122'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'MS Khan'
+p46
+aS'138'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'MS Khan'
+p50
+aS'157'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Asad Khan'
+p54
+aS'180'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Imran Khan'
+p58
+aS'186'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Sayed Firoz'
+p62
+aS'215'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Hamza'
+p66
+aS'218'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Asad'
+p70
+aS'236'
+p71
+aS'Others'
+p72
+aa(lp73
+S'jehad'
+p74
+aS'243'
+p75
+aS'Others'
+p76
+aasS'TIM'
+p77
+(lp78
+sS'hot_setting'
+p79
+S''
+p80
+sS'DAT'
+p81
+(lp82
+S'Wednesday:8'
+p83
+aS'October:11'
+p84
+aS'October 27:11'
+p85
+aS'August 1:29'
+p86
+aS'Oct 10 : 71'
+p87
+aS'Oct 27 : 94'
+p88
+aS'Oct 30:133'
+p89
+aS'September 26:197'
+p90
+aS'October 1:225'
+p91
+asS'death'
+p92
+g80
+sS'title'
+p93
+S"Pune blasts: IM operative's police custody extended till 27 Oct"
+p94
+sS'det_loc'
+p95
+(lp96
+S'India'
+p97
+aS'Maharashtra'
+p98
+aS'Pune'
+p99
+aS'pune'
+p100
+aS'pune'
+p101
+asS'terror_group'
+p102
+(lp103
+S'INDIAN MUJAHIDEEN'
+p104
+asS'content'
+p105
+VNew Delhi : A Delhi court on Wednesday extended till October 27 the police custody of three suspected Indian Mujahideen ( IM ) operatives allegedly involved in the August 1 Pune blasts . . . Chief Metropolitan Magistrate Vidya Parkash extended the custody of the three by 10 days after police said they needed to confront three of them with the fourth accused Landge Irfan Mustafa , who was arrested Oct 10 from Jaipur . . . `` Consequently , all the ... three accused persons are further remanded to police custody till Oct 27 , '' said the court . . . The court observed that three alleged IM operatives are also required to be confronted with fourth accused ( Landge Irfan Mustafa ) who is already in police custody till Oct 30 . . . MS Khan , counsel of the accused , strongly opposed the extension of their police custody . . . MS Khan , counsel of the accused , strongly opposed the extension of their police custody . . . Two of them - Asad Khan , 33 , and Imran Khan , 31 - were arrested from south Delhi on September 26 , when they reportedly came to Delhi from Pakistan . . . The third operative , Sayed Firoz alias Hamza , 38 , was arrested on October 1 from the Nizamuddin railway station here . . . Asad - a computer expert inclined towards jehad - was the alleged recruiter , motivator and ideologue of this IM module which allegedly got Rs 3 lakh from their mentors abroad .
+p106
+sS'injured'
+p107
+g80
+sS'org_unorg'
+p108
+S'ORGANISED'
+p109
+sS'O'
+p110
+(lp111
+S'police:14'
+p112
+aS'chief metropolitan magistrate:36'
+p113
+asS'unexpl'
+p114
+(lp115
+g80
+asS'ocassion'
+p116
+g80
+sS'link'
+p117
+S'http://www.firstpost.com/india/pune-blasts-im-operatives-police-custody-extended-till-27-oct-494179.html'
+p118
+sS'date'
+p119
+S'01-08-2012'
+p120
+sS'target'
+p121
+g80
+sS'hot_spot'
+p122
+S'pune'
+p123
+sS'delivery_mod'
+p124
+g80
+sS'delivery_met'
+p125
+S'PLANTED'
+p126
+sS'expl'
+p127
+(lp128
+g80
+asS'ORG'
+p129
+(lp130
+(lp131
+S'Delhi court'
+p132
+aS'5'
+p133
+aS'Others'
+p134
+aa(lp135
+S'Indian Mujahideen'
+p136
+aS'19'
+p137
+aS'Accused'
+p138
+aa(lp139
+S'IM'
+p140
+aS'22'
+p141
+aS'Accused'
+p142
+aa(lp143
+S'IM'
+p144
+aS'110'
+p145
+aS'Accused'
+p146
+aa(lp147
+S'IM'
+p148
+aS'255'
+p149
+aS'Accused'
+p150
+aas.

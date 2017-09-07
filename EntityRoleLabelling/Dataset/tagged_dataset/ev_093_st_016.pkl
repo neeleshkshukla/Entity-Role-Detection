@@ -1,0 +1,356 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Patna'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Buddhist pilgrim'
+p8
+aS'11'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Bodh Gaya'
+p12
+aS'15'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Bihar'
+p16
+aS'18'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'world heritage Mahabodhi Temple'
+p20
+aS'33'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Bodhi tree'
+p24
+aS'46'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Mahabodhi temple'
+p28
+aS'52'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'temple city'
+p32
+aS'88'
+p33
+aS'Source'
+p34
+aa(lp35
+S'Bihar'
+p36
+aS'180'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Iraq'
+p40
+aS'301'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Buddha statue'
+p44
+aS'331'
+p45
+aS'Source'
+p46
+aa(lp47
+S'Terga monastery'
+p48
+aS'335'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Baiju Bigha'
+p52
+aS'342'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Bihar'
+p56
+aS'384'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Mumbai'
+p60
+aS'431'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Bihar'
+p64
+aS'449'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Bihar'
+p68
+aS'483'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Kishanganj'
+p72
+aS'518'
+p73
+aS'Accused Location'
+p74
+aa(lp75
+S'Purnia railway station'
+p76
+aS'542'
+p77
+aS'Neutral'
+p78
+aa(lp79
+S'Madhubani'
+p80
+aS'562'
+p81
+aS'Neutral'
+p82
+aa(lp83
+S'Nepal'
+p84
+aS'573'
+p85
+aS'Neutral'
+p86
+aa(lp87
+S'Bihar'
+p88
+aS'585'
+p89
+aS'Neutral'
+p90
+aasS'PER'
+p91
+(lp92
+(lp93
+S'Abhayanand'
+p94
+aS'185'
+p95
+aS'Comment'
+p96
+aa(lp97
+S'Nitish Kumar'
+p98
+aS'461'
+p99
+aS'Others'
+p100
+aa(lp101
+S'Riyajul Khan'
+p102
+aS'513'
+p103
+aS'Accused'
+p104
+aa(lp105
+S'Mirza Khan'
+p106
+aS'526'
+p107
+aS'Accused'
+p108
+aa(lp109
+S'Mohammad Omar Madani'
+p110
+aS'553'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Madani'
+p114
+aS'575'
+p115
+aS'Others'
+p116
+aasS'TIM'
+p117
+(lp118
+S'12 hours : 149'
+p119
+asS'hot_setting'
+p120
+S''
+p121
+sS'DAT'
+p122
+(lp123
+S'6th century BC : 56'
+p124
+aS'2008 : 430'
+p125
+aS'2011 : 509'
+p126
+aS'2010 : 522'
+p127
+asS'death'
+p128
+g121
+sS'title'
+p129
+S'Buddhas name found on Bihar temple bomb'
+p130
+sS'det_loc'
+p131
+(lp132
+S'India'
+p133
+aS'Bihar'
+p134
+aS'Gaya'
+p135
+ag121
+aS'Buddhist pilgrim,Bodh Gaya'
+p136
+asS'terror_group'
+p137
+(lp138
+g121
+asS'content'
+p139
+VPatna : Investigating agencies probing Sundays bomb attack at the Buddhist pilgrim town of Bodh Gaya in Bihar have found that the terrorists had used the name of Buddha to target the world heritage Mahabodhi Temple . . . Buddha had attained enlightenment under the Bodhi tree located just behind the Mahabodhi temple in the 6th century BC , after which the site became known as the Land of Peace . . . The revelation came to light after one of the three bombs recovered from the temple city during a search of the area in the aftermath of the blasts had the word Buddha written on it in bold letters . The bombs were small , liquefied petroleum gas cylinders with timers and contained ammonium nitrate , TNT and RDX . They were planted at key points in the sprawling complex for maximum damage but they exploded 12 hours early in damp conditions , according to investigating agencies . . . There is evidence that a fusion of low - and high-intensity bomb-making technique was used , said Bihar director general of police Abhayanand . We can guess whose work it could be but can not say as it would impede investigation . Its a terror strike . Such IEDs have been used in the past in the country . . . The investigating agencies also believe the bombs could have been planted by terrorists wearing yellow robes to escape being noticed . They also believe the terrorists were familiar with the place . . . Investigators also recovered three hand-written pamphlets written in Urdu from near the blast sites . While two of the pamphlets mention code words describing the locations where the bombs were apparently to be planted , the third one features the words Revenge of Iraq . Sources said the pamphlets were found lying near three bombs that did not explode . . . The powerful devices were recovered from the top of the 80-feet-tall Buddha statue , near Terga monastery and in the village of Baiju Bigha , which are all located some 1.5 kilometres to 2km from the temple . In all , 12 bombs were planted , out of which nine exploded . . . This is the first time that the terrorists have targeted Bihar . So far , the area had been a safe corridor for the terrorists , as is evident from the arrest of some 30 suspects from various parts of the state in the past three years . Authorities say their activities have increased since the 2008 Mumbai terrorists attack . . . For the past several months , security agencies have been constantly combing Bihar areas and arresting suspects , evoking sharp protests from chief minister Nitish Kumar . Only yesterday , the National Investigating Agency issued a list of 12 terrorists , of which two are from Bihar . . . Last year , the Karnataka police arrested Kafil Akhtar , who was suspected to be involved in Chinnaswami stadium blast . In 2011 , suspected terrorist Riyajul Khan was arrested from Kishanganj district while in 2010 an Afghan militant Mirza Khan , who is alleged to be working for Al Qaida , was arrested from Purnia railway station . The previous year , another suspected terrorist Mohammad Omar Madani was arrested by Delhi police from Madhubani district . According to security agencies , Lashkar e Taiba Nepal chief Madani had been assigned the task of recruiting youths from Bihar after proper training in handling arms and explosives .
+p140
+sS'injured'
+p141
+g121
+sS'org_unorg'
+p142
+S'ORGANISED'
+p143
+sS'O'
+p144
+(lp145
+S'Land of Peace:68'
+p146
+aS'liquefied petroleum gas cylinders:118'
+p147
+aS'timers:123'
+p148
+aS'ammonium nitrate:126'
+p149
+aS'TNT:129'
+p150
+aS'RDX:131'
+p151
+aS'low - and high-intensity:170'
+p152
+aS'IEDs:211'
+p153
+asS'unexpl'
+p154
+(lp155
+g121
+asS'ocassion'
+p156
+g121
+sS'link'
+p157
+S'http://gulfnews.com/news/asia/india/buddha-s-name-found-on-bihar-temple-bomb-1.1206651'
+p158
+sS'date'
+p159
+S'07-07-2013'
+p160
+sS'target'
+p161
+g121
+sS'hot_spot'
+p162
+S'Buddhist pilgrim,Bodh Gaya'
+p163
+sS'delivery_mod'
+p164
+S'TEMPLE'
+p165
+sS'delivery_met'
+p166
+S'PLANTED'
+p167
+sS'expl'
+p168
+(lp169
+g121
+asS'ORG'
+p170
+(lp171
+(lp172
+S'Investigating agencies'
+p173
+aS'3'
+p174
+aS'Others'
+p175
+aa(lp176
+S'National Investigating Agency'
+p177
+aS'468'
+p178
+aS'Others'
+p179
+aa(lp180
+S'Afghan militant'
+p181
+aS'524'
+p182
+aS'Accused'
+p183
+aa(lp184
+S'Al Qaida'
+p185
+aS'536'
+p186
+aS'Accused'
+p187
+aa(lp188
+S'Delhi police'
+p189
+aS'559'
+p190
+aS'Others'
+p191
+aa(lp192
+S'Lashkar e Taiba'
+p193
+aS'570'
+p194
+aS'Accused'
+p195
+aas.

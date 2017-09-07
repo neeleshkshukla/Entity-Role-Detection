@@ -1,0 +1,197 @@
+{
+    "LOC": [
+        [
+            "Tamil Nadu", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Melapalayam", 
+            "37", 
+            "Accused Location"
+        ], 
+        [
+            "Tirunelveli", 
+            "39", 
+            "Accused Location"
+        ], 
+        [
+            "Chennai", 
+            "60", 
+            "Accused Location"
+        ], 
+        [
+            "Coimbatore", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Tirunelveli", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "Mattuthavani", 
+            "78", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "112", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "118", 
+            "Event"
+        ], 
+        [
+            "Tirunelveli", 
+            "124", 
+            "Accused Location"
+        ], 
+        [
+            "Coimbatore", 
+            "158", 
+            "Neutral"
+        ], 
+        [
+            "Melapalayam", 
+            "194", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Chennai", 
+            "207", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "233", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kichan Buhari", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "Buhari", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Thowlath", 
+            "128", 
+            "Comment"
+        ], 
+        [
+            "Pookkadai Kannan", 
+            "183", 
+            "Victim"
+        ], 
+        [
+            "Tailor Shankar", 
+            "186", 
+            "Victim"
+        ], 
+        [
+            "Selvakumar", 
+            "190", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "7 a.m.:81", 
+        "twice a month : 165"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 12", 
+        "April 17 : 27", 
+        "Monday night : 62", 
+        "August 11 , 1997 : 196", 
+        "Monday : 209", 
+        "Monday night : 226"
+    ], 
+    "death": "", 
+    "title": "Third Bangalore blast suspect held in Madurai", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A special team of the Tamil Nadu and Karnataka police on Tuesday arrested a former Al-Umma activist , Kichan Buhari , here in connection with the April 17 Bangalore bomb blast . He hails from of Melapalayam in Tirunelveli . He is the third suspect to be held in the case . The other two were picked up in Chennai on Monday night . The team was shadowing Buhari from Coimbatore to Tirunelveli and nabbed him at Mattuthavani here at 7 a.m. , a police official said . He was tracked down based on call records of the mobile phone of one of the suspects in the blast cas . The Karnataka police have taken him to Bangalore . Special Correspondent reports from Tirunelveli : Buharis mother Thowlath said her son was innocent . The police should drop all cases fabricated against him . He is now leading a peaceful life . His children are studying in Coimbatore and he used to visit us twice a month , she said . Buharis name entered the police records for the first time after Pookkadai Kannan , Tailor Shankar and Dr. Selvakumar were murdered at Melapalayam on August 11 , 1997 . 2 persons were picked up in Chennai on Monday nightHe has been taken to Bangalore for investigation 2 persons were picked up in Chennai on Monday night He has been taken to Bangalore for investigation OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "special team:2", 
+        "arrested:13", 
+        "Bangalore bomb blast:29", 
+        "third suspect:44", 
+        "case:51", 
+        "shadowing:68", 
+        "tracked down:91", 
+        "call records:95", 
+        "mobile phone:99", 
+        "suspects:105", 
+        "blast:108", 
+        "Special Correspondent reports:120", 
+        "Buharis mother:126", 
+        "innocent:133", 
+        "cases fabricated:140", 
+        "peaceful life:150", 
+        "Buharis:172", 
+        "police records:176", 
+        "murdered:192", 
+        "investigation:217", 
+        "investigation:235"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/third-bangalore-blast-suspect-held-in-madurai/article4648800.ece", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Al-Umma", 
+            "16", 
+            "Others"
+        ]
+    ]
+}

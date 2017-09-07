@@ -1,0 +1,67 @@
+{
+    "LOC": [
+        [
+            "Cuttack", 
+            "23", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 25"
+    ], 
+    "death": "0", 
+    "title": "19 students injured in blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 19 students were injured when a low-intensity bomb exploded in the classroom of a government-run school on the outskirts of Cuttack on Monday . The blast took place when a teacher of Class IX was taking a roll call in Ayutpur High School . Of the 58 students present in the class , 19 were taken to the SCB Medical College Hospital . OPEN", 
+    "injured": "19", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "Cuttak", 
+        "Cuttack", 
+        "Classroom of Ayutpur High School on the outskirts of Cuttack"
+    ], 
+    "O": [
+        "students:4", 
+        "injured:6", 
+        "low-intensity bomb:9", 
+        "exploded:11", 
+        "classroom:14", 
+        "government-run school:17", 
+        "blast:28", 
+        "Class IX:35", 
+        "roll call:40", 
+        "58 students:49"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/19-students-injured-in-blast/article4871910.ece", 
+    "date": "01-07-2013", 
+    "target": "EDUCATIONAL INSTITUTION", 
+    "hot_spot": "Classroom of Ayutpur High School, a government-run school on the outskirts of Cuttack", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Ayutpur High School", 
+            "43", 
+            "Victim"
+        ], 
+        [
+            "SCB Medical College Hospital", 
+            "61", 
+            "Others"
+        ]
+    ]
+}

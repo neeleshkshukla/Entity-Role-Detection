@@ -1,0 +1,91 @@
+{
+    "LOC": [
+        [
+            "Libyan", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Benghazi", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "United States", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Benghazi", 
+            "42", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:19"
+    ], 
+    "death": "4", 
+    "title": "Blast wrecks govt office in Libya's Benghazi witnesses", 
+    "det_loc": [
+        "Libya", 
+        "", 
+        "", 
+        "Benghazi", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A powerful blast caused serious damage to a foreign ministry building in the Libyan city of Benghazi on Wednesday , witnesses said . The explosion comes on the first anniversary of an attack by militants on the United States consulate in Benghazi , which killed four Americans , including the ambassador . It was not immediately known if the blast , which the witnesses said appeared to have been caused by a car bomb , had resulted in casualties . An AFP photographer said a large section of the foreign ministry building had been destroyed and parts of the nearby local headquarters of the central bank seriously damaged.AFP OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "powerful blast:2", 
+        "serious damage:5", 
+        "foreign ministry building:9", 
+        "witnesses:21", 
+        "explosion:25", 
+        "first anniversary:29", 
+        "attack:33", 
+        "militants:35", 
+        "consulate:40", 
+        "killed:45", 
+        "four Americans:46", 
+        "ambassador:51", 
+        "blast:60", 
+        "witnesses:64", 
+        "appeared:66", 
+        "car bomb:73", 
+        "casualties:79", 
+        "photographer:83", 
+        "large section:86", 
+        "foreign ministry building:90", 
+        "destroyed:95", 
+        "local headquarters:101", 
+        "central bank:105", 
+        "seriously damaged.AFP:107"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/blast-wrecks-govt-office-in-libyas-benghazi-witnesses/article5117742.ece", 
+    "date": "11-09-2013", 
+    "target": "FOREIGN MINISTRY", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "82", 
+            "Others"
+        ]
+    ]
+}

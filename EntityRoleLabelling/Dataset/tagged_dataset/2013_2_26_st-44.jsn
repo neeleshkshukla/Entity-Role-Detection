@@ -1,0 +1,277 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "141", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "169", 
+            "Event"
+        ], 
+        [
+            "Sai Baba temple", 
+            "229", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "291", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mecca Masjid", 
+            "370", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Hyderabad", 
+            "373", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ajmer Sharif Dargah", 
+            "377", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Hyderabad", 
+            "416", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "500", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "561", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anurag Sharmas", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "Akbaruddin Owaisi", 
+            "166", 
+            "Assoc Accused"
+        ], 
+        [
+            "Praveen Togadia", 
+            "185", 
+            "Assoc Accused"
+        ], 
+        [
+            "RPN Singh", 
+            "403", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "On a Thursday when devotees throng Sai Baba temple in huge numbers", 
+    "DAT": [
+        "Thursday : 91"
+    ], 
+    "death": "", 
+    "title": "Blasts a bid to whip up communal clashes", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "LASHKAR-E-TAIBA", 
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Hidden behind last weeks twin blasts in Hyderabad are the nefarious designs of terrorists who wanted to trigger communal riots in the historic city . A small incident could flare up tensions in a highly polarised society that had recently witnessed vitriolic speeches by controversial leaders , both Hindu and Muslim , say sources in the Ministry of Home Affairs ( MHA ) . An apparently failed attempt to target the famous Sai Baba temple at Dilsukhnagar , a few metres from the blast sites , that too on a Thursday when devotees throng there in huge numbers , points to a deep-rooted conspiracy . Terrorists might have changed their plan to plant a bomb or bombs in the temple or close to it in a bid to maximise casualties , as there was heavy police deployment in view of Hyderabad Police Commissioner Anurag Sharmas visit to the shrine , the sources noted . Intelligence reports say the highly objectionable speeches by Majlis-e-Ittehadul Muslimeen MLA Akbaruddin Owaisi near Hyderabad , for which he was arrested , and then by senior Vishwa Hindu Parishad leader Praveen Togadia have vitiated the atmosphere in the city . Recent weeks have seen a strong communal undercurrent building up with local religious leaders trying to polarise society . Any small incident could lead to serious law and order problems , and hence the Sai Baba temple might have been the possible target , the sources said . Though MHA officials are tight-lipped on who could be behind the blasts , the sources said prima facie these appeared to be the handiwork of the Lashkar-e-Taiba ( LeT ) , while the plan might have been executed by the Indian Mujahideen ( IM ) . Notably , Hyderabad has been a hub of IM activities . LeT has been a worrying factor for us . They provide technical expertise and material related to bomb manufacturing to IM members , besides funding their operations from overseas , a senior official said . But the Union government is not naming who could be behind the blasts . It is treading cautiously . For , the Centre , after initially blaming Pakistan-based terror groups for the blasts at the Mecca Masjid in Hyderabad and at the Ajmer Sharif Dargah , had to concede that the incidents could be the handiwork of some Hindu fundamentalists . According to Minister of State for Home RPN Singh : Whatever evidence the investigative agencies have collected -LSB- in the Hyderabad incident -RSB- has been sent for forensic examination . There are leads we are looking into it . Refusing to say anything more , he said : At the moment we can not share the detailsbut the perpetrators of this barbaric act will be caught and the strictest punishment will be given . The MHA sources said the probe would be handed over to the National Investigation Agency ( NIA ) once all the initial probe and other groundwork were completed by the Hyderabad police . Currently , the NIA , the Intelligence Bureau and National Security Guard officials are assisting the State police in the investigation but soon the NIA will take full charge as initial leads suggest that the terrorists behind it have multistate footprints , and the NIA has the powers and expertise to deal with such cases . But the Hyderabad police will always be kept in the loop , a senior official said . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        "A few metres from Sai Baba temple at Dilsukhnagar"
+    ], 
+    "O": [
+        "Hidden:1", 
+        "twin blasts:5", 
+        "nefarious designs:11", 
+        "terrorists:14", 
+        "trigger communal riots:18", 
+        "communal riots:19", 
+        "historic city:23", 
+        "tensions:32", 
+        "highly polarised society:35", 
+        "vitriolic speeches:42", 
+        "controversial leaders:45", 
+        "hindu and muslim:49", 
+        "failed attempt:67", 
+        "Sai Baba temple:73", 
+        "blast sites:84", 
+        "devotees:93", 
+        "deep-rooted conspiracy:103", 
+        "terrorists:106", 
+        "maximise casualties:129", 
+        "heavy police deployment:135", 
+        "visit to the shrine:146", 
+        "intelligence reports:155", 
+        "highly objectionable speeches:159", 
+        "arrested:175", 
+        "vitiated the atmosphere:188", 
+        "strong communal undercurrent:200", 
+        "local religious leaders:206", 
+        "polarise society:211", 
+        "law and order problems:221", 
+        "possible target:236", 
+        "tight-lipped:247", 
+        "blasts:254", 
+        "prima facie:259", 
+        "handiwork:266", 
+        "technical expertise:311", 
+        "bomb manufacturing:317", 
+        "Union government:337", 
+        "blasts:347", 
+        "Centre:357", 
+        "Pakistan-based terror groups:362", 
+        "blasts:367", 
+        "hindu fundamentalists:393", 
+        "Minister of State:398", 
+        "investigative agencies:409", 
+        "forensic examination:423", 
+        "perpetrators:454", 
+        "barbaric act:457", 
+        "strictest punishment:464", 
+        "Hyderabad police:500", 
+        "State police:519", 
+        "investigation:523", 
+        "terrorists:538", 
+        "multistate footprints:542"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS GATHERING", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/blasts-a-bid-to-whip-up-communal-clashes/article4453726.ece", 
+    "date": "21-02-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "A few metres from Sai Baba temple at Dilsukhnagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Ministry of Home Affairs", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "Majlis-e-Ittehadul Muslimeen", 
+            "163", 
+            "Assoc Accused"
+        ], 
+        [
+            "Vishwa Hindu Parishad", 
+            "181", 
+            "Assoc Accused"
+        ], 
+        [
+            "MHA", 
+            "244", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "269", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "271", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "283", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "286", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "297", 
+            "Assoc Accused"
+        ], 
+        [
+            "LeT", 
+            "300", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "320", 
+            "Accused"
+        ], 
+        [
+            "MHA", 
+            "471", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "482", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "486", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "506", 
+            "Others"
+        ], 
+        [
+            "Intelligence Bureau", 
+            "509", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "512", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "527", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "547", 
+            "Others"
+        ]
+    ]
+}

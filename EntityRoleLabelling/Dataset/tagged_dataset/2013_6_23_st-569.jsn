@@ -1,0 +1,68 @@
+{
+    "LOC": [
+        [
+            "Bauri Sahi", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Bijipur", 
+            "15", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday morning : 21"
+    ], 
+    "death": "", 
+    "title": "Crude bomb hurled", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "Ganjam", 
+        "BERHAMPUR", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A group of three miscreants tried to create havoc at Bauri Sahi square of Bijipur area in the city on Saturday morning by hurling a crude bomb and firing in the air . According to locals a group of three youths had reached the spot on a bike and searched for a youth . They also hurled a crude bomb which did not blast . When people of the area tried to nab the miscreants , they fired a round into the air and escaped from the spot . Police officials rushed to the spot . The live crude bomb and cartridge were seized . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "three miscreants:4", 
+        "havoc:9", 
+        "crude bomb:26", 
+        "firing:29", 
+        "three youths:40", 
+        "spot:45", 
+        "bike:48", 
+        "youth:53", 
+        "crude bomb:59", 
+        "blast:64", 
+        "miscreants:75", 
+        "escaped:85", 
+        "spot:88", 
+        "rushed:92", 
+        "live crude bomb:98", 
+        "cartridge:102", 
+        "seized:104"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/crude-bomb-hurled/article4842616.ece", 
+    "date": "22-06-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB"
+    ], 
+    "ORG": []
+}

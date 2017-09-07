@@ -1,0 +1,203 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Syrian : 10'
+p4
+aS'Event'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Damascus'
+p8
+aS'12'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Syrian'
+p12
+aS'24'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Kfar Sousa'
+p16
+aS'50'
+p17
+aS'Event'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Rami Abdel Rahman'
+p22
+aS'71'
+p23
+aS'Comment'
+p24
+aa(lp25
+S'Assad'
+p26
+aS'135'
+p27
+aS'Others'
+p28
+aasS'TIM'
+p29
+(lp30
+S'overnight : 13'
+p31
+aS'yesterday : 111'
+p32
+asS'hot_setting'
+p33
+S''
+p34
+sS'DAT'
+p35
+(lp36
+S'Tuesday : 31'
+p37
+asS'death'
+p38
+g34
+sS'title'
+p39
+S'Yet another car bomb in Damascus'
+p40
+sS'det_loc'
+p41
+(lp42
+S'Syria'
+p43
+ag34
+ag34
+aS'Damascus'
+p44
+aS'Kfar Sousa in Damascus'
+p45
+asS'terror_group'
+p46
+(lp47
+S'LIWA AL-SHAM'
+p48
+asS'content'
+p49
+S'A powerful car bomb rocked a district of the Syrian capital Damascus overnight , injuring several members of the security forces , the Syrian Observatory for Human Rights said on Tuesday . A large explosion apparently caused by an explosive device placed inside a car rocked the district of Kfar Sousa , the watchdog said . Several members of the security forces were injured in the blast , Observatory director Rami Abdel Rahman said , adding that it was unclear what the explosion had targeted and whether it had caused any fatalities . The rebel brigade Liwa al-Sham claimed responsibility for the blast in a video uploaded to YouTube late yesterday . Two members of the group said its fighters on the ground targeted a group of senior officers responsible for crimes of the Assad regime.PTI OPEN'
+p50
+sS'injured'
+p51
+g34
+sS'org_unorg'
+p52
+S'ORGANISED'
+p53
+sS'O'
+p54
+(lp55
+S'powerful car bomb:2'
+p56
+aS'security forces:20'
+p57
+aS'large explosion:34'
+p58
+aS'explosive device:40'
+p59
+aS'watchdog:54'
+p60
+aS'security forces:61'
+p61
+aS'blast:67'
+p62
+aS'unclear:80'
+p63
+aS'explosion:83'
+p64
+aS'targeted:85'
+p65
+aS'fatalities:92'
+p66
+aS'rebel brigade:95'
+p67
+aS'blast:103'
+p68
+aS'video uploaded:106'
+p69
+aS'fighters:120'
+p70
+aS'targeted:124'
+p71
+aS'crimes:132'
+p72
+asS'unexpl'
+p73
+(lp74
+g34
+asS'ocassion'
+p75
+g34
+sS'link'
+p76
+S'http://www.thehindu.com/todays-paper/tp-in-school/yet-another-car-bomb-in-damascus/article4874967.ece'
+p77
+sS'date'
+p78
+S'02-07-2013'
+p79
+sS'target'
+p80
+S'POLICE AND DEFENCE FORCES'
+p81
+sS'hot_spot'
+p82
+S'District of Kfar Sousa in Damascus'
+p83
+sS'delivery_mod'
+p84
+S'CAR'
+p85
+sS'delivery_met'
+p86
+S'PLANTED'
+p87
+sS'expl'
+p88
+(lp89
+g34
+asS'ORG'
+p90
+(lp91
+(lp92
+S'Syrian Observatory for Human Rights'
+p93
+aS'24'
+p94
+aS'Others'
+p95
+aa(lp96
+S'Observatory'
+p97
+aS'69'
+p98
+aS'Others'
+p99
+aa(lp100
+S'Liwa al-Sham'
+p101
+aS'97'
+p102
+aS'Accused'
+p103
+aa(lp104
+S'YouTube'
+p105
+aS'109'
+p106
+aS'Others'
+p107
+aas.

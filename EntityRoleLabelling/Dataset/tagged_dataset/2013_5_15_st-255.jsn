@@ -1,0 +1,109 @@
+{
+    "LOC": [
+        [
+            "Malleswaram", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Temple Street", 
+            "42", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rakshita", 
+            "24"
+        ], 
+        [
+            "Rakshitha Sujai", 
+            "1", 
+            "Victim"
+        ], 
+        [
+            "M.S. Ramaiah", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "Leesha N.S.", 
+            "28", 
+            "Victim"
+        ], 
+        [
+            "Rakshita", 
+            "46", 
+            "Victim"
+        ], 
+        [
+            "Leesha", 
+            "56", 
+            "Victim"
+        ], 
+        [
+            "Naresh Shetty", 
+            "106", 
+            "Comment"
+        ], 
+        [
+            "Rakshitha", 
+            "118", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "April 17th : 9", 
+        "Monday:17"
+    ], 
+    "death": "", 
+    "title": "Blast victim Rakshitha goes home", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Bangalore", 
+        "Malleswaram"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Rakshitha Sujai , who was injured in the April 17th Malleswaram bomb blast was discharged on Monday from M.S. Ramaiah Hospital here . Rakshita and her friend Leesha N.S. are two of the 16 injured in the blast that occurred on Temple Street . While Rakshita developed Acute Respiratory Distress Syndrome following multiple injuries , Leesha suffered compound fractures in her right leg . The two friends were injured when they were on a break from their CET coaching classes on that day . They were taken to KC General Hospital where they were given initial treatment and then shifted to M.S. Ramaiah Hospital . Naresh Shetty , president of M.S. Ramaiah Memorial Hospital , said that Rakshitha had undergone multiple surgeries for her injuries and was better now . She is undergoing physiotherapy and will have to continue it for sometime . She is able to walk on her own and will have to come for follow-up treatment , he said . The two girls wrote their CET exams from their hospital beds recently . OPEN", 
+    "injured": "16", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "hospital:21", 
+        "acute respiratory distress syndrome:48", 
+        "multiple injuries:53", 
+        "cet:78", 
+        "kc general hospital:89", 
+        "memorial hospital:113"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/blast-victim-rakshitha-goes-home/article4716741.ece", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "Malleswaram", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "M.S. Ramaiah Hospital", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "M.S. Ramaiah Memorial Hospital", 
+            "111", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "LOC": [
+        [
+            "Lumbini Park : 164", 
+            "Event", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Vijayawada", 
+            "48", 
+            "Accused Location"
+        ], 
+        [
+            "Lumbini Park", 
+            "106", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Gokul Chat", 
+            "118", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Kothi", 
+            "121", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "141", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Gokul Chat", 
+            "167", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Anand Tiffin Centre", 
+            "172", 
+            "Neutral"
+        ], 
+        [
+            "Malakpet", 
+            "336", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohamed Iqbal", 
+            "211", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6.50 p.m.:37"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday evening:19", 
+        "August 25 , 2007 : 99", 
+        "Thursdays : 131"
+    ], 
+    "death": "13", 
+    "title": "TERROR STRIKES HEART OF HYDERABAD", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two powerful explosions ripped through crowded areas at Dilsukhnagar in the eastern part of the State capital on Thursday evening , killing 13 persons and injuring more than 83 . The first blast took place at 6.50 p.m. on the citys busiest road that link it with Vijayawada , and , as terrified people were scampering to safety , the second blast went off . Authorities say the explosions were caused by improvised explosive devices that could have been kept on bicycles or packed inside frames of bicycles . The twin blasts brought back painful memories of the August 25 , 2007 IED attacks in Lumbini Park , in front of the State secretariat , and at Gokul Chat in Kothi that killed 44 people . Incidentally , one of Thursdays blasts took place near a crowded foot over-bridge at Dilsukhnagar , where security forces defused an IED five years ago . The device was to go off along with the blasts in Lumbini Park and Gokul Chat . Eyewitnesses at Anand Tiffin Centre , near the spot where the first blast took place , said someone began shouting about a bomb going off . Even as confused people watched , the blast occurred . Malakpet Assistant Commissioner of Police Mohamed Iqbal , who was passing by in his police vehicle , stopped on hearing the explosion . As he ran towards the blast site , the second IED went off just 50 yards away . The blast sites presented a gory picture with injured persons and mangled two wheelers lying scattered . We did not know what was happening . It was scary , said a shopkeeper The area witnessed a massive traffic jam after the blasts . It took some time for the police to rush to the spot and organise relief and rescue operations . Local people stopped city buses and any vehicle they could find and shifted the injured to the Osmania General Hospital and the Yashoda Super Speciality Hospital at Malakpet . At the Osmania Hospital there were more than 30 injured people , while at the Yashoda Hospital one woman and 14 men were being treated . Nine persons were stated to be in a critical condition . OPEN", 
+    "injured": "83", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        "Crowded areas of Dilsukhnagar"
+    ], 
+    "O": [
+        "powerful explosions:2", 
+        "crowded areas:6", 
+        "first blast:32", 
+        "busiest road:42", 
+        "terrified:53", 
+        "scampering:56", 
+        "second blast:61", 
+        "authorities:66", 
+        "explosions:69", 
+        "improvised explosive devices:73", 
+        "bicycles:82", 
+        "frames of bicycles:86", 
+        "twin blasts:91", 
+        "painful memories:95", 
+        "ied attacks:103", 
+        "state secretariat:113", 
+        "foot over-bridge:138", 
+        "security forces:144", 
+        "ied:148", 
+        "device:154", 
+        "blasts:162", 
+        "eyewitnesses:170", 
+        "first blast:181", 
+        "malakpet assistant commissioner:206", 
+        "explosion:227", 
+        "blast site:234", 
+        "ied:239", 
+        "50 yards away:243", 
+        "blast sites:248", 
+        "gory picture:252", 
+        "scary:274", 
+        "massive traffic jam:283", 
+        "rush:298", 
+        "relief:304", 
+        "rescue:306", 
+        "critical condition:372"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/terror-strikes-heart-of-hyderabad/article4441506.ece", 
+    "date": "21-02-2013", 
+    "target": "PUBLIC PLACE", 
+    "hot_spot": "Lumbini Park and Gokul Chat", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Osmania General Hospital", 
+            "326", 
+            "Others"
+        ], 
+        [
+            "Yashoda Super Speciality Hospital", 
+            "331", 
+            "Others"
+        ], 
+        [
+            "Osmania Hospital", 
+            "340", 
+            "Others"
+        ], 
+        [
+            "Yashoda Hospital", 
+            "353", 
+            "Others"
+        ]
+    ]
+}

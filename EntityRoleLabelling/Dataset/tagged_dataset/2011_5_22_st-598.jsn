@@ -1,0 +1,235 @@
+{
+    "LOC": [
+        [
+            "Landi Kotal", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Khyber tribal agency", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "66", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Torkham", 
+            "80", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Landi Kotal", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "Torkham", 
+            "130", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Pakistan", 
+            "196", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "231", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "253", 
+            "Neutral"
+        ], 
+        [
+            "Kurram Agency", 
+            "322", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "327", 
+            "Neutral"
+        ], 
+        [
+            "Torkham", 
+            "334", 
+            "Assoc Event Location"
+        ], 
+        [
+            "U.S.", 
+            "348", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "361", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Osama bin Laden", 
+            "257", 
+            "Assoc Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:37", 
+        "October 2010:302"
+    ], 
+    "death": "15", 
+    "title": "ISAF convoy attacked in Pakistan", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Landi Kotal Town", 
+        "Landi Kotal town of the Khyber tribal agency"
+    ], 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "Yet another instance of terrorist attack on NATO vehicles At least 15 people were killed in an oil tanker blaze triggered by a bomb blast in the Landi Kotal town of the Khyber tribal agency on Saturday . In a related incident over the past 24 hours , a dozen vehicles ferrying goods and oil to the International Security Assistance Force ( ISAF ) in Afghanistan were burnt after a bomb exploded in one of the tankers near the Torkham checkpost . According to the police , the victims of the Landi Kotal incident had gathered around the tanker after the flames caused by the blast had been doused to collect oil leaking from the vehicle . A second explosion took their lives . As for the attack at Torkham , the vehicles caught fire after a bomb went off in one of them . The bomb was apparently triggered with a remote controlled device . Since many vehicles were parked at the checkpost for onward clearance , the fire quickly spread . No casualties were reported in this incident . Trucks ferrying goods and oil for ISAF have come under regular terrorist attack in Pakistan . Barring weapons which are mostly flown in much of the supplies and fuel for the International Security Assistance Forces in Afghanistan is taken over land through Pakistan after they arrive by ship in Karachi . Last week , a resolution passed by both Houses of Parliament on the unilateral action taken by the U.S. in Pakistan against al-Qaeda leader Osama bin Laden had said the government would be constrained to consider withdrawing the transit facility provided to the NATO-led ISAF if drone attacks continued . In the week since the resolution was passed , there have been at least two drone attacks . In October 2010 , a NATO helicopter incursion into Pakistani airspace coupled with a missile attack on a security post in Kurram Agency had resulted in Pakistan blocking the ISAF supply line at Torkham . Simultaneously , during the 10-day blockade which was lifted only after the U.S. apologised for the incursion , NATO vehicles came under regular attack in Pakistan . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "terrorist attack:5", 
+        "nato vehicles:8", 
+        "killed:15", 
+        "oil tanker blaze:18", 
+        "bomb blast:24", 
+        "dozen:50", 
+        "dozen vehicles:50", 
+        "goods and oil:53", 
+        "bomb:71", 
+        "bomb exploded:71", 
+        "torkham checkpost:80", 
+        "tanker:99", 
+        "blast:106", 
+        "collect oil:111", 
+        "second explosion:119", 
+        "lives:123", 
+        "attack:128", 
+        "fire:135", 
+        "bomb:138", 
+        "bomb:147", 
+        "remote controlled device:153", 
+        "checkpost:164", 
+        "fire:170", 
+        "trucks:182", 
+        "goods and oil:184", 
+        "terrorist attack:193", 
+        "supplies:208", 
+        "fuel:210", 
+        "land:222", 
+        "ship:229", 
+        "resolution:237", 
+        "houses of parliament:241", 
+        "al-qaeda leader:255", 
+        "withdrawing:269", 
+        "transit facility:271", 
+        "nato-led isaf:276", 
+        "drone attacks:279", 
+        "resolution:288", 
+        "drone attacks:298", 
+        "nato helicopter incursion:306", 
+        "pakistani airspace:310", 
+        "missile attack:315", 
+        "security post:319", 
+        "blocking:328", 
+        "isaf supply line:330", 
+        "blockade:341", 
+        "u.s.:348", 
+        "apologised:349", 
+        "incursion:352", 
+        "nato vehicles:354", 
+        "attack:359"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/isaf-convoy-attacked-in-pakistan/article2039191.ece", 
+    "date": "22-05-2011", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "Oil tanker and vehicles", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "NATO", 
+            "8", 
+            "Victim"
+        ], 
+        [
+            "International Security Assistance Force", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "ISAF", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "ISAF", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "International Security Assistance Forces", 
+            "213", 
+            "Others"
+        ], 
+        [
+            "al-Qaeda", 
+            "255", 
+            "Assoc Accused"
+        ], 
+        [
+            "ISAF", 
+            "277", 
+            "Others"
+        ], 
+        [
+            "NATO", 
+            "306", 
+            "Victim"
+        ], 
+        [
+            "ISAF", 
+            "330", 
+            "Others"
+        ], 
+        [
+            "NATO", 
+            "354", 
+            "Victim"
+        ]
+    ]
+}

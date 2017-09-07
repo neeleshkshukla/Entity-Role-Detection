@@ -1,0 +1,354 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Myanmar", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Nizamabad", 
+            "163", 
+            "Neutral"
+        ], 
+        [
+            "Aurangabad", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "Dilkhush Nagar", 
+            "318", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "326", 
+            "Neutral"
+        ], 
+        [
+            "Warangal", 
+            "364", 
+            "Neutral"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "366", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "450", 
+            "Neutral"
+        ], 
+        [
+            "Nanded", 
+            "457", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "459", 
+            "Neutral"
+        ], 
+        [
+            "Secunderabad", 
+            "466", 
+            "Neutral"
+        ], 
+        [
+            "Nanded house", 
+            "474", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Asad Khan", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "Imran Khan", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "Sayed Feroz", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "Landge Irfan Mustafa", 
+            "62", 
+            "Accused"
+        ], 
+        [
+            "Sayed Maqbool", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Riyaz", 
+            "120", 
+            "Accused"
+        ], 
+        [
+            "Iqbal Bhatkal", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "191", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "198", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "201", 
+            "Accused"
+        ], 
+        [
+            "Asad", 
+            "207", 
+            "Accused"
+        ], 
+        [
+            "Irfan", 
+            "209", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "211", 
+            "Accused"
+        ], 
+        [
+            "Asads", 
+            "227", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "235", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "237", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "240", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "249", 
+            "Accused"
+        ], 
+        [
+            "Irfan", 
+            "251", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "253", 
+            "Accused"
+        ], 
+        [
+            "Asad", 
+            "255", 
+            "Accused"
+        ], 
+        [
+            "Bhatkals", 
+            "274", 
+            "Accused"
+        ], 
+        [
+            "Qateel Siddiqui", 
+            "281", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "304", 
+            "Accused"
+        ], 
+        [
+            "Imran", 
+            "307", 
+            "Accused"
+        ], 
+        [
+            "Riyaz", 
+            "335", 
+            "Accused"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "335", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "345", 
+            "Accused"
+        ], 
+        [
+            "Azam Gauri", 
+            "361", 
+            "Accused"
+        ], 
+        [
+            "Roshan Baig", 
+            "380", 
+            "Accused"
+        ], 
+        [
+            "Azam Gauri", 
+            "405", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "408", 
+            "Accused"
+        ], 
+        [
+            "Maqbool", 
+            "434", 
+            "Accused"
+        ], 
+        [
+            "Azam Gauri", 
+            "477", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "August 1:15", 
+        "Tuesday:130", 
+        "2000:174", 
+        "October 2009:176", 
+        "April:233", 
+        "1999:343", 
+        "2000:377", 
+        "2000:443", 
+        "1998:484"
+    ], 
+    "death": "", 
+    "title": "Bomb instructor held in Hyderabad", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "A suspected accomplice of four alleged Indian Mujahideen operatives , who were arrested on August 1 in connection with the Pune serial blasts , has been nabbed by the Delhi Police in Hyderabad . He allegedly taught the operatives how to configure improvised explosive devices . The police said that during interrogation Asad Khan , Imran Khan , Sayed Feroz and Landge Irfan Mustafa disclosed the name of Sayed Maqbool , along with whom they had , it was alleged , planned to target the Buddhist shrines at Bodh Gaya in Bihar in retaliation for atrocities committed on members of their community in Myanmar . The accused had planned the attacks at the instance of the outfits founder brothers Riyaz and Iqbal Bhatkal , the police said . On Tuesday , Maqbool was arrested in Hyderabad where he had been hiding to evade arrest , said a senior police officer . According to the police , Maqbool was earlier arrested in a Nizamabad murder case and on conviction he remained in jail from 2000 till October 2009 . While in jail , he became friends with a person known to Imran . Through the common friend , Maqbool allegedly met Imran , who introduced him to Asad and Irfan . Maqbool taught them how to make a bomb using urea , diesel and firecracker powder at Asads farmhouse in Aurangabad . In April , Imran introduced Maqbool to the Bhatkal brothers . Before the Pune serial blasts , Maqbool , Irfan , Imran and Asad had discussed the plan to carry out a fidayeen attack on the Bodh Gaya shrines . Since the Bhatkals wanted to avenge the death of Qateel Siddiqui , they decided to first carry out bomb blasts in Pune , said the officer . About four months ago , Maqbool also helped Imran in conducting a reconnaissance , on a motorcycle , of Dilkhush Nagar and a major commercial centre in Hyderabad . This was done on the instruction of Riyaz Bhatkal , said the officer . In 1999 , Maqbool was instrumental in the setting up of terror outfit Indian Muslim Mohammadin Mujahidin along with Azam Gauri of Warangal in Andhra Pradesh , who was killed in a police encounter in 2000 , and Roshan Baig . They operated posing as social reformists with an objective of fighting the dowry system , corruption and screening of pornographic films . Azam Gauri taught Maqbool how to prepare IEDs so that they could trigger blasts at theatres screening pornographic films , the officer said . According to police records , Maqbool along with the others was involved in the 2000 bomb blasts at a hotel in Hyderabad City , at a theatre in Nanded , Maharashtra , and at another theatre in Secunderabad , and in a blast in the Nanded house of Azam Gauri while configuring a bomb in 1998 . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "pune serial blasts:21", 
+        "improvised explosive devices:43", 
+        "buddhist shrines:86", 
+        "murder case:164", 
+        "pune serial blasts:245", 
+        "death:279", 
+        "bomb:290", 
+        "officer:297", 
+        "reconnaissance:311", 
+        "motorcycle:315", 
+        "centre:324", 
+        "instruction:333", 
+        "officer:340", 
+        "terror outfit:353", 
+        "encounter:375", 
+        "objective:391", 
+        "dowry system:395", 
+        "theatre:464"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/bomb-instructor-held-in-hyderabad/article4036687.ece", 
+    "date": "23-10-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "7", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "Indian Muslim Mohammadin Mujahidin", 
+            "355", 
+            "Assoc Accused"
+        ]
+    ]
+}

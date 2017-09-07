@@ -1,0 +1,127 @@
+{
+    "LOC": [
+        [
+            "Damascus", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Mazraa", 
+            "75", 
+            "Event"
+        ], 
+        [
+            "Damascus", 
+            "135", 
+            "Event"
+        ], 
+        [
+            "Al-Iman mosque", 
+            "161", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:17", 
+        "16 November : 156"
+    ], 
+    "death": "31", 
+    "title": "Many killed in Damascus blast", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A powerful car bomb exploded near the ruling Baath party headquarters in the Syrian capital on Thursday , killing at least 31 people , wounding dozens and leaving a trail of destruction , said a watchdog . Images of charred bodies lying next to mangled vehicles were broadcast by state television channel Al-Ekhbariya , which said children were among those wounded , as the blast occurred near a school the central Damascus district of Mazraa . At least 31 people were killed and dozens wounded , the majority civilians , said the Syrian Observatory for Human Rights , while the state news agency SANA reported 16 killed and 200 hurt in what it said was a suicide bombing . Shortly after the mid-morning blast , two mortars were fired at a military headquarters in Damascus , Al-Ekhbariya and the Observatory both reported , without giving information on casualties . The car bomb exploded at the 16 November Square near the Al-Iman mosque , next to the head offices of the Baath party , which has been in power for half a century . Buildings were shattered by the blast , which sent thick black smoke billowing across the capitals skyline and all roads in the area were quickly sealed off , an AFP correspondent said . Ambulance sirens rang out , and machinegun fire was also heard in the area , as firemen rushed to the scene to douse the flames . There was no immediate claim of responsibility for the attack , which left a large crater in a major road , according to pictures released by the SANA state news agency . AFP OPEN", 
+    "injured": "12", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        "Damascus", 
+        ""
+    ], 
+    "O": [
+        "exploded:5", 
+        "Baath party headquarters:9", 
+        "Syrian capital:14", 
+        "trail of destruction:30", 
+        "watchdog:36", 
+        "Images:38", 
+        "charred bodies:40", 
+        "mangled vehicles:45", 
+        "broadcast:48", 
+        "state television channel:50", 
+        "Al-Ekhbariya:53", 
+        "blast:65", 
+        "school:69", 
+        "majority civilians:88", 
+        "Syrian Observatory for Human Rights:93", 
+        "16 killed:106", 
+        "200 hurt:109", 
+        "suicide bombing:117", 
+        "mid-morning blast:123", 
+        "two mortars:126", 
+        "military headquarters:132", 
+        "Al-Ekhbariya:137", 
+        "casualties:148", 
+        "car bomb exploded:151", 
+        "Buildings:184", 
+        "shattered:186", 
+        "blast:189", 
+        "thick black smoke billowing:193", 
+        "capitals skyline:199", 
+        "sealed off:209", 
+        "Ambulance:217", 
+        "machinegun:223", 
+        "firemen rushed:233", 
+        "attack:252"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/many-killed-in-damascus-blast/article4441114.ece", 
+    "date": "21-02-2013", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Baath party", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "SANA", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "Baath party", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "213", 
+            "Others"
+        ], 
+        [
+            "SANA", 
+            "270", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "275", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "LOC": [
+        [
+            "Malegaon", 
+            "33", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Gokak", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "112", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "222", 
+            "Neutral"
+        ], 
+        [
+            "Nashik", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Deolali", 
+            "300", 
+            "Neutral"
+        ], 
+        [
+            "Nashik", 
+            "302", 
+            "Neutral"
+        ], 
+        [
+            "Nashik", 
+            "374", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Pravin Mutalik", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "Rakesh Maria", 
+            "39", 
+            "Comment"
+        ], 
+        [
+            "Pravin Mutalik", 
+            "66", 
+            "Accused"
+        ], 
+        [
+            "Praveen Venkatesh Takkalki", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Pradeep V. Naik", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "Mutalik", 
+            "104", 
+            "Accused"
+        ], 
+        [
+            "Mutalik", 
+            "151", 
+            "Accused"
+        ], 
+        [
+            "Mutalik", 
+            "254", 
+            "Accused"
+        ], 
+        [
+            "Rakesh Dhawade", 
+            "261", 
+            "Accused"
+        ], 
+        [
+            "Prasad Purohit", 
+            "288", 
+            "Others"
+        ], 
+        [
+            "Mutalik", 
+            "291", 
+            "Accused"
+        ], 
+        [
+            "Sudhakar Chaturvedi", 
+            "297", 
+            "Others"
+        ], 
+        [
+            "Mutalik", 
+            "363", 
+            "Accused"
+        ], 
+        [
+            "Purohit", 
+            "372", 
+            "Others"
+        ], 
+        [
+            "Purohit", 
+            "391", 
+            "Others"
+        ], 
+        [
+            "Mutalik", 
+            "397", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:6", 
+        "September 29 , 2008 : 29", 
+        "February 1 , 2011:114", 
+        "2003:338"
+    ], 
+    "death": "", 
+    "title": "ATS: Mutalik propagated hatred", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Maharashtra Anti-Terrorism Squad on Thursday filed a supplementary charge sheet against Pravin Mutalik before the MCOCA ( Maharashtra Control of Organised Crime Act ) court in the September 29 , 2008 Malegaon blast case , ATS chief Rakesh Maria told The Hindu . With this , the ATS has chargesheeted 12 accused . Two of them are still wanted . The charge sheet said Pravin Mutalik alias Praveen Venkatesh Takkalki alias Pradeep V. Naik was one of the accused who actually planted explosive devices on an LML Freedom motorcycle , which exploded killing six persons and injuring more than 100 others . Mutalik , who was arrested from Gokak in Karnataka on February 1 , 2011 , has been booked under various sections of the Indian Penal Code , the MCOCA , the Unlawful Activities ( Prevention ) Act , the Explosive Substances Act and the Arms Act . Mutalik has been accused of utilising the organisation , namely Abhinav Bharat , as a front for propagating hatred against people who are against their ideology ; preparing for a government in exile with the ideology of Hindu Rashtra alone , contrary to the secular policy of the government enshrined in the Constitution of India ; preparing for overawing the government ; to threaten the unity , integrity and security of India ; to strike terror in the people by causing explosions ; and conspiring to do away with some members of RSS who are against their ideology . The charge sheet said Mutalik got training in making bombs from Rakesh Dhawade ( who has also been arrested ) at various places including at the Bhosala Military School , Nashik , on the instructions of Lt. Col. Prasad Purohit . Mutalik stayed at the house of Sudhakar Chaturvedi in Deolali , Nashik , where the explosives were assembled . While giving reasons for slapping the MCOCA on the 12 accused , the ATS said : Members of this organised crime syndicate have been committing bomb blasts from 2003 ... The accused have procured , acquired and transported a huge amount of money , arms and ammunition for continuing their unlawful activities ... Mutalik attended a conspiracy meeting arranged by Lt. Col. Purohit in Nashik . He tried to induct youth in the Abhinav Bharat for ammunition training . Lt. Col. Purohit wanted to make use of Mutalik under the banner of the Abhinav Bharat by organising training camps for like-minded youth to adopt his ideology and also to commit terrorist activities in retaliation for bomb explosions committed by Muslims , the charge sheet stated . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "charge sheet:10", 
+        "malegaon blast case:33", 
+        "charge sheet:63", 
+        "accused:80", 
+        "explosive:84", 
+        "lml freedom motorcycle:88", 
+        "indian penal code:127", 
+        "mcoca:132", 
+        "explosive substances act:143", 
+        "arms act:148", 
+        "ideology:176", 
+        "exile:183", 
+        "ideology:186", 
+        "hindu rashtra:188", 
+        "constitution of india:203", 
+        "strike terror:225", 
+        "explosions:232", 
+        "ideology:248", 
+        "charge sheet:251", 
+        "training:256", 
+        "bombs:259", 
+        "explosives:306", 
+        "mcoca:316", 
+        "accused:320", 
+        "crime syndicate:330", 
+        "bomb:335", 
+        "money:352", 
+        "arms and ammunition:354", 
+        "conspiracy meeting:366", 
+        "ammunition training:386", 
+        "training camps:407", 
+        "ideology:415", 
+        "terrorist:420", 
+        "retaliation:423", 
+        "bomb explosions:425", 
+        "muslims:429", 
+        "charge sheet:432"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/ats-mutalik-propagated-hatred/article1717215.ece", 
+    "date": "21-04-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "MCOCA", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Control of Organised Crime Act", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "Abhinav Bharat", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "RSS", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "Bhosala Military School", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "323", 
+            "Others"
+        ], 
+        [
+            "Abhinav Bharat", 
+            "383", 
+            "Accused"
+        ], 
+        [
+            "Abhinav Bharat", 
+            "403", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "LOC": [
+        [
+            "Nowshera", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Khyber Pakhtoonkhwa", 
+            "20", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "Iftar evening", 
+    "DAT": [
+        "Thursday:23"
+    ], 
+    "death": "10", 
+    "title": "Blast in Pakistan hotel kills 10", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Islamabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 10 people were killed and 14 injured in a bomb blast inside a hotel in Nowshera in Khyber Pakhtoonkhwa on Thursday evening . The bomb exploded as the hotel was opening in the evening for Iftar after a day of fasting , and was fairly crowded at the time . Several shops in the vicinity were also damaged . Anita Joshua OPEN", 
+    "injured": "14", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb blast:12", 
+        "hotel:16", 
+        "bomb:27", 
+        "hotel:31", 
+        "iftar:38", 
+        "crowded:48", 
+        "shops:54"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Religious festivals", 
+    "link": "http://www.thehindu.com/todays-paper/blast-in-pakistan-hotel-kills-10/article2398393.ece", 
+    "date": "26-08-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

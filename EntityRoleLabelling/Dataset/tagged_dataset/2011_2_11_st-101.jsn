@@ -1,0 +1,176 @@
+{
+    "LOC": [
+        [
+            "Karnataka", 
+            "1", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Nasir Maudany", 
+            "15", 
+            "Accused"
+        ], 
+        [
+            "Ashok Haranahally", 
+            "42", 
+            "Comment"
+        ], 
+        [
+            "Haranahally", 
+            "97", 
+            "Comment"
+        ], 
+        [
+            "Haranahally", 
+            "180", 
+            "Comment"
+        ], 
+        [
+            "B.V. Acharya", 
+            "183", 
+            "Comment"
+        ], 
+        [
+            "Maudany", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "222", 
+            "Accused"
+        ], 
+        [
+            "Acharya", 
+            "255", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "279", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "283", 
+            "Accused"
+        ], 
+        [
+            "Acharya", 
+            "288", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "301", 
+            "Accused"
+        ], 
+        [
+            "V. Jagannathan", 
+            "319", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:4", 
+        "Friday:341"
+    ], 
+    "death": "", 
+    "title": "Maudany had a big role: prosecution", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)"
+    ], 
+    "content": "Karnataka , on Thursday , opposed granting bail to People 's Democratic Party leader Abdul Nasir Maudany , an accused in the Bangalore serial bomb blasts case , alleging that he masterminded the explosions . Opposing the bail application , Advocate-General Ashok Haranahally submitted in the Karnataka High Court that the accused had links with members of terror groups such as Lashkar-e-Taiba ( LeT ) . It would not be safe to grant bail to such a person who is involved in terror activities as already most witnesses in the case are being threatened , Mr. Haranahally said . The accused appeared to have masterminded the blasts , as he was not only involved in the conspiracy but was also in constant touch with other the accused , some of whom were alleged to be LeT members and was continuously monitoring what was happening , the prosecution argued . It just can not be believed that he was not involved in the conspiracy . He was not only involved in it , he also harboured the accused , Mr. Haranahally contended . B.V. Acharya , counsel for Maudany , submitted that a person should not be made accused in a case on the basis of his past . There are no cases against the ISS ( now-defunct Islamic Sevak Sangh that Maudany had founded ) or the PDP that they were or are indulging in unlawful activities . He can not be accused of an offence on that basis , he submitted . Mr. Acharya further contended that the investigation had not been carried out in a fair manner and it was only a make-believe theory to implicate Maudany . Requesting that Maudany be granted bail , Acharya pleaded he would abide by any condition imposed by the court . Maudany has sought bail on the grounds that there was no prima facie case against him . Justice V. Jagannathan sought certain clarifications on the phone call records between the accused and the other accused and posted the case to Friday for further arguments . PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "serial bomb:24", 
+        "masterminded:32", 
+        "explosions:34", 
+        "bail application:38", 
+        "terror:58", 
+        "terror:83", 
+        "accused:101", 
+        "conspiracy:117", 
+        "prosecution:147", 
+        "conspiracy:163", 
+        "counsel:186", 
+        "person:193", 
+        "case:201", 
+        "offence:246", 
+        "investigation:260", 
+        "manner:269", 
+        "theory:276", 
+        "acharya:288", 
+        "condition:295", 
+        "court:299", 
+        "phone call:326", 
+        "accused:331"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/maudany-had-a-big-role-prosecution/article1329372.ece", 
+    "date": "11-02-2011", 
+    "target": "", 
+    "hot_spot": "Bangalore serial bomb blasts", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "People 's Democratic Party", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Karnataka High Court", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "62", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "136", 
+            "Accused"
+        ], 
+        [
+            "ISS", 
+            "215", 
+            "Accused"
+        ], 
+        [
+            "Islamic Sevak Sangh", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "PDP", 
+            "228", 
+            "Accused"
+        ]
+    ]
+}

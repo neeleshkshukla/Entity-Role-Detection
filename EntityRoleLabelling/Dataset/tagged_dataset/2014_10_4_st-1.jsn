@@ -1,0 +1,111 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Khagragarh", 
+            "64", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Nadia", 
+            "164", 
+            "Neutral"
+        ], 
+        [
+            "Murshidabad", 
+            "173", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shakil Ahmad", 
+            "72", 
+            "Accused"
+        ], 
+        [
+            "Sovon Mondal", 
+            "75", 
+            "Accused"
+        ], 
+        [
+            "Hasan Chowdhury", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "Shakil Ahmad", 
+            "158", 
+            "Accused"
+        ], 
+        [
+            "Hasan Sahed", 
+            "167", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 33", 
+        "Thursday : 59", 
+        "Thursday : 192"
+    ], 
+    "death": "", 
+    "title": "Samples suggest terrorist link in Bardhaman blast, say police", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Kolkata", 
+        ""
+    ], 
+    "terror_group": [
+        "Jamiat-ul-Mujahideen"
+    ], 
+    "content": "Several investigating agencies such as the Special Task Force ( STF ) of the Kolkata Police , the Anti-Terrorism Squad and West Bengal Criminal Investigation Department ( CID ) collected samples on Friday from a house - in the Bardhaman district of West Bengal - where two persons died in an explosion . The explosion took place on Thursday at a house in Khagragarh in the district . Two persons - Shakil Ahmad and Sovon Mondal - died on the spot . The police have seized some explosives and other `` evidence '' from the house which suggests that the deceased may have had links to terror outfits , the district police claimed . Although , no arrests have been made , the police are questioning the wives of the deceased along with the owner of the house where the explosion occurred . A few months ago , Hasan Chowdhury had given the house on rent to Shakil Ahmad , a resident of Nadia district . Hasan Sahed , who hails from Murshidabad , was also injured in the explosion . The locals heard a loud explosion at about noon on Thursday and informed the police . The bomb disposal squad and fire tenders were rushed to the spot . Though , it is not clear how the explosion occurred , a number of mobile SIM cards and watch dials were found from the site where the explosion occurred , the police said . OPEN", 
+    "injured": "", 
+    "org_unorg": "Unorganized", 
+    "O": [
+        "burdwan blast:9"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/samples-suggest-terrorist-link-in-bardhaman-blast-say-police/article6469670.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Kolkata Police", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "West Bengal Criminal Investigation Department", 
+            "22", 
+            "Others"
+        ]
+    ]
+}

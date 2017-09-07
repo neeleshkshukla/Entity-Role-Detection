@@ -1,0 +1,160 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'LUDHIANA'
+p4
+aS'1'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Ludhiana-Ferozepur National Highway.Gurpreet'
+p8
+aS'71'
+p9
+aS'Accused Location'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Gurpreet Singh'
+p14
+aS'10'
+p15
+aS'Accused'
+p16
+aa(lp17
+S'Gurpreet'
+p18
+aS'89'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Gurpreet'
+p22
+aS'114'
+p23
+aS'Accused'
+p24
+aasS'TIM'
+p25
+(lp26
+sS'hot_setting'
+p27
+S''
+p28
+sS'DAT'
+p29
+(lp30
+S'Thursday : 5'
+p31
+aS'September : 41'
+p32
+asS'death'
+p33
+S'6'
+p34
+sS'title'
+p35
+S"Punjab Police raids Ludhiana blast suspect's hideouts"
+p36
+sS'det_loc'
+p37
+(lp38
+S'India'
+p39
+aS'Punjab'
+p40
+aS'Ludhiana'
+p41
+ag28
+ag28
+asS'terror_group'
+p42
+(lp43
+g28
+asS'content'
+p44
+VLUDHIANA : Police on Thursday raided the hideouts of Gurpreet Singh , a suspect in the recent cinema hall blast here which killed six persons and injured 32 others.The suspect with a terrorist background has been on the run since September two last when his car carrying 3.5 kgs of RDX , a 50-metre wire , a detonator , iron pipes and sockets was intercepted by the police on the Ludhiana-Ferozepur National Highway.Gurpreet had abandoned the vehicle and disappeared by hoodwinking the police party.Police intensified their search for Gurpreet when forensic teams found traces of RDX in the blast at a cinema hall here.The raids conducted today have not yielded any clues to Gurpreet 's whereabouts so far , they said.However , efforts are on to track him down with a large number of his friends and family members being questioned , they added .
+p45
+sS'injured'
+p46
+S'32'
+p47
+sS'org_unorg'
+p48
+g28
+sS'O'
+p49
+(lp50
+S'raided the hideouts:6'
+p51
+aS'cinema hall blast:18'
+p52
+aS'killed six persons:23'
+p53
+aS'injured 32:27'
+p54
+aS'terrorist background:33'
+p55
+aS'his car:45'
+p56
+aS'3.5 kgs of RDX:48'
+p57
+aS'50-metre wire:54'
+p58
+aS'detonator:58'
+p59
+aS'iron pipes:60'
+p60
+aS'sockets:63'
+p61
+aS'abandoned the vehicle:75'
+p62
+aS'hoodwinking the police:81'
+p63
+aS'forensic teams:91'
+p64
+aS'traces of RDX:94'
+p65
+asS'unexpl'
+p66
+(lp67
+g28
+asS'ocassion'
+p68
+g28
+sS'link'
+p69
+S'http://timesofindia.indiatimes.com/india/Punjab-Police-raids-Ludhiana-blast-suspects-hideouts/articleshow/2471056.cms'
+p70
+sS'date'
+p71
+S'14-10-2007'
+p72
+sS'target'
+p73
+S'CINEMA HALL'
+p74
+sS'hot_spot'
+p75
+g28
+sS'delivery_mod'
+p76
+g28
+sS'delivery_met'
+p77
+g28
+sS'expl'
+p78
+(lp79
+S'RDX'
+p80
+asS'ORG'
+p81
+(lp82
+s.

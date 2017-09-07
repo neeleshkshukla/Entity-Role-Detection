@@ -1,0 +1,274 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'U.P.'
+p4
+aS'9'
+p5
+aS'Event'
+p6
+aa(lp7
+S'LUCKNOW'
+p8
+aS'26'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Gorakhpur'
+p12
+aS'159'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Baldev Plaza'
+p16
+aS'227'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Jalkal'
+p20
+aS'236'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Golghar'
+p24
+aS'243'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Park Hotel'
+p28
+aS'251'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Golghar'
+p32
+aS'293'
+p33
+aS'Event'
+p34
+aasS'PER'
+p35
+(lp36
+(lp37
+S'K. Chandramouli'
+p38
+aS'116'
+p39
+aS'Comment'
+p40
+aa(lp41
+S'Chandramouli'
+p42
+aS'128'
+p43
+aS'Comment'
+p44
+aasS'TIM'
+p45
+(lp46
+S'five minutes : 22'
+p47
+aS'7 p.m.:53'
+p48
+aS'p.m.:54'
+p49
+aS'five minutes : 205'
+p50
+asS'hot_setting'
+p51
+S''
+p52
+sS'DAT'
+p53
+(lp54
+S'Tuesday:44'
+p55
+aS'Tuesday:286'
+p56
+asS'death'
+p57
+g52
+sS'title'
+p58
+S'3 blasts rock Gorakhpur'
+p59
+sS'org_unorg'
+p60
+g52
+sS'terror_group'
+p61
+(lp62
+g52
+asS'content'
+p63
+VSpecial Correspondent . . High alert sounded in U.P. . . Bombs kept in tiffin boxes Blasts within a span of five minutes . . LUCKNOW : Six persons were injured as three serial bomb blasts rocked Gorakhpur in eastern Uttar Pradesh on Tuesday . The blasts in a row occurred around 7 p.m. in and around the busy Golghar area of the town . . . The State Government has sounded a high alert . A Home Department spokesman said security around vital installations and religious places was tightened . Vigil along the Indo-Nepal border , about 100 km from Gorakhpur , has been intensified . . . Principal Secretary -LRB- Home -RRB- , K. Chandramouli said the blasts were being investigated . . . Mr. Chandramouli said there was no need for panic as efforts to disturb the peace would not be allowed . . . He said senior police officials , including the Inspector-General , Gorakhpur Zone , DIG Range and the SSP rushed to the site of the blasts and the situation was under control . . . The bombs were kept in tiffin boxes attached to two cycles and a motorcycle . The blasts occurred within a span of five minutes , sending the people in the busy commercial area into a panic . . . The first blast occurred at Baldev Plaza , followed by the one near the Jalkal -LRB- Water Works -RRB- building in Golghar . The third bomb went off near Park Hotel . . . Though no organisation has claimed responsibility for the blasts , investigating agencies have not ruled out the hand of a terrorist outfit , as the blasts took place on a Tuesday in a busy commercial area like Golghar , visited by hundreds of people after office hours . . . PTI reports : . . Immediately after the blasts shopkeepers in the locality and other markets downed shutters , even as police sealed all exit points from the city .
+p64
+sS'injured'
+p65
+S'6'
+p66
+sS'det_loc'
+p67
+(lp68
+S'India'
+p69
+aS'Uttar Pradesh'
+p70
+aS'Gorakpur'
+p71
+aS'Gorakhpur'
+p72
+aS'Golghar'
+p73
+asS'O'
+p74
+(lp75
+S'High alert:5'
+p76
+aS'Bombs:12'
+p77
+aS'tiffin boxes:15'
+p78
+aS'Blasts:17'
+p79
+aS'injured:31'
+p80
+aS'blasts:47'
+p81
+aS'row:50'
+p82
+aS'busy Golghar area:59'
+p83
+aS'town:64'
+p84
+aS'sounded:72'
+p85
+aS'high alert:74'
+p86
+aS'Home Department spokesman:78'
+p87
+aS'security:82'
+p88
+aS'vital installations:84'
+p89
+aS'religious places:87'
+p90
+aS'tightened:90'
+p91
+aS'Vigil:92'
+p92
+aS'Indo-Nepal border:95'
+p93
+aS'Gorakhpur:102'
+p94
+aS'intensified:106'
+p95
+aS'blasts:120'
+p96
+aS'investigated:123'
+p97
+aS'panic:135'
+p98
+aS'disturb:139'
+p99
+aS'blasts:173'
+p100
+aS'situation:176'
+p101
+aS'under control:178'
+p102
+aS'bombs:184'
+p103
+aS'tiffin boxes:188'
+p104
+aS'two cycles:192'
+p105
+aS'motorcycle:196'
+p106
+aS'blasts:199'
+p107
+aS'busy commercial area:213'
+p108
+aS'panic:218'
+p109
+aS'first blast:223'
+p110
+aS'Water Works:238'
+p111
+aS'third bomb:246'
+p112
+aS'no organisation:257'
+p113
+aS'claimed:260'
+p114
+aS'blasts:264'
+p115
+aS'investigating agencies:266'
+p116
+aS'ruled out:270'
+p117
+aS'terrorist outfit:276'
+p118
+aS'blasts:281'
+p119
+aS'busy commercial area:289'
+p120
+aS'office hours:301'
+p121
+aS'blasts:314'
+p122
+aS'markets downed shutters:321'
+p123
+aS'police sealed:327'
+p124
+aS'exit points:330'
+p125
+asS'unexpl'
+p126
+(lp127
+g52
+asS'ocassion'
+p128
+g52
+sS'link'
+p129
+S'http://www.thehindu.com/todays-paper/3-blasts-rock-gorakhpur/article1846097.ece'
+p130
+sS'date'
+p131
+g52
+sS'target'
+p132
+S'MARKET PLACE'
+p133
+sS'hot_spot'
+p134
+g52
+sS'delivery_mod'
+p135
+S'TIFFIN BOX'
+p136
+sS'delivery_met'
+p137
+S'PLACED'
+p138
+sS'expl'
+p139
+(lp140
+g52
+asS'ORG'
+p141
+(lp142
+s.

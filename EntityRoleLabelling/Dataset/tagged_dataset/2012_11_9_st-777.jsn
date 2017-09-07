@@ -1,0 +1,134 @@
+{
+    "LOC": [
+        [
+            "Afghanistan", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "southern Helmand province", 
+            "80", 
+            "Event"
+        ], 
+        [
+            "Kandahar", 
+            "131", 
+            "Event"
+        ], 
+        [
+            "eastern Laghman province", 
+            "163", 
+            "Event"
+        ], 
+        [
+            "Zabul province", 
+            "190", 
+            "Event"
+        ], 
+        [
+            "southern Afghanistan", 
+            "193", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "194", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ismail Khan Hotak", 
+            "103", 
+            "Comment"
+        ], 
+        [
+            "Ahmad Jawed Faisal", 
+            "142", 
+            "Comment"
+        ], 
+        [
+            "Sarhadi Zewak", 
+            "169", 
+            "Comment"
+        ], 
+        [
+            "Ghulam Gilani Farahi", 
+            "199", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:18", 
+        "Thursday:179"
+    ], 
+    "death": "20", 
+    "title": "Bomb attacks rock Afghanistan, 20 dead", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Roadside bombs and a suicide bomber killed 20 people in a spate of attacks across Afghanistan on Thursday , officials said . The deaths came even as armed clashes between insurgents and Afghan security forces have decreased as the fighting season winds down with the advent of cooler weather in the mountainous nation . In one of the attacks , 10 civilians , including a child and four men , died as their vehicle struck a land mine in southern Helmand province . Seven other people in the group which was heading to a wedding were wounded in the blast , said Ismail Khan Hotak of the provincial security coordination center . A suicide bomber on a motorcycle blew himself up amid a police patrol in the southern city of Kandahar , killing the three policemen and wounding two , said Ahmad Jawed Faisal , a provincial governor spokesman . And five troops died when their convoy hit a land mine in eastern Laghman province , according to Sarhadi Zewak , also a governor spokesman . Also on Thursday , two boys were killed by a roadside bomb in Zabul province in southern Afghanistan . Deputy provincial chief Ghulam Gilani Farahi said the device had probably been planted by insurgents targeting police officers patrolling the area.PTI OPEN", 
+    "injured": "7", 
+    "org_unorg": "Organized", 
+    "O": [
+        "roadside:1", 
+        "roadside bombs:1", 
+        "suicide bomber:5", 
+        "spate:12", 
+        "insurgents:31", 
+        "season:41", 
+        "advent:46", 
+        "weather:49", 
+        "nation:53", 
+        "child:66", 
+        "vehicle:74", 
+        "land mine:77", 
+        "group:89", 
+        "wedding:95", 
+        "blast:100", 
+        "security coordination center:109", 
+        "suicide bomber:114", 
+        "motorcycle:118", 
+        "patrol:125", 
+        "city:129", 
+        "governor spokesman:148", 
+        "convoy hit:157", 
+        "land mine:160", 
+        "governor spokesman:174", 
+        "roadside bomb:187", 
+        "province:191", 
+        "deputy:196", 
+        "chief:198", 
+        "device:204", 
+        "patrolling:214"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/bomb-attacks-rock-afghanistan-20-dead/article4079210.ece", 
+    "date": "08-11-2012", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Afghan security forces", 
+            "33", 
+            "Victim"
+        ]
+    ]
+}

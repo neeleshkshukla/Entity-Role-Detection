@@ -1,0 +1,136 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Thai south'
+p4
+aS'12'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Thailand'
+p8
+aS'25'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Narathiwat'
+p12
+aS'55'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+sS'TIM'
+p17
+(lp18
+sS'hot_setting'
+p19
+S'A day after Thailand signed a peace talk deal with one of several rebel groups'
+p20
+sS'DAT'
+p21
+(lp22
+sS'death'
+p23
+S''
+p24
+sS'title'
+p25
+S'Blast rattles Thai south after peace talk deal'
+p26
+sS'org_unorg'
+p27
+S'ORGANISED'
+p28
+sS'terror_group'
+p29
+(lp30
+g24
+asS'content'
+p31
+S'Six people were injured in a bomb blast in the restive Thai south , police said , as unrest continued barely a day after Thailand signed a peace talk deal with one of several rebel groups . The device , hidden in a motorcycle , was detonated outside a market in the town of Narathiwat , police said.AFP OPEN'
+p32
+sS'injured'
+p33
+S'6'
+p34
+sS'det_loc'
+p35
+(lp36
+S'Thailand'
+p37
+ag24
+ag24
+aS'Narathiwat'
+p38
+aS'Outside a market in Narathiwat'
+p39
+asS'O'
+p40
+(lp41
+S'injured:4'
+p42
+aS'bomb blast:7'
+p43
+aS'unrest:19'
+p44
+aS'peace talk:28'
+p45
+aS'rebel groups:35'
+p46
+aS'device:39'
+p47
+aS'hidden:41'
+p48
+aS'motorcycle:44'
+p49
+aS'detonated:47'
+p50
+aS'market:50'
+p51
+asS'unexpl'
+p52
+(lp53
+g24
+asS'ocassion'
+p54
+S'INSURGENCY/CIVIL WAR'
+p55
+sS'link'
+p56
+S'http://www.thehindu.com/todays-paper/tp-in-school/blast-rattles-thai-south-after-peace-talk-deal/article4467346.ece'
+p57
+sS'date'
+p58
+S'01-03-2013'
+p59
+sS'target'
+p60
+S'MARKET PLACE'
+p61
+sS'hot_spot'
+p62
+S'Outside a market in the town'
+p63
+sS'delivery_mod'
+p64
+S'TWO WHEELER'
+p65
+sS'delivery_met'
+p66
+S'PLANTED'
+p67
+sS'expl'
+p68
+(lp69
+g24
+asS'ORG'
+p70
+(lp71
+s.

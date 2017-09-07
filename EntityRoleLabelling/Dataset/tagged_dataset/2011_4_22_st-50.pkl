@@ -1,0 +1,262 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bangalore'
+p4
+aS'31'
+p5
+aS'Assoc Event Location'
+p6
+aa(lp7
+S'Coimbatore'
+p8
+aS'85'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Bangalore'
+p12
+aS'101'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Bangalore'
+p16
+aS'204'
+p17
+aS'Neutral'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Abdul Nasir Maudany'
+p22
+aS'24'
+p23
+aS'Accused'
+p24
+aa(lp25
+S'Markandey Katju'
+p26
+aS'40'
+p27
+aS'Others'
+p28
+aa(lp29
+S'Gyan Sudha Misra'
+p30
+aS'43'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Shanti Bhushan'
+p34
+aS'64'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Adolf Mathews'
+p38
+aS'68'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Maudany'
+p42
+aS'73'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Bhushan'
+p46
+aS'76'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Maudany'
+p50
+aS'79'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Maudany'
+p54
+aS'122'
+p55
+aS'Accused'
+p56
+aasS'TIM'
+p57
+(lp58
+sS'hot_setting'
+p59
+S''
+p60
+sS'DAT'
+p61
+(lp62
+S'Thursday:5'
+p63
+aS'April 29:57'
+p64
+aS'June 11 , 2010 : 192'
+p65
+asS'death'
+p66
+g60
+sS'title'
+p67
+S"Court notice to Karnataka on Maudany's bail plea"
+p68
+sS'org_unorg'
+p69
+S'Organized'
+p70
+sS'terror_group'
+p71
+(lp72
+g60
+asS'content'
+p73
+S"The Supreme Court on Thursday issued notice to the Karnataka government on a special leave petition filed by People 's Democratic Party leader Abdul Nasir Maudany seeking bail in the Bangalore bomb blast case . A Bench of Justices Markandey Katju and Gyan Sudha Misra issued the notice and scheduled further hearing of the matter for April 29 , after hearing senior counsel Shanti Bhushan and counsel Adolf Mathews appearing for Mr. Maudany . Mr. Bhushan said Mr. Maudany was an accused in the Coimbatore bomb blast case , and was acquitted ; thereafter , he was implicated in the Bangalore blast case . In his special leave petition against a fast track court order rejecting his bail petition , Mr. Maudany said his movements were restricted because of the amputation of his right leg below the knee ; he was dependent on a wheelchair . He was also suffering from chronic diabetes , coronary heart disease , cervical spondylosis , and other ailments . He said his name was not at all mentioned in the charge sheet filed initially ; it figured only in the additional charge sheet filed on June 11 , 2010 before the First Additional Chief Metropolitan Magistrate , Bangalore . The magistrate issued a non-bailable warrant against him . OPEN"
+p74
+sS'injured'
+p75
+g60
+sS'det_loc'
+p76
+(lp77
+S'India'
+p78
+aS'Delhi'
+p79
+aS'New Delhi'
+p80
+ag60
+ag60
+asS'O'
+p81
+(lp82
+S'notice:7'
+p83
+aS'leave petition:15'
+p84
+aS"People 's Democratic Party leader:19"
+p85
+aS'bail:28'
+p86
+aS'bangalore bomb blast case:31'
+p87
+aS'bench of justices:37'
+p88
+aS'notice:48'
+p89
+aS'hearing:52'
+p90
+aS'hearing:61'
+p91
+aS'senior counsel:62'
+p92
+aS'counsel:67'
+p93
+aS'coimbatore bomb blast case:85'
+p94
+aS'bangalore blast case:101'
+p95
+aS'leave petition:108'
+p96
+aS'track court order:113'
+p97
+aS'bail petition:118'
+p98
+aS'amputation:131'
+p99
+aS'leg:135'
+p100
+aS'wheelchair:145'
+p101
+aS'diabetes:153'
+p102
+aS'heart disease:156'
+p103
+aS'spondylosis:160'
+p104
+aS'charge sheet:177'
+p105
+aS'charge sheet:188'
+p106
+aS'chief metropolitan:200'
+p107
+aS'magistrate:202'
+p108
+aS'magistrate:207'
+p109
+aS'warrant:211'
+p110
+asS'unexpl'
+p111
+(lp112
+g60
+asS'ocassion'
+p113
+g60
+sS'link'
+p114
+S'http://www.thehindu.com/todays-paper/tp-national/court-notice-to-karnataka-on-maudanys-bail-plea/article1717026.ece'
+p115
+sS'date'
+p116
+S'22-04-2011'
+p117
+sS'target'
+p118
+g60
+sS'hot_spot'
+p119
+g60
+sS'delivery_mod'
+p120
+g60
+sS'delivery_met'
+p121
+g60
+sS'expl'
+p122
+(lp123
+g60
+asS'ORG'
+p124
+(lp125
+(lp126
+S'Supreme Court'
+p127
+aS'2'
+p128
+aS'Others'
+p129
+aa(lp130
+S'Karnataka government'
+p131
+aS'10'
+p132
+aS'Others'
+p133
+aa(lp134
+S"People 's Democratic Party"
+p135
+aS'19'
+p136
+aS'Others'
+p137
+aas.

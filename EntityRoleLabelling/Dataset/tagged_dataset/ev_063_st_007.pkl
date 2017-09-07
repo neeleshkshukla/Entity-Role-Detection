@@ -1,0 +1,334 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Jama Masjid'
+p8
+aS'23'
+p9
+aS'Event'
+p10
+aa(lp11
+S'northern India'
+p12
+aS'39'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Delhi'
+p16
+aS'82'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Jama Masjid'
+p20
+aS'136'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Jama Masjid'
+p24
+aS'321'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Jama Masjid'
+p28
+aS'397'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Srinagar'
+p32
+aS'401'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Jama Masjid'
+p36
+aS'420'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Jama Masjid'
+p40
+aS'455'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Delhi'
+p44
+aS'458'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Jama Masjid'
+p48
+aS'513'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Jama Masjid'
+p52
+aS'524'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Jama Masjid'
+p56
+aS'549'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Hindu temples'
+p60
+aS'560'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'New Delhi'
+p64
+aS'563'
+p65
+aS'Neutral'
+p66
+aasS'PER'
+p67
+(lp68
+(lp69
+S'Amanullah Khan'
+p70
+aS'139'
+p71
+aS'Comment'
+p72
+aa(lp73
+S'Khan'
+p74
+aS'177'
+p75
+aS'Comment'
+p76
+aa(lp77
+S'Karnail Singh'
+p78
+aS'357'
+p79
+aS'Comment'
+p80
+aa(lp81
+S'A.P.J. Abdul Kalam'
+p82
+aS'380'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Manmohan Singh'
+p86
+aS'386'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Sonia Gandhi'
+p90
+aS'416'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Syed Ahmed Bukhari'
+p94
+aS'517'
+p95
+aS'Others'
+p96
+aa(lp97
+S'shahi imam'
+p98
+aS'521'
+p99
+aS'Others'
+p100
+aa(lp101
+S'Alok Kumar'
+p102
+aS'541'
+p103
+aS'Comment'
+p104
+aasS'TIM'
+p105
+(lp106
+S'night : 425'
+p107
+asS'hot_setting'
+p108
+S''
+p109
+sS'DAT'
+p110
+(lp111
+S'16 April 2006 : 4'
+p112
+aS'Friday : 63'
+p113
+aS'17th century : 219'
+p114
+aS'Friday : 424'
+p115
+asS'death'
+p116
+g109
+sS'title'
+p117
+S'Police Detain Four Suspects: Delhis Jama Masjid Blasts'
+p118
+sS'org_unorg'
+p119
+S'ORGANISED'
+p120
+sS'terror_group'
+p121
+(lp122
+g109
+asS'content'
+p123
+VNEW DELHI , 16 April 2006 Police yesterday said they had detained four suspects in connection with the twin blasts at Delhis Jama Masjid that injured 14 people as security was stepped up at temples and mosques across northern India to guard against reprisal attacks . Two of the detainees were picked up early yesterday while the other two were detained late Friday , said a police official who did not wish to be named . Three of them are from Delhi while the fourth says he is not from here , he said . We have not arrested them . They are in custody for questioning . Though the prayer routine at the historic mosque was back to normal , politicians and police officers remained puzzled about who was responsible for Fridays attack . Jama Masjid spokesman Amanullah Khan said : There is absolutely no tension , everything is fine , everything is normal . You can say we are back to our normal routine . On who could be responsible for the attack , Khan said : That is not for us to say . The police are on their job . We are sure they will find out . A special cell of the Delhi Police is conducting investigations into the blasts . With the 17th century mosque having been targeted for the first time , the investigating officers are also wondering on this being a deliberate attempt to create tension in a communally sensitive area . Preliminary examination of explosives suggests , sources said , that the blasts were not meant to kill or destroy but cause panic and doubt . Both bombs , with the quantum of phosphorous-sulphur mix being less than 100 grams , were kept 15 feet apart . The intention behind the explosions was to create panic in the city , police officials said . Intelligence sources are of the opinion that Jama Masjid blasts have not been carried out by any major terrorist group . We are looking at various angles , including previous attacks . The probe is on , Joint Commissioner ( Special Cell ) Karnail Singh said . Meanwhile , leaders cutting across party lines have appealed for calm and strongly condemned the bomb attack . President A.P.J. Abdul Kalam , Prime Minister Manmohan Singh and other leaders have condemned the blasts in the Jama Masjid and in Srinagar . They have appealed to people to maintain communal harmony . While Congress leader Sonia Gandhi visited the Jama Masjid late on Friday night , the Congress party condemned the explosions yesterday . Communist Party of India ( Marxist ) said in a statement : The two blasts in the premises of the Jama Masjid in Delhi are an obvious provocation to outrage religious sentiments and create communal disharmony . Condemning the blasts , CPI ( M ) asked authorities to track down the culprits . Among other parties , Bharatiya Janata Party , Communist Party of India , Forward Bloc and Janata Dal ( S ) have also condemned the Jama Masjid blasts . Syed Ahmed Bukhari , shahi imam of Jama Masjid termed the blasts as a desperate attempt by divisive forces to disturb communal harmony . Alok Kumar , deputy police chief of the Jama Masjid area , said there was tight security at all Hindu temples in New Delhi . . . .
+p124
+sS'injured'
+p125
+S'14'
+p126
+sS'det_loc'
+p127
+(lp128
+S'India'
+p129
+aS'Delhi'
+p130
+aS'New Delhi'
+p131
+ag109
+aS'Jama Masjid'
+p132
+asS'O'
+p133
+(lp134
+S'police:7'
+p135
+aS'phosphorous-sulphur:283'
+p136
+aS'Joint Commissioner:351'
+p137
+asS'unexpl'
+p138
+(lp139
+g109
+asS'ocassion'
+p140
+g109
+sS'link'
+p141
+S'http://www.arabnews.com/node/283344'
+p142
+sS'date'
+p143
+S'15-04-2006'
+p144
+sS'target'
+p145
+S'TEMPLE'
+p146
+sS'hot_spot'
+p147
+S'Jama Masjid'
+p148
+sS'delivery_mod'
+p149
+S'TEMPLE'
+p150
+sS'delivery_met'
+p151
+S'PLANTED'
+p152
+sS'expl'
+p153
+(lp154
+g109
+asS'ORG'
+p155
+(lp156
+(lp157
+S'Delhi Police'
+p158
+aS'208'
+p159
+aS'Others'
+p160
+aa(lp161
+S'Congress'
+p162
+aS'428'
+p163
+aS'Others'
+p164
+aa(lp165
+S'Communist Party of India'
+p166
+aS'435'
+p167
+aS'Others'
+p168
+aa(lp169
+S'CPI'
+p170
+aS'476'
+p171
+aS'Others'
+p172
+aa(lp173
+S'Bharatiya Janata Party'
+p174
+aS'492'
+p175
+aS'Others'
+p176
+aa(lp177
+S'Communist Party of India'
+p178
+aS'496'
+p179
+aS'Others'
+p180
+aa(lp181
+S'Janata Dal'
+p182
+aS'504'
+p183
+aS'Others'
+p184
+aas.

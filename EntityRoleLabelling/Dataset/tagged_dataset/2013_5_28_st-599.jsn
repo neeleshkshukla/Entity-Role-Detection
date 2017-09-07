@@ -1,0 +1,97 @@
+{
+    "LOC": [
+        [
+            "Baghdad", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Iraq", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Iraq", 
+            "71", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nouri al-Maliki", 
+            "139", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday afternoon : 17", 
+        "2006 : 122", 
+        "2007 : 124"
+    ], 
+    "death": "57", 
+    "title": "57 killed in Baghdad blasts", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Baghdad", 
+        ""
+    ], 
+    "terror_group": [
+        "AL-QAEDA"
+    ], 
+    "content": "A wave of car bombings tore through mostly Shia Muslim neighbourhoods of the Baghdad area on Monday afternoon , leaving at least 57 dead . Iraq has been hit by a wave of bloodshed that has killed more than 300 people in the past two weeks alone . There was no immediate claim of responsibility but the attacks bore the hallmarks of al-Qaedas Iraqi arm , the Islamic State of Iraq , which frequently uses car bombs and coordinated blasts in an effort to undermine Iraqis confidence in the Shia-led government . The recent wave of bloodshed has raised tensions between the countrys Sunni minority and Shia-led government . The surge in violence has been reminiscent of the sectarian carnage in 2006 and 2007 . Alarmed by a nationwide deterioration in the security situation , Iraqi Prime Minister Nouri al-Maliki has ordered a reshuffle in senior military ranks . AFP OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "car bombings:4", 
+        "shia muslim:9", 
+        "bloodshed:34", 
+        "iraqi arm:64", 
+        "islamic state:68", 
+        "car bombs:76", 
+        "blasts:80", 
+        "effort:83", 
+        "Iraqis confidence:86", 
+        "shia-led government:90", 
+        "bloodshed:97", 
+        "raised tensions:99", 
+        "sunni:104", 
+        "shia-led:107", 
+        "violence:113", 
+        "reminiscent:116", 
+        "sectarian carnage:119", 
+        "nationwide deterioration:129", 
+        "security:133", 
+        "iraqi prime minister nouri al-maliki:136", 
+        "reshuffle:144", 
+        "senior military ranks:146"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/57-killed-in-baghdad-blasts/article4757835.ece", 
+    "date": "27-05-2013", 
+    "target": "SHIA ISLAM", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "al-Qaedas", 
+            "63", 
+            "Accused"
+        ], 
+        [
+            "AFP", 
+            "150", 
+            "Others"
+        ]
+    ]
+}

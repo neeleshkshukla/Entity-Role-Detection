@@ -1,0 +1,537 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Assam'
+p4
+aS'4'
+p5
+aS'Event'
+p6
+aa(lp7
+S'GUWAHATI'
+p8
+aS'20'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Assam'
+p12
+aS'70'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Dhemaji'
+p16
+aS'217'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Gossaigaon'
+p20
+aS'244'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Kokrajhar'
+p24
+aS'246'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Tura'
+p28
+aS'271'
+p29
+aS'Victim Location'
+p30
+aa(lp31
+S'Guwahati'
+p32
+aS'273'
+p33
+aS'Victim Location'
+p34
+aa(lp35
+S'Goalpara'
+p36
+aS'293'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Dibrugarh'
+p40
+aS'341'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Kokrajhar'
+p44
+aS'365'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Fakirgram'
+p48
+aS'385'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Chautara'
+p52
+aS'387'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Guwahati'
+p56
+aS'418'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Tangla'
+p60
+aS'422'
+p61
+aS'Event'
+p62
+aa(lp63
+S'Darrang'
+p64
+aS'424'
+p65
+aS'Event'
+p66
+aa(lp67
+S'Tangla'
+p68
+aS'441'
+p69
+aS'Event'
+p70
+aa(lp71
+S'Noonmati'
+p72
+aS'484'
+p73
+aS'Neutral'
+p74
+aasS'PER'
+p75
+(lp76
+(lp77
+S'Sushanta Talukdar'
+p78
+aS'16'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Tarun Gogoi'
+p82
+aS'74'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Gogoi'
+p86
+aS'114'
+p87
+aS'Others'
+p88
+aa(lp89
+S'R.V.S. Yadav'
+p90
+aS'302'
+p91
+aS'Others'
+p92
+aa(lp93
+S'A.R. Khan'
+p94
+aS'311'
+p95
+aS'Others'
+p96
+aa(lp97
+S'Sharma'
+p98
+aS'431'
+p99
+aS'Others'
+p100
+aasS'TIM'
+p101
+(lp102
+S'last night : 60'
+p103
+aS'Last night : 328'
+p104
+aS'today : 355'
+p105
+aS'8.15 p.m.:382'
+p106
+aS'8.15:382'
+p107
+aS'tonight : 426'
+p108
+aS'7:455'
+p109
+aS'7 p.m.:455'
+p110
+aS'hour : 459'
+p111
+asS'hot_setting'
+p112
+S''
+p113
+sS'DAT'
+p114
+(lp115
+S'AUG. 26 : 22'
+p116
+asS'death'
+p117
+S'5'
+p118
+sS'title'
+p119
+S'5 killed, 58 injured in serial blasts'
+p120
+sS'det_loc'
+p121
+(lp122
+S'India'
+p123
+aS'Assam'
+p124
+aS'Dhemaji'
+p125
+aS'Guwahati'
+p126
+ag113
+asS'terror_group'
+p127
+(lp128
+S' UNITED LIBERATION FRONT OF ASOM'
+p129
+asS'content'
+p130
+VOther States - Assam 5 killed , 58 injured in serial blasts . . By Sushanta Talukdar . . GUWAHATI , AUG. 26 . Five persons , including a minor girl , were killed and 51 injured in a series of bomb blasts triggered by the outlawed United Liberation Front of Asom in different parts of the State since last night . . . Condemning the attacks , the Assam Chief Minister , Tarun Gogoi , today accused the militant outfit of ` declaring a war against the people of the State ' and called for coordinated action by the northeastern States to tackle insurgent violence in the region . . . Mr. Gogoi underlined the need for adopting a district-specific strategy by police and the administration to thwart the ULFA ` game-plan ' of targeting civilians and other soft targets . He said the district authorities had been asked to involve people in keeping a strict vigil on the outfit 's activities . . . Red alert sounded . . The State Government has sounded a red alert and asked all district authorities to implement special security measures following a warning by intelligence agencies that the ULFA would resort to more indiscriminate bomb attacks in a bid to divert the people 's attention from the Dhemaji blast that claimed 13 lives including school children . . . The militant outfit today triggered two separate blasts , the first in a bus at Gossaigaon in Kokrajhar district in which one person was killed and 37 were injured and the other in a bus carrying BSF personnel and their families from Tura to Guwahati railway station . . . BSF men killed . . The second blast took place near a culvert in Goalpara district in which the driver , Head Constable R.V.S. Yadav , an Assistant Sub-Inspector of BSF , A.R. Khan , and a six-year-old daughter of another BSF constable , were killed . . . Last night , ULFA militants lobbed a grenade on a cinema hall in Dibrugarh district , injuring nine persons . One of them died at the hospital today . Another blast occurred on a railway track in Kokrajhar district . There were no reports of any casualty . The incident took place at about 8.15 p.m. between Fakirgram and Chautara railway stations just after a goods train crossed the site . . . Sixth blast . . Seven persons were injured when ULFA militants triggered two more blasts one at Guwahati and another at Tangla in Darrang district tonight . . . Mr. Sharma told The Hindu that seven persons were injured at Tangla when suspected ULFA militants lobbed a grenade on a group of people around 7 p.m. . An hour later , an explosive suspected to have been planted by the outfit went off at a railway track a few yards away from the Noonmati refinery here . There was , however , no casualty .
+p131
+sS'injured'
+p132
+S'58'
+p133
+sS'org_unorg'
+p134
+g113
+sS'O'
+p135
+(lp136
+S'killed:6'
+p137
+aS'injured:9'
+p138
+aS'serial blasts:11'
+p139
+aS'five persons:25'
+p140
+aS'minor girl:30'
+p141
+aS'killed:34'
+p142
+aS'51 injured:36'
+p143
+aS'series of bomb blasts:40'
+p144
+aS'triggered:44'
+p145
+aS'state:58'
+p146
+aS'attacks:67'
+p147
+aS'accused:78'
+p148
+aS'militant outfit:80'
+p149
+aS'war:86'
+p150
+aS'state:92'
+p151
+aS'coordinated action:97'
+p152
+aS'northeastern states:101'
+p153
+aS'tackle:104'
+p154
+aS'insurgent violence:105'
+p155
+aS'underlined:115'
+p156
+aS'adopting:119'
+p157
+aS'district-specific strategy:121'
+p158
+aS'administration:127'
+p159
+aS'thwart:129'
+p160
+aS'game-plan:133'
+p161
+aS'targeting civilians:136'
+p162
+aS'soft targets:140'
+p163
+aS'district authorities:146'
+p164
+aS'strict vigil:157'
+p165
+aS'red alert sounded:167'
+p166
+aS'sounded:176'
+p167
+aS'red alert:178'
+p168
+aS'district authorities:183'
+p169
+aS'implement:186'
+p170
+aS'special security measures:187'
+p171
+aS'warning:192'
+p172
+aS'intelligence agencies:194'
+p173
+aS'resort:200'
+p174
+aS'indiscriminate bomb attacks:203'
+p175
+aS'divert:210'
+p176
+aS'attention:214'
+p177
+aS'dhemaji blast:217'
+p178
+aS'claimed 13 lives:220'
+p179
+aS'school children:224'
+p180
+aS'militant outfit:230'
+p181
+aS'triggered:233'
+p182
+aS'separate blasts:235'
+p183
+aS'bus:242'
+p184
+aS'killed:253'
+p185
+aS'injured:257'
+p186
+aS'bsf personnel:265'
+p187
+aS'guwahati railway station:273'
+p188
+aS'killed:281'
+p189
+aS'second blast:285'
+p190
+aS'culvert:291'
+p191
+aS'driver:298'
+p192
+aS'a six-year-old daughter:315'
+p193
+aS'killed:324'
+p194
+aS'lobbed:333'
+p195
+aS'grenade:335'
+p196
+aS'cinema hall:338'
+p197
+aS'injuring:344'
+p198
+aS'nine persons:345'
+p199
+aS'died:351'
+p200
+aS'blast:358'
+p201
+aS'railway track:362'
+p202
+aS'no reports:370'
+p203
+aS'casualty:374'
+p204
+aS'incident:377'
+p205
+aS'railway stations:388'
+p206
+aS'goods train:393'
+p207
+aS'sixth blast:401'
+p208
+aS'injured:408'
+p209
+aS'militants:411'
+p210
+aS'triggered:412'
+p211
+aS'two more blasts:413'
+p212
+aS'injured:439'
+p213
+aS'suspected:443'
+p214
+aS'lobbed:446'
+p215
+aS'grenade:448'
+p216
+aS'explosive:463'
+p217
+aS'suspected:464'
+p218
+aS'planted:468'
+p219
+aS'outfit:471'
+p220
+aS'railway track:476'
+p221
+aS'noonmati refinery:484'
+p222
+asS'unexpl'
+p223
+(lp224
+g113
+asS'ocassion'
+p225
+g113
+sS'link'
+p226
+S'http://www.thehindu.com/2004/08/27/stories/2004082703821200.htm'
+p227
+sS'date'
+p228
+S'26-08-2004'
+p229
+sS'target'
+p230
+S'CITY'
+p231
+sS'hot_spot'
+p232
+g113
+sS'delivery_mod'
+p233
+g113
+sS'delivery_met'
+p234
+S'PLANTED'
+p235
+sS'expl'
+p236
+(lp237
+g113
+asS'ORG'
+p238
+(lp239
+(lp240
+S'United Liberation Front of Asom'
+p241
+aS'48'
+p242
+aS'Accused'
+p243
+aa(lp244
+S'ULFA'
+p245
+aS'131'
+p246
+aS'Accused'
+p247
+aa(lp248
+S'State Government'
+p249
+aS'173'
+p250
+aS'Others'
+p251
+aa(lp252
+S'ULFA'
+p253
+aS'198'
+p254
+aS'Accused'
+p255
+aa(lp256
+S'BSF'
+p257
+aS'265'
+p258
+aS'Victim'
+p259
+aa(lp260
+S'BSF'
+p261
+aS'279'
+p262
+aS'Victim'
+p263
+aa(lp264
+S'BSF'
+p265
+aS'309'
+p266
+aS'Victim'
+p267
+aa(lp268
+S'BSF'
+p269
+aS'320'
+p270
+aS'Victim'
+p271
+aa(lp272
+S'ULFA'
+p273
+aS'331'
+p274
+aS'Accused'
+p275
+aa(lp276
+S'ULFA'
+p277
+aS'410'
+p278
+aS'Accused'
+p279
+aa(lp280
+S'The Hindu'
+p281
+aS'433'
+p282
+aS'Others'
+p283
+aa(lp284
+S'ULFA'
+p285
+aS'444'
+p286
+aS'Accused'
+p287
+aas.

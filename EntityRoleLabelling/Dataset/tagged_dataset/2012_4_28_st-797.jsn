@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "Hama", 
+            "54", 
+            "Neutral"
+        ], 
+        [
+            "Damascus", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Midan", 
+            "79", 
+            "Event"
+        ], 
+        [
+            "Damascus", 
+            "132", 
+            "Event"
+        ], 
+        [
+            "Banias", 
+            "156", 
+            "Assoc Event Location"
+        ], 
+        [
+            "UN", 
+            "199", 
+            "Neutral"
+        ], 
+        [
+            "Syria", 
+            "241", 
+            "Event"
+        ], 
+        [
+            "Homs", 
+            "265", 
+            "Assoc Event Location"
+        ], 
+        [
+            "UN", 
+            "302", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bashar al-Assad", 
+            "117", 
+            "Others"
+        ], 
+        [
+            "Assad", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "Ban Ki-moon", 
+            "201", 
+            "Others"
+        ], 
+        [
+            "Assad", 
+            "294", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 10", 
+        "Monday : 69", 
+        "April 12 : 195", 
+        "Thursday : 235", 
+        "March 2011 : 298"
+    ], 
+    "death": "12", 
+    "title": "Syria in violation of truce, says UN chief", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A deadly suicide bombing rocked the Syrian capital on Friday , capping a week of non-stop violence that has killed dozens and fuelled growing scepticism about hopes for the success of a UN-backed peace plan . Amid the unrest , demonstrations were taking place after weekly Muslim prayers in flashpoint cities such as Hama , where shelling by government troops has reportedly killed more than 100 people since Monday . The explosion shook Damascus ' central district of Midan , killing at least seven and wounding 20 , state television said , with civilians and security force members among the casualties . It blamed `` terrorists , '' the term used by the regime of President Bashar al-Assad to refer to rebels . A separate blast hit an industrial zone of Damascus , but there were no reports of casualties , and three security agents were wounded in a blast in the coastal city of Banias , the Syrian Observatory for Human Rights said . Assad 's regime has repeatedly blamed `` armed terrorist groups '' for the violence , and for failing to abide by a putative ceasefire that went into force on April 12 . But UN chief Ban Ki-moon said the regime was in contravention of a six-point peace deal by keeping troops and heavy weapons in urban areas , and expressed alarm about reports population centres were shelled . On Thursday , 22 people died in Syria , most of them civilians , the Britain-based Observatory said . And overnight clashes between troops and rebels in the central city of Homs killed at least one army deserter and wounded another 15 , it added . More than 9,000 people have died since a popular uprising erupted against the president Assad 's regime in March 2011 , the UN says , while non-governmental groups put the figure at more than 11,100 . AFP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        "Damascus", 
+        ""
+    ], 
+    "O": [
+        "deadly suicide bombing:2", 
+        "Syrian capital:7", 
+        "non-stop violence:16", 
+        "fuelled growing scepticism:23", 
+        "UN-backed peace plan:33", 
+        "unrest:39", 
+        "demonstrations:41", 
+        "Muslim prayers:47", 
+        "government troops:59", 
+        "100 people:66", 
+        "explosion:72", 
+        "civilians and security force:94", 
+        "casualties:101", 
+        "terrorists:106", 
+        "President Bashar al-Assad:116", 
+        "blast:126", 
+        "industrial zone:129", 
+        "casualties:140", 
+        "three security agents:143", 
+        "wounded:147", 
+        "blast:150", 
+        "Syrian Observatory for Human Rights:159", 
+        "Assad 's regime:166", 
+        "armed terrorist groups:173", 
+        "violence:179", 
+        "failing:183", 
+        "putative ceasefire:188", 
+        "regime:205", 
+        "six-point peace deal:211", 
+        "troops and heavy weapons:216", 
+        "expressed alarm:225", 
+        "civilians:246", 
+        "Britain-based Observatory:249", 
+        "overnight clashes:254", 
+        "troops and rebels:257", 
+        "army deserter:270", 
+        "9,000 people:282", 
+        "president Assad 's regime:293", 
+        "more than 11,100:312"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/syria-in-violation-of-truce-says-un-chief/article3362124.ece", 
+    "date": "27-04-2012", 
+    "target": "CIVILIANS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "316", 
+            "Others"
+        ]
+    ]
+}

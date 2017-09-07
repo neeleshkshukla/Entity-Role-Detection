@@ -1,0 +1,457 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Hyderabad'
+p4
+aS'8'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Dilsukhnagar'
+p8
+aS'77'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Hyderabad'
+p12
+aS'141'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Hyderabad'
+p16
+aS'169'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Sai Baba temple'
+p20
+aS'229'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Hyderabad'
+p24
+aS'291'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Mecca Masjid'
+p28
+aS'370'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Hyderabad'
+p32
+aS'373'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Ajmer Sharif Dargah'
+p36
+aS'377'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'Hyderabad'
+p40
+aS'416'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Hyderabad'
+p44
+aS'500'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Hyderabad'
+p48
+aS'561'
+p49
+aS'Event'
+p50
+aasS'PER'
+p51
+(lp52
+(lp53
+S'Anurag Sharmas'
+p54
+aS'144'
+p55
+aS'Others'
+p56
+aa(lp57
+S'Akbaruddin Owaisi'
+p58
+aS'166'
+p59
+aS'Assoc Accused'
+p60
+aa(lp61
+S'Praveen Togadia'
+p62
+aS'185'
+p63
+aS'Assoc Accused'
+p64
+aa(lp65
+S'RPN Singh'
+p66
+aS'403'
+p67
+aS'Comment'
+p68
+aasS'TIM'
+p69
+(lp70
+sS'hot_setting'
+p71
+S'On a Thursday when devotees throng Sai Baba temple in huge numbers'
+p72
+sS'DAT'
+p73
+(lp74
+S'Thursday : 91'
+p75
+asS'death'
+p76
+S''
+p77
+sS'title'
+p78
+S'Blasts a bid to whip up communal clashes'
+p79
+sS'org_unorg'
+p80
+S'ORGANISED'
+p81
+sS'terror_group'
+p82
+(lp83
+S'LASHKAR-E-TAIBA'
+p84
+aS'INDIAN MUJAHIDEEN'
+p85
+asS'content'
+p86
+S'Hidden behind last weeks twin blasts in Hyderabad are the nefarious designs of terrorists who wanted to trigger communal riots in the historic city . A small incident could flare up tensions in a highly polarised society that had recently witnessed vitriolic speeches by controversial leaders , both Hindu and Muslim , say sources in the Ministry of Home Affairs ( MHA ) . An apparently failed attempt to target the famous Sai Baba temple at Dilsukhnagar , a few metres from the blast sites , that too on a Thursday when devotees throng there in huge numbers , points to a deep-rooted conspiracy . Terrorists might have changed their plan to plant a bomb or bombs in the temple or close to it in a bid to maximise casualties , as there was heavy police deployment in view of Hyderabad Police Commissioner Anurag Sharmas visit to the shrine , the sources noted . Intelligence reports say the highly objectionable speeches by Majlis-e-Ittehadul Muslimeen MLA Akbaruddin Owaisi near Hyderabad , for which he was arrested , and then by senior Vishwa Hindu Parishad leader Praveen Togadia have vitiated the atmosphere in the city . Recent weeks have seen a strong communal undercurrent building up with local religious leaders trying to polarise society . Any small incident could lead to serious law and order problems , and hence the Sai Baba temple might have been the possible target , the sources said . Though MHA officials are tight-lipped on who could be behind the blasts , the sources said prima facie these appeared to be the handiwork of the Lashkar-e-Taiba ( LeT ) , while the plan might have been executed by the Indian Mujahideen ( IM ) . Notably , Hyderabad has been a hub of IM activities . LeT has been a worrying factor for us . They provide technical expertise and material related to bomb manufacturing to IM members , besides funding their operations from overseas , a senior official said . But the Union government is not naming who could be behind the blasts . It is treading cautiously . For , the Centre , after initially blaming Pakistan-based terror groups for the blasts at the Mecca Masjid in Hyderabad and at the Ajmer Sharif Dargah , had to concede that the incidents could be the handiwork of some Hindu fundamentalists . According to Minister of State for Home RPN Singh : Whatever evidence the investigative agencies have collected -LSB- in the Hyderabad incident -RSB- has been sent for forensic examination . There are leads we are looking into it . Refusing to say anything more , he said : At the moment we can not share the detailsbut the perpetrators of this barbaric act will be caught and the strictest punishment will be given . The MHA sources said the probe would be handed over to the National Investigation Agency ( NIA ) once all the initial probe and other groundwork were completed by the Hyderabad police . Currently , the NIA , the Intelligence Bureau and National Security Guard officials are assisting the State police in the investigation but soon the NIA will take full charge as initial leads suggest that the terrorists behind it have multistate footprints , and the NIA has the powers and expertise to deal with such cases . But the Hyderabad police will always be kept in the loop , a senior official said . OPEN'
+p87
+sS'injured'
+p88
+g77
+sS'det_loc'
+p89
+(lp90
+S'India'
+p91
+aS'Andhra Pradesh'
+p92
+ag77
+aS'Hyderabad'
+p93
+aS'A few metres from Sai Baba temple at Dilsukhnagar'
+p94
+asS'O'
+p95
+(lp96
+S'Hidden:1'
+p97
+aS'twin blasts:5'
+p98
+aS'nefarious designs:11'
+p99
+aS'terrorists:14'
+p100
+aS'trigger communal riots:18'
+p101
+aS'communal riots:19'
+p102
+aS'historic city:23'
+p103
+aS'tensions:32'
+p104
+aS'highly polarised society:35'
+p105
+aS'vitriolic speeches:42'
+p106
+aS'controversial leaders:45'
+p107
+aS'hindu and muslim:49'
+p108
+aS'failed attempt:67'
+p109
+aS'Sai Baba temple:73'
+p110
+aS'blast sites:84'
+p111
+aS'devotees:93'
+p112
+aS'deep-rooted conspiracy:103'
+p113
+aS'terrorists:106'
+p114
+aS'maximise casualties:129'
+p115
+aS'heavy police deployment:135'
+p116
+aS'visit to the shrine:146'
+p117
+aS'intelligence reports:155'
+p118
+aS'highly objectionable speeches:159'
+p119
+aS'arrested:175'
+p120
+aS'vitiated the atmosphere:188'
+p121
+aS'strong communal undercurrent:200'
+p122
+aS'local religious leaders:206'
+p123
+aS'polarise society:211'
+p124
+aS'law and order problems:221'
+p125
+aS'possible target:236'
+p126
+aS'tight-lipped:247'
+p127
+aS'blasts:254'
+p128
+aS'prima facie:259'
+p129
+aS'handiwork:266'
+p130
+aS'technical expertise:311'
+p131
+aS'bomb manufacturing:317'
+p132
+aS'Union government:337'
+p133
+aS'blasts:347'
+p134
+aS'Centre:357'
+p135
+aS'Pakistan-based terror groups:362'
+p136
+aS'blasts:367'
+p137
+aS'hindu fundamentalists:393'
+p138
+aS'Minister of State:398'
+p139
+aS'investigative agencies:409'
+p140
+aS'forensic examination:423'
+p141
+aS'perpetrators:454'
+p142
+aS'barbaric act:457'
+p143
+aS'strictest punishment:464'
+p144
+aS'Hyderabad police:500'
+p145
+aS'State police:519'
+p146
+aS'investigation:523'
+p147
+aS'terrorists:538'
+p148
+aS'multistate footprints:542'
+p149
+asS'unexpl'
+p150
+(lp151
+g77
+asS'ocassion'
+p152
+S'RELIGIOUS GATHERING'
+p153
+sS'link'
+p154
+S'http://www.thehindu.com/todays-paper/tp-national/blasts-a-bid-to-whip-up-communal-clashes/article4453726.ece'
+p155
+sS'date'
+p156
+S'21-02-2013'
+p157
+sS'target'
+p158
+S'RELIGIOUS PLACES'
+p159
+sS'hot_spot'
+p160
+S'A few metres from Sai Baba temple at Dilsukhnagar'
+p161
+sS'delivery_mod'
+p162
+g77
+sS'delivery_met'
+p163
+S'PLANTED'
+p164
+sS'expl'
+p165
+(lp166
+g77
+asS'ORG'
+p167
+(lp168
+(lp169
+S'Ministry of Home Affairs'
+p170
+aS'57'
+p171
+aS'Others'
+p172
+aa(lp173
+S'MHA'
+p174
+aS'62'
+p175
+aS'Others'
+p176
+aa(lp177
+S'Majlis-e-Ittehadul Muslimeen'
+p178
+aS'163'
+p179
+aS'Assoc Accused'
+p180
+aa(lp181
+S'Vishwa Hindu Parishad'
+p182
+aS'181'
+p183
+aS'Assoc Accused'
+p184
+aa(lp185
+S'MHA'
+p186
+aS'244'
+p187
+aS'Others'
+p188
+aa(lp189
+S'Lashkar-e-Taiba'
+p190
+aS'269'
+p191
+aS'Accused'
+p192
+aa(lp193
+S'LeT'
+p194
+aS'271'
+p195
+aS'Accused'
+p196
+aa(lp197
+S'Indian Mujahideen'
+p198
+aS'283'
+p199
+aS'Accused'
+p200
+aa(lp201
+S'IM'
+p202
+aS'286'
+p203
+aS'Accused'
+p204
+aa(lp205
+S'IM'
+p206
+aS'297'
+p207
+aS'Assoc Accused'
+p208
+aa(lp209
+S'LeT'
+p210
+aS'300'
+p211
+aS'Accused'
+p212
+aa(lp213
+S'IM'
+p214
+aS'320'
+p215
+aS'Accused'
+p216
+aa(lp217
+S'MHA'
+p218
+aS'471'
+p219
+aS'Others'
+p220
+aa(lp221
+S'National Investigation Agency'
+p222
+aS'482'
+p223
+aS'Others'
+p224
+aa(lp225
+S'NIA'
+p226
+aS'486'
+p227
+aS'Others'
+p228
+aa(lp229
+S'NIA'
+p230
+aS'506'
+p231
+aS'Others'
+p232
+aa(lp233
+S'Intelligence Bureau'
+p234
+aS'509'
+p235
+aS'Others'
+p236
+aa(lp237
+S'National Security Guard'
+p238
+aS'512'
+p239
+aS'Others'
+p240
+aa(lp241
+S'NIA'
+p242
+aS'527'
+p243
+aS'Others'
+p244
+aa(lp245
+S'NIA'
+p246
+aS'547'
+p247
+aS'Others'
+p248
+aas.

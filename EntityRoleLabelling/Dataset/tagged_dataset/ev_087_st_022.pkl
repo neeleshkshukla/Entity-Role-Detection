@@ -1,0 +1,177 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'New Delhi'
+p4
+aS'12'
+p5
+aS'Event'
+p6
+aa(lp7
+S'High Court'
+p8
+aS'15'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Australia'
+p12
+aS'60'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Australia'
+p16
+aS'106'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'India'
+p20
+aS'114'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Julia Gillard'
+p26
+aS'3'
+p27
+aS'Comment'
+p28
+aa(lp29
+S'Gillard'
+p30
+aS'68'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Julie Bishop'
+p34
+aS'182'
+p35
+aS'Comment'
+p36
+aasS'TIM'
+p37
+(lp38
+sS'hot_setting'
+p39
+S''
+p40
+sS'DAT'
+p41
+(lp42
+S'Wednesday : 74'
+p43
+asS'death'
+p44
+S'10'
+p45
+sS'title'
+p46
+S'Australia condemns India attack: Gillard'
+p47
+sS'det_loc'
+p48
+(lp49
+S'India'
+p50
+aS'Delhi'
+p51
+aS'New Delhi'
+p52
+ag40
+aS'High Court, New Delhi'
+p53
+asS'terror_group'
+p54
+(lp55
+S'HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI'
+p56
+asS'content'
+p57
+VPrime Minister Julia Gillard has condemned a deadly bomb attack at New Delhi 's High Court as an act of senseless violence . . . An Islamist militant group has reportedly claimed responsibility for the attack , in which at least 10 people have been killed and another 62 injured . . . `` The government and people of Australia unreservedly condemn the bombing , '' Ms Gillard said in a statement on Wednesday . . . `` Our thoughts are with the families of the innocent people who have been killed and with those injured by the blast . '' . . She said Australia continued to give its full support to India 's anti-terrorism work . . . The bomb went off after being hidden in a briefcase in a reception area where more than 100 people were waiting for passes to the court complex , located in the heart of the Indian capital . . . Indian police investigators have received an email reportedly from the Harkat-ul-Jihad al-Islami group claiming responsibility . . . Opposition foreign affairs spokeswoman Julie Bishop said the attack was a blow to Indian society . . . .
+p58
+sS'injured'
+p59
+S'62'
+p60
+sS'org_unorg'
+p61
+S'ORGANISED'
+p62
+sS'O'
+p63
+(lp64
+S'Prime Minister:1'
+p65
+asS'unexpl'
+p66
+(lp67
+g40
+asS'ocassion'
+p68
+g40
+sS'link'
+p69
+S'http://www.smh.com.au//breaking-news-national/australia-condemns-india-attack-gillard-20110907-1jxsd.html'
+p70
+sS'date'
+p71
+S'07-09-2011'
+p72
+sS'target'
+p73
+S'COURT'
+p74
+sS'hot_spot'
+p75
+S'High Court, New Delhi'
+p76
+sS'delivery_mod'
+p77
+S'HIGH COURT'
+p78
+sS'delivery_met'
+p79
+S'PLANTED'
+p80
+sS'expl'
+p81
+(lp82
+g40
+asS'ORG'
+p83
+(lp84
+(lp85
+S'Islamist militant'
+p86
+aS'27'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Indian police'
+p90
+aS'160'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Harkat-ul-Jihad al-Islami'
+p94
+aS'170'
+p95
+aS'Accused'
+p96
+aas.

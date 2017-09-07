@@ -1,0 +1,161 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Moirangkhom'
+p4
+aS'49'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Porompat'
+p8
+aS'91'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Imphal East'
+p12
+aS'93'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Porompat'
+p16
+aS'107'
+p17
+aS'Event'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Okram Ibobi Singh'
+p22
+aS'68'
+p23
+aS'Others'
+p24
+aasS'TIM'
+p25
+(lp26
+sS'hot_setting'
+p27
+S'Independence Day of India (15th August). Amid a boycott of Independence Day celebrations by militants.'
+p28
+sS'DAT'
+p29
+(lp30
+S'Thursday : 12'
+p31
+asS'death'
+p32
+S'0'
+p33
+sS'title'
+p34
+S'Two blasts rock in Imphal'
+p35
+sS'org_unorg'
+p36
+S'ORGANISED'
+p37
+sS'terror_group'
+p38
+(lp39
+S''
+p40
+asS'content'
+p41
+S'Two powerful bombs exploded in the high-security capital complex here on Thursday , amid a boycott of Independence Day celebrations by militants , official sources said . There was no casualty , and no group claimed responsibility for the blasts . The first bomb went off in the Moirangkhom petrol pump area , 400 metres away from the venue of the main function , where Chief Minister Okram Ibobi Singh was present . The second explosion , suspected to be triggered by a remote control device , took place at Porompat in Imphal East , the sources said . The spot was 100 metres from the Porompat police station . PTI OPEN'
+p42
+sS'injured'
+p43
+g33
+sS'det_loc'
+p44
+(lp45
+S'India'
+p46
+aS'Manipur'
+p47
+aS'Imphal East'
+p48
+aS'Imphal'
+p49
+aS'Moirangkhom petrol pump area;  Porompat, 100 metres from the Porompat police station'
+p50
+asS'O'
+p51
+(lp52
+S'two powerful bombs:1'
+p53
+aS'high-security capital complex:7'
+p54
+aS'boycott:16'
+p55
+aS'Independence Day:18'
+p56
+aS'militants:22'
+p57
+aS'no casualty:30'
+p58
+aS'blasts:40'
+p59
+aS'bomb:44'
+p60
+aS'petrol pump area:50'
+p61
+aS'Chief Minister Okram Ibobi Singh:66'
+p62
+aS'explosion:76'
+p63
+aS'triggered:81'
+p64
+aS'remote control device:84'
+p65
+aS'police station:108'
+p66
+asS'unexpl'
+p67
+(lp68
+g40
+asS'ocassion'
+p69
+S'NATIONAL HOLIDAY'
+p70
+sS'link'
+p71
+S'http://www.thehindu.com/todays-paper/two-blasts-rock-in-imphal/article5027750.ece'
+p72
+sS'date'
+p73
+S'15-08-2013'
+p74
+sS'target'
+p75
+S'TOWN'
+p76
+sS'hot_spot'
+p77
+S'400 metres away from the venue of the main function where Chief Minister was present. 100 metres from Porompat police station.'
+p78
+sS'delivery_mod'
+p79
+g40
+sS'delivery_met'
+p80
+S'PLANTED'
+p81
+sS'expl'
+p82
+(lp83
+g40
+asS'ORG'
+p84
+(lp85
+s.

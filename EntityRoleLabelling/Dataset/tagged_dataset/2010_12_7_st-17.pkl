@@ -1,0 +1,239 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Chennai'
+p4
+aS'25'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Chennai'
+p8
+aS'36'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Gudiyatham'
+p12
+aS'222'
+p13
+aS'Neutral'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'B. Sudershan Reddy'
+p18
+aS'48'
+p19
+aS'Others'
+p20
+aa(lp21
+S'S.S. Nijjar'
+p22
+aS'53'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Kaza Nizamuddin'
+p26
+aS'59'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Hyder Ali'
+p30
+aS'62'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Abubucker Siddique'
+p34
+aS'65'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Reddy'
+p38
+aS'131'
+p39
+aS'Others'
+p40
+aa(lp41
+S'R. Natarajan'
+p42
+aS'197'
+p43
+aS'Others'
+p44
+aa(lp45
+S'G. Balaji'
+p46
+aS'201'
+p47
+aS'Others'
+p48
+aasS'TIM'
+p49
+(lp50
+sS'hot_setting'
+p51
+S''
+p52
+sS'DAT'
+p53
+(lp54
+S'Monday:5'
+p55
+aS'August 6:97'
+p56
+aS'1993:100'
+p57
+asS'death'
+p58
+S'11'
+p59
+sS'title'
+p60
+S'3 accused in bomb blast at RSS office acquitted'
+p61
+sS'org_unorg'
+p62
+S'Organized'
+p63
+sS'terror_group'
+p64
+(lp65
+g52
+asS'content'
+p66
+S"The Supreme Court on Monday ordered the acquittal of three main accused in the case relating to bomb blast at the RSS office in Chennai and directed their release forthwith . The TADA court in Chennai had awarded life imprisonment to them . A Bench of Justice B. Sudershan Reddy and Justice S.S. Nijjar allowed the appeals of Kaza Nizamuddin , Hyder Ali and Abubucker Siddique , challenging the life sentence and dismissed the CBI 's appeals questioning the acquittal of some of the accused by the TADA court . The prosecution case was that on August 6 , 1993 there were loud explosions , which resulted in the death of 11 persons , injuries to 7 others and complete demolition of the building . Writing the judgment , Justice Reddy said , Excepting for the confessional statements , admittedly , there is no other independent evidence with regard to the participation of the accused in the conspiracy and the particular role played by them . It is apparent that even according to the prosecution version , they could have only carried bombs made from gelatin . The Bench , accepting the arguments of senior counsel R. Natarajan and counsel G. Balaji appearing for the appellants said that the confessional statements reveals that what was purchased was only gelatin sticks from Gudiyatham and not RDX or PETN . OPEN"
+p67
+sS'injured'
+p68
+S'7'
+p69
+sS'det_loc'
+p70
+(lp71
+S'India'
+p72
+aS'Delhi'
+p73
+aS'New Delhi'
+p74
+aS'New Delhi'
+p75
+ag52
+asS'O'
+p76
+(lp77
+S'bomb blast:18'
+p78
+aS'life imprisonment:39'
+p79
+aS'life sentence:70'
+p80
+aS'prosecution case:92'
+p81
+aS'explosions:104'
+p82
+aS'confessional:137'
+p83
+aS'participation:152'
+p84
+aS'conspiracy:158'
+p85
+aS'prosecution version:175'
+p86
+aS'gelatin:186'
+p87
+aS'confessional:210'
+p88
+aS'gelatin sticks:219'
+p89
+aS'rdx:225'
+p90
+aS'petn:227'
+p91
+asS'unexpl'
+p92
+(lp93
+g52
+asS'ocassion'
+p94
+g52
+sS'link'
+p95
+S'http://www.thehindu.com/todays-paper/3-accused-in-bomb-blast-at-rss-office-acquitted/article936554.ece'
+p96
+sS'date'
+p97
+S'06-08-1993'
+p98
+sS'target'
+p99
+S'Public Organization'
+p100
+sS'hot_spot'
+p101
+S'bomb blast at the RSS office in Chennai'
+p102
+sS'delivery_mod'
+p103
+g52
+sS'delivery_met'
+p104
+g52
+sS'expl'
+p105
+(lp106
+g52
+asS'ORG'
+p107
+(lp108
+(lp109
+S'Supreme Court'
+p110
+aS'2'
+p111
+aS'Others'
+p112
+aa(lp113
+S'RSS'
+p114
+aS'22'
+p115
+aS'Others'
+p116
+aa(lp117
+S'TADA court'
+p118
+aS'33'
+p119
+aS'Others'
+p120
+aa(lp121
+S'CBI'
+p122
+aS'75'
+p123
+aS'Others'
+p124
+aa(lp125
+S'TADA court'
+p126
+aS'88'
+p127
+aS'Others'
+p128
+aas.

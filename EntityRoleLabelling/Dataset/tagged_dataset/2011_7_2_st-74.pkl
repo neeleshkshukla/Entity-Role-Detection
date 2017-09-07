@@ -1,0 +1,260 @@
+(dp0
+S'LOC'
+p1
+(lp2
+sS'PER'
+p3
+(lp4
+(lp5
+S'Ramchandra Kalsangra'
+p6
+aS'40'
+p7
+aS'Accused'
+p8
+aa(lp9
+S'Sandeep Dange'
+p10
+aS'43'
+p11
+aS'Accused'
+p12
+aa(lp13
+S'M. Rathi'
+p14
+aS'65'
+p15
+aS'Comment'
+p16
+aa(lp17
+S'Swami Aseemanand'
+p18
+aS'78'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Kanchan Mahi'
+p22
+aS'118'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Aseemanand'
+p26
+aS'125'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Sunil Joshi'
+p30
+aS'127'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Lokesh Sharma'
+p34
+aS'134'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Sandeep Dange'
+p38
+aS'137'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Ramchandra Kalsangra'
+p42
+aS'140'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Ramji'
+p46
+aS'143'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Swami Aseemanand'
+p50
+aS'159'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Sharma'
+p54
+aS'162'
+p55
+aS'Accused'
+p56
+aasS'TIM'
+p57
+(lp58
+sS'hot_setting'
+p59
+S''
+p60
+sS'DAT'
+p61
+(lp62
+S'Friday:10'
+p63
+aS'July 8:21'
+p64
+aS'June 20:75'
+p65
+aS'2007:92'
+p66
+aS'Friday:179'
+p67
+asS'death'
+p68
+S'68'
+p69
+sS'title'
+p70
+S'Two accusedin Samjhauta case declared offenders'
+p71
+sS'org_unorg'
+p72
+S'Organized'
+p73
+sS'terror_group'
+p74
+(lp75
+g60
+asS'content'
+p76
+S'A special court hearing the Samjhauta blasts case on Friday declared two of the accused proclaimed offenders and posted for July 8 the next hearing in the case . During in-camera hearing of the case , the court declared Ramchandra Kalsangra and Sandeep Dange proclaimed offenders after the National Investigation Agency ( NIA ) said it had failed to locate them , defence counsel M. Rathi told journalists here . The NIA had on June 20 charged Swami Aseemanand and four others with triggering explosions in the cross-border Samjhauta Express in 2007 . The incident left 68 dead and 12 injured . In the charge sheet filed before the vacation court of Additional District and Sessions Judge Kanchan Mahi , the NIA had accused Aseemanand , Sunil Joshi ( now dead ) , Lokesh Sharma , Sandeep Dange and Ramchandra Kalsangra alias Ramji of hatching a criminal conspiracy , which resulted in bomb blasts in the train . Swami Aseemanand and Sharma are already in judicial custody in Ambala Jail . Both were present in the court on Friday . PTI OPEN'
+p77
+sS'injured'
+p78
+S'12'
+p79
+sS'det_loc'
+p80
+(lp81
+S'India'
+p82
+aS'Haryana'
+p83
+aS'Panchkula'
+p84
+ag60
+ag60
+asS'O'
+p85
+(lp86
+S'special court:2'
+p87
+aS'samjhauta blasts case:6'
+p88
+aS'next hearing:24'
+p89
+aS'in-camera hearing:31'
+p90
+aS'defence counsel:63'
+p91
+aS'triggering explosions:84'
+p92
+aS'cross-border:88'
+p93
+aS'samjhauta express:89'
+p94
+aS'charge sheet:105'
+p95
+aS'vacation court:110'
+p96
+aS'additional district and sessions judge:113'
+p97
+aS'aseemanand:125'
+p98
+aS'criminal conspiracy:147'
+p99
+aS'bomb blasts:153'
+p100
+aS'train:157'
+p101
+aS'judicial custody:166'
+p102
+asS'unexpl'
+p103
+(lp104
+g60
+asS'ocassion'
+p105
+g60
+sS'link'
+p106
+S'http://www.thehindu.com/todays-paper/tp-national/two-accusedin-samjhauta-case-declared-offenders/article2152321.ece'
+p107
+sS'date'
+p108
+S'01-07-2011'
+p109
+sS'target'
+p110
+S'Public Transport'
+p111
+sS'hot_spot'
+p112
+S'Samjhauta Express'
+p113
+sS'delivery_mod'
+p114
+g60
+sS'delivery_met'
+p115
+g60
+sS'expl'
+p116
+(lp117
+g60
+asS'ORG'
+p118
+(lp119
+(lp120
+S'National Investigation Agency'
+p121
+aS'49'
+p122
+aS'Others'
+p123
+aa(lp124
+S'NIA'
+p125
+aS'53'
+p126
+aS'Others'
+p127
+aa(lp128
+S'NIA'
+p129
+aS'72'
+p130
+aS'Others'
+p131
+aa(lp132
+S'NIA'
+p133
+aS'122'
+p134
+aS'Others'
+p135
+aa(lp136
+S'Ambala Jail'
+p137
+aS'169'
+p138
+aS'Others'
+p139
+aas.

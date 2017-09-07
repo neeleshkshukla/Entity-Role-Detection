@@ -1,0 +1,103 @@
+{
+    "LOC": [
+        [
+            "Kodagu", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Kodagu", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "88", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shahina K.K", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "Abdul Nasir Maudani", 
+            "76", 
+            "Assoc Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:6", 
+        "July 25 , 2008 : 84"
+    ], 
+    "death": "", 
+    "title": "Journalist gets anticipatory bail", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Kodagu", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Karnataka High Court on Thursday granted anticipatory bail to Shahina K.K , a journalist who was with the magazine Tehelka , in connection with two separate complaints registered against her by the Siddapura police in Kodagu district . The police had booked two separate cases against her based on complaints that she along with four men had visited some places in Kodagu district and had allegedly threatened two persons not to give evidence against Abdul Nasir Maudani , an accused in the July 25 , 2008 Bangalore serial bomb blasts case . She had approached the High Court after the Madikeri district court refused to grant her anticipatory bail . Staff Reporter OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bail:9", 
+        "journalist:15", 
+        "magazine tehelka:20", 
+        "complaints:28", 
+        "complaints:51", 
+        "threatened:68", 
+        "evidence:74", 
+        "bangalore serial bomb blasts case:88", 
+        "anticipatory bail:109"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/journalist-gets-anticipatory-bail/article2283487.ece", 
+    "date": "22-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Karnataka High Court", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Tehelka", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "Siddapura police", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Madikeri district court", 
+            "102", 
+            "Others"
+        ]
+    ]
+}

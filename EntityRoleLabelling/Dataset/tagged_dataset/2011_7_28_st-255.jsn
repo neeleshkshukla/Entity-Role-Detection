@@ -1,0 +1,82 @@
+{
+    "LOC": [
+        [
+            "Thevaram", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Thevaram", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Coimbatore", 
+            "59", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Praveen Kumar Abinapu", 
+            "231", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:17", 
+        "Monday:30", 
+        "1998:223"
+    ], 
+    "death": "2", 
+    "title": "Thevaram bomb was made of TNT in 1998", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Theni", 
+        "Thevaram", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A bomb detection team of Rapid Action Force inspected the blast site at Thevaram here on Wednesday to identify the type of bomb which blew off at Thevaram on Monday , killing two persons . The team scanned the spot and interacted with local people . The team members showed some of the bombs brought with them from Coimbatore to the local people and a woman who saw the scrap vendor breaking the bomb on the road . After seeing the bombs , the woman informed that the blasted bomb was a little bit bigger . However , the team ruled out that the blasted bomb was Research Department Explosive ( RDX ) , said police sources . Trinitrotoluene ( TNT ) was used in it . Normally , when RDX goes off , it leaves a black powder-like substance at the spot . There was no such trace . They also confirmed that the bomb belonged to Defence services . It could be a misfired bomb . Such bombs blast only when they hit the target forcefully . The scrap vendor might have attempted to break the bomb , the police sources added . The police found the lot number when they scanned the bomb pieces recovered from the body of one of the deceased . The bomb was made in 1998 . The team met Superintendent of Police Praveen Kumar Abinapu and briefed him of the findings . OPEN", 
+    "injured": "", 
+    "org_unorg": "Unorganized", 
+    "O": [
+        "bomb detection team:2", 
+        "rapid action force:6", 
+        "blast site:11", 
+        "scrap vendor:70", 
+        "trinitrotoluene:119", 
+        "tnt:121", 
+        "rdx:131", 
+        "defence services:159", 
+        "scrap vendor:181", 
+        "bomb:189", 
+        "lot number:200", 
+        "superintendent of police:228"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Sport Tournaments", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/thevaram-bomb-was-made-of-tnt-in-1998/article2300999.ece", 
+    "date": "25-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Accidental", 
+    "expl": [
+        "TNT"
+    ], 
+    "ORG": [
+        [
+            "Rapid Action Force", 
+            "6", 
+            "Others"
+        ]
+    ]
+}

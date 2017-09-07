@@ -1,0 +1,317 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'LUCKNOW'
+p4
+aS'35'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Gorakhpur'
+p8
+aS'54'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Gorakhpur'
+p12
+aS'74'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Uttar Pradesh'
+p16
+aS'264'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Faizabad'
+p20
+aS'289'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Atiq Khan'
+p26
+aS'1'
+p27
+aS'Others'
+p28
+aa(lp29
+S'K. Chandramouli'
+p30
+aS'63'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Chandramouli'
+p34
+aS'110'
+p35
+aS'Comment'
+p36
+aa(lp37
+S'Guddu Chaubey'
+p38
+aS'173'
+p39
+aS'Victim'
+p40
+aa(lp41
+S'Rajesh Sharma'
+p42
+aS'176'
+p43
+aS'Victim'
+p44
+aa(lp45
+S'Sanjay Rai'
+p46
+aS'179'
+p47
+aS'Victim'
+p48
+aa(lp49
+S'Santosh Singh'
+p50
+aS'182'
+p51
+aS'Victim'
+p52
+aa(lp53
+S'Rameshwar Patel'
+p54
+aS'185'
+p55
+aS'Victim'
+p56
+aa(lp57
+S'Vivek Yadav'
+p58
+aS'188'
+p59
+aS'Victim'
+p60
+aa(lp61
+S'Chandramouli'
+p62
+aS'200'
+p63
+aS'Comment'
+p64
+aa(lp65
+S'Chandramouli'
+p66
+aS'256'
+p67
+aS'Comment'
+p68
+aa(lp69
+S'Chandramouli'
+p70
+aS'296'
+p71
+aS'Comment'
+p72
+aasS'TIM'
+p73
+(lp74
+sS'hot_setting'
+p75
+S''
+p76
+sS'DAT'
+p77
+(lp78
+S'Tuesday : 48'
+p79
+aS'Wednesday : 69'
+p80
+aS'Tuesday : 169'
+p81
+aS'Wednesday : 293'
+p82
+asS'death'
+p83
+g76
+sS'title'
+p84
+S'Use of RDX ruled out in Gorakhpur blasts'
+p85
+sS'det_loc'
+p86
+(lp87
+S'India'
+p88
+aS'Uttar Pradesh'
+p89
+aS'Gorakpur'
+p90
+aS'Gorakpur'
+p91
+ag76
+asS'terror_group'
+p92
+(lp93
+g76
+asS'content'
+p94
+VAtiq Khan . . Ammonium nitrate may have been used in crude bombs . . Police trying to trace shops where cycles were bought No proof to suggest timer device was used . . LUCKNOW : The investigating agencies have ruled out the use of RDX in Tuesday 's serial bomb blasts in Gorakhpur . . . Principal Secretary -LRB- Home -RRB- K. Chandramouli told newspersons here on Wednesday after his return from Gorakhpur that the blasts were caused by low intensity bombs kept in tiffin boxes attached to three new cycles . He said ammonium nitrate might have been used in the crude bombs . . . Mr. Chandramouli said the cycles were bought from different shops . The police had traced one shop and efforts were on to trace the others . The identification of the shops is expected to give crucial leads . . . He said six persons sustained minor injuries in the blasts and were discharged from hospital after receiving first aid on Tuesday . They were Guddu Chaubey , Rajesh Sharma , Sanjay Rai , Santosh Singh , Rameshwar Patel and Vivek Yadav . . . On those behind the blasts , Mr. Chandramouli said no conclusion could be drawn as the investigations were in the preliminary stage . . . The crude bombs were battery-charged and there was no proof to suggest whether a timer device was used as trigger . One bomb was kept near a petrol pump and two near a transformer . . . Mr. Chandramouli said the Special Task Force of the Uttar Pradesh police was looking into the case . . . The Government Railway Police recovered an abandoned bag from the waiting room of the Faizabad railway station on Wednesday . Mr. Chandramouli said it contained ammonium nitrate used for making crackers . Investigations are on .
+p95
+sS'injured'
+p96
+S'6'
+p97
+sS'org_unorg'
+p98
+g76
+sS'O'
+p99
+(lp100
+S'ammonium nitrate:5'
+p101
+aS'crude bombs:12'
+p102
+aS'trace shops:19'
+p103
+aS'cycles:22'
+p104
+aS'no proof:25'
+p105
+aS'timer device:29'
+p106
+aS'investigating agencies:38'
+p107
+aS'rdx:46'
+p108
+aS'serial bomb blasts:50'
+p109
+aS'blasts:77'
+p110
+aS'low intensity bombs:81'
+p111
+aS'tiffin boxes:86'
+p112
+aS'ammonium nitrate:96'
+p113
+aS'crude bombs:104'
+p114
+aS'cycles:113'
+p115
+aS'shops:118'
+p116
+aS'crucial leads:144'
+p117
+aS'sustained:153'
+p118
+aS'minor injuries:154'
+p119
+aS'blasts:158'
+p120
+aS'discharged:161'
+p121
+aS'hospital:163'
+p122
+aS'first aid:166'
+p123
+aS'blasts:197'
+p124
+aS'investigations:209'
+p125
+aS'preliminary stage:213'
+p126
+aS'crude bombs:219'
+p127
+aS'battery-charged:222'
+p128
+aS'timer device:232'
+p129
+aS'trigger:237'
+p130
+aS'one bomb:239'
+p131
+aS'petrol pump:245'
+p132
+aS'transformer:251'
+p133
+aS'abandoned bag:281'
+p134
+aS'railway station:290'
+p135
+aS'ammonium nitrate:300'
+p136
+aS'crackers:305'
+p137
+aS'investigations:307'
+p138
+asS'unexpl'
+p139
+(lp140
+g76
+asS'ocassion'
+p141
+g76
+sS'link'
+p142
+S'http://www.thehindu.com/todays-paper/use-of-rdx-ruled-out-in-gorakhpur-blasts/article1846632.ece'
+p143
+sS'date'
+p144
+S'22-05-2007'
+p145
+sS'target'
+p146
+S'CITY'
+p147
+sS'hot_spot'
+p148
+g76
+sS'delivery_mod'
+p149
+S'TIFFIN BOX'
+p150
+sS'delivery_met'
+p151
+S'PLANTED'
+p152
+sS'expl'
+p153
+(lp154
+S'CRUDE BOMB'
+p155
+asS'ORG'
+p156
+(lp157
+(lp158
+S'Special Task Force'
+p159
+aS'259'
+p160
+aS'Others'
+p161
+aa(lp162
+S'Uttar Pradesh police'
+p163
+aS'264'
+p164
+aS'Others'
+p165
+aa(lp166
+S'Government Railway Police'
+p167
+aS'276'
+p168
+aS'Others'
+p169
+aas.

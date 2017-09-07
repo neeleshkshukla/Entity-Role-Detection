@@ -1,0 +1,186 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Tughlakabad Extension'
+p4
+aS'18'
+p5
+aS'Accused Location'
+p6
+aa(lp7
+S'Tughlakabad'
+p8
+aS'18'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Pakistan'
+p12
+aS'47'
+p13
+aS'Accused Location'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Abdul Karim Tunda'
+p18
+aS'38'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Tunda'
+p22
+aS'49'
+p23
+aS'Accused'
+p24
+aa(lp25
+S'Tunda'
+p26
+aS'103'
+p27
+aS'Accused'
+p28
+aasS'TIM'
+p29
+(lp30
+sS'hot_setting'
+p31
+S''
+p32
+sS'DAT'
+p33
+(lp34
+S'1990s:160'
+p35
+asS'death'
+p36
+g32
+sS'title'
+p37
+S"Explosives seized from suspected LeT terrorists could be for IED'"
+p38
+sS'org_unorg'
+p39
+g32
+sS'terror_group'
+p40
+(lp41
+S'LASHKAR-E-JHANGVI (LEJ)'
+p42
+asS'content'
+p43
+S'The sulphuric acid and the explosives allegedly seized from the suspected Lashkar-e-Taiba terrorists who were arrested at Tughlakabad Extension here could be used for manufacturing improvised explosive devices similar to those configured by an old Lashkar hand Abdul Karim Tunda , now believed to be in Pakistan . Tunda , a homoeopathic practitioner , was considered to be an expert at manufacturing bombs using potassium chlorate/ammonium nitrate base and sulphuric acid . The sulphuric acid would initiate a chemical reaction triggering the indigenously made detonator leading to a blast in the explosives used in the configuration , said a police officer . Tunda , who had lost one of his hands while preparing a bomb , would usually configure the IED in a container wherein sulphuric acid would be kept separated from the base using a material that would gradually melt delaying the chemical reaction and consequent detonation . He and his men allegedly used such bombs in the 1990s . Sulphuric acid is also used in factory-made pencil timers where it melts a spring connected to a trigger , which when released hits the percussion cap of the detonator , causing detonation . The delay mechanism in the pencil timers is based on the density of the spring , said an expert . While the exact nature of the explosives seized from the LeT suspects is yet to be ascertained , it is learnt that the seized raw material was procured from the local market . The police have seized from them at least six memory cards that contain footages of one of the suspects undergoing training in the handling of weapons and explosives . One video clip demonstrates the process for configuring IEDs using easily available materials . OPEN'
+p44
+sS'injured'
+p45
+g32
+sS'det_loc'
+p46
+(lp47
+S'India'
+p48
+aS'Delhi'
+p49
+ag32
+aS'NEW DELHI'
+p50
+ag32
+asS'O'
+p51
+(lp52
+S'homoeopathic practitioner:52'
+p53
+aS'potassium chlorate/ammonium:65'
+p54
+aS'sulphuric acid:70'
+p55
+aS'sulphuric acid:74'
+p56
+aS'chemical reaction:79'
+p57
+aS'detonator:85'
+p58
+aS'ied:121'
+p59
+aS'container:124'
+p60
+aS'sulphuric acid:126'
+p61
+aS'detonation:148'
+p62
+aS'sulphuric acid:162'
+p63
+aS'pencil timers:169'
+p64
+aS'detonator:190'
+p65
+aS'detonation:193'
+p66
+aS'delay mechanism:196'
+p67
+asS'unexpl'
+p68
+(lp69
+g32
+asS'ocassion'
+p70
+g32
+sS'link'
+p71
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/explosives-seized-from-suspected-let-terrorists-could-be-for-ied/article2952408.ece'
+p72
+sS'date'
+p73
+S'02-03-2012'
+p74
+sS'target'
+p75
+g32
+sS'hot_spot'
+p76
+g32
+sS'delivery_mod'
+p77
+g32
+sS'delivery_met'
+p78
+g32
+sS'expl'
+p79
+(lp80
+S'IED'
+p81
+aS'SULPHURIC ACID'
+p82
+asS'ORG'
+p83
+(lp84
+(lp85
+S'Lashkar-e-Taiba'
+p86
+aS'12'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Lashkar'
+p90
+aS'36'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'LeT'
+p94
+aS'225'
+p95
+aS'Accused'
+p96
+aas.

@@ -1,0 +1,209 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Peshawar'
+p4
+aS'25'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Quetta'
+p8
+aS'89'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Peshawar'
+p12
+aS'129'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Charsadda'
+p16
+aS'131'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Khyber-Pukhtoonkhwa'
+p20
+aS'194'
+p21
+aS'Event'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Iftikhar Hussain'
+p26
+aS'198'
+p27
+aS'Comment'
+p28
+aasS'TIM'
+p29
+(lp30
+S'evening : 37'
+p31
+aS'36 hours : 68'
+p32
+asS'hot_setting'
+p33
+S''
+p34
+sS'DAT'
+p35
+(lp36
+S'Friday morning : 27'
+p37
+aS'Thursday : 96'
+p38
+asS'death'
+p39
+S'19'
+p40
+sS'title'
+p41
+S'Spectre of onslaught by terrorists in Pakistan'
+p42
+sS'org_unorg'
+p43
+S'ORGANISED'
+p44
+sS'terror_group'
+p45
+(lp46
+g34
+asS'content'
+p47
+S"At least 19 people were killed and nearly 50 injured when a powerful bomb ripped through a bus ferrying government employees and civilians in Peshawar on Friday morning . No outfit had claimed responsibility till late evening but this is the second day in a row that terrorists have struck in the north western parts of the country with sizable number of casualties . Over the past 36 hours , 35 people have been killed in the two separate blasts the other being at a religious seminary in Quetta where 14 people were killed on Thursday . Though there have been sporadic terror strikes in the past few months , these two blasts have raised the spectre of a fresh onslaught by terrorists . The bus heading from Peshawar to Charsadda was completely damaged by the explosion a stark testimony about how powerful the bomb was . Apparently eight kg of explosives had been packed into the bus . The dead included seven women and a child , and doctors at the Lady Reading Hospital feared more casualties as some of the injured were brought in a critical condition . Briefing media-persons , Khyber-Pukhtoonkhwa 's Information Minister Iftikhar Hussain whose only son was gunned down by terrorists said the fight against terrorism would continue despite such setbacks . OPEN"
+p48
+sS'injured'
+p49
+S'50'
+p50
+sS'det_loc'
+p51
+(lp52
+S'Pakistan'
+p53
+ag34
+ag34
+aS'Peshawar'
+p54
+aS'In a bus heading from Peshawar to Charsadda'
+p55
+asS'O'
+p56
+(lp57
+S'powerful bomb:13'
+p58
+aS'bus:18'
+p59
+aS'government employees and civilians:20'
+p60
+aS'second day in a row:42'
+p61
+aS'terrorists:48'
+p62
+aS'north western parts:53'
+p63
+aS'sizable number:60'
+p64
+aS'casualties:63'
+p65
+aS'two separate blasts:78'
+p66
+aS'religious seminary:86'
+p67
+aS'sporadic terror strikes:102'
+p68
+aS'past few months:107'
+p69
+aS'two blasts:112'
+p70
+aS'spectre:117'
+p71
+aS'fresh onslaught:120'
+p72
+aS'terrorists:123'
+p73
+aS'bus:126'
+p74
+aS'damaged:134'
+p75
+aS'explosion:137'
+p76
+aS'stark testimony:139'
+p77
+aS'eight kg of explosives:149'
+p78
+aS'bus:158'
+p79
+aS'seven women and a child:163'
+p80
+aS'casualties:178'
+p81
+aS'critical condition:188'
+p82
+aS'minister iftikhar hussain:197'
+p83
+aS'gunned down:204'
+p84
+aS'terrorists:207'
+p85
+aS'fight against terrorism:210'
+p86
+asS'unexpl'
+p87
+(lp88
+g34
+asS'ocassion'
+p89
+g34
+sS'link'
+p90
+S'http://www.thehindu.com/todays-paper/tp-international/spectre-of-onslaught-by-terrorists-in-pakistan/article3507242.ece'
+p91
+sS'date'
+p92
+S'08-06-2012'
+p93
+sS'target'
+p94
+S'PUBLIC TRANSPORT'
+p95
+sS'hot_spot'
+p96
+S'Bus ferrying government employees and civilians from Peshawar to Charsadda'
+p97
+sS'delivery_mod'
+p98
+S'BUS'
+p99
+sS'delivery_met'
+p100
+S'PLANTED'
+p101
+sS'expl'
+p102
+(lp103
+g34
+asS'ORG'
+p104
+(lp105
+(lp106
+S'Lady Reading Hospital'
+p107
+aS'173'
+p108
+aS'Others'
+p109
+aas.

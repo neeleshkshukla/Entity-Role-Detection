@@ -1,0 +1,645 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'New Delhi'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Gate No 5'
+p8
+aS'35'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Delhi'
+p12
+aS'68'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Delhi'
+p16
+aS'437'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Delhi'
+p20
+aS'449'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Delhi'
+p24
+aS'505'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Delhi'
+p28
+aS'568'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Delhi'
+p32
+aS'591'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Bangladesh'
+p36
+aS'755'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Delhi'
+p40
+aS'998'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Mumbai'
+p44
+aS'1112'
+p45
+aS'Event'
+p46
+aasS'PER'
+p47
+(lp48
+(lp49
+S'Narendra Kumar Singh'
+p50
+aS'244'
+p51
+aS'Comment'
+p52
+aa(lp53
+S'UK Bansal'
+p54
+aS'267'
+p55
+aS'Comment'
+p56
+aa(lp57
+S'Rakesh Tiku'
+p58
+aS'425'
+p59
+aS'Comment'
+p60
+aa(lp61
+S'Sheila Dikshit'
+p62
+aS'452'
+p63
+aS'Comment'
+p64
+aa(lp65
+S'P Chidambaram'
+p66
+aS'486'
+p67
+aS'Comment'
+p68
+aa(lp69
+S'Chidambaram'
+p70
+aS'487'
+p71
+aS'Comment'
+p72
+aa(lp73
+S'Chidambaram'
+p74
+aS'566'
+p75
+aS'Comment'
+p76
+aa(lp77
+S'Tejinder Khanna'
+p78
+aS'572'
+p79
+aS'Comment'
+p80
+aa(lp81
+S'SC Sinha'
+p82
+aS'646'
+p83
+aS'Comment'
+p84
+aa(lp85
+S'Afzal Guru'
+p86
+aS'671'
+p87
+aS'Victim'
+p88
+aa(lp89
+S'Afzal Guru'
+p90
+aS'695'
+p91
+aS'Victim'
+p92
+aa(lp93
+S'Pratibha Patil'
+p94
+aS'736'
+p95
+aS'Others'
+p96
+aa(lp97
+S'Manmohan Singh'
+p98
+aS'750'
+p99
+aS'Comment'
+p100
+aa(lp101
+S'Sushma Swaraj'
+p102
+aS'831'
+p103
+aS'Comment'
+p104
+aa(lp105
+S'Arun Jaitley'
+p106
+aS'866'
+p107
+aS'Comment'
+p108
+aa(lp109
+S'Chidambaram'
+p110
+aS'891'
+p111
+aS'Others'
+p112
+aa(lp113
+S'Swaraj'
+p114
+aS'902'
+p115
+aS'Others'
+p116
+aa(lp117
+S'LK Advani'
+p118
+aS'907'
+p119
+aS'Others'
+p120
+aa(lp121
+S'Rahul Gandhi'
+p122
+aS'913'
+p123
+aS'Others'
+p124
+aa(lp125
+S'Rahul Gandhi'
+p126
+aS'971'
+p127
+aS'Others'
+p128
+aa(lp129
+S'Sanjeev Beniwal'
+p130
+aS'989'
+p131
+aS'Others'
+p132
+aa(lp133
+S'Mehtab Singh'
+p134
+aS'994'
+p135
+aS'Others'
+p136
+aa(lp137
+S'Singh'
+p138
+aS'1005'
+p139
+aS'Victim'
+p140
+aa(lp141
+S'Rohit'
+p142
+aS'1037'
+p143
+aS'Others'
+p144
+aa(lp145
+S'Sachin Powa'
+p146
+aS'1041'
+p147
+aS'Others'
+p148
+aa(lp149
+S'Singh'
+p150
+aS'1066'
+p151
+aS'Others'
+p152
+aa(lp153
+S'Beniwal'
+p154
+aS'1071'
+p155
+aS'Comment'
+p156
+aasS'TIM'
+p157
+(lp158
+S'morning : 17'
+p159
+aS'10.15 am : 160'
+p160
+aS'10.30 am : 175'
+p161
+aS'2 pm:945'
+p162
+asS'hot_setting'
+p163
+S''
+p164
+sS'DAT'
+p165
+(lp166
+S'Wednesday:182'
+p167
+aS'May:341'
+p168
+aS'May:371'
+p169
+aS'July , 2011 : 508'
+p170
+aS'2001 : 717'
+p171
+aS'July 13:1098'
+p172
+aS'Wednesday:1103'
+p173
+asS'death'
+p174
+S'11'
+p175
+sS'title'
+p176
+S'Delhi court blast: 11 dead, 74 injured; sketches of suspect released'
+p177
+sS'det_loc'
+p178
+(lp179
+S'India'
+p180
+aS'Delhi'
+p181
+aS'New Delhi'
+p182
+aS'Delhi'
+p183
+aS'Delhi High Court,Gate No 5'
+p184
+asS'terror_group'
+p185
+(lp186
+g164
+asS'content'
+p187
+VNew Delhi : A bomb placed in a briefcase exploded at the Delhi High Court this morning killing 11 people and injuring over 70 . The explosion took place in the reception area at Gate No 5 , where hundreds of people had gathered to collect passes needed to enter the courthouse . The bomb was so powerful that it drove a huge crater into the ground.The Delhi Police has released two sketches of the man believed to be responsible for today 's terror attack , based on descriptions provided by eyewitnesses . -LRB- See sketches of the suspect -RRB- . By the evening , a special team of 20 members of the National Investigating Agency -LRB- NIA -RRB- that is handling the case was trying to verify the authenticity of an email received by NDTV and another media house , purportedly from the Harkat-ul-Jihadi -LRB- HuJI -RRB- , claiming responsibility for the blast.Today 's explosion took place at 10.15 am - `` rush hour '' for the courthouse which usually starts hearings at 10.30 am . -LRB- Watch -RRB- On Wednesday , Public Interest Litigations -LRB- PIL -RRB- are heard in the High Court , drawing larger than usual crowds . In the seconds after the blast , lawyers and litigants were seen running for help , their blood-soaked clothes clinging to them . `` I heard a loud noise and smoke coming out following by cries of people , '' said Narendra Kumar Singh , a guard at a construction site outside the court.Two kilos of explosives were used in the bomb , said UK Bansal , Special Secretary in the Home Ministry , adding that ammonium nitrate was used ; so was high-grade PETN which is an extremely powerful explosive which can cause considerable damaged even if used in small quantities . -LRB- Read : What is PETN ; why is it deadly ? -RRB- This is the second explosion in the Delhi High Court in four months . A smaller bomb in a parking lot in May did not cause any injuries . Police sources say that attempt may have served as a dry run by the terrorists behind today 's attack . The incident in May had underscored the need for security cameras . They have yet to be installed at the court 's nine different gates . -LRB- First pics of the blast -RRB- The police said the proposal to install security cameras was stuck with court officials . But the head of the Delhi Bar Association , Rakesh Tiku , said `` The High Court has even written to Delhi Police for installation of CCTV cameras at all gates . '' Delhi Chief Minister Sheila Dikshit said , `` We will have to wait for the investigation to tell us exactly who is at fault over the CCTVs . '' Two hours after the blast , Home Minister P Chidambaram addressed Parliament and revealed that `` Intelligence pertaining to threats emanating from certain groups was shared with Delhi Police in July , 2011 . '' He also said that it is not possible at this stage to identify who is responsible for today 's terror attack . The National Investigating Agency -LRB- NIA -RRB- will supervise the inquiry with a special 20-member team . -LRB- Watch : Not yet possible to identify who 's behind blast , says Chidambaram -RRB- Delhi 's Lieutenant Governor Tejinder Khanna said that the intelligence shared with the police was `` not actionable . '' -LRB- Watch : Delhi 's Lt Governor to NDTV -RRB- An email received by different media organisations including NDTV said that the Harkat-ul-Jihadi -LRB- HuJI -RRB- takes responsibility for today 's blast . HuJI is a Pakistan-based terrorist group . `` HUJI is a lethal group ... we take the mail very seriously , '' said NIA Chief SC Sinha . The email states , `` We owe the responsibility of today 's blasts at High Court Delhi ... our demand is that Afzal Guru 's death sentence should be repealed immediately else we would target major high courts and the Supreme Court of India . `` Afzal Guru has been sentenced to death by the Supreme Court for his role in the attack on the Indian Parliament in 2001 . His mercy petition that asks for his sentence to be commuted to life is pending with President Pratibha Patil . The Home Ministry has reportedly recommended that it be rejected.Prime Minister Manmohan Singh , currently in Bangladesh on an official visit , described the attack as `` a cowardly act of a terrorist nature . '' He added , `` We will deal with it ... we will never succumb to the pressure of terrorism ... this is a long war . '' -LRB- Read -RRB- The Opposition BJP said the war against terror needs a combined front across party lines , but was severe in its indictment of the government . Sushma Swaraj who visited the High Court said the government 's lethargy had been exposed by the fact that the High Court has been attacked twice - and there are still no security cameras . Arun Jaitley said `` Not generating intelligence is failure of intelligence . '' There was no shortage of political stopovers at the court . Mr Chidambaram visited the site of the blast ; so did Ms Swaraj , senior BJP leader LK Advani and the Congress ' Rahul Gandhi , who had been heckled when he visited Ram Manohar Lohia hospital where some of those injured are being treated . While Parliament was adjourned for the day , by 2 pm , the High Court was back to work to signal that it remains strong despite today 's attack . -LRB- Watch : Crowd heckles Rahul Gandhi outside hospital -RRB- But the conversations in and outside court-rooms were about the tragedy . Lawyer Sanjeev Beniwal rushed his client Mehtab Singh to a Delhi hospital after the explosion . Mr Singh did not survive . `` He -LRB- Singh -RRB- was fighting a property-related case at the court . He was getting his pass made when the blast occurred . His son Rohit and my associate Sachin Powa have also been injured . We rushed them to hospital and I just want them to be safe as I could not save Singh , '' said Mr Beniwal , who was also injured.The government will find itself struggling to provide an explanation for why terror continues to stalk cities with relative ease . On July 13 , also a Wednesday , three bombs exploded in crowded markets in Mumbai during rush hour . More than 20 people were killed . -LRB- Watch : Delhi High Court blast - Eyewitness account -RRB- Here are the emergency helpline numbers : RML hospital : 011-23348200 , 23404446 , 23743769 , 23404478AIIMS : 011-26588700Safdarjung Hospital Helpline : 011 - 26707444 .
+p188
+sS'injured'
+p189
+S'70'
+p190
+sS'org_unorg'
+p191
+S'ORGANISED'
+p192
+sS'O'
+p193
+(lp194
+S'Person:0'
+p195
+aS'court.Two kilos:256'
+p196
+aS'Home Ministry:274'
+p197
+aS'ammonium nitrate:279'
+p198
+aS'PETN:311'
+p199
+aS'Police:348'
+p200
+aS'police:402'
+p201
+aS'Chief Minister:450'
+p202
+aS'Home Minister:484'
+p203
+aS'Delhi Police:505'
+p204
+aS'Lieutenant Governor:570'
+p205
+aS'police:581'
+p206
+aS'Lt Governor:593'
+p207
+aS'Indian Parliament:714'
+p208
+aS'President:735'
+p209
+aS'Home Ministry:740'
+p210
+aS'Ram Manohar Lohia hospital:923'
+p211
+aS'hospital:974'
+p212
+aS'RML hospital:1142'
+p213
+asS'unexpl'
+p214
+(lp215
+g164
+asS'ocassion'
+p216
+g164
+sS'link'
+p217
+S'http://www.ndtv.com/india-news/delhi-court-blast-11-dead-74-injured-sketches-of-suspect-released-466962'
+p218
+sS'date'
+p219
+S'07-09-2011'
+p220
+sS'target'
+p221
+g164
+sS'hot_spot'
+p222
+S'Delhi High Court,Gate No 5'
+p223
+sS'delivery_mod'
+p224
+g164
+sS'delivery_met'
+p225
+S'PLANTED'
+p226
+sS'expl'
+p227
+(lp228
+S'PETN'
+p229
+aS'AMMONIUM NITRATE'
+p230
+asS'ORG'
+p231
+(lp232
+(lp233
+S'Delhi High Court'
+p234
+aS'13'
+p235
+aS'Others'
+p236
+aa(lp237
+S'Delhi Police'
+p238
+aS'68'
+p239
+aS'Others'
+p240
+aa(lp241
+S'National Investigating Agency'
+p242
+aS'114'
+p243
+aS'Others'
+p244
+aa(lp245
+S'NIA'
+p246
+aS'118'
+p247
+aS'Others'
+p248
+aa(lp249
+S'Harkat-ul-Jihadi'
+p250
+aS'145'
+p251
+aS'Accused'
+p252
+aa(lp253
+S'HuJI'
+p254
+aS'147'
+p255
+aS'Accused'
+p256
+aa(lp257
+S'High Court'
+p258
+aS'194'
+p259
+aS'Others'
+p260
+aa(lp261
+S'Delhi High Court'
+p262
+aS'326'
+p263
+aS'Others'
+p264
+aa(lp265
+S'Delhi Bar Association'
+p266
+aS'421'
+p267
+aS'Others'
+p268
+aa(lp269
+S'High Court'
+p270
+aS'431'
+p271
+aS'Others'
+p272
+aa(lp273
+S'Delhi Police'
+p274
+aS'437'
+p275
+aS'Others'
+p276
+aa(lp277
+S'National Investigating Agency'
+p278
+aS'536'
+p279
+aS'Others'
+p280
+aa(lp281
+S'NIA'
+p282
+aS'540'
+p283
+aS'Others'
+p284
+aa(lp285
+S'Harkat-ul-Jihadi'
+p286
+aS'610'
+p287
+aa(lp288
+S'HuJI'
+p289
+aS'612'
+p290
+aS'Accused'
+p291
+aa(lp292
+S'HuJI'
+p293
+aS'621'
+p294
+aS'Accused'
+p295
+aa(lp296
+S'HUJI'
+p297
+aS'629'
+p298
+aS'Accused'
+p299
+aa(lp300
+S'lethal group'
+p301
+aS'632'
+p302
+aS'Accused'
+p303
+aa(lp304
+S'NIA'
+p305
+aS'644'
+p306
+aS'Others'
+p307
+aa(lp308
+S'High Court Delhi'
+p309
+aS'663'
+p310
+aS'Others'
+p311
+aa(lp312
+S'Supreme Court of India'
+p313
+aS'689'
+p314
+aS'Others'
+p315
+aa(lp316
+S'Supreme Court'
+p317
+aS'689'
+p318
+aS'Others'
+p319
+aa(lp320
+S'Supreme Court'
+p321
+aS'704'
+p322
+aS'Others'
+p323
+aa(lp324
+S'Opposition BJP'
+p325
+aS'806'
+p326
+aS'Others'
+p327
+aa(lp328
+S'BJP'
+p329
+aS'807'
+p330
+aS'Others'
+p331
+aa(lp332
+S'High Court'
+p333
+aS'836'
+p334
+aS'Others'
+p335
+aa(lp336
+S'High Court'
+p337
+aS'851'
+p338
+aS'Others'
+p339
+aa(lp340
+S'BJP'
+p341
+aS'905'
+p342
+aS'Others'
+p343
+aa(lp344
+S'Congress'
+p345
+aS'911'
+p346
+aS'Others'
+p347
+aa(lp348
+S'High Court'
+p349
+aS'949'
+p350
+aS'Others'
+p351
+aa(lp352
+S'government'
+p353
+aS'1077'
+p354
+aS'Others'
+p355
+aa(lp356
+S'Delhi High Court'
+p357
+aS'1127'
+p358
+aS'Others'
+p359
+aas.

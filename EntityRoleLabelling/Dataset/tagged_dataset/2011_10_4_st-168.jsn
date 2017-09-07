@@ -1,0 +1,236 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "101", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Coimbatore", 
+            "118", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "149", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Coimbatore", 
+            "186", 
+            "Event"
+        ], 
+        [
+            "Coimbatore", 
+            "215", 
+            "Event"
+        ], 
+        [
+            "Coimbatore", 
+            "256", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "306", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Coimbatore", 
+            "320", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Arunachalam", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "Abdul Nasser Maudhany", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "Maudhany", 
+            "83", 
+            "Accused"
+        ], 
+        [
+            "Maudhany", 
+            "143", 
+            "Accused"
+        ], 
+        [
+            "Maudhany", 
+            "251", 
+            "Accused"
+        ], 
+        [
+            "Maudhany", 
+            "300", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "4 p.m.:26"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:9", 
+        "October 29:29", 
+        "December 30 , 2002 : 65", 
+        "October 29:188"
+    ], 
+    "death": "", 
+    "title": "SIT gets time to produce Maudhany", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Coimbatore", 
+        "Coimbatore", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Judicial Magistrate III ( in-charge ) Arunachalam on Monday granted the Special Investigation Team ( SIT ) of the State Crime Branch CID time till 4 p.m. on October 29 to produce Kerala-based People 's Democratic Party ( PDP ) leader Abdul Nasser Maudhany . The case relates to the planting of a bomb inside a telephone booth at the Coimbatore Press Club on December 30 , 2002 . The SIT had obtained a production warrant from the Coimbatore court against Mr. Maudhany and formally recorded his arrest in the Bangalore prison where he is lodged in connection with the Bangalore bomb blasts case . It had also obtained a Prisoner Transit Warrant to bring him to Coimbatore . Subsequently , it encountered problems in bringing the PDP leader here . SIT sources said that initially , the issue was that Mr. Maudhany 's presence was needed in Bangalore for the blasts case trial . Then arose the question of who should provide escort Karnataka police or Tamil Nadu police . It stood resolved now with the Tamil Nadu Police tasked with bringing him to Coimbatore on October 29 after their election bandobust duty is completed . Citing his health condition , the PDP leader is said to have expressed inability to travel to Coimbatore either by train or road . The issue of bringing him by flight with police escort has to be decided by the Tamil Nadu government , the sources said . The idea of producing Mr. Maudhany before the magistrate in Coimbatore through videoconferencing was not found to be legally permissible . The sources pointed out that the law mandated that the accused be produced in person for the first time in the case . Videoconferencing could be resorted to only for remand extension . Maudhany lodged in Bangalore prison in Bangalore bomb blast case Tamil Nadu Police entrusted with task of bringing him to Coimbatore OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "judicial magistrate:1", 
+        "state crime branch:20", 
+        "kerala-based people 's democratic party:33", 
+        "bomb:54", 
+        "telephone booth:57", 
+        "production warrant:75", 
+        "arrest:88", 
+        "bangalore bomb blasts case:101", 
+        "bomb blasts:102", 
+        "prisoner transit warrant:111", 
+        "pdp leader:128", 
+        "maudhany :143", 
+        "case trial:153", 
+        "escort:164", 
+        "pdp leader:204", 
+        "travel:213", 
+        "train:218", 
+        "road:220", 
+        "flight:228", 
+        "escort:231", 
+        "idea:247", 
+        "magistrate:254", 
+        "videoconferencing:258", 
+        "videoconferencing:290", 
+        "remand extension:297", 
+        "bangalore bomb blast case:306", 
+        "bomb blast:307", 
+        "task:315"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/sit-gets-time-to-produce-maudhany/article2510744.ece", 
+    "date": "04-10-2011", 
+    "target": "Public Organization", 
+    "hot_spot": "Coimbatore Press Club", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Special Investigation Team", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "SIT", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "People 's Democratic Party", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "PDP", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "Coimbatore Press Club", 
+            "61", 
+            "Victim"
+        ], 
+        [
+            "SIT", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "Coimbatore court", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Bangalore prison", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "PDP", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "SIT", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Karnataka police", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu police", 
+            "168", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu Police", 
+            "178", 
+            "Others"
+        ], 
+        [
+            "PDP", 
+            "204", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu government", 
+            "238", 
+            "Others"
+        ], 
+        [
+            "Bangalore prison", 
+            "303", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu Police", 
+            "310", 
+            "Others"
+        ]
+    ]
+}

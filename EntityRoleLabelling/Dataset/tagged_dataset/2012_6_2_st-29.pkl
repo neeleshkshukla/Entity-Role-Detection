@@ -1,0 +1,185 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Chanchalguda prison:33'
+p4
+aS'Accused Location'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Mecca Masjid'
+p8
+aS'22'
+p9
+aS'Event'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Bharat'
+p14
+aS'74'
+p15
+aS'Accused'
+p16
+aS'Others'
+p17
+aa(lp18
+S'Bharat Mohanlal Ratheswar'
+p19
+aS'10'
+p20
+aS'Accused'
+p21
+aa(lp22
+S'Bharat Bhai'
+p23
+aS'14'
+p24
+aS'Accused'
+p25
+aa(lp26
+S'Bharat'
+p27
+aS'41'
+p28
+aS'Accused'
+p29
+aa(lp30
+S'B. Rajavardhan Reddy'
+p31
+aS'97'
+p32
+aS'Comment'
+p33
+aa(lp34
+S'Bharat'
+p35
+aS'103'
+p36
+aS'Accused'
+p37
+aasS'TIM'
+p38
+(lp39
+sS'hot_setting'
+p40
+S''
+p41
+sS'DAT'
+p42
+(lp43
+S'Friday:6'
+p44
+aS'2007:21'
+p45
+asS'death'
+p46
+g41
+sS'title'
+p47
+S'Mecca Masjid blast accused gets bail'
+p48
+sS'org_unorg'
+p49
+S'ORGANISED'
+p50
+sS'terror_group'
+p51
+(lp52
+g41
+asS'content'
+p53
+S'A local court here on Friday granted bail to Bharat Mohanlal Ratheswar alias Bharat Bhai , the accused in the 2007 Mecca Masjid bomb blast case . Presently , he is in Chanchalguda prison The court granted the bail to Bharat after the National Investigating Agency ( NIA ) , which is probing the case , failed to file charge-sheet even after the expiry of 180 days of remand period . It asked Bharat to produce two sureties for Rs .10,000 each and stipulated that he be available for investigators as and when required , said B. Rajavardhan Reddy , counsel for Bharat . OPEN'
+p54
+sS'injured'
+p55
+g41
+sS'det_loc'
+p56
+(lp57
+S'India'
+p58
+ag41
+ag41
+aS'HYDERABAD'
+p59
+aS'Mecca Masjid'
+p60
+asS'O'
+p61
+(lp62
+S'Chanchalguda prison:33'
+p63
+aS'probing:53'
+p64
+aS'charge-sheet:60'
+p65
+aS'180 days:66'
+p66
+aS'remand period:69'
+p67
+aS'rs .10,000:80'
+p68
+asS'unexpl'
+p69
+(lp70
+g41
+asS'ocassion'
+p71
+g41
+sS'link'
+p72
+S'http://www.thehindu.com/todays-paper/tp-national/mecca-masjid-blast-accused-gets-bail/article3481744.ece'
+p73
+sS'date'
+p74
+S'18-05-2007'
+p75
+sS'target'
+p76
+S'RELIGIOUS PLACES'
+p77
+sS'hot_spot'
+p78
+S'Mecca Masjid'
+p79
+sS'delivery_mod'
+p80
+g41
+sS'delivery_met'
+p81
+g41
+sS'expl'
+p82
+(lp83
+g41
+asS'ORG'
+p84
+(lp85
+(lp86
+S'local court'
+p87
+aS'2'
+p88
+aS'Others'
+p89
+aa(lp90
+S'National Investigating Agency'
+p91
+aS'44'
+p92
+aS'Others'
+p93
+aa(lp94
+S'NIA'
+p95
+aS'48'
+p96
+aS'Others'
+p97
+aas.

@@ -1,0 +1,119 @@
+{
+    "LOC": [
+        [
+            "northwest Pakistan", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Khyber Pakhtunkhwa", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "144", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dera Ismail Khan", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "Anwar Khan Akbar", 
+            "87", 
+            "Comment"
+        ], 
+        [
+            "Nazir Khan", 
+            "93", 
+            "Comment"
+        ], 
+        [
+            "Khalid Aziz", 
+            "131", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "Ashura", 
+    "DAT": [
+        "Saturday : 52"
+    ], 
+    "death": "3", 
+    "title": "Bomb attack on Shiite parade kills three in Pakistan", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Khyber Pakhtunkhwa", 
+        " Dera Ismail Khan in Khyber Pakhtunkhwa province"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A bomb attack on a Shiite Muslim procession killed three people and wounded more than 50 in northwest Pakistan on Sunday as Shiites marked their holiest day Ashura , police said . The bomb exploded in the city of Dera Ismail Khan in Khyber Pakhtunkhwa province , where a blast on Saturday killed eight people near a Shiite Muslim procession . `` Three people have been killed and more than 50 injured . The target of the attack was the Ashura procession , '' police official Anwar Khan Akbar told AFP . Nazir Khan , a second police official in the city , said the bomb was planted inside a shop . `` It was a remote-controlled bomb and exploded as a procession reached here , '' he said . Khalid Aziz , a doctor in the city 's main hospital , told Pakistan 's private ARY TV channel the condition of some of the injured was critical.AFP OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb attack:2", 
+        "procession:8", 
+        "day:27", 
+        "bomb:34", 
+        "city:38", 
+        "blast:50", 
+        "procession:60", 
+        "target:75", 
+        "attack:78", 
+        "procession:82", 
+        "official:86", 
+        "official:99", 
+        "city:102", 
+        "bomb:106", 
+        "shop:111", 
+        "bomb:118", 
+        "procession:123", 
+        "doctor:135", 
+        "city:138", 
+        "hospital:141", 
+        "condition:151"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Religious festivals", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/bomb-attack-on-shiite-parade-kills-three-in-pakistan/article4135170.ece", 
+    "date": "23-09-2012", 
+    "target": "Market Place", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Shiite Muslim", 
+            "6", 
+            "Victim"
+        ], 
+        [
+            "Shiites", 
+            "23", 
+            "Victim"
+        ], 
+        [
+            "Shiite Muslim", 
+            "58", 
+            "Victim"
+        ], 
+        [
+            "ARY TV channel", 
+            "147", 
+            "Others"
+        ]
+    ]
+}

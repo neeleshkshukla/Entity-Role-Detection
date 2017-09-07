@@ -1,0 +1,271 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'DIPHU'
+p4
+aS'1'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Assam'
+p8
+aS'24'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Karbi Anglong'
+p12
+aS'26'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Diphu'
+p16
+aS'101'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Morigaon'
+p20
+aS'112'
+p21
+aS'Accused Location'
+p22
+aa(lp23
+S'Karbi Anglong'
+p24
+aS'180'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Jagiroad'
+p28
+aS'206'
+p29
+aS'Accused Location'
+p30
+aa(lp31
+S'Morigaon'
+p32
+aS'208'
+p33
+aS'Accused Location'
+p34
+aasS'PER'
+p35
+(lp36
+(lp37
+S'Chandan Kumar'
+p38
+aS'242'
+p39
+aS'Others'
+p40
+aasS'TIM'
+p41
+(lp42
+S'5.40 Pm : 55'
+p43
+asS'hot_setting'
+p44
+S''
+p45
+sS'DAT'
+p46
+(lp47
+S'December 2:164'
+p48
+aS'December 2:266'
+p49
+asS'death'
+p50
+g45
+sS'title'
+p51
+S'Nine injured in Assam bomb blast'
+p52
+sS'org_unorg'
+p53
+g45
+sS'terror_group'
+p54
+(lp55
+S'KARBI LONGRI N.C. HILLS LIBERATION FRONT'
+p56
+asS'content'
+p57
+VDIPHU : Nine persons , including two children , were injured in a powerful bomb blast by KLNLF militants in a market in Assam 's Karbi Anglong district where another bomb was recovered . Police sources said the bomb exploded in the forest gate of the fish market under Kheroni police station at around 5.40 Pm when about 2000 people gathered there . Five , including a woman and two children , were seriously injured , in the explosion of the bomb planted by Karbi Longri National Liberation Front , the sources said . A powerful bomb was recovered in Diphu town and eight militants of the KLNLF surrendered in neighbouring Morigaon district . An army patrol noticed a suspicious packet lying near the autonomous state demand council office here , official sources said . The two kg improvisewd explosive devise fitted with a timer device was defused by army engineers , the sources said . This is the sixth bomb recovered since December 2 when rebels of the same outfit blasted a bomb in Lumding-Diphu passenger train in Karbi Anglong district killing three persons and injury to 34 others . Meanwhile , eight militants surrendered before the army today with arms and ammunition at Jagiroad of Morigaon and deposited two AK-56 rifles , a 9-mm pistol , two .32 revolvers and 90 rounds of assorted ammunition , some grenades , explosives , detonators and a radio set to Maj Gen Chandan Kumar of the Red Horn division at a ceremony here . The KLNLF has called an indefinite economic blockade in the district since December 2 but vehicles were plying on the national highways with police escort .
+p58
+sS'injured'
+p59
+S'9'
+p60
+sS'det_loc'
+p61
+(lp62
+S'India'
+p63
+aS'Assam'
+p64
+aS'Karbi Anglong'
+p65
+ag45
+ag45
+asS'O'
+p66
+(lp67
+S'nine persons:3'
+p68
+aS'two children:7'
+p69
+aS'klnlf militants:18'
+p70
+aS'forest gate:43'
+p71
+aS'fish market:47'
+p72
+aS'kheroni police station:50'
+p73
+aS'2000 people:59'
+p74
+aS'a powerful bomb:95'
+p75
+aS'recovered:99'
+p76
+aS'eight militants:104'
+p77
+aS'surrendered:109'
+p78
+aS'army patrol:116'
+p79
+aS'suspicious packet:120'
+p80
+aS'two kg:137'
+p81
+aS'improvisewd explosive devise:139'
+p82
+aS'timer device:145'
+p83
+aS'defused:148'
+p84
+aS'army engineers:150'
+p85
+aS'sixth bomb:160'
+p86
+aS'recovered since:162'
+p87
+aS'lumding-diphu passenger train:176'
+p88
+aS'killing three persons:183'
+p89
+aS'injury to 34:187'
+p90
+aS'two ak-56 rifles:211'
+p91
+aS'9-mm pistol:216'
+p92
+aS'two .32 revolvers:219'
+p93
+aS'90 rounds of assorted ammunition:223'
+p94
+aS'grenades:230'
+p95
+aS'explosives:232'
+p96
+aS'detonators:234'
+p97
+aS'a radio set:236'
+p98
+aS'maj gen:240'
+p99
+aS'ceremony:251'
+p100
+aS'indefinite economic blockade:259'
+p101
+aS'police escort:277'
+p102
+asS'unexpl'
+p103
+(lp104
+g45
+asS'ocassion'
+p105
+g45
+sS'link'
+p106
+S'http://timesofindia.indiatimes.com/india/Nine-injured-in-Assam-bomb-blast/articleshow/3802644.cms'
+p107
+sS'date'
+p108
+S'05-12-2008'
+p109
+sS'target'
+p110
+g45
+sS'hot_spot'
+p111
+g45
+sS'delivery_mod'
+p112
+g45
+sS'delivery_met'
+p113
+g45
+sS'expl'
+p114
+(lp115
+S'IED'
+p116
+asS'ORG'
+p117
+(lp118
+(lp119
+S'KLNLF'
+p120
+aS'18'
+p121
+aS'Accused'
+p122
+aa(lp123
+S'Karbi Longri National Liberation Front'
+p124
+aS'85'
+p125
+aS'Accused'
+p126
+aa(lp127
+S'KLNLF'
+p128
+aS'108'
+p129
+aS'Accused'
+p130
+aa(lp131
+S'autonomous state demand council office'
+p132
+aS'125'
+p133
+aS'Victim'
+p134
+aa(lp135
+S'Red Horn division'
+p136
+aS'246'
+p137
+aS'Others'
+p138
+aa(lp139
+S'KLNLF'
+p140
+aS'255'
+p141
+aS'Accused'
+p142
+aas.

@@ -1,0 +1,245 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsukhnagar'
+p4
+aS'24'
+p5
+aS'Event'
+p6
+aasS'PER'
+p7
+(lp8
+(lp9
+S'Sadanand'
+p10
+aS'126'
+p11
+aS'Comment'
+p12
+aa(lp13
+S'K. Arun Kishore'
+p14
+aS'200'
+p15
+aS'Comment'
+p16
+aa(lp17
+S'Santosh Kumar'
+p18
+aS'287'
+p19
+aS'Comment'
+p20
+aa(lp21
+S'E. Lokendra Nath'
+p22
+aS'342'
+p23
+aS'Comment'
+p24
+aa(lp25
+S'Abdul Kotadiya'
+p26
+aS'383'
+p27
+aS'Comment'
+p28
+aa(lp29
+S'Nemmani Sreedhar'
+p30
+aS'449'
+p31
+aS'Others'
+p32
+aasS'TIM'
+p33
+(lp34
+S'three minutes : 167'
+p35
+asS'hot_setting'
+p36
+S''
+p37
+sS'DAT'
+p38
+(lp39
+S'Thursday : 272'
+p40
+asS'death'
+p41
+g37
+sS'title'
+p42
+S'Youth take the lead in rescue operations'
+p43
+sS'org_unorg'
+p44
+S'ORGANISED'
+p45
+sS'terror_group'
+p46
+(lp47
+g37
+asS'content'
+p48
+S'When the going gets tough , the tough gets going or so says an old clich . But when the twin blasts rocked Dilsukhnagar and spread waves of shock and panic , undeterred local youth stood ground and formed the first line of rescue operations . Armed with sticks , the youth assisted the police officials in shifting the bodies and injured persons , helped in cordoning off the blast sites and tried to bring the situation under control before additional police forces could be rushed in . The area got engulfed in pitch darkness when the bomb went off . The commotion created by flames and dismembered bodies was such that most of us could not gather our wits to formulate a response , Sadanand , owner of a shop in the neighbourhood recounts . It was the youth from numerous hostels in the vicinities who poured out to extend their help , he adds . The local Police Inspector came to the spot within three minutes and first ambulance rushed to the spot soon after that , but it was few large-hearted people who came forward to douse the flames and plunge into the rescue operations , K. Arun Kishore , another shopkeeper recounts . Once the rescue operations picked up , more people started trickling in , he says , adding that soon it became difficult to control people who started trampling the area . The injured were rushed to the nearest private hospitals and those who received serious injuries were shifted to bigger hospitals like Care , Omni and Yashoda . We received about 30 victims on Thursday , most were treated as out-patients or were sent to other hospitals , Dr. Santosh Kumar from Sai Ram Speciality Hospital says . The injured were brought to the hospital by the neighbourhood youth , he maintains . A major helping hand was also extended by the local political party cadres . Our people swung into action immediately and we mobilised our cadre within minutes , local TDP representative E. Lokendra Nath claims . The situation was similar at the first bomb blast site near 72 number bus-stop . It was initially dark as all bulbs in the area got fused and it was difficult to make out anything , Abdul Kotadiya owner of Dress Code , the store in front of which the bomb went off , says . The glass panes were shattered , bulbs gone , ears ringing with the after effects of the blasts . The scene was macabre and we did not know what to do . But soon youngsters poured in and started helping the injured , he recounts . Nemmani Sreedhar OPEN'
+p49
+sS'injured'
+p50
+S'30'
+p51
+sS'det_loc'
+p52
+(lp53
+S'India'
+p54
+aS'Andhra Pradesh'
+p55
+ag37
+aS'Hyderabad'
+p56
+aS'In front of the store named Dress Code, near 72 number bus-stop  '
+p57
+asS'O'
+p58
+(lp59
+S'old clich:15'
+p60
+aS'twin blasts:21'
+p61
+aS'shock and panic:29'
+p62
+aS'undeterred local youth:33'
+p63
+aS'rescue operations:44'
+p64
+aS'blast sites:70'
+p65
+aS'pitch darkness:94'
+p66
+aS'bomb:98'
+p67
+aS'commotion:103'
+p68
+aS'flames:106'
+p69
+aS'dismembered bodies:108'
+p70
+aS'formulate:122'
+p71
+aS'hostels:143'
+p72
+aS'ambulance:171'
+p73
+aS'flames:192'
+p74
+aS'plunge:194'
+p75
+aS'rescue operations:197'
+p76
+aS'rescue operations:210'
+p77
+aS'trickling:218'
+p78
+aS'difficult:229'
+p79
+aS'trampling:235'
+p80
+aS'private hospitals:246'
+p81
+aS'serious injuries:252'
+p82
+aS'local political party:320'
+p83
+aS'action:329'
+p84
+aS'mobilised:333'
+p85
+aS'first bomb blast site:353'
+p86
+aS'72 number bus-stop:358'
+p87
+aS'Dress Code:387'
+p88
+aS'bomb:397'
+p89
+aS'blasts:420'
+p90
+aS'macabre:425'
+p91
+asS'unexpl'
+p92
+(lp93
+g37
+asS'ocassion'
+p94
+g37
+sS'link'
+p95
+S'http://www.thehindu.com/todays-paper/tp-features/tp-downtown/youth-take-the-lead-in-rescue-operations/article4460460.ece'
+p96
+sS'date'
+p97
+S'21-02-2013'
+p98
+sS'target'
+p99
+S'TOWN'
+p100
+sS'hot_spot'
+p101
+S'Commercial and residential center in Hyderabad'
+p102
+sS'delivery_mod'
+p103
+g37
+sS'delivery_met'
+p104
+S'PLANTED'
+p105
+sS'expl'
+p106
+(lp107
+g37
+asS'ORG'
+p108
+(lp109
+(lp110
+S'Care'
+p111
+aS'260'
+p112
+aS'Others'
+p113
+aa(lp114
+S'Omni'
+p115
+aS'262'
+p116
+aS'Others'
+p117
+aa(lp118
+S'Yashoda'
+p119
+aS'264'
+p120
+aS'Others'
+p121
+aa(lp122
+S'Sai Ram Speciality Hospital'
+p123
+aS'290'
+p124
+aS'Others'
+p125
+aa(lp126
+S'TDP'
+p127
+aS'340'
+p128
+aS'Others'
+p129
+aas.

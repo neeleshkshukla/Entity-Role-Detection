@@ -1,0 +1,351 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbai'
+p4
+aS'93'
+p5
+aS'Assoc Event Location'
+p6
+aa(lp7
+S'Koti'
+p8
+aS'174'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Hyderabad'
+p12
+aS'210'
+p13
+aa(lp14
+S'Lumbini Park'
+p15
+aS'17'
+p16
+aS'Event'
+p17
+aa(lp18
+S'Hyderabad'
+p19
+aS'20'
+p20
+aS'Event'
+p21
+aa(lp22
+S'HYDERABAD'
+p23
+aS'37'
+p24
+aS'Event'
+p25
+aa(lp26
+S'Hyderabad'
+p27
+aS'60'
+p28
+aS'Event'
+p29
+aa(lp30
+S'Zaveri Bazar'
+p31
+aS'97'
+p32
+aS'Event'
+p33
+aa(lp34
+S'Lumbini Park'
+p35
+aS'110'
+p36
+aS'Event'
+p37
+aa(lp38
+S'India'
+p39
+aS'113'
+p40
+aS'Event'
+p41
+aa(lp42
+S'Hussainsagar lake'
+p43
+aS'131'
+p44
+aS'Neutral'
+p45
+aa(lp46
+S'Hussainsagar lake'
+p47
+aS'131'
+p48
+aS'Neutral'
+p49
+aa(lp50
+S'Gokul Chat'
+p51
+aS'143'
+p52
+aS'Event'
+p53
+aa(lp54
+S'Sultan Bazar'
+p55
+aS'146'
+p56
+aS'Event'
+p57
+aa(lp58
+S'Koti'
+p59
+aS'149'
+p60
+aS'Event'
+p61
+aa(lp62
+S'Narayanaguda'
+p63
+aS'194'
+p64
+aS'Event'
+p65
+aa(lp66
+S'Dilsukhnagar'
+p67
+aS'197'
+p68
+aS'Event'
+p69
+aa(lp70
+S'Mecca Masjid'
+p71
+aS'206'
+p72
+aS'Assoc Event Location'
+p73
+aa(lp74
+S'Mecca Masjid'
+p75
+aS'234'
+p76
+aS'Assoc Event Location'
+p77
+aa(lp78
+S'Lumbini Park'
+p79
+aS'263'
+p80
+aS'Event'
+p81
+aa(lp82
+S'Mecca Masjid'
+p83
+aS'342'
+p84
+aS'Assoc Event Location'
+p85
+aa(lp86
+S'Hyderabad'
+p87
+aS'407'
+p88
+aS'Event'
+p89
+aa(lp90
+S'Bangalore'
+p91
+aS'409'
+p92
+aS'Neutral'
+p93
+aa(lp94
+S'India'
+p95
+aS'429'
+p96
+aS'Event'
+p97
+aa(lp98
+S'Iraq'
+p99
+aS'448'
+p100
+aS'Assoc Event Location'
+p101
+aasS'PER'
+p102
+(lp103
+(lp104
+S'Shahid Ilyas Bilal'
+p105
+aS'332'
+p106
+aS'Accused'
+p107
+aasS'TIM'
+p108
+(lp109
+S'7.40 pm : 107'
+p110
+asS'hot_setting'
+p111
+S''
+p112
+sS'DAT'
+p113
+(lp114
+S'Saturday:84'
+p115
+aS'May:216'
+p116
+aS'Saturday:260'
+p117
+asS'death'
+p118
+S'40'
+p119
+sS'title'
+p120
+S'40 killed in Hyderabad blasts'
+p121
+sS'org_unorg'
+p122
+g112
+sS'terror_group'
+p123
+(lp124
+S'HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI'
+p125
+asS'content'
+p126
+Vdoweshowbellyad = 0 ; . . People mill around at the site of a blast at Lumbini Park in Hyderabad . Forty people are feared dead in the twin blasts -LRB- AFP Photo -RRB- . . HYDERABAD : The killing just does n't stop . At least 40 people were killed and scores injured in two powerful blasts in Hyderabad , one at an amusement park packed with weekend holidayers and another at a landmark eatery in the heart of the city on Saturday evening exactly four years after twin blasts at Mumbai 's Gateway and Zaveri Bazar killed 53 . The first blast happened at 7.40 pm in Lumbini Park , India 's biggest laser show arena , a stone 's throw from the Andhra Pradesh Secretariat and flanking Hussainsagar lake . The second took place some 30 minutes later in Gokul Chat at Sultan Bazar in Koti neighbourhood in the communally sensitive old city . Police said bombs at both places seemed to have timer devices but some sources said the Koti blast could have been executed by a suicide bomber.Reports of unexploded bombs being discovered in a movie theatre in Narayanaguda and in Dilsukhnagar suggested that the attacks - similar to the Mecca Masjid blasts in Hyderabad that killed 16 people this May - were well-planned serial attacks aimed at causing maximum casualties among citizens chilling out over the weekend.The Mecca Masjid attacks were planned and executed by Bangladesh-based terror group Harkat-ul Jihad Islami -LRB- Huji -RRB- . Early indications suggest similar explosives were used on Saturday . The Lumbini Park blast ripped out four rows of seats from its moorings and blew out parts of the concrete base to smithereens , leaving mangled bodies everywhere . There were some tell-tale marks of RDX being used and the bombs had been packed in plastic containers with steel balls used in bicycle wheel hubs , which acted as shrapnel.Intelligence agency sources said the attacks could be the handiwork of Shahid Ilyas Bilal , who 's also linked to the Mecca Masjid attacks . He 's a high-ranking Lashkar-e-Taiba operative who has lately been working with HuJi . Intelligence agencies monitoring his activities have recently observed him flitting in and out of jehadi chat rooms . There is a new pattern of militant groups pooling resources for bigger strikes , so a combined operation is not being ruled out.Such vicious attacks prove that cities like Hyderabad and Bangalore , emerging icons of a vibrant nation , are firmly in the cross-hairs of terror groups which have made India a country with perhaps the highest number of civilian victims of terror -LRB- leaving aside war-torn countries like Iraq -RRB- .
+p127
+sS'injured'
+p128
+g112
+sS'det_loc'
+p129
+(lp130
+S'India'
+p131
+aS'Andhra Pradesh'
+p132
+ag112
+aS'Hydrerabad'
+p133
+ag112
+asS'O'
+p134
+(lp135
+S'twin blasts:29'
+p136
+aS'two powerful blasts in hyderabad:56'
+p137
+aS"four years after twin blasts at mumbai 's gateway:87"
+p138
+aS'communally sensitive old city:153'
+p139
+aS'suicide bomber.reports:182'
+p140
+aS'unexploded bombs:185'
+p141
+aS'mecca masjid blasts:206'
+p142
+aS'serial attacks aimed at causing maximum casualties:220'
+p143
+aS'RDX:297'
+p144
+aS'bicycle wheel hubs:314'
+p145
+aS'new pattern of militant groups:381'
+p146
+aS'combined operation is not being ruled out.such:394'
+p147
+aS'cross-hairs of terror groups:422'
+p148
+asS'unexpl'
+p149
+(lp150
+S'BALL BEARING'
+p151
+aS'MECHANICAL TIMERS'
+p152
+asS'ocassion'
+p153
+g112
+sS'link'
+p154
+S'http://timesofindia.indiatimes.com/india/40-killed-in-Hyderabad-blasts/articleshow/2310955.cms?'
+p155
+sS'date'
+p156
+S'25-08-2007'
+p157
+sS'target'
+p158
+S'PARK AND RESTRAUNT'
+p159
+sS'hot_spot'
+p160
+g112
+sS'delivery_mod'
+p161
+S'PLASTIC CONTAINERS'
+p162
+sS'delivery_met'
+p163
+g112
+sS'expl'
+p164
+(lp165
+S'RDX'
+p166
+asS'ORG'
+p167
+(lp168
+(lp169
+S'Andhra Pradesh Secretariat'
+p170
+aS'126'
+p171
+aS'Others'
+p172
+aa(lp173
+S'Harkat-ul Jihad Islami'
+p174
+aS'245'
+p175
+aS'Accused'
+p176
+aa(lp177
+S'Huji'
+p178
+aS'249'
+p179
+aS'Accused'
+p180
+aa(lp181
+S'Lashkar-e-Taiba'
+p182
+aS'350'
+p183
+aS'Assoc Accused'
+p184
+aa(lp185
+S'HuJi'
+p186
+aS'358'
+p187
+aS'Accused'
+p188
+aa(lp189
+S'Intelligence agencies'
+p190
+aS'360'
+p191
+aS'Others'
+p192
+aas.

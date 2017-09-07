@@ -1,0 +1,205 @@
+{
+    "LOC": [
+        [
+            "Alampatti", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Tirumangalam", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Dindigul Range", 
+            "59", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "Alampatti", 
+            "242", 
+            "Event"
+        ], 
+        [
+            "Tirumangalam-Rajapalayam highway", 
+            "245", 
+            "Event"
+        ], 
+        [
+            "Tirumangalam taluk", 
+            "589", 
+            "Neutral"
+        ], 
+        [
+            "Tirumangalam taluk", 
+            "673", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "S. George", 
+            "14", 
+            "Others"
+        ], 
+        [
+            "John Nicholson", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "B. Vijayakumari", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "Sanjay Mathur", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "George", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "P. Kannappan", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "Asra Garg", 
+            "151", 
+            "Others"
+        ], 
+        [
+            "George", 
+            "554", 
+            "Others"
+        ], 
+        [
+            "Advani", 
+            "640", 
+            "Others"
+        ], 
+        [
+            "Kannan", 
+            "678", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:33"
+    ], 
+    "death": "", 
+    "title": "ADGP at Alampatti causeway", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": ": The Additional Director General of Police ( Law and Order ) , S. George , visited the causeway in Alampatti near Tirumangalam , where a pipe bomb was recovered , on Saturday . He was accompanied by SIT Deputy Inspector General of Police , John Nicholson , SP B. Vijayakumari and Deputy Inspector General of Police ( Dindigul Range ) Sanjay Mathur . Personnel of several wings of the State police , including the Q ' branch , the Special Intelligence Unit , Bomb Detection and Disposal squad ( BDDS ) from Chennai and Crime Branch Criminal Investigation Department and forensic experts are camping here , trying to assimilate the bits and pieces of information available with them to arrive at the motive and the people behind the criminal act . Earlier , Mr. George had a long discussion with the Commissioner , P. Kannappan , Superintendent of Police Asra Garg and other police officials here . A BDDS official said that it was for the first time he came across such a huge quantity of around eight kg of Power Gel 90 explosive planted in an act of sabotage in the State . We have come across the explosives only in the range of one to two kg . But this is huge , he added . The explosive , packed in a PVC pipe , was placed in one of the two bed-level spans under the causeway at Alampatti on the Tirumangalam-Rajapalayam highway . Since the span was narrow , the suspects connected the explosive-packed ( four-foot-long ) PVC pipe with an empty pipe ( of an identical length ) to place it right in the middle of the carriage way , a police source said . The police officials were stunned by the choice of place of the saboteurs . The bomb was planted on the downstream of the causeway . There were lot of bushes on the upstream side . Probably , they avoided it because the bush that would have provided them a good hiding spot would have also hidden the sight of the road and movement of vehicles , an officer said . While the bomb was placed on the farther side of the causeway , the trigger was placed closer to the entry to the causeway . It was placed on the farther side since the conspirators ' plan was to get maximum time and to ensure that the target vehicle was in the middle of the causeway . Besides being closer to the entry ( of the causeway with the trigger ) would help them sight the target vehicle at the earliest , the officer said . The 12-volt battery connected to some 80-metre-long wire for triggering the blast was placed inside a polythene bag to ensure that the battery was not affected by the wet condition . The police personnel were seen collecting the worn-out pieces of clothes that were used to conceal the wire that was laid on the river bed . The battery was placed amidst wild growth of reeds , which would have given a perfect cover for the saboteur and also allowed him to escape from the scene , after blasting , without being noticed by the people on the road , the officer said . Earlier , Mr. George inspected the Tirumangalam taluk police station , where the remnants of the bomb , the white PVC pipes , the green wire and the brand new battery were kept , police said . The Tirumangalam taluk police had filed a case under Section 307 of Indian Penal Code ( Attempt to murder ) and Sections 4 and 5 of Explosive Substances Act . Meanwhile , the Madurai Rural police , in a statement , said that route bandobust was provided for the convoy of Mr. Advani , police pickets were posted in sensitive areas to collect intelligence , besides checking of route by the Bomb Detection and Disposal Squad . Based on a specific information received by the Tirumangalam taluk police Sub-Inspector , Kannan , on a suspected object , the police , including the SP , rushed to the spot . It was found to be a pipe-bomb ' , which was removed safely and defused by the BDDS team . The statement added that the police team has come across various objects at the scene of crime which gave important clues for further investigation . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Madurai", 
+        "", 
+        "Alampatti near Tirumangalam"
+    ], 
+    "O": [
+        "Additional Director General of Police:3", 
+        "causeway:19", 
+        "pipe bomb:27", 
+        "SIT:39", 
+        "Deputy Inspector General of Police:40", 
+        "SP:49", 
+        "Deputy Inspector General of Police:53", 
+        "Special Intelligence Unit:81", 
+        "Bomb Detection and Disposal squad:85", 
+        "BDDS:91", 
+        "forensic experts:102", 
+        "criminal act:130", 
+        "commissioner:143", 
+        "Superintendent of Police:148", 
+        "BDDS:160", 
+        "Power Gel 90 explosive:182", 
+        "explosives:201", 
+        "kg:210", 
+        "explosive:221", 
+        "pvc pipe:226", 
+        "causeway:240", 
+        "explosive-packed:258", 
+        "pvc pipe:262", 
+        "carriage way:283", 
+        "bomb:306", 
+        "causeway:314", 
+        "officer:358", 
+        "bomb:363", 
+        "causeway:372", 
+        "trigger:375", 
+        "causeway:384", 
+        "target vehicle:408", 
+        "causeway:416", 
+        "causeway:427", 
+        "trigger:430", 
+        "target vehicle:437", 
+        "battery:449", 
+        "wire:454", 
+        "blast:458", 
+        "battery:469", 
+        "wire:495", 
+        "battery:505", 
+        "escape:529", 
+        "blasting:535", 
+        "bomb:567", 
+        "PVC pipes:571", 
+        "wire:576", 
+        "battery:581", 
+        "indian penal code:600", 
+        "Explosive Substances Act:614", 
+        "convoy:637", 
+        "Bomb Detection and Disposal Squad:659", 
+        "SP:690", 
+        "pipe-bomb:703", 
+        "BDDS:714", 
+        "crime:733", 
+        "investigation:740"
+    ], 
+    "unexpl": [
+        "Batteries"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/adgp-at-alampatti-causeway/article2581797.ece", 
+    "date": "30-10-2011", 
+    "target": "", 
+    "hot_spot": "Causeway", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Crime Branch Criminal Investigation Department", 
+            "96", 
+            "Others"
+        ], 
+        [
+            "Tirumangalam taluk police station", 
+            "557", 
+            "Others"
+        ], 
+        [
+            "Madurai Rural police", 
+            "621", 
+            "Others"
+        ]
+    ]
+}

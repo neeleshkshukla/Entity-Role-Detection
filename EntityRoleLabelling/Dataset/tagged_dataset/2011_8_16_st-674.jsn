@@ -1,0 +1,140 @@
+{
+    "LOC": [
+        [
+            "Diyala", 
+            "122", 
+            "Event"
+        ], 
+        [
+            "Kut", 
+            "150", 
+            "Event"
+        ], 
+        [
+            "Baghdad", 
+            "156", 
+            "Event"
+        ], 
+        [
+            "Diyala", 
+            "195", 
+            "Event"
+        ], 
+        [
+            "Baquba", 
+            "206", 
+            "Event"
+        ], 
+        [
+            "Baquba", 
+            "216", 
+            "Event"
+        ], 
+        [
+            "Najaf", 
+            "235", 
+            "Event"
+        ], 
+        [
+            "Karbala", 
+            "284", 
+            "Event"
+        ], 
+        [
+            "Tikrit", 
+            "286", 
+            "Event"
+        ], 
+        [
+            "Kirkurk", 
+            "288", 
+            "Event"
+        ], 
+        [
+            "Baghdad", 
+            "290", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:12", 
+        "December:67", 
+        "December 31:67", 
+        "Monday:80"
+    ], 
+    "death": "", 
+    "title": "60 killed in wave of violence across Iraq", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Bomb blasts ripped through more than a dozen Iraqi cities on Monday , killing 60 security forces and civilians in the worst attack this year , one that highlighted al-Qaeda 's resolve and ability to wreak havoc . The bloodbath comes less than two weeks after Iraqi officials said they would be open to a small number of U.S. forces staying in the country past a December 31 withdrawal deadline . The blasts were coordinated to go off on Monday morning and included parked car bombs , roadside bombs , a suicide bomber driving a vehicle that rammed a police station and even bombs attached to lightpoles . The scope of the violence seven explosions went off in different towns in Diyala province alone emphasised that insurgents are still able to carry out attacks despite repeated crackdowns by Iraqi and U.S. forces . Twin explosions rocked the market in Kut , 160 km southeast of Baghdad . Police said the first bomb went off in a freezer used to keep drinks cold . As rescuers and onlookers gathered , a parked car bomb exploded ; 35 people were killed and 64 injured . In Diyala province , seven bombs went off in the capital of Baquba and towns nearby . Five soldiers were killed in Baquba while five people were killed in other attacks around the province . Just outside the holy city of Najaf , a suicide car bomber plowed his vehicle into a checkpoint outside a police building . Police opened fire when the driver refused to stop , and then the vehicle exploded . Four people were killed and 32 injured . Attacks also took place in the cities of Karbala , Tikrit , Kirkurk , Baghdad and several other smaller towns . AP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Bomb blasts:1", 
+        "Iraqi cities:9", 
+        "attack:23", 
+        "havoc:37", 
+        "bloodbath:40", 
+        "blasts:73", 
+        "car bombs:85", 
+        "roadside bombs:88", 
+        "suicide bomber:92", 
+        "vehicle:96", 
+        "police station:100", 
+        "bombs:104", 
+        "explosions:115", 
+        "insurgents:127", 
+        "explosions:145", 
+        "market:148", 
+        "bomb:162", 
+        "freezer:167", 
+        "car bomb:182", 
+        "suicide car bomber:238", 
+        "vehicle:243", 
+        "police building:249", 
+        "vehicle:265", 
+        "exploded:266", 
+        "Attacks:276"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/60-killed-in-wave-of-violence-across-iraq/article2360191.ece", 
+    "date": "", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "al-Qaeda", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "U.S. forces", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "U.S. forces", 
+            "141", 
+            "Others"
+        ]
+    ]
+}

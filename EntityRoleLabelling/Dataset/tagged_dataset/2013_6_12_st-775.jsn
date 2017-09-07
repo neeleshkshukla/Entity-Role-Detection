@@ -1,0 +1,113 @@
+{
+    "LOC": [
+        [
+            "police station", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Damascus", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Marjeh square", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "police station", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Marjeh square", 
+            "104", 
+            "Event"
+        ], 
+        [
+            "Damascus", 
+            "107", 
+            "Event"
+        ], 
+        [
+            "Britain-based", 
+            "116", 
+            "Neutral"
+        ], 
+        [
+            "police station", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "police station", 
+            "160", 
+            "Event"
+        ], 
+        [
+            "Damascus", 
+            "219", 
+            "Event"
+        ], 
+        [
+            "Syria", 
+            "229", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:23"
+    ], 
+    "death": "14", 
+    "title": "Twin Damascus explosions kill 14 near police station", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 14 people were killed when twin explosions caused by suicide bomb attackers struck near a police station in Damascus on Tuesday , state television said , updating its earlier toll . `` The number of casualties after a twin suicide attack in Marjeh square has risen to 14 dead and 31 injured , '' said the broadcaster . `` The two suicide explosions took place near a police station , '' it added.The Syrian Observatory for Human Rights also reported the blasts , but put the toll higher at 15 . `` The number of people killed after two explosions in Marjeh square in Damascus has risen to 15 , '' said the Britain-based monitoring group . One of the blasts `` was caused by a suicide bomb attacker who blew himself up inside the police station '' , said the Observatory , revising its earlier reports . `` A second explosion took place just outside the police station , '' the group said , without elaborating on the nature of that blast . `` The number of casualties is expected to rise because several of the wounded are in critical condition , '' added the Observatory , which relies on a network of activists , doctors and lawyers for its reports . Areas of central Damascus have suffered frequent bomb attacks through the course of Syria 's 26-month war.AFP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        "Damascus", 
+        ""
+    ], 
+    "O": [
+        "twin explosions:8", 
+        "suicide bomb attackers:12", 
+        "twin suicide attack:41", 
+        "14 dead and 31 injured:50", 
+        "two suicide explosions:63", 
+        "toll higher:89", 
+        "suicide bomb attacker:129", 
+        "wounded:190", 
+        "critical condition:193", 
+        "frequent bomb attacks:222", 
+        "26-month war.afp:231"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/twin-damascus-explosions-kill-14-near-police-station/article4805298.ece", 
+    "date": "11-06-2013", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Syrian Observatory for Human Rights", 
+            "76", 
+            "Others"
+        ]
+    ]
+}

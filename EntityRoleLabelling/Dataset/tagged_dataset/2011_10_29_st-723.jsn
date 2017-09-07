@@ -1,0 +1,125 @@
+{
+    "LOC": [
+        [
+            "Sanakodanda", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Ganjam", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Ganjam", 
+            "160", 
+            "Event"
+        ], 
+        [
+            "Ambapua", 
+            "195", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Krishna Swain", 
+            "39", 
+            "Victim"
+        ], 
+        [
+            "Hemanta Pradhan", 
+            "45", 
+            "Victim"
+        ], 
+        [
+            "Krishna", 
+            "106", 
+            "Victim"
+        ], 
+        [
+            "Hemanta", 
+            "138", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:32", 
+        "September 2008:164"
+    ], 
+    "death": "", 
+    "title": "Two students hurt as detonator explodes", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two primary school students were injured when a detonator they picked up from a garbage dump exploded at Sanakodanda village in the limits of Bhanjanagar police station in Ganjam district on Friday . The two injured students were Krishna Swain of class III and Hemanta Pradhan of class IV . They were admitted to the Bhanjanagar sub-divisional hospital for treatment . According to hospital sources , both of them are out of danger . Police started investigation into the reason behind the blast . According to eye witnesses , the blast occurred when the two students tried to connect a battery to the detonator . Krishna said he got the detonator from a garbage dump near a stone crusher unit that operates near their village . He brought it to school . He along with his friend Hemanta tried to connect a battery to the detonator out of curiosity . Such accidental blasts injuring children are not new to Ganjam district . In September 2008 , three rag-pickers of the city were seriously injured when they accidentally stepped on crude bombs hidden in a garbage dump . In the past , two children of Ambapua area of the city also sustained serious injuries when the ignorant children tried to play cricket with the crude bombs which they found from a field . They picked up the explosive from a garbage dump OPEN", 
+    "injured": "2", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "Ganjam", 
+        "", 
+        "Sanakodanda village of Bhanjanagar police station"
+    ], 
+    "O": [
+        "primary school students:2", 
+        "injured:6", 
+        "detonator:9", 
+        "garbage dump:15", 
+        "exploded:17", 
+        "sanakodanda village:19", 
+        "bhanjanagar police station:25", 
+        "injured students:36", 
+        "hospital:64", 
+        "investigation:77", 
+        "blast:83", 
+        "blast:91", 
+        "battery:101", 
+        "detonator:104", 
+        "detonator:111", 
+        "garbage dump:114", 
+        "stone crusher unit:118", 
+        "school:131", 
+        "battery:143", 
+        "detonator:146", 
+        "curiosity:149", 
+        "accidental blasts:152", 
+        "three rag-pickers:167", 
+        "crude bombs hidden:180", 
+        "garbage dump:185", 
+        "ambapua area:195", 
+        "injuries:203", 
+        "play cricket:210", 
+        "crude bombs:214", 
+        "explosive:227", 
+        "garbage dump:230"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/two-students-hurt-as-detonator-explodes/article2579102.ece", 
+    "date": "29-10-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bhanjanagar police station", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "Bhanjanagar sub-divisional hospital", 
+            "56", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,311 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Nangloi'
+p4
+aS'43'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Nirman Bhavan'
+p8
+aS'363'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'AIIMS'
+p12
+aS'417'
+p13
+aS'Neutral'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Pramod Kumar Chaurasia'
+p18
+aS'36'
+p19
+aS'Others'
+p20
+aa(lp21
+S'E. Pratran'
+p22
+aS'54'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Ghulam Nabi Azad'
+p26
+aS'218'
+p27
+aS'Others'
+p28
+aasS'TIM'
+p29
+(lp30
+sS'hot_setting'
+p31
+S''
+p32
+sS'DAT'
+p33
+(lp34
+S'Wednesday:5'
+p35
+aS'Thursday:33'
+p36
+aS'Thursday morning:49'
+p37
+aS'Wednesday night:222'
+p38
+asS'death'
+p39
+g32
+sS'title'
+p40
+S'Death toll rises to 13, kin shun VIPs'
+p41
+sS'det_loc'
+p42
+(lp43
+S'India'
+p44
+aS'Delhi'
+p45
+aS'New Delhi'
+p46
+ag32
+ag32
+asS'terror_group'
+p47
+(lp48
+g32
+asS'content'
+p49
+S"The death toll in Wednesday 's Delhi High Court blast has risen to 13 with the death of two more persons at the Ram Manohar Lohia ( RML ) Hospital here on Thursday . Forty-year-old Pramod Kumar Chaurasia , a resident of Nangloi , died of injuries on Thursday morning , while 58-year-old E. Pratran died late in the evening . Four persons are said to be in a very critical condition . We now have 12 injured patients under treatment in the surgical department and 19 in the intensive care unit . Most of the injuries are in the lower part of the body , said a senior RML Hospital official . Experts , if needed Over 75 people were injured in the blast and of them 57 were brought to the Lohia Hospital ; one person has been transferred to the All India Institute of Medical Sciences . The hospital will provide all care and facility to the victims . If needed , experts will be roped in from other cities to treat the victims , he added . Blast victims are also undergoing treatment at the Safdarjung Hospital and some private hospitals . Relatives angry At RML Hospital , angry relatives of the victims who shouted slogans against Union Health and Family Welfare Minister Ghulam Nabi Azad on Wednesday night maintained that they did not want political leaders visiting the hospital . Political leaders visiting the injured does not mean much , they just create confusion here and delay treatment being provided to the injured . They should , however , be working towards ensuring that the common man does not suffer and is able to live peacefully . We do n't want them in hospitals offering sympathy . We want the government to ensure that proper treatment is provided and that the relatives do n't have a problem at various hospitals , said a relative of a blast victim admitted at the RML Hospital . Emergency unit Meanwhile , the Union Health and Family Welfare Ministry has made functional an emergency medical relief unit ( in addition to control rooms functioning at RML and other hospitals ) at Nirman Bhavan to help people seeking information on patients admitted to various hospitals in the wake of bomb blast . The control room can be contacted at numbers 23061302 and 23061469 . Helpline numbers The emergency helpline numbers of the hospitals are : RML Hospital : 011-23348200 , 23404446 , 23743769 , 23404478 , AIIMS : 011-26588700 and Safdarjung Hospital : 011 - 26707444 OPEN"
+p50
+sS'injured'
+p51
+g32
+sS'org_unorg'
+p52
+S'Organized'
+p53
+sS'O'
+p54
+(lp55
+S'death toll:2'
+p56
+aS'blast:10'
+p57
+aS'death:17'
+p58
+aS'hospital:30'
+p59
+aS'forty-year-old:35'
+p60
+aS'resident:41'
+p61
+aS'morning:50'
+p62
+aS'evening:60'
+p63
+aS'condition:72'
+p64
+aS'treatment:81'
+p65
+aS'department:85'
+p66
+aS'care unit:91'
+p67
+aS'part:102'
+p68
+aS'body:105'
+p69
+aS'blast:125'
+p70
+aS'person:138'
+p71
+aS'hospital:152'
+p72
+aS'care:156'
+p73
+aS'facility:158'
+p74
+aS'treat:175'
+p75
+aS'blast:182'
+p76
+aS'treatment:187'
+p77
+aS'union health:212'
+p78
+aS'night:223'
+p79
+aS'hospital:234'
+p80
+aS'confusion:249'
+p81
+aS'delay treatment:252'
+p82
+aS'man:272'
+p83
+aS'offering sympathy:290'
+p84
+aS'government:296'
+p85
+aS'treatment:301'
+p86
+aS'problem:312'
+p87
+aS'blast victim:322'
+p88
+aS'emergency unit:330'
+p89
+aS'union health:335'
+p90
+aS'union health and family welfare ministry:335'
+p91
+aS'family welfare ministry:338'
+p92
+aS'emergency:345'
+p93
+aS'relief unit:347'
+p94
+aS'addition:351'
+p95
+aS'control:353'
+p96
+aS'rml:357'
+p97
+aS'nirman bhavan:363'
+p98
+aS'help:366'
+p99
+aS'information:369'
+p100
+aS'wake:378'
+p101
+aS'bomb blast:380'
+p102
+aS'control room:384'
+p103
+aS'helpline:395'
+p104
+aS'emergency helpline:398'
+p105
+aS'rml hospital:406'
+p106
+asS'unexpl'
+p107
+(lp108
+g32
+asS'ocassion'
+p109
+g32
+sS'link'
+p110
+S'http://www.thehindu.com/todays-paper/tp-national/death-toll-rises-to-13-kin-shun-vips/article2437749.ece'
+p111
+sS'date'
+p112
+S'07-09-2011'
+p113
+sS'target'
+p114
+g32
+sS'hot_spot'
+p115
+S'Delhi High Court blast'
+p116
+sS'delivery_mod'
+p117
+g32
+sS'delivery_met'
+p118
+g32
+sS'expl'
+p119
+(lp120
+g32
+asS'ORG'
+p121
+(lp122
+(lp123
+S'Delhi High Court'
+p124
+aS'7'
+p125
+aS'Others'
+p126
+aa(lp127
+S'Ram Manohar Lohia ( RML ) Hospital'
+p128
+aS'24'
+p129
+aS'Others'
+p130
+aa(lp131
+S'RML Hospital'
+p132
+aS'110'
+p133
+aS'Others'
+p134
+aa(lp135
+S'Lohia Hospital'
+p136
+aS'134'
+p137
+aS'Others'
+p138
+aa(lp139
+S'All India Institute of Medical Sciences'
+p140
+aS'144'
+p141
+aS'Others'
+p142
+aa(lp143
+S'Safdarjung Hospital'
+p144
+aS'190'
+p145
+aS'Others'
+p146
+aa(lp147
+S'RML Hospital'
+p148
+aS'200'
+p149
+aS'Others'
+p150
+aa(lp151
+S'RML Hospital'
+p152
+aS'327'
+p153
+aS'Others'
+p154
+aa(lp155
+S'RML Hospital'
+p156
+aS'406'
+p157
+aS'Others'
+p158
+aa(lp159
+S'Safdarjung Hospital'
+p160
+aS'421'
+p161
+aS'Others'
+p162
+aas.

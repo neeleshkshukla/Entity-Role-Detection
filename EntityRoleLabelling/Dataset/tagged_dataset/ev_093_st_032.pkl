@@ -1,0 +1,321 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Gaya'
+p4
+aS'16'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bihar'
+p8
+aS'19'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Chhattisgarh'
+p12
+aS'31'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Chhattisgarh'
+p16
+aS'117'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Jagdalpur'
+p20
+aS'119'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Pakur'
+p24
+aS'153'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Jharkhand'
+p28
+aS'164'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Bihar'
+p32
+aS'225'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Uttarakhand'
+p36
+aS'252'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'Andhra Pradesh'
+p40
+aS'274'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Assam'
+p44
+aS'277'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Bihar'
+p48
+aS'279'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Maharashtra'
+p52
+aS'281'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Himachal Pradesh'
+p56
+aS'283'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Uttar Pradesh'
+p60
+aS'286'
+p61
+aS'Neutral'
+p62
+aasS'PER'
+p63
+(lp64
+(lp65
+S'V C Shukla'
+p66
+aS'37'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Mahendra Karma'
+p70
+aS'44'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Hamid Ansari'
+p74
+aS'51'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Karma'
+p78
+aS'130'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Shukla'
+p82
+aS'132'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Ansari'
+p86
+aS'136'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Amarjit Balihar'
+p90
+aS'156'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Ansari'
+p94
+aS'227'
+p95
+aS'Comment'
+p96
+aasS'TIM'
+p97
+(lp98
+S'today : 6'
+p99
+asS'hot_setting'
+p100
+S''
+p101
+sS'DAT'
+p102
+(lp103
+S'July 7 : 55'
+p104
+aS'May 26 : 102'
+p105
+aS'July 2 : 166'
+p106
+asS'death'
+p107
+S'27'
+p108
+sS'title'
+p109
+S'Rajya Sabha condemns Mahabodhi temple blast, Chhattisgarh Naxal attack'
+p110
+sS'det_loc'
+p111
+(lp112
+S'India'
+p113
+aS'Bihar'
+p114
+aS'Gaya'
+p115
+ag101
+ag101
+asS'terror_group'
+p116
+(lp117
+S'MAOIST COMMUNIST CENTRE (MCC)'
+p118
+asS'content'
+p119
+VNEW DELHI : Rajya Sabha today condemned the serial bomb blasts at Mahabodhi temple in Gaya district of Bihar and the Maoists attack on a convoy of Congress leaders in Chhattisgarh that led former Union minister V C Shukla and senior party leader Mahendra Karma dead . . . Chairman Hamid Ansari described the July 7 terrorist attack on Mahabodhi temple as `` senseless act of violence '' and said the attack on a world heritage site and holiest seat for Buddhists was `` a cause of anguish and deep concern to all . '' . . He mentioned of the May 26 Maoist ambush on a convoy of Congress leaders in a dense forest in Chhattisgarh 's Jagdalpur district that left 27 persons dead including senior party leader Karma and Shukla . . . Ansari also made a reference to the killing of six persons including the Superintendent of Police of Pakur district , Amarjit Balihar , in a Maoists attack in Jharkhand on July 2 . . . Loss of so many innocent lives was `` indeed tragic and unfortunate '' , he said , adding such `` dastardly attacks and acts of violence must be condemned in strongest term . '' . . Mentioning of death of 23 children due to food poisoning after consuming midday meal at a school in Bihar , Ansari said the loss was `` painful and sad '' . . . The Chairman also made a reference to flash floods and landslides in Uttarakhand killing 580 persons and injuring 4,473 persons while 5,526 persons were still missing . . . Floods in several parts of Andhra Pradesh , Assam , Bihar , Maharashtra , Himachal Pradesh and Uttar Pradesh damaged infrastructure , he noted , adding , `` loss of so many precious lives in these natural disasters is unfortunate and sad . '' . . The House also congratulated recent sporting feats including Indian cricket team winning the ICC Champions Trophy .
+p120
+sS'injured'
+p121
+g101
+sS'org_unorg'
+p122
+g101
+sS'O'
+p123
+(lp124
+S'rajya sabha:4'
+p125
+aS'serial bomb blasts:9'
+p126
+aS'mahabodhi temple:13'
+p127
+aS'congress leaders:28'
+p128
+aS'terrorist attack:57'
+p129
+aS'mahabodhi temple:60'
+p130
+aS'senseless act of violence:64'
+p131
+aS'attack:72'
+p132
+aS'heritage site:76'
+p133
+aS'buddhists:82'
+p134
+aS'ambush:105'
+p135
+aS'dense forest:114'
+p136
+aS'attacks:192'
+p137
+aS'violence:196'
+p138
+aS'food poisoning:215'
+p139
+aS'midday meal:219'
+p140
+aS'flash floods:247'
+p141
+aS'floods:269'
+p142
+aS'natural disasters:305'
+p143
+aS'icc champions trophy:328'
+p144
+asS'unexpl'
+p145
+(lp146
+g101
+asS'ocassion'
+p147
+g101
+sS'link'
+p148
+S'http://articles.economictimes.indiatimes.com/2013-08-05/news/41093187_1_mahabodhi-chhattisgarh-naxal-attack-mahendra-karma'
+p149
+sS'date'
+p150
+S'07-07-2013'
+p151
+sS'target'
+p152
+S'RELIGIOUS PLACES'
+p153
+sS'hot_spot'
+p154
+g101
+sS'delivery_mod'
+p155
+g101
+sS'delivery_met'
+p156
+S'PLANTED'
+p157
+sS'expl'
+p158
+(lp159
+g101
+asS'ORG'
+p160
+(lp161
+(lp162
+S'Maoists'
+p163
+aS'22'
+p164
+aS'Accused'
+p165
+aa(lp166
+S'Maoist'
+p167
+aS'104'
+p168
+aS'Accused'
+p169
+aa(lp170
+S'Maoists'
+p171
+aS'161'
+p172
+aS'Accused'
+p173
+aas.

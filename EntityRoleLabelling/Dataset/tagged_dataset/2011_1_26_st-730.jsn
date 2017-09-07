@@ -1,0 +1,159 @@
+{
+    "LOC": [
+        [
+            "Russia", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Domodedovo", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Britain", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "Germany", 
+            "82", 
+            "Neutral"
+        ], 
+        [
+            "Bulgaria", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "Soviet", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Russia", 
+            "103", 
+            "Event"
+        ], 
+        [
+            "Domodedovo", 
+            "127", 
+            "Event"
+        ], 
+        [
+            "Domodedovo", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "Domodedovo", 
+            "248", 
+            "Event"
+        ], 
+        [
+            "Moscow", 
+            "260", 
+            "Event"
+        ], 
+        [
+            "Moscow", 
+            "279", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dmitry Medvedev", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Medvedev", 
+            "111", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 5", 
+        "Monday : 33", 
+        "Tuesday : 46", 
+        "Monday afternoon : 180", 
+        "December 31 : 283"
+    ], 
+    "death": "35", 
+    "title": "Terrorism top threat: Medvedev", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "President Dmitry Medvedev on Tuesday called terrorism Russia 's top security threat and slammed the chaotic state of security at Domodedovo airport where 35 people died in a suicide bomb attack on Monday . The number of wounded in the bombing climbed to 180 on Tuesday . Of the 110 people admitted to hospital , 32 were in grave condition and three were critical , said health officials . Eight foreigners died in the attack , including nationals of Britain , Germany , Bulgaria , and some former Soviet states . Terrorism remains the main security threat to our state , to Russia , to all our people said Mr. Medvedev in a televised address . The Russian leader blasted the government for allowing security at Domodedovo airport to slip into a state of anarchy and called for officials responsible for transport security to be dismissed or face sanctions for negligence . An unnamed investigator said a man in his 30s is believed to have set off a powerful bomb in the crowded international arrival section of Domodedovo on Monday afternoon . The source denied earlier reports that a black widow was responsible for the blast . Police were also reported to be looking for the bomber 's three accomplices spotted on CCTV footage . A source in security services told the RIA Novosti news agency they had been tipped off about the planned suicide bombing , but failed to prevent it . Another report said the Domodedovo bomber could belong to a group of terrorists who arrived in Moscow on New Year eve . A woman member of the group died in an accidental blast in a Moscow sports club on December 31 that went largely unnoticed . OPEN", 
+    "injured": "180", 
+    "det_loc": [
+        "Russia", 
+        "", 
+        "", 
+        "Moscow", 
+        ""
+    ], 
+    "O": [
+        "terrorism:7", 
+        "top security threat:10", 
+        "slammed:14", 
+        "chaotic state of security:16", 
+        "suicide bomb attack:29", 
+        "wounded:38", 
+        "bombing climbed:41", 
+        "admitted:52", 
+        "grave condition:59", 
+        "Eight foreigners died:70", 
+        "attack:75", 
+        "Terrorism:92", 
+        "security threat:96", 
+        "televised address:114", 
+        "Russian leader blasted:118", 
+        "security:125", 
+        "state of anarchy:133", 
+        "officials responsible:139", 
+        "transport security:142", 
+        "dismissed:146", 
+        "face sanctions:148", 
+        "unnamed investigator:154", 
+        "powerful bomb:169", 
+        "crowded international arrival section:173", 
+        "denied:185", 
+        "reports:187", 
+        "black widow:190", 
+        "blast:196", 
+        "three accomplices:209", 
+        "CCTV footage:213", 
+        "security services:219", 
+        "planned suicide bombing:234", 
+        "failed:239", 
+        "terrorists:256", 
+        "New Year:262", 
+        "accidental blast:275", 
+        "unnoticed:288"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/terrorism-top-threat-medvedev/article1125784.ece", 
+    "date": "25-01-2011", 
+    "target": "AIRPORT", 
+    "hot_spot": "", 
+    "delivery_mod": "HUMAN", 
+    "delivery_met": "SUICIDE ATTACKERS", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "RIA Novosti", 
+            "223", 
+            "Others"
+        ]
+    ]
+}

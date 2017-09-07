@@ -1,0 +1,165 @@
+{
+    "LOC": [
+        [
+            "Burdwan", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Nalbari", 
+            "49", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Assam", 
+            "52", 
+            "Accused Location"
+        ], 
+        [
+            "Khagragarh", 
+            "95", 
+            "Event"
+        ], 
+        [
+            "Bengal", 
+            "97", 
+            "Neutral"
+        ], 
+        [
+            "Burdwan", 
+            "99", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Chatala", 
+            "149", 
+            "Accused Location"
+        ], 
+        [
+            "Assam", 
+            "152", 
+            "Neutral"
+        ], 
+        [
+            "Barpeta", 
+            "154", 
+            "Accused Location"
+        ], 
+        [
+            "Bengal", 
+            "236", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sahanur Alam", 
+            "1", 
+            "Accused"
+        ], 
+        [
+            "Alam", 
+            "25", 
+            "Accused"
+        ], 
+        [
+            "Alam", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "Sajid", 
+            "85", 
+            "Accused"
+        ], 
+        [
+            "Alam", 
+            "113", 
+            "Accused"
+        ], 
+        [
+            "Alam", 
+            "142", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 22", 
+        "October 2 : 91"
+    ], 
+    "death": "", 
+    "title": "Burdwan Blast Accused Shahnoor Alam Arrested From Assam", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Kolkata", 
+        ""
+    ], 
+    "terror_group": [
+        "Jamiat-ul-Mujahideen"
+    ], 
+    "content": "Sahanur Alam , a key accused in the Burdwan blast case , was arrested by the National Investigation Agency late on Friday night . Alam , who is alleged to be the financial brain of the terror group Jamaat-ul-Mujahideen Bangladesh ( JMB ) , was arrested in the Nalbari district of Assam in a joint operation by Assam Police and the National Investigation Agency or NIA . The NIA had been tailing Alam since his name surfaced in the call records and interrogation of Sajid , another accused in the October 2 blast at Khagragarh in Bengal 's Burdwan district . Although the investigating agency had last month arrested his wife , Alam had been on the run since the blast . NIA had also declared a reward of Rs . 5 lakh for anyone providing any information about him . Alam , alias Doctor , hails from Chatala village in Assam 's Barpeta district and is alleged to have arranged the money for the Indian modules of JMB . Two people were killed in the blast which was initially assumed to be a gas cylinder blast or explosion of crude bombs . However , investigations revealed that the two people who were killed were using fairly sophisticated improvised explosive devices or IEDs . Interrogation of two women arrested from the blast site revealed that a network of terror was spread across several districts in Bengal . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "Burdwan blast:9"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.ndtv.com/india-news/burdwan-blast-accused-shahnoor-alam-arrested-from-assam-709231", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "Assam Police", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "169", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "LOC": [
+        [
+            "Satyam", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Liberty", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "G. T. Karnal Road", 
+            "279", 
+            "Accused Location"
+        ], 
+        [
+            "Central Delhi", 
+            "284", 
+            "Accused Location"
+        ], 
+        [
+            "Patel Nagar", 
+            "302", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jagtar Singh Hawara", 
+            "1", 
+            "Accused"
+        ], 
+        [
+            "Hawara", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Beant Singhs", 
+            "47", 
+            "Victim"
+        ], 
+        [
+            "Rakesh Siddhartha", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "Balwinder Singh", 
+            "95", 
+            "Accused"
+        ], 
+        [
+            "Jaspal Singh", 
+            "98", 
+            "Accused"
+        ], 
+        [
+            "Vikas Sehgal", 
+            "101", 
+            "Accused"
+        ], 
+        [
+            "Jagannath Yadav", 
+            "104", 
+            "Accused"
+        ], 
+        [
+            "Hawara", 
+            "144", 
+            "Accused"
+        ], 
+        [
+            "Beant Singh", 
+            "158", 
+            "Victim"
+        ], 
+        [
+            "Hawara", 
+            "207", 
+            "Assoc Accused"
+        ], 
+        [
+            "Jaspal", 
+            "212", 
+            "Accused"
+        ], 
+        [
+            "Vikas", 
+            "214", 
+            "Accused"
+        ], 
+        [
+            "Hawara", 
+            "310", 
+            "Assoc Accused"
+        ]
+    ], 
+    "TIM": [
+        "8-20 p.m.:287", 
+        "20 minutes : 292"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:10", 
+        "2005:27", 
+        "May 31 , 2005 : 113", 
+        "May 22 , 2005 : 246"
+    ], 
+    "death": "", 
+    "title": "Twin blasts accused plead guilty", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "BABBAR KHALSA INTERNATIONAL"
+    ], 
+    "content": "Jagtar Singh Hawara of the Babbar Khalsa International on Thursday pleaded guilty in a court here along with four others of playing various roles in the 2005 twin blasts at Satyam and Liberty cinema . Hawara , was the chief conspirator in former Punjab Chief Minister Beant Singhs assassination . After the five admitted their guilt , Additional Sessions Judge Rakesh Siddhartha convicted them and sentenced them to the time in prison they had spent in judicial custody during the trial in the twin blast case . The four others convicts are BKI members Balwinder Singh , Jaspal Singh , Vikas Sehgal and Jagannath Yadav . They have been in custody since May 31 , 2005 . Last year , four other accused in the case had pleaded guilty , and were subsequently convicted and released . While they will be released , Hawara , who is serving a life term for assassinating former Punjab Chief Minister Beant Singh , is also on trial for allegedly firing at police personnel when they tried to apprehend him . He was initially awarded a death penalty for the assassination which was commuted later to a life term by the Chandigarh High Court . In the blasts case , Hawara was charged for harbouring Jaspal and Vikas , who were actively involved in executing the blasts . A fine of Rs .25,000 was also imposed on each of them . Sixty persons were injured in the blasts on May 22 , 2005 , in which bombs were triggered by crude devices during the screening of the controversial Hindi film Jo Bole So Nihaal . The first blast at Liberty cinema at G. T. Karnal Road in Central Delhi around 8-20 p.m. , was followed 20 minutes later by a blast at Satyam cinema at Patel Nagar . The four men apart from Hawara pleaded guilty of conspiracy to commit offences against the State , attempt to murder , and culpable homicide not amounting to murder under the Indian Penal Code . Sentenced to jail term already undergone OPEN", 
+    "injured": "60", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "Central", 
+        "New Delhi", 
+        ""
+    ], 
+    "O": [
+        "guilty:12", 
+        "twin blasts:28", 
+        "satyam and liberty cinema:31", 
+        "punjab chief minister beant singhs:44", 
+        "assassination:49", 
+        "guilt:56", 
+        "Additional Sessions:58", 
+        "judge rakesh siddhartha:60", 
+        "sentenced:66", 
+        "prison:72", 
+        "judicial custody:77", 
+        "custody:78", 
+        "twin blast:84", 
+        "convicts:91", 
+        "guilty:129", 
+        "convicted and released:134", 
+        "assassinating:153", 
+        "punjab chief minister beant singh:155", 
+        "trial:164", 
+        "allegedly firing:166", 
+        "police personnel:169", 
+        "death penalty:183", 
+        "assassination:187", 
+        "blasts case:204", 
+        "executing the blasts:221", 
+        "rs .25,000:228", 
+        "bombs:253", 
+        "triggered:255", 
+        "crude devices:257", 
+        "controversial hindi film jo bole so nihaal:264", 
+        "first blast:273", 
+        "liberty cinema:276", 
+        "blast:297", 
+        "satyam cinema:299", 
+        "commit offences:316", 
+        "state:320", 
+        "murder:324", 
+        "homicide:328", 
+        "indian penal code:335", 
+        "Sentenced:339", 
+        "jail:341"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/twin-blasts-accused-plead-guilty/article3842674.ece", 
+    "date": "22-05-2005", 
+    "target": "CINEMA HALL", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE"
+    ], 
+    "ORG": [
+        [
+            "Babbar Khalsa International", 
+            "6", 
+            "Accused"
+        ], 
+        [
+            "BKI", 
+            "93", 
+            "Accused"
+        ], 
+        [
+            "Chandigarh High Court", 
+            "198", 
+            "Others"
+        ]
+    ]
+}

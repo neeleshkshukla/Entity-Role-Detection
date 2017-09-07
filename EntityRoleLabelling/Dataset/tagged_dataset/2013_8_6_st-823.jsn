@@ -1,0 +1,145 @@
+{
+    "LOC": [
+        [
+            "West Jakarta", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Myanmar", 
+            "163", 
+            "Event"
+        ], 
+        [
+            "Indonesia", 
+            "168", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Myanmar", 
+            "178", 
+            "Event"
+        ], 
+        [
+            "Jakarta", 
+            "212", 
+            "Neutral"
+        ], 
+        [
+            "Indonesia", 
+            "233", 
+            "Accused Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sutarman", 
+            "78", 
+            "Comment"
+        ], 
+        [
+            "Sutarman", 
+            "115", 
+            "Comment"
+        ], 
+        [
+            "Sutarman", 
+            "151", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 43"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:6", 
+        "Sunday:42", 
+        "May:188"
+    ], 
+    "death": "", 
+    "title": "Bomb hits Indonesian temple", 
+    "det_loc": [
+        "Indonesia", 
+        "", 
+        "", 
+        "JAKARTA", 
+        "Buddhist temple"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Police and government officials on Monday condemned an attack on a Buddhist temple in Indonesias capital after a small bomb detonated as devotees inside prayed , injuring one person . Two other devices failed to go off . The explosion happened Sunday night at the Ekayana Grha Buddhist temple in West Jakarta . The blast went off near the front door of the building , slightly damaging the structure , chief of National Police Detective Lt. Gen. Sutarman told reporters at the scene . Another bomb placed near the back door emitted smoke , but did not go off and a third device placed inside the temple also failed to go off , added Sutarman , who like many Indonesians , uses a single name . Police were investigating . Now , the terrorists may have shifted their target from ( Christian ) churches to ( Buddhist ) temples , Sutarman said . This is possibly triggered by the sectarian conflict in Myanmar . Muslim militants in Indonesia angered over sectarian violence between Buddhists and Muslims in Myanmar have threatened to attack Buddhist temples here . In May , two men were arrested with low explosives in a backpack as part of an alleged plot to bomb the Myanmar Embassy in Jakarta . The incident occurred days ahead of festivities planned to celebrate the end of the holy month of Ramadan . Indonesia is the worlds most populous Muslim nation , and most people practice a moderate form of the religion.AP OPEN", 
+    "injured": "1", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "indonesias:15", 
+        "Lt. Gen.:76", 
+        "reporters:80", 
+        "smoke:93", 
+        "temple:107", 
+        "indonesians:120", 
+        "( christian ) churches:141", 
+        "( buddhist ) temples:146", 
+        "buddhists:174", 
+        "muslims:176", 
+        "buddhist temples:183", 
+        "holy:228", 
+        "ramadan:231"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/bomb-hits-indonesian-temple/article4993145.ece", 
+    "date": "28-07-2013", 
+    "target": "TEMPLE", 
+    "hot_spot": "Buddhist temple", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "DETONATING"
+    ], 
+    "ORG": [
+        [
+            "Police", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "government officials", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Ekayana Grha Buddhist", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "National Police Detective", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "terrorists", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Muslim militants", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "Muslim nation", 
+            "239", 
+            "Others"
+        ]
+    ]
+}

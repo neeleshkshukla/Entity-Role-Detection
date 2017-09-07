@@ -1,0 +1,348 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Varacha'
+p4
+aS'55'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Surat'
+p8
+aS'61'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Labeshwar'
+p12
+aS'161'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Santoshinagar'
+p16
+aS'163'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Matavadi'
+p20
+aS'165'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Matavadi'
+p24
+aS'189'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Labeshwar'
+p28
+aS'201'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Limbi'
+p32
+aS'241'
+p33
+aS'Accused Location'
+p34
+aa(lp35
+S'Surendranagar'
+p36
+aS'246'
+p37
+aS'Accused Location'
+p38
+aa(lp39
+S'Ahmedabad'
+p40
+aS'252'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Surendranagar'
+p44
+aS'372'
+p45
+aS'Accused Location'
+p46
+aa(lp47
+S'Mumbai'
+p48
+aS'503'
+p49
+aS'Neutral'
+p50
+aasS'PER'
+p51
+(lp52
+(lp53
+S'R M S Brar'
+p54
+aS'138'
+p55
+aS'Comment'
+p56
+aa(lp57
+S'Abdul Qadir'
+p58
+aS'229'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Hasil Mohammad'
+p62
+aS'232'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Hussain Ibrahim'
+p66
+aS'235'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Abdul Halim'
+p70
+aS'294'
+p71
+aS'Assoc Accused'
+p72
+aa(lp73
+S'Halim'
+p74
+aS'310'
+p75
+aS'Assoc Accused'
+p76
+aa(lp77
+S'Qadir'
+p78
+aS'329'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Hasil Mohammad'
+p82
+aS'331'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Ibrahim'
+p86
+aS'334'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Jaynarayan Vyas'
+p90
+aS'469'
+p91
+aS'Comment'
+p92
+aa(lp93
+S'Rakesh Maria'
+p94
+aS'551'
+p95
+aS'Comment'
+p96
+aasS'TIM'
+p97
+(lp98
+sS'hot_setting'
+p99
+S''
+p100
+sS'DAT'
+p101
+(lp102
+S'Sunday:316'
+p103
+asS'death'
+p104
+S'49'
+p105
+sS'title'
+p106
+S'18 bombs defused in Surat, 3 detained'
+p107
+sS'det_loc'
+p108
+(lp109
+S'India'
+p110
+aS'Gujarat'
+p111
+aS'Surat'
+p112
+ag100
+aS'Varacha'
+p113
+asS'terror_group'
+p114
+(lp115
+S'STUDENTS ISLAMIC MOVEMENT OF INDIA'
+p116
+aS'INDIAN MUJAHIDEEN'
+p117
+asS'content'
+p118
+V. . The diamond city of Surat came under the terror radar with 18 bombs being recovered from residential areas even as the Gujarat police detained three men for questioning in connection with the serial blasts . All bombs had been defused . . . All the bombs were recovered from different parts of Varacha area , housing most of Surat 's diamond processing units , in a span of four hours , putting severe pressure on the city 's bomb disposal squad . . . Panic gripped the city as the explosive devices were found from residential localities and the diamond workshop areas which the terrorists apparently wanted to target . They were all defused by the bomb disposal squad . . . 'Till now , nine bombs have been found , ' Surat Police Commissioner R M S Brar said . . . Police said three bombs were deactivated in the Mini Diamond Market area , three in Labeshwar , Santoshinagar and Matavadi localities and three under the Varacha-Kapodra flyover . The contents of the neutralised explosive devices have been sent for forensic analysis . In Matavadi , a bomb was found handing from a tree while in Labeshwar it was left in an abandoned bag . . . In both these cases , the devices were planted near police outposts . The three suspected - Abdul Qadir , Hasil Mohammad and Hussain Ibrahim -- were detained near Limbi on Rajkot-Ahmedabad highway in Surendranagar district while they were leaving Ahmedabad soon after the blasts that took 49 lives and left over 145 injured . . . Their possible links with outlawed SIMI and ` Indian Mujahideen ' are being investigated , police said . Police said they were questioning SIMI activist Abdul Halim but declined to give any details on what he has revealed so far . Halim , who was arrested on Sunday , was remanded in police custody by a court . . . Qadir , Hasil Mohammad and Ibrahim have been handed over to the Crime Branch of Ahmedabad police , which is probing the blast cases . . . . . ` They were detained as they contradicted each other in their initial questioning by Surendranagar police . The city crime branch is exploring if they have any links with SIMI and Indian Mujahideen , ' a police officer said . He said the trio were allegedly found carrying British currency and a large quantity of cash which was hidden under their vehicle 's seat . . . . . The Ahmedabad police claimed that they got ` some leads ' in the serial blasts cases and were working on them . . . Maintaining that the probe was moving in the ` right direction ' , Health Minister and government spokesperson Jaynarayan Vyas said , ` We are not going to reveal name -LRB- of any terror group -RRB- at present as it will be affect the probe ' . . . . . In Mumbai , the police detained for questioning three Kashmiri youths who were staying in a lodge in a southern locality in the city . The antecedents of the youth , who had come looking for jobs , are being verified , Joint Commissioner of Police -LRB- Crime -RRB- Rakesh Maria said . . . . . . . . . .
+p119
+sS'injured'
+p120
+S'145'
+p121
+sS'org_unorg'
+p122
+g100
+sS'O'
+p123
+(lp124
+S'diamond city:4'
+p125
+aS'surat came under the terror radar:7'
+p126
+aS'18 bombs being recovered:14'
+p127
+aS'detained three men:26'
+p128
+aS'serial blasts:35'
+p129
+aS'bombs had been defused:39'
+p130
+aS'bomb disposal squad:81'
+p131
+aS'bomb was found handing from a tree:192'
+p132
+aS'devices were planted near police outposts:218'
+p133
+aS'rajkot-ahmedabad highway:243'
+p134
+aS'crime branch of ahmedabad police:341'
+p135
+aS'british currency:406'
+p136
+aS'not going to reveal name:476'
+p137
+aS'questioning three kashmiri youths:509'
+p138
+asS'unexpl'
+p139
+(lp140
+g100
+asS'ocassion'
+p141
+g100
+sS'link'
+p142
+S'http://www.rediff.com/news/2008/jul/29ahd.htm'
+p143
+sS'date'
+p144
+S'29-07-2008'
+p145
+sS'target'
+p146
+g100
+sS'hot_spot'
+p147
+g100
+sS'delivery_mod'
+p148
+g100
+sS'delivery_met'
+p149
+S'PLANTED'
+p150
+sS'expl'
+p151
+(lp152
+g100
+asS'ORG'
+p153
+(lp154
+(lp155
+S'Gujarat police'
+p156
+aS'24'
+p157
+aS'Others'
+p158
+aa(lp159
+S'Surat Police'
+p160
+aS'135'
+p161
+aS'Others'
+p162
+aa(lp163
+S'SIMI'
+p164
+aS'274'
+p165
+aS'Accused'
+p166
+aa(lp167
+S'Indian Mujahideen'
+p168
+aS'277'
+p169
+aS'Accused'
+p170
+aa(lp171
+S'SIMI'
+p172
+aS'292'
+p173
+aS'Accused'
+p174
+aa(lp175
+S'Ahmedabad police'
+p176
+aS'344'
+p177
+aS'Others'
+p178
+aa(lp179
+S'SIMI'
+p180
+aS'387'
+p181
+aS'Accused'
+p182
+aa(lp183
+S'Indian Mujahideen'
+p184
+aS'389'
+p185
+aS'Accused'
+p186
+aa(lp187
+S'Ahmedabad police'
+p188
+aS'428'
+p189
+aS'Others'
+p190
+aas.

@@ -1,0 +1,115 @@
+{
+    "LOC": [
+        [
+            "Hyderabad", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Sompeta", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Sompeta", 
+            "130", 
+            "Neutral"
+        ], 
+        [
+            "Sompeta", 
+            "166", 
+            "Neutral"
+        ], 
+        [
+            "Itchapuram", 
+            "185", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Y. Krishna Murthy", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "B. Dhilli Rao", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "Dharmana Prasada Rao", 
+            "171", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:9", 
+        "October:182", 
+        "October 11:182"
+    ], 
+    "death": "", 
+    "title": "CBI probe sought into Sompeta blast", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "The Paryavarana Parirakshana Sangham ( PPS ) on Wednesday decided to organise a rally in Hyderabad , seeking a CBI probe into the bomb blast in Sompeta two weeks ago . PPS president Y. Krishna Murthy and general secretary B. Dhilli Rao alleged that the government failed to identify the culprits who had planted the bomb in the hospital . The government should arrest the culprits immediately and take stern action against them . It should order a CBI inquiry also to expose the persons behind the conspiracy , they said . They said that the PPS had been making arrangements for the rally in the State Capital along with other civil society groups . The PPS leaders , who have been opposing construction of a power plant in Sompeta , said that they suspect a conspiracy to eliminate the agitators physically so that others would not join the movement . The PPS also decided to stage a rasta roko on the National Highway near Sompeta , as Revenue Minister Dharmana Prasada Rao was scheduled to participate in government functions on October 11 in Itchapuram . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "Srikakulam", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "bomb blast:24", 
+        "secretary:39", 
+        "government:46", 
+        "bomb:56", 
+        "hospital:59", 
+        "government:62", 
+        "inquiry:80", 
+        "state capital:107", 
+        "construction:124", 
+        "power plant:127", 
+        "suspect:135", 
+        "conspiracy:137", 
+        "rasta roko:159", 
+        "national highway:163", 
+        "revenue minister:169"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/cbi-probe-sought-into-sompeta-blast/article817543.ece", 
+    "date": "07-10-2010", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Paryavarana Parirakshana Sangham", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "PPS", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "79", 
+            "Others"
+        ]
+    ]
+}

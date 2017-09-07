@@ -1,0 +1,401 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Amolapatty railway crossing'
+p4
+aS'19'
+p5
+aS'Event'
+p6
+aa(lp7
+S'National Highway 37'
+p8
+aS'23'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Dibrugarh'
+p12
+aS'27'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Amolapatty'
+p16
+aS'50'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Dibrugarh'
+p20
+aS'63'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Dibrugarh'
+p24
+aS'92'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Dibrugarh'
+p28
+aS'178'
+p29
+aS'Victim Location'
+p30
+aa(lp31
+S'Bongaigaon'
+p32
+aS'184'
+p33
+aS'Victim Location'
+p34
+aa(lp35
+S'Sivasagar'
+p36
+aS'189'
+p37
+aS'Victim Location'
+p38
+aa(lp39
+S'Dibrugarh'
+p40
+aS'342'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Guwahati'
+p44
+aS'387'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Dibrugarh'
+p48
+aS'426'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Dibrugarh'
+p52
+aS'449'
+p53
+aS'Neutral'
+p54
+aasS'PER'
+p55
+(lp56
+(lp57
+S'Purnima Rajak'
+p58
+aS'42'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Bhairon Shah'
+p62
+aS'109'
+p63
+aS'Victim'
+p64
+aa(lp65
+S'Dalim Shah'
+p66
+aS'112'
+p67
+aS'Victim'
+p68
+aa(lp69
+S'Paramananda Yadav'
+p70
+aS'115'
+p71
+aS'Victim'
+p72
+aa(lp73
+S'Kishor Roy'
+p74
+aS'118'
+p75
+aS'Victim'
+p76
+aa(lp77
+S'Babu Das'
+p78
+aS'121'
+p79
+aS'Victim'
+p80
+aa(lp81
+S'Shahnawaj Hussain'
+p82
+aS'124'
+p83
+aS'Victim'
+p84
+aa(lp85
+S'Ankit Jalan'
+p86
+aS'127'
+p87
+aS'Victim'
+p88
+aa(lp89
+S'Sariful Hussain'
+p90
+aS'130'
+p91
+aS'Victim'
+p92
+aa(lp93
+S'Abdul Karim'
+p94
+aS'133'
+p95
+aS'Victim'
+p96
+aa(lp97
+S'Khursid Ali'
+p98
+aS'136'
+p99
+aS'Victim'
+p100
+aa(lp101
+S'Kamal Gupta'
+p102
+aS'139'
+p103
+aS'Victim'
+p104
+aa(lp105
+S'Bikki Rabidas'
+p106
+aS'142'
+p107
+aS'Victim'
+p108
+aa(lp109
+S'Hira Ballav Deka'
+p110
+aS'145'
+p111
+aS'Victim'
+p112
+aa(lp113
+S'Rashmi Roy'
+p114
+aS'149'
+p115
+aS'Victim'
+p116
+aa(lp117
+S'Altaf Hussain'
+p118
+aS'152'
+p119
+aS'Victim'
+p120
+aa(lp121
+S'Tutu Ahmed'
+p122
+aS'155'
+p123
+aS'Victim'
+p124
+aa(lp125
+S'Sha-nawaj Hussain'
+p126
+aS'180'
+p127
+aS'Victim'
+p128
+aa(lp129
+S'Bikki Rabidas'
+p130
+aS'186'
+p131
+aS'Victim'
+p132
+aa(lp133
+S'Robin Gohain'
+p134
+aS'243'
+p135
+aS'Comment'
+p136
+aa(lp137
+S'Aruna Rajoria'
+p138
+aS'345'
+p139
+aS'Comment'
+p140
+aa(lp141
+S'Paban Singh Ghatowar'
+p142
+aS'428'
+p143
+aS'Others'
+p144
+aa(lp145
+S'Ghatowar'
+p146
+aS'439'
+p147
+aS'Comment'
+p148
+aa(lp149
+S'G.D. Tripathi'
+p150
+aS'462'
+p151
+aS'Comment'
+p152
+aasS'TIM'
+p153
+(lp154
+S'5.15 pm : 30'
+p155
+asS'hot_setting'
+p156
+S''
+p157
+sS'DAT'
+p158
+(lp159
+S'Dec. 17:3'
+p160
+asS'death'
+p161
+S'1'
+p162
+sS'title'
+p163
+S'Schoolgirl killed in explosion - Bomb blast in Dibrugarh'
+p164
+sS'det_loc'
+p165
+(lp166
+g157
+ag157
+ag157
+ag157
+aS'Amolapatty railway crossing'
+p167
+asS'terror_group'
+p168
+(lp169
+g157
+asS'content'
+p170
+VJorhat/Dibrugarh , Dec. 17 : A schoolgirl was killed and 17 others injured in a bomb blast near Amolapatty railway crossing along National Highway 37 in Dibrugarh town around 5.15 pm today . . . The victim has been identified as Purnima Rajak , 14 , a resident of Amolapatty and a Class X student of Surajmal Jalan Balika Siksha Sadan in Dibrugarh town . She was to appear for her HSLC examination early next year . . . The injured were rushed to the Assam Medical College and Hospital , Dibrugarh , where they are said to be out of danger . They have been identified as Bhairon Shah , Dalim Shah , Paramananda Yadav , Kishor Roy , Babu Das , Shahnawaj Hussain , Ankit Jalan , Sariful Hussain , Abdul Karim , Khursid Ali , Kamal Gupta , Bikki Rabidas , Hira Ballav Deka , Rashmi Roy , Altaf Hussain and Tutu Ahmed . One of the injured persons is yet to be identified . . . Among the injured , 14 are from Dibrugarh while Sha-nawaj Hussain is from Bongaigaon and Bikki Rabidas from Sivasagar district . . . Police said investigations were on to find out the nature of the blast and have not ruled out the hand of militant outfits like Ulfa ( I ) or Maoists . Top district police and civil officials have rushed to the spot . . . Deputy superintendent of police Robin Gohain said , We suspect Ulfa could be behind the attack . A probe is on and we will be able to crack the case very soon . . . The bomb is suspected to have been planted in a dustbin near an electric pole and the whole area was engulfed in smoke after the blast . There is a market nearby . . . A senior police official said there was no power supply in the area at the time of the explosion and those who planted the bomb took advantage of the darkness . . . Dibrugarh deputy commissioner Aruna Rajoria told The Telegraph that preliminary investigation indicates that the explosion was caused by a crude bomb . . . She said samples have been collected from the blast site and are being sent to the state Forensic Science Laboratory in Guwahati to determine the nature of the explosives . . . Rajoria said compensation of Rs 3 lakh would be given to the next of kin of the dead according to government rules . . . DoNER minister and Dibrugarh MP Paban Singh Ghatowar and the AGP have condemned the incident . Ghatowar said he had not heard about such incidents in Dibrugarh and asked the government to tighten security . . . Home secretary G.D. Tripathi told The Telegraph that one person was killed and 11 injured .
+p171
+sS'injured'
+p172
+S'17'
+p173
+sS'org_unorg'
+p174
+S'ORGANISED'
+p175
+sS'O'
+p176
+(lp177
+S'Deputy superintendent of police:239'
+p178
+aS'crude bomb:361'
+p179
+aS'government:418'
+p180
+asS'unexpl'
+p181
+(lp182
+g157
+asS'ocassion'
+p183
+g157
+sS'link'
+p184
+S'http://www.telegraphindia.com/1131218/jsp/northeast/story_17693212.jsp#.VthVZISli1E'
+p185
+sS'date'
+p186
+S'18-12-2013'
+p187
+sS'target'
+p188
+g157
+sS'hot_spot'
+p189
+S'Amolapatty railway crossing'
+p190
+sS'delivery_mod'
+p191
+g157
+sS'delivery_met'
+p192
+S'PLANTED'
+p193
+sS'expl'
+p194
+(lp195
+g157
+asS'ORG'
+p196
+(lp197
+(lp198
+S'Surajmal Jalan Balika Siksha Sadan'
+p199
+aS'57'
+p200
+aS'Others'
+p201
+aa(lp202
+S'Assam Medical College and Hospital'
+p203
+aS'86'
+p204
+aS'Others'
+p205
+aa(lp206
+S'Ulfa'
+p207
+aS'218'
+p208
+aS'Accused'
+p209
+aa(lp210
+S'Maoists'
+p211
+aS'223'
+p212
+aS'Accused'
+p213
+aa(lp214
+S'Ulfa'
+p215
+aS'249'
+p216
+aS'Accused'
+p217
+aa(lp218
+S'Forensic Science'
+p219
+aS'383'
+p220
+aS'Others'
+p221
+aas.

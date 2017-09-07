@@ -1,0 +1,136 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Jandol", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Dir", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Swat Valley", 
+            "53", 
+            "Neutral"
+        ], 
+        [
+            "Swat", 
+            "175", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Dir", 
+            "179", 
+            "Event"
+        ], 
+        [
+            "Dir", 
+            "181", 
+            "Event"
+        ], 
+        [
+            "Afghan", 
+            "184", 
+            "Neutral"
+        ], 
+        [
+            "Kunar", 
+            "187", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Farman Khan", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Khan", 
+            "84", 
+            "Others"
+        ], 
+        [
+            "Khan", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "Javaid Khan", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "Maulana Fazlullah", 
+            "151", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:21", 
+        "2009:137"
+    ], 
+    "death": "14", 
+    "title": "Bomb blast kills 14 in northwest Pakistan", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A remote-controlled bomb targeting a passenger van killed at least 14 people and wounded 10 others in northwestern Pakistan on Sunday , police said , blaming militants for the attack . The blast took place in Jandol town , in the district of Lower Dir , 100 kilometres from the once Taliban-infested Swat Valley . `` It was a remote-controlled bomb blast which killed 14 people including three women and wounded 10 others , '' local police official Farman Khan told AFP . Khan , who was supervising the aftermath at the site , said the vehicle was targeted because it was carrying people known to be pro-government . There was no immediate claim of responsibility but Khan said militants were responsible.Another local police official , Javaid Khan , confirmed the incident and casualties . In 2009 , about 30,000 Pakistani troops went into battle against Taliban fighters controlled by Maulana Fazlullah , who for two years had terrorised people with a campaign of beheadings , violence and attacks on girls ' schools in Swat and parts of Dir . Dir borders the Afghan provinces of Kunar and Nuristan.AFP OPEN", 
+    "injured": "10", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb:3", 
+        "passenger van:6", 
+        "militants:27", 
+        "attack:30", 
+        "blast:33", 
+        "place:35", 
+        "district:42", 
+        "bomb blast:61", 
+        "official:78", 
+        "aftermath:90", 
+        "site:93", 
+        "vehicle:97", 
+        "pro-government:108", 
+        "claim:114", 
+        "responsibility:116", 
+        "responsible.another:122", 
+        "official:125", 
+        "incident:132", 
+        "battle:145", 
+        "taliban fighters:147", 
+        "taliban:147", 
+        "campaign:163", 
+        "violence:167"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/bomb-blast-kills-14-in-northwest-pakistan/article3905386.ece", 
+    "date": "16-09-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

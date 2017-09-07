@@ -1,0 +1,93 @@
+{
+    "LOC": [
+        [
+            "Thevaram", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Madurai", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Bodinayakkanur", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Thevaram", 
+            "88", 
+            "Event"
+        ], 
+        [
+            "Thevaram", 
+            "97", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "M. Kalifulla", 
+            "70", 
+            "Comment"
+        ], 
+        [
+            "Praveen Kumar Abinapu", 
+            "168", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:17", 
+        "Monday:90", 
+        "Tuesday:100"
+    ], 
+    "death": "2", 
+    "title": "It was a shell bomb", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "After preliminary investigations , the police found that the bomb that went off at Thevaram on Monday was of shell type . The pellets collected from the blast spot and from the body of the deceased were sent to Madurai for chemical analysis . We will know the exact nature of the bomb only after obtaining the report from the chemical lab , said Bodinayakkanur Deputy Superintendent of Police M. Kalifulla . Two persons were killed a when an unused bomb went off at fifth ward of Thevaram on Monday . Talking to press persons at Thevaram here on Tuesday , he said that one woman near her house saw the vendor breaking the bomb . We had collected pictures of various bombs to show her to identify the right piece . The list of ex-servicemen of this area too was taken to find out whether anybody disposed of it as scrap , he added . Investigation in different angles is on . While Superintendent of Police Praveen Kumar Abinapu inspected the blast spot this morning , Six special teams , including bomb detection and disposal squad , anti-terrorism squad and special intelligence wing camped in the town to collect samples and gather details about the blast . The police believed that the bomb could be a disposed bomb . Unused bombs might mingle with used shells at the time of disposal , they suspect . People were fond of collecting the empty shells to keep them in their houses as decorative pieces . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Theni", 
+        "", 
+        "Thevaram, fifth ward"
+    ], 
+    "O": [
+        "shell type :20", 
+        "pellets:24", 
+        "chemical analysis:42", 
+        "chemical lab:61", 
+        "deputy superintendent of police:66", 
+        "unused bomb:80", 
+        "scrap:152", 
+        "superintendent of police:165", 
+        "bomb detection and disposal squad:183", 
+        "anti-terrorism squad:189", 
+        "special intelligence wing:192", 
+        "disposed bomb:218", 
+        "empty:243", 
+        "empty shells:243"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/it-was-a-shell-bomb/article2297619.ece", 
+    "date": "25-07-2011", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Accidental", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

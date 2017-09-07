@@ -1,0 +1,266 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Damascus'
+p4
+aS'7'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Barzeh'
+p8
+aS'166'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'United States'
+p12
+aS'206'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Russia and UN'
+p16
+aS'235'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Syria'
+p20
+aS'244'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Daraa'
+p24
+aS'253'
+p25
+aS'Assoc Event Location'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'UN chief Ban Ki-moon'
+p30
+aS'237'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'chief Ban Ki-moon'
+p34
+aS'238'
+p35
+aS'Comment'
+p36
+aa(lp37
+S'Ban Ki-moon'
+p38
+aS'239'
+p39
+aS'Comment'
+p40
+aasS'TIM'
+p41
+(lp42
+sS'hot_setting'
+p43
+S''
+p44
+sS'DAT'
+p45
+(lp46
+S'Damascus on Thursday:7'
+p47
+aS'Friday:101'
+p48
+aS'May 10:141'
+p49
+aS'May 10 , 2012 : 141'
+p50
+aS'Barzeh on Thursday:166'
+p51
+asS'death'
+p52
+S'83'
+p53
+sS'title'
+p54
+S"Spate of bombings 'kills 83 in Damascus'"
+p55
+sS'det_loc'
+p56
+(lp57
+S'Syria'
+p58
+ag44
+ag44
+aS' Damascus'
+p59
+aS'near the headquarters of the ruling Baath party '
+p60
+asS'terror_group'
+p61
+(lp62
+S'jihadist Al-Nusra Front'
+p63
+asS'content'
+p64
+S"A spate of car bombings in Damascus on Thursday killed at least 83 people , including more than 60 in an attack near the headquarters of the ruling Baath party , a watchdog said . The most lethal attack , in central Damascus , was by a suicide bomber who detonated his explosives-laden car near the entrance of the Baath party 's main offices , said the Syrian Observatory for Human Rights . The majority of the 61 people who died in the powerful blast were civilians , including many children from a nearby school , the Observatory said on Friday , adding 17 were members of the security forces . The attack was the deadliest in Damascus since bombers first began targeting Damascus about a year ago . Twin suicide bombings killed 55 people in the Syrian capital on May 10 , 2012 . Another 22 people were killed in an apparently coordinated triple bombing targeting security headquarters in the northern Damascus district of Barzeh on Thursday , including 19 members of the forces , said the Observatory . Attacks have increasingly targeted government or security buildings in Damascus in recent months , many of them claimed by the jihadist Al-Nusra Front which the United States has designated as a `` terrorist '' group . Thursday 's attacks were condemned by both the regime and opposition as well as the United States , Russia and UN chief Ban Ki-moon . Elsewhere in Syria , 38 people were killed on Thursday in Daraa , cradle of the anti-regime revolt in the south of the country , including 18 in an air raid on a medical centre , the Britain-based Observatory said.AFP OPEN"
+p65
+sS'injured'
+p66
+g44
+sS'org_unorg'
+p67
+S'Organized'
+p68
+sS'O'
+p69
+(lp70
+S'spate:2'
+p71
+aS'car:4'
+p72
+aS'damascus:7'
+p73
+aS'attack:22'
+p74
+aS'ruling baath:28'
+p75
+aS'baath party:29'
+p76
+aS'watchdog:33'
+p77
+aS'attack:39'
+p78
+aS'central damascus:42'
+p79
+aS'suicide bomber:48'
+p80
+aS'baath party:60'
+p81
+aS"Baath party 's main offices:60"
+p82
+aS'party:61'
+p83
+aS'blast:85'
+p84
+aS'observatory:98'
+p85
+aS'security:109'
+p86
+aS'attack:113'
+p87
+aS'Twin suicide bombings:130'
+p88
+aS'suicide:131'
+p89
+aS'bombing:156'
+p90
+aS'security:158'
+p91
+aS'security headquarters:158'
+p92
+aS'northern damascus:162'
+p93
+aS'damascus district:163'
+p94
+aS'barzeh:166'
+p95
+aS'observatory:179'
+p96
+aS'damascus:190'
+p97
+aS'jihadist al-nusra:201'
+p98
+aS'jihadist:201'
+p99
+aS'al-nusra front:202'
+p100
+aS'front:203'
+p101
+aS'terrorist:213'
+p102
+aS'group:215'
+p103
+aS'regime:225'
+p104
+aS'opposition:227'
+p105
+aS'un:237'
+p106
+aS'daraa:253'
+p107
+aS'cradle:255'
+p108
+aS'anti-regime revolt:258'
+p109
+aS'revolt:259'
+p110
+aS'air raid:271'
+p111
+aS'Britain-based Observatory:279'
+p112
+asS'unexpl'
+p113
+(lp114
+g44
+asS'ocassion'
+p115
+g44
+sS'link'
+p116
+S'http://www.thehindu.com/todays-paper/tp-in-school/spate-of-bombings-kills-83-in-damascus/article4444508.ece'
+p117
+sS'date'
+p118
+S'21-02-2013'
+p119
+sS'target'
+p120
+S'Government Building'
+p121
+sS'hot_spot'
+p122
+S' headquarters of the ruling Baath party'
+p123
+sS'delivery_mod'
+p124
+S'Four wheeler'
+p125
+sS'delivery_met'
+p126
+S'Planted'
+p127
+sS'expl'
+p128
+(lp129
+S'explosives'
+p130
+asS'ORG'
+p131
+(lp132
+(lp133
+S'jihadist Al-Nusra Front'
+p134
+aS'201'
+p135
+aS'Accused'
+p136
+aa(lp137
+S'UN'
+p138
+aS'237'
+p139
+aS'Others'
+p140
+aas.

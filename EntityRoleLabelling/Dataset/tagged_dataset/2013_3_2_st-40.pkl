@@ -1,0 +1,427 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsukhnagar'
+p4
+aS'4'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Dilsukhnagar blasts'
+p8
+ag5
+aS'Event'
+p9
+aa(lp10
+S'Tihar jail'
+p11
+aS'37'
+p12
+aS'Neutral'
+p13
+aa(lp14
+S'Tihar'
+p15
+aS'37'
+p16
+aS'Neutral'
+p17
+aa(lp18
+S'Hyderabad'
+p19
+aS'40'
+p20
+aS'Event'
+p21
+aa(lp22
+S'Delhi'
+p23
+aS'83'
+p24
+aS'Neutral'
+p25
+aa(lp26
+S'Begum Bazar'
+p27
+aS'106'
+p28
+aS'Neutral'
+p29
+aa(lp30
+S'Dilsukhnagar'
+p31
+aS'109'
+p32
+aS'Event'
+p33
+aa(lp34
+S'Ranigunj'
+p35
+aS'111'
+p36
+aS'Neutral'
+p37
+aa(lp38
+S'Tank Bund'
+p39
+aS'113'
+p40
+aS'Neutral'
+p41
+aa(lp42
+S'Pakistan'
+p43
+aS'134'
+p44
+aS'Source'
+p45
+aa(lp46
+S'Andhra Pradesh'
+p47
+aS'147'
+p48
+aS'Event'
+p49
+aa(lp50
+S'Dilsukhnagar'
+p51
+aS'164'
+p52
+aS'Event'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Afzalgunj'
+p56
+aS'257'
+p57
+aS'Assoc Event Location'
+p58
+aa(lp59
+S'Hyderabad'
+p60
+aS'302'
+p61
+aS'Event'
+p62
+aa(lp63
+S'Dilsukhnagar'
+p64
+aS'312'
+p65
+aS'Event'
+p66
+aS'Neutral'
+p67
+aasS'PER'
+p68
+(lp69
+(lp70
+S'Syed Maqbool'
+p71
+aS'24'
+p72
+aS'Assoc Accused'
+p73
+aa(lp74
+S'Maqbool and Imran Khan'
+p75
+aS'25'
+p76
+aS'Assoc Accused'
+p77
+aa(lp78
+S'Maqbool'
+p79
+aS'25'
+p80
+aS'Assoc Accused'
+p81
+aa(lp82
+S'Imran Khan'
+p83
+aS'27'
+p84
+aS'Assoc Accused'
+p85
+aa(lp86
+S'Maqbool and Khan'
+p87
+aS'69'
+p88
+aS'Assoc Accused'
+p89
+aa(lp90
+S'Maqbool'
+p91
+aS'69'
+p92
+aS'Assoc Accused'
+p93
+aa(lp94
+S'Khan'
+p95
+aS'71'
+p96
+aS'Assoc Accused'
+p97
+aa(lp98
+S'IM commander Riyaz'
+p99
+aS'126'
+p100
+aS'Assoc Accused'
+p101
+aa(lp102
+S'Riyaz Bhatkal'
+p103
+aS'128'
+p104
+aS'Assoc Accused'
+p105
+aa(lp106
+S'Riyaz'
+p107
+aS'128'
+p108
+aS'Assoc Accused'
+p109
+aa(lp110
+S'Tabrez'
+p111
+aS'232'
+p112
+aS'Accused'
+p113
+aa(lp114
+S'Tabrez and Wakas'
+p115
+aS'232'
+p116
+aS'Accused'
+p117
+aa(lp118
+S'DCP R.'
+p119
+aS'354'
+p120
+aS'Comment'
+p121
+aa(lp122
+S'DCP R. Jaya Laxmi'
+p123
+aS'354'
+p124
+aS'Comment'
+p125
+aa(lp126
+S'R. Jaya Laxmi'
+p127
+aS'355'
+p128
+aS'Comment'
+p129
+aasS'TIM'
+p130
+(lp131
+sS'hot_setting'
+p132
+S''
+p133
+sS'DAT'
+p134
+(lp135
+S'Friday:42'
+p136
+aS'February:57'
+p137
+aS'October:86'
+p138
+aS'October 2011:86'
+p139
+asS'death'
+p140
+S'16'
+p141
+sS'title'
+p142
+S'Two IM suspects brought to Hyderabad'
+p143
+sS'det_loc'
+p144
+(lp145
+S'India'
+p146
+aS'Andhra Pradesh'
+p147
+aS'Rangareddy'
+p148
+aS'Hyderabad'
+p149
+aS' Dilsukhnagar'
+p150
+asS'terror_group'
+p151
+(lp152
+S'Indian Mujahideen'
+p153
+asS'content'
+p154
+S'Agencies probing the Dilsukhnagar blasts continued their efforts to get a breakthrough , even as the National Investigation Agency ( NIA ) brought Syed Maqbool and Imran Khan , two alleged operatives of Indian Mujahideen from Tihar jail to Hyderabad on Friday . The two were being questioned at an undisclosed location in connection with the February 21 blasts that claimed 16 lives and injured 117 people . Maqbool and Khan were among the four members arrested by the Special Cell of Delhi Police in October 2011 in connection with Pune blasts . The two were said to have admitted to conducting a recce of Begum Bazar , Dilsukhnagar , Ranigunj , Tank Bund and Abids to carry out terror attacks at the behest of IM commander Riyaz Bhatkal , who operates from Pakistan . Based on their confession , the Central intelligence agencies alerted the Andhra Pradesh police about the possible terror strikes by IM . While pursuing different leads in the Dilsukhnagar blasts case , the NIA investigating into different cases of terror attacks in the country decided to question the two as they were accused of conducting a recce in Hyderabad . We hope to get some leads about the persons responsible for the attack during their interrogation , a police officer said . He , however , was disinclined to comment on reports that alleged IM operatives Tabrez and Wakas , who were still at large , planted and detonated the improvised explosive devices at Dilsukhnagar . Detonators found Meanwhile , the Afzalgunj police on Friday found 10 detonators near a coconut tree in the garden on the premises of Mahatma Gandhi Bus Station in Imliban . A worker found the detonators strapped with a wire . Checks continue The massive security exercise , launched by the Hyderabad police in the backdrop of the terror attack at Dilsukhnagar , continued in different parts of the city on Friday . Twenty teams , comprising policemen and bomb detection squads , conducted anti-sabotage checks at several religious places , prayer halls , commercial complexes , malls and theatres , East Zone DCP R. Jaya Laxmi said . The two are being questioned at an undisclosed location in connection with the February 21 blasts OPEN'
+p155
+sS'injured'
+p156
+S'117'
+p157
+sS'org_unorg'
+p158
+S'Organized'
+p159
+sS'O'
+p160
+(lp161
+S'breakthrough:12'
+p162
+aS'national investigation:17'
+p163
+aS'investigation:18'
+p164
+aS'investigation agency:18'
+p165
+aS'jail:38'
+p166
+aS'connection:54'
+p167
+aS'cell:81'
+p168
+aS'pune blasts:91'
+p169
+aS'pune:91'
+p170
+aS'recce:104'
+p171
+aS'terror:120'
+p172
+aS'behest:124'
+p173
+aS'im commander:126'
+p174
+aS'confession:139'
+p175
+aS'central intelligence agencies:142'
+p176
+aS'intelligence:143'
+p177
+aS'terror:153'
+p178
+aS'im:156'
+p179
+aS'attack:208'
+p180
+aS'interrogation:211'
+p181
+aS'officer:215'
+p182
+aS'comment:225'
+p183
+aS'im:230'
+p184
+aS'wakas:234'
+p185
+aS'explosive:247'
+p186
+aS'bus station:277'
+p187
+aS'imliban:280'
+p188
+aS'worker:283'
+p189
+aS'wire:290'
+p190
+aS'security exercise:296'
+p191
+aS'terror attack:309'
+p192
+aS'bomb detection:330'
+p193
+aS'bomb detection squads:330'
+p194
+aS'anti-sabotage:335'
+p195
+aS'religious places:339'
+p196
+aS'prayer halls:342'
+p197
+aS'commercial complexes:345'
+p198
+aS'malls and theatres:348'
+p199
+aS'east zone:352'
+p200
+aS'dcp:354'
+p201
+aS'undisclosed location:367'
+p202
+asS'unexpl'
+p203
+(lp204
+g133
+asS'ocassion'
+p205
+g133
+sS'link'
+p206
+S'http://www.thehindu.com/todays-paper/tp-national/two-im-suspects-brought-to-hyderabad/article4467758.ece'
+p207
+sS'date'
+p208
+S'21-02-2013'
+p209
+sS'target'
+p210
+S'Commercial and Residencial place'
+p211
+sS'hot_spot'
+p212
+g133
+sS'delivery_mod'
+p213
+g133
+sS'delivery_met'
+p214
+S'Planted'
+p215
+sS'expl'
+p216
+(lp217
+S'IED'
+p218
+asS'ORG'
+p219
+(lp220
+(lp221
+S'NIA'
+p222
+aS'21'
+p223
+aS'Others'
+p224
+aa(lp225
+S'Indian Mujahideen'
+p226
+aS'34'
+p227
+aS'Accused'
+p228
+aa(lp229
+S'Mujahideen from Tihar'
+p230
+aS'35'
+p231
+aS'Accused'
+p232
+aas.

@@ -1,0 +1,426 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Guwahati'
+p4
+aS'6'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Assam'
+p8
+aS'24'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Birubari'
+p12
+aS'49'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Bhootnath'
+p16
+aS'51'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Bhangagarh'
+p20
+aS'53'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Lokpriya Gopinath Bordoloi airport'
+p24
+aS'70'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Guwahati'
+p28
+aS'110'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Guwahati'
+p32
+aS'213'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Assam'
+p36
+aS'224'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Shillong'
+p40
+aS'257'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Guwahati'
+p44
+aS'298'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Birubari'
+p48
+aS'380'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Bhootnath'
+p52
+aS'392'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Bhangagarh'
+p56
+aS'411'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Bhangagarh'
+p60
+aS'441'
+p61
+aS'Event'
+p62
+aa(lp63
+S'Raj Bhawan'
+p64
+aS'480'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Bhootnath'
+p68
+aS'510'
+p69
+aS'Event'
+p70
+aa(lp71
+S'Raj Bhavan'
+p72
+aS'530'
+p73
+aS'Neutral'
+p74
+aa(lp75
+S'Guwahati'
+p76
+aS'537'
+p77
+aS'Event'
+p78
+aa(lp79
+S'India'
+p80
+aS'573'
+p81
+aS'Neutral'
+p82
+aa(lp83
+S'Guwahati'
+p84
+aS'588'
+p85
+aS'Neutral'
+p86
+aasS'PER'
+p87
+(lp88
+(lp89
+S'P Chidambaram'
+p90
+aS'66'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Chidambaram'
+p94
+aS'104'
+p95
+aS'Others'
+p96
+aa(lp97
+S'Tarun Gogoi'
+p98
+aS'145'
+p99
+aS'Others'
+p100
+aa(lp101
+S'Manmohan Singh'
+p102
+aS'208'
+p103
+aS'Others'
+p104
+aa(lp105
+S'Tarun Gogoi'
+p106
+aS'227'
+p107
+aS'Others'
+p108
+aa(lp109
+S'G.P Singh'
+p110
+aS'347'
+p111
+aS'Comment'
+p112
+aa(lp113
+S'Chidambaram'
+p114
+aS'475'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Gogoi'
+p118
+aS'494'
+p119
+aS'Others'
+p120
+aasS'TIM'
+p121
+(lp122
+S'evening : 8'
+p123
+aS'day : 231'
+p124
+aS'two months : 277'
+p125
+aS'2.35 pm:372'
+p126
+aS'5.15 pm:389'
+p127
+aS'15 minutes : 400'
+p128
+aS'6.30 pm .:539'
+p129
+aS'pm:540'
+p130
+aS'pm .:540'
+p131
+aS'.:541'
+p132
+asS'hot_setting'
+p133
+S''
+p134
+sS'DAT'
+p135
+(lp136
+S'2009 : 27'
+p137
+aS'Thursday evening : 115'
+p138
+aS'Friday morning : 118'
+p139
+aS'Thursday : 165'
+p140
+aS'Friday morning : 215'
+p141
+aS'October 30 , 2008 : 281'
+p142
+aS'October 30 : 322'
+p143
+aS'October 30 : 434'
+p144
+asS'death'
+p145
+S'5'
+p146
+sS'title'
+p147
+S'Serial blasts rocked Guwahati, 5 killed, 51 injured'
+p148
+sS'det_loc'
+p149
+(lp150
+S'India'
+p151
+aS'Assam'
+p152
+aS'Kamrup'
+p153
+aS'Guwahati'
+p154
+ag134
+asS'terror_group'
+p155
+(lp156
+S'UNITED LIBERATION FRONT OF ASSAM (ULFA)'
+p157
+asS'content'
+p158
+VGUWAHATI : Serial blasts rocked Guwahati early evening on New Year 's Day , killing five people and severely injuring 51 others as Assam opened its 2009 account with more bloodshed and terror . . . The three blasts , masterminded by Ulfa 's 709 Batallion , at Birubari , Bhootnath and Bhangagarh happened even as the state was awaiting the landing of home minister P Chidambaram at the Lokpriya Gopinath Bordoloi airport . The third blast which was the most powerful of the three , took place barely 200 metres from the Times of India office in the city . . . Chidambaram 's most crucial engagement in Guwahati happens to be the Thursday evening and Friday morning meeting of the unified command , which is the apex counter insurgency body in the north east . The meeting would also have chief minister Tarun Gogoi participating . . . It is strange that considering the importance of the event and the fact that Thursday was New Year 's Day , the state security could have been so slack as to allow this sort of extreme terror manifest itself yet again . The security lapse was unpardonable also in the context of the fact that Prime Minister Manmohan Singh is due in Guwahati on Friday morning and that he has a meeting with Assam chief minister Tarun Gogoi on the day . Considering that the city is unsafe , the meeting is scheduled within the airport complex itself . The prime minister will thereafter go to Shillong to attend the Indian Science Congress . . . The last serial blasts took place in the city just two months ago on October 30 , 2008 , and had taken the city completely unawares . This time too , Guwahati was celebrating the New Year and the streets were full of revellers , eager for yet one more evening of fun . On October 30 , the nine blasts had claimed 89 lives and left over 500 innocent people injured . . . DIG , Assam Police , G.P Singh told ET : `` ULFA is behind the blasts , we have intercepted messages '' . The first blast went off at about 2.35 pm in a garbage bin in the Birubari area . The second blast took place around 5.15 pm at Bhootnath in a teeming market place . Just 15 minutes later , the biggest of them all , rocked Bhangagarh , where 20 metres away was a mosque and just opposite the latest Big Bazaar shopping mall . . . Like the October 30 blasts , the explosion at Bhangagarh also took place adjacent to a flyover . Intelligence agencies said that the explosions were designed to be triggered just prior to the home minister 's visit to the city . . . Chidambaram was whisked away to Raj Bhawan as soon as he landed . He had detailed discussions with Mr Gogoi . . . `` The timing of the blast was made with precision . The Bhootnath market place is just few metres away from the road which the home minister would have taken to reach Raj Bhavan . The home minister reached Guwahati around 6.30 pm . Maybe , the aim of the blasts was to attract the attention of the Union government '' said The aim of the blast is to get the notice of government of India , '' intelligence sources told ET . . . There was complete confusion in Guwahati after the blasts , with the city going back into its customary shell and people hurried home .
+p159
+sS'injured'
+p160
+S'51'
+p161
+sS'org_unorg'
+p162
+g134
+sS'O'
+p163
+(lp164
+S'serial blasts:3'
+p165
+aS"new year 's day:10"
+p166
+aS'three blasts:38'
+p167
+aS'709 batallion:45'
+p168
+aS'third blast:76'
+p169
+aS'north east:135'
+p170
+aS"new year 's day:167"
+p171
+aS'state security:173'
+p172
+aS'terror manifest:187'
+p173
+aS'security lapse:194'
+p174
+aS'airport complex:246'
+p175
+aS'indian science congress:261'
+p176
+aS'serial blasts:269'
+p177
+aS'new year:302'
+p178
+aS'nine blasts:326'
+p179
+aS'first blast:366'
+p180
+aS'garbage bin:376'
+p181
+aS'second blast:384'
+p182
+aS'big bazaar:425'
+p183
+aS'intelligence agencies:450'
+p184
+aS'explosions:455'
+p185
+aS'blast:503'
+p186
+aS'blasts:548'
+p187
+aS'union government:556'
+p188
+aS'blast:564'
+p189
+aS'blasts:591'
+p190
+asS'unexpl'
+p191
+(lp192
+g134
+asS'ocassion'
+p193
+g134
+sS'link'
+p194
+S'http://articles.economictimes.indiatimes.com/2009-01-01/news/27656932_1_serial-blasts-second-blast-three-blasts'
+p195
+sS'date'
+p196
+S'01-01-2009'
+p197
+sS'target'
+p198
+S'PUBLIC PLACES'
+p199
+sS'hot_spot'
+p200
+g134
+sS'delivery_mod'
+p201
+g134
+sS'delivery_met'
+p202
+S'PLANTED'
+p203
+sS'expl'
+p204
+(lp205
+g134
+asS'ORG'
+p206
+(lp207
+(lp208
+S'Ulfa'
+p209
+aS'43'
+p210
+aS'Accused'
+p211
+aa(lp212
+S'Times of India'
+p213
+aS'94'
+p214
+aS'Others'
+p215
+aa(lp216
+S'Assam Police'
+p217
+aS'344'
+p218
+aS'Others'
+p219
+aa(lp220
+S'ET'
+p221
+aS'350'
+p222
+aS'Others'
+p223
+aa(lp224
+S'ULFA'
+p225
+aS'353'
+p226
+aS'Accused'
+p227
+aa(lp228
+S'ET'
+p229
+aS'579'
+p230
+aS'Others'
+p231
+aas.

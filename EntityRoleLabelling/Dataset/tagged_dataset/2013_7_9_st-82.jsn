@@ -1,0 +1,222 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Bodh Gaya", 
+            "259", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "274", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "287", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "404", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nitish Kumar", 
+            "412", 
+            "Others"
+        ], 
+        [
+            "Kumar", 
+            "492", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "event": "ec0000_ei0007", 
+    "DAT": [
+        "Sundays : 41", 
+        "July 2:282"
+    ], 
+    "death": "", 
+    "title": "New kind of improvised devices used", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "While the bomb blasts in Bodh Gaya is first-of-its kind terror attack on a Buddhist temple in India , the use of small cylinders , explosives and timers is also a new kind of improvised devices that were used in Sundays blasts . Investigators have also indicated that at least three to four terrorists might be involved in placing the crude bombs in and around the historic temple complex . In their initial report sent to the Union Home Ministry , bomb experts from the National Security Guard have indicated that the small cylinders were packed with a deadly combination of ammonium nitrate , sulphur and potassium . The coordinated low-intensity blasts might have been carried out by using analogue clock timers . This was a new kind of improvised bomb created by terrorists after pressure-cookers , Home Ministry sources said . Each cylinder that was converted into an improvised device might be around 4-5 kg in weight , and to place such bombs in the complex fitted with CCTV cameras would have required a group to carry out the task , they added . Help from insiders Pointing out that these bombs might have been carried in big bags or cartons , sources said probe agencies were also looking at involvement of insiders who might have helped terrorists to take inside the temple complex these bombs by hoodwinking private security guards deployed by the temple management . Referring to security lapse and lack of preparedness on part of the authorities concerned , a senior MHA official said Bodh Gaya was the target of the terrorists and the Centre had repeatedly alerted the Bihar government , the last one being on July 2 . But the Bihar police failed to come up with a security plan with the temple management to avert the blasts , he added . Meanwhile , the National Investigation Agency has not yet taken over the probe and is still assisting the Bihar police in investigations . The MHA official also said the Union Home Ministry was yet to receive a formal request from the Bihar government for CISF cover for the temple complex . When we receive the request , the Home Ministry will certainly consider it , the official said . Referring the issue of the National Counter Terrorism Centre ( NCTC ) that has been hanging fire due to opposition from non-Congress ruled States , including Bihar , the official hoped that Chief Minister Nitish Kumar might now soften his stand and support the agency that would help fight terrorism in a better way . The delay in setting up of NCTC will continue to hamper the governments anti-terror initiatives , the official said . The cylinders were packed with a combination of ammonium nitrate , sulphur and potassiumKumar might now soften his stand and support NCTC : MHA official The cylinders were packed with a combination of ammonium nitrate , sulphur and potassium Kumar might now soften his stand and support NCTC : MHA official OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "", 
+        "Bodh Gaya", 
+        "Bodh Gaya"
+    ], 
+    "O": [
+        "bomb blasts:3", 
+        "terror attack:11", 
+        "Buddhist temple:15", 
+        "small cylinders:23", 
+        "explosives:26", 
+        "timers:28", 
+        "improvised devices:35", 
+        "Sundays blasts:41", 
+        "Investigators:44", 
+        "three to four terrorists:51", 
+        "crude bombs:61", 
+        "historic temple complex:67", 
+        "initial report:73", 
+        "bomb experts:82", 
+        "small cylinders:93", 
+        "ammonium nitrate:102", 
+        "sulphur and potassium:105", 
+        "low-intensity blasts:111", 
+        "analogue clock timers:120", 
+        "improvised bomb:130", 
+        "terrorists:134", 
+        "pressure-cookers:136", 
+        "cylinder:144", 
+        "improvised device:150", 
+        "4-5 kg:155", 
+        "bombs:164", 
+        "CCTV cameras:170", 
+        "bombs:193", 
+        "big bags or cartons:199", 
+        "probe agencies:206", 
+        "involvement of insiders:212", 
+        "terrorists:219", 
+        "temple complex:224", 
+        "hoodwinking private security guards:229", 
+        "temple management:236", 
+        "security lapse:241", 
+        "lack of preparedness:244", 
+        "terrorists:266", 
+        "repeatedly alerted:271", 
+        "security plan:295", 
+        "temple management:299", 
+        "blasts:304", 
+        "investigations:330", 
+        "formal request:346", 
+        "temple complex:357", 
+        "hanging fire:393", 
+        "fight terrorism:426", 
+        "anti-terror initiatives:446", 
+        "cylinders:454", 
+        "ammonium nitrate:461", 
+        "sulphur and potassiumKumar:464", 
+        "cylinders:479", 
+        "ammonium nitrate:486", 
+        "sulphur:489", 
+        "potassium:491"
+    ], 
+    "unexpl": [
+        "MECHANICAL TIMERS"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/new-kind-of-improvised-devices-used/article4896547.ece", 
+    "date": "07-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "GAS CYLINDER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "CRUDE BOMB", 
+        "SULPHUR", 
+        "POTASSIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "National Security Guard", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "256", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "274", 
+            "Others"
+        ], 
+        [
+            "Bihar police", 
+            "287", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "312", 
+            "Others"
+        ], 
+        [
+            "Bihar police", 
+            "327", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "333", 
+            "Others"
+        ], 
+        [
+            "Bihar government", 
+            "350", 
+            "Others"
+        ], 
+        [
+            "CISF", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "National Counter Terrorism Centre", 
+            "383", 
+            "Others"
+        ], 
+        [
+            "NCTC", 
+            "388", 
+            "Others"
+        ], 
+        [
+            "NCTC", 
+            "439", 
+            "Others"
+        ], 
+        [
+            "NCTC", 
+            "474", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "476", 
+            "Others"
+        ], 
+        [
+            "NCTC", 
+            "500", 
+            "Others"
+        ], 
+        [
+            "MHA", 
+            "502", 
+            "Others"
+        ]
+    ]
+}

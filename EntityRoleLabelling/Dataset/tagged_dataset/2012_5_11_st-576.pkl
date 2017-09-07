@@ -1,0 +1,176 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Gujarat'
+p4
+aS'55'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Mecca Masjid'
+p8
+aS'78'
+p9
+aS'Event'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Bharat Bhai'
+p14
+aS'6'
+p15
+aS'Accused'
+p16
+aa(lp17
+S'Bharat Mohan Lal Rateswar'
+p18
+aS'47'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Bharat Bhai'
+p22
+aS'52'
+p23
+aS'Accused'
+p24
+aasS'TIM'
+p25
+(lp26
+sS'hot_setting'
+p27
+S''
+p28
+sS'DAT'
+p29
+(lp30
+S'2007:15'
+p31
+aS'Thursday:31'
+p32
+aS'May:42'
+p33
+aS'May 15:42'
+p34
+asS'death'
+p35
+g28
+sS'title'
+p36
+S'Arguments over in Mecca Masjid bail case'
+p37
+sS'org_unorg'
+p38
+S'Organized'
+p39
+sS'terror_group'
+p40
+(lp41
+g28
+asS'content'
+p42
+S'Arguments over bail petition of Bharat Bhai , one of the accused persons in 2007 Mecca Masjid bomb blasts case , were completed at the Nampally Criminal Court here on Thursday . The court , however , posted the matter for May 15 for orders . Bharat Mohan Lal Rateswar alias Bharat Bhai from Gujarat was arrested by the National Investigation Agency last year for allegedly providing financial and logistical support to carry out the blast at Mecca Masjid . OPEN'
+p43
+sS'injured'
+p44
+g28
+sS'det_loc'
+p45
+(lp46
+S'India'
+p47
+aS'Andhra Pradesh'
+p48
+aS'Hyderabad'
+p49
+ag28
+ag28
+asS'O'
+p50
+(lp51
+S'bail petition:3'
+p52
+aS'mecca:16'
+p53
+aS'mecca masjid bomb:16'
+p54
+aS'mecca masjid bomb blasts case:16'
+p55
+aS'masjid bomb:17'
+p56
+aS'case:20'
+p57
+aS'court:34'
+p58
+aS'matter:40'
+p59
+aS'year:64'
+p60
+aS'support:71'
+p61
+aS'blast:76'
+p62
+asS'unexpl'
+p63
+(lp64
+g28
+asS'ocassion'
+p65
+g28
+sS'link'
+p66
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/arguments-over-in-mecca-masjid-bail-case/article3406856.ece'
+p67
+sS'date'
+p68
+S'10-05-2012'
+p69
+sS'target'
+p70
+S'Religious Places'
+p71
+sS'hot_spot'
+p72
+g28
+sS'delivery_mod'
+p73
+g28
+sS'delivery_met'
+p74
+S'Planted'
+p75
+sS'expl'
+p76
+(lp77
+g28
+asS'ORG'
+p78
+(lp79
+(lp80
+S'Nampally Criminal Court'
+p81
+aS'26'
+p82
+aS'Others'
+p83
+aa(lp84
+S'Criminal Court'
+p85
+aS'27'
+p86
+aS'Others'
+p87
+aa(lp88
+S'National Investigation Agency'
+p89
+aS'60'
+p90
+aS'Others'
+p91
+aas.

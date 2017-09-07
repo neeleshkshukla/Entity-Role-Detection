@@ -1,0 +1,287 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Kozhikode'
+p4
+aS'23'
+p5
+aS'Event'
+p6
+aa(lp7
+S'KSRTC bus stand'
+p8
+aS'76'
+p9
+aS'Event'
+p10
+aa(lp11
+S'mofussil bus stand'
+p12
+aS'81'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Kozhikode'
+p16
+aS'85'
+p17
+aS'Event'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'T. Nazeer'
+p22
+aS'15'
+p23
+aS'Accused'
+p24
+aa(lp25
+S'Abdul Halim'
+p26
+aS'39'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'C. Yusuf'
+p30
+aS'42'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Halim'
+p34
+aS'46'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Yusuf'
+p38
+aS'60'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Nazeer'
+p42
+aS'124'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Shammi Feroz'
+p46
+aS'152'
+p47
+aS'Accused'
+p48
+aasS'TIM'
+p49
+(lp50
+sS'hot_setting'
+p51
+S''
+p52
+sS'DAT'
+p53
+(lp54
+S'Thursday:8'
+p55
+aS'Friday:68'
+p56
+aS'March 3 , 2006 : 87'
+p57
+aS'August 2010:145'
+p58
+asS'death'
+p59
+g52
+sS'title'
+p60
+S'Kozhikode blast: 2 found guilty'
+p61
+sS'org_unorg'
+p62
+S'Organized'
+p63
+sS'terror_group'
+p64
+(lp65
+S'Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)'
+p66
+asS'content'
+p67
+S'The National Investigation Agency Special Court on Thursday found suspected Laskhar-e-Taiba -LSB- militant -RSB- T. Nazeer and another accused guilty in the Kozhikode twin blast cases . The court , however , acquitted the two other accused , Abdul Halim and C. Yusuf . While Halim was acquitted on benefit of doubt , the court found no evidence against Yusuf . The sentence will be pronounced on Friday . The blasts took place at the KSRTC bus stand and the mofussil bus stand in Kozhikode on March 3 , 2006 , within a span of 30 minutes . This is the first case probed by the NIA in the State . The court found that the bombs were placed by the first accused Nazeer . The intention was to create communal disharmony between two religious communities . The NIA filed the charge sheet in August 2010 against eight accused . Accused Shammi Feroz had turned an approver . Two other accused were in the hiding . The charge sheet said the accused planted the bombs in retaliation against the perceived partisan attitude of the State government and the judiciary in not granting bail to the Muslim accused in the second Marad incident . In order to express the resentment of the Muslim community , they hatched a conspiracy and manufactured bombs , which they subsequently exploded at two main bus stands , causing panic , terror and hardship to the general public , thereby waging a war against the establishment and the government . These accused wanted to create communal disharmony and disturbances in the area , the charge sheet said . The court found that the accused had committed offences punishable under Section 16 ( 1 ) , 18 and 23 of Unlawful Activities ( Prevention ) Act , 1967 , by attempting to strike terror in the general public and threaten the security and integrity of the country . The court also found them guilty of offences punishable under Section 124 A of the Indian Penal Code ( sedition ) . They were also found guilty of offences under Section 120 B ( criminal conspiracy ) and under Section 153 A ( creating communal disharmony and enmity between two groups ) of the IPC , besides being punishable under Section 3 , 4 and 5 of the Explosive Substances Act . OPEN'
+p68
+sS'injured'
+p69
+g52
+sS'det_loc'
+p70
+(lp71
+S'India'
+p72
+aS'Kerala'
+p73
+aS'Kozhikode'
+p74
+ag52
+ag52
+asS'O'
+p75
+(lp76
+S'kozhikode twin blast cases:23'
+p77
+aS'court:29'
+p78
+aS'acquitted:33'
+p79
+aS'acquitted:48'
+p80
+aS'benefit of doubt:50'
+p81
+aS'blasts:71'
+p82
+aS'court:113'
+p83
+aS'bombs:117'
+p84
+aS'intention:127'
+p85
+aS'communal disharmony:131'
+p86
+aS'religious communities:135'
+p87
+aS'charge sheet:168'
+p88
+aS'bombs:175'
+p89
+aS'retaliation:177'
+p90
+aS'state government:185'
+p91
+aS'bail:193'
+p92
+aS'muslim accused:196'
+p93
+aS'second marad incident:200'
+p94
+aS'resentment:209'
+p95
+aS'muslim community:212'
+p96
+aS'conspiracy:218'
+p97
+aS'manufactured bombs:220'
+p98
+aS'bus stands:230'
+p99
+aS'war:247'
+p100
+aS'communal disharmony:260'
+p101
+aS'charge sheet:269'
+p102
+aS'court:274'
+p103
+aS'offences punishable:281'
+p104
+aS'unlawful activities ( prevention ) act , 1967:294'
+p105
+aS'public:311'
+p106
+aS'court:323'
+p107
+aS'indian penal code:337'
+p108
+aS'section 120 b:352'
+p109
+aS'criminal conspiracy:356'
+p110
+aS'conspiracy:357'
+p111
+aS'section:361'
+p112
+aS'section 153 a:361'
+p113
+aS'communal disharmony:366'
+p114
+aS'enmity:369'
+p115
+aS'ipc:376'
+p116
+aS'explosive substances act:390'
+p117
+asS'unexpl'
+p118
+(lp119
+g52
+asS'ocassion'
+p120
+g52
+sS'link'
+p121
+S'http://www.thehindu.com/todays-paper/tp-national/kozhikode-blast-2-found-guilty/article2348987.ece'
+p122
+sS'date'
+p123
+S'03-03-2006'
+p124
+sS'target'
+p125
+S'Public Transport'
+p126
+sS'hot_spot'
+p127
+S'Bus stand'
+p128
+sS'delivery_mod'
+p129
+g52
+sS'delivery_met'
+p130
+S'Planted'
+p131
+sS'expl'
+p132
+(lp133
+g52
+asS'ORG'
+p134
+(lp135
+(lp136
+S'National Investigation Agency Special Court'
+p137
+aS'2'
+p138
+aS'Others'
+p139
+aa(lp140
+S'Laskhar-e-Taiba'
+p141
+aS'11'
+p142
+aS'Accused'
+p143
+aa(lp144
+S'NIA'
+p145
+aS'107'
+p146
+aS'Others'
+p147
+aa(lp148
+S'NIA'
+p149
+aS'139'
+p150
+aS'Others'
+p151
+aas.

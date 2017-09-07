@@ -1,0 +1,393 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'India'
+p4
+aS'24'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Chennai'
+p8
+aS'56'
+p9
+aS'Event'
+p10
+aa(lp11
+S'India'
+p12
+aS'118'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'India'
+p16
+aS'147'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Chennai'
+p20
+aS'269'
+p21
+aS'Event'
+p22
+aa(lp23
+S'India'
+p24
+aS'278'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Chennai'
+p28
+aS'319'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Bangalore'
+p32
+aS'333'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Gauhati'
+p36
+aS'338'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Assam'
+p40
+aS'349'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Tamil Nadu'
+p44
+aS'356'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Chennai'
+p48
+aS'424'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Chennai'
+p52
+aS'460'
+p53
+aS'Event'
+p54
+aasS'PER'
+p55
+(lp56
+(lp57
+S'Bhupati'
+p58
+aS'142'
+p59
+aS'Comment'
+p60
+aa(lp61
+S'R.K. Mishra'
+p62
+aS'180'
+p63
+aS'Others'
+p64
+aa(lp65
+S'Mishra'
+p66
+aS'240'
+p67
+aS'Comment'
+p68
+aa(lp69
+S'G. Muthuraj'
+p70
+aS'257'
+p71
+aS'Others'
+p72
+aa(lp73
+S'K. Ramanujam'
+p74
+aS'353'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Ramanujam'
+p78
+aS'404'
+p79
+aS'Comment'
+p80
+aa(lp81
+S'Manmohan Singh'
+p82
+aS'410'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Manmohan Singh'
+p86
+aS'444'
+p87
+aS'Others'
+p88
+aasS'TIM'
+p89
+(lp90
+S'minutes : 13'
+p91
+aS'weeks : 215'
+p92
+aS'day : 296'
+p93
+aS'Every day : 303'
+p94
+asS'hot_setting'
+p95
+S''
+p96
+sS'DAT'
+p97
+(lp98
+S'Thursday morning : 10'
+p99
+asS'death'
+p100
+S'1'
+p101
+sS'title'
+p102
+S'1 killed, 14 hurt in Chennai train blasts'
+p103
+sS'org_unorg'
+p104
+g96
+sS'terror_group'
+p105
+(lp106
+g96
+asS'content'
+p107
+VTwin blasts ripped through two coaches of a train Thursday morning just minutes after it pulled into one Chennai Central , one of India 's busiest railway stations , killing a 22-year-old woman and injuring 14 other people , officials said . . . Police said they were questioning one suspect in the explosions at Chennai railway station in the country 's southeast , but there were no further details . . . Prime Minister Manmohan Singh condemned the attacks , saying ` such barbaric acts targeting innocent men , women and children only highlight the desperation and cowardice of those responsible . ' . . There was no immediate claim of responsibility in a region of India considered relatively peaceful . . . Authorities suspect the blasts were caused by bombs planted on the Bangalore-Guwahati Express train , said M. Bhupati , the spokesman for India 's southern railway system . . . ` The police are already on the job , they are investigating what kind of bomb it was and what was the purpose , ' R.K. Mishra , the general manager of Southern Railway , told reporters . . . The blasts come amid heightened security nationwide for the general elections , which are being held in phases over several weeks . . . At least one of the blasts erupted from underneath a seat where the 22-year-old victim was sitting , killing her , Mishra said . Fourteen people were hospitalized , but none of the injuries was serious , said G. Muthuraj , a spokesman for the Rajiv Gandhi General hospital in Chennai . . . Largest rail networks . . India has one of the world 's largest railway networks , with more than 23 million passengers a day riding on about 11,000 trains . Every day , hundreds of thousands of commuters and long-distance passengers use the railway station in Chennai , one the country 's busiest . . . The train originated in Bangalore and was headed to Gauhati , the main city in the remote northeastern state of Assam . . . K. Ramanujam , Tamil Nadu 's director-general of police , said a special investigation team comprising forensic experts and police would investigate the blasts . ` It is premature to speculate what kind of device was used in the blast . The damage to the train is not heavy , ' Ramanujam said . . . PM Manmohan Singh has condemned the attacks Police say they were questioning one suspect at Chennai railway station , but there were no further details There was no immediate claim of responsibility . . PM Manmohan Singh has condemned the attacks . . Police say they were questioning one suspect at Chennai railway station , but there were no further details . . There was no immediate claim of responsibility .
+p108
+sS'injured'
+p109
+S'14'
+p110
+sS'det_loc'
+p111
+(lp112
+S'India'
+p113
+aS'Tamil Nadu'
+p114
+aS'Chennai'
+p115
+ag96
+ag96
+asS'O'
+p116
+(lp117
+S'Twin blasts:1'
+p118
+aS'two coaches:5'
+p119
+aS'train:9'
+p120
+aS'Chennai Central:19'
+p121
+aS'busiest railway stations:26'
+p122
+aS'22-year-old woman:32'
+p123
+aS'questioning:49'
+p124
+aS'one suspect:50'
+p125
+aS'explosions:54'
+p126
+aS'Chennai railway station:56'
+p127
+aS"country 's southeast:61"
+p128
+aS'Manmohan Singh:76'
+p129
+aS'condemned:78'
+p130
+aS'attacks:80'
+p131
+aS'barbaric acts:85'
+p132
+aS'innocent:88'
+p133
+aS'highlight:95'
+p134
+aS'desperation:97'
+p135
+aS'cowardice:99'
+p136
+aS'immediate claim:110'
+p137
+aS'peaceful:121'
+p138
+aS'Authorities:125'
+p139
+aS'suspect:126'
+p140
+aS'blasts:128'
+p141
+aS'bombs:132'
+p142
+aS'planted:133'
+p143
+aS'Bangalore-Guwahati Express train:136'
+p144
+aS"India 's southern railway system:147"
+p145
+aS'investigating:166'
+p146
+aS'bomb:170'
+p147
+aS'purpose:177'
+p148
+aS'Southern Railway:187'
+p149
+aS'blasts:196'
+p150
+aS'heightened security:199'
+p151
+aS'general elections:204'
+p152
+aS'blasts:224'
+p153
+aS'22-year-old:232'
+p154
+aS'victim:233'
+p155
+aS'Fourteen people:243'
+p156
+aS'hospitalized:246'
+p157
+aS'injuries:252'
+p158
+aS'rail networks:274'
+p159
+aS"world 's largest railway networks:283"
+p160
+aS'23 million passengers:292'
+p161
+aS'11,000 trains:300'
+p162
+aS'commuters:310'
+p163
+aS'passengers:313'
+p164
+aS'railway station:316'
+p165
+aS"country 's busiest:323"
+p166
+aS'train:330'
+p167
+aS'remote northeastern state:345'
+p168
+aS'investigation:366'
+p169
+aS'comprising forensic experts:368'
+p170
+aS'investigate:374'
+p171
+aS'blasts:376'
+p172
+aS'premature:381'
+p173
+aS'speculate:383'
+p174
+aS'blast:392'
+p175
+aS'damage:395'
+p176
+aS'condemned:413'
+p177
+aS'attacks:415'
+p178
+aS'questioning:420'
+p179
+aS'suspect:422'
+p180
+aS'Chennai railway station:424'
+p181
+aS'attacks:449'
+p182
+aS'questioning:456'
+p183
+aS'suspect:458'
+p184
+aS'Chennai railway station:460'
+p185
+aS'immediate claim:475'
+p186
+asS'unexpl'
+p187
+(lp188
+g96
+asS'ocassion'
+p189
+g96
+sS'link'
+p190
+S'http://www.thehindu.com/todays-paper/tp-in-school/1-killed-14-hurt-in-chennai-train-blasts/article5967107.ece'
+p191
+sS'date'
+p192
+S'01-05-2014'
+p193
+sS'target'
+p194
+S'RAILWAY STATION'
+p195
+sS'hot_spot'
+p196
+g96
+sS'delivery_mod'
+p197
+g96
+sS'delivery_met'
+p198
+S'PLANTED'
+p199
+sS'expl'
+p200
+(lp201
+g96
+asS'ORG'
+p202
+(lp203
+(lp204
+S'Rajiv Gandhi General hospital'
+p205
+aS'264'
+p206
+aS'Others'
+p207
+aas.

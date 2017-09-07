@@ -1,0 +1,177 @@
+{
+    "LOC": [
+        [
+            "Nangloi", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Nirman Bhavan", 
+            "363", 
+            "Neutral"
+        ], 
+        [
+            "AIIMS", 
+            "417", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Pramod Kumar Chaurasia", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "E. Pratran", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "Ghulam Nabi Azad", 
+            "218", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:5", 
+        "Thursday:33", 
+        "Thursday morning:49", 
+        "Wednesday night:222"
+    ], 
+    "death": "", 
+    "title": "Death toll rises to 13, kin shun VIPs", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The death toll in Wednesday 's Delhi High Court blast has risen to 13 with the death of two more persons at the Ram Manohar Lohia ( RML ) Hospital here on Thursday . Forty-year-old Pramod Kumar Chaurasia , a resident of Nangloi , died of injuries on Thursday morning , while 58-year-old E. Pratran died late in the evening . Four persons are said to be in a very critical condition . We now have 12 injured patients under treatment in the surgical department and 19 in the intensive care unit . Most of the injuries are in the lower part of the body , said a senior RML Hospital official . Experts , if needed Over 75 people were injured in the blast and of them 57 were brought to the Lohia Hospital ; one person has been transferred to the All India Institute of Medical Sciences . The hospital will provide all care and facility to the victims . If needed , experts will be roped in from other cities to treat the victims , he added . Blast victims are also undergoing treatment at the Safdarjung Hospital and some private hospitals . Relatives angry At RML Hospital , angry relatives of the victims who shouted slogans against Union Health and Family Welfare Minister Ghulam Nabi Azad on Wednesday night maintained that they did not want political leaders visiting the hospital . Political leaders visiting the injured does not mean much , they just create confusion here and delay treatment being provided to the injured . They should , however , be working towards ensuring that the common man does not suffer and is able to live peacefully . We do n't want them in hospitals offering sympathy . We want the government to ensure that proper treatment is provided and that the relatives do n't have a problem at various hospitals , said a relative of a blast victim admitted at the RML Hospital . Emergency unit Meanwhile , the Union Health and Family Welfare Ministry has made functional an emergency medical relief unit ( in addition to control rooms functioning at RML and other hospitals ) at Nirman Bhavan to help people seeking information on patients admitted to various hospitals in the wake of bomb blast . The control room can be contacted at numbers 23061302 and 23061469 . Helpline numbers The emergency helpline numbers of the hospitals are : RML Hospital : 011-23348200 , 23404446 , 23743769 , 23404478 , AIIMS : 011-26588700 and Safdarjung Hospital : 011 - 26707444 OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "death toll:2", 
+        "blast:10", 
+        "death:17", 
+        "hospital:30", 
+        "forty-year-old:35", 
+        "resident:41", 
+        "morning:50", 
+        "evening:60", 
+        "condition:72", 
+        "treatment:81", 
+        "department:85", 
+        "care unit:91", 
+        "part:102", 
+        "body:105", 
+        "blast:125", 
+        "person:138", 
+        "hospital:152", 
+        "care:156", 
+        "facility:158", 
+        "treat:175", 
+        "blast:182", 
+        "treatment:187", 
+        "union health:212", 
+        "night:223", 
+        "hospital:234", 
+        "confusion:249", 
+        "delay treatment:252", 
+        "man:272", 
+        "offering sympathy:290", 
+        "government:296", 
+        "treatment:301", 
+        "problem:312", 
+        "blast victim:322", 
+        "emergency unit:330", 
+        "union health:335", 
+        "union health and family welfare ministry:335", 
+        "family welfare ministry:338", 
+        "emergency:345", 
+        "relief unit:347", 
+        "addition:351", 
+        "control:353", 
+        "rml:357", 
+        "nirman bhavan:363", 
+        "help:366", 
+        "information:369", 
+        "wake:378", 
+        "bomb blast:380", 
+        "control room:384", 
+        "helpline:395", 
+        "emergency helpline:398", 
+        "rml hospital:406"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/death-toll-rises-to-13-kin-shun-vips/article2437749.ece", 
+    "date": "07-09-2011", 
+    "target": "", 
+    "hot_spot": "Delhi High Court blast", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi High Court", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "Ram Manohar Lohia ( RML ) Hospital", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "RML Hospital", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "Lohia Hospital", 
+            "134", 
+            "Others"
+        ], 
+        [
+            "All India Institute of Medical Sciences", 
+            "144", 
+            "Others"
+        ], 
+        [
+            "Safdarjung Hospital", 
+            "190", 
+            "Others"
+        ], 
+        [
+            "RML Hospital", 
+            "200", 
+            "Others"
+        ], 
+        [
+            "RML Hospital", 
+            "327", 
+            "Others"
+        ], 
+        [
+            "RML Hospital", 
+            "406", 
+            "Others"
+        ], 
+        [
+            "Safdarjung Hospital", 
+            "421", 
+            "Others"
+        ]
+    ]
+}

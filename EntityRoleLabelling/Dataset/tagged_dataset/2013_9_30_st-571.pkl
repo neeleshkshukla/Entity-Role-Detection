@@ -1,0 +1,419 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Peshawar'
+p4
+aS'9'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Qissa Khwani bazar'
+p8
+aS'34'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Khyber Pakhtunkhwa'
+p12
+aS'58'
+p13
+aS'Event'
+p14
+aa(lp15
+S'KPK'
+p16
+aS'61'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Khan Raziq police station'
+p20
+aS'77'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Khyber Pakhtunkhwa'
+p24
+aS'322'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Peshawar'
+p28
+aS'350'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Khyber Pakhtunkhwa'
+p32
+aS'361'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Peshawar'
+p36
+aS'430'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Qissa Khwani bazar'
+p40
+aS'463'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Qissa Khwani'
+p44
+aS'544'
+p45
+aS'Event'
+p46
+aa(lp47
+S'British'
+p48
+aS'555'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Qissa Khwani bazar'
+p52
+aS'567'
+p53
+aS'Event'
+p54
+aa(lp55
+S'British'
+p56
+aS'579'
+p57
+aS'Neutral'
+p58
+aasS'PER'
+p59
+(lp60
+(lp61
+S'Shiraz Paracha'
+p62
+aS'51'
+p63
+aS'Comment'
+p64
+aa(lp65
+S'Imran Khan'
+p66
+aS'293'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Khan'
+p70
+aS'338'
+p71
+aS'Comment'
+p72
+aa(lp73
+S'Iqbal Zafar Jhagra'
+p74
+aS'392'
+p75
+aS'Comment'
+p76
+aa(lp77
+S'Mohammed Yusuf Khan'
+p78
+aS'526'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Dilip Kumar'
+p82
+aS'532'
+p83
+aS'Others'
+p84
+aasS'TIM'
+p85
+(lp86
+S'11 am : 142'
+p87
+asS'hot_setting'
+p88
+S''
+p89
+sS'DAT'
+p90
+(lp91
+S'Sunday : 47'
+p92
+aS'Sunday : 345'
+p93
+aS'Sunday : 420'
+p94
+aS'Friday : 443'
+p95
+aS'1930 : 479'
+p96
+aS'1930 : 557'
+p97
+aS'1930 : 581'
+p98
+asS'death'
+p99
+S'44'
+p100
+sS'title'
+p101
+S'44 killed, 90 injured in blast in Peshawar'
+p102
+sS'det_loc'
+p103
+(lp104
+S'Pakistan'
+p105
+ag89
+ag89
+aS'Peshawar'
+p106
+aS'Outside Khan Raziq police station in Qissa Khwani bazar'
+p107
+asS'terror_group'
+p108
+(lp109
+g89
+asS'content'
+p110
+S'For the third time in a week , Peshawar was brought to its knees , this time by a powerful 220-kg bomb in a car parked near a police station in the historic Qissa Khwani bazar , which killed 44 persons and injured over 90 on Sunday . According to Shiraz Paracha , the spokesperson for the Khyber Pakhtunkhwa ( KPK ) Chief Minister , the explosive was fitted into a Toyota Corolla and parked outside Khan Raziq police station at the entrance of the bazar . Ironically , the police station was named after an officer killed in a terrorist attack . Over 30 shops were destroyed . We are under tremendous pressure after the consecutive blasts and the government is formulating a strategy to counter these incidents , he said . Just as the shops were opening at around 11 am , the bomb detonated leaving those who were there shocked . It triggered another cylinder explosion in a nearby car , according to the police . The market was engulfed in a thick black cloud of smoke as cars and shops caught fire while panic spread . For the third time this week , Lady Reading hospital was confronted with an emergency situation . The government maintains that there is enough space and medical personnel available for treatment . The casualty department has 40 beds and is trying to cope with the fresh influx of the wounded . Police said the entire white Toyota car was fashioned into a bomb and a crater was formed at the site of the blast . Fire-fighters had to climb into the shops lining the road to douse the fires . This incident comes after Pakistan Tehreek e Insaf ( PTI ) chairperson Imran Khan suggested that the Taliban should be allowed to open an office in the country for talks for which he has been roundly criticised . PTI heads the Khyber Pakhtunkhwa provincial government which is now under fire for its lack of security . Mr. Khan , in a quick statement on Sunday , strongly condemned the Peshawar blast and assured the nation , especially the people of Khyber Pakhtunkhwa , that culprits will be punished . The ruling Pakistan Muslim League ( Nawaz ) too has condemned the blast as also other top leaders . Party secretary general Iqbal Zafar Jhagra said such acts of cowardice threatened the ongoing peace process , adding that the government was determined to exterminate all facets of terrorism . Last Sunday , two suicide bombers had attacked a church in Peshawar , not far from this bazaar , killing over 80 and on Friday a bomb went off in a bus carrying government employees , killing 19of them and injuring over 40 . Qissa Khwani bazar is known for a massacre of the Khudai Khidmatgars , by British in 1930 . They were gunned down during a non-violent protest . It is famous even now as a market of story tellers . It is said that caravans on a long journey used it as a resting spot . . It is also the birth place of Mohammed Yusuf Khan better known as Dilip Kumar . Car parked near a police station in the historic Qissa Khwani bazarBazar known for massacre of Khudai Khidmatgars by the British in 1930 Car parked near a police station in the historic Qissa Khwani bazar Bazar known for massacre of Khudai Khidmatgars by the British in 1930 OPEN'
+p111
+sS'injured'
+p112
+S'90'
+p113
+sS'org_unorg'
+p114
+S'ORGANISED'
+p115
+sS'O'
+p116
+(lp117
+S'third time:3'
+p118
+aS'powerful 220-kg bomb:20'
+p119
+aS'police station:29'
+p120
+aS'explosive:67'
+p121
+aS'toyota corolla:72'
+p122
+aS'bazar:86'
+p123
+aS'police station:91'
+p124
+aS'terrorist attack:101'
+p125
+aS'tremendous pressure:113'
+p126
+aS'consecutive blasts:117'
+p127
+aS'government:121'
+p128
+aS'strategy:125'
+p129
+aS'bomb:146'
+p130
+aS'triggered:156'
+p131
+aS'cylinder explosion:158'
+p132
+aS'thick black cloud of smoke:176'
+p133
+aS'fire:186'
+p134
+aS'panic:188'
+p135
+aS'emergency situation:205'
+p136
+aS'government maintains:209'
+p137
+aS'enough space:214'
+p138
+aS'medical personnel:217'
+p139
+aS'treatment:221'
+p140
+aS'casualty department:224'
+p141
+aS'white toyota car:246'
+p142
+aS'bomb:253'
+p143
+aS'crater was formed:256'
+p144
+aS'blast:264'
+p145
+aS'fire-fighters:266'
+p146
+aS'criticised:317'
+p147
+aS'blast:351'
+p148
+aS'culprits:365'
+p149
+aS'punished:368'
+p150
+aS'blast:382'
+p151
+aS'top leaders:386'
+p152
+aS'acts of cowardice:397'
+p153
+aS'ongoing peace process:402'
+p154
+aS'terrorism:417'
+p155
+aS'suicide bombers:423'
+p156
+aS'attacked a church:426'
+p157
+aS'bomb:445'
+p158
+aS'government employees:452'
+p159
+aS'massacre:470'
+p160
+aS'british:477'
+p161
+aS'non-violent protest:487'
+p162
+aS'story tellers:499'
+p163
+aS'caravans:506'
+p164
+aS'resting spot:515'
+p165
+aS'birth place:523'
+p166
+aS'police station:539'
+p167
+aS'massacre:549'
+p168
+aS'police station:562'
+p169
+aS'massacre:573'
+p170
+asS'unexpl'
+p171
+(lp172
+g89
+asS'ocassion'
+p173
+g89
+sS'link'
+p174
+S'http://www.thehindu.com/todays-paper/tp-international/44-killed-90-injured-in-blast-in-peshawar/article5183848.ece'
+p175
+sS'date'
+p176
+S'29-09-2013'
+p177
+sS'target'
+p178
+S'MARKET PLACE'
+p179
+sS'hot_spot'
+p180
+S'Outside Khan Raziq police station in the historic Qissa Khwani bazar'
+p181
+sS'delivery_mod'
+p182
+S'CAR'
+p183
+sS'delivery_met'
+p184
+S'PLANTED'
+p185
+sS'expl'
+p186
+(lp187
+g89
+asS'ORG'
+p188
+(lp189
+(lp190
+S'Lady Reading hospital'
+p191
+aS'198'
+p192
+aS'Others'
+p193
+aa(lp194
+S'Pakistan Tehreek e Insaf'
+p195
+aS'285'
+p196
+aS'Others'
+p197
+aa(lp198
+S'PTI'
+p199
+aS'290'
+p200
+aS'Others'
+p201
+aa(lp202
+S'Taliban'
+p203
+aS'298'
+p204
+aS'Others'
+p205
+aa(lp206
+S'PTI'
+p207
+aS'319'
+p208
+aS'Others'
+p209
+aa(lp210
+S'Pakistan Muslim League ( Nawaz )'
+p211
+aS'372'
+p212
+aS'Others'
+p213
+aa(lp214
+S'Khudai Khidmatgars'
+p215
+aS'473'
+p216
+aS'Assoc Victim'
+p217
+aa(lp218
+S'Khudai Khidmatgars'
+p219
+aS'551'
+p220
+aS'Assoc Victim'
+p221
+aa(lp222
+S'Khudai Khidmatgars'
+p223
+aS'575'
+p224
+aS'Assoc Victim'
+p225
+aas.

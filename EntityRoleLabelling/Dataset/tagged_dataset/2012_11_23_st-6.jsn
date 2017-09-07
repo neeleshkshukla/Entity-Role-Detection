@@ -1,0 +1,165 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Lajpat Nagar", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "South Delhi", 
+            "248", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "S. Ravindra Bhat", 
+            "88", 
+            "Comment"
+        ], 
+        [
+            "G.P. Mittal", 
+            "92", 
+            "Comment"
+        ], 
+        [
+            "S.P. Garg", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "Mohammed Naushad", 
+            "189", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Ali Bhatt", 
+            "192", 
+            "Accused"
+        ], 
+        [
+            "Mirza Nissar Hussain", 
+            "196", 
+            "Accused"
+        ], 
+        [
+            "Javed Ahmed Khan", 
+            "203", 
+            "Accused"
+        ], 
+        [
+            "Mirza Nissar Hussain", 
+            "215", 
+            "Accused"
+        ], 
+        [
+            "Mohd . Ali Bhatt", 
+            "219", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Naushad", 
+            "236", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 27", 
+        "2010 : 72", 
+        "2010 : 177", 
+        "1996 : 251"
+    ], 
+    "death": "13", 
+    "title": "Two death convicts acquitted in Lajpat Nagar blast case", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "Delhi", 
+        "Central Market, Lajpat Nagar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Pulling up the Delhi Police for grave prosecution lapses in the investigation of the 16-year-old Lajpat Nagar bomb blast case , the Delhi High Court on Thursday acquitted two death sentence convicts and commuted the capital punishment to life imprisonment for another . It , however , upheld the life term awarded to the fourth accused . All the four had been held guilty and sentenced by a lower court in 2010 . Coming down hard on the shoddy investigation , a Division Bench , comprising Justices S. Ravindra Bhat and G.P. Mittal , said : The nature of grave prosecution lapses , in regard to various issues such as lack of proof connecting some of the accused with the bomb incident , failure to hold TIP -LSB- Test Identification Parade -RSB- of articles and the accused , -LSB- and -RSB- not recording the statements of vital witnesses . underline not only its lapses and inefficiencies , but also throw up a question mark as to the nature and truthfulness of the evidence produced . In 2010 , Additional Sessions Judge S.P. Garg awarded the death sentence to Mohammed Naushad , Mohammed Ali Bhatt and Mirza Nissar Hussain and life imprisonment to Javed Ahmed Khan . The High Court set aside death sentence of Mirza Nissar Hussain and Mohd . Ali Bhatt and acquitted them of all charges . It commuted the death sentence of Mohammed Naushad to life imprisonment . The blast claimed 13 lives in South Delhi in 1996 . In this case , unfortunately , the police have shown casualness : Delhi High CourtGrave prosecution lapses cast doubt on nature of evidence produced In this case , unfortunately , the police have shown casualness : Delhi High Court Grave prosecution lapses cast doubt on nature of evidence produced DELHI HIGH COURT BLASTS POLICE FOR GRAVE LAPSES OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "grave prosecution lapses:7", 
+        "investigation:12", 
+        "16-year-old:15", 
+        "bomb blast:18", 
+        "two death sentence:29", 
+        "punishment:37", 
+        "life imprisonment:39", 
+        "awarded:52", 
+        "accused:56", 
+        "guilty:64", 
+        "sentenced:66", 
+        "lower court:69", 
+        "shoddy investigation:79", 
+        "division bench:83", 
+        "justices:87", 
+        "grave prosecution lapses:100", 
+        "issues:108", 
+        "bomb incident:121", 
+        "failure:124", 
+        "TIP:127", 
+        "Test Identification Parade:129", 
+        "witnesses:148", 
+        "lapses:154", 
+        "inefficiencies:156", 
+        "death sentence:212", 
+        "imprisonment:240", 
+        "casualness:263", 
+        "Delhi High Court Grave prosecution lapses:289", 
+        "DELHI HIGH COURT BLASTS:302"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/two-death-convicts-acquitted-in-lajpat-nagar-blast-case/article4125111.ece", 
+    "date": "21-05-1996", 
+    "target": "MARKET PLACE", 
+    "hot_spot": "Central Market, Lajpat Nagar", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi Police", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "208", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "289", 
+            "Others"
+        ], 
+        [
+            "DELHI HIGH COURT", 
+            "302", 
+            "Others"
+        ]
+    ]
+}

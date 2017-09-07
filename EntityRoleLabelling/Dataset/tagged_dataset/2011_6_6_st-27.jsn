@@ -1,0 +1,70 @@
+{
+    "LOC": [
+        [
+            "Pakistan", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Nowshera", 
+            "21", 
+            "Event"
+        ], 
+        [
+            "Khyber-Pukhtoonkhwa", 
+            "25", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday night:28", 
+        "Sunday night:28", 
+        "Sunday:28"
+    ], 
+    "death": "10", 
+    "title": "10 killed in blastin Pakistan", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Tehreek-e-Taliban"
+    ], 
+    "content": "At least 10 people were killed and double the number injured in a bomb blast at a bakery in the Nowshera area of the Khyber-Pukhtoonkhwa province on Sunday night . The Tehreek-e-Taliban Pakistan claimed responsibility for the blast . Anita Joshua OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Islamabad", 
+        "Nowshera area of the Khyber-Pukhtoonkhwa province"
+    ], 
+    "O": [
+        "bomb blast:14", 
+        "bakery:18", 
+        "nowshera area:21", 
+        "khyber-pukhtoonkhwa province:25", 
+        "responsibility:35", 
+        "Sunday night:28"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/10-killed-in-blastin-pakistan/article2080846.ece", 
+    "date": "06-06-2011", 
+    "target": "Market Place", 
+    "hot_spot": "Bakery", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Tehreek-e-Taliban Pakistan", 
+            "32", 
+            "Accused"
+        ]
+    ]
+}

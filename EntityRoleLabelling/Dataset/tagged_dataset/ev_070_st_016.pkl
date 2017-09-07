@@ -1,0 +1,579 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'HYDERABAD'
+p4
+aS'31'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Andhra Pradesh'
+p8
+aS'36'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Hyderabad'
+p12
+aS'55'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Mumbai'
+p16
+aS'127'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Bangalore'
+p20
+aS'129'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Hyderabad'
+p24
+aS'131'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Bangladesh'
+p28
+aS'151'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Andhra Pradesh'
+p32
+aS'228'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Mecca Masjid'
+p36
+aS'265'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Dubai'
+p40
+aS'413'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Hyderabad'
+p44
+aS'425'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Hyderabad'
+p48
+aS'634'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Pakistan'
+p52
+aS'649'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Gopalapuram police station'
+p56
+aS'659'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Delhi'
+p60
+aS'704'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Delhi'
+p64
+aS'719'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Pakistan'
+p68
+aS'730'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Hyderabad'
+p72
+aS'761'
+p73
+aS'Event'
+p74
+aasS'PER'
+p75
+(lp76
+(lp77
+S'K. Srinivas Reddy'
+p78
+aS'1'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Ibrahim'
+p82
+aS'639'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Ibrahims'
+p86
+aS'696'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Nafeeq'
+p90
+aS'712'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Ibrahim'
+p94
+aS'722'
+p95
+aS'Others'
+p96
+aa(lp97
+S'Kaleem'
+p98
+aS'726'
+p99
+aS'Others'
+p100
+aa(lp101
+S'Ibrahim'
+p102
+aS'744'
+p103
+aS'Others'
+p104
+aa(lp105
+S'Kaleem'
+p106
+aS'753'
+p107
+aS'Others'
+p108
+aa(lp109
+S'Ibrahim'
+p110
+aS'775'
+p111
+aS'Others'
+p112
+aasS'TIM'
+p113
+(lp114
+S'two months : 258'
+p115
+aS'day : 418'
+p116
+asS'hot_setting'
+p117
+S''
+p118
+sS'DAT'
+p119
+(lp120
+S'2005 : 694'
+p121
+asS'death'
+p122
+g118
+sS'title'
+p123
+S'Why did police ignore IB alert?'
+p124
+sS'org_unorg'
+p125
+g118
+sS'terror_group'
+p126
+(lp127
+g118
+asS'content'
+p128
+VK. Srinivas Reddy . . It was too vague : police top brass . . Alert based on telephone surveillance . . No wherewithal to track web-based communication . . HYDERABAD : Why did the Andhra Pradesh police ignore the specific alert by the Intelligence Bureau about the possibility of a terror strike in Hyderabad ? . . The immediate answer from the police top brass to this disturbing query is that the IB alert to the State police intelligence wing was too vague and not apparently considered an actionable intelligence input . . . The alert , according to reliable sources , was based on telephone surveillance of suspects and had warned that the ISI-backed fundamentalist modules could take up some sensational terrorist acts in Mumbai , Bangalore and/or Hyderabad . The alert had also indicated that the modules were waiting for two or three people to come from Bangladesh -LSB- for organising blasts -RSB- . . . Such alerts are brought to the notice of the top brass of the city and state police and especially the Counter Intelligence -LRB- CI -RRB- cell which monitors the terrorist activities . What follow-up action could have been initiated over such a vague alert is the question now doing the rounds , even as a political storm continues to rage over the IB alert being neglected by the Andhra Pradesh police . . . Knowledgeable sources privy to the back-end operations say that some proactive action should have been there considering that such an alert had come just two months after the bomb blast in Mecca Masjid which killed nine persons and five more in the consequent police firing in the old city to quell riotous mobs . . . Actionable angle . . The follow-up could have been getting back to the IB posing questions on what the actionable angle was in the alert . Senior police officers recall that there were many instances when the State intelligence officials got back to the IB seeking more information on the actionable angle and following it up with patience , many a time leading to success . . . Remarkable work . . The much-criticised Counter Intelligence -LRB- CI -RRB- cell had indeed turned out some remarkable work in recent times , the latest being the busting of an international counterfeit currency racket leading to the seizure of Pakistani-printed Indian currency worth Rs . 2.36 crore and the arrest of four persons including a Dubai national on the same day when the twin bombs exploded in Hyderabad . . . However , officials concede that the competency of the CI cell would depend on many parameters . When the fundamentalist organisations were increasingly depending on the Internet , while discarding mobile telephones for communication , the intelligence wing does not have the wherewithal to track web-based communication . Compounding this , maintaining physical surveillance on suspects has almost been given up for a variety of reasons . . . Three factors . . Then why this marked disinterest in the alert about the possibility of a terror strike ? Police officials attribute this to three major factors . Firstly , a general disinterest among the police , especially those involved in counter intelligence work following a soft stand adopted by the government towards fundamentalists for political reasons ; insensitivity and ignorance of the police top brass towards the nature of counter intelligence work ; and the general tendency of the police department to ignore the security needs of officers who have been exposed to threats from the modules . . . With such a perception strengthening , officers take things easy and the result is there for everyone to see , a senior police officer says . Another top officer recalls a particular episode when Hyderabad police took into custody Ibrahim , on suspicion that he had been trained in Pakistan . He was booked in a petty case in Gopalapuram police station , after a perfunctory questioning session . . . Role comes to light . . But after the suicide bomb attack on the task force office near the Chief Ministers residence in 2005 , Ibrahims role in it came to light in Delhi , when police arrested an ISI agent Nafeeq . This subversive agent told the Delhi police about Ibrahim and another Bangladeshi Kaleem having gone to Pakistan for training . . . Confession . . During a closer interrogation of Ibrahim subsequently , he confessed that he knew about Kaleem being enlisted for some sensational action in Hyderabad . And he turned out to be the suicide bomber . If only Ibrahim had been interrogated properly , the suicide bombing could have been averted , an officer , on condition of anonymity , says .
+p129
+sS'injured'
+p130
+g118
+sS'det_loc'
+p131
+(lp132
+S'India'
+p133
+aS'Andhra Pradesh'
+p134
+ag118
+aS'Hyderabad'
+p135
+ag118
+asS'O'
+p136
+(lp137
+S'police top brass:11'
+p138
+aS'telephone surveillance:19'
+p139
+aS'track:26'
+p140
+aS'web-based communication:27'
+p141
+aS'ignore:39'
+p142
+aS'alert:42'
+p143
+aS'terror strike:52'
+p144
+aS'top brass:65'
+p145
+aS'query:70'
+p146
+aS'alert:75'
+p147
+aS'State police intelligence wing:78'
+p148
+aS'vague:84'
+p149
+aS'intelligence input:91'
+p150
+aS'alert:97'
+p151
+aS'reliable sources:101'
+p152
+aS'telephone surveillance:107'
+p153
+aS'suspects:110'
+p154
+aS'warned:113'
+p155
+aS'ISI-backed fundamentalist modules:116'
+p156
+aS'terrorist acts:124'
+p157
+aS'alert:134'
+p158
+aS'modules:140'
+p159
+aS'two or three people:144'
+p160
+aS'alerts:161'
+p161
+aS'top brass:169'
+p162
+aS'city:173'
+p163
+aS'monitors:187'
+p164
+aS'terrorist activities:189'
+p165
+aS'vague alert:202'
+p166
+aS'political storm:215'
+p167
+aS'alert:223'
+p168
+aS'privy:236'
+p169
+aS'back-end operations:239'
+p170
+aS'proactive action:244'
+p171
+aS'alert:254'
+p172
+aS'bomb blast:262'
+p173
+aS'killed nine persons:268'
+p174
+aS'firing:278'
+p175
+aS'quell riotous mobs:284'
+p176
+aS'questions:305'
+p177
+aS'actionable angle:309'
+p178
+aS'alert:314'
+p179
+aS'recall:319'
+p180
+aS'State intelligence:327'
+p181
+aS'information:337'
+p182
+aS'actionable angle:340'
+p183
+aS'patience:347'
+p184
+aS'success:354'
+p185
+aS'Remarkable work:358'
+p186
+aS'remarkable work:375'
+p187
+aS'international counterfeit:388'
+p188
+aS'currency racket:390'
+p189
+aS'Pakistani-printed:397'
+p190
+aS'Indian currency:398'
+p191
+aS'Rs . 2.36 crore:401'
+p192
+aS'arrest:407'
+p193
+aS'four persons:409'
+p194
+aS'twin bombs exploded:421'
+p195
+aS'competency:435'
+p196
+aS'parameters:444'
+p197
+aS'fundamentalist organisations:448'
+p198
+aS'Internet:455'
+p199
+aS'telephones:460'
+p200
+aS'communication:462'
+p201
+aS'intelligence:465'
+p202
+aS'track web-based communication:473'
+p203
+aS'surveillance:482'
+p204
+aS'suspects:484'
+p205
+aS'Three factors:498'
+p206
+aS'alert:509'
+p207
+aS'terror strike:515'
+p208
+aS'three major factors:523'
+p209
+aS'counter intelligence work:540'
+p210
+aS'soft stand:545'
+p211
+aS'fundamentalists:552'
+p212
+aS'insensitivity:557'
+p213
+aS'ignorance:559'
+p214
+aS'top brass:563'
+p215
+aS'counter intelligence work:569'
+p216
+aS'general tendency:575'
+p217
+aS'police department:579'
+p218
+aS'ignore:582'
+p219
+aS'security needs:584'
+p220
+aS'exposed:591'
+p221
+aS'modules:596'
+p222
+aS'perception strengthening:603'
+p223
+aS'particular episode:631'
+p224
+aS'custody:638'
+p225
+aS'suspicion:642'
+p226
+aS'trained:647'
+p227
+aS'petty case:656'
+p228
+aS'perfunctory questioning session:665'
+p229
+aS'suicide bomb attack:680'
+p230
+aS'task force office:685'
+p231
+aS'arrested:708'
+p232
+aS'Bangladeshi Kaleem:725'
+p233
+aS'training:732'
+p234
+aS'Confession:736'
+p235
+aS'interrogation:742'
+p236
+aS'suicide bomber:770'
+p237
+aS'suicide bombing:782'
+p238
+aS'anonymity:795'
+p239
+asS'unexpl'
+p240
+(lp241
+g118
+asS'ocassion'
+p242
+g118
+sS'link'
+p243
+S'http://www.thehindu.com/todays-paper/why-did-police-ignore-ib-alert/article1900939.ece'
+p244
+sS'date'
+p245
+S'25-08-2007'
+p246
+sS'target'
+p247
+S'CITY'
+p248
+sS'hot_spot'
+p249
+g118
+sS'delivery_mod'
+p250
+g118
+sS'delivery_met'
+p251
+S'PLANTED'
+p252
+sS'expl'
+p253
+(lp254
+g118
+asS'ORG'
+p255
+(lp256
+(lp257
+S'Intelligence Bureau'
+p258
+aS'45'
+p259
+aS'Others'
+p260
+aa(lp261
+S'IB'
+p262
+aS'74'
+p263
+aS'Others'
+p264
+aa(lp265
+S'Counter Intelligence'
+p266
+aS'180'
+p267
+aS'Others'
+p268
+aa(lp269
+S'CI'
+p270
+aS'183'
+p271
+aS'Others'
+p272
+aa(lp273
+S'IB'
+p274
+aS'222'
+p275
+aS'Others'
+p276
+aa(lp277
+S'IB'
+p278
+aS'303'
+p279
+aS'Others'
+p280
+aa(lp281
+S'IB'
+p282
+aS'334'
+p283
+aS'Others'
+p284
+aa(lp285
+S'Counter Intelligence'
+p286
+aS'364'
+p287
+aS'Others'
+p288
+aa(lp289
+S'CI'
+p290
+aS'367'
+p291
+aS'Others'
+p292
+aa(lp293
+S'CI'
+p294
+aS'438'
+p295
+aS'Others'
+p296
+aa(lp297
+S'Hyderabad police'
+p298
+aS'634'
+p299
+aS'Others'
+p300
+aa(lp301
+S'ISI'
+p302
+aS'710'
+p303
+aS'Others'
+p304
+aa(lp305
+S'Delhi police'
+p306
+aS'719'
+p307
+aS'Others'
+p308
+aas.

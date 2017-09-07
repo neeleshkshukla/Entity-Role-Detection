@@ -1,0 +1,136 @@
+{
+    "LOC": [
+        [
+            "Malleswaram", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Madurai", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "58", 
+            "Neutral"
+        ], 
+        [
+            "Nesarmani", 
+            "76", 
+            "Neutral"
+        ], 
+        [
+            "Nagercoil", 
+            "79", 
+            "Neutral"
+        ], 
+        [
+            "Madurai", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "117", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shaleen", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Buhari", 
+            "40", 
+            "Accused"
+        ], 
+        [
+            "Shaleen", 
+            "113", 
+            "Accused"
+        ], 
+        [
+            "Buhari", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "Basheer", 
+            "141", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "next day : 48", 
+        "four days : 144"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "April 17:14", 
+        "Saturday:25", 
+        "April 22:42", 
+        "Saturday:96"
+    ], 
+    "death": "", 
+    "title": "Police take 11th blast suspect into custody", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        "Malleswaram"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Central Crime Branch picked up the 11th suspect in connection with the April 17 Malleswaram bomb blast case , from Madurai prison on Saturday . Shaleen ( 35 ) was picked up by the police along with Kitchen Buhari on April 22 and let off the next day . He was then picked up by the Tamil Nadu police in connection with the attack on a local BJP worker and handed over to the Nesarmani police in Nagercoil town where he was remanded in judicial custody and lodged in the Madurai prison . On Saturday , a team of police picked him up to question his role in the blast . Shaleen was brought to Bangalore and produced before the 1st Additional Chief Metropolitan Magistrate and taken into 14 days custody . The police also produced Kitchen Buhari and Basheer and got four days custody . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "11th suspect:8", 
+        "malleswaram bomb blast case:16", 
+        "madurai prison:22", 
+        "kitchen buhari:39", 
+        "tamil nadu police:58", 
+        "attack:65", 
+        "bjp worker:69", 
+        "nesarmani police:76", 
+        "nagercoil town:79", 
+        "judicial custody:86", 
+        "lodged:89", 
+        "madurai prison:92", 
+        "blast:111", 
+        "1st additional chief metropolitan:122", 
+        "1st additional chief metropolitan magistrate:122", 
+        "magistrate:126", 
+        "14 days custody:130"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/police-take-11th-blast-suspect-into-custody/article4729109.ece", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Central Crime Branch", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "69", 
+            "Others"
+        ]
+    ]
+}

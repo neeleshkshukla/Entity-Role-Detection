@@ -1,0 +1,136 @@
+{
+    "LOC": [
+        [
+            "Manipur", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Ghari", 
+            "33", 
+            "Accused Location"
+        ], 
+        [
+            "Imphal West", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Tulihal airport", 
+            "50", 
+            "Accused Location"
+        ], 
+        [
+            "Thoubal", 
+            "107", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "161", 
+            "Neutral"
+        ], 
+        [
+            "Manipur", 
+            "176", 
+            "Neutral"
+        ], 
+        [
+            "Imphal", 
+            "201", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "G. Gaikhangam", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "Yumnam Joykumar", 
+            "216", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "10 a.m.:38"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday morning:23", 
+        "September 5 : 154", 
+        "Wednesday : 188", 
+        "December 31:235"
+    ], 
+    "death": "", 
+    "title": "Five hurt in bomb blasts in Imphal West, Thoubal", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Thoubal", 
+        "thoubal", 
+        "Ghari in Imphal West"
+    ], 
+    "terror_group": [
+        "CORCOM"
+    ], 
+    "content": "At least five persons , including a woman , were wounded in bomb blasts triggered by militants in two Manipur districts on Wednesday morning . In the first incident at reported at Ghari in Imphal West at 10 a.m. , personnel of 18 Sikh Regiment , deployed at the Tulihal airport , were collecting drinking water , when a bomb was exploded with a remote control . Two of the personnel , a woman , a student and a driver were wounded . Hospital sources said they were out of danger . Two more bombs exploded nearby in quick succession and two others went off in Thoubal district , targeting security personnel . But there was no casualty . No claim from underground outfits Though there has been no claim from any underground outfit , militants of seven militant organisations , which have formed the CorCom , have been attacking security personnel since September 5 . Migrant workers start leaving Manipur Meanwhile , following a fiat from the CorCom , migrant workers have started leaving Manipur , hoping to come back once normality is restored . On Wednesday , over 150 of them vacated their rented houses in and around Imphal city . Home Minister G. Gaikhangam is in touch with Director General of Police Yumnam Joykumar , asking him to open relief camps for the insecure workers . The CorCom has set a December 31 deadline for the migrant workers to leave the State . In the past , they could not get meaningful protection . Moreover , being daily wage earners they could not remain in relief camps in the city indefinitely . OPEN", 
+    "injured": "8", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "sikh regiment:44", 
+        "drinking water:55", 
+        "hospital:84", 
+        "home minister:204", 
+        "director general:212", 
+        "migrant:240", 
+        "relief:269", 
+        "city:273"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/five-hurt-in-bomb-blasts-in-imphal-west-thoubal/article4075705.ece", 
+    "date": "07-11-2012", 
+    "target": "POLICE AND DEFENCE FORCES", 
+    "hot_spot": "Ghari in Imphal West", 
+    "delivery_mod": "ROADSIDE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "18 Sikh Regiment", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "militant", 
+            "139", 
+            "Others"
+        ], 
+        [
+            "CorCom", 
+            "146", 
+            "Accused"
+        ], 
+        [
+            "CorCom", 
+            "169", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "CorCom", 
+            "231", 
+            "Accused"
+        ]
+    ]
+}

@@ -1,0 +1,212 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsukhnagar'
+p4
+aS'65'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Varanasi'
+p8
+aS'84'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Mumbai'
+p12
+aS'92'
+p13
+aS'Assoc Event Location'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Mohammed Tahseen Akhtar'
+p18
+aS'29'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Monu'
+p22
+aS'33'
+p23
+aS'Accused'
+p24
+aa(lp25
+S'Waqas'
+p26
+aS'35'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Javed'
+p30
+aS'37'
+p31
+aS'Accused'
+p32
+aasS'TIM'
+p33
+(lp34
+sS'hot_setting'
+p35
+S''
+p36
+sS'DAT'
+p37
+(lp38
+S'February 21 : 63'
+p39
+aS'2010 : 86'
+p40
+aS'2011 : 94'
+p41
+asS'death'
+p42
+g36
+sS'title'
+p43
+S'Rs. 10 lakh reward for info on two IM operatives'
+p44
+sS'org_unorg'
+p45
+g36
+sS'terror_group'
+p46
+(lp47
+g36
+asS'content'
+p48
+S'The National Investigation Agency ( NIA ) has announced a reward of Rs . 10lakh for furnishing information about two operatives of Indian Mujahideen ( IM ) -- Mohammed Tahseen Akhtar alias Monu and Waqas alias Javed -- for their alleged involvement in a series of bomb blasts that took place across the country . The duo was also involved in the February 21 Dilsukhnagar twin blasts . They were also responsible for planning and executing several terrorist acts , including blasts at Varanasi ( 2010 ) and serial blasts at Mumbai ( 2011 ) and others . They may also be plotting terrorist strikes in future , NIA officials said . Any information relating to the two persons may be given to the email sp10.nia@gov.in, phone : 011-23438200 and +91-854084821 6 . OPEN'
+p49
+sS'injured'
+p50
+g36
+sS'det_loc'
+p51
+(lp52
+S'India'
+p53
+aS'Andhra Pradesh'
+p54
+ag36
+aS'Hydrabad'
+p55
+ag36
+asS'O'
+p56
+(lp57
+S'announced a reward:9'
+p58
+aS'Rs . 10lakh:13'
+p59
+aS'furnishing information:17'
+p60
+aS'two operatives:20'
+p61
+aS'alleged involvement:41'
+p62
+aS'series of bomb blasts:45'
+p63
+aS'Dilsukhnagar twin blasts:65'
+p64
+aS'planning:74'
+p65
+aS'executing:76'
+p66
+aS'terrorist acts:78'
+p67
+aS'blasts:82'
+p68
+aS'serial blasts:89'
+p69
+aS'plotting terrorist strikes:103'
+p70
+aS'email sp10.nia@gov.in:125'
+p71
+aS'011-23438200:129'
+p72
+aS'+91-854084821 6:131'
+p73
+asS'unexpl'
+p74
+(lp75
+g36
+asS'ocassion'
+p76
+g36
+sS'link'
+p77
+S'http://www.thehindu.com/todays-paper/tp-national/rs-10-lakh-reward-for-info-on-two-im-operatives/article5166048.ece'
+p78
+sS'date'
+p79
+S'21-02-2013'
+p80
+sS'target'
+p81
+S'TOWN'
+p82
+sS'hot_spot'
+p83
+S'Dilshuknagar'
+p84
+sS'delivery_mod'
+p85
+g36
+sS'delivery_met'
+p86
+S'PLANTED'
+p87
+sS'expl'
+p88
+(lp89
+g36
+asS'ORG'
+p90
+(lp91
+(lp92
+S'National Investigation Agency'
+p93
+aS'2'
+p94
+aS'Others'
+p95
+aa(lp96
+S'NIA'
+p97
+aS'6'
+p98
+aS'Others'
+p99
+aa(lp100
+S'Indian Mujahideen'
+p101
+aS'23'
+p102
+aS'Accused'
+p103
+aa(lp104
+S'IM'
+p105
+aS'26'
+p106
+aS'Accused'
+p107
+aa(lp108
+S'NIA'
+p109
+aS'109'
+p110
+aS'Others'
+p111
+aas.

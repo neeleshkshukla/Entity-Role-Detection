@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "Sivasagar", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Dibrugarh", 
+            "70", 
+            "Neutral"
+        ], 
+        [
+            "Sivasagar", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "Central Market", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "Lakshmi Talkies", 
+            "132", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Paresh Barua", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "G. D. Tripathi", 
+            "52", 
+            "Comment"
+        ], 
+        [
+            "Mr. Tripathi", 
+            "115", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:23"
+    ], 
+    "death": "1", 
+    "title": "One killed as bomb goes off in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Sivasagar", 
+        "", 
+        "between Central Market and Lakshmi Talkies"
+    ], 
+    "terror_group": [
+        "United Liberation Front of Assam (ULFA"
+    ], 
+    "content": "One person was killed and seven injured when a bicycle-bomb went off outside a cinema hall in Upper Assams Sivasagar town on Monday night . Police suspect that the blast was the handiwork of the Paresh Barua faction of the United Liberation Front of Asom ( ULFA ) . Home Secretary G. D. Tripathi told The Hindu that one critically injured person was shifted to Assam Medical College in Dibrugarh , while the others were admitted to hospitals in Sivasagar town . It is suspected that an improvised explosive device was used . Had the blast occurred in the evening when the place is crowded , there would have been many more casualties , Mr. Tripathi said . PTI reports : Police said the blast was triggered between Central Market and Lakshmi Talkies in the heart of the town . OPEN", 
+    "injured": "7", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bicycle-bomb:10", 
+        "cinema hall:15", 
+        "town:21", 
+        "suspect:27", 
+        "blast:30", 
+        "handiwork:33", 
+        "home secretary:50", 
+        "person:62", 
+        "town:81", 
+        "improvised explosive device:88", 
+        "evening:100", 
+        "place:103", 
+        "blast:125"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/one-killed-as-bomb-goes-off-in-assam/article3934144.ece", 
+    "date": "24-09-2012", 
+    "target": "Market Place", 
+    "hot_spot": "", 
+    "delivery_mod": "Bicycle", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "United Liberation Front of Asom", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "ULFA", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "Assam Medical College", 
+            "66", 
+            "Others"
+        ]
+    ]
+}

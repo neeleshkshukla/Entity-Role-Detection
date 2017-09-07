@@ -1,0 +1,171 @@
+{
+    "LOC": [
+        [
+            "Chinnaswamy", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "stadium", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "stadium", 
+            "96", 
+            "Event"
+        ], 
+        [
+            "Tumkur", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "178", 
+            "Neutral"
+        ], 
+        [
+            "Tumkur", 
+            "198", 
+            "Neutral"
+        ], 
+        [
+            "Tumkur", 
+            "209", 
+            "Neutral"
+        ], 
+        [
+            "Tumkur", 
+            "221", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Raghavendra Auradkar", 
+            "3", 
+            "Comment"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "87", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "133", 
+            "Accused"
+        ], 
+        [
+            "Alok Kumar", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "Bhaktal", 
+            "234", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Yasin", 
+            "253", 
+            "Accused", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "early hours : 103", 
+        "a day : 158"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:6", 
+        "2010 : 15", 
+        "April 17 , 2010 : 62"
+    ], 
+    "death": "", 
+    "title": "Yasin kingpin in stadium blast case: Auradkar", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Police Commissioner Raghavendra Auradkar on Thursday said that Yasin Bhatkal was involved in the 2010 Chinnaswamy Stadium bomb blast case here and a team would be sent to secure his custody for questioning . As many as 15 persons and six policemen were injured when two bombs exploded at the stadium where an IPL cricket match was to be played on April 17 , 2010 . Another unexploded bomb was found at one of the gates and defused by the police . Police investigation revealed that Yasin Bhatkal and his associates had come to the stadium and planted the bombs in the early hours . A policeman , who noticed them moving suspiciously , chased them away believing that they were rag-pickers . The police , who claimed to have pinpointed the Yasin Bhatkal modules involvement in the case , had traced it to Tumkur , where he and his associates were believed to have stayed for a day in a rented house and assembled the bomb . They were believed to have carried the bombs to Bangalore , according to Alok Kumar , Joint Commissioner of Police . Police believe that the bombs were fabricated in Tumkur as they were wrapped in a Kannada newspaper published from Tumkur and hence concluded that the bombs could have been fabricated in Tumkur . However , they could not identify the house . Now that Bhaktal is in custody , police investigators hope to identify the house and those who provided logistic support to Yasin . OPEN", 
+    "injured": "21", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        ""
+    ], 
+    "O": [
+        "Chinnaswamy Stadium bomb blast:16", 
+        "secure:29", 
+        "custody:31", 
+        "questioning:33", 
+        "15 persons:38", 
+        "six policemen:41", 
+        "injured:44", 
+        "two bombs exploded:46", 
+        "IPL cricket match:54", 
+        "played:60", 
+        "unexploded bomb:68", 
+        "found:71", 
+        "gates:76", 
+        "defused:78", 
+        "investigation:84", 
+        "revealed:85", 
+        "planted:98", 
+        "bombs:100", 
+        "noticed:110", 
+        "moving suspiciously:112", 
+        "chased:115", 
+        "believing:118", 
+        "rag-pickers:122", 
+        "claimed:128", 
+        "pinpointed:131", 
+        "modules:135", 
+        "involvement:136", 
+        "case:139", 
+        "traced:142", 
+        "believed:153", 
+        "stayed:156", 
+        "rented house:162", 
+        "assembled the bomb:165", 
+        "believed:171", 
+        "bombs:176", 
+        "wrapped:202", 
+        "Kannada newspaper:205", 
+        "published:207", 
+        "concluded:212", 
+        "bombs:215", 
+        "fabricated:219", 
+        "identify:228", 
+        "custody:237", 
+        "investigators:240", 
+        "hope:241", 
+        "identify:243", 
+        "provided logistic support:249"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/yasin-kingpin-in-stadium-blast-case-auradkar/article5073915.ece", 
+    "date": "29-08-2013", 
+    "target": "STADIUM", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

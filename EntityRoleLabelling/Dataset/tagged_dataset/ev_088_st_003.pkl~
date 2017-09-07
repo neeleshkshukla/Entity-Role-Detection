@@ -1,0 +1,504 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Jangli Maharaj road'
+p4
+aS'35'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Pune'
+p8
+aS'50'
+p9
+aS'Event'
+p10
+aa(lp11
+S'J M road'
+p12
+aS'68'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Sai Service petrol pump'
+p16
+aS'94'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'German Bakery'
+p20
+aS'231'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'J M road'
+p24
+aS'255'
+p25
+aa(lp26
+S'Kondhwa'
+p27
+aS'267'
+p28
+aS'Accused Location'
+p29
+aa(lp30
+S'J M road'
+p31
+aS'363'
+p32
+aa(lp33
+S'Mumbai'
+p34
+aS'406'
+p35
+aS'Neutral'
+p36
+aa(lp37
+S'Pune:465'
+p38
+aS'Accused Location'
+p39
+aS'Neutral'
+p40
+aa(lp41
+S'Mangalore'
+p42
+aS'467'
+p43
+aS'Neutral'
+p44
+aa(lp45
+S'Pakistan'
+p46
+aS'475'
+p47
+aS'Neutral'
+p48
+aa(lp49
+S'Mumbai'
+p50
+aS'488'
+p51
+aS'Assoc Event Location'
+p52
+aa(lp53
+S'Mumbai'
+p54
+aS'511'
+p55
+aS'Source'
+p56
+aa(lp57
+S'Delhi'
+p58
+aS'517'
+p59
+aS'Neutral'
+p60
+aa(lp61
+S'Nangloi'
+p62
+aS'544'
+p63
+aS'Accused Location'
+p64
+aa(lp65
+S'Selaiyur'
+p66
+aS'594'
+p67
+aS'Accused Location'
+p68
+aa(lp69
+S'Chennai'
+p70
+aS'596'
+p71
+aS'Accused Location'
+p72
+aa(lp73
+S'Delhi'
+p74
+aS'599'
+p75
+aS'Neutral'
+p76
+aasS'PER'
+p77
+(lp78
+(lp79
+S'Yasin Bhatkal'
+p80
+aS'12'
+p81
+aS'Accused'
+p82
+aa(lp83
+S'Yasin'
+p84
+aS'83'
+p85
+aS'Accused'
+p86
+aa(lp87
+S'Yasin Bhatkal'
+p88
+aS'167'
+p89
+aS'Accused'
+p90
+aa(lp91
+S'Siddibappa'
+p92
+aS'184'
+p93
+aS'Assoc Accused'
+p94
+aa(lp95
+S'Shahrukh'
+p96
+aS'186'
+p97
+aS'Assoc Accused'
+p98
+aa(lp99
+S'Yasin'
+p100
+aS'188'
+p101
+aS'Accused'
+p102
+aa(lp103
+S'Mohsin Chaudhury'
+p104
+aS'269'
+p105
+aS'Assoc Accused'
+p106
+aa(lp107
+S'Yasin'
+p108
+aS'301'
+p109
+aS'Accused'
+p110
+aa(lp111
+S'Yasin'
+p112
+aS'333'
+p113
+aS'Accused'
+p114
+aa(lp115
+S'Amitesh Kumar'
+p116
+aS'373'
+p117
+aS'Comment'
+p118
+aa(lp119
+S'Yasin Bhatkal'
+p120
+aS'400'
+p121
+aS'Accused'
+p122
+aa(lp123
+S'Yasin'
+p124
+aS'415'
+p125
+aS'Others'
+p126
+aa(lp127
+S'Yasin'
+p128
+aS'450'
+p129
+aS'Accused'
+p130
+aa(lp131
+S'Mohammed Adil'
+p132
+aS'527'
+p133
+aS'Assoc Accused'
+p134
+aS'Others'
+p135
+aa(lp136
+S'Mohammed Qateel Siddiqui'
+p137
+aS'530'
+p138
+aS'Assoc Accused'
+p139
+aa(lp140
+S'Gauhar Aziz Khomani'
+p141
+aS'534'
+p142
+aS'Assoc Accused'
+p143
+aa(lp144
+S'Gayoor Jamali'
+p145
+aS'538'
+p146
+aS'Assoc Accused'
+p147
+aa(lp148
+S'Yasin'
+p149
+aS'555'
+p150
+aS'Accused'
+p151
+aa(lp152
+S'Mohammed Irshad Khan'
+p153
+aS'560'
+p154
+aS'Assoc Accused'
+p155
+aa(lp156
+S'Yasin'
+p157
+aS'582'
+p158
+aS'Others'
+p159
+aa(lp160
+S'Irshad Khan'
+p161
+aS'586'
+p162
+aS'Others'
+p163
+aa(lp164
+S'Irshad'
+p165
+aS'606'
+p166
+aS'Assoc Accused'
+p167
+aa(lp168
+S'Yasin'
+p169
+aS'609'
+p170
+aS'Others'
+p171
+aasS'TIM'
+p172
+(lp173
+S'3 pm : 142'
+p174
+asS'hot_setting'
+p175
+S''
+p176
+sS'DAT'
+p177
+(lp178
+S'August:39'
+p179
+aS'August 1:39'
+p180
+aS'2008:220'
+p181
+aS'February:234'
+p182
+aS'February 13 , 2010 : 234'
+p183
+aS'2010:237'
+p184
+aS'2008:284'
+p185
+aS'2008:457'
+p186
+aS'November:514'
+p187
+asS'death'
+p188
+g176
+sS'title'
+p189
+S'Yasin Bhatkal one of the August 1 Pune bombers?'
+p190
+sS'det_loc'
+p191
+(lp192
+S'India'
+p193
+aS'Maharashtra'
+p194
+aS'Pune'
+p195
+ag176
+ag176
+asS'terror_group'
+p196
+(lp197
+S'INDIAN MUJAHIDEEN'
+p198
+asS'content'
+p199
+VPUNE : Investigators suspect that Indian Mujahideen -LRB- IM -RRB- operative Yasin Bhatkal , the man most wanted for a string of terror attacks across the country , planted one of the bombs on Jangli Maharaj road on August 1 , around four hours before four low-intensity blasts rocked Pune . Sources told TOI that the investigators , while inspecting CCTV foot-age collected from various establishments on J M road , zeroed in on a man , bearing a strong resemblance to Yasin , coming on a bicycle and parking it opposite the Sai Service petrol pump . The bomb , which was placed in a basket strapped on to the handle of the bicycle , did not go off . The bomb disposal squad later defused the explosive . ` The footage showed that after parking the bicycle there around 3 pm , the man left the spot quickly . After minutely going through the footage , the investigators strongly suspect the man to be Yasin Bhatkal , ' sources said . A key IM operative who also operates under the aliases Siddibappa and Shahrukh , Yasin is wanted for the German Bakery blast in which 17 people were killed , apart from several other blasts across the country . He has managed to evade the police since 2008 . His image was also captured on CCTV at the German Bakery on February 13 , 2010 . Sources said the investigators have identified three more persons who they suspect are involved in the J M road blasts . One of them is believed to be Kondhwa resident Mohsin Chaudhury , another key IM operative , who has been on the run since 2008 . The investigators ' strong suspicion that the man seen in the CCTV footage could be Yasin is strengthened by the fact that the IM operative is known to personally go to sites of the different blasts he is believed to have engineered across the country . ` Yasin is known to himself direct terror attacks and provide support to other bomb planters . The investigators are also examining the CCTV footage of a few days before the J M road blasts , ' the sources said . Amitesh Kumar , additional commissioner of police of the state anti-terrorism squad , said , ' I do n't have any such information about the man -LRB- Yasin Bhatkal -RRB- . ' In Mumbai , sources from the security establishment said that Yasin is a ` weird person ' who is capable of planting the bombs himself . ` But in this case , we are not sure as of now , ' an official said . Yasin 's name first came up in 2008 after the arrest of IM operatives from Pune and Mangalore . Investigators said he had gone to Pakistan for terror training and knows how to assemble bombs . In the Mumbai 13/7 serial blasts , the investigators suspected Yasin of having personally given explosives and detonators to his aides to be delivered to Mumbai . In November 2011 , Delhi Police arrested four IM men , including Pakistani national Mohammed Adil , Mohammed Qateel Siddiqui , Gauhar Aziz Khomani and Gayoor Jamali from the capital 's Nangloi area . During interrogation , they told the police that Yasin and his father-in-law , Mohammed Irshad Khan , had fled the place immediately after news of the arrests had leaked out . Police then learnt that Yasin was staying with Irshad Khan at a relative 's house in Selaiyur , Chennai . The Delhi police raided the house and arrested Irshad , but Yasin , who had gone to the market , slipped away .
+p200
+sS'injured'
+p201
+g176
+sS'org_unorg'
+p202
+S'ORGANISED'
+p203
+sS'O'
+p204
+(lp205
+S'pune:1'
+p206
+aS'cctv:61'
+p207
+aS'resemblance:81'
+p208
+aS'bicycle:88'
+p209
+aS'bomb disposal squad:123'
+p210
+aS'explosive:129'
+p211
+aS'footage:133'
+p212
+aS'im operative:176'
+p213
+aS'german bakery:193'
+p214
+aS'bakery blast:194'
+p215
+aS'im operative:309'
+p216
+aS'CCTV footage:355'
+p217
+aS'commissioner:377'
+p218
+aS'security establishment:411'
+p219
+aS'IM operatives:462'
+p220
+aS'terror training:477'
+p221
+aS'im men:521'
+p222
+aS'interrogation:548'
+p223
+asS'unexpl'
+p224
+(lp225
+g176
+asS'ocassion'
+p226
+g176
+sS'link'
+p227
+S'http://timesofindia.indiatimes.com/city/pune/Yasin-Bhatkal-one-of-the-August-1-Pune-bombers/articleshow/15441238.cms?referral=PM'
+p228
+sS'date'
+p229
+S'01-08-2012'
+p230
+sS'target'
+p231
+S'CITIZENS'
+p232
+sS'hot_spot'
+p233
+g176
+sS'delivery_mod'
+p234
+S'BYCICLE'
+p235
+sS'delivery_met'
+p236
+S'PLANTED'
+p237
+sS'expl'
+p238
+(lp239
+S'BOMB'
+p240
+asS'ORG'
+p241
+(lp242
+(lp243
+S'Indian Mujahideen'
+p244
+aS'6'
+p245
+aS'Accused'
+p246
+aa(lp247
+S'IM'
+p248
+aS'9'
+p249
+aS'Accused'
+p250
+aa(lp251
+S'TOI'
+p252
+aS'54'
+p253
+aS'Others'
+p254
+aa(lp255
+S'IM'
+p256
+aS'176'
+p257
+aS'Accused'
+p258
+aa(lp259
+S'IM'
+p260
+aS'274'
+p261
+aS'Accused'
+p262
+aa(lp263
+S'IM'
+p264
+aS'309'
+p265
+aS'Accused'
+p266
+aa(lp267
+S'anti-terrorism squad'
+p268
+aS'383'
+p269
+aS'Others'
+p270
+aa(lp271
+S'IM'
+p272
+aS'462'
+p273
+aS'Accused'
+p274
+aa(lp275
+S'IM'
+p276
+aS'521'
+p277
+aS'Accused'
+p278
+aas.

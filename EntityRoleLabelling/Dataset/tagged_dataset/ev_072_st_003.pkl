@@ -1,0 +1,219 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Ajmer Sharif dargah'
+p4
+aS'9'
+p5
+aS'Assoc Event Location'
+p6
+aa(lp7
+S'Ludhiana'
+p8
+aS'21'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Shringaar Cinema'
+p12
+aS'99'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Ludhiana'
+p16
+aS'135'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Ajmer'
+p20
+aS'255'
+p21
+aa(lp22
+S'Punjab'
+p23
+aS'274'
+p24
+aS'Neutral'
+p25
+aa(lp26
+S'Ludhiana'
+p27
+aS'284'
+p28
+aS'Neutral'
+p29
+aa(lp30
+S'Punjab'
+p31
+aS'321'
+p32
+aS'Accused Location'
+p33
+aa(lp34
+S'Punjab'
+p35
+aS'332'
+p36
+aS'Neutral'
+p37
+aasS'PER'
+p38
+(lp39
+(lp40
+S'Ishwar Singh'
+p41
+aS'138'
+p42
+aS'Comment'
+p43
+aa(lp44
+S'K P S Gill'
+p45
+aS'337'
+p46
+aS'Comment'
+p47
+aasS'TIM'
+p48
+(lp49
+S'8.30 pm:66'
+p50
+asS'hot_setting'
+p51
+S''
+p52
+sS'DAT'
+p53
+(lp54
+S'Sunday night:23'
+p55
+aS'Sunday:23'
+p56
+asS'death'
+p57
+S'7'
+p58
+sS'title'
+p59
+S'Blast rips through Ludhiana movie hall: 7 killed, 40 injured'
+p60
+sS'det_loc'
+p61
+(lp62
+S'India'
+p63
+aS'Punjab'
+p64
+aS'Ludhiana'
+p65
+ag52
+ag52
+asS'terror_group'
+p66
+(lp67
+S'BABBAR KHALSA INTERNATIONAL'
+p68
+asS'content'
+p69
+VBarely three days after a blast at the Ajmer Sharif dargah , a powerful explosion rocked a cinema hall in Ludhiana on Sunday night - after peaceful Id festivities throughout the country - killing at least seven persons and injuring about 40 . A 10-year-old child was among those killed . . . Eyewitnesses however claimed there were two blasts in close succession , around 8.30 pm , just after the interval . . . The victims were mainly migrants from other states who were watching a 7 pm show of Bhojpuri film Janam Janam Ka Saath at Shringaar Cinema . There are two more cinema halls in the building . . . The condition of 23 of those injured , admitted to CMC Hospital , was stated to be serious . . . Ludhiana Range DIG Ishwar Singh said the bomb appeared to have been placed in the first three rows of seats . `` At the moment it can not be said if it was RDX or something else , '' he added . The blast site was splattered with blood and body parts and a huge crater marked the spot . . . The Union Home Ministry reacted with caution , saying it needed more information before concluding if this was a terror strike . `` We are monitoring the situation and waiting for more details , '' a spokesperson said . . . What is worrying the security and intelligence machinery is not just that the blast closely follows the Ajmer explosion but that if it were a terror attack , it would be the first such strike in Punjab in a long time and the very first for Ludhiana , the industrial city that also houses a large number of migrant workers . . . Investigators will also have to determine whether the blast is the handiwork of Islamist terror groups or if a dormant Punjab militant organisation has become active again . . . Former Punjab Director General of Police K P S Gill maintained that planting of explosive devices in a cinema hall meant that it was most likely a terror strike and his suspicions would go to the Babbar Khalsa International or the Khalistan Zindabad Force . . . ... contd .
+p70
+sS'injured'
+p71
+S'40'
+p72
+sS'org_unorg'
+p73
+S'ORGANISED'
+p74
+sS'O'
+p75
+(lp76
+S'cinema hall:18'
+p77
+aS'bhojpuri film:92'
+p78
+aS'Janam Janam Ka Saath:94'
+p79
+aS'DIG:137'
+p80
+aS'RDX:168'
+p81
+aS'Union Home Ministry:198'
+p82
+aS'militant organisation:322'
+p83
+aS'director general:333'
+p84
+asS'unexpl'
+p85
+(lp86
+g52
+asS'ocassion'
+p87
+g52
+sS'link'
+p88
+S'http://archive.indianexpress.com/news/blast-rips-through-ludhiana-movie-hall-7-killed-40-injured/228501/'
+p89
+sS'date'
+p90
+S'14-10-2007'
+p91
+sS'target'
+p92
+S'CINEMA HALL'
+p93
+sS'hot_spot'
+p94
+g52
+sS'delivery_mod'
+p95
+g52
+sS'delivery_met'
+p96
+S'PLANTED'
+p97
+sS'expl'
+p98
+(lp99
+S'BOMB'
+p100
+asS'ORG'
+p101
+(lp102
+(lp103
+S'CMC Hospital'
+p104
+aS'124'
+p105
+aS'Others'
+p106
+aa(lp107
+S'Islamist terror groups'
+p108
+aS'314'
+p109
+aS'Accused'
+p110
+aa(lp111
+S'Babbar Khalsa International'
+p112
+aS'367'
+p113
+aS'Accused'
+p114
+aa(lp115
+S'Khalistan Zindabad Force'
+p116
+aS'372'
+p117
+aS'Accused'
+p118
+aas.

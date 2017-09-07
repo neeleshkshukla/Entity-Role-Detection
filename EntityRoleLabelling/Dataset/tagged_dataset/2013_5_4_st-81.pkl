@@ -1,0 +1,207 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bangalore'
+p4
+aS'26'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Madurai'
+p8
+aS'136'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Tamil Nadu'
+p12
+aS'142'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Karnataka'
+p16
+aS'145'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Bangalore'
+p20
+aS'151'
+p21
+aS'Event'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Askar Ali'
+p26
+aS'43'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Arjun Sampath'
+p30
+aS'78'
+p31
+aS'Victim'
+p32
+aa(lp33
+S'Valayal Hakkim'
+p34
+aS'120'
+p35
+aS'Assoc Accused'
+p36
+aa(lp37
+S'Kichan Buhari'
+p38
+aS'123'
+p39
+aS'Assoc Accused'
+p40
+aa(lp41
+S'Askar Ali'
+p42
+aS'159'
+p43
+aS'Accused'
+p44
+aS'Others'
+p45
+aasS'TIM'
+p46
+(lp47
+sS'hot_setting'
+p48
+S''
+p49
+sS'DAT'
+p50
+(lp51
+S'Friday:7'
+p52
+aS'April 17:28'
+p53
+aS'Friday:53'
+p54
+asS'death'
+p55
+g49
+sS'title'
+p56
+S'Bangalore blast case: two questioned in Coimbatore'
+p57
+sS'org_unorg'
+p58
+S'Organized'
+p59
+sS'terror_group'
+p60
+(lp61
+g49
+asS'content'
+p62
+S'Two persons were questioned here on Friday on suspicion of their involvement in the bomb blast near the headquarters of the Bharatiya Janata Party in Bangalore on April 17 . According to police sources , one of the persons being questioned was Askar Ali , who was detained in the city on Friday and was also suspected of being involved in the petrol bomb attack case on the house of Indu Makkal Katchi ( IMK ) founder-president Arjun Sampath . The other person who is being questioned is the wife of a person who was also detained in connection with the petrol bomb attack case . The police say that they also suspect their involvement in supplying explosives through Valayal Hakkim to Kichan Buhari , a former Al-Umma activist who was taken into custody in Madurai by a special team of Tamil Nadu and Karnataka police in connection with the Bangalore bomb blast . One of them is Askar Ali , suspected of being involved in a petrol bomb attack OPEN'
+p63
+sS'injured'
+p64
+g49
+sS'det_loc'
+p65
+(lp66
+S'India'
+p67
+aS'Tamil Nadu'
+p68
+aS'Coimbatore'
+p69
+aS'Coimbatore'
+p70
+ag49
+asS'O'
+p71
+(lp72
+S'bomb blast:15'
+p73
+aS'headquarters:19'
+p74
+aS'petrol bomb attack case:63'
+p75
+aS'imk:75'
+p76
+aS'founder-president:77'
+p77
+aS'wife:90'
+p78
+aS'al-umma activist:128'
+p79
+aS'bomb blast:152'
+p80
+asS'unexpl'
+p81
+(lp82
+g49
+asS'ocassion'
+p83
+g49
+sS'link'
+p84
+S'http://www.thehindu.com/todays-paper/tp-national/bangalore-blast-case-two-questioned-in-coimbatore/article4682460.ece'
+p85
+sS'date'
+p86
+S'03-05-2013'
+p87
+sS'target'
+p88
+S'Political party building'
+p89
+sS'hot_spot'
+p90
+S' Bharatiya Janata Party, '
+p91
+sS'delivery_mod'
+p92
+g49
+sS'delivery_met'
+p93
+g49
+sS'expl'
+p94
+(lp95
+S'petrol'
+p96
+asS'ORG'
+p97
+(lp98
+(lp99
+S'Bharatiya Janata Party'
+p100
+aS'22'
+p101
+aS'Victim'
+p102
+aa(lp103
+S'Indu Makkal Katchi ( IMK )'
+p104
+aS'71'
+p105
+aS'Victim'
+p106
+aa(lp107
+S'Al-Umma'
+p108
+aS'128'
+p109
+aS'Accused'
+p110
+aas.

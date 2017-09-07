@@ -1,0 +1,111 @@
+{
+    "LOC": [
+        [
+            "Iraq", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "U.S", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Baghdad", 
+            "76", 
+            "Neutral"
+        ], 
+        [
+            "Mansur", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Aden", 
+            "118", 
+            "Neutral"
+        ], 
+        [
+            "Mansur", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Mansur", 
+            "197", 
+            "Neutral"
+        ], 
+        [
+            "Ghazaliyah", 
+            "249", 
+            "Event"
+        ], 
+        [
+            "west Baghdad", 
+            "251", 
+            "Event"
+        ], 
+        [
+            "Baghdad", 
+            "252", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "10:10 a.m.:92"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:10", 
+        "September:49", 
+        "September 1:49", 
+        "March:62", 
+        "Sunday:231"
+    ], 
+    "death": "29", 
+    "title": "Baghdad blasts kill 29", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Baghdad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two near-simultaneous car bombs rocked the Iraqi capital on Sunday , killing at least 29 people and wounding 111 in the city 's deadliest day in a month . The violence was the worst to hit Iraq since U.S. troops declared an official end to combat operations on September 1 , and comes with no new government yet formed since a March general election . The twin blasts struck near the Aden junction in north Baghdad and in the residential district of Mansur in the west of the capital at around 10:10 a.m. ( 0710 GMT ) , said AFP journalists and security officials . An Interior Ministry official put the death toll at 29 19 in Aden and 10 in Mansur . It was a minibus the driver stopped and told people nearby that he was going to go see a doctor , said a witness to the Aden bombing . A few minutes later , it exploded . An AFP journalist at the scene said the blast , against a National Security department office building , left a crater three metres in diameter and that security forces had cordoned off the area . In Mansur , another AFP journalist reported seeing several bloodied bodies on the street , with many cars burned out and two buildings destroyed , while nearby houses were also badly damaged . Also on Sunday , a father and son were killed when a magnetic bomb was attached to their car in Ghazaliyah , west Baghdad . AFP OPEN", 
+    "injured": "111", 
+    "org_unorg": "Organized", 
+    "O": [
+        "killing:12", 
+        "combat operations:46", 
+        "magnetic bomb:241"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Elections", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/baghdad-blasts-kill-29/article699719.ece", 
+    "date": "20-09-2010", 
+    "target": "Public Transport", 
+    "hot_spot": "", 
+    "delivery_mod": "Bus", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "200", 
+            "Others"
+        ]
+    ]
+}

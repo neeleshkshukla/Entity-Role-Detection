@@ -1,0 +1,165 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mecca Masjid'
+p4
+aS'11'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Mecca Masjid'
+p8
+aS'41'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Malegaon'
+p12
+aS'60'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Ajmer Sharief'
+p16
+aS'62'
+p17
+aS'Assoc Event Location'
+p18
+aasS'PER'
+p19
+(lp20
+sS'TIM'
+p21
+(lp22
+sS'hot_setting'
+p23
+S''
+p24
+sS'DAT'
+p25
+(lp26
+S'Wednesday:15'
+p27
+asS'death'
+p28
+S'9'
+p29
+sS'title'
+p30
+S'NIA team visits Mecca Masjid'
+p31
+sS'org_unorg'
+p32
+S'Organized'
+p33
+sS'terror_group'
+p34
+(lp35
+g24
+asS'content'
+p36
+S'A National Investigation Agency ( NIA ) team visited the Mecca Masjid here on Wednesday after taking up investigation into the bomb explosion case at the masjid four years ago in which nine persons were killed . Along with the Mecca Masjid case , the NIA had taken up a probe into two more bomb blast cases pertaining to Malegaon and Ajmer Sharief , in which the involvement of right-wing terror groups was suspected . The team had discussions with the city police which initially probed the Masjid blast case before handing it over to the CBI . OPEN'
+p37
+sS'injured'
+p38
+g24
+sS'det_loc'
+p39
+(lp40
+S'India'
+p41
+ag24
+ag24
+aS'Hyderabad'
+p42
+aS'Mecca Masjid'
+p43
+asS'O'
+p44
+(lp45
+S'bomb explosion case:22'
+p46
+aS'masjid:27'
+p47
+aS'mecca masjid case:41'
+p48
+aS'probe:51'
+p49
+aS'bomb blast:55'
+p50
+aS'malegaon and ajmer sharief:60'
+p51
+aS'involvement:68'
+p52
+aS'right-wing terror groups:70'
+p53
+aS'masjid blast case:88'
+p54
+asS'unexpl'
+p55
+(lp56
+g24
+asS'ocassion'
+p57
+g24
+sS'link'
+p58
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/nia-team-visits-mecca-masjid/article1714070.ece'
+p59
+sS'date'
+p60
+S'21-04-2011'
+p61
+sS'target'
+p62
+g24
+sS'hot_spot'
+p63
+g24
+sS'delivery_mod'
+p64
+g24
+sS'delivery_met'
+p65
+g24
+sS'expl'
+p66
+(lp67
+g24
+asS'ORG'
+p68
+(lp69
+(lp70
+S'National Investigation Agency'
+p71
+aS'2'
+p72
+aS'Others'
+p73
+aa(lp74
+S'NIA'
+p75
+aS'6'
+p76
+aS'Others'
+p77
+aa(lp78
+S'NIA'
+p79
+aS'46'
+p80
+aS'Others'
+p81
+aa(lp82
+S'CBI'
+p83
+aS'97'
+p84
+aS'Others'
+p85
+aas.

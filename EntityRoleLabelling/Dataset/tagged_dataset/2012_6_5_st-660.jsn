@@ -1,0 +1,62 @@
+{
+    "LOC": [
+        [
+            "Buguda", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Ganjam", 
+            "10", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday afternoon:13"
+    ], 
+    "death": "", 
+    "title": "Crude bombs hurled at liquor shop", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "Two miscreants terrorised the market place at Buguda in Ganjam district on Monday afternoon . They came on a motorcycle and hurled crude bombs at a foreign liquor shop . No one was injured by the blast of these crude bombs . The miscreants managed to escape from the spot . According to polices sources rivalry related to liquor trading may be the reason behind the attack . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "Ganjam", 
+        "Buguda", 
+        ""
+    ], 
+    "O": [
+        "market place:5", 
+        "afternoon:14", 
+        "motorcycle:20", 
+        "crude bombs:23", 
+        "liquor shop:28", 
+        "injured:34", 
+        "crude bombs:40", 
+        "escape:47", 
+        "rivalry:56", 
+        "liquor trading:59", 
+        "attack:67"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/crude-bombs-hurled-at-liquor-shop/article3492233.ece", 
+    "date": "04-06-2012", 
+    "target": "Market Place", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Thrown", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": []
+}

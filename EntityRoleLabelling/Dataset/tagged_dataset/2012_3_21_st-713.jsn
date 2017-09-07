@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "Iraq", 
+            "1", 
+            "Event"
+        ], 
+        [
+            "Arab", 
+            "31", 
+            "Neutral"
+        ], 
+        [
+            "Baghdad", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Allawi", 
+            "119", 
+            "Event"
+        ], 
+        [
+            "Shia pilgrims", 
+            "124", 
+            "Event"
+        ], 
+        [
+            "Anbar province", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "163", 
+            "Event"
+        ], 
+        [
+            "United States", 
+            "167", 
+            "Neutral"
+        ], 
+        [
+            "Karbala", 
+            "170", 
+            "Event"
+        ], 
+        [
+            "Shia pilgrim centre", 
+            "174", 
+            "Neutral"
+        ], 
+        [
+            "Baghdad", 
+            "187", 
+            "Event"
+        ], 
+        [
+            "Baghdad Gate square", 
+            "187", 
+            "Event"
+        ], 
+        [
+            "Iran", 
+            "197", 
+            "Event"
+        ], 
+        [
+            "Hilla", 
+            "205", 
+            "Event"
+        ], 
+        [
+            "Samarra", 
+            "207", 
+            "Event"
+        ], 
+        [
+            "Al Anbar province", 
+            "216", 
+            "Event"
+        ], 
+        [
+            "Kirkuk", 
+            "236", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:3", 
+        "2009:106", 
+        "Tuesday:126"
+    ], 
+    "death": "43", 
+    "title": "Iraq rocked by bombings", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Iraq on Tuesday was rocked by a nationwide string of bombings that killed at least 43 people and put on edge authorities who are set to host next week the Arab summit a symbol of the country 's diplomatic resurgence after years of conflict . An explosion in Baghdad targeted the Foreign Ministry , where dozens of employees have been working round the clock for the summit . The car blast killed three people outside the Ministry but failed to breach the outer security perimeter of the building . The bombing was a grisly reminder of the attack on the Foreign and Finance ministries in 2009 that killed scores of people . Another attack in the capital 's Allawi neighbourhood killed five . Shia pilgrims Tuesday 's bombings appeared indiscriminate , targeting Shia pilgrims , a Sunni stronghold in Anbar province , civilians and security personnel . They also took place on the eve of the ninth anniversary of the invasion of Iraq led by the United States . Karbala , a major Shia pilgrim centre , was badly hit when a car bomb exploded at Baghdad Gate square . Thirteen pilgrims , including four from Iran , were killed . Explosions also rocked Hilla and Samarra , both Shia dominated cities , and the Al Anbar province , where the concentration of Sunnis is higher . At least 10 security personnel were killed in Kirkuk , which sits over huge reserves of oil whose control has been the source of conflict among the area 's ethnically and religiously divided communities . The attack took place in the early hours when the shift of personnel stationed overnight was changing . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Baghdad", 
+        "Baghdad"
+    ], 
+    "O": [
+        "bombings:11", 
+        "killed:13", 
+        "diplomatic resurgence:39", 
+        "conflict:44", 
+        "Foreign Ministry:52", 
+        "grisly:94", 
+        "foreign and finance ministries:101", 
+        "indiscriminate:130", 
+        "targeting shia pilgrims:132", 
+        "a sunni stronghold in anbar province:136", 
+        "civilians and security personnel:143", 
+        "car bomb:183", 
+        "thirteen pilgrims:191", 
+        "explosions:202", 
+        "shia dominated cities:210", 
+        "cities:212", 
+        "sunnis:224", 
+        "ethnically:257", 
+        "communities:261"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/iraq-rocked-by-bombings/article3018577.ece", 
+    "date": "20-03-2012", 
+    "target": "FOREIGN MINISTRY", 
+    "hot_spot": "Baghdad", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Foreign and Finance ministries", 
+            "101", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,133 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Jama Masjid'
+p4
+aS'8'
+p5
+aS'Event'
+p6
+aasS'PER'
+p7
+(lp8
+sS'TIM'
+p9
+(lp10
+S'5:20 pm : 11'
+p11
+aS'5:40 pm:14'
+p12
+aS'pm:15'
+p13
+asS'hot_setting'
+p14
+S''
+p15
+sS'DAT'
+p16
+(lp17
+sS'death'
+p18
+g15
+sS'title'
+p19
+S'Twin blasts in Jama Masjid'
+p20
+sS'det_loc'
+p21
+(lp22
+S'India'
+p23
+aS'Delhi'
+p24
+aS'New Delhi'
+p25
+aS'New Delhi'
+p26
+aS'Jama Masjid'
+p27
+asS'terror_group'
+p28
+(lp29
+g15
+asS'content'
+p30
+VNEW DELHI : Twin blasts occured in Jama Masjid at 5:20 pm and 5:40 pm , according to a private news channel . Three injured people have been rushed to the hospital . Delhi police had some prior warning but were unsure of the exact location . The area has been cordoned off . . . The Mumbai police have also declared high alert in the state .
+p31
+sS'injured'
+p32
+S'3'
+p33
+sS'org_unorg'
+p34
+g15
+sS'O'
+p35
+(lp36
+S'twin blasts:4'
+p37
+aS'news channel:21'
+p38
+aS'injured:25'
+p39
+aS'rushed:29'
+p40
+aS'hospital:32'
+p41
+aS'warning:39'
+p42
+aS'high alert:63'
+p43
+asS'unexpl'
+p44
+(lp45
+g15
+asS'ocassion'
+p46
+g15
+sS'link'
+p47
+S'http://articles.economictimes.indiatimes.com/2006-04-14/news/27439308_1_twin-blasts-jama-masjid-delhi-police'
+p48
+sS'date'
+p49
+S'14-04-2006'
+p50
+sS'target'
+p51
+S'MOSQUE'
+p52
+sS'hot_spot'
+p53
+g15
+sS'delivery_mod'
+p54
+g15
+sS'delivery_met'
+p55
+S'PLANTED'
+p56
+sS'expl'
+p57
+(lp58
+g15
+asS'ORG'
+p59
+(lp60
+(lp61
+S'Delhi police'
+p62
+aS'34'
+p63
+aS'Others'
+p64
+aa(lp65
+S'Mumbai police'
+p66
+aS'58'
+p67
+aS'Others'
+p68
+aas.

@@ -1,0 +1,278 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Malegaon'
+p4
+aS'50'
+p5
+aS'Accused Location'
+p6
+aa(lp7
+S'Modassa'
+p8
+aS'52'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Gujarat'
+p12
+aS'54'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Ajmer Sharif Dargah'
+p16
+aS'58'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Mecca Masjid'
+p20
+aS'63'
+p21
+aS'Accused Location'
+p22
+aa(lp23
+S'Hyderabad'
+p24
+aS'66'
+p25
+aS'Accused Location'
+p26
+aa(lp27
+S'Mecca Masjid'
+p28
+aS'93'
+p29
+aS'Accused Location'
+p30
+aa(lp31
+S'Ajmer dargah'
+p32
+aS'97'
+p33
+aS'Accused Location'
+p34
+aa(lp35
+S'Malegaon'
+p36
+aS'104'
+p37
+aS'Accused Location'
+p38
+aa(lp39
+S'Modassa'
+p40
+aS'106'
+p41
+aS'Accused Location'
+p42
+aasS'PER'
+p43
+(lp44
+(lp45
+S'Kamal Chauhan'
+p46
+aS'7'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Naba Kumar Sarkar'
+p50
+aS'127'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Swami Aseemanand'
+p54
+aS'131'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Lokesh Sharma'
+p58
+aS'134'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Devender Gupta'
+p62
+aS'137'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Kamal Chauhan'
+p66
+aS'149'
+p67
+aS'Accused'
+p68
+aasS'TIM'
+p69
+(lp70
+sS'hot_setting'
+p71
+S''
+p72
+sS'DAT'
+p73
+(lp74
+S'Thursday:73'
+p75
+aS'2006:80'
+p76
+aS'2007:85'
+p77
+aS'2008:101'
+p78
+aS'Sunday:159'
+p79
+aS'May 2000:221'
+p80
+asS'death'
+p81
+g72
+sS'title'
+p82
+S'More arrests likely in terror cases, says Home Ministry'
+p83
+sS'org_unorg'
+p84
+S'Organized'
+p85
+sS'terror_group'
+p86
+(lp87
+g72
+asS'content'
+p88
+S"Even as a former RSS worker Kamal Chauhan was apprehended for his alleged involvement in the Samjhauta Express blast case , the government said more arrests were expected to be made , leading to solving of at least six terror attack cases . These include the bomb blasts in Malegaon , Modassa ( Gujarat ) , the Ajmer Sharif Dargah and the Mecca Masjid in Hyderabad . In a statement here on Thursday , the Home Ministry said the 2006 Malegaon blast , the 2007 bombing of the Samjhauta Express , the Mecca Masjid and the Ajmer dargah and the 2008 explosions in Malegaon and Modassa were being either reinvestigated or further probed . The Ministry said the National Investigation Agency ( NIA ) had arrested Naba Kumar Sarkar alias Swami Aseemanand , Lokesh Sharma , Devender Gupta and a few others in connection with these cases . Kamal Chauhan , who was arrested by the NIA on Sunday , claimed that he had planted bombs on board the Samjhauta Express that left 68 people , mostly Pakistanis , dead . The Ministry 's response came after the spokesperson of a political party said no case of terror had been solved by investigating agencies in the last eight years . Seven cases solved Giving details of major terrorist incidents since May 2000 , the Ministry said there were 46 incidents and of these all but seven cases were solved . In nine cases , convictions have been obtained . In the remaining 30 cases , charge sheets have been filed in 29 cases and trial has commenced in 19 cases . Two cases ended in acquittal and appeals have been preferred . Of the seven unsolved cases , four cases are close to being solved . OPEN"
+p89
+sS'injured'
+p90
+g72
+sS'det_loc'
+p91
+(lp92
+S'India'
+p93
+aS'Delhi'
+p94
+aS'New Delhi'
+p95
+ag72
+ag72
+asS'O'
+p96
+(lp97
+S'involvement:14'
+p98
+aS'samjhauta express blast case:17'
+p99
+aS'government:23'
+p100
+aS'terror attack:40'
+p101
+aS'bomb:47'
+p102
+aS'statement:70'
+p103
+aS'home ministry:76'
+p104
+aS'malegaon blast:81'
+p105
+aS'bombing:86'
+p106
+aS'Samjhauta Express:89'
+p107
+aS'ministry:116'
+p108
+aS'connection:144'
+p109
+aS'Samjhauta Express:170'
+p110
+aS'ministry:183'
+p111
+aS'response:185'
+p112
+aS'spokesperson:189'
+p113
+aS'terrorist:218'
+p114
+aS'ministry:225'
+p115
+aS'acquittal:276'
+p116
+asS'unexpl'
+p117
+(lp118
+g72
+asS'ocassion'
+p119
+g72
+sS'link'
+p120
+S'http://www.thehindu.com/todays-paper/tp-national/more-arrests-likely-in-terror-cases-says-home-ministry/article2901908.ece'
+p121
+sS'date'
+p122
+S'16-02-2012'
+p123
+sS'target'
+p124
+g72
+sS'hot_spot'
+p125
+g72
+sS'delivery_mod'
+p126
+g72
+sS'delivery_met'
+p127
+g72
+sS'expl'
+p128
+(lp129
+g72
+asS'ORG'
+p130
+(lp131
+(lp132
+S'RSS'
+p133
+aS'5'
+p134
+aS'Others'
+p135
+aa(lp136
+S'National Investigation Agency'
+p137
+aS'119'
+p138
+aS'Others'
+p139
+aa(lp140
+S'NIA'
+p141
+aS'123'
+p142
+aS'Others'
+p143
+aa(lp144
+S'NIA'
+p145
+aS'157'
+p146
+aS'Others'
+p147
+aas.

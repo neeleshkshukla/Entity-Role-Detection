@@ -1,0 +1,187 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbai'
+p4
+aS'34'
+p5
+aS'Assoc Event Location'
+p6
+aa(lp7
+S'Mumbai'
+p8
+aS'48'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Hyderabad'
+p12
+aS'51'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Hyderabad'
+p16
+aS'77'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Mumbai'
+p20
+aS'84'
+p21
+aS'Assoc Event Location'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'A. K. Khan'
+p26
+aS'55'
+p27
+aS'Comment'
+p28
+aasS'TIM'
+p29
+(lp30
+sS'hot_setting'
+p31
+S''
+p32
+sS'DAT'
+p33
+(lp34
+S'Sunday:23'
+p35
+aS'Friday:64'
+p36
+aS'Saturday:135'
+p37
+asS'death'
+p38
+g32
+sS'title'
+p39
+S'Heightened security for Bonalu in old city'
+p40
+sS'det_loc'
+p41
+(lp42
+S'India'
+p43
+aS'Andhra Pradesh'
+p44
+aS'Hyderabad'
+p45
+aS'Hyderabad'
+p46
+ag32
+asS'terror_group'
+p47
+(lp48
+g32
+asS'content'
+p49
+S"Police embarked on a massive anti-sabotage checks while initiating elaborate security measures for the two-day Bonalu festival in the old city beginning Sunday , in the wake of the recent terror strikes in Mumbai . However , there is no specific information of any connection of the Mumbai blasts to Hyderabad , Police Commissioner A. K. Khan said at a press conference on Friday . He appealed to media persons to not telecast speculative reports linking Hyderabad with the recent serial blasts in Mumbai . No one from Mumbai police had so far contacted the Hyderabad police in this regard , he said . Fifteen bomb disposal squads were pressed into service for checking religious places . More than 2,000 police personnel will be deployed along with para-military forces in the old city from Saturday . 200 women constables will be deployed for the convenience of women who will come to temples to offer Bonam ' . A control room with officialswill be set up to assist devotees . Dial for assistance Devotees can dial 24500254 for assistance . OPEN"
+p50
+sS'injured'
+p51
+g32
+sS'org_unorg'
+p52
+S'Organized'
+p53
+sS'O'
+p54
+(lp55
+S'anti-sabotage checks:6'
+p56
+aS'bonalu festival:16'
+p57
+aS'terror strikes:31'
+p58
+aS'connection:45'
+p59
+aS'Mumbai blasts:48'
+p60
+aS'Police Commissioner:53'
+p61
+aS'press conference:61'
+p62
+aS'telecast:73'
+p63
+aS'serial blasts:81'
+p64
+aS'bomb disposal squads:106'
+p65
+aS'religious places:115'
+p66
+aS'deployed:125'
+p67
+aS'deployed:142'
+p68
+aS'offer bonam:154'
+p69
+aS'control room:159'
+p70
+aS'Devotees:173'
+p71
+aS'dial:175'
+p72
+aS'assistance:178'
+p73
+asS'unexpl'
+p74
+(lp75
+g32
+asS'ocassion'
+p76
+g32
+sS'link'
+p77
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/heightened-security-for-bonalu-in-old-city/article2287073.ece'
+p78
+sS'date'
+p79
+S'23-07-2011'
+p80
+sS'target'
+p81
+g32
+sS'hot_spot'
+p82
+g32
+sS'delivery_mod'
+p83
+g32
+sS'delivery_met'
+p84
+g32
+sS'expl'
+p85
+(lp86
+g32
+asS'ORG'
+p87
+(lp88
+(lp89
+S'Mumbai police'
+p90
+aS'89'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Hyderabad police'
+p94
+aS'96'
+p95
+aS'Others'
+p96
+aas.

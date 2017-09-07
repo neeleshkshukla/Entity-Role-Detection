@@ -1,0 +1,123 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "148", 
+            "Victim Location"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "169", 
+            "Victim Location"
+        ], 
+        [
+            "Khau Gali", 
+            "181", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sripal Mujpura", 
+            "40", 
+            "Victim"
+        ], 
+        [
+            "Sundar Singh Bisht", 
+            "55", 
+            "Victim"
+        ], 
+        [
+            "Ajay Sovram Verma", 
+            "73", 
+            "Victim"
+        ], 
+        [
+            "Ajay", 
+            "89", 
+            "Victim"
+        ], 
+        [
+            "Sundar", 
+            "91", 
+            "Victim"
+        ], 
+        [
+            "Sundar", 
+            "137", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "5.45 p.m.:86", 
+        "10.20 a.m.:154"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:31", 
+        "Saturday:38", 
+        "Friday:52", 
+        "Friday night:52", 
+        "Saturday:70", 
+        "1993:165", 
+        "2003:167"
+    ], 
+    "death": "23", 
+    "title": "Mumbai blasts death toll goes up to 23", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The death toll in the 13/7 Mumbai triple blasts has gone up to 23 with three more injured dying in a span of 24 hours . While one died on Friday night , two passed away on Saturday While Sripal Mujpura ( 35 ) died due to extensive brain injury on Friday night , Sundar Singh Bisht ( 30 ) passed away after he suffered a cardio-respiratory arrest on Saturday morning . Ajay Sovram Verma ( 30 ) died due to multiple organ failure around 5.45 p.m. Both Ajay and Sundar passed away at J.J. Hospital here . Six more critical Six more victims , critically injured , still lie in the hospital 's Critical Care Unit ( CCU ) on a thin string of hope as the doctors try their best to save them . Sundar , who was an attendant at a jewellery shop in Zaveri Bazar , passed away at 10.20 a.m. . He had escaped two previous bomb blasts in 1993 and 2003 in Zaveri Bazaar . This time he had gone to eat snacks in Khau Gali with three friends when the bomb exploded . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "Mumbai", 
+        ""
+    ], 
+    "O": [
+        "death toll:2", 
+        "13/7 mumbai triple blasts:6", 
+        "injured:18", 
+        "died:29", 
+        "died:45", 
+        "brain injury:49", 
+        "cardio-respiratory arrest:67", 
+        "organ failure:83", 
+        "injured:107", 
+        "hospital:113", 
+        "critical care unit:115", 
+        "ccu:119", 
+        "attendant:142", 
+        "jewellery shop:145", 
+        "bomb blasts:162", 
+        "bomb:188"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/mumbai-blasts-death-toll-goes-up-to-23/article2289666.ece", 
+    "date": "24-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "J.J. Hospital", 
+            "95", 
+            "Others"
+        ]
+    ]
+}

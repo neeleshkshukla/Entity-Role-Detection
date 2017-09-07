@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "West Bengal", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "197", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "203", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Asaduzzaman Khan Kamal", 
+            "76", 
+            "Comment"
+        ], 
+        [
+            "Shakil Ahmed", 
+            "95", 
+            "Accused"
+        ], 
+        [
+            "Sobhan Mandal", 
+            "98", 
+            "Accused"
+        ], 
+        [
+            "Hasan Saheb", 
+            "145", 
+            "Accused"
+        ], 
+        [
+            "Rajira Bibi", 
+            "156", 
+            "Accused"
+        ], 
+        [
+            "Rumi", 
+            "159", 
+            "Accused"
+        ], 
+        [
+            "Amina Bibi", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "Hafez Mollah", 
+            "164", 
+            "Accused"
+        ], 
+        [
+            "Hasan", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Syed Akbaruddin", 
+            "181", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "October 2 : 4"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "", 
+    "title": "Bangladesh extremists finding shelter in West Bengal?", 
+    "org_unorg": "Unorganized", 
+    "terror_group": [
+        "Jamiat-ul-Mujahideen"
+    ], 
+    "content": "Investigations of the October 2 explosion in Bardhaman have indicated that extremists may be taking shelter in West Bengal . One of those arrested - suspected of belonging to the banned Jama'atul Mujahideen Bangladesh - allegedly confessed that bombs were being assembled for terror strikes across the border . Bangladesh 's elite anti-terror Rapid Action Battalion is currently verifying names and identities that have emerged from the Indian probe . Bangladesh Minister for Home Affairs Asaduzzaman Khan Kamal said India had not yet officially provided the nationality of the two persons - suspected militants Shakil Ahmed and Sobhan Mandal - killed in the blast . `` We are always against terrorism . We will not allow anyone to use our land to conduct militant or terrorist activities against our country or neighbouring India , '' he said . Besides the two killed , one Hasan Saheb was injured in the blast ; three persons - Rajira Bibi alias Rumi , Amina Bibi and Hafez Mollah alias Hasan - have been arrested . According to Indian Ministry of External Affairs spokesperson Syed Akbaruddin , Indian investigating agencies have been asked to collate and tabulate information on the Bardhaman blast to be shared with Bangladesh . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Kolkata", 
+        ""
+    ], 
+    "O": [
+        "burdwan blast:9"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/international/south-asia/bardhaman-blast-bangladesh-extremists-finding-shelter-in-west-bengal/article6494569.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Jama'atul Mujahideen Bangladesh", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "Bangladesh 's elite anti-terror Rapid Action Battalion", 
+            "50", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,306 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bangalore'
+p4
+aS'28'
+p5
+aS'Event'
+p6
+aS'Neutral'
+p7
+aa(lp8
+S'Karnataka'
+p9
+aS'86'
+p10
+aS'Event'
+p11
+aa(lp12
+S'Coimbatore'
+p13
+aS'95'
+p14
+aS'Assoc Event Location'
+p15
+aa(lp16
+S'Bangalore'
+p17
+aS'230'
+p18
+aS'Neutral'
+p19
+aa(lp20
+S'Karnataka'
+p21
+aS'244'
+p22
+aS'Neutral'
+p23
+aa(lp24
+S'Bangalore'
+p25
+aS'278'
+p26
+aS'Event'
+p27
+aa(lp28
+S'India'
+p29
+aS'330'
+p30
+aS'Neutral'
+p31
+aasS'PER'
+p32
+(lp33
+(lp34
+S'Abdul Nasir Maudany'
+p35
+aS'16'
+p36
+aS'Accused'
+p37
+aa(lp38
+S'Markandey Katju'
+p39
+aS'38'
+p40
+aS'Others'
+p41
+aa(lp42
+S'Gyan Sudha Misra'
+p43
+aS'41'
+p44
+aS'Others'
+p45
+aa(lp46
+S'Shanti Bhushan'
+p47
+aS'78'
+p48
+aS'Others'
+p49
+aa(lp50
+S'Maudany'
+p51
+aS'81'
+p52
+aS'Accused'
+p53
+aa(lp54
+S'T.R. Andhyarujina'
+p55
+aS'113'
+p56
+aS'Others'
+p57
+aa(lp58
+S'Maudany'
+p59
+aS'157'
+p60
+aS'Accused'
+p61
+aa(lp62
+S'Maudany'
+p63
+aS'191'
+p64
+aS'Accused'
+p65
+aasS'TIM'
+p66
+(lp67
+sS'hot_setting'
+p68
+S''
+p69
+sS'DAT'
+p70
+(lp71
+S'Friday:5'
+p72
+aS'July 25:24'
+p73
+aS'2008:27'
+p74
+aS'May 4:54'
+p75
+aS'June 11 , 2010 : 218'
+p76
+asS'death'
+p77
+g69
+sS'title'
+p78
+S"Maudany bail plea on health grounds only a smokescreen'"
+p79
+sS'org_unorg'
+p80
+S'Organized'
+p81
+sS'terror_group'
+p82
+(lp83
+g69
+asS'content'
+p84
+S'The Karnataka government on Friday strongly opposed in the Supreme Court grant of bail to Abdul Nasir Maudany , an accused in the July 25 , 2008 Bangalore serial bomb blast cases . A Bench of Justices Markandey Katju and Gyan Sudha Misra directed that the matter be listed for further hearing on May 4 and that , in the meantime , the petitioner file his rejoinder to the counter filed by the State . Senior counsel Shanti Bhushan said Maudany was implicated in the Karnataka case after he had been acquitted in the Coimbatore serial bomb blasts case . He said bail should be granted on medical grounds . However , T.R. Andhyarujina , appearing for the State , said bail on health grounds was only a smokescreen , and the court should not entertain such a plea . In his special leave petition against a fast-track court order which rejected his bail , Mr. Maudany said he was wheelchair-bound , following amputation of the right leg below the knee . Moreover , he was suffering from chronic diabetes , coronary heart disease , and cervical spondylosis . Mr. Maudany said his name was not at all mentioned in the charge sheet filed initially . His name figured only in the additional charge sheet filed on June 11 , 2010 before the First Additional Chief Metropolitan Magistrate , Bangalore , who issued a non-bailable warrant against him . Opposing his plea , Karnataka said the petitioner , having failed in six attempts to secure bail , filed the SLP on grounds which had already been considered . Evidence collected following the eight blasts in and around Bangalore showed that the accused had established an organisation called the Federation of ISS and that all the accused were its active members and they had nexus with the Students Islamic Movement of India , a banned outfit . Evidence showed that the accused had a common intention to wage war against India , to damage its economic fabric , to Islamise the country and to destabilise the governments by engineering violence and thereby disturb the national unity , integrity and sovereignty of the country , said the government . OPEN'
+p85
+sS'injured'
+p86
+g69
+sS'det_loc'
+p87
+(lp88
+S'India'
+p89
+aS'Karnataka'
+p90
+aS'Bangalore Urban'
+p91
+ag69
+ag69
+asS'O'
+p92
+(lp93
+S'Karnataka government:2'
+p94
+aS'grant of bail:12'
+p95
+aS'bangalore serial bomb blast:28'
+p96
+aS'serial bomb blast:29'
+p97
+aS'further hearing:51'
+p98
+aS'petitioner file:64'
+p99
+aS'Karnataka case:86'
+p100
+aS'Coimbatore serial bomb blasts case:95'
+p101
+aS'serial bomb blasts:96'
+p102
+aS'bail:103'
+p103
+aS'bail:122'
+p104
+aS'plea:139'
+p105
+aS'special leave petition:143'
+p106
+aS'court order:149'
+p107
+aS'bail:154'
+p108
+aS'wheelchair-bound:161'
+p109
+aS'amputation:164'
+p110
+aS'diabetes:180'
+p111
+aS'heart disease:183'
+p112
+aS'spondylosis:188'
+p113
+aS'charge sheet:202'
+p114
+aS'charge sheet:214'
+p115
+aS'Chief Metropolitan Magistrate:226'
+p116
+aS'non-bailable warrant:235'
+p117
+aS'plea:242'
+p118
+aS'petitioner:247'
+p119
+aS'bail:256'
+p120
+aS'slp:260'
+p121
+aS'evidence:269'
+p122
+aS'blasts:274'
+p123
+aS'nexus:304'
+p124
+aS'banned outfit:314'
+p125
+aS'evidence:317'
+p126
+aS'intention:325'
+p127
+aS'wage war:327'
+p128
+aS'islamise:339'
+p129
+aS'country:341'
+p130
+aS'engineering violence:348'
+p131
+aS'integrity:357'
+p132
+aS'sovereignty:359'
+p133
+asS'unexpl'
+p134
+(lp135
+g69
+asS'ocassion'
+p136
+g69
+sS'link'
+p137
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/maudany-bail-plea-on-health-grounds-only-a-smokescreen/article1980020.ece'
+p138
+sS'date'
+p139
+S'30-04-2011'
+p140
+sS'target'
+p141
+g69
+sS'hot_spot'
+p142
+g69
+sS'delivery_mod'
+p143
+g69
+sS'delivery_met'
+p144
+g69
+sS'expl'
+p145
+(lp146
+g69
+asS'ORG'
+p147
+(lp148
+(lp149
+S'Supreme Court'
+p150
+aS'10'
+p151
+aS'Others'
+p152
+aa(lp153
+S'Federation of ISS'
+p154
+aS'289'
+p155
+aS'Accused'
+p156
+aa(lp157
+S'Students Islamic Movement of India'
+p158
+aS'307'
+p159
+aS'Assoc Accused'
+p160
+aas.

@@ -1,0 +1,189 @@
+{
+    "LOC": [
+        [
+            "Hazara", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Quetta", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Hazara", 
+            "53", 
+            "Event"
+        ], 
+        [
+            "Quetta", 
+            "97", 
+            "Event"
+        ], 
+        [
+            "Hazara", 
+            "119", 
+            "Event"
+        ], 
+        [
+            "Hazara", 
+            "125", 
+            "Event"
+        ], 
+        [
+            "Quetta", 
+            "132", 
+            "Event"
+        ], 
+        [
+            "Quetta", 
+            "161", 
+            "Event"
+        ], 
+        [
+            "Hazara", 
+            "164", 
+            "Event"
+        ], 
+        [
+            "Balochistan", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Hazara", 
+            "203", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "233", 
+            "Event"
+        ], 
+        [
+            "Islamabad", 
+            "246", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "248", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "250", 
+            "Neutral"
+        ], 
+        [
+            "Quetta", 
+            "256", 
+            "Event"
+        ], 
+        [
+            "Hazara", 
+            "278", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "couple of years : 66"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturdays : 5", 
+        "Sunday : 134", 
+        "January : 156"
+    ], 
+    "death": "84", 
+    "title": "Hazara Shias refuse to bury dead as blast toll reaches 84", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Quetta", 
+        "Hazara town"
+    ], 
+    "terror_group": [
+        "LASHKAR-E-JHANGVI (LEJ)"
+    ], 
+    "content": "The death toll in Saturdays bomb blast near Hazara Town in Quetta climbed to 84 and triggered another wave of protest across the country against sectarian violence and the inability of the powers that be to round up the terrorists unleashing such carnage with regular impunity . Most of the dead were Hazara Shias , a community that has been repeatedly targeted over the past couple of years . The dead included many women and children , some of whom were charred beyond recognition because of the fire that followed the massive explosion heard all over Quetta . The banned Lashkar-e-Jhangvi ( LeJ ) claimed responsibility for the attack and said the target was the Shia community of Hazara Town . Members of the Hazara Shia community picketed a thoroughfare of Quetta on Sunday demanding action against LeJ and refusing to bury those killed until those responsible were rounded up . A similar protest in January following serial blasts in Quetta targeting the Hazara Shias saw the federal government dismiss the provincial government and declare Governors Rule in Balochistan . Since Governors Rule and more powers to the security forces in the province have had little impact on sectarian violence , the Hazara Shias this time round have become more vocal in demanding action against LeJ despite the inherent risks in naming the organisation that wants Shias to be declared infidels in Pakistan . Even as protests spread to different parts of the country including Islamabad , Lahore and Karachi mass graves were dug in Quetta for the burial of those killed in the blast . Emotionally drained by the unrelenting attack on their community , the Hazara Shias lamented that they now had no burial space for their dead such is the rate at which they are being killed . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "death toll:2", 
+        "Saturdays bomb blast:5", 
+        "triggered:17", 
+        "protest:21", 
+        "sectarian violence:26", 
+        "terrorists unleashing:40", 
+        "carnage:43", 
+        "regular impunity:45", 
+        "Hazara Shias:53", 
+        "repeatedly targeted:61", 
+        "women and children:74", 
+        "charred:82", 
+        "massive explosion:92", 
+        "attack:109", 
+        "Shia:116", 
+        "Hazara Shia:125", 
+        "picketed a thoroughfare:128", 
+        "refusing to bury:140", 
+        "protest:154", 
+        "serial blasts:158", 
+        "Hazara Shias:164", 
+        "federal government:168", 
+        "provincial government:172", 
+        "Governors Rule:176", 
+        "Governors Rule:182", 
+        "security forces:189", 
+        "province:193", 
+        "sectarian violence:199", 
+        "Hazara Shias:203", 
+        "inherent risks:219", 
+        "Shias:227", 
+        "infidels:231", 
+        "protests spread:237", 
+        "blast:265", 
+        "Emotionally drained:267", 
+        "unrelenting attack:271", 
+        "Hazara Shias:278", 
+        "burial space:286"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/hazara-shias-refuse-to-bury-dead-as-blast-toll-reaches-84/article4426461.ece", 
+    "date": "17-02-2013", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Jhangvi", 
+            "101", 
+            "Accused"
+        ], 
+        [
+            "LeJ", 
+            "103", 
+            "Accused"
+        ], 
+        [
+            "LeJ", 
+            "138", 
+            "Accused"
+        ], 
+        [
+            "LeJ", 
+            "216", 
+            "Accused"
+        ]
+    ]
+}

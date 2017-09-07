@@ -1,0 +1,206 @@
+{
+    "LOC": [
+        [
+            "Iraq", 
+            "9", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Iraq", 
+            "92", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Maysan", 
+            "104", 
+            "Neutral"
+        ], 
+        [
+            "Balad", 
+            "133", 
+            "Event"
+        ], 
+        [
+            "Baghdad", 
+            "136", 
+            "Neutral"
+        ], 
+        [
+            "Garma", 
+            "191", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Kirkuk", 
+            "229", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "276", 
+            "Neutral"
+        ], 
+        [
+            "Kirkuk", 
+            "279", 
+            "Neutral"
+        ], 
+        [
+            "Kirkuk", 
+            "341", 
+            "Neutral"
+        ], 
+        [
+            "Hawija", 
+            "353", 
+            "Neutral"
+        ], 
+        [
+            "Kirkuk", 
+            "374", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "386", 
+            "Neutral"
+        ], 
+        [
+            "Kurdistan", 
+            "390", 
+            "Neutral"
+        ], 
+        [
+            "Baghdad", 
+            "396", 
+            "Neutral"
+        ], 
+        [
+            "Taji", 
+            "405", 
+            "Neutral"
+        ], 
+        [
+            "Baghdad", 
+            "409", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ali al-Sharqi", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "Ali al-Alaa", 
+            "100", 
+            "Comment"
+        ], 
+        [
+            "Othman Abdul Rahman", 
+            "242", 
+            "Comment"
+        ], 
+        [
+            "Mohammed Abdullah", 
+            "295", 
+            "Comment"
+        ], 
+        [
+            "Taha Khalaf", 
+            "347", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:18", 
+        "Sunday:20", 
+        "Sunday:74", 
+        "Saturday:123", 
+        "Saturday:185", 
+        "Sunday:200"
+    ], 
+    "death": "52", 
+    "title": "Wave of attacks kills 52 in Iraq", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A series of more than 20 attacks across Iraq killed 52 people and wounded over 250 on Saturday and Sunday , security and medical officials said , with targets including security forces and markets . The latest violence brings the number of people killed in attacks so far this month to 82 , according to an AFP tally based on security and medical sources . Car bomb explodes In the deadliest attack on Sunday , two car bombs exploded in a market near the shrine of Imam Ali al-Sharqi in south Iraq , a security official said . Dr Ali al-Alaa , a Maysan province health department official , said the blasts killed 14 people and wounded 60 . Before midnight on Saturday gunmen opened fire on an Iraqi army checkpoint near Balad north of Baghdad and shortly later a roadside bomb exploded when additional soldiers arrived . Eleven soldiers , including two officers , were killed and eight others wounded , an army colonel and a medical source at Balad hospital said . Escalating violence A police captain was also shot dead on Saturday night in the town of Garma , security and medical officials said . Early Sunday morning a car bomb exploded in a car park at the rear gate of the state-owned North Oil Company , about 15 kilometres from the northern city of Kirkuk , killing seven people and wounding 17 others , police and Dr Othman Abdul Rahman said . The victims were seeking to join a force that guards oil facilities , a police officer said . The North Oil Company is responsible for oil exports from northern Iraq . In Kirkuk itself , two bombings killed three people and wounded 70 others , police and Dr Mohammed Abdullah said . Huge damage The blasts left body parts strewn in the streets , destroyed cars , and damaged government buildings , an AFP correspondent said . The streets were deserted after the attacks . A car bomb seriously wounded six soldiers west of Kirkuk , according to army Captain Taha Khalaf , while another in Hawija , also west of the city , wounded two people , security and medical sources said . Volatile , oil-rich Kirkuk province is part of a swathe of disputed territory in northern Iraq that the autonomous Kurdistan region wants to incorporate against Baghdad 's wishes . Three car bombs exploded in Taji , north of Baghdad , killing one person and wounding at least seven others , an interior ministry official said and a medical source said.AFP OPEN", 
+    "injured": "250", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Baghdad", 
+        ""
+    ], 
+    "O": [
+        "series:2", 
+        "security:22", 
+        "security:31", 
+        "violence:38", 
+        "number:41", 
+        "month:50", 
+        "security:61", 
+        "car bomb:66", 
+        "attack:72", 
+        "car bombs:77", 
+        "market:82", 
+        "shrine:85", 
+        "security official:95", 
+        "midnight:121", 
+        "iraqi army checkpoint:129", 
+        "roadside bomb:141", 
+        "army colonel:164", 
+        "source:169", 
+        "violence:176", 
+        "captain:179", 
+        "shot:182", 
+        "security:193", 
+        "morning:201", 
+        "car bomb:203", 
+        "car park:208", 
+        "rear gate:212", 
+        "city:227", 
+        "force:254", 
+        "officer:262", 
+        "oil:272", 
+        "government:316", 
+        "car bomb:333", 
+        "army captain:345", 
+        "security:365", 
+        "territory:383", 
+        "region:391", 
+        "person:413", 
+        "interior ministry official:422"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/wave-of-attacks-kills-52-in-iraq/article3879328.ece", 
+    "date": "09-09-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Balad hospital", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "North Oil Company", 
+            "266", 
+            "Others"
+        ]
+    ]
+}

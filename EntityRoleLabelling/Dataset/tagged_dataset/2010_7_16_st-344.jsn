@@ -1,0 +1,115 @@
+{
+    "LOC": [
+        [
+            "Kozhikode", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Kalamassery", 
+            "103", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Halim", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Halim", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "T. Nazir", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "Halim", 
+            "96", 
+            "Accused"
+        ], 
+        [
+            "K. Hema", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "Hema", 
+            "110", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:6"
+    ], 
+    "death": "", 
+    "title": "Bail granted to blast accused", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Kozhikode", 
+        "Kochi", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Kerala High Court on Thursday granted bail to Abdul Halim , the third accused in the Kozhikode twin blast case . He had been charged with the offence under section 15 ( a ) of the Unlawful Activities ( Prevention ) Act ( threatening the security and sovereignty of the nation by the use of bombs and other explosive devises ) . According to the FIR filed by the National Investigation Agency ( NIA ) , Halim had stated that the bombs were manufactured with the help of T. Nazir , another accused . Halim is also an accused in the Kalamassery bus burning case . Justice K. Hema granted bail on the ground that the investigation was not complete even after keeping him in custody for 180 days as provided under the Act . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "kozhikode twin blast case:18", 
+        "twin blast case:19", 
+        "section 15:31", 
+        "security:47", 
+        "sovereignty:49", 
+        "nation:52", 
+        "bombs:57", 
+        "explosive:60", 
+        "national:71", 
+        "national investigation:71", 
+        "investigation agency:72", 
+        "investigation:72", 
+        "kalamassery bus burning case:103", 
+        "bail:112", 
+        "ground:115", 
+        "investigation:118", 
+        "custody:127"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/bail-granted-to-blast-accused/article518152.ece", 
+    "date": "03-03-2006", 
+    "target": "", 
+    "hot_spot": "Kozhikode twin blast case", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kerala High Court", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "71", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "75", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,243 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Israel'
+p4
+aS'500'
+p5
+aS'Neutral'
+p6
+aasS'PER'
+p7
+(lp8
+(lp9
+S'Tal Yehoshua Koren'
+p10
+aS'489'
+p11
+aS'Comment'
+p12
+aasS'TIM'
+p13
+(lp14
+sS'hot_setting'
+p15
+S''
+p16
+sS'DAT'
+p17
+(lp18
+sS'death'
+p19
+S'0'
+p20
+sS'title'
+p21
+S'Excess use of water on blast-hit car destroyed evidence?'
+p22
+sS'org_unorg'
+p23
+S'ORGANISED'
+p24
+sS'terror_group'
+p25
+(lp26
+g16
+asS'content'
+p27
+S"The delay in reconstruction of the blast in the Israeli Embassy car bombing case is being attributed primarily to the excessive use of water to extinguish the fire in the vehicle triggered by the explosion . Experts believe that it destroyed several crucial pieces of evidence essential for reconstructing the bomb used in the attack . What was the need for using so much water ? Had there been a coordinated response to secure the blast site , it would have been much easier to collect samples , said an expert at Truth Labs , a non-government forensic laboratory . The team of experts collected mostly vehicle parts , like wheel-cups and other bulky articles . Most parts of the explosive device were lost due to excessive use of water and other factors , said the expert . The police had earlier revealed that magnet pieces were found at the spot , which was used to attach the improvised explosive device to the car . It is learnt that the magnet was of a special kind , a flexible one that can attach to even uneven surfaces . Such magnets , resembling PBC sheets , are available in the capital as well , revealed the expert . Magnet pieces were also found attached to the rear portion of the car . While the police are yet to receive the final report from the Central Bureau of Investigation 's Central Forensic Science Laboratory , the expert said a high explosive was used along with some incendiary material to enhance its effect . It ripped through the rear metal portion of the vehicle , creating a fragment effect . The small metal parts acted as fragments , he said . Use of watches as timers in explosive devices is now pass , as even one-minute timer circuits are today readily available in the market which can be used with ease . However , the police are yet to clarify if a timer was used in the device . The fact that splinters were not used in the bomb suggests that it was a specific-target oriented attack . The aim was to target the Israeli embassy vehicle and not passersby . Its impact was localised despite the incident taking place in the open with several vehicles stationed at the traffic junction . Misconception Stating that the type of bomb is categorised on the basis of the switch mechanism on which it explodes , the expert said the device could be called a sticky bomb only in common parlance . The glass pieces found at the spot were of the rear windscreen that was shattered by the explosion . It is a misconception that they were part of the device , he said , adding all the materials that could be used to configure such a bomb were locally available . In another development , the police have recorded the statement of Tal Yehoshua Koren , the embassy official and wife of the Israel defence attach who had sustained serious injuries in the explosion . The police teams have been visiting the blast site over and over again to reconstruct the sequence of events . High explosive was used along with some incendiary material to enhance its effect : ExpertPolice record statement of injured Israeli official High explosive was used along with some incendiary material to enhance its effect : Expert Police record statement of injured Israeli official OPEN"
+p28
+sS'injured'
+p29
+S'4'
+p30
+sS'det_loc'
+p31
+(lp32
+S'India'
+p33
+aS'Delhi'
+p34
+aS'New Delhi'
+p35
+aS'New Delhi'
+p36
+aS'Outside Embassy of Israel: 3, Aurangzeb Rd, New Delhi, Delhi 110011'
+p37
+asS'O'
+p38
+(lp39
+S'delay:2'
+p40
+aS'reconstruction:4'
+p41
+aS'blast:7'
+p42
+aS'israeli embassy car bombing:10'
+p43
+aS'water:24'
+p44
+aS'fire:28'
+p45
+aS'explosion:35'
+p46
+aS'experts:37'
+p47
+aS'crucial pieces:43'
+p48
+aS'evidence:46'
+p49
+aS'reconstructing:49'
+p50
+aS'bomb:51'
+p51
+aS'attack:55'
+p52
+aS'secure:74'
+p53
+aS'blast site:76'
+p54
+aS'samples:87'
+p55
+aS'forensic laboratory:98'
+p56
+aS'experts:104'
+p57
+aS'vehicle parts:107'
+p58
+aS'wheel-cups:111'
+p59
+aS'bulky articles:114'
+p60
+aS'explosive device:121'
+p61
+aS'magnet pieces:145'
+p62
+aS'spot:151'
+p63
+aS'improvised explosive device:159'
+p64
+aS'car:164'
+p65
+aS'magnet:171'
+p66
+aS'flexible:179'
+p67
+aS'even uneven surfaces:185'
+p68
+aS'magnets:190'
+p69
+aS'pbc sheets:193'
+p70
+aS'magnet:208'
+p71
+aS'high explosive:248'
+p72
+aS'incendiary material:255'
+p73
+aS'metal:267'
+p74
+aS'watches as timers:291'
+p75
+aS'timers:293'
+p76
+aS'explosive devices:295'
+p77
+aS'one-minute timer circuits:303'
+p78
+aS'splinters:340'
+p79
+aS'attack:354'
+p80
+aS'israeli embassy vehicle:362'
+p81
+aS'traffic junction:387'
+p82
+aS'misconception:390'
+p83
+aS'switch mechanism:404'
+p84
+aS'sticky bomb:420'
+p85
+aS'windscreen:438'
+p86
+aS'israel defence:500'
+p87
+aS'injuries:507'
+p88
+aS'explosion:510'
+p89
+aS'High explosive:532'
+p90
+aS'incendiary material:539'
+p91
+aS'israeli official high explosive:551'
+p92
+aS'incendiary material:560'
+p93
+aS'israeli official:573'
+p94
+asS'unexpl'
+p95
+(lp96
+S'MAGNET'
+p97
+asS'ocassion'
+p98
+g16
+sS'link'
+p99
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/excess-use-of-water-on-blasthit-car-destroyed-evidence/article2905723.ece'
+p100
+sS'date'
+p101
+S'13-02-2012'
+p102
+sS'target'
+p103
+S'GOVERNMENT VEHICLE'
+p104
+sS'hot_spot'
+p105
+S'Bomb exploded on an Israeli Embassy car.'
+p106
+sS'delivery_mod'
+p107
+S'FOUR WHEELER'
+p108
+sS'delivery_met'
+p109
+S'PLANTED'
+p110
+sS'expl'
+p111
+(lp112
+S'IED'
+p113
+asS'ORG'
+p114
+(lp115
+(lp116
+S'Truth Labs'
+p117
+aS'93'
+p118
+aS'Others'
+p119
+aa(lp120
+S'Central Bureau of Investigation'
+p121
+aS'234'
+p122
+aS'Others'
+p123
+aa(lp124
+S'Central Forensic Science Laboratory'
+p125
+aS'239'
+p126
+aS'Others'
+p127
+aas.

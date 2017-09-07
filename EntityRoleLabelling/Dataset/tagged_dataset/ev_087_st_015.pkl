@@ -1,0 +1,213 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'1'
+p5
+aS'Event'
+p6
+aasS'PER'
+p7
+(lp8
+(lp9
+S'Mohammed Afzal Guru'
+p10
+aS'81'
+p11
+aS'Assoc Accused'
+p12
+aa(lp13
+S'SC Sinha'
+p14
+aS'110'
+p15
+aS'Comment'
+p16
+aa(lp17
+S'Afzal Guru'
+p18
+aS'150'
+p19
+aS'Assoc Accused'
+p20
+aasS'TIM'
+p21
+(lp22
+sS'hot_setting'
+p23
+S''
+p24
+sS'event'
+p25
+S'ec0000_ei0008'
+p26
+sS'DAT'
+p27
+(lp28
+S'Wednesday:43'
+p29
+aS'today : 69'
+p30
+aS'2004:162'
+p31
+aS'2001:172'
+p32
+asS'death'
+p33
+S'12'
+p34
+sS'title'
+p35
+S'HuJI claims responsibility for Delhi high court blast'
+p36
+sS'org_unorg'
+p37
+S'ORGANISED'
+p38
+sS'terror_group'
+p39
+(lp40
+S'HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI'
+p41
+asS'content'
+p42
+VNEW DELHI : The government is investigating an email allegedly sent by the Pakistan-based terrorist group Harkat-ul-Jihad Islami -LRB- HuJI -RRB- claiming responsibility for the blast at the Delhi high court that killed at least 12 people and injured 62 others on Wednesday , a senior security official said . HuJI , in an email sent to the media , wrote , ` We own the responsibility for today 's blasts at Delhi high court . Our demand is that Mohammed Afzal Guru 's death sentence should be repealed immediately else we would target major high courts and the Supreme Court of India . ' National Investigation Agency chief SC Sinha told reporters it was premature to comment on the veracity of the HuJI email . He , however , added that he was taking the contents of the email seriously as HuJI is a major terror outfit . Afzal Guru was given the death sentence by the Supreme Court in 2004 for his role in the attack on Parliament in 2001 .
+p43
+sS'injured'
+p44
+S'62'
+p45
+sS'det_loc'
+p46
+(lp47
+S'India'
+p48
+aS'Delhi'
+p49
+aS'Central'
+p50
+ag24
+aS'Delhi high court'
+p51
+asS'O'
+p52
+(lp53
+S'government:5'
+p54
+aS'blast:26'
+p55
+aS'death sentence:85'
+p56
+aS'terror outfit:147'
+p57
+aS'parliament:170'
+p58
+asS'unexpl'
+p59
+(lp60
+g24
+asS'ocassion'
+p61
+g24
+sS'link'
+p62
+S'http://timesofindia.indiatimes.com/india/HuJI-claims-responsibility-for-Delhi-high-court-blast/articleshow/9896388.cms?referral=PM'
+p63
+sS'date'
+p64
+S'07-09-2011'
+p65
+sS'target'
+p66
+S'HIGH COURT'
+p67
+sS'hot_spot'
+p68
+g24
+sS'delivery_mod'
+p69
+g24
+sS'delivery_met'
+p70
+g24
+sS'expl'
+p71
+(lp72
+g24
+asS'ORG'
+p73
+(lp74
+(lp75
+S'Harkat-ul-Jihad Islami'
+p76
+aS'17'
+p77
+aS'Accused'
+p78
+aa(lp79
+S'HuJI'
+p80
+aS'20'
+p81
+aS'Accused'
+p82
+aa(lp83
+S'Delhi high court'
+p84
+aS'29'
+p85
+aS'Victim'
+p86
+aa(lp87
+S'HuJI'
+p88
+aS'51'
+p89
+aS'Accused'
+p90
+aa(lp91
+S'Delhi high court'
+p92
+aS'73'
+p93
+aS'Victim'
+p94
+aa(lp95
+S'Supreme Court of India'
+p96
+aS'100'
+p97
+aS'Others'
+p98
+aa(lp99
+S'National Investigation Agency'
+p100
+aS'106'
+p101
+aS'Others'
+p102
+aa(lp103
+S'HuJI'
+p104
+aS'124'
+p105
+aS'Accused'
+p106
+aa(lp107
+S'HuJI'
+p108
+aS'143'
+p109
+aS'Accused'
+p110
+aa(lp111
+S'Supreme Court'
+p112
+aS'159'
+p113
+aS'Others'
+p114
+aas.

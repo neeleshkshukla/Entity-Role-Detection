@@ -1,0 +1,232 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'JAIPUR'
+p4
+aS'1'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Udaipur'
+p8
+aS'7'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Ajmer'
+p12
+aS'51'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Udaipur'
+p16
+aS'65'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Ajmer'
+p20
+aS'200'
+p21
+aS'Accused Location'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Kamal Joshi'
+p26
+aS'67'
+p27
+aS'Comment'
+p28
+aa(lp29
+S'Joshi'
+p30
+aS'140'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Himmat Singh'
+p34
+aS'166'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Anand Srivastava'
+p38
+aS'225'
+p39
+aS'Comment'
+p40
+aasS'TIM'
+p41
+(lp42
+S'4 pm : 115'
+p43
+asS'hot_setting'
+p44
+S''
+p45
+sS'DAT'
+p46
+(lp47
+S'Tuesday  : 38'
+p48
+aS'Friday : 73'
+p49
+aS'Sunday : 91'
+p50
+aS'Sunday : 118'
+p51
+asS'death'
+p52
+g45
+sS'title'
+p53
+S'Jaipur blasts: Man claims to have seen suspect'
+p54
+sS'det_loc'
+p55
+(lp56
+S'India'
+p57
+aS'Rajasthan'
+p58
+aS'Jaipur'
+p59
+ag45
+ag45
+asS'terror_group'
+p60
+(lp61
+g45
+asS'content'
+p62
+VJAIPUR : A restaurant owner from Udaipur is being questioned by police after he claimed to have seen one of the suspected terrorists , whose sketch was released , along with a woman two days ahead of Tuesday 's serial blasts here . Meanwhile , eight Bangladeshis were detained in Ajmer in connection with the blasts . The owner of Samor Bagh restaurant in Udaipur , Kamal Joshi told the police on Friday that a person resembling the sketch , released last night , was seen in his restaurant on Sunday evening . He said that the man was accompanied by a young woman and both of them came to the restaurant at about 4 pm on Sunday . The woman entered the restaurant wearing a saree but changed into a salwar kameez before leaving with the man , Joshi said , according to the police . They did not take anything in the restaurant , he said . The in-charge of Surajpole police station Himmat Singh said investigations were on to check the movement of the duo in the town . Rajasthan Police has also detained eight Bangladeshis near the famous Sufi shrine of Khwaja Moinuddin Chisti in Ajmer after they were found to be moving under suspicious circumstances . All the eight are being questioned , Superintendent of Police -LRB- Ajmer -RRB- Anand Srivastava said .
+p63
+sS'injured'
+p64
+g45
+sS'org_unorg'
+p65
+g45
+sS'O'
+p66
+(lp67
+S'restaurant owner:4'
+p68
+aS'questioned:10'
+p69
+aS'police:12'
+p70
+aS'claimed:15'
+p71
+aS'seen:18'
+p72
+aS'one of the suspected terrorists:19'
+p73
+aS'sketch:26'
+p74
+aS'released:28'
+p75
+aS'woman:33'
+p76
+aS'two days ahead:34'
+p77
+aS"tuesday 's serial blasts:38"
+p78
+aS'eight bangladeshis:46'
+p79
+aS'detained:49'
+p80
+aS'evening:92'
+p81
+aS'saree:127'
+p82
+aS'changed:129'
+p83
+aS'salwar kameez:132'
+p84
+aS'investigations:169'
+p85
+aS'on:171'
+p86
+aS'check:173'
+p87
+aS'movement of the duo:175'
+p88
+aS'detained eight Bangladeshis:187'
+p89
+aS'sufi shrine:193'
+p90
+aS'khwaja moinuddin chisti:196'
+p91
+aS'superintendent of police:219'
+p92
+asS'unexpl'
+p93
+(lp94
+g45
+asS'ocassion'
+p95
+g45
+sS'link'
+p96
+S'http://timesofindia.indiatimes.com/india/Jaipur-blasts-Man-claims-to-have-seen-suspect/articleshow/3045645.cms?'
+p97
+sS'date'
+p98
+S'13-05-2008'
+p99
+sS'target'
+p100
+S'RELIGIOUS PLACES'
+p101
+sS'hot_spot'
+p102
+g45
+sS'delivery_mod'
+p103
+g45
+sS'delivery_met'
+p104
+g45
+sS'expl'
+p105
+(lp106
+g45
+asS'ORG'
+p107
+(lp108
+(lp109
+S'Samor Bagh restaurant'
+p110
+aS'61'
+p111
+aS'Others'
+p112
+aa(lp113
+S'Surajpole police station'
+p114
+aS'163'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Rajasthan Police'
+p118
+aS'183'
+p119
+aS'Others'
+p120
+aas.

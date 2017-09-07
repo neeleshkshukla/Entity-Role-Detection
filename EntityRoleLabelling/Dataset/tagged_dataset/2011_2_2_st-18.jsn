@@ -1,0 +1,75 @@
+{
+    "LOC": [
+        [
+            "Malegaon", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Karnataka", 
+            "21", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Praveen Mutalik", 
+            "1", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2008:9", 
+        "Monday:18", 
+        "February 14:42"
+    ], 
+    "death": "", 
+    "title": "Mutalik remanded in police custody", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Praveen Mutalik , an absconding accused in the 2008 Malegaon bomb blast case , was arrested on Monday night from Karnataka by Maharashtra Anti-Terrorism Squad . He was produced before a special MCOCA court which remanded him in police custody till February 14 , sources said . PTI OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "absconding accused:5", 
+        "malegaon bomb blast case:10", 
+        "arrested:16", 
+        "anti-terrorism squad:24", 
+        "police custody:39"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/mutalik-remanded-in-police-custody/article1147800.ece", 
+    "date": "02-02-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "MCOCA court", 
+            "33", 
+            "Others"
+        ]
+    ]
+}

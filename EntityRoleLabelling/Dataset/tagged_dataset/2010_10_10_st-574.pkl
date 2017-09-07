@@ -1,0 +1,124 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Panigrahy Pentha Street'
+p4
+aS'5'
+p5
+aS'Event'
+p6
+aS'Neutral'
+p7
+aa(lp8
+S'Sitaram street'
+p9
+aS'56'
+p10
+aS'Event'
+p11
+aS'Neutral'
+p12
+aasS'PER'
+p13
+(lp14
+sS'TIM'
+p15
+(lp16
+sS'hot_setting'
+p17
+S''
+p18
+sS'DAT'
+p19
+(lp20
+sS'death'
+p21
+S'0'
+p22
+sS'title'
+p23
+S'Bomb blasts create panic'
+p24
+sS'org_unorg'
+p25
+S'Organized'
+p26
+sS'terror_group'
+p27
+(lp28
+S'Miscreants,Dacoits & Smuggler Gang'
+p29
+asS'content'
+p30
+S'Miscreants created panic in Panigrahy Pentha Street of the city by blasting crude bombs . According to eyewitnesses two miscreants came on a bike and hurled bombs at a resident of the area and escaped . Luckily no one was injured . In recent past a group of miscreants had injured a youth of nearby Sitaram street by blasting crude bombs . OPEN'
+p31
+sS'injured'
+p32
+g22
+sS'det_loc'
+p33
+(lp34
+S'India'
+p35
+aS'Orissa'
+p36
+aS'Ganjam'
+p37
+aS'Berhampur'
+p38
+aS'Panigrahy Pentha Street'
+p39
+asS'O'
+p40
+(lp41
+S'panigrahy pentha street:5'
+p42
+aS'crude bombs:13'
+p43
+aS'miscreants:20'
+p44
+aS'resident:30'
+p45
+aS'sitaram street:56'
+p46
+asS'unexpl'
+p47
+(lp48
+g18
+asS'ocassion'
+p49
+g18
+sS'link'
+p50
+S'http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/bomb-blasts-create-panic/article823285.ece'
+p51
+sS'date'
+p52
+S'01-04-2010'
+p53
+sS'target'
+p54
+g18
+sS'hot_spot'
+p55
+S'bombs were hurled at a resident of the area'
+p56
+sS'delivery_mod'
+p57
+S'Two wheeler'
+p58
+sS'delivery_met'
+p59
+S'Thrown'
+p60
+sS'expl'
+p61
+(lp62
+S'Crude bomb'
+p63
+asS'ORG'
+p64
+(lp65
+s.

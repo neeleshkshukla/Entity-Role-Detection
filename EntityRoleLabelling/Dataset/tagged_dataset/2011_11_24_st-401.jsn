@@ -1,0 +1,139 @@
+{
+    "LOC": [
+        [
+            "Wagamon", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Idukki", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "106", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "124", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "126", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "Wagamon", 
+            "145", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Danish Riyaz", 
+            "12", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:7", 
+        "2007:45", 
+        "November:90", 
+        "November 2007:90", 
+        "December:131", 
+        "December 10:131", 
+        "2007:134", 
+        "December 12:136", 
+        "December:136", 
+        "December:147"
+    ], 
+    "death": "", 
+    "title": "Wagamon camp: accused remanded", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Idukki", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "Students Islamic Movement of India"
+    ], 
+    "content": ": The NIA Special Court on Wednesday remanded in judicial custody Danish Riyaz , 34th accused in a case relating to organising a secret training camp for activists of the Students Islamic Movement of India ( SIMI ) at Wagamon in Idukki district in 2007 . He was brought from Gujarat where he was lodged in jail in connection with a bomb blast case . A charge sheet against 30 activists of the SIMI had already been filed before the court . The NIA 's case was that in November 2007 , the activists of the proscribed organisation had entered into a criminal conspiracy in Madhya Pradesh and other places to conduct training camps for their cadres . They had organised camps in Karnataka , Madhya Pradesh and Gujarat from December 10 , 2007 to December 12 besides arranging a secret training camp at Wagamon in December . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "custody:11", 
+        "case:19", 
+        "district:43", 
+        "jail:57", 
+        "bomb blast case:62", 
+        "charge sheet:67", 
+        "court:81", 
+        "case:86", 
+        "organisation:98", 
+        "conspiracy:104", 
+        "conduct training:112", 
+        "secret training camp:141"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/wagamon-camp-accused-remanded/article2655140.ece", 
+    "date": "15-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "NIA", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Special Court", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "SIMI", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "84", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,552 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Massachusetts'
+p4
+aS'5'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Boston'
+p8
+aS'14'
+p9
+aS'Event'
+p10
+aa(lp11
+S'U.S.'
+p12
+aS'63'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Russia'
+p16
+aS'97'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'U.S.'
+p20
+aS'104'
+p21
+aS'Event'
+p22
+aa(lp23
+S'U.S.'
+p24
+aS'284'
+p25
+aS'Event'
+p26
+aa(lp27
+S'U.S.'
+p28
+aS'289'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Cambridge'
+p32
+aS'367'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Kazakhstans'
+p36
+aS'486'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'U.S.'
+p40
+aS'493'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'U.S.'
+p44
+aS'536'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Boston'
+p48
+aS'584'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Cambridge'
+p52
+aS'600'
+p53
+aS'Assoc Event Location'
+p54
+aa(lp55
+S'Boston'
+p56
+aS'625'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Boston-area'
+p60
+aS'639'
+p61
+aS'Event'
+p62
+aa(lp63
+S'U.S.'
+p64
+aS'689'
+p65
+aS'Victim Location'
+p66
+aa(lp67
+S'U.S.'
+p68
+aS'716'
+p69
+aS'Victim Location'
+p70
+aa(lp71
+S'Kazakh'
+p72
+aS'723'
+p73
+aS'Neutral'
+p74
+aasS'PER'
+p75
+(lp76
+(lp77
+S'Dzhokhar Tsarnaev'
+p78
+aS'1'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Chechens'
+p82
+aS'95'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Tsarnaev'
+p86
+aS'120'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Dzhokhar'
+p90
+aS'151'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Dzhokhar'
+p94
+aS'178'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'Dzhokhar Tsarnaev'
+p98
+aS'203'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'Obama'
+p102
+aS'234'
+p103
+aS'Others'
+p104
+aa(lp105
+S'Dzhokhar Tsarnaev'
+p106
+aS'244'
+p107
+aS'Accused'
+p108
+aa(lp109
+S'Tsarnaev'
+p110
+aS'280'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Jay Carney'
+p114
+aS'306'
+p115
+aS'Comment'
+p116
+aa(lp117
+S'Tsarnaev'
+p118
+aS'317'
+p119
+aS'Accused'
+p120
+aa(lp121
+S'Tsarnaev'
+p122
+aS'341'
+p123
+aS'Accused'
+p124
+aa(lp125
+S'Tsarnaev'
+p126
+aS'374'
+p127
+aS'Accused'
+p128
+aa(lp129
+S'Dzhokhar Tsarnaev'
+p130
+aS'556'
+p131
+aS'Accused'
+p132
+aa(lp133
+S'Barack Obama'
+p134
+aS'648'
+p135
+aS'Others'
+p136
+aa(lp137
+S'Dzhokhar'
+p138
+aS'676'
+p139
+aS'Accused'
+p140
+aa(lp141
+S'Dzhokhar'
+p142
+aS'702'
+p143
+aS'Accused'
+p144
+aasS'TIM'
+p145
+(lp146
+S'2:49 p.m.:660'
+p147
+asS'hot_setting'
+p148
+S''
+p149
+sS'DAT'
+p150
+(lp151
+S'Monday:20'
+p152
+aS'Thursday night:361'
+p153
+aS'Mondays : 439'
+p154
+aS'Monday:484'
+p155
+aS'Saturday:515'
+p156
+asS'death'
+p157
+S'3'
+p158
+sS'title'
+p159
+S'Use of WMD among Boston charges'
+p160
+sS'det_loc'
+p161
+(lp162
+S'United States'
+p163
+ag149
+ag149
+aS'Boston'
+p164
+ag149
+asS'terror_group'
+p165
+(lp166
+g149
+asS'content'
+p167
+S'Dzhokhar Tsarnaev , the Massachusetts university student who is a suspect in the Boston Marathon blasts , was on Monday charged with using and conspiring to use a weapon of mass destruction . He was accused of joining with his brother in setting off the shrapnel-packed pressure-cooker bombs that killed three people and wounded more than 200 a week ago . Two U.S. officials said preliminary evidence from the younger mans interrogation suggests the brothers were motivated by religious extremism but were apparently not involved with Islamic terrorist organisations . The brothers , ethnic Chechens from Russia , had been living in the U.S. for about a decade . In the criminal complaint outlining the allegations , investigators said Tsarnaev and his brother each placed a knapsack containing a bomb in the crowd near the finish line of the worlds most prestigious marathon . The FBI said surveillance-camera footage showed Dzhokhar manipulating his mobile phone and lifting it to his ear just instants before the two blasts . After the first blast , a block away from Dzhokhar , virtually every head turns to the east ... and stares in that direction in apparent bewilderment and alarm , the complaint says . Dzhokhar Tsarnaev , virtually alone of the individuals in front of the restaurant , appears calm . The criminal complaint shed no light on the motive for the attack . The Obama administration said it had no choice but to prosecute Dzhokhar Tsarnaev in the federal court system . Some politicians had suggested he be tried as an enemy combatant before a military tribunal , where defendants are denied some of the usual constitutional protections . But Tsarnaev is a naturalised U.S. citizen , and under U.S. law , American citizens can not be tried by military tribunals , said White House spokesman Jay Carney . The next step in the legal process against Tsarnaev is likely to be an indictment , in which federal prosecutors could add charges . State prosecutors have said they expect to charge Tsarnaev separately in the killing of a Massachusetts Institute of Technology police officer who was shot in his cruiser on Thursday night on the campus in Cambridge . Entitled to have lawyer After Tsarnaev is indicted in the bombing , he will have an arraignment in federal court , when he will be asked to enter a plea . Under federal law , as a defendant charged with a crime that carries a potential death penalty , he is entitled to at least one lawyer who is knowledgeable about the law in capital cases.Tsarnaev did not speak during Mondays proceeding , except to answer no when asked if he could afford his own lawyer , according to the notes . He nodded when asked if he was able to answer some questions and whether he understood his rights . A statement released on Monday by Kazakhstans Ministry of Foreign Affairs bolstered the U.S. officials comments about seeking details on the suspects other modes of communication and his associations . Two foreign nationals arrested on Saturday on immigration violations are from the central Asian nation and may have known the suspects , the Ministry said . U.S. authorities came across the students while searching for possible links and contacts . According to the criminal complaint , Dzhokhar Tsarnaev had gunshot wounds to the head , neck , legs and hands when he was captured hiding out in a boat in a backyard in the Boston suburb of Watertown . The document included a chilling detail of the suspects flight from Cambridge : one of the brothers it wasnt clear which one told a carjacking victim during their getaway attempt , Did you hear about the Boston explosion ? I did that . Shortly after the charges were unveiled , Boston-area residents and many of their well-wishers including President Barack Obama at the White House observed a moment of silence at 2:49 p.m. the moment a week earlier when the bombs exploded . AP Video footage shows Dzhokhar manipulating his phone moments before blasts , says FBITwo persons arrested in U.S. may have known the suspects : Kazakh Foreign Ministry Video footage shows Dzhokhar manipulating his phone moments before blasts , says FBI Two persons arrested in U.S. may have known the suspects : Kazakh Foreign Ministry OPEN'
+p168
+sS'injured'
+p169
+S'200'
+p170
+sS'org_unorg'
+p171
+g149
+sS'O'
+p172
+(lp173
+S'dzhokhar tsarnaev , the massachusetts university:1'
+p174
+aS'massachusetts university student:5'
+p175
+aS'boston marathon blasts:14'
+p176
+aS'mass destruction:31'
+p177
+aS'brother:41'
+p178
+aS'shrapnel-packed pressure-cooker bombs:46'
+p179
+aS'u.s. officials:63'
+p180
+aS'evidence:67'
+p181
+aS'interrogation:72'
+p182
+aS'religious extremism:79'
+p183
+aS'islamic terrorist:87'
+p184
+aS'criminal complaint:112'
+p185
+aS'allegations:116'
+p186
+aS'knapsack:127'
+p187
+aS'bomb:130'
+p188
+aS'crowd:133'
+p189
+aS'finish line:136'
+p190
+aS'prestigious marathon:142'
+p191
+aS'surveillance-camera footage:148'
+p192
+aS'bewilderment:195'
+p193
+aS'alarm:197'
+p194
+aS'complaint shed:222'
+p195
+aS'obama administration:234'
+p196
+aS'federal court system:248'
+p197
+aS'enemy combatant:261'
+p198
+aS'tribunal:266'
+p199
+aS'defendants:269'
+p200
+aS'constitutional protections:276'
+p201
+aS'naturalised u.s. citizen:283'
+p202
+aS'u.s. law:289'
+p203
+aS'american citizens:292'
+p204
+aS'military tribunals:299'
+p205
+aS'white house:303'
+p206
+aS'white house spokesman jay carney:303'
+p207
+aS'legal process:314'
+p208
+aS'indictment:323'
+p209
+aS'federal prosecutors:327'
+p210
+aS'charges:331'
+p211
+aS'state prosecutors:333'
+p212
+aS'massachusetts institute of technology police officer:348'
+p213
+aS'cruiser:359'
+p214
+aS'arraignment:385'
+p215
+aS'federal court:387'
+p216
+aS'federal law:401'
+p217
+aS'defendant:406'
+p218
+aS'potential death penalty:414'
+p219
+aS'kazakhstans ministry of foreign affairs:486'
+p220
+aS'u.s. officials comments:493'
+p221
+aS'suspects:501'
+p222
+aS'modes of communication:503'
+p223
+aS'associations:508'
+p224
+aS'two foreign nationals:510'
+p225
+aS'immigration violations:517'
+p226
+aS'central asian nation:522'
+p227
+aS'criminal:553'
+p228
+aS'gunshot:559'
+p229
+aS'head:563'
+p230
+aS'neck:565'
+p231
+aS'legs:567'
+p232
+aS'hands:569'
+p233
+aS'boat:578'
+p234
+aS'backyard:581'
+p235
+aS'boston suburb of watertown:584'
+p236
+aS'document:590'
+p237
+aS'chilling detail:593'
+p238
+aS'suspects flight:597'
+p239
+aS'carjacking victim:613'
+p240
+aS'getaway attempt:617'
+p241
+aS'boston explosion:625'
+p242
+aS'unveiled:637'
+p243
+aS'boston-area residents:639'
+p244
+aS'well-wishers:645'
+p245
+aS'president barack obama:647'
+p246
+aS'white house:652'
+p247
+aS'bombs exploded:669'
+p248
+aS'ap video footage:672'
+p249
+aS'blasts:682'
+p250
+aS'kazakh foreign ministry video footage:696'
+p251
+aS'phone:705'
+p252
+aS'blasts:708'
+p253
+aS'kazakh foreign ministry:723'
+p254
+asS'unexpl'
+p255
+(lp256
+g149
+asS'ocassion'
+p257
+g149
+sS'link'
+p258
+S'http://www.thehindu.com/todays-paper/tp-international/use-of-wmd-among-boston-charges/article4648792.ece'
+p259
+sS'date'
+p260
+S'15-04-2013'
+p261
+sS'target'
+p262
+g149
+sS'hot_spot'
+p263
+g149
+sS'delivery_mod'
+p264
+S'PRESSURE COOKER'
+p265
+sS'delivery_met'
+p266
+S'PLANTED'
+p267
+sS'expl'
+p268
+(lp269
+S'SHRAPNEL'
+p270
+asS'ORG'
+p271
+(lp272
+(lp273
+S'FBI'
+p274
+aS'146'
+p275
+aS'Others'
+p276
+aa(lp277
+S'Massachusetts Institute of Technology'
+p278
+aS'348'
+p279
+aS'Others'
+p280
+aa(lp281
+S'Massachusetts Institute'
+p282
+aS'348'
+p283
+aS'Others'
+p284
+aa(lp285
+S'Technology'
+p286
+aS'351'
+p287
+aS'Others'
+p288
+aa(lp289
+S'AP'
+p290
+aS'672'
+p291
+aS'Others'
+p292
+aa(lp293
+S'FBI'
+p294
+aS'711'
+p295
+aS'Others'
+p296
+aas.

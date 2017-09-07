@@ -1,0 +1,329 @@
+{
+    "LOC": [
+        [
+            "Yerwada jail", 
+            "19", 
+            "Accused Location"
+        ], 
+        [
+            "Yerwada", 
+            "51", 
+            "Accused Location"
+        ], 
+        [
+            "Pune", 
+            "72", 
+            "Accused Location"
+        ], 
+        [
+            "Bangalore Chinnaswamy stadium", 
+            "225", 
+            "Event"
+        ], 
+        [
+            "Delhi Jama Masjid", 
+            "233", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "247", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "258", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "277", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "299", 
+            "Event"
+        ], 
+        [
+            "Pune 's Shrimant Dagdusheth Halwai Ganpati Temple", 
+            "299", 
+            "Event"
+        ], 
+        [
+            "Pune 's German Bakery Blast", 
+            "330", 
+            "Event"
+        ], 
+        [
+            "Yerwada", 
+            "356", 
+            "Accused Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammad Qateel Siddiqui", 
+            "14", 
+            "Accused"
+        ], 
+        [
+            "Sharad Mohol", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "Amol Bhalerao", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "75", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Afroz", 
+            "81", 
+            "Comment"
+        ], 
+        [
+            "Afroz", 
+            "139", 
+            "Comment"
+        ], 
+        [
+            "Siddiqui", 
+            "149", 
+            "Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Mohol", 
+            "172", 
+            "Accused"
+        ], 
+        [
+            "Bhalerao", 
+            "174", 
+            "Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "209", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "219", 
+            "Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "284", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "314", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "317", 
+            "Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "349", 
+            "Accused"
+        ], 
+        [
+            "Mohol", 
+            "359", 
+            "Accused"
+        ], 
+        [
+            "Bhalerao", 
+            "361", 
+            "Accused"
+        ], 
+        [
+            "Kishore Jadhav", 
+            "394", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 165"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:54", 
+        "Saturday:164", 
+        "November 2011:250", 
+        "May:263", 
+        "February 13 , 2010 : 307"
+    ], 
+    "death": "", 
+    "title": "Terror suspect's murder: definite reason yet to emerge", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Bangalore", 
+        " Bangalore Chinnaswamy stadium"
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "A day after the murder of suspected Indian Mujahideen ( IM ) operative Mohammad Qateel Siddiqui in the Yerwada jail here , a definite reason is yet to emerge . While the two jail inmates accused of the killing , Sharad Mohol and Amol Bhalerao , were arrested by the Yerwada police on Saturday , Siddiqui 's relatives accused the Maharashtra Anti-terrorism Sqaud ( ATS ) of foul play . In Pune to collect Siddiqui 's body , his cousin Mohammad Afroz stated that he had lost faith in the police machinery . What had he done ? The police could not prove anything . They had him for six months , he stated . He was murdered inside the jail while the ATS was in-charge of him . You can understand who wanted him killed , Mr Afroz said , suggesting that the ATS was responsible for Siddiqui 's murder . He stated that he had not been given the body by Saturday evening . Siddiqui was allegedly murdered by Mohol and Bhalerao on Fridaymorning . While ATS sources stated that the duo killed him because he was involved in anti-national activities , there are speculations that it might have been a IM hit job , as Siddiqui was being touted as the link to IM mastermind Yasin Bhatkal . Accused in the Bangalore Chinnaswamy stadium blast case and in the Delhi Jama Masjid blast case , he was arrested by the Special Cell of Delhi Police in November 2011 . He was later brought to Pune by the ATS in May to probe his involvement in the foiled bid to bomb a temple in Pune . According to the ATS , Siddiqui had confessed to being a part of the conspiracy to plant a bomb outside Pune 's Shrimant Dagdusheth Halwai Ganpati Temple on February 13 , 2010 , along with Yasin Bhatkal . Bhatkal is wanted in several other terror cases in the country , including Pune 's German Bakery Blast case . However , the ATS refused to comment on the IM link in Siddiqui 's murder . Meanwhile , the Yerwada police arrested Mohol and Bhalerao from the jail . They will be produced in court tomorrow . We will ask for police custody after which we will know the reason for the murder duringinvestigation , Police Inspector Kishore Jadhav stated . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "murder:5", 
+        "jail:34", 
+        "murder:151", 
+        "duo:184", 
+        "speculations:197", 
+        "probe:265", 
+        "foiled bid:270", 
+        "temple:275", 
+        "plant:295", 
+        "jail:364"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/terror-suspects-murder-definite-reason-yet-to-emerge/article3510985.ece", 
+    "date": "17-04-2010", 
+    "target": "STADIUM", 
+    "hot_spot": " Bangalore Chinnaswamy stadium", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Anti-terrorism Sqaud ( ATS )", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "anti-national activities", 
+            "192", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "217", 
+            "Accused"
+        ], 
+        [
+            "Delhi", 
+            "233", 
+            "Others"
+        ], 
+        [
+            "Special Cell", 
+            "244", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "248", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "282", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "340", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "346", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "357", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "378", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "392", 
+            "Others"
+        ]
+    ]
+}

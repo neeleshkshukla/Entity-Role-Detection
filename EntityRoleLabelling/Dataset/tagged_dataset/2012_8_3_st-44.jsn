@@ -1,0 +1,240 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Balgandharva Rang Mandir", 
+            "217", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "357", 
+            "Neutral"
+        ], 
+        [
+            "Yerawada jail", 
+            "377", 
+            "Neutral"
+        ], 
+        [
+            "Yerawada", 
+            "377", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "381", 
+            "Neutral"
+        ], 
+        [
+            "Pune police commissioner", 
+            "381", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "R.R. Patil", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Dayanand Patil", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "Dayanand", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "Dayanand Patil", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "Anna Hazares", 
+            "179", 
+            "Others"
+        ], 
+        [
+            "Dayanand Patil", 
+            "206", 
+            "Victim"
+        ], 
+        [
+            "Patil", 
+            "226", 
+            "Victim"
+        ], 
+        [
+            "Patil", 
+            "268", 
+            "Victim"
+        ], 
+        [
+            "Patil", 
+            "314", 
+            "Victim"
+        ], 
+        [
+            "Qateel Sheikh", 
+            "364", 
+            "Accused"
+        ], 
+        [
+            "Sheikhs", 
+            "392", 
+            "Others"
+        ], 
+        [
+            "Patil", 
+            "396", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:20", 
+        "Thursday morning:254", 
+        "Thursday:254", 
+        "June:361"
+    ], 
+    "death": "", 
+    "title": "Only the detonators exploded, says R.R. Patil", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "Not ruling out the terror angle in Wednesdays serial blasts in Pune , Maharashtra Home Minister R.R. Patil on Thursday said only the detonators in the Improvised Explosive Devices exploded , leaving behind the other material in the bombs . Speaking to the media after a fortnightly meeting to review intelligence and security , he said prima facie , ammonium nitrate appeared to be the material used , but only a laboratory analysis can confirm it . He said there had been no specific intelligence alert for the blasts . A joint team of the Anti Terrorism Squad ( ATS ) and the Pune Crime Branch were investigating the blasts along with central investigating agencies . Set off by electronic timers , four IEDs exploded , injuring one person , even as two bombs were defused . The injured man , Dayanand Patil , a tailor , who was caught in a blast after someone placed a bomb in his bag , is being questioned by the police . Dayanand Patil is allegedly a member of social activist Anna Hazares India Against Corruption movement , but the IAC has not been linked as yet to the blasts , the Minister said . Wednesdays reports said Dayanand Patil was walking away from the IAC protest venue near Balgandharva Rang Mandir when the bomb exploded . Mr. Patil refused to speak further on this issue , saying making anything public now would jeopardise the investigation . The police gathered CCTV footage from the area on Thursday morning . Denying reports that some CCTV cameras were not working , Mr. Patil said there was adequate material available and the police were going through it . High alert The Minister was confident that the case would be cracked soon . The security agencies are on a high alert in the State after the serial blasts and Mr. Patil appealed to the public not to touch any suspicious object and to report to the police any signs of suspicious activity or movement . Case of revenge ? While no one has been detained , police are questioning a few people in Pune . After the June murder of Qateel Sheikh , suspected to be linked to the Indian Mujahideen , in Yerawada jail , the Pune police commissioner had received an anonymous letter vowing revenge for Sheikhs death . Mr. Patil said the police were investigating any possible link between the letter and the blasts . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "ruling:2", 
+        "terror angle:5", 
+        "serial:9", 
+        "home minister:15", 
+        "home:15", 
+        "detonators:24", 
+        "Improvised Explosive Devices:27", 
+        "material:36", 
+        "meeting:48", 
+        "review intelligence:50", 
+        "security:53", 
+        "prima facie:57", 
+        "ammonium:60", 
+        "ammonium nitrate:60", 
+        "material:66", 
+        "laboratory analysis:72", 
+        "intelligence:85", 
+        "joint team:92", 
+        "anti terrorism:96", 
+        "terrorism squad:97", 
+        "squad:98", 
+        "pune crime:104", 
+        "pune:104", 
+        "crime:105", 
+        "crime branch:105", 
+        "branch:106", 
+        "IEDs:124", 
+        "exploded:125", 
+        "person:129", 
+        "man:140", 
+        "tailor:146", 
+        "blast:153", 
+        "someone:155", 
+        "bomb:158", 
+        "bag:161", 
+        "member:175", 
+        "activist:178", 
+        "corruption movement:183", 
+        "corruption:183", 
+        "movement:184", 
+        "iac:188", 
+        "minister:200", 
+        "iac protest venue:213", 
+        "iac:213", 
+        "protest venue:214", 
+        "bomb:222", 
+        "issue:233", 
+        "anything public:237", 
+        "jeopardise:241", 
+        "investigation:243", 
+        "cctv footage:248", 
+        "cctv:248", 
+        "footage:249", 
+        "area:252", 
+        "morning:255", 
+        "cctv:261", 
+        "cctv cameras:261", 
+        "material:273", 
+        "minister:286", 
+        "case:291", 
+        "security:298", 
+        "state:307", 
+        "serial:310", 
+        "public:318", 
+        "touch:321", 
+        "object:324", 
+        "report:327", 
+        "activity:335", 
+        "movement:337", 
+        "case:339", 
+        "revenge:341", 
+        "murder:362", 
+        "commissioner:383", 
+        "letter:388", 
+        "revenge:390", 
+        "death:393", 
+        "link:404", 
+        "letter:407"
+    ], 
+    "unexpl": [
+        "Electronic Timers", 
+        "Detonators"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/only-the-detonators-exploded-says-rr-patil/article3720237.ece", 
+    "date": "02-08-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Pune Crime Branch", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "India Against Corruption", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "373", 
+            "Others"
+        ]
+    ]
+}

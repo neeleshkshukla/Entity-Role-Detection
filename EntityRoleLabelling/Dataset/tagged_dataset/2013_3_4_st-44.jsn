@@ -1,0 +1,161 @@
+{
+    "LOC": [
+        [
+            "Patna village", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Jagatsinghpur district administration", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Jagatsinghpur", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Jagatsinghpur district administration", 
+            "24", 
+            "Neutral"
+        ], 
+        [
+            "Gobindpur", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Gobindpur Blast", 
+            "261", 
+            "Neutral"
+        ], 
+        [
+            "Gobindpur", 
+            "261", 
+            "Neutral"
+        ], 
+        [
+            "Gobindpur Blast", 
+            "261", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Satyabrata Bhoi", 
+            "98", 
+            "Comment"
+        ], 
+        [
+            "Bhoi", 
+            "99", 
+            "Comment"
+        ], 
+        [
+            "president Abhaya", 
+            "234", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "anti-POSCO : 10"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:21", 
+        "Sunday:31"
+    ], 
+    "death": "3", 
+    "title": "Posco land acquisition resumes", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "As uneasy calm prevailed after the death of three anti-POSCO project activists in a bomb explosion in Patna village on Saturday , the Jagatsinghpur district administration resumed acquiring land on Sunday for the South Korean majors mega steel plant . The betel vines of three persons were torn down at Gobindpur without any resistance many residents had fled the villages fearing police action and Rs . 10.45 lakh was paid in compensation . We have destroyed three vineyards . Land acquisition will be carried out on a bigger scale in the coming days , Superintendent of Police Satyabrata Bhoi said . The administration said one person was seriously injured in Saturdays explosion . But the Posco Pratirodh Sangram Samiti , which has been spearheading the movement against land acquisition , has urged all parties and rights organisations to carry out an independent investigation , charging the police with spreading a false propaganda over the deaths . The police claim that three persons lost their lives while preparing bombs is rubbish . In the past eight years of our struggle , we have never taken up arms . In fact , bombs were hurled at the three activists , who were in hiding for fear of police action . As heavy police deployment was made prior to the resumption of land acquisition , project supporters got excited and executed the fatal attack , PPSS president Abhaya Sahoo said . Betel vines of three persons destroyed at GobindpurBlast will not stop us , say protesters Betel vines of three persons destroyed at Gobindpur Blast will not stop us , say protesters OPEN", 
+    "injured": "1", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Jagatsinghpur", 
+        "patna", 
+        "Patna village "
+    ], 
+    "O": [
+        "As:1", 
+        "calm:3", 
+        "death:7", 
+        "project:11", 
+        "bomb explosion:15", 
+        "village:19", 
+        "district administration:25", 
+        "steel plant:38", 
+        "betel:42", 
+        "resistance:54", 
+        "action:63", 
+        "rs:65", 
+        "compensation:72", 
+        "land acquisition:80", 
+        "scale:89", 
+        "superintendent:95", 
+        "administration:103", 
+        "person:106", 
+        "saturdays explosion:111", 
+        "movement:126", 
+        "land acquisition:128", 
+        "investigation:143", 
+        "propaganda:152", 
+        "claim:159", 
+        "struggle:179", 
+        "fact:189", 
+        "hurled at the three activists:193", 
+        "fear:204", 
+        "action:207", 
+        "deployment:212", 
+        "resumption:218", 
+        "land acquisition:220", 
+        "project:223", 
+        "attack:231", 
+        "president:234", 
+        "betel vines:239", 
+        "gobindpurblast:246", 
+        "betel:254", 
+        "betel vines:254", 
+        "blast:262"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/posco-land-acquisition-resumes/article4473428.ece", 
+    "date": "02-03-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "anti-POSCO", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Posco Pratirodh Sangram Samiti", 
+            "116", 
+            "Others"
+        ], 
+        [
+            "PPSS", 
+            "233", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,269 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Srinagar'
+p4
+aS'8'
+p5
+aS'Event'
+p6
+aa(lp7
+S'NEW DELHI'
+p8
+aS'18'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Srinagar'
+p12
+aS'35'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Kashmir Valley'
+p16
+aS'127'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Srinagar'
+p20
+aS'159'
+p21
+aS'Event'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Anil Chowdhary'
+p26
+aS'73'
+p27
+aS'Comment'
+p28
+aa(lp29
+S'Chowdhary'
+p30
+aS'164'
+p31
+aS'Comment'
+p32
+aasS'TIM'
+p33
+(lp34
+S'two months : 113'
+p35
+asS'hot_setting'
+p36
+S''
+p37
+sS'DAT'
+p38
+(lp39
+S'Wednesday : 43'
+p40
+asS'death'
+p41
+S'5'
+p42
+sS'title'
+p43
+S'NSG experts to assist probe  into Srinagar car bomb blast'
+p44
+sS'det_loc'
+p45
+(lp46
+S'India'
+p47
+aS'Jammu & Kashmir'
+p48
+aS'Srinagar'
+p49
+aS'Srinagar'
+p50
+ag37
+asS'terror_group'
+p51
+(lp52
+S'HIZB-UL-MUJAHIDEEN / HIZB-UL-MUJAHIDEEN PIR PANJAL REGIMENT'
+p53
+asS'content'
+p54
+VNational NSG experts to assist probe into Srinagar car bomb blast . . Special Correspondent . . NEW DELHI : The Centre has rushed NSG -LRB- National Security Guards -RRB- and forensic experts to Srinagar to assist the security forces in probing Wednesday 's car bomb blast there , in which three Army personnel and two civilians were killed . . . Special Secretary -LRB- Internal Security -RRB- in the Home Ministry Anil Chowdhary said here that reports indicated that militants rammed an explosives-laden car into an Army jeep . Details were being collected to confirm the Hizbul Mujahideen 's claims about the blast , the sixth such incident over the past two months . . . On the rise in car bomb attacks in the Kashmir Valley , he said militants were desperate to make their presence felt . The police were instructed to step up searches of vehicles moving in or out of VIP areas in Srinagar . . . Mr. Chowdhary said militants were increasingly resorting to grenade attacks and car bombs to inflict maximum damage and get publicity as well . Terrorists were gaining expertise in setting up car bombs .
+p55
+sS'injured'
+p56
+g37
+sS'org_unorg'
+p57
+g37
+sS'O'
+p58
+(lp59
+S'National NSG experts:1'
+p60
+aS'assist probe:5'
+p61
+aS'car bomb blast:9'
+p62
+aS'Special Correspondent:14'
+p63
+aS'Centre:22'
+p64
+aS'forensic experts:32'
+p65
+aS'assist:37'
+p66
+aS'security forces:39'
+p67
+aS'probing:42'
+p68
+aS'car bomb blast:45'
+p69
+aS'Army personnel:53'
+p70
+aS'two civilians:56'
+p71
+aS'killed:59'
+p72
+aS'Internal Security:66'
+p73
+aS'reports:78'
+p74
+aS'militants:81'
+p75
+aS'rammed:82'
+p76
+aS'explosives-laden car:84'
+p77
+aS'Army jeep:88'
+p78
+aS'confirm:96'
+p79
+aS'claims:101'
+p80
+aS'blast:104'
+p81
+aS'incident:109'
+p82
+aS'car bomb attacks:122'
+p83
+aS'militants:132'
+p84
+aS'desperate:134'
+p85
+aS'presence felt:138'
+p86
+aS'instructed:144'
+p87
+aS'searches:148'
+p88
+aS'vehicles:150'
+p89
+aS'VIP:156'
+p90
+aS'militants:166'
+p91
+aS'increasingly resorting:168'
+p92
+aS'grenade attacks:171'
+p93
+aS'car bombs:174'
+p94
+aS'inflict:177'
+p95
+aS'maximum damage:178'
+p96
+aS'publicity:182'
+p97
+aS'Terrorists:186'
+p98
+aS'expertise:189'
+p99
+aS'car bombs:193'
+p100
+asS'unexpl'
+p101
+(lp102
+g37
+asS'ocassion'
+p103
+g37
+sS'link'
+p104
+S'http://www.thehindu.com/2005/07/21/stories/2005072106271200.htm'
+p105
+sS'date'
+p106
+S'20-07-2005'
+p107
+sS'target'
+p108
+g37
+sS'hot_spot'
+p109
+g37
+sS'delivery_mod'
+p110
+S'CAR'
+p111
+sS'delivery_met'
+p112
+S'PLANTED'
+p113
+sS'expl'
+p114
+(lp115
+g37
+asS'ORG'
+p116
+(lp117
+(lp118
+S'NSG'
+p119
+aS'2'
+p120
+aS'Others'
+p121
+aa(lp122
+S'NSG'
+p123
+aS'25'
+p124
+aS'Others'
+p125
+aa(lp126
+S'National Security Guards'
+p127
+aS'27'
+p128
+aS'Others'
+p129
+aa(lp130
+S'Army'
+p131
+aS'53'
+p132
+aS'Others'
+p133
+aa(lp134
+S'Army'
+p135
+aS'88'
+p136
+aS'Others'
+p137
+aa(lp138
+S'Hizbul Mujahideen'
+p139
+aS'98'
+p140
+aS'Accused'
+p141
+aas.

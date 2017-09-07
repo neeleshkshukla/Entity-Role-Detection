@@ -1,0 +1,448 @@
+{
+    "LOC": [
+        [
+            "Hyderabad Police", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "69", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "151", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "161", 
+            "Neutral"
+        ], 
+        [
+            "Madivala", 
+            "209", 
+            "Neutral"
+        ], 
+        [
+            "Mecca", 
+            "260", 
+            "Event"
+        ], 
+        [
+            "Mecca Masjid", 
+            "260", 
+            "Event"
+        ], 
+        [
+            "Masjid", 
+            "261", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "308", 
+            "Accused Location"
+        ], 
+        [
+            "Pakistan or Bangladesh", 
+            "308", 
+            "Accused Location"
+        ], 
+        [
+            "Bangladesh", 
+            "310", 
+            "Accused Location"
+        ], 
+        [
+            "Madivala", 
+            "363", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "404", 
+            "Neutral"
+        ], 
+        [
+            "Gulshan Iqbal Colony", 
+            "432", 
+            "Neutral"
+        ], 
+        [
+            "Colony", 
+            "434", 
+            "Neutral"
+        ], 
+        [
+            "Hafeezbaba Nagar", 
+            "436", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ibrahim Ali Junaid", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Ibrahim Ali", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Junaid", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Sheik Abdul Kaleem", 
+            "136", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Imran", 
+            "140", 
+            "Accused"
+        ], 
+        [
+            "Arshad", 
+            "146", 
+            "Accused"
+        ], 
+        [
+            "Kaleem", 
+            "241", 
+            "Accused"
+        ], 
+        [
+            "Salim Bhardhwa", 
+            "315", 
+            "Assoc Accused"
+        ], 
+        [
+            "Salim", 
+            "329", 
+            "Assoc Accused", 
+            "Others"
+        ], 
+        [
+            "Shahid Bilal", 
+            "339", 
+            "Assoc Accused"
+        ], 
+        [
+            "Dr. S. Malini", 
+            "350", 
+            "Others"
+        ], 
+        [
+            "Ibrahim Ali", 
+            "370", 
+            "Accused"
+        ], 
+        [
+            "Ibrahim Ali Junaid", 
+            "370", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Junaid", 
+            "372", 
+            "Accused"
+        ], 
+        [
+            "Dr. Junaid", 
+            "390", 
+            "Accused"
+        ], 
+        [
+            "Junaid", 
+            "391", 
+            "Accused"
+        ], 
+        [
+            "Dr. Junaid", 
+            "426", 
+            "Accused"
+        ], 
+        [
+            "Junaid", 
+            "427", 
+            "Accused"
+        ], 
+        [
+            "Devender Gupta", 
+            "478", 
+            "Accused"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "481", 
+            "Accused"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "491", 
+            "Accused"
+        ], 
+        [
+            "Naba Kumar", 
+            "494", 
+            "Accused"
+        ], 
+        [
+            "Sandeep V. Dange", 
+            "545", 
+            "Accused"
+        ], 
+        [
+            "Ramachandra Kalsangra", 
+            "549", 
+            "Accused"
+        ], 
+        [
+            "Sunil Joshi", 
+            "552", 
+            "Accused"
+        ], 
+        [
+            "Bharat Mohanlal", 
+            "555", 
+            "Accused"
+        ], 
+        [
+            "Bharat Mohanlal Rateswar", 
+            "555", 
+            "Accused"
+        ], 
+        [
+            "Rateswar", 
+            "557", 
+            "Accused"
+        ], 
+        [
+            "Rajendra Chaudhary", 
+            "559", 
+            "Accused"
+        ], 
+        [
+            "Tejaram", 
+            "562", 
+            "Accused"
+        ], 
+        [
+            "Sandeep Dange and Ramachandra Kalsangra", 
+            "565", 
+            "Accused"
+        ], 
+        [
+            "Sandeep Dange", 
+            "565", 
+            "Accused"
+        ], 
+        [
+            "Ramachandra Kalsangra", 
+            "568", 
+            "Accused"
+        ], 
+        [
+            "Sunil Joshi", 
+            "574", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007:6", 
+        "May 18:65", 
+        "September 21 , 2007:234", 
+        "June 2010:484"
+    ], 
+    "death": "14", 
+    "title": "Mecca blast case casts doubts on narco", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Right Wing Activists"
+    ], 
+    "content": "The sensational turnaround of the 2007 Mecca Masjid bomb blast case investigations has punctured another hole into the veracity of narco analysis tests . Despite the enthusiasm shown by police for these tests to investigate complex crimes , the courts have always been circumspect . After the blast that killed 14 persons , including five in subsequent police firing on a riotous mob on May 18 , the Hyderabad Police had picked up several Muslim youths for interrogation , besides booking six based on narco test reports . Three years later , first the Central Bureau of Investigation ( CBI ) and later the National Investigating Agency ( NIA ) had confirmed the involvement of as many as nine right wing activists . Before that police conducted narco analysis tests on Ibrahim Ali Junaid , Sheik Abdul Kaleem , Imran , Majid , Kareem and Arshad , all residents of Hyderabad , at the Bowring and Lady Curzon Hospital , Bangalore , to establish their role in the blast . A perusal of one of the reports ( scanned copy available ) filed after the test was done on Kaleem , unambiguously indicates that he had confessed to his involvement in the crime . In fact , the Madivala Forensic Science Laboratory ( FSL ) , in a communication to the Joint Commissioner of Police , Special Investigation Cell ( SIC ) on September 21 , 2007 , stated that Kaleem had appeared to be concealing some relevant information with regard to a suspected case of terrorist activity in Mecca Masjid , during the polygraph examination . He was also subjected to narco analysis test at the Bowring and Lady Curzon Hospital , where Kaleem in a state of trance was reported to have given a detailed description of his accomplices fabricating bombs and they fleeing to Pakistan or Bangladesh . He also mentions Salim Bhardhwa , another accomplice , and the role of an ISI agent , Salim , who was supposed to be a friend of Shahid Bilal ( reportedly killed in a Karachi shoot-out ) . Dr. S. Malini , Assistant Director , Forensic Psychology Division , FSL , Madivala , had signed the letter . Ibrahim Ali Junaid , then a Unani medicine student , too was subjected to the test . When contacted , Dr. Junaid claimed that he was subjected to the test for a week in Bangalore by a six-member team , and that each test lasted 90 minutes . After he was acquitted by the court , Dr. Junaid opened a clinic in Gulshan Iqbal Colony in Hafeezbaba Nagar . Debunking the test results a few years later and rather stunningly , the CBI and the NIA have come to the conclusion that the perpetrators of the blast were of a different colour . The CBI had first arrested Devender Gupta and Lokesh Sharma in June 2010 , and five months later Swami Aseemanand alias Naba Kumar too was held . Interestingly , the six of the Hyderabadi suspects were acquitted in the case , and the Andhra Pradesh Government had paid compensation to them also . The NIA , which took up the case in 2011 , had named six others in the blast : Sandeep V. Dange , Ramachandra Kalsangra , Sunil Joshi , Bharat Mohanlal Rateswar , Rajendra Chaudhary and Tejaram . While Sandeep Dange and Ramachandra Kalsangra are still absconding , Sunil Joshi is no more . So , where does this leave the status of narco analysis tests ? Despite the enthusiasm shown by police for narco analysis tests to investigate complex crimes , courts have always been circumspect about them OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Saudi Arabia", 
+        "", 
+        "", 
+        "Mecca", 
+        "Mecca Masjid"
+    ], 
+    "O": [
+        "turnaround:3", 
+        "mecca:7", 
+        "mecca masjid bomb blast case:7", 
+        "mecca masjid bomb blast case investigations:7", 
+        "masjid bomb blast case:8", 
+        "veracity:19", 
+        "narco analysis:21", 
+        "enthusiasm:27", 
+        "complex:36", 
+        "blast:48", 
+        "firing:59", 
+        "mob:63", 
+        "interrogation:78", 
+        "narco test:85", 
+        "national:105", 
+        "agency:107", 
+        "involvement:114", 
+        "wing:121", 
+        "narco analysis:128", 
+        "lady curzon:157", 
+        "curzon hospital:158", 
+        "blast:169", 
+        "perusal:172", 
+        "test:186", 
+        "involvement:200", 
+        "crime:203", 
+        "fact:206", 
+        "science laboratory:211", 
+        "fsl:214", 
+        "communication:219", 
+        "joint commissioner:222", 
+        "investigation cell:228", 
+        "sic:231", 
+        "information:249", 
+        "regard:251", 
+        "case:255", 
+        "terrorist activity:257", 
+        "polygraph examination:265", 
+        "narco analysis test:273", 
+        "state:288", 
+        "trance:290", 
+        "description:298", 
+        "accomplice:319", 
+        "role:323", 
+        "isi:326", 
+        "isi agent:326", 
+        "friend:337", 
+        "karachi shoot-out:346", 
+        "karachi:346", 
+        "shoot-out:347", 
+        "assistant:354", 
+        "assistant director:354", 
+        "director:355", 
+        "psychology:358", 
+        "psychology division:358", 
+        "division:359", 
+        "fsl:361", 
+        "letter:368", 
+        "unani medicine student:376", 
+        "unani:376", 
+        "medicine student:377", 
+        "test:385", 
+        "test:399", 
+        "week:402", 
+        "six-member team:407", 
+        "test:413", 
+        "90 minutes:415", 
+        "court:424", 
+        "clinic:430", 
+        "conclusion:460", 
+        "blast:466", 
+        "colour:471", 
+        "hyderabadi:506", 
+        "case:512", 
+        "compensation:521", 
+        "nia:527", 
+        "case:533", 
+        "blast:543", 
+        "leave:585", 
+        "status:587", 
+        "narco analysis:589", 
+        "enthusiasm:595", 
+        "narco analysis:600", 
+        "complex:605"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-miscellaneous/mecca-blast-case-casts-doubts-on-narco/article4445364.ece", 
+    "date": "18-05-2007", 
+    "target": "Religious Places", 
+    "hot_spot": "Mecca Masjid", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Central Bureau of Investigation", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "Forensic Science Laboratory", 
+            "210", 
+            "Others"
+        ], 
+        [
+            "FSL", 
+            "214", 
+            "Others"
+        ], 
+        [
+            "Special Investigation Cell", 
+            "227", 
+            "Others"
+        ], 
+        [
+            "SIC", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "Lady Curzon Hospital", 
+            "280", 
+            "Others"
+        ], 
+        [
+            "ISI", 
+            "326", 
+            "Assoc Accused"
+        ], 
+        [
+            "CBI", 
+            "452", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "455", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "474", 
+            "Others"
+        ], 
+        [
+            "Andhra Pradesh Government", 
+            "516", 
+            "Others"
+        ]
+    ]
+}

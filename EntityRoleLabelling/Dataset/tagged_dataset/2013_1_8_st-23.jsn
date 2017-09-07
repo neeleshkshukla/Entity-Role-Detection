@@ -1,0 +1,86 @@
+{
+    "LOC": [
+        [
+            "Kondong", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Moreh", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Chandel", 
+            "45", 
+            "Neutral"
+        ], 
+        [
+            "Moreh", 
+            "60", 
+            "Event"
+        ], 
+        [
+            "Khoibu", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "Chandel", 
+            "119", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Thangminlien Haokip", 
+            "54", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:21", 
+        "Monday:75", 
+        "Sunday:122"
+    ], 
+    "death": "", 
+    "title": "Tribal youth killed in blast", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A foreign-made bomb , planted along the highway near the Manipur-Myanmar border and targeting security personnel , prematurely exploded on Sunday night , killing a tribal youth on the spot . The blast took place at Kondong near Moreh , the border town in Chandel district . The victim has been identified as Thangminlien Haokip ( 25 ) of Moreh . Police have started an investigation . The local residents staged a sit-in on Monday demanding justice . In the recent past there have been a series of bomb blasts in these parts killing and wounding security personnel and villagers . Meanwhile , there was a fierce exchange of fire between insurgents and security personnel at Khoibu in Chandel district on Sunday night . No casualties have been reported . OPEN", 
+    "injured": "1", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Chandel", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "manipur-myanmar border:11", 
+        "security:15", 
+        "investigation:66", 
+        "bomb blasts:89", 
+        "security:97", 
+        "exchange of fire:108", 
+        "insurgents:112"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tribal-youth-killed-in-blast/article4284980.ece", 
+    "date": "06-01-2013", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

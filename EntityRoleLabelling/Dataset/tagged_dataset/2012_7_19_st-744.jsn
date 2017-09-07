@@ -1,0 +1,201 @@
+{
+    "LOC": [
+        [
+            "Damascus", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Syria", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Rawda", 
+            "58", 
+            "Event"
+        ], 
+        [
+            "Al-Shami hospital", 
+            "93", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Damascus", 
+            "184", 
+            "Event", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "General Daoud Rajha", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "Rajha", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "Interior Minister Mohammed", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "Mohammed al-Shaar", 
+            "106", 
+            "Victim"
+        ], 
+        [
+            "Rajha", 
+            "113", 
+            "Victim"
+        ], 
+        [
+            "Bashar al-Assad", 
+            "139", 
+            "Victim"
+        ], 
+        [
+            "Hisham Ikhtiyar", 
+            "161", 
+            "Victim"
+        ], 
+        [
+            "Ikhtiyar", 
+            "170", 
+            "Victim"
+        ], 
+        [
+            "Assad", 
+            "206", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "Suicide bombing", 
+    "DAT": [
+        "Wednesday:16"
+    ], 
+    "death": "", 
+    "title": "Syria defence minister killed in bomb attack", 
+    "org_unorg": "Unorganized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": ": Syrian defence minister General Daoud Rajha died in a suicide attack in Damascus on Wednesday , as raging battles across the capital upped the stakes ahead of a Security Council vote on the Syria crisis . State television said a suicide bomber targeted a meeting of ministers and security officials at the National Security headquarters in Rawda , a high security district in the heart of the capital , killing Rajha . Security officials told AFP that several other participants in the meeting were wounded in the blast and taken to Al-Shami hospital in the capital for treatment . The officials said Interior Minister Mohammed al-Shaar was among the wounded . Rajha , a Christian , was defence minister , deputy army chief and deputy of the Council of Ministers . Syria 's army chief is President Bashar al-Assad . The National Security branch -- a key part of the country 's security apparatus -- is headed by General Hisham Ikhtiyar . There was no immediate news of Ikhtiyar 's fate after the bombing . The attack came as battles raged across Damascus and after the Free Syrian Army ( FSA ) -- comprising defected soldiers and civilians who have taken up arms against Assad 's forces -- warned the Assad regime to `` expect surprises . '' OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        "Rawda", 
+        "Damascus, National Security headquarters,Rawda"
+    ], 
+    "O": [
+        "defence minister:3", 
+        "defence minister general:3", 
+        "general daoud:5", 
+        "rajha:7", 
+        "suicide attack:11", 
+        "damascus:14", 
+        "capital:23", 
+        "security:30", 
+        "security council:30", 
+        "council vote:31", 
+        "council:31", 
+        "vote:32", 
+        "syria crisis:35", 
+        "syria:35", 
+        "crisis:36", 
+        "state television:38", 
+        "suicide bomber:42", 
+        "meeting:46", 
+        "security:50", 
+        "national security headquarters:54", 
+        "national security:54", 
+        "national:54", 
+        "security:55", 
+        "security district:62", 
+        "heart:66", 
+        "capital:69", 
+        "security:74", 
+        "afp:77", 
+        "meeting:84", 
+        "blast:89", 
+        "al-shami:93", 
+        "al-shami hospital:93", 
+        "hospital:94", 
+        "capital:97", 
+        "treatment:99", 
+        "christian:116", 
+        "defence minister:119", 
+        "deputy army chief:122", 
+        "deputy:126", 
+        "council:129", 
+        "council of ministers:129", 
+        "ministers:131", 
+        "army chief:135", 
+        "president bashar:138", 
+        "national security branch:143", 
+        "national:143", 
+        "security branch:144", 
+        "key part:148", 
+        "country:152", 
+        "security apparatus:154", 
+        "general hisham ikhtiyar:160", 
+        "news:168", 
+        "fate:172", 
+        "bombing:175", 
+        "attack:178", 
+        "damascus:184", 
+        "free:188", 
+        "army:190", 
+        "fsa:192", 
+        "assad regime:212", 
+        "assad:212", 
+        "regime:213"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/syria-defence-minister-killed-in-bomb-attack/article3655447.ece", 
+    "date": "20-07-2012", 
+    "target": "Government Building", 
+    "hot_spot": "National Security headquarters,Raw", 
+    "delivery_mod": "Human", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Security Council", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "National Security headquarters", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "Free Syrian Army", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "Assad regime", 
+            "212", 
+            "Others"
+        ]
+    ]
+}

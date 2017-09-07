@@ -1,0 +1,428 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Maharashtra'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Mumbai'
+p8
+aS'27'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Bahawalpur'
+p12
+aS'57'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Pakistan'
+p16
+aS'59'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Bahawalpur'
+p20
+aS'125'
+p21
+aS'Accused Location'
+p22
+aa(lp23
+S'Afghanistan'
+p24
+aS'141'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'India'
+p28
+aS'200'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Mumbai'
+p32
+aS'209'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Kolkata'
+p36
+aS'270'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'India'
+p40
+aS'283'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Kandahar'
+p44
+aS'286'
+p45
+aS'Accused Location'
+p46
+aa(lp47
+S'Kandahar'
+p48
+aS'312'
+p49
+aS'Accused Location'
+p50
+aasS'PER'
+p51
+(lp52
+(lp53
+S'Osama bin Laden'
+p54
+aS'44'
+p55
+aS'Assoc Accused'
+p56
+aa(lp57
+S'Haroon Rashid Naik'
+p58
+aS'48'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Osama'
+p62
+aS'52'
+p63
+aS'Assoc Accused'
+p64
+aa(lp65
+S'Haroon'
+p66
+aS'64'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Haroon'
+p70
+aS'83'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Osama'
+p74
+aS'120'
+p75
+aS'Assoc Accused'
+p76
+aa(lp77
+S'Haroon'
+p78
+aS'134'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Haroon'
+p82
+aS'184'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Zaki-ur-Rehman Lakhvi'
+p86
+aS'186'
+p87
+aS'Assoc Accused'
+p88
+aa(lp89
+S'Haroon'
+p90
+aS'246'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Aftab Ansari'
+p94
+aS'257'
+p95
+aS'Assoc Accused'
+p96
+aa(lp97
+S'Sheikh Omar'
+p98
+aS'273'
+p99
+aS'Assoc Accused'
+p100
+aa(lp101
+S'Sheikh Omar'
+p102
+aS'296'
+p103
+aS'Assoc Accused'
+p104
+aa(lp105
+S'Haroon'
+p106
+aS'301'
+p107
+aS'Accused'
+p108
+aasS'TIM'
+p109
+(lp110
+S'evening : 118'
+p111
+asS'hot_setting'
+p112
+S''
+p113
+sS'DAT'
+p114
+(lp115
+S'Tuesday : 9'
+p116
+aS'July 13 , 2011 : 23'
+p117
+aS'August 2001 : 54'
+p118
+aS'August 2011 : 90'
+p119
+aS'July 13 , 2011 : 106'
+p120
+aS'2001 : 182'
+p121
+aS'November 26 , 2008 : 203'
+p122
+aS'2001 : 254'
+p123
+aS'2002 : 263'
+p124
+asS'death'
+p125
+g113
+sS'title'
+p126
+S'13/7 suspect met Osama in Pakistan: ATS'
+p127
+sS'org_unorg'
+p128
+g113
+sS'terror_group'
+p129
+(lp130
+S'INDIAN MUJAHIDEEN'
+p131
+asS'content'
+p132
+S"Maharashtra Anti-Terrorism Squad ( ATS ) officials on Tuesday said an alleged Indian Mujahideen ( IM ) operative , arrested for the July 13 , 2011 Mumbai bomb blasts case , had links with al-Qaeda , Jaish-e-Mohammad , Lashkar-e-Taiba operatives and had met Osama bin Laden . Haroon Rashid Naik met Osama in August 2001 in Bahawalpur -LSB- Pakistan -RSB- when he -LSB- Haroon -RSB- was undergoing Daura-e-Khaas training , a highly placed ATS official said here on condition of anonymity . Haroon was arrested by the ATS in August 2011 in a fake currency case . The agency recently sought his custody in the July 13 , 2011 blasts case . Only Indian ' Suddenly one evening , Osama landed there -LSB- in Bahawalpur -RSB- and gave an inspirational speech after which Haroon said he wanted to go to Afghanistan for Jihad , the official said . He was probably the only Indian in that training where 30-35 handpicked persons , mainly foreigners , including whites , were being trained , he has told us , he said . In 2001 , Haroon met Zaki-ur-Rehman Lakhvi , an LeT operative believed to be behind many terror attacks in India including the November 26 , 2008 attack in Mumbai . He is the IM 's contact with various terror groups . He is the top level person who is involved in strategising , financing . He never gets into operations , an official said . Haroon has allegedly told the ATS that in 2001 he met Aftab Ansari ( accused in the 2002 attack on the American Centre in Kolkata ) and Sheikh Omar , one of the three terrorists released by India after the Kandahar episode of Indian Airlines flight hijack . It was Sheikh Omar who arranged for Haroon to go for a 40-day fighting course for Jihad at Kandahar under the al-Qaeda , the officer said . OPEN"
+p133
+sS'injured'
+p134
+g113
+sS'det_loc'
+p135
+(lp136
+S'India'
+p137
+aS'Maharashtra'
+p138
+aS'Mumbai-City'
+p139
+aS'Mumbai'
+p140
+ag113
+asS'O'
+p141
+(lp142
+S'arrested:20'
+p143
+aS'Mumbai bomb blasts case:27'
+p144
+aS'Daura-e-Khaas training:68'
+p145
+aS'condition of anonymity:79'
+p146
+aS'arrested:85'
+p147
+aS'fake currency case:94'
+p148
+aS'inspirational speech:130'
+p149
+aS'Jihad:143'
+p150
+aS'30-35 handpicked persons:159'
+p151
+aS'foreigners:164'
+p152
+aS'whites:167'
+p153
+aS'trained:171'
+p154
+aS'terror attacks:197'
+p155
+aS'terror groups:219'
+p156
+aS'strategising:232'
+p157
+aS'financing:234'
+p158
+aS'operations:240'
+p159
+aS'American Centre:267'
+p160
+aS'three terrorists:279'
+p161
+aS'Indian Airlines flight hijack:289'
+p162
+aS'40-day fighting course:306'
+p163
+aS'Jihad:310'
+p164
+asS'unexpl'
+p165
+(lp166
+g113
+asS'ocassion'
+p167
+g113
+sS'link'
+p168
+S'http://www.thehindu.com/todays-paper/tp-national/137-suspect-met-osama-in-pakistan-ats/article2870479.ece'
+p169
+sS'date'
+p170
+S'13-07-2011'
+p171
+sS'target'
+p172
+S'PUBLIC PLACES'
+p173
+sS'hot_spot'
+p174
+g113
+sS'delivery_mod'
+p175
+g113
+sS'delivery_met'
+p176
+S'PLANTED'
+p177
+sS'expl'
+p178
+(lp179
+g113
+asS'ORG'
+p180
+(lp181
+(lp182
+S'Anti-Terrorism Squad'
+p183
+aS'2'
+p184
+aS'Others'
+p185
+aa(lp186
+S'ATS'
+p187
+aS'5'
+p188
+aS'Others'
+p189
+aa(lp190
+S'Indian Mujahideen'
+p191
+aS'13'
+p192
+aS'Accused'
+p193
+aa(lp194
+S'IM'
+p195
+aS'16'
+p196
+aS'Accused'
+p197
+aa(lp198
+S'al-Qaeda'
+p199
+aS'35'
+p200
+aS'Assoc Accused'
+p201
+aa(lp202
+S'Jaish-e-Mohammad'
+p203
+aS'37'
+p204
+aS'Assoc Accused'
+p205
+aa(lp206
+S'Lashkar-e-Taiba'
+p207
+aS'39'
+p208
+aS'Assoc Accused'
+p209
+aa(lp210
+S'ATS'
+p211
+aS'74'
+p212
+aS'Others'
+p213
+aa(lp214
+S'ATS'
+p215
+aS'88'
+p216
+aS'Others'
+p217
+aa(lp218
+S'LeT'
+p219
+aS'190'
+p220
+aS'Accused'
+p221
+aa(lp222
+S'IM'
+p223
+aS'214'
+p224
+aS'Accused'
+p225
+aa(lp226
+S'ATS'
+p227
+aS'251'
+p228
+aS'Others'
+p229
+aa(lp230
+S'al-Qaeda'
+p231
+aS'315'
+p232
+aS'Assoc Accused'
+p233
+aas.

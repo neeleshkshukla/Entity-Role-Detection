@@ -1,0 +1,275 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Hama'
+p4
+aS'54'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Damascus'
+p8
+aS'74'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Midan'
+p12
+aS'79'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Damascus'
+p16
+aS'132'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Banias'
+p20
+aS'156'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'UN'
+p24
+aS'199'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Syria'
+p28
+aS'241'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Homs'
+p32
+aS'265'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'UN'
+p36
+aS'302'
+p37
+aS'Neutral'
+p38
+aasS'PER'
+p39
+(lp40
+(lp41
+S'Bashar al-Assad'
+p42
+aS'117'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Assad'
+p46
+aS'166'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Ban Ki-moon'
+p50
+aS'201'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Assad'
+p54
+aS'294'
+p55
+aS'Others'
+p56
+aasS'TIM'
+p57
+(lp58
+sS'hot_setting'
+p59
+S''
+p60
+sS'DAT'
+p61
+(lp62
+S'Friday : 10'
+p63
+aS'Monday : 69'
+p64
+aS'April 12 : 195'
+p65
+aS'Thursday : 235'
+p66
+aS'March 2011 : 298'
+p67
+asS'death'
+p68
+S'12'
+p69
+sS'title'
+p70
+S'Syria in violation of truce, says UN chief'
+p71
+sS'org_unorg'
+p72
+g60
+sS'terror_group'
+p73
+(lp74
+g60
+asS'content'
+p75
+S"A deadly suicide bombing rocked the Syrian capital on Friday , capping a week of non-stop violence that has killed dozens and fuelled growing scepticism about hopes for the success of a UN-backed peace plan . Amid the unrest , demonstrations were taking place after weekly Muslim prayers in flashpoint cities such as Hama , where shelling by government troops has reportedly killed more than 100 people since Monday . The explosion shook Damascus ' central district of Midan , killing at least seven and wounding 20 , state television said , with civilians and security force members among the casualties . It blamed `` terrorists , '' the term used by the regime of President Bashar al-Assad to refer to rebels . A separate blast hit an industrial zone of Damascus , but there were no reports of casualties , and three security agents were wounded in a blast in the coastal city of Banias , the Syrian Observatory for Human Rights said . Assad 's regime has repeatedly blamed `` armed terrorist groups '' for the violence , and for failing to abide by a putative ceasefire that went into force on April 12 . But UN chief Ban Ki-moon said the regime was in contravention of a six-point peace deal by keeping troops and heavy weapons in urban areas , and expressed alarm about reports population centres were shelled . On Thursday , 22 people died in Syria , most of them civilians , the Britain-based Observatory said . And overnight clashes between troops and rebels in the central city of Homs killed at least one army deserter and wounded another 15 , it added . More than 9,000 people have died since a popular uprising erupted against the president Assad 's regime in March 2011 , the UN says , while non-governmental groups put the figure at more than 11,100 . AFP OPEN"
+p76
+sS'injured'
+p77
+g60
+sS'det_loc'
+p78
+(lp79
+S'Syria'
+p80
+ag60
+ag60
+aS'Damascus'
+p81
+ag60
+asS'O'
+p82
+(lp83
+S'deadly suicide bombing:2'
+p84
+aS'Syrian capital:7'
+p85
+aS'non-stop violence:16'
+p86
+aS'fuelled growing scepticism:23'
+p87
+aS'UN-backed peace plan:33'
+p88
+aS'unrest:39'
+p89
+aS'demonstrations:41'
+p90
+aS'Muslim prayers:47'
+p91
+aS'government troops:59'
+p92
+aS'100 people:66'
+p93
+aS'explosion:72'
+p94
+aS'civilians and security force:94'
+p95
+aS'casualties:101'
+p96
+aS'terrorists:106'
+p97
+aS'President Bashar al-Assad:116'
+p98
+aS'blast:126'
+p99
+aS'industrial zone:129'
+p100
+aS'casualties:140'
+p101
+aS'three security agents:143'
+p102
+aS'wounded:147'
+p103
+aS'blast:150'
+p104
+aS'Syrian Observatory for Human Rights:159'
+p105
+aS"Assad 's regime:166"
+p106
+aS'armed terrorist groups:173'
+p107
+aS'violence:179'
+p108
+aS'failing:183'
+p109
+aS'putative ceasefire:188'
+p110
+aS'regime:205'
+p111
+aS'six-point peace deal:211'
+p112
+aS'troops and heavy weapons:216'
+p113
+aS'expressed alarm:225'
+p114
+aS'civilians:246'
+p115
+aS'Britain-based Observatory:249'
+p116
+aS'overnight clashes:254'
+p117
+aS'troops and rebels:257'
+p118
+aS'army deserter:270'
+p119
+aS'9,000 people:282'
+p120
+aS"president Assad 's regime:293"
+p121
+aS'more than 11,100:312'
+p122
+asS'unexpl'
+p123
+(lp124
+g60
+asS'ocassion'
+p125
+g60
+sS'link'
+p126
+S'http://www.thehindu.com/todays-paper/tp-in-school/syria-in-violation-of-truce-says-un-chief/article3362124.ece'
+p127
+sS'date'
+p128
+S'27-04-2012'
+p129
+sS'target'
+p130
+S'CIVILIANS'
+p131
+sS'hot_spot'
+p132
+g60
+sS'delivery_mod'
+p133
+g60
+sS'delivery_met'
+p134
+S'PLANTED'
+p135
+sS'expl'
+p136
+(lp137
+g60
+asS'ORG'
+p138
+(lp139
+(lp140
+S'AFP'
+p141
+aS'316'
+p142
+aS'Others'
+p143
+aas.

@@ -1,0 +1,332 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Udgir'
+p4
+aS'190'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Latur'
+p8
+aS'192'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Mumbai'
+p12
+aS'217'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Pakistan'
+p16
+aS'300'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Verul'
+p20
+aS'303'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Aurangabad'
+p24
+aS'305'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Pune'
+p28
+aS'322'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Pune'
+p32
+aS'339'
+p33
+aS'Neutral'
+p34
+aasS'PER'
+p35
+(lp36
+(lp37
+S'Mirza Himayat Baig'
+p38
+aS'1'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'S.S. Bose'
+p42
+aS'29'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Baig'
+p46
+aS'46'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Vinod Satav'
+p50
+aS'109'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Baig'
+p54
+aS'135'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Baig'
+p58
+aS'143'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Mohsin Choudhary'
+p62
+aS'150'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Ahmed Siddhibappa'
+p66
+aS'153'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Yasin Bhatkal'
+p70
+aS'156'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Baig'
+p74
+aS'166'
+p75
+aS'Accused'
+p76
+aa(lp77
+S'Mohsin'
+p78
+aS'204'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Bhatkal'
+p82
+aS'220'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Baig'
+p86
+aS'258'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Baig'
+p90
+aS'278'
+p91
+aS'Others'
+p92
+aasS'TIM'
+p93
+(lp94
+sS'hot_setting'
+p95
+S''
+p96
+sS'DAT'
+p97
+(lp98
+S'Wednesday afternoon:33'
+p99
+aS'Wednesday:33'
+p100
+aS'Wednesday afternoon:33'
+p101
+aS'September 20:43'
+p102
+aS'September:43'
+p103
+aS'2006:307'
+p104
+aS'2007:324'
+p105
+aS'2008:332'
+p106
+asS'death'
+p107
+g96
+sS'title'
+p108
+S"1.2 kg RDX seized from Baig's house at Udgir"
+p109
+sS'org_unorg'
+p110
+S'Organized'
+p111
+sS'terror_group'
+p112
+(lp113
+S'Indian Mujahideen'
+p114
+aS'Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)'
+p115
+asS'content'
+p116
+S"Mirza Himayat Baig ( 29 ) , who was arrested by the Maharashtra Anti-Terrorism Squad in the German Bakery blast case , was produced before ATS court judge S.S. Bose here on Wednesday afternoon . He was remanded to police custody till September 20 . Baig has been booked under Sections 302 , 307 , 326 , 325 , 324 , 427 , 120 ( B ) of the Indian Penal Code ; Sections 3 , 4 and 5 of the Indian Explosives Act , and Sections 16 , 18 and 21 of the Unlawful Activities ( Prevention ) Act . Assistant Commissioner of Police ( ATS ) Vinod Satav claimed that 1.2 kg of RDX , a soldering gun , soldering wires , a wire cutter and two mobile phones were recovered from Baig . According to the remand application , Baig revealed that he , along with Mohsin Choudhary and Ahmed Siddhibappa alias Yasin Bhatkal and others , had committed the act . Baig also revealed that the remaining explosive raw material , ' after the fabrication of the bomb , was hidden in his house at Udgir in Latur district . The ATS took him there and seized it . Mohsin is wanted in a serial blasts case on the Western Railway in Mumbai , while Bhatkal is wanted in several bomb blast cases in various parts of the country . The two are allegedly members of the Lashkar-e-Taiba and the Indian Mujahideen ( IM ) . The application states it is evident that Baig is part of these terrorist outfits and that he was involved in enticing young Muslims into the organisations . Baig is also said to be close to the people who were accused of possessing illegal arms and explosives , brought from Pakistan , at Verul near Aurangabad in 2006 . The application says Baig has admitted to supplying arms to criminal elements in Pune in 2007 . He is also involved in the 2008 case of propagating jihadi literature in Pune . OPEN"
+p117
+sS'injured'
+p118
+g96
+sS'det_loc'
+p119
+(lp120
+S'India'
+p121
+aS'Maharashtra'
+p122
+aS'Pune'
+p123
+ag96
+ag96
+asS'O'
+p124
+(lp125
+S'german bakery blast case:18'
+p126
+aS'blast case:20'
+p127
+aS'court judge:27'
+p128
+aS'indian penal code:70'
+p129
+aS'assistant commissioner:102'
+p130
+aS'rdx:116'
+p131
+aS'soldering gun:119'
+p132
+aS'soldering wires:122'
+p133
+aS'wire cutter:126'
+p134
+aS'remand application:140'
+p135
+aS'explosive raw material:172'
+p136
+aS'bomb:182'
+p137
+aS'district:193'
+p138
+aS'serial blasts:209'
+p139
+aS'western railway:214'
+p140
+aS'bomb blast:225'
+p141
+aS'country:233'
+p142
+aS'application:252'
+p143
+aS'terrorist outfits:263'
+p144
+aS'application:310'
+p145
+aS'baig:312'
+p146
+aS'case:333'
+p147
+aS'jihadi literature:336'
+p148
+asS'unexpl'
+p149
+(lp150
+g96
+asS'ocassion'
+p151
+g96
+sS'link'
+p152
+S'http://www.thehindu.com/todays-paper/tp-national/12-kg-rdx-seized-from-baigs-house-at-udgir/article622189.ece'
+p153
+sS'date'
+p154
+S'13-02-2010'
+p155
+sS'target'
+p156
+S'Public Organization'
+p157
+sS'hot_spot'
+p158
+S'German Bakery'
+p159
+sS'delivery_mod'
+p160
+g96
+sS'delivery_met'
+p161
+S'Planted'
+p162
+sS'expl'
+p163
+(lp164
+S'RDX'
+p165
+asS'ORG'
+p166
+(lp167
+(lp168
+S'Maharashtra Anti-Terrorism Squad'
+p169
+aS'13'
+p170
+aS'Others'
+p171
+aa(lp172
+S'Lashkar-e-Taiba'
+p173
+aS'242'
+p174
+aS'Others'
+p175
+aa(lp176
+S'Indian Mujahideen'
+p177
+aS'245'
+p178
+aS'Others'
+p179
+aas.

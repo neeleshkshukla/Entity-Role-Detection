@@ -1,0 +1,128 @@
+{
+    "LOC": [
+        [
+            "South Waziristan", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Afghanistan border", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Peshawar", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Wana", 
+            "110", 
+            "Event"
+        ], 
+        [
+            "South Waziristan", 
+            "116", 
+            "Event"
+        ], 
+        [
+            "Kurram", 
+            "148", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Peshawar", 
+            "220", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Maulvi Noor Mohammad", 
+            "89", 
+            "Victim"
+        ], 
+        [
+            "Mohammad", 
+            "101", 
+            "Victim"
+        ], 
+        [
+            "Mohammad", 
+            "133", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:13"
+    ], 
+    "death": "26", 
+    "title": "26 killed in blast in South Waziristan", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The brief lull in bomb blasts across the country was broken on Monday when a suicide bomber detonated himself in a mosque in the South Waziristan tribal agency along the Afghanistan border killing 26 people and wounding almost as many . This was the deadliest of the three blasts that rocked the region already devastated by the floods ; the other two being in the Kurram tribal agency and near Peshawar . The three blasts together took over 35 lives including a former member of the National Assembly Maulvi Noor Mohammad and a member of the anti-Taliban militia . Mr. Mohammad was among those killed on the mosque in Wana , the main town of South Waziristan where the Army has conducted operations against militants . The suicide bomber apparently approached Mr. Mohammad known to be pro-Taliban while he was greeting people and detonated himself . In Kurram , a bomb went off in a school premises when tribal elders were in a meeting killing about half-a-dozen people . Since both these areas are among the seven agencies that make up the Federally Administered Tribal Agencies , government presence here is negligible and human rights organisations have time and again stressed the need to bring them under the ambit of federal law . The blast on the outskirts of Peshawar killed a leader of the anti-Taliban militia and a couple of his associates as he was passing by . The militia is being propped up by the government against the Taliban from within the community to serves as the eyes and ears of the establishment . OPEN", 
+    "injured": "0", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Waziristan", 
+        ""
+    ], 
+    "O": [
+        "bomb:5", 
+        "suicide bomber:16", 
+        "mosque:22", 
+        "agency:28", 
+        "border:32", 
+        "blasts:75", 
+        "national assembly:87", 
+        "assembly:88", 
+        "member:94", 
+        "anti-taliban:97", 
+        "militia:98", 
+        "mosque:108", 
+        "town:114", 
+        "army:120", 
+        "suicide bomber:128", 
+        "pro-taliban:137", 
+        "detonated:144", 
+        "bomb:151", 
+        "tribal agencies:185", 
+        "government presence:188", 
+        "blast:215", 
+        "anti-taliban militia:226", 
+        "militia:241", 
+        "government:248", 
+        "taliban:251"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/26-killed-in-blast-in-south-waziristan/article590722.ece", 
+    "date": "24-08-2010", 
+    "target": "Religious Places", 
+    "hot_spot": "mosque in the South Waziristan", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kurram tribal agency", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "Federally Administered Tribal Agencies", 
+            "183", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "654", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shyam Bihari Lal", 
+            "157", 
+            "Comment"
+        ], 
+        [
+            "Pradeep", 
+            "175", 
+            "Comment"
+        ], 
+        [
+            "Pradeep", 
+            "314", 
+            "Comment"
+        ], 
+        [
+            "Sunil", 
+            "404", 
+            "Comment"
+        ], 
+        [
+            "Ghanshyam", 
+            "483", 
+            "Comment"
+        ], 
+        [
+            "Sugreev Dubey", 
+            "488", 
+            "Comment"
+        ], 
+        [
+            "Rahul Gandhi", 
+            "620", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "10 a.m.:55"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:27", 
+        "Wednesday:36", 
+        "May:506", 
+        "May:581"
+    ], 
+    "death": "", 
+    "title": "Pieces of flesh strewn . blood splattered everywhere", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "It was yet another busy weekday morning for scores of lawyers and litigants who had gathered outside Gate No. 5 of the Delhi High Court on Wednesday when a deafening explosion shattered the calm . Wednesday morning was no different . People , mostly litigants , had started gathering outside the court gate around 10 a.m. for entry passes . I was standing just a few feet away from the reception counter guarding the construction material when I was suddenly thrown off by a loud explosion . There was smoke all around and nothing could be seen for the next few minutes . When the smoke dissipated , it was a heart-rending scene with pieces of flesh strewn around and blood spattered everywhere . The injured were writhing in pain and crying for help and those who were lucky to have escaped unhurt could be seen running helter-skelter causing complete chaos , said private security guard Shyam Bihari Lal , who considers himself lucky to have survived to tell the tale . Deafening sound Pradeep , a supervisor at the underground parking site opposite the spot , first mistook it for a cylinder blast at the construction site before he realised that it was a bomb blast . For me , the day had just begun and I was busy giving directions to the labourers when I heard a deafening sound . I first thought it was a cylinder blast . But then I could hear people screaming for help and rushed towards the spot . I saw people piled over each other completely soaked in blood near the counter . Such was the intensity of the blast that pieces of torn clothes and flesh could be seen hanging from trees . The scene was so gory that some of our labourers who helped the injured later complained of uneasiness themselves , said Pradeep . Police quick Within no time , several police vehicles and ambulances arrived at the spot and the injured were removed to hospitals . The response of the police was quick . There were over 30 police vehicles and ambulances outside the court within a few minutes of the blast . The ambulances inside the High Court were also pressed into service and the injured were shifted to hospitals . The labourers at the construction site also reached the spot carrying stretches and helped the rescue teams , said Sunil , who drives the car of a lawyer and was present at the spot . Witness to 2 blasts The intensity of the blast could be gauged from the fact that labourers working in an under-construction underground parking lot also felt the earth tremble . We were a group of 30 labourers working in the underground parking when the blast took place . We were several feet under the ground , but still felt the shivers , said Ghanshyam . High Court lawyer Sugreev Dubey , who was also a witness to the earlier blast at the Delhi High Court in May , said that latest blast was several times more powerful . Completely shaken I was inside the court premises waiting for my client to take an entry pass and was a few steps away from the counter when the bomb exploded . It went off with such a loud sound that I could not hear properly for a few minutes after the blast and was completely shaken . When the blast took place in May earlier , I was having a coffee at the canteen just a few meters away . But it was not half as powerful compared to the explosion today . Later in the day , All-India Congress Committee general-secretary Rahul Gandhi also paid a brief visit to the spot . Pieces of torn clothes and flesh could be seen hanging from trees , says a survivor A lawyer witness to 2 blasts in Delhi this year says this is a lot more powerful OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "New Delhi", 
+        "Delhi High Court"
+    ], 
+    "O": [
+        "lawyers and litigants:11", 
+        "Gate No. 5:18", 
+        "explosion:31", 
+        "wednesday morning:36", 
+        "gathering:49", 
+        "court gate:52", 
+        "reception counter:71", 
+        "construction material:75", 
+        "explosion:86", 
+        "smoke:90", 
+        "smoke:106", 
+        "pieces of flesh:115", 
+        "blood:121", 
+        "injured:126", 
+        "pain and crying:130", 
+        "chaos:151", 
+        "security guard shyam bihari lal:155", 
+        "supervisor:178", 
+        "parking site:182", 
+        "mistook:189", 
+        "construction site:197", 
+        "bomb blast:206", 
+        "blood:267", 
+        "intensity:275", 
+        "blast:278", 
+        "flesh:285", 
+        "injured:306", 
+        "police vehicles and ambulances:323", 
+        "injured:333", 
+        "police vehicles and ambulances:351", 
+        "court:357", 
+        "blast:364", 
+        "ambulances:367", 
+        "injured:379", 
+        "construction site:389", 
+        "rescue teams:400", 
+        "lawyer:412", 
+        "intensity:425", 
+        "blast:428", 
+        "parking lot:442", 
+        "earth tremble:447", 
+        "blast:464", 
+        "high court lawyer:485", 
+        "witness:495", 
+        "blast:499", 
+        "blast:511", 
+        "court:524", 
+        "bomb:546", 
+        "sound:556", 
+        "blast:569", 
+        "blast:577", 
+        "explosion:608", 
+        "brief visit:625", 
+        "flesh:636", 
+        "survivor:646", 
+        "lawyer witness:648"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/pieces-of-flesh-strewn-blood-splattered-everywhere/article2434271.ece", 
+    "date": "08-09-2011", 
+    "target": "Government Building", 
+    "hot_spot": "Delhi High Court", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Delhi High Court", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "370", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "485", 
+            "Others"
+        ], 
+        [
+            "Delhi High Court", 
+            "502", 
+            "Others"
+        ], 
+        [
+            "All-India Congress Committee", 
+            "616", 
+            "Others"
+        ]
+    ]
+}

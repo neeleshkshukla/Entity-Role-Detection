@@ -1,0 +1,365 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Varkala'
+p4
+aS'172'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Chilakoor'
+p8
+aS'234'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Attingal'
+p12
+aS'256'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Technopark'
+p16
+aS'260'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Kazhakuttom'
+p20
+aS'262'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Nila'
+p24
+aS'300'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Technopark'
+p28
+aS'479'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Technopark'
+p32
+aS'492'
+p33
+aS'Event'
+p34
+aasS'PER'
+p35
+(lp36
+sS'TIM'
+p37
+(lp38
+S'48-hour : 58'
+p39
+aS'5.30 a.m. : 236'
+p40
+aS'9.30 a.m. : 332'
+p41
+asS'hot_setting'
+p42
+S"The Indian Navy's Joint Operations Centre had launched the 48-hour counter-terrorism exercise code-named Operation Gemini to test the preparedness of the State and Central agencies to combat seaborne terrorist threats and infiltration bids."
+p43
+sS'DAT'
+p44
+(lp45
+S'Tuesday : 47'
+p46
+aS'Monday : 65'
+p47
+aS'Wednesday : 475'
+p48
+asS'death'
+p49
+S'0'
+p50
+sS'title'
+p51
+S'Seaborne terrorists attack Technopark'
+p52
+sS'det_loc'
+p53
+(lp54
+S'India'
+p55
+aS'Kerala'
+p56
+aS'Trivandrum'
+p57
+aS'Thiruvananthapuram'
+p58
+aS'Nila building, Technopark campus, Kazhakuttom'
+p59
+asS'terror_group'
+p60
+(lp61
+S''
+p62
+asS'content'
+p63
+S'In a simulated seaborne terrorist attack on a high-value land target , three armed operatives made landfall at an isolated stretch of the shoreline here , foxed the police , and infiltrated the well guarded Technopark campus to plant a bomb there at rush hour on Tuesday . The Indian Navys Joint Operations Centre had launched the 48-hour counter-terrorism exercise code-named Operation Gemini on Monday to test the preparedness of the State and Central agencies to combat seaborne terrorist threats and infiltration bids . The operation involved the Navy , Coast Guard , Indian Air Force , and neighbourhood watch committees comprising shore dwellers and seagoing fishermen . The Navy had earlier informed the State police of an imminent seaborne terrorist threat . The police upped its presence at potential landing points along the States 600-km long coastline and put its resources , including civilian look-outs at sea and near the shore , on alert . The agents , two Navy operatives and one Coast Guard man , arrived off the Varkala coast in a seagoing vessel with a shallow draft , which enabled it to operate in waters close to the shore . The agents hailed a small fishing boat and pleaded the fishermen to drop them ashore urgently under the pretext that one of them was ill . The fishermen dropped the agents in a remote stretch of the coast near Chilakoor around 5.30 a.m. . The agents donned the type of dress commonly worn by white-collar workers and took a bus from Attingal bus stand to Technopark at Kazhakuttom . The agents skipped the main security gate and entered the States IT hub through an unmanned path used by IT employees to access local eateries outside the expansive campus . They reached the portals of the Nila building , which houses scores of IT firms , flashed their identity cards to the security , and made their way into the complex along with a lot of employees at 9.30 a.m. . They placed a small cardboard box marked RDX Bomb in a remote corner of the building , alerted the police , and vanished . Fire engines , police vehicles , and vans carrying sniffer dogs and men and equipment of the Bomb Detection and Disposal Squad ( BDDS ) converged on the campus , causing quite a furore there . The police evacuated the building of employees and the BDDS men , clad in large anti-blast bomb suits and wielding ordnance-detection equipment , scoured the structure for explosives . State Police Commando units and Quick Reaction Teams assisted the search . The police found the bomb an hour later , used robotic equipment to put it in a special compartment designed to withstand blasts and took it to a safe locale to be defused . The operation will conclude on Wednesday . Agents enter Technopark through an unmanned pathPolice find the bomb an hour later Agents enter Technopark through an unmanned path Police find the bomb an hour later OPEN'
+p64
+sS'injured'
+p65
+g50
+sS'org_unorg'
+p66
+S'ORGANISED'
+p67
+sS'O'
+p68
+(lp69
+S'seaborne terrorist attack:4'
+p70
+aS'high-value land target:9'
+p71
+aS'armed operatives:14'
+p72
+aS'landfall:17'
+p73
+aS'shoreline:24'
+p74
+aS'infiltrated:32'
+p75
+aS'Technopark campus:36'
+p76
+aS'bomb:41'
+p77
+aS'rush hour:44'
+p78
+aS'counter-terrorism:59'
+p79
+aS'Operation Gemini:62'
+p80
+aS'State and Central agencies:72'
+p81
+aS'seaborne terrorist threats:78'
+p82
+aS'infiltration bids:82'
+p83
+aS'shore dwellers:103'
+p84
+aS'seagoing fishermen:106'
+p85
+aS'seaborne terrorist threat:120'
+p86
+aS'coastline:138'
+p87
+aS'seagoing vessel:176'
+p88
+aS'shallow draft:180'
+p89
+aS'ill:219'
+p90
+aS'remote:228'
+p91
+aS'security gate:269'
+p92
+aS'States IT:274'
+p93
+aS'IT employees:283'
+p94
+aS'IT firms:307'
+p95
+aS'identity cards:312'
+p96
+aS'security:316'
+p97
+aS'RDX:342'
+p98
+aS'Fire engines:359'
+p99
+aS'police vehicles:362'
+p100
+aS'vans:366'
+p101
+aS'anti-blast bomb suits:410'
+p102
+aS'wielding ordnance-detection equipment:414'
+p103
+aS'structure for explosives:420'
+p104
+aS'robotic equipment:446'
+p105
+aS'blasts:458'
+p106
+asS'unexpl'
+p107
+(lp108
+g62
+asS'ocassion'
+p109
+S'MOCK COUNTER-TERRORISM EXERCISE'
+p110
+sS'link'
+p111
+S'http://www.thehindu.com/todays-paper/tp-national/tp-kerala/seaborne-terrorists-attack-technopark/article4118169.ece'
+p112
+sS'date'
+p113
+S'20-11-2012'
+p114
+sS'target'
+p115
+S'OFFICE BUILDING'
+p116
+sS'hot_spot'
+p117
+S"A building which houses offices of IT firms at Technopark which is the state's IT hub."
+p118
+sS'delivery_mod'
+p119
+g62
+sS'delivery_met'
+p120
+S'PLANTED'
+p121
+sS'expl'
+p122
+(lp123
+S'RDX'
+p124
+asS'ORG'
+p125
+(lp126
+(lp127
+S'Technopark'
+p128
+aS'36'
+p129
+aS'Victim'
+p130
+aa(lp131
+S'Indian Navys'
+p132
+aS'50'
+p133
+aS'Accused'
+p134
+aa(lp135
+S'Joint Operations Centre'
+p136
+aS'52'
+p137
+aS'Accused'
+p138
+aa(lp139
+S'Navy'
+p140
+aS'89'
+p141
+aS'Accused'
+p142
+aa(lp143
+S'Coast Guard'
+p144
+aS'91'
+p145
+aS'Accused'
+p146
+aa(lp147
+S'Indian Air Force'
+p148
+aS'94'
+p149
+aS'Accused'
+p150
+aa(lp151
+S'Navy'
+p152
+aS'110'
+p153
+aS'Accused'
+p154
+aa(lp155
+S'State police'
+p156
+aS'115'
+p157
+aS'Others'
+p158
+aa(lp159
+S'Navy'
+p160
+aS'161'
+p161
+aS'Accused'
+p162
+aa(lp163
+S'Coast Guard'
+p164
+aS'165'
+p165
+aS'Accused'
+p166
+aa(lp167
+S'IT'
+p168
+aS'275'
+p169
+aS'Others'
+p170
+aa(lp171
+S'IT'
+p172
+aS'283'
+p173
+aS'Others'
+p174
+aa(lp175
+S'IT'
+p176
+aS'307'
+p177
+aS'Others'
+p178
+aa(lp179
+S'Bomb Detection and Disposal Squad'
+p180
+aS'376'
+p181
+aS'Others'
+p182
+aa(lp183
+S'BDDS'
+p184
+aS'382'
+p185
+aS'Others'
+p186
+aa(lp187
+S'BDDS'
+p188
+aS'404'
+p189
+aS'Others'
+p190
+aa(lp191
+S'State Police Commando'
+p192
+aS'424'
+p193
+aS'Others'
+p194
+aa(lp195
+S'Quick Reaction Teams'
+p196
+aS'429'
+p197
+aS'Others'
+p198
+aas.

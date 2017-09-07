@@ -1,0 +1,229 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'24'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Jama Masjid'
+p8
+aS'49'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Jama Masjid'
+p12
+aS'94'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Jama Masjid'
+p16
+aS'158'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Jama Masjid'
+p20
+aS'227'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Jama Masjid'
+p24
+aS'263'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Uttar Pradesh'
+p28
+aS'283'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Jama Masjid'
+p32
+aS'449'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Delhi'
+p36
+aS'489'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Uttar Pradesh'
+p40
+aS'492'
+p41
+aS'Neutral'
+p42
+aasS'PER'
+p43
+(lp44
+(lp45
+S'Devesh K. Pandey'
+p46
+aS'1'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Abdul Karim Tunda'
+p50
+aS'370'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Tunda'
+p54
+aS'430'
+p55
+aS'Accused'
+p56
+aasS'TIM'
+p57
+(lp58
+sS'hot_setting'
+p59
+S''
+p60
+sS'DAT'
+p61
+(lp62
+S'Thursday:17'
+p63
+aS'Friday:52'
+p64
+aS'Thursday:80'
+p65
+aS'Friday:102'
+p66
+aS'1996-98:383'
+p67
+aS'Friday:452'
+p68
+asS'death'
+p69
+g60
+sS'title'
+p70
+S'Red alert sounded in Delhi'
+p71
+sS'det_loc'
+p72
+(lp73
+S'India'
+p74
+aS'Delhi'
+p75
+aS'New Delhi'
+p76
+aS'NEW DELHI'
+p77
+aS'Jama Masjid'
+p78
+asS'terror_group'
+p79
+(lp80
+S'LASHKAR-E-TAIBA'
+p81
+asS'content'
+p82
+VDevesh K. Pandey . . TV news channel Aaj Tak claims it received two e-mails on Thursday warning about the explosions . . NEW DELHI : A high alert has been sounded in the Capital and the borders sealed in the wake of the twin explosions inside the Jama Masjid on Friday . . . Even as the police launched a hunt for the culprits , Hindi TV news channel Aaj Tak claimed that it received two e-mails on Thursday warning that a conspiracy was being hatched to carry out explosions inside the Jama Masjid . Soon after the blasts on Friday , the Hindi news channel received another e-mail that said : ' I had warned you . ' The police are now trying to trace the person who sent the e-mails . . . Patrolling intensified . . Additional forces were deployed in the walled city to control the huge crowds that gathered outside the Jama Masjid after the blasts . The Rapid Action Force was also deployed . The district police heads were directed to intensify patrolling and enhance deployment at religious places . . . Senior police officers held meetings with community leaders , urging them to maintain harmony in their areas and prevent the spread of rumours . . . Police teams formed . . After the crowds dispersed from the Jama Masjid , four police teamswere formed to make enquiries at guesthouses and hotels in the walled city . The Special Cell of the Delhi police was asked to scan mobile phone calls made from the Jama Masjid area before and after the explosions . . . The police also sought help from their counterparts in Uttar Pradesh . The statements of the injured would be recorded to get evidence . ` There were not many people near the mosque 's tank where the blasts took place . We are trying to contact them to find out if they had seen anyone planting the bombs , ' said a police officer . . . Crude devices . . The bombs used in the twin blasts appear to be similar to the ones used by the Pakistan-based top Lashkar-e-Taiba -LRB- LeT -RRB- militant , Abdul Karim Tunda , to trigger explosions in the Capital way back in 1996-98 . . . Initial investigations have indicated that no timer device was used in the bombs , creating a strong suspicion that chemicals -- readily available in the market -- were used to prepare them . The technique of manufacturing such crude bombs was popularised by Tunda in the mid-1990s . . . The police suspect that similar bombs were used in the explosions at Jama Masjid on Friday . . . Though the police are probing the role of all the extremist outfits , it is learnt that for the time being they are concentrating more on local groups suspected to be operating from Delhi or neighbouring Uttar Pradesh . . . ` The nature of injuries and fewer number of casualties suggest that the explosions were carried out just to create terror . The real motive behind the blasts was not to kill but to send across some message , ' said a police officer .
+p83
+sS'injured'
+p84
+g60
+sS'org_unorg'
+p85
+S'ORGANISED'
+p86
+sS'O'
+p87
+(lp88
+S'hindi tv:67'
+p89
+aS'aaj tak:71'
+p90
+aS'police:122'
+p91
+aS'rapid action force:165'
+p92
+aS'special cell:247'
+p93
+asS'unexpl'
+p94
+(lp95
+g60
+asS'ocassion'
+p96
+g60
+sS'link'
+p97
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/red-alert-sounded-in-delhi/article3147896.ece'
+p98
+sS'date'
+p99
+S'14-04-2006'
+p100
+sS'target'
+p101
+S'MOSQUE'
+p102
+sS'hot_spot'
+p103
+S'Jama Masjid'
+p104
+sS'delivery_mod'
+p105
+g60
+sS'delivery_met'
+p106
+S'PLANTED'
+p107
+sS'expl'
+p108
+(lp109
+S'CRUDE BOMB'
+p110
+asS'ORG'
+p111
+(lp112
+(lp113
+S'Delhi police'
+p114
+aS'251'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Lashkar-e-Taiba'
+p118
+aS'364'
+p119
+aS'Accused'
+p120
+aa(lp121
+S'LeT'
+p122
+aS'366'
+p123
+aS'Accused'
+p124
+aas.

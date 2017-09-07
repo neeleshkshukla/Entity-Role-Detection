@@ -1,0 +1,392 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'AHMEDABAD'
+p4
+aS'1'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Pakistan'
+p8
+aS'17'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Kolkata'
+p12
+aS'55'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Waghamon'
+p16
+aS'162'
+p17
+aS'Source'
+p18
+aa(lp19
+S'Kerala'
+p20
+aS'164'
+p21
+aS'Source'
+p22
+aa(lp23
+S'Halol'
+p24
+aS'166'
+p25
+aS'Source'
+p26
+aa(lp27
+S'Vadodara'
+p28
+aS'168'
+p29
+aS'Neutral'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Amir Raza Khan'
+p34
+aS'9'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Riyaz Bhatkal'
+p38
+aS'21'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Iqbal'
+p42
+aS'26'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Amir Raza Khan'
+p46
+aS'38'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Riyaz Bhatkal'
+p50
+aS'58'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Safdar Nagori'
+p54
+aS'119'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Hafez Hussain'
+p58
+aS'122'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Sibli Abdul Karim'
+p62
+aS'125'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Kamruddin Nagori'
+p66
+aS'129'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Amil Parvez'
+p70
+aS'132'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Mufti Abu Basher'
+p74
+aS'135'
+p75
+aS'Accused'
+p76
+aa(lp77
+S'Abdus Subhan'
+p78
+aS'143'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Tauqeer'
+p82
+aS'146'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Qayamuddin Kapadia'
+p86
+aS'148'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Qayamuddin'
+p90
+aS'173'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Tauqeer'
+p94
+aS'175'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'Abu Basher'
+p98
+aS'248'
+p99
+aS'Accused'
+p100
+aasS'TIM'
+p101
+(lp102
+sS'hot_setting'
+p103
+S''
+p104
+sS'DAT'
+p105
+(lp106
+S'July 26 : 35'
+p107
+aS'2001 : 214'
+p108
+asS'death'
+p109
+g104
+sS'title'
+p110
+S"'Ahmedabad blasts carried out on the direction of Pak's Amir Raza Khan'"
+p111
+sS'det_loc'
+p112
+(lp113
+S'India'
+p114
+aS'Gujarat'
+p115
+aS'Ahmedabad'
+p116
+ag104
+ag104
+asS'terror_group'
+p117
+(lp118
+S'HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI'
+p119
+aS'STUDENTS ISLAMIC MOVEMENT OF INDIA'
+p120
+aS'INDIAN MUJAHIDEEN'
+p121
+asS'content'
+p122
+VAHMEDABAD : City crime branch has claimed that Amir Raza Khan , at present based in Pakistan , had directed Riyaz Bhatkal and his brother Iqbal to carry out the bomb blasts here on July 26 . Amir Raza Khan , learnt to be a member of terror outfit HuJI is a resident of Kolkata , while Riyaz Bhatkal is alleged to be the founder member of Indian Mujahideen -LRB- IM -RRB- . Bhatkal brothers had connived with SIMI leaders to hatch the conspiracy of serial blasts in the city and trained local people , the chargesheet submitted last week by the Crime Branch said , adding , IM was a new form of SIMI . SIMI members Safdar Nagori , Hafez Hussain , Sibli Abdul Karim , Kamruddin Nagori , Amil Parvez and Mufti Abu Basher planned the attack and asked Abdus Subhan alias Tauqeer and Qayamuddin Kapadia for executing the blasts . SIMI members organised terror training camps in Waghamon in Kerala and Halol near Vadodara , it said . Qayamuddin and Tauqeer then held a meeting with their local contacts in the city for arrangements of logistics and support to carry out the conspiracy . The local contacts were those who were associated with SIMI before it was banned in 2001 by the Central Government . Some of them have already been arrested by the crime branch while some are still absconding , the 2000-page chargesheet stated . Gujarat police had earlier claimed that Abu Basher was the mastermind behind the terror attacks in the city .
+p123
+sS'injured'
+p124
+g104
+sS'org_unorg'
+p125
+g104
+sS'O'
+p126
+(lp127
+S'City crime branch:3'
+p128
+aS'bomb blasts:31'
+p129
+aS'founder member:65'
+p130
+aS'Bhatkal brothers:74'
+p131
+aS'connived:77'
+p132
+aS'SIMI leaders:79'
+p133
+aS'hatch:82'
+p134
+aS'conspiracy:84'
+p135
+aS'serial blasts:86'
+p136
+aS'trained local people:92'
+p137
+aS'chargesheet:97'
+p138
+aS'last week:99'
+p139
+aS'SIMI members:117'
+p140
+aS'planned:138'
+p141
+aS'attack:140'
+p142
+aS'terror training camps:158'
+p143
+aS'meeting:179'
+p144
+aS'local contacts:182'
+p145
+aS'arrangements of logistics:188'
+p146
+aS'support:192'
+p147
+aS'conspiracy:197'
+p148
+aS'Central Government:217'
+p149
+aS'Some:220'
+p150
+aS'arrested:226'
+p151
+aS'crime branch:229'
+p152
+aS'some:232'
+p153
+aS'absconding:235'
+p154
+aS'2000-page chargesheet:238'
+p155
+aS'mastermind:252'
+p156
+asS'unexpl'
+p157
+(lp158
+g104
+asS'ocassion'
+p159
+g104
+sS'link'
+p160
+S'http://timesofindia.indiatimes.com/india/Ahmedabad-blasts-carried-out-on-the-direction-of-Paks-Amir-Raza-Khan/articleshow/3738211.cms?referral=PM'
+p161
+sS'date'
+p162
+S'26-07-2008'
+p163
+sS'target'
+p164
+g104
+sS'hot_spot'
+p165
+g104
+sS'delivery_mod'
+p166
+g104
+sS'delivery_met'
+p167
+g104
+sS'expl'
+p168
+(lp169
+g104
+asS'ORG'
+p170
+(lp171
+(lp172
+S'HuJI'
+p173
+aS'50'
+p174
+aS'Accused'
+p175
+aa(lp176
+S'Indian Mujahideen'
+p177
+aS'68'
+p178
+aS'Accused'
+p179
+aa(lp180
+S'IM'
+p181
+aS'71'
+p182
+aS'Accused'
+p183
+aa(lp184
+S'SIMI'
+p185
+aS'79'
+p186
+aS'Accused'
+p187
+aa(lp188
+S'IM'
+p189
+aS'109'
+p190
+aS'Accused'
+p191
+aa(lp192
+S'SIMI'
+p193
+aS'115'
+p194
+aS'Accused'
+p195
+aa(lp196
+S'SIMI'
+p197
+aS'117'
+p198
+aS'Accused'
+p199
+aa(lp200
+S'SIMI'
+p201
+aS'155'
+p202
+aS'Accused'
+p203
+aa(lp204
+S'SIMI'
+p205
+aS'208'
+p206
+aS'Accused'
+p207
+aa(lp208
+S'Gujarat police'
+p209
+aS'242'
+p210
+aS'Others'
+p211
+aas.

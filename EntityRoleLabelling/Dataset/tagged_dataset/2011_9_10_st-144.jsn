@@ -1,0 +1,137 @@
+{
+    "LOC": [
+        [
+            "Sriperumbudur", 
+            "21", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rajiv Gandhi", 
+            "15", 
+            "Victim"
+        ], 
+        [
+            "Murugan", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Santhan", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Perarivalan", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "E.V.K.S. Elangovan", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Elangovan", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "Jayalalithaa", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Kumari Ananthan", 
+            "121", 
+            "Others"
+        ], 
+        [
+            "R. Anbarasu", 
+            "126", 
+            "Others"
+        ], 
+        [
+            "H. Vasanthakumar", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "S.Ve . Shekher", 
+            "134", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May:19", 
+        "May 1991:19", 
+        "Friday:29"
+    ], 
+    "death": "", 
+    "title": "Elangovan's appeal to Jayalalithaa", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Members of the families of those who were killed along with former Prime Minister Rajiv Gandhi in the May 1991 Sriperumbudur suicide bomb blast observed fast here on Friday , demanding that the three death row convicts in the case be hanged immediately . The hanging of the convicts , Murugan , Santhan and Perarivalan has been stayed by the Madras High Court . E.V.K.S. Elangovan , former president of the Tamil Nadu Congress Committee and among those spearheading a campaign against granting clemency for the convicts , appealed to Chief Minister Jayalalithaa to reconsider the resolution passed by the State Assembly seeking commutation of their death sentence . Those who took part in the programme included former TNCC president Kumari Ananthan , former MP R. Anbarasu and former MLAs H. Vasanthakumar and S.Ve . Shekher . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "prime minister:13", 
+        "suicide bomb blast:22", 
+        "death row:35", 
+        "case:40", 
+        "president:69", 
+        "campaign:81", 
+        "clemency:84", 
+        "convicts:87", 
+        "chief minister:91", 
+        "resolution:97", 
+        "state assembly:101", 
+        "commutation:104", 
+        "death sentence:107", 
+        "part:113", 
+        "programme:116", 
+        "mp:125", 
+        "s.ve:134"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/elangovans-appeal-to-jayalalithaa/article2440918.ece", 
+    "date": "10-09-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Madras High Court", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu Congress Committee", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "TNCC", 
+            "119", 
+            "Others"
+        ]
+    ]
+}

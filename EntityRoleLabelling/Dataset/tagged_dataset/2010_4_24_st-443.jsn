@@ -1,0 +1,104 @@
+{
+    "LOC": [
+        [
+            "BAGHDAD", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Baghdad", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "61", 
+            "Neutral"
+        ], 
+        [
+            "Baghdad", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Sadr City", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "254", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Moqtada al-Sadr", 
+            "117", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "1:30 p.m.:143"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:22", 
+        "March 7:83", 
+        "Friday:102", 
+        "Friday:131", 
+        "Friday prayers:131"
+    ], 
+    "death": "", 
+    "title": "58 killed, scores injured as blasts rock Iraq", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Series of attacks target Shia worshippers BAGHDAD : A series of bomb attacks mainly targeting Shia worshippers killed 58 people on Friday , including 25 near the main Baghdad office of an anti-U.S. Shia cleric , said officials . The violence demonstrated militants remain a potent force days after Iraqi authorities announced the killing of the top two Al-Qaeda in Iraq leaders in what they described as a major blow . Extremists are also seeking to exploit political deadlock after the inconclusive March 7 parliamentary election and ignite sectarian warfare as U.S. forces prepare to go home . The biggest of Friday 's bombings took place just a few hundred yards from the compound of cleric Moqtada al-Sadr in Baghdad 's vast slum of Sadr City as worshippers gathered for Friday prayers . Two car bombs and a roadside bomb exploded around 1:30 p.m. , killing 25 people and wounding an estimated 150 , according to hospital and police officials . The blasts left blood streaming down muddy streets . Men carried victims away using bed sheets as makeshift stretchers and loaded them into the backs of trucks and rushed them to the hospital . One man fled carrying a young girl whose pink dress was stained with blood . Many who gathered at the scene pelted Iraqi security officials with stones when they arrived in the area , frustrated with their apparent inability to secure the city . Security officials fired in the air to disperse the crowd . Bombings elsewhere in Iraq most of them targeting Shia worshippers killed 33 other people in one of the deadliest days the country has seen in weeks . AP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Baghdad", 
+        ""
+    ], 
+    "O": [
+        "al-qaeda:59", 
+        "al-qaeda in iraq:59", 
+        "iraq:61", 
+        "deadlock:79", 
+        "sectarian warfare:89", 
+        "u.s. forces:92", 
+        "place:106", 
+        "compound:114", 
+        "slum:123", 
+        "sadr city:125", 
+        "roadside bomb:139", 
+        "hospital:194", 
+        "security:219", 
+        "inability:234", 
+        "security:240"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/58-killed-scores-injured-as-blasts-rock-iraq/article755600.ece", 
+    "date": "24-04-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Al-Qaeda", 
+            "59", 
+            "Others"
+        ]
+    ]
+}

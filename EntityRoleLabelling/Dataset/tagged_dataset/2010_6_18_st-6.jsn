@@ -1,0 +1,197 @@
+{
+    "LOC": [
+        [
+            "Mecca Masjid", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "57", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "100", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "102", 
+            "Neutral"
+        ], 
+        [
+            "Nampally", 
+            "152", 
+            "Neutral"
+        ], 
+        [
+            "Mecca Masjid", 
+            "266", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "269", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devendar Gupta", 
+            "54", 
+            "Accused"
+        ], 
+        [
+            "Lokesh Sarma", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "Sandeep Dange", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Ramachandra Kaslangara", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Gupta", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "Sarma", 
+            "175", 
+            "Accused"
+        ], 
+        [
+            "T. Venkata Ramana", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "Mr. Ramana", 
+            "319", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007:29", 
+        "Thursday:39", 
+        "June 30:215", 
+        "May 18:257"
+    ], 
+    "death": "", 
+    "title": "Two accused in Mecca Masjid blast case produced in court", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "Two members of the Abhinav Bharat , a Hindu fundamentalist organisation , who had allegedly conspired to carry out explosions in the Mecca Masjid blast in Hyderabad in 2007 , were produced in a local court here on Thursday by the Central Bureau of Investigation ( CBI ) . The two accused , Devendar Gupta of Rajasthan and Lokesh Sarma of Madhya Pradesh , were earlier arrested in connection with the bomb blast in Ajmer and were lodged in Ajmer Central Prison . The duo , cited as accused no . three and four respectively , were brought to Hyderabad from Ajmer on a prisoner 's transit warrant . The prime accused in the case , identified as Sandeep Dange ( A1 ) and Ramachandra Kaslangara ( A2 ) , are still at large . Unprecedented security arrangements were made by the police on the premises of the criminal courts at Nampally . A heavy posse of policemen produced the two accused persons by noon in the court trying CBI cases . Gupta and Sarma , who were made to cover their faces with white clothes , were surrounded by more than two dozen policemen who ensured that media personnel were not present anywhere near them . They were remanded to judicial custody till June 30 . They were later transported to Chanchalguda Central Prison . CBI Senior Public Prosecutor T. Venkata Ramana said the two suspects would be examined to establish their conspiracy link behind the Masjid blast in which five persons were killed on May 18 , 2007 . After establishing that the Mecca Masjid and Ajmer blasts were part of a single conspiracy , the CBI has filed a memo in the Nampally court which , in turn , issued a prisoner 's transit warrant . As of now , we are exploring conspiracy angl . Efforts are on to collect more evidence , explained Mr. Ramana . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb blast:72", 
+        "transit warrant:107", 
+        "security:137", 
+        "prison:225", 
+        "public:229", 
+        "public prosecutor:229", 
+        "prosecutor:230", 
+        "conspiracy link:244", 
+        "masjid blast:248", 
+        "part:272", 
+        "conspiracy:276", 
+        "memo:283", 
+        "court:287", 
+        "prisoner 's transit warrant:295", 
+        "conspiracy angl:307", 
+        "evidence:316"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/two-accused-in-mecca-masjid-blast-case-produced-in-court/article470361.ece", 
+    "date": "18-05-2007", 
+    "target": "Religious Places", 
+    "hot_spot": "Mecca Masjid blast and Ajmer blasts case", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Abhinav Bharat", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "Central Bureau of Investigation", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "Ajmer Central Prison", 
+            "80", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "Chanchalguda Central Prison", 
+            "223", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "227", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "279", 
+            "Others"
+        ], 
+        [
+            "Nampally court", 
+            "286", 
+            "Others"
+        ]
+    ]
+}

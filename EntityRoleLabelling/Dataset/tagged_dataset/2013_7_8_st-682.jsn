@@ -1,0 +1,163 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya temple complex", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "eastern India", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "233", 
+            "Event"
+        ], 
+        [
+            "Myanmar", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "Sri Lanka", 
+            "253", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "256", 
+            "Neutral"
+        ], 
+        [
+            "Myanmar", 
+            "284", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abhayanand", 
+            "89", 
+            "Comment"
+        ], 
+        [
+            "S.K. Bharadwaj", 
+            "113", 
+            "Comment"
+        ], 
+        [
+            "Bharadwaj", 
+            "141", 
+            "Comment"
+        ], 
+        [
+            "Manmohan Singh", 
+            "147", 
+            "Comment"
+        ], 
+        [
+            "Anil Goswami", 
+            "177", 
+            "Comment"
+        ], 
+        [
+            "Goswami", 
+            "219", 
+            "Comment"
+        ], 
+        [
+            "Bharadwaj", 
+            "299", 
+            "Comment"
+        ], 
+        [
+            "Sarbajeet Kumar", 
+            "307", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:26"
+    ], 
+    "death": "0", 
+    "title": "Terror hits Bodh Gaya", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Multiple small bomb blasts at one of Buddhism 's holiest sites - the Bodh Gaya temple complex in eastern India - wounded two monks on Sunday , police said , but the historic temple itself was not damaged . Buddhists from all over the world visit the complex in Bihar state , which is believed to house the tree under which the Buddha reached enlightenment in 531 BC . `` The holy Bodhi tree is safe and there is no damage to it , '' Bihar police chief Abhayanand told AFP . `` Eight low-intensity serial blasts took place early this morning , injuring two people , '' said senior police official S.K. Bharadwaj . Two more bombs were found and defused inside the complex , one of them near the temple 's celebrated 80-feet-tall statue of the Buddha , Bharadwaj told AFP . Prime Minister Manmohan Singh condemned the blasts at the complex , a UNESCO World Heritage Site , saying `` such attacks on religious places will never be tolerated . '' Home secretary Anil Goswami called the blasts `` a terror attack '' but no one has so far claimed responsibility , according to the Press Trust of India . The national government has sent two teams of investigators to probe the blasts , said Goswami , the top interior ministry official . Attacks on Buddhists are rare in India but there have been tensions in the wider region recently following clashes between Buddhists and Muslims in Myanmar , Sri Lanka and Bangladesh . Additional security forces have been deployed to guard the temple complex after the blasts , which wounded two monks , a 50-year-old Tibetan and a 30-year-old Myanmar national . Both of them have been taken to hospital , local police official Bharadwaj said . Eyewitness and former local legislator Sarbajeet Kumar said he was on his daily morning walk to the temple when the bombs exploded . `` Suddenly I saw smoke and heard the sound of the blasts . I realised that something bad had happened and ran for shelter , '' he told local reporters.AFP OPEN", 
+    "injured": "2", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "Patna", 
+        "Bodh Gaya temple complex"
+    ], 
+    "O": [
+        "Multiple small bomb blasts:1", 
+        "Buddhism 's holiest sites:8", 
+        "Bodhi tree is safe:73", 
+        "Eight low-intensity serial blasts:94", 
+        "injuring two people:104", 
+        "Prime Minister:145", 
+        "condemned:149", 
+        "`` a terror attack '':182", 
+        "investigators:212", 
+        "tensions:238", 
+        "clashes:245", 
+        "Buddhists:247", 
+        "Muslims:249", 
+        "wounded two monks:274", 
+        "smoke:329"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/terror-hits-bodh-gaya/article4892889.ece", 
+    "date": "07-07-2013", 
+    "target": "Religious Places", 
+    "hot_spot": "Bodh Gaya temple complex ", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "UNESCO", 
+            "157", 
+            "Others"
+        ], 
+        [
+            "Press Trust of India", 
+            "199", 
+            "Others"
+        ]
+    ]
+}

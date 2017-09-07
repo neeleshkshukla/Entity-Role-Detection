@@ -1,0 +1,122 @@
+{
+    "LOC": [
+        [
+            "India", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Moscow", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "38", 
+            "Neutral"
+        ], 
+        [
+            "Moscow", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Russia", 
+            "105", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "127", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "215", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Manmohan Singh", 
+            "26", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "Dmitry Medvedev", 
+            "32", 
+            "Comment", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "136", 
+            "Comment"
+        ], 
+        [
+            "Medvedev", 
+            "143", 
+            "Others"
+        ], 
+        [
+            "S.M. Krishna", 
+            "211", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:8"
+    ], 
+    "death": "", 
+    "title": "Tragic and horrific act of violence, says India", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent NEW DELHI : India on Monday strongly condemned the twin suicide bomb blasts in Moscow earlier in the day , with Prime Minister Manmohan Singh writing to Russian President Dmitry Medvedev to assure him of India 's solidarity with the country in combating the forces of violence and terrorism . It is with great anguish that I have learnt of the bomb blasts in Moscow , which have led to the loss of so many innocent lives . This is a most tragic and horrific act of violence . At this difficult hour our thoughts are with you , the people of Russia and the families and friends of the victims of this terrible tragedy . On behalf of the Government and people of India , I convey our deepest condolences , Dr. Singh said in the letter to Mr. Medvedev . The Ministry of External Affairs has termed the killing of civilians as targeted violence and hoped the perpetrators of these senseless attacks will be brought to justice . Scourge of terrorism The Government reiterates its conviction that only collective efforts by the international community can combat the scourge of terrorism that the world is facing today , the Foreign Office statement added . External Affairs Minister S.M. Krishna said : India condemns these horrendous attacks and my sympathies go out to those who have been killed and who have suffered in this attack . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "twin suicide bomb:12", 
+        "terrorism:51", 
+        "bomb:64", 
+        "violence:90", 
+        "hour:95", 
+        "tragedy:117", 
+        "government:123", 
+        "ministry:146", 
+        "external affairs:148", 
+        "violence:158", 
+        "justice:171", 
+        "terrorism:175", 
+        "government:177", 
+        "conviction:180", 
+        "community:188", 
+        "combat:190", 
+        "terrorism:194", 
+        "killed:230"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tragic-and-horrific-act-of-violence-says-india/article737724.ece", 
+    "date": "30-03-2010", 
+    "target": "Government Building", 
+    "hot_spot": "suicide bomb blasts in Moscow", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

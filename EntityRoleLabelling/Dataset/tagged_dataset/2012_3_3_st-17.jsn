@@ -1,0 +1,125 @@
+{
+    "LOC": [
+        [
+            "Mazgaon", 
+            "47", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "96", 
+            "Accused Location"
+        ], 
+        [
+            "Mumbai", 
+            "122", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Haroon Naik", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "Kanwal Nain Patrija", 
+            "14", 
+            "Accused"
+        ], 
+        [
+            "Haroon Naik", 
+            "72", 
+            "Accused"
+        ], 
+        [
+            "Kanwal Nain Patrija", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "114", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 5", 
+        "13/7 : 30", 
+        "9th March : 35", 
+        "July : 124"
+    ], 
+    "death": "", 
+    "title": "Custody of IM operatives extended", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "Mumbai", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A local court on Friday extended the police custody of Haroon Naik and Kanwal Nain Patrija , alleged operatives of Indian Mujahideen , arrested for their role in the 13/7 bomb blasts , till 9th March . The Anti-Terrorism Squad ( ATS ) lawyer told the Mazgaon Court that the investigating agency needed more time to complete investigations as new evidence in the form of phone numbers was recently discovered . Haroon Naik is alleged to have used Hawala channels to fund the triple blasts here last year and Kanwal Nain Patrija , arrested from New Delhi , is accused of handing over Rs . 10 lakh to fugitive IM 's top operative Yasin Bhatkal to execute the terror attack in Mumbai in July last year . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "local court:2", 
+        "police custody:8", 
+        "alleged operatives:18", 
+        "arrested:24", 
+        "bomb blasts:31", 
+        "investigating agency:51", 
+        "investigations:58", 
+        "new evidence:60", 
+        "phone numbers:66", 
+        "hawala channels:79", 
+        "triple blasts:84", 
+        "rs . 10 lakh:104", 
+        "fugitive:109", 
+        "terror attack:119"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/custody-of-im-operatives-extended/article2956013.ece", 
+    "date": "13-07-2011", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "Mazgaon Court", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "110", 
+            "Accused"
+        ]
+    ]
+}

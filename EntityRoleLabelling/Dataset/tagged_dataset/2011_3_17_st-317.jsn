@@ -1,0 +1,183 @@
+{
+    "LOC": [
+        [
+            "Palar", 
+            "36", 
+            "Event"
+        ], 
+        [
+            "Ramapura", 
+            "108", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Muthulakshmi", 
+            "9", 
+            "Accused"
+        ], 
+        [
+            "Veerappan", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "Kolathur Mani", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "S. Sivasubramaniam", 
+            "25", 
+            "Accused"
+        ], 
+        [
+            "Veerappan", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Veerappan", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Muthulakshmi", 
+            "66", 
+            "Accused"
+        ], 
+        [
+            "Mani", 
+            "68", 
+            "Accused"
+        ], 
+        [
+            "Sivasubramaniam", 
+            "70", 
+            "Accused"
+        ], 
+        [
+            "Savariayappan", 
+            "72", 
+            "Accused"
+        ], 
+        [
+            "Papathi", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "Bonda Basava", 
+            "76", 
+            "Accused"
+        ], 
+        [
+            "Eranna", 
+            "79", 
+            "Accused"
+        ], 
+        [
+            "Muthulakshmi", 
+            "96", 
+            "Accused"
+        ], 
+        [
+            "Srinivas", 
+            "103", 
+            "Victim"
+        ], 
+        [
+            "Siman", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "Gynanendra", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "Bilavendra", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Meesekar Madaiah", 
+            "169", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:7", 
+        "1993:35"
+    ], 
+    "death": "22", 
+    "title": "Muthulakshmi acquitted in Palar bomb blast case", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Chamrajnagar", 
+        "CHAMARAJANAGAR", 
+        ""
+    ], 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "The District and Sessions Court on Wednesday acquitted Muthulakshmi , wife of slain forest brigand Veerappan , social worker Kolathur Mani , Nakkeeran reporter S. Sivasubramaniam and four of Veerappan 's associates in the 1993 Palar bomb blast case owing to lack of evidence . The Special Task Force had booked cases under the Terrorist and Disruptive Activities ( Prevention ) Act against Veerappan , Muthulakshmi , Mani , Sivasubramaniam , Savariayappan , Papathi , Bonda Basava and Eranna . Twenty-two police personnel and two forest watchers were killed in the bomb blast . Although Muthulakshmi has been acquitted in the DCF Srinivas murder case , the Ramapura police station attack case , the Ramapura-Meenyam attack case and the Palar bomb blast case , she will continue to be in jail till all the cases against her are disposed of , STF sources said . In the Palar bomb blast case , the Supreme Court awarded death sentence to the prime accused Siman , Gynanendra , Bilavendra and Meesekar Madaiah . Their clemency petition is pending with the President . OPEN", 
+    "injured": "13", 
+    "org_unorg": "Organized", 
+    "O": [
+        "forest brigand veerappan:14", 
+        "palar bomb blast case:36", 
+        "special task force:47", 
+        "terrorist and disruptive activities ( prevention ) act:55", 
+        "dcf srinivas murder case:102", 
+        "ramapura police station attack case:108", 
+        "ramapura-meenyam attack case:115", 
+        "Palar bomb blast case:120", 
+        "stf:142"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/muthulakshmi-acquitted-in-palar-bomb-blast-case/article1545395.ece", 
+    "date": "17-03-2011", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "Police Vehicle", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "LandMine"
+    ], 
+    "ORG": [
+        [
+            "District and Sessions Court", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Nakkeeran", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "Special Task Force", 
+            "47", 
+            "Victim"
+        ], 
+        [
+            "STF", 
+            "142", 
+            "Victim"
+        ], 
+        [
+            "Supreme Court", 
+            "154", 
+            "Others"
+        ]
+    ]
+}

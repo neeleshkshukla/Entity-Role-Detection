@@ -1,0 +1,182 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Balochistan'
+p4
+aS'31'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Khyber-Pakhtunkhwa'
+p8
+aS'33'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Bacha Khan Chowk'
+p12
+aS'50'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Quetta'
+p16
+aS'54'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Balochistan'
+p20
+aS'59'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Swat Valley'
+p24
+aS'97'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Khyber-Pakhtunkhwa'
+p28
+aS'101'
+p29
+aS'Event'
+p30
+aasS'PER'
+p31
+(lp32
+sS'TIM'
+p33
+(lp34
+S'evening : 105'
+p35
+asS'hot_setting'
+p36
+S'A religious gathering at a tablighi markaz (preaching centre)'
+p37
+sS'DAT'
+p38
+(lp39
+S'Thursday : 35'
+p40
+asS'death'
+p41
+S'34'
+p42
+sS'title'
+p43
+S'34 killed in two blasts in Pakistan'
+p44
+sS'org_unorg'
+p45
+S'ORGANISED'
+p46
+sS'terror_group'
+p47
+(lp48
+S''
+p49
+asS'content'
+p50
+S'Thirty-four people were killed and 100 others injured in two bomb attacks , which targeted a security forces vehicle and a religious gathering , in the restive Pakistani provinces of Balochistan and Khyber-Pakhtunkhwa on Thursday . A powerful bomb went off under a security forces vehicle at the busy Bacha Khan Chowk in Quetta , the capital of Balochistan , killing 12 people and injuring 40 others . In the second incident , 22 people were killed and nearly 70 people were injured in an explosion at a tablighi markaz ( preaching centre ) in the Swat Valley of the Khyber-Pakhtunkhwa province in the evening . Radio Pakistan reported that the blast was caused by a gas cylinder , but police officials subsequently described it as an act of terrorism . PTI OPEN'
+p51
+sS'injured'
+p52
+S'100'
+p53
+sS'det_loc'
+p54
+(lp55
+S'Pakistan'
+p56
+ag49
+ag49
+aS'Quetta'
+p57
+aS'Bacha Khan Chowk in Quetta, the capital of Balochistan province.  A tablighi markaz (preaching centre) in Swat Valley of Khyber-Pakhtunkhwa province.'
+p58
+asS'O'
+p59
+(lp60
+S'two bomb attacks:10'
+p61
+aS'security forces vehicle:17'
+p62
+aS'religious gathering:22'
+p63
+aS'Pakistani provinces:28'
+p64
+aS'powerful bomb:38'
+p65
+aS'security forces vehicle:44'
+p66
+aS'explosion:86'
+p67
+aS'tablighi markaz:89'
+p68
+aS'preaching centre:92'
+p69
+aS'blast:112'
+p70
+aS'gas cylinder:117'
+p71
+aS'police officials:121'
+p72
+aS'act of terrorism:128'
+p73
+asS'unexpl'
+p74
+(lp75
+g49
+asS'ocassion'
+p76
+S'RELIGIOUS FESTIVAL'
+p77
+sS'link'
+p78
+S'http://www.thehindu.com/todays-paper/34-killed-in-two-blasts-in-pakistan/article4296709.ece'
+p79
+sS'date'
+p80
+S'10-01-2013'
+p81
+sS'target'
+p82
+S'POLICE AND DEFENCE FORCES'
+p83
+sS'hot_spot'
+p84
+S'A security forces vehicle at Bacha Khan Chowk in Quetta.  A religious gathering at a preaching centre in Swat Valley.'
+p85
+sS'delivery_mod'
+p86
+S'FOUR WHEELER'
+p87
+sS'delivery_met'
+p88
+S'PLANTED'
+p89
+sS'expl'
+p90
+(lp91
+g49
+asS'ORG'
+p92
+(lp93
+(lp94
+S'Radio Pakistan'
+p95
+aS'107'
+p96
+aS'Others'
+p97
+aas.

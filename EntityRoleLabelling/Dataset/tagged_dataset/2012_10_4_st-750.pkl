@@ -1,0 +1,167 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Syria'
+p4
+aS'24'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Aleppo'
+p8
+aS'28'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Saadallah al-Jabiri Square'
+p12
+aS'111'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Bab Jnein'
+p16
+aS'154'
+p17
+aS'Event'
+p18
+aasS'PER'
+p19
+(lp20
+sS'TIM'
+p21
+(lp22
+sS'hot_setting'
+p23
+S''
+p24
+sS'DAT'
+p25
+(lp26
+S'Wednesday : 30'
+p27
+asS'death'
+p28
+S'40'
+p29
+sS'title'
+p30
+S'40 killed, 90 wounded in Aleppo blasts watchdog'
+p31
+sS'org_unorg'
+p32
+S'ORGANISED'
+p33
+sS'terror_group'
+p34
+(lp35
+g24
+asS'content'
+p36
+S"At least 40 people were killed and 90 wounded , most of them soldiers , when three car bombs struck the heart of Syria 's second city Aleppo on Wednesday , a monitoring group said . `` A medical source said that at least 40 people were killed and 90 injured , '' said the Syrian Observatory for Human Rights . `` Most of them were regime troops . '' Meanwhile , official television channel Al-Ikhbariya said 31 people were killed and dozens wounded . `` The toll could rise because many people were badly injured , '' a city official told AFP , shortly after three bombs exploded around Saadallah al-Jabiri Square , near a military officers ' club and a hotel . Two of the blasts hit the area near the club within a minute of each other . A third car bomb then exploded some 150 metres way in the Bab Jnein district , at the entrance of of Aleppo.AFP OPEN"
+p37
+sS'injured'
+p38
+S'90'
+p39
+sS'det_loc'
+p40
+(lp41
+S'Syria'
+p42
+ag24
+ag24
+aS'Aleppo'
+p43
+aS"Saadallah al-Jabiri Square: near a military officers ' club and a hotel, and in Bab Jnein district"
+p44
+asS'O'
+p45
+(lp46
+S'soldiers:14'
+p47
+aS'three car bombs:17'
+p48
+aS'medical source:39'
+p49
+aS'regime troops:67'
+p50
+aS'badly injured:95'
+p51
+aS'three bombs:107'
+p52
+aS"military officers ' club:117"
+p53
+aS'hotel:123'
+p54
+aS'blasts:128'
+p55
+aS'car bomb:144'
+p56
+aS'150 metres:149'
+p57
+asS'unexpl'
+p58
+(lp59
+g24
+asS'ocassion'
+p60
+g24
+sS'link'
+p61
+S'http://www.thehindu.com/todays-paper/tp-in-school/40-killed-90-wounded-in-aleppo-blasts-watchdog/article3963011.ece'
+p62
+sS'date'
+p63
+S'03-10-2012'
+p64
+sS'target'
+p65
+S'TOWN'
+p66
+sS'hot_spot'
+p67
+S'Central town square at the heart of the city'
+p68
+sS'delivery_mod'
+p69
+S'FOUR WHEELER'
+p70
+sS'delivery_met'
+p71
+S'PLANTED'
+p72
+sS'expl'
+p73
+(lp74
+g24
+asS'ORG'
+p75
+(lp76
+(lp77
+S'Syrian Observatory for Human Rights'
+p78
+aS'56'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Al-Ikhbariya'
+p82
+aS'76'
+p83
+aS'Others'
+p84
+aa(lp85
+S'AFP'
+p86
+aS'103'
+p87
+aS'Others'
+p88
+aas.

@@ -1,0 +1,154 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Kothi", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "50", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "56", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "154", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat", 
+            "167", 
+            "Event"
+        ], 
+        [
+            "Lumbini", 
+            "170", 
+            "Event"
+        ], 
+        [
+            "Saroornagar", 
+            "223", 
+            "Neutral"
+        ], 
+        [
+            "Gokul Chat-Lumbini", 
+            "269", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "275", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat-Lumbini", 
+            "321", 
+            "Event"
+        ], 
+        [
+            "DilsukhnagarNo", 
+            "327", 
+            "Event"
+        ], 
+        [
+            "Gokul Chat-Lumbini", 
+            "341", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "347", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "7.30 p.m.:47", 
+        "7.35 p.m.:53", 
+        "6.58 pm : 81", 
+        "7.01 p.m.:84"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday evening:13", 
+        "August:27", 
+        "August 2007:27", 
+        "August 25:63", 
+        "Thursday:71", 
+        "Thursday:144", 
+        "2002:334", 
+        "2002 : 355"
+    ], 
+    "death": "42", 
+    "title": "Police see pattern in blasts", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "There are some striking similarities between the explosions that rocked Dilsukhnagar on Thursday evening and the ones near Gokul Chat at Kothi and Lumbini Park in August 2007 . The most significant among them was the timing chosen by the terrorists to strike ; it was 7.30 p.m. at Gokul Chat and 7.35 p.m. at Lumbini Park on the fateful evening of August 25 when it was drizzling . On Thursday , the twin blasts at Dilsukhnagar went off at 6.58 pm and 7.01 p.m. respectively . The police said the terrorists chose evenings for the bloodshed on both occasions in an attempt to inflict maximum damage as the movement of public on roads was high and their escape was facilitated by darkness . Perhaps more striking in the two incidents separated by a gap of five-and-a-half years was the location chosen on Thursday . The blasts occurred right across the road at Dilsukhnagar where the terrorists failed to explode a bomb simultaneously with those at Gokul Chat and Lumbini . They had chosen three locations for the serial blasts but succeeded only at two , killing 42 persons . The unexploded bomb was kept in the boot of a scooter parked near the foot-over bridge which was 50 metres away from the present sites . What is significant is that the Saroornagar police station is a stones throw away . A senior police officer said the modus operandi of terrorists , the explosive material used and the locations fell into a pattern in all these blasts . The explosives were nitrogen-based and wrapped in cotton cloth at Gokul Chat-Lumbini and in rexine at Dilsukhnagar . The terrorists appeared to have gone in for a locally-made bomb which anybody could assemble as plastic explosives were no longer easy to acquire . The only difference was the use of bicycles in the latest incident . Explosives wrapped in cotton cloth at Gokul Chat-Lumbini and in rexine at DilsukhnagarNo similarity with Saibaba temple blast in 2002 Explosives wrapped in cotton cloth at Gokul Chat-Lumbini and in rexine at Dilsukhnagar No similarity with Saibaba temple blast in 2002 OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "O": [
+        "striking similarities:4", 
+        "timing:37", 
+        "chose evenings:93", 
+        "inflict maximum damage:105", 
+        "three locations:175", 
+        "succeeded only at two:182", 
+        "killing 42 persons:187", 
+        "unexploded bomb:192", 
+        "foot-over bridge:205", 
+        "pattern in all these blasts:253", 
+        "nitrogen-based:262", 
+        "cotton cloth:266", 
+        "rexine:273", 
+        "locally-made bomb:286"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/police-see-pattern-in-blasts/article4444948.ece", 
+    "date": "22-02-2013", 
+    "target": "Public places", 
+    "hot_spot": "Dilsukhnagar,  Gokul Chat ,Lumbini Park", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Explosives wrapped in cotton cloth", 
+        " rexine", 
+        "nitrogen based"
+    ], 
+    "ORG": []
+}

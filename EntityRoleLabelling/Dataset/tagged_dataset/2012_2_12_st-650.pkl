@@ -1,0 +1,155 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Haroon'
+p4
+aS'118'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Pathrija'
+p8
+aS'120'
+p9
+aS'Neutral'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Haroon Rashid Naik'
+p14
+aS'17'
+p15
+aS'Accused'
+p16
+aa(lp17
+S'Kanwar Nain Pathrija'
+p18
+aS'24'
+p19
+aS'Accused'
+p20
+aasS'TIM'
+p21
+(lp22
+sS'hot_setting'
+p23
+S''
+p24
+sS'DAT'
+p25
+(lp26
+S'July 13 , 2011 : 29'
+p27
+aS'February 18 : 122'
+p28
+aS'February 17:129'
+p29
+asS'death'
+p30
+g24
+sS'title'
+p31
+S'Police custody of 13/7 blasts accused extended'
+p32
+sS'org_unorg'
+p33
+S'Organized'
+p34
+sS'terror_group'
+p35
+(lp36
+S'Indian Mujahideen'
+p37
+asS'content'
+p38
+S'A court here has extended the police custody of alleged Indian Mujahideen ( IM ) operative Haroon Rashid Naik and Delhi-based hawala operator Kanwar Nain Pathrija in the July 13 , 2011 triple bomb blasts case in the city . The Maharashtra Anti-Terrorism Squad ( ATS ) has so far made four arrests in the case . They have all been charged under various sections of the Unlawful Activities ( Prevention ) Act , the Explosives Act , the Indian Penal Code , etc. . The court also granted police custody to the other two accused in another bomb blast case the same day . Thus , all the four accused are to stay in police custody Haroon and Pathrija till February 18 and the other two till February 17 . OPEN'
+p39
+sS'injured'
+p40
+g24
+sS'det_loc'
+p41
+(lp42
+S'India'
+p43
+aS'Maharashtra'
+p44
+aS'Mumbai-City'
+p45
+ag24
+ag24
+asS'O'
+p46
+(lp47
+S'court:2'
+p48
+aS'custody:8'
+p49
+aS'operative:16'
+p50
+aS'hawala operator:22'
+p51
+aS'bomb:34'
+p52
+aS'explosives act:76'
+p53
+aS'indian penal code:80'
+p54
+aS'custody:91'
+p55
+aS'bomb blast case:99'
+p56
+asS'unexpl'
+p57
+(lp58
+g24
+asS'ocassion'
+p59
+g24
+sS'link'
+p60
+S'http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/police-custody-of-137-blasts-accused-extended/article2885005.ece'
+p61
+sS'date'
+p62
+S'12-02-2012'
+p63
+sS'target'
+p64
+g24
+sS'hot_spot'
+p65
+g24
+sS'delivery_mod'
+p66
+g24
+sS'delivery_met'
+p67
+g24
+sS'expl'
+p68
+(lp69
+g24
+asS'ORG'
+p70
+(lp71
+(lp72
+S'Indian Mujahideen'
+p73
+aS'11'
+p74
+aS'Accused'
+p75
+aa(lp76
+S'Maharashtra Anti-Terrorism Squad'
+p77
+aS'42'
+p78
+aS'Others'
+p79
+aas.

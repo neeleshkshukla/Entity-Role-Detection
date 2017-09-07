@@ -1,0 +1,143 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "35", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Delhi", 
+            "59", 
+            "Event"
+        ], 
+        [
+            "Darbhanga", 
+            "67", 
+            "Accused Location"
+        ], 
+        [
+            "Delhi", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Anand Vihar", 
+            "77", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "164", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammad Qateel Siddiqui", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "Vinod Yadav", 
+            "40", 
+            "Comment"
+        ], 
+        [
+            "Siddiqui", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Siddiqui", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Tariq Anjum", 
+            "155", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:9", 
+        "November 22:82", 
+        "February 13 , 2010 : 132"
+    ], 
+    "death": "", 
+    "title": "Pune, Hyderabad ATS get one-month custody of IM men", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "The Anti-Terrorism Squad of Pune Police was on Tuesday given custodial remand of alleged Indian Mujahideen operative Mohammad Qateel Siddiqui to interrogate him for his alleged role in the German Bakery bomb blast in Pune . Chief Metropolitan Magistrate Vinod Yadav allowed the Pune ATS to take Siddiqui in custody for a month after the Special Cell of Delhi Police said it had no objection . Darbhanga resident Siddiqui was arrested by the Delhi Police near Anand Vihar Bus Terminal on November 22 . He was one of the eight alleged IM operatives arrested by the Special Cell over suspicion of their alleged involvement in various bomb blasts across the country . According to the Pune ATS , Siddiqui had conducted a reconnaissance of the bakery a few days before the February 13 , 2010 , blast . Meanwhile , the Hyderabad ATS was given one month 's custody of another alleged IM operative Mohammed Tariq Anjum . He was also arrested from Bihar . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "anti-terrorism squad:2", 
+        "remand:12", 
+        "operative:17", 
+        "German Bakery bomb blast:30", 
+        "custody:50", 
+        "month:53", 
+        "cell:57", 
+        "objection:65", 
+        "cell:98", 
+        "suspicion:100", 
+        "involvement:104", 
+        "bomb:107", 
+        "country:111", 
+        "reconnaissance:123", 
+        "bakery:126", 
+        "blast:137", 
+        "month:147", 
+        "custody:149"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/pune-hyderabad-ats-get-onemonth-custody-of-im-men/article3375107.ece", 
+    "date": "01-05-2012", 
+    "target": "Market Place", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "15", 
+            "Accused"
+        ], 
+        [
+            "Pune ATS", 
+            "116", 
+            "Others"
+        ], 
+        [
+            "Hyderabad ATS", 
+            "142", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "153", 
+            "Accused"
+        ]
+    ]
+}

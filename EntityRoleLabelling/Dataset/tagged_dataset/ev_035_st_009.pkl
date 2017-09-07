@@ -1,0 +1,198 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Guwahati'
+p4
+aS'5'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Assam'
+p8
+aS'8'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Moirabari'
+p12
+aS'69'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Morigaon'
+p16
+aS'71'
+p17
+aS'Accused Location'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Sushanta Talukdar'
+p22
+aS'1'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Nazir Ahmed'
+p26
+aS'66'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Bhaskarjyoti Mahanta'
+p30
+aS'84'
+p31
+aS'Comment'
+p32
+aasS'TIM'
+p33
+(lp34
+sS'hot_setting'
+p35
+S''
+p36
+sS'DAT'
+p37
+(lp38
+S'Saturday:89'
+p39
+asS'death'
+p40
+g36
+sS'title'
+p41
+S'Car bombs used in city'
+p42
+sS'det_loc'
+p43
+(lp44
+S'India'
+p45
+aS'Assam'
+p46
+aS'Kamrup'
+p47
+aS'Guwahati'
+p48
+ag36
+asS'terror_group'
+p49
+(lp50
+S'INDIAN MUJAHIDEEN'
+p51
+asS'content'
+p52
+VSushanta Talukdar . . Guwahati : The Assam police have taken into custody three persons in connection with the serial blasts in the State . The cell-phone from which an SMS was sent in the name of the Islamic Security Force -LRB- Indian Mujahideen -RRB- , owning responsibility for the blasts , belonged to one of these three persons . He has been identified as Nazir Ahmed of Moirabari in Morigaon district . . . Inspector-General of Police -LRB- Law and Order -RRB- Bhaskarjyoti Mahanta told reporters on Saturday that car bombs were used in the three blasts in the city . . . He said the cars , all Maruti , were packed with RDX and ammonium nitrate .
+p53
+sS'injured'
+p54
+g36
+sS'org_unorg'
+p55
+g36
+sS'O'
+p56
+(lp57
+S'Assam police:8'
+p58
+aS'custody:13'
+p59
+aS'three persons:14'
+p60
+aS'connection:17'
+p61
+aS'serial blasts:20'
+p62
+aS'State:24'
+p63
+aS'cell-phone:27'
+p64
+aS'SMS:31'
+p65
+aS'blasts:51'
+p66
+aS'three persons:58'
+p67
+aS'identified:64'
+p68
+aS'Law and Order:80'
+p69
+aS'car bombs:91'
+p70
+aS'three blasts:97'
+p71
+aS'city:101'
+p72
+aS'cars:108'
+p73
+aS'Maruti:111'
+p74
+aS'RDX:116'
+p75
+aS'ammonium nitrate:118'
+p76
+asS'unexpl'
+p77
+(lp78
+g36
+asS'ocassion'
+p79
+g36
+sS'link'
+p80
+S'http://www.thehindu.com/todays-paper/car-bombs-used-in-city/article1367895.ece'
+p81
+sS'date'
+p82
+S'30-10-2008'
+p83
+sS'target'
+p84
+S'CITY'
+p85
+sS'hot_spot'
+p86
+g36
+sS'delivery_mod'
+p87
+S'CAR'
+p88
+sS'delivery_met'
+p89
+S'PLANTED'
+p90
+sS'expl'
+p91
+(lp92
+S'RDX'
+p93
+aS'AMMONIUM NITRATE'
+p94
+asS'ORG'
+p95
+(lp96
+(lp97
+S'Islamic Security Force'
+p98
+aS'39'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'Indian Mujahideen'
+p102
+aS'43'
+p103
+aS'Accused'
+p104
+aas.

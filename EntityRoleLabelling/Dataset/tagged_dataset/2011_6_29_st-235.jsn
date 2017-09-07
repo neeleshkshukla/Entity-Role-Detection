@@ -1,0 +1,81 @@
+{
+    "LOC": [
+        [
+            "Ariankuppam", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Ariankuppam", 
+            "34", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Jyothi", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "V.J. Chandiran", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "Chandiran", 
+            "128", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:9"
+    ], 
+    "death": "", 
+    "title": "Woman injured as bomb goes off", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A woman was seriously injured in Ariankuppam on Tuesday after a country bomb given to her in a package went off at her house . Jyothi ( 27 ) , a resident of Ariankuppam , received a call on her mobile phone asking her to come out of the house and collect a package . She went back inside and placed the parcel underneath her bed when it went off . Senior Superintendent of Police ( Law and Order ) V.J. Chandiran said that the woman was out of danger and being treated at a hospital . He said that the asbestos roof was ripped off in the impact of the blast . A case has been registered and a special team formed to investigate , Mr. Chandiran said . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Pondicherry", 
+        "Pondicherry", 
+        "", 
+        "Ariankuppam"
+    ], 
+    "O": [
+        "woman:2", 
+        "seriously injured:4", 
+        "country bomb:12", 
+        "package:19", 
+        "call:38", 
+        "phone:42", 
+        "package:54", 
+        "parcel:63", 
+        "senior superintendent of police:72", 
+        "woman:86", 
+        "hospital:96", 
+        "asbestos roof:102", 
+        "blast:112", 
+        "investigate:125"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/woman-injured-as-bomb-goes-off/article2143931.ece", 
+    "date": "28-06-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,345 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbai'
+p4
+aS'19'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Nagpur'
+p8
+aS'80'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Gateway of India'
+p12
+aS'138'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Zaveri bazaar'
+p16
+aS'142'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Dubai'
+p20
+aS'314'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Zaveri bazaar'
+p24
+aS'374'
+p25
+aS'Event'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'A.M. Khanwilkar'
+p30
+aS'52'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Kode'
+p34
+aS'75'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Sushan Kunjuraman'
+p38
+aS'117'
+p39
+aS'Comment'
+p40
+aa(lp41
+S'Ashrat Ansari'
+p42
+aS'122'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Ashrat Ansari'
+p46
+aS'157'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Hanif Sayed Anees'
+p50
+aS'165'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Fehmida Sayed'
+p54
+aS'173'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Ashrat'
+p58
+aS'368'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Kunjuraman'
+p62
+aS'422'
+p63
+aS'Comment'
+p64
+aasS'TIM'
+p65
+(lp66
+sS'hot_setting'
+p67
+S''
+p68
+sS'DAT'
+p69
+(lp70
+S'Monday:6'
+p71
+aS'2003 : 18'
+p72
+aS'January:45'
+p73
+aS'Monday:59'
+p74
+aS'January:115'
+p75
+aS'August 25 , 2003 : 130'
+p76
+aS'2009:216'
+p77
+aS'December 12:454'
+p78
+aS'2009 : 469'
+p79
+asS'death'
+p80
+S'54'
+p81
+sS'title'
+p82
+S'Ruling on death sentence in 2003 blasts case deferred'
+p83
+sS'org_unorg'
+p84
+S'Organized'
+p85
+sS'terror_group'
+p86
+(lp87
+g68
+asS'content'
+p88
+S"The Bombay High Court on Monday postponed the confirmation of death sentence to three accused in the 2003 Mumbai blasts case . One of the accused is a woman . The verdict will be pronounced either next week or in the first week of January , after the vacation , Justice A.M. Khanwilkar said in his chamber on Monday . The court cited technical reasons for the postponement of the verdict . Since Justice Kode has been transferred to Nagpur , the Division Bench is finding it difficult to sit together to complete the judgment . The judge told us that the verdict will be out next week or in the first week of January , Sushan Kunjuraman , counsel for Ashrat Ansari , told The Hindu . On August 25 , 2003 , blasts at the Gateway of India and Zaveri bazaar killed 54 persons and injured 244 . The Mumbai Police arrested the trio Ashrat Ansari ( 32 ) , his aide Hanif Sayed Anees ( 46 ) and wife Fehmida Sayed ( 43 ) along with others . They were charged under various sections of POTA ( Prevention of Terrorism Act ) and the IPC ( Indian Penal Code ) . The special POTA court awarded death sentence to the trio in 2009 . They were sentenced under three Sections : 120B of the IPC for hatching a criminal conspiracy to cause bomb blasts , 120B read with Section 302 ( punishment for murder ) of the IPC , and 120B read with 3 ( 2 ) ( a ) of the POTA , stipulating the punishment for a terror act . The prosecution then moved the Bombay High Court for confirmation of the death sentences , while the accused filed an appeal against the special POTA court 's verdict . According to the prosecution the conspiracy was hatched in Dubai and certain Pakistani nationals had supported the attack . It said the attack was carried out to avenge the death of members of the minority community post-Godhra . The defence argued that there were no direct eye-witnesses to the planting of the bombs . I argued that all the eye-witnesses were fabricated . Ashrat is accused of planting the Zaveri bazaar bomb but the driver of the taxi in which the bomb was planted , died . So there are no direct eye-witnesses . I pleaded that he should either be given the benefit of doubt or should be released due to lack of evidence , Mr. Kunjuraman said . The Division Bench had last month reserved the judgment after the final arguments of the defence and the prosecution . It had said it would declare the verdict on December 12 . Technical reasons cited for postponement ' Three were given death sentence in 2009 OPEN"
+p89
+sS'injured'
+p90
+S'244'
+p91
+sS'det_loc'
+p92
+(lp93
+S'India'
+p94
+aS'Maharashtra'
+p95
+aS'Mumbai-City'
+p96
+ag68
+ag68
+asS'O'
+p97
+(lp98
+S'confirmation:9'
+p99
+aS'death sentence:11'
+p100
+aS'accused:15'
+p101
+aS'mumbai blasts case:19'
+p102
+aS'accused:26'
+p103
+aS'woman:29'
+p104
+aS'verdict:32'
+p105
+aS'justice:51'
+p106
+aS'court:62'
+p107
+aS'postponement:68'
+p108
+aS'verdict:71'
+p109
+aS'division bench:83'
+p110
+aS'judgment:95'
+p111
+aS'judge:98'
+p112
+aS'verdict:103'
+p113
+aS'counsel:120'
+p114
+aS'killed:144'
+p115
+aS'injured:148'
+p116
+aS'pota:189'
+p117
+aS'prevention of terrorism act:191'
+p118
+aS'ipc:198'
+p119
+aS'indian penal code:200'
+p120
+aS'pota court:207'
+p121
+aS'death sentence:210'
+p122
+aS'ipc:228'
+p123
+aS'conspiracy:233'
+p124
+aS'bomb blasts:236'
+p125
+aS'ipc:251'
+p126
+aS'pota:266'
+p127
+aS'terror act:273'
+p128
+aS'prosecution:277'
+p129
+aS'death sentences:288'
+p130
+aS'accused:293'
+p131
+aS'pota court:300'
+p132
+aS'prosecution:308'
+p133
+aS'conspiracy:310'
+p134
+aS'pakistani nationals:317'
+p135
+aS'attack:322'
+p136
+aS'attack:327'
+p137
+aS'minority community:339'
+p138
+aS'post-godhra:341'
+p139
+aS'eye-witnesses:351'
+p140
+aS'bombs:357'
+p141
+aS'bomb:386'
+p142
+aS'died:390'
+p143
+aS'eye-witnesses:397'
+p144
+aS'lack of evidence:417'
+p145
+aS'division bench:426'
+p146
+aS'judgment:433'
+p147
+aS'verdict:452'
+p148
+aS'technical reasons:457'
+p149
+aS'death sentence:466'
+p150
+asS'unexpl'
+p151
+(lp152
+g68
+asS'ocassion'
+p153
+g68
+sS'link'
+p154
+S'http://www.thehindu.com/todays-paper/tp-national/ruling-on-death-sentence-in-2003-blasts-case-deferred/article2710327.ece'
+p155
+sS'date'
+p156
+S'12-12-2011'
+p157
+sS'target'
+p158
+g68
+sS'hot_spot'
+p159
+g68
+sS'delivery_mod'
+p160
+g68
+sS'delivery_met'
+p161
+g68
+sS'expl'
+p162
+(lp163
+g68
+asS'ORG'
+p164
+(lp165
+(lp166
+S'Bombay High Court'
+p167
+aS'2'
+p168
+aS'Others'
+p169
+aa(lp170
+S'The Hindu'
+p171
+aS'126'
+p172
+aS'Others'
+p173
+aa(lp174
+S'Mumbai Police'
+p175
+aS'152'
+p176
+aS'Others'
+p177
+aa(lp178
+S'Bombay High Court'
+p179
+aS'281'
+p180
+aS'Others'
+p181
+aas.

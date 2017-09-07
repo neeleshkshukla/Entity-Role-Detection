@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "Ajmer Dargah", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Ajmer Dargah", 
+            "66", 
+            "Event"
+        ], 
+        [
+            "Hyderabad 's Mecca Masjid", 
+            "96", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Malegaon", 
+            "101", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Swami Aseemanand", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Aseemanand", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Lokesh", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "Mukesh", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "Bharat", 
+            "33", 
+            "Accused"
+        ], 
+        [
+            "Devendra", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "Harshad", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "Aseemanand", 
+            "80", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "June 24:24", 
+        "Friday:52", 
+        "June 24:60", 
+        "2007:70"
+    ], 
+    "death": "3", 
+    "title": "Aseemanand's judicial custody extended", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A court here has extended the judicial custody of Swami Aseemanand , an accused in the Ajmer Dargah bomb blast case , till June 24 . Aseemanand and Lokesh , Mukesh , Bharat , Devendra and Harshad -- the other accused in the case -- were produced before the court on Friday . It extended their judicial custody till June 24 . Apart from the Ajmer Dargah blast in 2007 which claimed three lives and left 15 injured , Aseemanand is an accused in several other blast cases across the country , including those at Hyderabad 's Mecca Masjid and Malegaon . - PTI OPEN", 
+    "injured": "15", 
+    "org_unorg": "Organized", 
+    "O": [
+        "court:2", 
+        "judicial custody:7", 
+        "ajmer dargah bomb blast case:17", 
+        "bomb blast case:19", 
+        "court:50", 
+        "judicial custody:57", 
+        "ajmer dargah blast:66", 
+        "blast:68", 
+        "lives:74", 
+        "injured:78", 
+        "blast cases:87"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/aseemanands-judicial-custody-extended/article2097975.ece", 
+    "date": "12-06-2011", 
+    "target": "Religious Places", 
+    "hot_spot": "Ajmer dargah", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

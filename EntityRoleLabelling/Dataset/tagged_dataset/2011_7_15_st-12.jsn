@@ -1,0 +1,108 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "7", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Guwahati", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Baksa", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Saat Mile", 
+            "61", 
+            "Event"
+        ], 
+        [
+            "Baksa", 
+            "142", 
+            "Event"
+        ], 
+        [
+            "Tamulpur", 
+            "145", 
+            "Event"
+        ], 
+        [
+            "natun Howly", 
+            "153", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:23"
+    ], 
+    "death": "", 
+    "title": "Two explosive devices seized in Assam", 
+    "det_loc": [
+        "India", 
+        "Assam", 
+        "Kamrup Metropolitan", 
+        "Guwahati", 
+        "Guwahati Saat Mile area and Baksa district Tamulpur area"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A day after serial blasts rocked Mumbai , two powerful improvised explosive devices were recovered in Guwahati and nearby Baksa district on Thursday during two separate search operations in the run-up to Independence Day . Stepping up security measures , a joint Army and police team recovered an IED containing ammonium nitrate and other chemicals from a mini truck at Saat Mile area under Jalukbari police station here , police sources said . The bomb comprised assorted chemicals weighing 200 to 250 gram , they said and added the exact chemicals would be identified after laboratory testing . During routine checking , the explosive was found in the truck even as the person taking a lift carrying the bomb fled away , the sources said . The truck 's driver and handyman were being interrogated , they said . In nearby Baksa district 's Tamulpur area , another IED was recovered from natun Howly area during search operation . Both the bombs had been taken away by the Army bomb disposal squad for analysing and defusing them . PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "serial blasts:4", 
+        "improvised explosive devices:11", 
+        "baksa district:20", 
+        "search operations:27", 
+        "run-up:31", 
+        "independence day:33", 
+        "security:38", 
+        "security measures:38", 
+        "joint army and police:42", 
+        "ied:49", 
+        "ammonium nitrate:51", 
+        "mini truck:58", 
+        "bomb:75", 
+        "chemicals:78", 
+        "chemicals:91", 
+        "laboratory testing:96", 
+        "explosive:104", 
+        "truck:109", 
+        "person:113", 
+        "lift:116", 
+        "bomb:119", 
+        "driver and handyman:130", 
+        "ied:149", 
+        "search operation:157", 
+        "army bomb disposal squad:169", 
+        "defusing:176"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/two-explosive-devices-seized-in-assam/article2228578.ece", 
+    "date": "15-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Jalukbari police station", 
+            "65", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,453 @@
+{
+    "LOC": [
+        [
+            "Delhi:84", 
+            "Event", 
+            "Accused Location"
+        ], 
+        [
+            "Nahar Chowk:98", 
+            "Accused Location", 
+            "Neutral"
+        ], 
+        [
+            "district headquarters", 
+            "144", 
+            "Accused Location"
+        ], 
+        [
+            "Kathmandu:386", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "India-Nepal", 
+            "45", 
+            "Accused Location"
+        ], 
+        [
+            "Bihars Raxaul town", 
+            "48", 
+            "Accused Location"
+        ], 
+        [
+            "Punes German Bakery blast", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "84", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "86", 
+            "Accused Location"
+        ], 
+        [
+            "Bangalore", 
+            "88", 
+            "Accused Location"
+        ], 
+        [
+            "Mumbai", 
+            "90", 
+            "Accused Location"
+        ], 
+        [
+            "Nahar", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Chowk", 
+            "99", 
+            "Accused Location"
+        ], 
+        [
+            "Raxaul", 
+            "101", 
+            "Accused Location"
+        ], 
+        [
+            "East Champaran", 
+            "103", 
+            "Accused Location"
+        ], 
+        [
+            "Nepal", 
+            "115", 
+            "Accused Location"
+        ], 
+        [
+            "Bihar", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Bihar police", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Raxaul", 
+            "127", 
+            "Neutral"
+        ], 
+        [
+            "Motihari", 
+            "147", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "175", 
+            "Neutral"
+        ], 
+        [
+            "Raxaul", 
+            "191", 
+            "Neutral"
+        ], 
+        [
+            "Bihar police", 
+            "209", 
+            "Neutral"
+        ], 
+        [
+            "Raxaul", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "268", 
+            "Neutral"
+        ], 
+        [
+            "Motihari in East Champaran", 
+            "281", 
+            "Neutral"
+        ], 
+        [
+            "Motihari", 
+            "281", 
+            "Neutral"
+        ], 
+        [
+            "East Champaran", 
+            "283", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "303", 
+            "Neutral"
+        ], 
+        [
+            "Patna", 
+            "309", 
+            "Neutral"
+        ], 
+        [
+            "Motihari", 
+            "311", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "320", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "370", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "384", 
+            "Event"
+        ], 
+        [
+            "Kathmandu", 
+            "386", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "447", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "455", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "469", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "471", 
+            "Neutral"
+        ], 
+        [
+            "Bihar police", 
+            "564", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "564", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Yasin Bhatkal", 
+            "11", 
+            "Accused"
+        ], 
+        [
+            "Asadullah Akhtar", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Haddi", 
+            "39", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "54", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Ahmed Zarar Siddibappa", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Asadullah", 
+            "94", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "155", 
+            "Accused"
+        ], 
+        [
+            "Ravinder Kumar", 
+            "255", 
+            "Comment"
+        ], 
+        [
+            "Yasin", 
+            "270", 
+            "Accused"
+        ], 
+        [
+            "Asadullah", 
+            "272", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "338", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "354", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "8 a.m.:118", 
+        "evening : 287"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:52", 
+        "July 18:244", 
+        "Thursdays : 420"
+    ], 
+    "death": "", 
+    "title": "IM founder Yasin Bhatkal held", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "In a major breakthrough for security agencies in India , Yasin Bhatkal , a key conspirator in several bomb blasts and co-founder of the banned Indian Mujahideen ( IM ) , and another IM operative Asadullah Akhtar alias Haddi , were arrested from the India-Nepal border in Bihars Raxaul town on Thursday . Yasin , originally named Mohammad Ahmed Zarar Siddibappa , is on Indias list of 12 most-wanted terror suspects . He is involved in Punes German Bakery blast and blasts in Delhi , Hyderabad , Bangalore and Mumbai . He and Asadullah were arrested near Nahar Chowk in Raxaul , East Champaran district , about one km from the international border of Nepal , around 8 a.m. . The Bihar police detained him in Raxaul and the National Investigation Agency made the formal arrest . He was then taken to the district headquarters in Motihari . Police sources told The Hindu that Yasin was planning to carry out blasts during the upcoming festival season of Diwali and Dussehra and had come to India to scout for local support to execute his plan . The duo was meeting in Raxaul with the purpose of planning terror activities . After receiving intelligence inputs , a team of the Bihar police was sent to Raxaul . Another team of the National Investigation Agency also went to the district . The NIA already has a non-bailable warrant against the two , which was issued on July 18 . The NIA will carry out further investigations , Ravinder Kumar , Additional Director-General of Police ( Headquarters ) , said in Patna . Yasin and Asadullah were produced before the chief judicial magistrate in Motihari in East Champaran in the evening . The court issued a three-day transit remand to the NIA to take them to Delhi . The two left for Patna from Motihari , from where they would be flown to Delhi by a special Border Security Force aircraft . Known as a motivator , recruiter and bomb-maker , Yasin was interrogated for several hours at the district headquarters . During his day-long interrogation , Yasin is learnt to have revealed a lot about Pakistans role in several serial blasts in India . He has also provided information about the hideouts of other operatives in India and Kathmandu . He did not seem to be worried about the consequences , an officer said . After the alerts , Central security agencies had launched a covert operation along the border days before Thursdays arrest . The alerts were generated by the intelligence wing of the Sashastra Seema Bal ( SSB ) , a specialised force for border areas in Bihar . They were passed on to their Delhi headquarters and then shared with the NIA . An NIA team arrived in Bihar from Delhi and conducted the operation along with the local police and the intelligence wing of the SSB . When he crossed the border , he was apprehended . He was wearing a denim shirt and khaki pants . A lot of homework had gone into this operation . There were manual as well as technical inputs with the local police . Initially , he denied his identity . But based on his photographs and other identification marks , his identity could be confirmed . So he could not deny for long , the Bihar police told The Hindu . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Punes German Bakery blast"
+    ], 
+    "O": [
+        "co-founder:22", 
+        "bihars:48", 
+        "indias list:65", 
+        "bakery blast:79", 
+        "international border:112", 
+        "diwali and dussehra:168", 
+        "headquarters:263", 
+        "transit remand:294", 
+        "border security force:324", 
+        "motivator:332", 
+        "bomb-maker:336", 
+        "district headquarters:346", 
+        "interrogation:352", 
+        "pakistans:363", 
+        "operation:517"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/im-founder-yasin-bhatkal-held/article5073773.ece", 
+    "date": "13-02-2010", 
+    "target": "", 
+    "hot_spot": "Punes German Bakery blast", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "security agencies", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "152", 
+            "Others"
+        ], 
+        [
+            "Hindu", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "220", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "230", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "248", 
+            "Others"
+        ], 
+        [
+            "Additional Director-General of Police", 
+            "258", 
+            "Others"
+        ], 
+        [
+            "chief judicial magistrate", 
+            "277", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "298", 
+            "Others"
+        ], 
+        [
+            "Border Security Force aircraft", 
+            "324", 
+            "Others"
+        ], 
+        [
+            "intelligence wing", 
+            "429", 
+            "Others"
+        ], 
+        [
+            "Sashastra Seema Bal ( SSB )", 
+            "433", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "462", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "465", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "480", 
+            "Others"
+        ], 
+        [
+            "intelligence wing", 
+            "483", 
+            "Others"
+        ], 
+        [
+            "SSB", 
+            "487", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "530", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "567", 
+            "Others"
+        ]
+    ]
+}

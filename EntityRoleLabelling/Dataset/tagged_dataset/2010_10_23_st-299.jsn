@@ -1,0 +1,138 @@
+{
+    "LOC": [
+        [
+            "Chinnaswamy Stadium", 
+            "29", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "46", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shahzad", 
+            "15", 
+            "Accused"
+        ], 
+        [
+            "Shahzad", 
+            "37", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "41", 
+            "Accused"
+        ], 
+        [
+            "Shahzad", 
+            "82", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "86", 
+            "Accused"
+        ], 
+        [
+            "Shahzad", 
+            "108", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "April:27", 
+        "April 17:27", 
+        "Friday:35", 
+        "Thursday:48", 
+        "October 30:69", 
+        "October:69", 
+        "Friday:84", 
+        "Saturday:91"
+    ], 
+    "death": "", 
+    "title": "Stadium blasts suspect interrogated", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangaluru", 
+        "Chinnaswamy Stadium"
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "Officials of the Special Enquiry Squad of Central Crime Branch ( CCB ) interrogated Shahzad , an alleged Indian Mujahideen militant , in connection with the April 17 Chinnaswamy Stadium blasts , here on Friday . Shahzad and his associate Salman were brought here from Delhi on Thursday . The CCB officials produced the two in the first ACMM Court which allowed the police to interrogate them till October 30 . A team headed by an Assistant Commissioner of Police interrogated Shahzad on Friday while Salman will be questioned on Saturday , a senior police officer , who wished to remain anonymous , told The Hindu . Shahzad was grilled about his role in the crude bomb blasts ahead of an IPL match outside the cricket stadium and his alleged links with banned terrorist organisation , Indian Mujahideen . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "special enquiry:4", 
+        "enquiry squad:5", 
+        "squad:6", 
+        "central crime:8", 
+        "central:8", 
+        "crime branch:9", 
+        "crime:9", 
+        "branch:10", 
+        "ccb:12", 
+        "connection:24", 
+        "associate:40", 
+        "ccb:51", 
+        "team:73", 
+        "assistant commissioner:77", 
+        "officer:96", 
+        "role:113", 
+        "crude bomb:116", 
+        "ipl match:122", 
+        "ipl:122", 
+        "match:123", 
+        "cricket stadium:126", 
+        "terrorist organisation:134"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Sport Tournaments", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/stadium-blasts-suspect-interrogated/article844117.ece", 
+    "date": "17-04-2010", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "ACMM Court", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "IPL", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "137", 
+            "Others"
+        ]
+    ]
+}

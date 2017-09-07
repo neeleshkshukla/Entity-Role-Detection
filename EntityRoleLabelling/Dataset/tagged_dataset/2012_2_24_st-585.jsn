@@ -1,0 +1,137 @@
+{
+    "LOC": [
+        [
+            "Vidiya Colony", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Miyapur", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "NMR Residency", 
+            "62", 
+            "Event"
+        ], 
+        [
+            "NMR Residency", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "Rajaram Colony", 
+            "123", 
+            "Neutral"
+        ], 
+        [
+            "Miyapur", 
+            "238", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ahmed", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "Rajaram", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "Sundeep", 
+            "176", 
+            "Comment"
+        ], 
+        [
+            "S. Bheem Reddy", 
+            "240", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "noon : 65"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:19"
+    ], 
+    "death": "", 
+    "title": "Explosion creates panic in residential area", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "An explosion in a heap of garbage shattered windowpanes of several flats at Vidiya Colony of Miyapur on Thursday . While panicked residents mistook it for a bomb blast , police suspect it to be a cracker explosion . Municipal contract workers set fire to trash which they swept to a corner of an open plot abutting an apartment building -- NMR Residency around noon . As the waste-papers and dry grass burned , there was an explosion . Windowpanes of all the flats of NMR Residency facing the open plot and some apartments in adjacent complexes were shattered . None was injured though . I came rushing as my children study in a school here , Ahmed , a plumber from Rajaram Colony , said . He heaved a sigh of relief after finding that the explosion had nothing to do with the school . But students of the school said they felt like running away from their classes on hearing the massive sound . Owner of the open plot where explosion occurred , Sundeep , said the blast could be due to accidental ignition of some explosive materials left behind by contractors who laid an underground drainage pipeline in the area . I am told detonators or explosive substances abandoned by the contractors may have got mixed in the garbage . Unaware of it , the sweepers set it on fire , he said . Miyapur Inspector S. Bheem Reddy , however , maintained that all evidence at the spot proved the explosion occurred due to abandoned firecrackers . Will the explosion from leftover firecrackers be so powerful as to shatter windowpanes at a height of 50 feet ? It looks like heavy scrap was lying over the firecrackers which must have created high pressure , the Inspector reasoned out . Sniffer dogs , bomb disposal and CLUES team inspected the spot . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "HYDERABAD", 
+        "heap of garbage,Vidiya Colony of Miyapur "
+    ], 
+    "O": [
+        "cracker explosion:37", 
+        "municipal contract:40", 
+        "apartment building:59", 
+        "plumber:121", 
+        "school:145", 
+        "massive sound:164", 
+        "explosive materials:189", 
+        "contractors:194", 
+        "drainage pipeline:199", 
+        "garbage:222", 
+        "sweepers:229", 
+        "firecrackers:260", 
+        "firecrackers:267", 
+        "high pressure:296", 
+        "Inspector:300", 
+        "sniffer dogs:304", 
+        "bomb disposal:307"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/explosion-creates-panic-in-residential-area/article2926640.ece", 
+    "date": "23-02-2012", 
+    "target": "", 
+    "hot_spot": "heap of garbage,Vidiya Colony of Miyapur ", 
+    "delivery_mod": "GARBAGE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "IGNITION"
+    ], 
+    "ORG": [
+        [
+            "police", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "school", 
+            "115", 
+            "Others"
+        ], 
+        [
+            "school", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "school", 
+            "151", 
+            "Others"
+        ], 
+        [
+            "CLUES team", 
+            "310", 
+            "Others"
+        ]
+    ]
+}

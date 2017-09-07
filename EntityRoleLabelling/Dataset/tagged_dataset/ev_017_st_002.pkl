@@ -1,0 +1,426 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Assam'
+p4
+aS'4'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Assam'
+p8
+aS'9'
+p9
+aS'Event'
+p10
+aa(lp11
+S'GUWAHATI'
+p12
+aS'17'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Assam'
+p16
+aS'37'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Baska'
+p20
+aS'161'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Chirang'
+p24
+aS'167'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Nalbari'
+p28
+aS'169'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Ninth Mile'
+p32
+aS'235'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Dibrugarh'
+p36
+aS'260'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Sivsagar'
+p40
+aS'262'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Dispur'
+p44
+aS'285'
+p45
+aS'Neutral'
+p46
+aasS'PER'
+p47
+(lp48
+(lp49
+S'Sushanta Talukdar'
+p50
+aS'13'
+p51
+aS'Others'
+p52
+aa(lp53
+S'H.R. Yadav'
+p54
+aS'139'
+p55
+aS'Victim'
+p56
+aa(lp57
+S'Tarun'
+p58
+aS'299'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Venkaiah Naidu'
+p62
+aS'328'
+p63
+aS'Others'
+p64
+aasS'TIM'
+p65
+(lp66
+S'last night : 40'
+p67
+aS'tonight : 67'
+p68
+aS'today : 93'
+p69
+aS'last night : 102'
+p70
+aS'at6 .45 p.m. : 130'
+p71
+aS'tonight : 133'
+p72
+aS'today : 187'
+p73
+aS'11 p.m. : 222'
+p74
+aS'last night : 265'
+p75
+asS'hot_setting'
+p76
+S''
+p77
+sS'DAT'
+p78
+(lp79
+S'MARCH 10 : 19'
+p80
+aS'yesterday midnight : 84'
+p81
+asS'death'
+p82
+g77
+sS'title'
+p83
+S'9 more blasts rock Assam'
+p84
+sS'det_loc'
+p85
+(lp86
+S'India'
+p87
+aS'Assam'
+p88
+aS'Chirang'
+p89
+aS'Guwahati'
+p90
+ag77
+asS'terror_group'
+p91
+(lp92
+S'UNITED LIBERATION FRONT OF ASSAM (ULFA)'
+p93
+asS'content'
+p94
+VOther States - Assam 9 more blasts rock Assam . . By Sushanta Talukdar . . GUWAHATI , MARCH 10 . Nine more blasts triggered by the United Liberation Front of Asom -LRB- ULFA -RRB- rocked Assam since late last night even as security has been strengthened throughout the State . One CRPF member was injured in a blast in the heart of the city here tonight while there was no report of any casualty in the other five blasts that occurred since yesterday midnight . . . While six blasts occurred today , the militant outfit triggered three more late last night . . . The CRPF man was injured when suspected ULFA militants lobbed a grenade at a CRPF transit camp near the busy Ulubari Flyover here at6 .45 p.m. tonight . The injured personnel , H.R. Yadav , was rushed to hospital . . . Earlier during the day the ULFA triggered five more blasts two in Baska district , one each in Chirang and Nalbari districts . . . Police said six live bombs were recovered in different parts of the State today . Army and police explosive experts detonated three bombs recovered in the city . . . Even as the police and the Army were busy defusing live bombs , militants triggered a blast at 11 p.m. in which a compound wall of the CRPF group centre at Ninth Mile on the outskirts of the city was damaged . The outfit also triggered two more blasts on a gas and oil pipeline in Dibrugarh and Sivsagar district late last night . . . BJP plans protest . . The Bharatiya Janata Party State unit will undertake a ` Dispur gherao ' programme to demand , among other things , dismissal of the Tarun Gogoi-led Congress Government for its `` failure to contain extremist violence and protect lives and property of the common people '' . . . The BJP leader , Venkaiah Naidu , is scheduled to attend the programme .
+p95
+sS'injured'
+p96
+S'1'
+p97
+sS'org_unorg'
+p98
+g77
+sS'O'
+p99
+(lp100
+S'9 more blasts:5'
+p101
+aS'rock:8'
+p102
+aS'Nine more blasts:22'
+p103
+aS'triggered:25'
+p104
+aS'rocked:36'
+p105
+aS'security:44'
+p106
+aS'strengthened:47'
+p107
+aS'State:50'
+p108
+aS'injured:56'
+p109
+aS'blast:59'
+p110
+aS'no report:71'
+p111
+aS'casualty:75'
+p112
+aS'five blasts:79'
+p113
+aS'occurred:82'
+p114
+aS'six blasts:90'
+p115
+aS'occurred:92'
+p116
+aS'militant outfit:96'
+p117
+aS'triggered:98'
+p118
+aS'three more:99'
+p119
+aS'injured:111'
+p120
+aS'suspected:113'
+p121
+aS'militants:115'
+p122
+aS'lobbed:116'
+p123
+aS'grenade:118'
+p124
+aS'transit camp:122'
+p125
+aS'busy Ulubari Flyover:126'
+p126
+aS'injured:136'
+p127
+aS'rushed:143'
+p128
+aS'hospital:145'
+p129
+aS'triggered:155'
+p130
+aS'five more blasts:156'
+p131
+aS'six live bombs:176'
+p132
+aS'recovered:180'
+p133
+aS'State:186'
+p134
+aS'explosive experts:192'
+p135
+aS'detonated:194'
+p136
+aS'three bombs:195'
+p137
+aS'recovered:197'
+p138
+aS'city:200'
+p139
+aS'busy:212'
+p140
+aS'defusing live bombs:213'
+p141
+aS'militants triggered:217'
+p142
+aS'blast:220'
+p143
+aS'compound wall:227'
+p144
+aS'CRPF group centre:231'
+p145
+aS'outskirts:239'
+p146
+aS'damaged:244'
+p147
+aS'outfit:247'
+p148
+aS'triggered:249'
+p149
+aS'two more blasts:250'
+p150
+aS'gas and oil pipeline:255'
+p151
+aS'protest:272'
+p152
+aS'Bharatiya Janata Party State unit:276'
+p153
+aS'undertake:282'
+p154
+aS'Dispur gherao:285'
+p155
+aS'programme:288'
+p156
+aS'demand:290'
+p157
+aS'dismissal:296'
+p158
+aS'Tarun Gogoi-led Congress Government:299'
+p159
+aS'failure:306'
+p160
+aS'extremist violence:309'
+p161
+aS'protect lives:312'
+p162
+aS'property:315'
+p163
+aS'common people:318'
+p164
+aS'programme:336'
+p165
+asS'unexpl'
+p166
+(lp167
+g77
+asS'ocassion'
+p168
+g77
+sS'link'
+p169
+S'http://www.thehindu.com/2005/03/11/stories/2005031107011200.htm'
+p170
+sS'date'
+p171
+g77
+sS'target'
+p172
+S'TOWN'
+p173
+sS'hot_spot'
+p174
+g77
+sS'delivery_mod'
+p175
+g77
+sS'delivery_met'
+p176
+S'PLANTED'
+p177
+sS'expl'
+p178
+(lp179
+S'GRENADE'
+p180
+asS'ORG'
+p181
+(lp182
+(lp183
+S'United Liberation Front of Asom'
+p184
+aS'28'
+p185
+aS'Accused'
+p186
+aa(lp187
+S'ULFA'
+p188
+aS'34'
+p189
+aS'Accused'
+p190
+aa(lp191
+S'CRPF'
+p192
+aS'53'
+p193
+aS'Others'
+p194
+aa(lp195
+S'CRPF'
+p196
+aS'108'
+p197
+aS'Others'
+p198
+aa(lp199
+S'ULFA'
+p200
+aS'114'
+p201
+aS'Accused'
+p202
+aa(lp203
+S'CRPF'
+p204
+aS'121'
+p205
+aS'Others'
+p206
+aa(lp207
+S'ULFA'
+p208
+aS'154'
+p209
+aS'Accused'
+p210
+aa(lp211
+S'CRPF'
+p212
+aS'231'
+p213
+aS'Others'
+p214
+aa(lp215
+S'BJP'
+p216
+aS'270'
+p217
+aS'Others'
+p218
+aa(lp219
+S'Bharatiya Janata Party'
+p220
+aS'276'
+p221
+aS'Others'
+p222
+aa(lp223
+S'BJP'
+p224
+aS'325'
+p225
+aS'Others'
+p226
+aas.

@@ -1,0 +1,305 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Boston'
+p4
+aS'16'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Boston'
+p8
+aS'73'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Boston'
+p12
+aS'86'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Hyderabad'
+p16
+aS'114'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Boston'
+p20
+aS'130'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Boston'
+p24
+aS'141'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Alabama'
+p28
+aS'176'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Boston'
+p32
+aS'178'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Hyderabad'
+p36
+aS'256'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Hyderabad'
+p40
+aS'272'
+p41
+aS'Neutral'
+p42
+aasS'PER'
+p43
+(lp44
+(lp45
+S'Muralidhar Nannapaneni'
+p46
+aS'51'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Rajesh Vetcha'
+p50
+aS'119'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Muralidhar'
+p54
+aS'123'
+p55
+aS'Others'
+p56
+aa(lp57
+S'Muralidhar'
+p58
+aS'232'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Sadasiva Rao Katta'
+p62
+aS'302'
+p63
+aS'Others'
+p64
+aa(lp65
+S'Shobha'
+p66
+aS'325'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Meghana'
+p70
+aS'331'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Priya'
+p74
+aS'333'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Muralidhar'
+p78
+aS'411'
+p79
+aS'Others'
+p80
+aasS'TIM'
+p81
+(lp82
+S'four years : 108'
+p83
+asS'hot_setting'
+p84
+S''
+p85
+sS'DAT'
+p86
+(lp87
+S'April 18 : 30'
+p88
+asS'death'
+p89
+g85
+sS'title'
+p90
+S'Boston marathon: doctor sad he couldnt make city proud'
+p91
+sS'det_loc'
+p92
+(lp93
+S'United States'
+p94
+ag85
+ag85
+aS'Boston'
+p95
+ag85
+asS'terror_group'
+p96
+(lp97
+g85
+asS'content'
+p98
+S'He was the lone Hyderabadi from among the 26,000 runners from 100 countries in the Boston Marathon , which was rocked by bomb explosions at the finish line on April 18 . But back home in the city after what he describes as an experience of a lifetime , Dr. Muralidhar Nannapaneni is a picture of unflappable spirit despite being shocked at the terror attack . The most priceless souvenirs being the Boston Marathon jerseys ! Well , if I am asked to run the Boston Marathon next week again I am ready for that , says the 43-year-old doctor . His passion for running started off four years ago and thanks to Hyderabad Runners , founded by Rajesh Vetcha , Dr. Muralidhar could get an entry into the Boston Marathon in the doctors category . By all means , Boston edition , being one of the five majors of a marathon in the world has its unique identity and charm , says the doctor who in fact flew a distance of 1,000 km from Alabama to Boston along with his family members for the event . Well , in hindsight I can say the cramps which I suffered put me away from that incident as I had to get repeated treatment on the way even as my ultimate dream was to finish the marathon at any cost , says Dr. Muralidhar . Definitely , it is a huge disappointment eventually that I could not realise my dream . I always wanted to hold the Hyderabad Runners banner to represent this proud city at the finish line , says the former Hyderabad Public School student . As I said , all of us runners were about 800 m away from the finish line and were dazed when we ( his brother-in-law Sadasiva Rao Katta also took part ) first heard about the bomb blasts . And , I was more worried about my sister Shobha and my two nieces ( Meghana and Priya ) who were waiting at the finish line to receive me , he recalls . It was a great escape for them too as they had just gone into a nearby restaurant for a break when the bombings took place , says the doctor . It took three hours for me to get the message that everyone of my family members was safe . Till then , we were in a lost world honestly , says Dr. Muralidhar . The Sheraton Hotel where all the runners were diverted to represented a war-line zone . But , what stood out was the remarkable resilience and hospitality of everyone concerned , he remembers . OPEN'
+p99
+sS'injured'
+p100
+g85
+sS'org_unorg'
+p101
+g85
+sS'O'
+p102
+(lp103
+S'lone hyderabadi:4'
+p104
+aS'26,000 runners:9'
+p105
+aS'100 countries:12'
+p106
+aS'boston marathon:16'
+p107
+aS'bomb explosions:23'
+p108
+aS'finish line:27'
+p109
+aS'lifetime:48'
+p110
+aS'unflappable spirit:57'
+p111
+aS'terror attack:64'
+p112
+aS'priceless souvenirs:69'
+p113
+aS'boston marathon jerseys:73'
+p114
+aS'boston marathon:86'
+p115
+aS'hyderabad runners:114'
+p116
+aS'boston marathon:130'
+p117
+aS'marathon:152'
+p118
+aS'unique identity and charm:158'
+p119
+aS'treatment:212'
+p120
+aS'ultimate dream:219'
+p121
+aS'finish:223'
+p122
+aS'marathon:225'
+p123
+aS'disappointment:240'
+p124
+aS'hyderabad runners banner:256'
+p125
+aS'proud city:262'
+p126
+aS'finish line:266'
+p127
+aS'hyderabad public school student:272'
+p128
+aS'runners:284'
+p129
+aS'finish line:292'
+p130
+aS'dazed:296'
+p131
+aS'bomb blasts:313'
+p132
+aS'two nieces:328'
+p133
+aS'finish line:340'
+p134
+aS'restaurant:365'
+p135
+aS'bombings:371'
+p136
+aS'message:388'
+p137
+aS'safe:396'
+p138
+aS'sheraton hotel:414'
+p139
+aS'runners:419'
+p140
+aS'war-line zone:425'
+p141
+aS'resilience:436'
+p142
+aS'hospitality:438'
+p143
+asS'unexpl'
+p144
+(lp145
+g85
+asS'ocassion'
+p146
+g85
+sS'link'
+p147
+S'http://www.thehindu.com/todays-paper/tp-in-school/boston-marathon-doctor-sad-he-couldnt-make-city-proud/article4648694.ece'
+p148
+sS'date'
+p149
+S'15-04-2013'
+p150
+sS'target'
+p151
+S'SPORTS VENUE'
+p152
+sS'hot_spot'
+p153
+g85
+sS'delivery_mod'
+p154
+g85
+sS'delivery_met'
+p155
+S'PLANTED'
+p156
+sS'expl'
+p157
+(lp158
+g85
+asS'ORG'
+p159
+(lp160
+s.

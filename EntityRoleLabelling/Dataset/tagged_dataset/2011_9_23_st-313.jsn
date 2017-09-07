@@ -1,0 +1,79 @@
+{
+    "LOC": [
+        [
+            "Duggalli", 
+            "14", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "H.S. Venkatesh", 
+            "21", 
+            "Comment"
+        ], 
+        [
+            "Jagadish", 
+            "36", 
+            "Victim"
+        ], 
+        [
+            "Jagadish", 
+            "49", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:18"
+    ], 
+    "death": "", 
+    "title": "Detonator goes off", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Davanagare", 
+        "Devangere", 
+        "Duggalli area"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A person was injured when a detonator went off at a shop near Duggalli area here on Wednesday evening . H.S. Venkatesh , Superintendent of Police , said that the blast took place when shop-owner Jagadish tried to remove copper wires from a damaged electronic gadget . Mr. Jagadish , who was seriously injured in the incident , has been shifted to the General Hospital . Sniffer dogs and bomb disposal squad , which were pressed into service , detected another live detonator inside the gadget that exploded , and was immediately defused , he said . Staff Correspondent OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "detonator:7", 
+        "shop:12", 
+        "duggalli area:14", 
+        "evening:19", 
+        "superintendent of police:24", 
+        "blast:31", 
+        "shop-owner:35", 
+        "copper wires:40", 
+        "electronic gadget:45", 
+        "seriously injured:53", 
+        "general hospital:64", 
+        "sniffer dogs:67", 
+        "bomb disposal squad:70", 
+        "detonator:83", 
+        "gadget:86", 
+        "exploded:88", 
+        "defused:93"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/detonator-goes-off/article2478186.ece", 
+    "date": "21-09-2011", 
+    "target": "Market Place", 
+    "hot_spot": "Shop", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

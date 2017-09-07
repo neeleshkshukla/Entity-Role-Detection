@@ -1,0 +1,259 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar blasts", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Tihar jail", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Tihar", 
+            "37", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "40", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Begum Bazar", 
+            "106", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "109", 
+            "Event"
+        ], 
+        [
+            "Ranigunj", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "Tank Bund", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "134", 
+            "Source"
+        ], 
+        [
+            "Andhra Pradesh", 
+            "147", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "164", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Afzalgunj", 
+            "257", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Hyderabad", 
+            "302", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "312", 
+            "Event", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Syed Maqbool", 
+            "24", 
+            "Assoc Accused"
+        ], 
+        [
+            "Maqbool and Imran Khan", 
+            "25", 
+            "Assoc Accused"
+        ], 
+        [
+            "Maqbool", 
+            "25", 
+            "Assoc Accused"
+        ], 
+        [
+            "Imran Khan", 
+            "27", 
+            "Assoc Accused"
+        ], 
+        [
+            "Maqbool and Khan", 
+            "69", 
+            "Assoc Accused"
+        ], 
+        [
+            "Maqbool", 
+            "69", 
+            "Assoc Accused"
+        ], 
+        [
+            "Khan", 
+            "71", 
+            "Assoc Accused"
+        ], 
+        [
+            "IM commander Riyaz", 
+            "126", 
+            "Assoc Accused"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "128", 
+            "Assoc Accused"
+        ], 
+        [
+            "Riyaz", 
+            "128", 
+            "Assoc Accused"
+        ], 
+        [
+            "Tabrez", 
+            "232", 
+            "Accused"
+        ], 
+        [
+            "Tabrez and Wakas", 
+            "232", 
+            "Accused"
+        ], 
+        [
+            "DCP R.", 
+            "354", 
+            "Comment"
+        ], 
+        [
+            "DCP R. Jaya Laxmi", 
+            "354", 
+            "Comment"
+        ], 
+        [
+            "R. Jaya Laxmi", 
+            "355", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:42", 
+        "February:57", 
+        "October:86", 
+        "October 2011:86"
+    ], 
+    "death": "16", 
+    "title": "Two IM suspects brought to Hyderabad", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "Rangareddy", 
+        "Hyderabad", 
+        " Dilsukhnagar"
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "Agencies probing the Dilsukhnagar blasts continued their efforts to get a breakthrough , even as the National Investigation Agency ( NIA ) brought Syed Maqbool and Imran Khan , two alleged operatives of Indian Mujahideen from Tihar jail to Hyderabad on Friday . The two were being questioned at an undisclosed location in connection with the February 21 blasts that claimed 16 lives and injured 117 people . Maqbool and Khan were among the four members arrested by the Special Cell of Delhi Police in October 2011 in connection with Pune blasts . The two were said to have admitted to conducting a recce of Begum Bazar , Dilsukhnagar , Ranigunj , Tank Bund and Abids to carry out terror attacks at the behest of IM commander Riyaz Bhatkal , who operates from Pakistan . Based on their confession , the Central intelligence agencies alerted the Andhra Pradesh police about the possible terror strikes by IM . While pursuing different leads in the Dilsukhnagar blasts case , the NIA investigating into different cases of terror attacks in the country decided to question the two as they were accused of conducting a recce in Hyderabad . We hope to get some leads about the persons responsible for the attack during their interrogation , a police officer said . He , however , was disinclined to comment on reports that alleged IM operatives Tabrez and Wakas , who were still at large , planted and detonated the improvised explosive devices at Dilsukhnagar . Detonators found Meanwhile , the Afzalgunj police on Friday found 10 detonators near a coconut tree in the garden on the premises of Mahatma Gandhi Bus Station in Imliban . A worker found the detonators strapped with a wire . Checks continue The massive security exercise , launched by the Hyderabad police in the backdrop of the terror attack at Dilsukhnagar , continued in different parts of the city on Friday . Twenty teams , comprising policemen and bomb detection squads , conducted anti-sabotage checks at several religious places , prayer halls , commercial complexes , malls and theatres , East Zone DCP R. Jaya Laxmi said . The two are being questioned at an undisclosed location in connection with the February 21 blasts OPEN", 
+    "injured": "117", 
+    "org_unorg": "Organized", 
+    "O": [
+        "breakthrough:12", 
+        "national investigation:17", 
+        "investigation:18", 
+        "investigation agency:18", 
+        "jail:38", 
+        "connection:54", 
+        "cell:81", 
+        "pune blasts:91", 
+        "pune:91", 
+        "recce:104", 
+        "terror:120", 
+        "behest:124", 
+        "im commander:126", 
+        "confession:139", 
+        "central intelligence agencies:142", 
+        "intelligence:143", 
+        "terror:153", 
+        "im:156", 
+        "attack:208", 
+        "interrogation:211", 
+        "officer:215", 
+        "comment:225", 
+        "im:230", 
+        "wakas:234", 
+        "explosive:247", 
+        "bus station:277", 
+        "imliban:280", 
+        "worker:283", 
+        "wire:290", 
+        "security exercise:296", 
+        "terror attack:309", 
+        "bomb detection:330", 
+        "bomb detection squads:330", 
+        "anti-sabotage:335", 
+        "religious places:339", 
+        "prayer halls:342", 
+        "commercial complexes:345", 
+        "malls and theatres:348", 
+        "east zone:352", 
+        "dcp:354", 
+        "undisclosed location:367"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/two-im-suspects-brought-to-hyderabad/article4467758.ece", 
+    "date": "21-02-2013", 
+    "target": "Commercial and Residencial place", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "NIA", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Mujahideen from Tihar", 
+            "35", 
+            "Accused"
+        ]
+    ]
+}

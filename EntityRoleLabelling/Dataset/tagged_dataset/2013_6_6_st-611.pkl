@@ -1,0 +1,263 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Nawada'
+p4
+aS'16'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bihar'
+p8
+aS'19'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Nawada'
+p12
+aS'102'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Deepak'
+p18
+aS'40'
+p19
+aS'Victim'
+p20
+aa(lp21
+S'Shankar'
+p22
+aS'42'
+p23
+aS'Victim'
+p24
+aa(lp25
+S'Karan Manjhi'
+p26
+aS'44'
+p27
+aS'Victim'
+p28
+aa(lp29
+S'Deepak'
+p30
+aS'72'
+p31
+aS'Victim'
+p32
+aa(lp33
+S'Shankar'
+p34
+aS'74'
+p35
+aS'Victim'
+p36
+aa(lp37
+S'Karan'
+p38
+aS'94'
+p39
+aS'Victim'
+p40
+aa(lp41
+S'Manavjit Singh'
+p42
+aS'107'
+p43
+aS'Comment'
+p44
+aa(lp45
+S'Singh'
+p46
+aS'197'
+p47
+aS'Comment'
+p48
+aasS'TIM'
+p49
+(lp50
+S'8.15 a.m. : 63'
+p51
+aS'8.20 a.m. : 66'
+p52
+asS'hot_setting'
+p53
+S''
+p54
+sS'DAT'
+p55
+(lp56
+S'Wednesday : 21'
+p57
+asS'death'
+p58
+S'0'
+p59
+sS'title'
+p60
+S'Bomb in tiffin box goes off; 3 kids hurt'
+p61
+sS'det_loc'
+p62
+(lp63
+S'India'
+p64
+aS'Bihar'
+p65
+aS'Nawada'
+p66
+ag54
+aS'In a small steel tiffin box in a garbage dump'
+p67
+asS'terror_group'
+p68
+(lp69
+g54
+asS'content'
+p70
+S'Three children , who worked as ragpickers , were injured in a low-intensity blast in Nawada district of Bihar on Wednesday . The explosive was placed in a small steel tiffin box in a garbage dump . The children Deepak , Shankar and Karan Manjhi aged between eight and 10 years , tried to open it when the bomb went off between 8.15 a.m. and 8.20 a.m. , police said . Deepak and Shankar were rushed to the Patna Medical College and Hospital in a critical condition with head and limb injuries . Karan was admitted to the Sadar hospital in Nawada . Superintendent of Police Manavjit Singh said the children were out of danger and were making good progress . There did not seem to be any terror link so far . Apart from the bomb that went off , two other tiffin box bombs were defused by a bomb squad . Contents of the explosives were sent for forensic examination . Preliminary reports indicated that sulphur , potassium nitrate , diesel and nut and bolts were used in making the bomb . It is an improvised explosive , but low in intensity , Mr. Singh told The Hindu . The children belong to Dalit families . They are ragpickers who eke out a living by selling metal scrap . They are our only eyewitnesses . We still have to record their statements , he said . OPEN'
+p71
+sS'injured'
+p72
+S'3'
+p73
+sS'org_unorg'
+p74
+g54
+sS'O'
+p75
+(lp76
+S'ragpickers:7'
+p77
+aS'low-intensity blast:13'
+p78
+aS'explosive:24'
+p79
+aS'steel tiffin box:30'
+p80
+aS'garbage dump:35'
+p81
+aS'bomb:59'
+p82
+aS'critical condition:86'
+p83
+aS'out of danger:113'
+p84
+aS'good progress:119'
+p85
+aS'terror link:129'
+p86
+aS'bomb:137'
+p87
+aS'tiffin box bombs:144'
+p88
+aS'defused:148'
+p89
+aS'bomb squad:151'
+p90
+aS'explosives:157'
+p91
+aS'forensic examination:161'
+p92
+aS'sulphur:168'
+p93
+aS'potassium nitrate:170'
+p94
+aS'diesel:173'
+p95
+aS'nut:175'
+p96
+aS'bolts:177'
+p97
+aS'bomb:183'
+p98
+aS'improvised explosive:188'
+p99
+aS'Dalit families:206'
+p100
+aS'ragpickers:211'
+p101
+aS'metal scrap:219'
+p102
+aS'eyewitnesses:226'
+p103
+aS'record:232'
+p104
+aS'statements:234'
+p105
+asS'unexpl'
+p106
+(lp107
+S'NUTS AND BOLTS'
+p108
+aS'DIESEL'
+p109
+asS'ocassion'
+p110
+g54
+sS'link'
+p111
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/bomb-in-tiffin-box-goes-off-3-kids-hurt/article4786374.ece'
+p112
+sS'date'
+p113
+S'05-06-2013'
+p114
+sS'target'
+p115
+S'ROAD SIDE'
+p116
+sS'hot_spot'
+p117
+S'In a small steel tiffin box in a garbage dump'
+p118
+sS'delivery_mod'
+p119
+S'TIFFIN BOX'
+p120
+sS'delivery_met'
+p121
+g54
+sS'expl'
+p122
+(lp123
+S'IED'
+p124
+aS'SULPHUR'
+p125
+aS'POTASSIUM NITRATE'
+p126
+asS'ORG'
+p127
+(lp128
+(lp129
+S'Patna Medical College and Hospital'
+p130
+aS'79'
+p131
+aS'Others'
+p132
+aa(lp133
+S'Sadar hospital'
+p134
+aS'99'
+p135
+aS'Others'
+p136
+aa(lp137
+S'The Hindu'
+p138
+aS'199'
+p139
+aS'Others'
+p140
+aas.

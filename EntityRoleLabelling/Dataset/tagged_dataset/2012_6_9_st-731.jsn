@@ -1,0 +1,111 @@
+{
+    "LOC": [
+        [
+            "Peshawar", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Quetta", 
+            "89", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Peshawar", 
+            "129", 
+            "Event"
+        ], 
+        [
+            "Charsadda", 
+            "131", 
+            "Neutral"
+        ], 
+        [
+            "Khyber-Pukhtoonkhwa", 
+            "194", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Iftikhar Hussain", 
+            "198", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "evening : 37", 
+        "36 hours : 68"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday morning : 27", 
+        "Thursday : 96"
+    ], 
+    "death": "19", 
+    "title": "Spectre of onslaught by terrorists in Pakistan", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 19 people were killed and nearly 50 injured when a powerful bomb ripped through a bus ferrying government employees and civilians in Peshawar on Friday morning . No outfit had claimed responsibility till late evening but this is the second day in a row that terrorists have struck in the north western parts of the country with sizable number of casualties . Over the past 36 hours , 35 people have been killed in the two separate blasts the other being at a religious seminary in Quetta where 14 people were killed on Thursday . Though there have been sporadic terror strikes in the past few months , these two blasts have raised the spectre of a fresh onslaught by terrorists . The bus heading from Peshawar to Charsadda was completely damaged by the explosion a stark testimony about how powerful the bomb was . Apparently eight kg of explosives had been packed into the bus . The dead included seven women and a child , and doctors at the Lady Reading Hospital feared more casualties as some of the injured were brought in a critical condition . Briefing media-persons , Khyber-Pukhtoonkhwa 's Information Minister Iftikhar Hussain whose only son was gunned down by terrorists said the fight against terrorism would continue despite such setbacks . OPEN", 
+    "injured": "50", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Peshawar", 
+        "In a bus heading from Peshawar to Charsadda"
+    ], 
+    "O": [
+        "powerful bomb:13", 
+        "bus:18", 
+        "government employees and civilians:20", 
+        "second day in a row:42", 
+        "terrorists:48", 
+        "north western parts:53", 
+        "sizable number:60", 
+        "casualties:63", 
+        "two separate blasts:78", 
+        "religious seminary:86", 
+        "sporadic terror strikes:102", 
+        "past few months:107", 
+        "two blasts:112", 
+        "spectre:117", 
+        "fresh onslaught:120", 
+        "terrorists:123", 
+        "bus:126", 
+        "damaged:134", 
+        "explosion:137", 
+        "stark testimony:139", 
+        "eight kg of explosives:149", 
+        "bus:158", 
+        "seven women and a child:163", 
+        "casualties:178", 
+        "critical condition:188", 
+        "minister iftikhar hussain:197", 
+        "gunned down:204", 
+        "terrorists:207", 
+        "fight against terrorism:210"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/spectre-of-onslaught-by-terrorists-in-pakistan/article3507242.ece", 
+    "date": "08-06-2012", 
+    "target": "PUBLIC TRANSPORT", 
+    "hot_spot": "Bus ferrying government employees and civilians from Peshawar to Charsadda", 
+    "delivery_mod": "BUS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lady Reading Hospital", 
+            "173", 
+            "Others"
+        ]
+    ]
+}

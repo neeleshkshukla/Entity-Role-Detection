@@ -1,0 +1,142 @@
+{
+    "LOC": [
+        [
+            "eastern Afghanistan", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Afghan forces", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Zurmat district", 
+            "74", 
+            "Event"
+        ], 
+        [
+            "Paktiya province", 
+            "77", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Rahman Mangal", 
+            "129", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "morning : 61"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:16"
+    ], 
+    "death": "", 
+    "title": "Suicide truck bomb hits Nato base in Afghanistan", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "KABUL", 
+        "eastern Afghanistan"
+    ], 
+    "terror_group": [
+        "TALIBAN"
+    ], 
+    "content": "A suicide truck bomb attack on a joint Nato-Afghan army base in eastern Afghanistan on Wednesday caused several casualties to Afghan forces , the International Security Assistance Force said . Reports by Afghan officials of the number of soldiers wounded in the attack varied from 10 to 45 , but there were no reports of any deaths . `` This morning a joint ISAF-ANSF ( Afghan National Security Forces ) combat outpost in Zurmat district in Paktiya province was attacked by insurgents using a vehicle-borne improvised explosive device and indirect fire , '' an ISAF spokesman told AFP . `` Early reports say the attack resulted in several ANSF casualties , but there is currently no reporting on ISAF casualties , '' he said . Deputy provincial governor Abdul Rahman Mangal told AFP : `` Around 45 army soldiers have been slightly wounded , mostly by broken glass , by the huge blast caused by a truck bomb at the gate . '' The Taliban said their fighters had infiltrated the base after the suicide attack and fighting was continuing - claims denied by ISAF and Afghan officials.AFP OPEN", 
+    "injured": "45", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "10 to 45:46", 
+        "isaf-ansf:64", 
+        "vehicle-borne:85", 
+        "AFP:98", 
+        "deputy provincial:126", 
+        "AFP:133", 
+        "broken glass:147", 
+        "infiltrated:170", 
+        "fighting:178", 
+        "afghan:187"
+    ], 
+    "unexpl": [
+        "VEHICLE-BORNE"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/suicide-truck-bomb-hits-nato-base-in-afghanistan/article4007359.ece", 
+    "date": "17-10-2012", 
+    "target": "MILLITARY TROOPS", 
+    "hot_spot": "eastern Afghanistan,truck bomb at the gate", 
+    "delivery_mod": "VEHICLES", 
+    "delivery_met": "SUICIDE ATTACKERS", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ISAF", 
+            "95", 
+            "Victim", 
+            "Others"
+        ], 
+        [
+            "ISAF", 
+            "119", 
+            "Victim", 
+            "Others"
+        ], 
+        [
+            "joint Nato-Afghan army", 
+            "8", 
+            "Victim"
+        ], 
+        [
+            "International Security Assistance Force", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "Afghan officials", 
+            "33", 
+            "Victim"
+        ], 
+        [
+            "soldiers", 
+            "39", 
+            "Victim"
+        ], 
+        [
+            "ISAF-ANSF", 
+            "64", 
+            "Victim"
+        ], 
+        [
+            "Afghan National Security Forces", 
+            "66", 
+            "Victim"
+        ], 
+        [
+            "ANSF", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "soldiers", 
+            "139", 
+            "Victim"
+        ], 
+        [
+            "Taliban", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "ISAF", 
+            "185", 
+            "Victim"
+        ]
+    ]
+}

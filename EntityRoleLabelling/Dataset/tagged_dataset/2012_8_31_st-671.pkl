@@ -1,0 +1,342 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Satyam'
+p4
+aS'31'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Liberty'
+p8
+aS'33'
+p9
+aS'Event'
+p10
+aa(lp11
+S'G. T. Karnal Road'
+p12
+aS'279'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Central Delhi'
+p16
+aS'284'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Patel Nagar'
+p20
+aS'302'
+p21
+aS'Event'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Jagtar Singh Hawara'
+p26
+aS'1'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Hawara'
+p30
+aS'36'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Beant Singhs'
+p34
+aS'47'
+p35
+aS'Victim'
+p36
+aa(lp37
+S'Rakesh Siddhartha'
+p38
+aS'61'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Balwinder Singh'
+p42
+aS'95'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Jaspal Singh'
+p46
+aS'98'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Vikas Sehgal'
+p50
+aS'101'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Jagannath Yadav'
+p54
+aS'104'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Hawara'
+p58
+aS'144'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Beant Singh'
+p62
+aS'158'
+p63
+aS'Victim'
+p64
+aa(lp65
+S'Hawara'
+p66
+aS'207'
+p67
+aS'Assoc Accused'
+p68
+aa(lp69
+S'Jaspal'
+p70
+aS'212'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Vikas'
+p74
+aS'214'
+p75
+aS'Accused'
+p76
+aa(lp77
+S'Hawara'
+p78
+aS'310'
+p79
+aS'Assoc Accused'
+p80
+aasS'TIM'
+p81
+(lp82
+S'8-20 p.m.:287'
+p83
+aS'20 minutes : 292'
+p84
+asS'hot_setting'
+p85
+S''
+p86
+sS'DAT'
+p87
+(lp88
+S'Thursday:10'
+p89
+aS'2005:27'
+p90
+aS'May 31 , 2005 : 113'
+p91
+aS'May 22 , 2005 : 246'
+p92
+asS'death'
+p93
+g86
+sS'title'
+p94
+S'Twin blasts accused plead guilty'
+p95
+sS'org_unorg'
+p96
+S'ORGANISED'
+p97
+sS'terror_group'
+p98
+(lp99
+S'BABBAR KHALSA INTERNATIONAL'
+p100
+asS'content'
+p101
+S'Jagtar Singh Hawara of the Babbar Khalsa International on Thursday pleaded guilty in a court here along with four others of playing various roles in the 2005 twin blasts at Satyam and Liberty cinema . Hawara , was the chief conspirator in former Punjab Chief Minister Beant Singhs assassination . After the five admitted their guilt , Additional Sessions Judge Rakesh Siddhartha convicted them and sentenced them to the time in prison they had spent in judicial custody during the trial in the twin blast case . The four others convicts are BKI members Balwinder Singh , Jaspal Singh , Vikas Sehgal and Jagannath Yadav . They have been in custody since May 31 , 2005 . Last year , four other accused in the case had pleaded guilty , and were subsequently convicted and released . While they will be released , Hawara , who is serving a life term for assassinating former Punjab Chief Minister Beant Singh , is also on trial for allegedly firing at police personnel when they tried to apprehend him . He was initially awarded a death penalty for the assassination which was commuted later to a life term by the Chandigarh High Court . In the blasts case , Hawara was charged for harbouring Jaspal and Vikas , who were actively involved in executing the blasts . A fine of Rs .25,000 was also imposed on each of them . Sixty persons were injured in the blasts on May 22 , 2005 , in which bombs were triggered by crude devices during the screening of the controversial Hindi film Jo Bole So Nihaal . The first blast at Liberty cinema at G. T. Karnal Road in Central Delhi around 8-20 p.m. , was followed 20 minutes later by a blast at Satyam cinema at Patel Nagar . The four men apart from Hawara pleaded guilty of conspiracy to commit offences against the State , attempt to murder , and culpable homicide not amounting to murder under the Indian Penal Code . Sentenced to jail term already undergone OPEN'
+p102
+sS'injured'
+p103
+S'60'
+p104
+sS'det_loc'
+p105
+(lp106
+S'India'
+p107
+aS'Delhi'
+p108
+aS'Central'
+p109
+aS'New Delhi'
+p110
+ag86
+asS'O'
+p111
+(lp112
+S'guilty:12'
+p113
+aS'twin blasts:28'
+p114
+aS'satyam and liberty cinema:31'
+p115
+aS'punjab chief minister beant singhs:44'
+p116
+aS'assassination:49'
+p117
+aS'guilt:56'
+p118
+aS'Additional Sessions:58'
+p119
+aS'judge rakesh siddhartha:60'
+p120
+aS'sentenced:66'
+p121
+aS'prison:72'
+p122
+aS'judicial custody:77'
+p123
+aS'custody:78'
+p124
+aS'twin blast:84'
+p125
+aS'convicts:91'
+p126
+aS'guilty:129'
+p127
+aS'convicted and released:134'
+p128
+aS'assassinating:153'
+p129
+aS'punjab chief minister beant singh:155'
+p130
+aS'trial:164'
+p131
+aS'allegedly firing:166'
+p132
+aS'police personnel:169'
+p133
+aS'death penalty:183'
+p134
+aS'assassination:187'
+p135
+aS'blasts case:204'
+p136
+aS'executing the blasts:221'
+p137
+aS'rs .25,000:228'
+p138
+aS'bombs:253'
+p139
+aS'triggered:255'
+p140
+aS'crude devices:257'
+p141
+aS'controversial hindi film jo bole so nihaal:264'
+p142
+aS'first blast:273'
+p143
+aS'liberty cinema:276'
+p144
+aS'blast:297'
+p145
+aS'satyam cinema:299'
+p146
+aS'commit offences:316'
+p147
+aS'state:320'
+p148
+aS'murder:324'
+p149
+aS'homicide:328'
+p150
+aS'indian penal code:335'
+p151
+aS'Sentenced:339'
+p152
+aS'jail:341'
+p153
+asS'unexpl'
+p154
+(lp155
+g86
+asS'ocassion'
+p156
+g86
+sS'link'
+p157
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/twin-blasts-accused-plead-guilty/article3842674.ece'
+p158
+sS'date'
+p159
+S'22-05-2005'
+p160
+sS'target'
+p161
+S'CINEMA HALL'
+p162
+sS'hot_spot'
+p163
+g86
+sS'delivery_mod'
+p164
+g86
+sS'delivery_met'
+p165
+S'PLANTED'
+p166
+sS'expl'
+p167
+(lp168
+S'CRUDE'
+p169
+asS'ORG'
+p170
+(lp171
+(lp172
+S'Babbar Khalsa International'
+p173
+aS'6'
+p174
+aS'Accused'
+p175
+aa(lp176
+S'BKI'
+p177
+aS'93'
+p178
+aS'Accused'
+p179
+aa(lp180
+S'Chandigarh High Court'
+p181
+aS'198'
+p182
+aS'Others'
+p183
+aas.

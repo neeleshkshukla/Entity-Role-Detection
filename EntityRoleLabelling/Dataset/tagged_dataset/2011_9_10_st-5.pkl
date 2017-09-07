@@ -1,0 +1,300 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Delhi High Court complex'
+p4
+aS'30'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Jammu and Kashmir'
+p8
+aS'66'
+p9
+aS'Source'
+p10
+aa(lp11
+S'Pune'
+p12
+aS'84'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Mumbai'
+p16
+aS'181'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Maharashtra'
+p20
+aS'305'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Pune'
+p24
+aS'312'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Jammu and Kashmir'
+p28
+aS'365'
+p29
+aS'Source'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Richard Reid'
+p34
+aS'218'
+p35
+aS'Assoc Accused'
+p36
+aa(lp37
+S'Umar Farooq Abdulmutallab'
+p38
+aS'243'
+p39
+aS'Assoc Accused'
+p40
+aasS'TIM'
+p41
+(lp42
+sS'hot_setting'
+p43
+S''
+p44
+sS'DAT'
+p45
+(lp46
+S'Wednesday:25'
+p47
+aS'2010:77'
+p48
+aS'2006:178'
+p49
+aS'2001:214'
+p50
+asS'death'
+p51
+g44
+sS'title'
+p52
+S'PETN used in Delhi blast?'
+p53
+sS'org_unorg'
+p54
+S'Organized'
+p55
+sS'terror_group'
+p56
+(lp57
+g44
+asS'content'
+p58
+S"Forensic scientists of the National Security Guard ( NSG ) believe that the lethal high explosive PETN ( pentaerythritol tetranitrate ) was used in Wednesday 's blast in the Delhi High Court complex , sources in the investigation told The Hindu . The use of PETN raises the prospect that the perpetrators had access to military-grade explosives either from terrorist groups operating in States like Jammu and Kashmir or from a military source . Except the 2010 bombing of the German Bakery in Pune , all post-26 / 11 urban terror attacks have used ammonium nitrate easily available for use in mining and as a fertilizer . Investigators , however , urged caution , saying the NSG 's finding needed to be corroborated by more thorough tests now being conducted at the Central Forensic Sciences Laboratory . Two separate sources in the investigation said the pattern of the Delhi High Court strike did not appear to indicate the use of plastic explosives . Early findings of Indian bomb-tests have often been disproved by subsequent investigation . The 2006 attacks on Mumbai 's train system were thought to have used RDX , but later the chemical was found to be ammonium nitrate . PETN is used by both militaries and terrorist groups . In 2001 , al-Qaeda operative Richard Reid attempted to bring down a transatlantic flight using PETN hidden in his shoes . Eight years later , the Nigerian al-Qaeda operative , Umar Farooq Abdulmutallab , made a similar attempt , hiding 80 gm . of PETN inside his underwear . Al-Qaeda also used PETN for an attempt to bring down cargo planes last year using bombs hidden in inkjet printer cartridges . Difficult to detect The explosive is favoured by terrorists because sniffer dogs and machines find it difficult to detect it . Maharashtra investigators made an arrest in the Pune blast , and are seeking six fugitives , including the men they claim were responsible for fabricating and planting explosive devices . There has so far been no account of where the explosive material used in the bombing was obtained . Intelligence sources said RDX might have been sourced from terrorists in Jammu and Kashmir , but no hard evidence had emerged . OPEN"
+p59
+sS'injured'
+p60
+g44
+sS'det_loc'
+p61
+(lp62
+S'India'
+p63
+aS'Delhi'
+p64
+aS'New Delhi'
+p65
+ag44
+ag44
+asS'O'
+p66
+(lp67
+S'Forensic scientists:1'
+p68
+aS'explosive petn:16'
+p69
+aS'pentaerythritol tetranitrate:19'
+p70
+aS'blast:27'
+p71
+aS'PETN:46'
+p72
+aS'military-grade explosives:56'
+p73
+aS'bombing:78'
+p74
+aS'ammonium nitrate:95'
+p75
+aS'fertilizer:106'
+p76
+aS'Indian bomb-tests:167'
+p77
+aS"Mumbai 's train system:181"
+p78
+aS'rdx:190'
+p79
+aS'ammonium nitrate:200'
+p80
+aS'petn:203'
+p81
+aS'militaries and terrorist groups:208'
+p82
+aS'al-qaeda operative:216'
+p83
+aS'transatlantic flight:225'
+p84
+aS'petn:228'
+p85
+aS'shoes:232'
+p86
+aS'Nigerian al-Qaeda operative:239'
+p87
+aS'al-qaeda operative:240'
+p88
+aS'attempt:250'
+p89
+aS'petn:257'
+p90
+aS'underwear:260'
+p91
+aS'al-qaeda:262'
+p92
+aS'petn:265'
+p93
+aS'attempt:268'
+p94
+aS'cargo planes:272'
+p95
+aS'hidden:278'
+p96
+aS'inkjet printer cartridges:280'
+p97
+aS'sniffer dogs:294'
+p98
+aS'pune blast:312'
+p99
+aS'explosive devices:332'
+p100
+aS'explosive material:345'
+p101
+aS'bombing:350'
+p102
+aS'intelligence sources:354'
+p103
+aS'rdx:357'
+p104
+aS'evidence:372'
+p105
+asS'unexpl'
+p106
+(lp107
+g44
+asS'ocassion'
+p108
+g44
+sS'link'
+p109
+S'http://www.thehindu.com/todays-paper/petn-used-in-delhi-blast/article2440678.ece'
+p110
+sS'date'
+p111
+S'10-09-2010'
+p112
+sS'target'
+p113
+S'Government Building'
+p114
+sS'hot_spot'
+p115
+S'Delhi High Court complex'
+p116
+sS'delivery_mod'
+p117
+g44
+sS'delivery_met'
+p118
+g44
+sS'expl'
+p119
+(lp120
+g44
+asS'ORG'
+p121
+(lp122
+(lp123
+S'National Security Guard'
+p124
+aS'5'
+p125
+aS'Others'
+p126
+aa(lp127
+S'NSG'
+p128
+aS'9'
+p129
+aS'Others'
+p130
+aa(lp131
+S'The Hindu'
+p132
+aS'40'
+p133
+aS'Others'
+p134
+aa(lp135
+S'German Bakery'
+p136
+aS'81'
+p137
+aS'Assoc Victim'
+p138
+aa(lp139
+S'Central Forensic Sciences Laboratory'
+p140
+aS'133'
+p141
+aS'Others'
+p142
+aa(lp143
+S'Delhi High Court'
+p144
+aS'149'
+p145
+aS'Victim'
+p146
+aa(lp147
+S'al-Qaeda'
+p148
+aS'216'
+p149
+aS'Assoc Accused'
+p150
+aa(lp151
+S'al-Qaeda'
+p152
+aS'240'
+p153
+aS'Assoc Accused'
+p154
+aa(lp155
+S'Al-Qaeda'
+p156
+aS'262'
+p157
+aS'Assoc Accused'
+p158
+aas.

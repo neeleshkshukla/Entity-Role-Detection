@@ -1,0 +1,155 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'hardware and electronics market'
+p8
+aS'14'
+p9
+aS'Event'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Y.S. Dadwal'
+p14
+aS'151'
+p15
+aS'Victim'
+p16
+aa(lp17
+S'Sanjay Dhingra'
+p18
+aS'162'
+p19
+aS'Comment'
+p20
+aa(lp21
+S'Dhingra'
+p22
+aS'220'
+p23
+aS'Comment'
+p24
+aasS'TIM'
+p25
+(lp26
+S'Sept. 27 : 4'
+p27
+aS'2:15 p.m. : 43'
+p28
+asS'hot_setting'
+p29
+S''
+p30
+sS'DAT'
+p31
+(lp32
+S'Saturday : 26'
+p33
+asS'death'
+p34
+g5
+sS'title'
+p35
+S'Bomb Explosion In Indian Capital Kills 1, Injures 18'
+p36
+sS'det_loc'
+p37
+(lp38
+S'India'
+p39
+aS'Delhi'
+p40
+aS'New Delhi'
+p41
+ag30
+aS'NEW DELH'
+p42
+asS'terror_group'
+p43
+(lp44
+S'INDIAN MUJAHIDEEN'
+p45
+asS'content'
+p46
+VNEW DELHI , Sept. 27 -- A small bomb exploded in a crowded hardware and electronics market in the southern part of the Indian capital Saturday , killing one person and wounding at least 18 . . . The explosion occurred about 2:15 p.m. in a neighborhood where both Hindus and Muslims live and near a historic 12th-century stone minaret . . . No group has asserted responsibility for the attack , which came two weeks after a series of bombings ripped through the capital , killing 21 people . . . Police said two men on a black motorcycle dropped a plastic bag containing a lunchbox and sped away . Inside the lunchbox was a crude , low-intensity bomb , authorities said . . . `` The bag was picked up by a young boy , and it exploded . And the boy lost his life , '' said Y.S. Dadwal , the city 's police commissioner . . . Sanjay Dhingra , who runs a kitchenware store in the area , said the boy was standing in the street watching television . . . `` When he saw the men on the bike , he called out , ` Uncle , you have left your bag behind , ' and picked up the bag , '' said Dhingra , whose clothes were stained with blood from helping the injured . `` Then the explosion took place . We heard a loud bomb , and everything went black for a moment . The boy died right there . '' . . A spokesman at the trauma care center at the All India Institute of Medical Sciences said that seven of the injured were in critical condition . . . There have been several attacks across India recently , and a little-known group called the Indian Mujahideen has asserted responsibility for them . . . .
+p47
+sS'injured'
+p48
+S'18'
+p49
+sS'org_unorg'
+p50
+S'ORGANISED'
+p51
+sS'O'
+p52
+(lp53
+S'Police:93'
+p54
+aS'lunchbox:114'
+p55
+asS'unexpl'
+p56
+(lp57
+g30
+asS'ocassion'
+p58
+g30
+sS'link'
+p59
+S'http://www.washingtonpost.com/wp-dyn/content/article/2008/09/27/AR2008092701365.html?hpid=topnews'
+p60
+sS'date'
+p61
+S'27-09-2008'
+p62
+sS'target'
+p63
+g30
+sS'hot_spot'
+p64
+g30
+sS'delivery_mod'
+p65
+S'POLYTHENE BAG'
+p66
+sS'delivery_met'
+p67
+S'THROWN'
+p68
+sS'expl'
+p69
+(lp70
+S'CRUDE BOMB'
+p71
+aS'LOW INTENSITY BOMB'
+p72
+asS'ORG'
+p73
+(lp74
+(lp75
+S'All India Institute of Medical Sciences'
+p76
+aS'272'
+p77
+aS'Others'
+p78
+aa(lp79
+S'Indian Mujahideen'
+p80
+aS'306'
+p81
+aS'Accused'
+p82
+aas.

@@ -1,0 +1,100 @@
+{
+    "LOC": [
+        [
+            "Jama Masjid", 
+            "35", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "71", 
+            "Assoc Event Location"
+        ], 
+        [
+            "German Bakery", 
+            "72", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bangalore", 
+            "77", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Chinnaswamy Stadium", 
+            "78", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Tihar Jail", 
+            "91", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vinod Yadav", 
+            "48", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "2010 Commonwealth Games", 
+    "DAT": [
+        "Friday:5", 
+        "2010:41", 
+        "February 4:54"
+    ], 
+    "death": "", 
+    "title": "Terror suspects' custody extended", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "A court here on Friday extended the police custody of six men alleged to be members of the Indian Mujahideen and suspected of involvement in shooting at foreign tourists and triggering a bomb near Jama Masjid here just before the 2010 Commonwealth Games . Chief Metropolitan Magistrate Vinod Yadav extended their custody till February 4 . These men are also suspected of being involved in other terror cases including the Pune German Bakery blast and the Bangalore Chinnaswamy Stadium blast . A seventh suspect is presently in judicial custody at Tihar Jail . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "court:2", 
+        "custody:9", 
+        "involvement:24", 
+        "shooting:26", 
+        "bomb:33", 
+        "commonwealth:42", 
+        "commonwealth games:42", 
+        "chief metropolitan:45", 
+        "magistrate:47", 
+        "custody:52", 
+        "terror:67", 
+        "blast:74", 
+        "seventh:83", 
+        "suspect:84", 
+        "custody:89"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Sport Tournaments", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/terror-suspects-custody-extended/article2818909.ece", 
+    "date": "20-01-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "19", 
+            "Accused"
+        ]
+    ]
+}

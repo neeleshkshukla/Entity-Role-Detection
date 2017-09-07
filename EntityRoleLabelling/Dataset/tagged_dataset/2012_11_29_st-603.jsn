@@ -1,0 +1,71 @@
+{
+    "LOC": [
+        [
+            "Ankuli industrial estate area", 
+            "24", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:15", 
+        "November:29", 
+        "November 26:29"
+    ], 
+    "death": "", 
+    "title": "Two youths arrested", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "", 
+        "Berhampur", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two youths were arrested by personnel of Baidyanathpur police station of the city on Wednesday in relation to the case of bombarding at Ankuli industrial estate area on November 26 . One person had been killed in the bomb blast . Two of the attackers had also been seriously injured when a bomb exploded in their hand by accident . These injured attackers were undergoing treatment in MKCG Medical College Hospital under police custody . According to police sources five persons were involved in that case of bombing . Only one of the accused was still absconding . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "city:13", 
+        "relation:17", 
+        "case:20", 
+        "person:33", 
+        "bomb blast:39", 
+        "bomb:53", 
+        "hand:57", 
+        "accident:59", 
+        "treatment:66", 
+        "custody:74", 
+        "case:86", 
+        "bombing:88"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/two-youths-arrested/article4145500.ece", 
+    "date": "28-11-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Baidyanathpur police station", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "MKCG Medical College Hospital", 
+            "68", 
+            "Others"
+        ]
+    ]
+}

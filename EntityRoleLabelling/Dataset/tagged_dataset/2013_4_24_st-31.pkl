@@ -1,0 +1,322 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Tamil Nadu'
+p4
+aS'6'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Karnataka'
+p8
+aS'9'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Bangalore'
+p12
+aS'29'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Melapalayam'
+p16
+aS'37'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Tirunelveli'
+p20
+aS'39'
+p21
+aS'Accused Location'
+p22
+aa(lp23
+S'Chennai'
+p24
+aS'60'
+p25
+aS'Accused Location'
+p26
+aa(lp27
+S'Coimbatore'
+p28
+aS'71'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Tirunelveli'
+p32
+aS'73'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Mattuthavani'
+p36
+aS'78'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Karnataka'
+p40
+aS'112'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Bangalore'
+p44
+aS'118'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Tirunelveli'
+p48
+aS'124'
+p49
+aS'Accused Location'
+p50
+aa(lp51
+S'Coimbatore'
+p52
+aS'158'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Melapalayam'
+p56
+aS'194'
+p57
+aS'Assoc Event Location'
+p58
+aa(lp59
+S'Chennai'
+p60
+aS'207'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Bangalore'
+p64
+aS'215'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Chennai'
+p68
+aS'224'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Bangalore'
+p72
+aS'233'
+p73
+aS'Neutral'
+p74
+aasS'PER'
+p75
+(lp76
+(lp77
+S'Kichan Buhari'
+p78
+aS'19'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Buhari'
+p82
+aS'69'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Thowlath'
+p86
+aS'128'
+p87
+aS'Comment'
+p88
+aa(lp89
+S'Pookkadai Kannan'
+p90
+aS'183'
+p91
+aS'Victim'
+p92
+aa(lp93
+S'Tailor Shankar'
+p94
+aS'186'
+p95
+aS'Victim'
+p96
+aa(lp97
+S'Selvakumar'
+p98
+aS'190'
+p99
+aS'Victim'
+p100
+aasS'TIM'
+p101
+(lp102
+S'7 a.m.:81'
+p103
+aS'twice a month : 165'
+p104
+asS'hot_setting'
+p105
+S''
+p106
+sS'DAT'
+p107
+(lp108
+S'Tuesday : 12'
+p109
+aS'April 17 : 27'
+p110
+aS'Monday night : 62'
+p111
+aS'August 11 , 1997 : 196'
+p112
+aS'Monday : 209'
+p113
+aS'Monday night : 226'
+p114
+asS'death'
+p115
+g106
+sS'title'
+p116
+S'Third Bangalore blast suspect held in Madurai'
+p117
+sS'det_loc'
+p118
+(lp119
+S'India'
+p120
+aS'Karnataka'
+p121
+aS'Bangalore Urban'
+p122
+aS'Bangalore'
+p123
+ag106
+asS'terror_group'
+p124
+(lp125
+g106
+asS'content'
+p126
+S'A special team of the Tamil Nadu and Karnataka police on Tuesday arrested a former Al-Umma activist , Kichan Buhari , here in connection with the April 17 Bangalore bomb blast . He hails from of Melapalayam in Tirunelveli . He is the third suspect to be held in the case . The other two were picked up in Chennai on Monday night . The team was shadowing Buhari from Coimbatore to Tirunelveli and nabbed him at Mattuthavani here at 7 a.m. , a police official said . He was tracked down based on call records of the mobile phone of one of the suspects in the blast cas . The Karnataka police have taken him to Bangalore . Special Correspondent reports from Tirunelveli : Buharis mother Thowlath said her son was innocent . The police should drop all cases fabricated against him . He is now leading a peaceful life . His children are studying in Coimbatore and he used to visit us twice a month , she said . Buharis name entered the police records for the first time after Pookkadai Kannan , Tailor Shankar and Dr. Selvakumar were murdered at Melapalayam on August 11 , 1997 . 2 persons were picked up in Chennai on Monday nightHe has been taken to Bangalore for investigation 2 persons were picked up in Chennai on Monday night He has been taken to Bangalore for investigation OPEN'
+p127
+sS'injured'
+p128
+g106
+sS'org_unorg'
+p129
+g106
+sS'O'
+p130
+(lp131
+S'special team:2'
+p132
+aS'arrested:13'
+p133
+aS'Bangalore bomb blast:29'
+p134
+aS'third suspect:44'
+p135
+aS'case:51'
+p136
+aS'shadowing:68'
+p137
+aS'tracked down:91'
+p138
+aS'call records:95'
+p139
+aS'mobile phone:99'
+p140
+aS'suspects:105'
+p141
+aS'blast:108'
+p142
+aS'Special Correspondent reports:120'
+p143
+aS'Buharis mother:126'
+p144
+aS'innocent:133'
+p145
+aS'cases fabricated:140'
+p146
+aS'peaceful life:150'
+p147
+aS'Buharis:172'
+p148
+aS'police records:176'
+p149
+aS'murdered:192'
+p150
+aS'investigation:217'
+p151
+aS'investigation:235'
+p152
+asS'unexpl'
+p153
+(lp154
+g106
+asS'ocassion'
+p155
+g106
+sS'link'
+p156
+S'http://www.thehindu.com/todays-paper/third-bangalore-blast-suspect-held-in-madurai/article4648800.ece'
+p157
+sS'date'
+p158
+S'17-04-2013'
+p159
+sS'target'
+p160
+g106
+sS'hot_spot'
+p161
+g106
+sS'delivery_mod'
+p162
+g106
+sS'delivery_met'
+p163
+S'PLANTED'
+p164
+sS'expl'
+p165
+(lp166
+g106
+asS'ORG'
+p167
+(lp168
+(lp169
+S'Al-Umma'
+p170
+aS'16'
+p171
+aS'Others'
+p172
+aas.

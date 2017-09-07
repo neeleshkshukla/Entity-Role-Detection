@@ -1,0 +1,90 @@
+{
+    "LOC": [
+        [
+            "Karachi", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Lyari", 
+            "89", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Javed Nagori", 
+            "45", 
+            "Victim"
+        ], 
+        [
+            "Nagoris", 
+            "58", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 31", 
+        "Wednesday morning : 78"
+    ], 
+    "death": "11", 
+    "title": "Pak. Minister escapes bid on life", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Eleven people , including several children , were killed and around 30 injured when a bomb went off outside a football ground in the Pakistani port city of Karachi on Wednesday , police said . The apparent target of the attack was provincial minister Javed Nagori , who escaped unhurt . The bomb was detonated near Mr. Nagoris vehicle as he was leaving after witnessing a match , said a police officer . The blast occurred early Wednesday morning outside the ground in the impoverished and densely populated Lyari area , which has a tradition of holding soccer matches in Ramzan . The bomb was planted in a motorcycle . It damaged the Ministers car , police said . PTI OPEN", 
+    "injured": "30", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "killed:9", 
+        "bomb:16", 
+        "football ground:21", 
+        "Pakistani port city:25", 
+        "apparent target:37", 
+        "attack:41", 
+        "escaped unhurt:49", 
+        "bomb:53", 
+        "detonated:55", 
+        "witnessing:65", 
+        "blast:75", 
+        "impoverished:85", 
+        "densely populated:87", 
+        "tradition:95", 
+        "holding soccer matches:97", 
+        "Ramzan:101", 
+        "bomb:104", 
+        "planted:106", 
+        "motorcycle:109", 
+        "damaged:112", 
+        "Ministers car:114"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/pak-minister-escapes-bid-on-life/article5001580.ece", 
+    "date": "", 
+    "target": "MINISTER", 
+    "hot_spot": "", 
+    "delivery_mod": "MOTORCYCLES", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "PTI", 
+            "120", 
+            "Others"
+        ]
+    ]
+}

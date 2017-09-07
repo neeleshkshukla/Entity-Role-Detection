@@ -1,0 +1,171 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'1'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Shershah Road'
+p8
+aS'195'
+p9
+aS'Event'
+p10
+aasS'PER'
+p11
+(lp12
+sS'TIM'
+p13
+(lp14
+sS'hot_setting'
+p15
+S''
+p16
+sS'DAT'
+p17
+(lp18
+sS'death'
+p19
+S'11'
+p20
+sS'title'
+p21
+S'Police release sketches of two Delhi high court blast suspects'
+p22
+sS'det_loc'
+p23
+(lp24
+S'India'
+p25
+aS'Delhi'
+p26
+aS'New Delhi'
+p27
+ag16
+ag16
+asS'terror_group'
+p28
+(lp29
+g16
+asS'content'
+p30
+VNEW DELHI : Police have released sketches of two persons suspected of planting the bomb outside Delhi high court which killed at least 11 people and injured over 60 . The sketches of the duo -- one believed to be in his 50s and the other in his mid-20s -- were prepared following descriptions provided by eyewitnesses who claimed they saw someone with a briefcase standing in the queue . ` We have released sketches of two suspects based on the descriptions given by eyewitnesses , ' a senior police official said.The younger of the two suspects could be a couple of inches shorter than 6 feet with a middle parting of the hair while the other man was described as stout and having a light beard and shallow complexion . ` We may also release a third sketch depending upon the eyewitness accounts , ' the official said.Police are also investigating whether the person who planted the bomb was among the injured.According to some eyewitnesses , a man clad in a white shirt and carrying a briefcase was seen in the queue in front of the reception of the high court complex on Shershah Road just before the explosion.Investigators said they are yet to ascertain whether there was a timer in the device . ` It may be possible that the bomb planter could not escape from the spot before the explosion took place . If there was a timer , he would have had ample time . There is also a possibility that the suspect could not manage to escape from the scene , ' a senior police official said .
+p31
+sS'injured'
+p32
+S'60'
+p33
+sS'org_unorg'
+p34
+g16
+sS'O'
+p35
+(lp36
+S'Police:4'
+p37
+aS'sketches:7'
+p38
+aS'two persons:9'
+p39
+aS'suspected:11'
+p40
+aS'planting the bomb:13'
+p41
+aS'Delhi high court:17'
+p42
+aS'killed:21'
+p43
+aS'11 people:24'
+p44
+aS'injured over 60:27'
+p45
+aS'50s:43'
+p46
+aS'mid-20s:49'
+p47
+aS'eyewitnesses:57'
+p48
+aS'someone:62'
+p49
+aS'briefcase:65'
+p50
+aS'standing in the queue:66'
+p51
+aS'senior police official:89'
+p52
+aS'younger:93'
+p53
+aS'shorter than 6 feet:104'
+p54
+aS'middle parting of the hair:110'
+p55
+aS'other man:117'
+p56
+aS'stout:122'
+p57
+aS'light beard:126'
+p58
+aS'shallow complexion:129'
+p59
+aS'third sketch:138'
+p60
+aS'man:169'
+p61
+aS'white shirt:173'
+p62
+aS'reception of the high court complex:188'
+p63
+aS'timer in:211'
+p64
+aS'bomb planter:223'
+p65
+aS'could not escape:225'
+p66
+aS'If:237'
+p67
+aS'a timer:240'
+p68
+aS'ample time:247'
+p69
+aS'a senior police official:268'
+p70
+asS'unexpl'
+p71
+(lp72
+g16
+asS'ocassion'
+p73
+g16
+sS'link'
+p74
+S'http://timesofindia.indiatimes.com/india/Police-release-sketches-of-two-Delhi-high-court-blast-suspects/articleshow/9898156.cms?referral=PM'
+p75
+sS'date'
+p76
+S'07-09-2011'
+p77
+sS'target'
+p78
+g16
+sS'hot_spot'
+p79
+g16
+sS'delivery_mod'
+p80
+g16
+sS'delivery_met'
+p81
+g16
+sS'expl'
+p82
+(lp83
+g16
+asS'ORG'
+p84
+(lp85
+s.

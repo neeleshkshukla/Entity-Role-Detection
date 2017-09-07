@@ -1,0 +1,248 @@
+{
+    "LOC": [
+        [
+            "Nadapuram", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Kadimeri", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "Thanakottoor", 
+            "99", 
+            "Neutral"
+        ], 
+        [
+            "Chekkiyad", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Kadimeri", 
+            "199", 
+            "Neutral"
+        ], 
+        [
+            "Ayancherry", 
+            "280", 
+            "Neutral"
+        ], 
+        [
+            "Karimbinpalakandi", 
+            "348", 
+            "Neutral"
+        ], 
+        [
+            "Kayakkodi", 
+            "350", 
+            "Neutral"
+        ], 
+        [
+            "Ayancherry panchayat", 
+            "432", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kuttiyil Aziz", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "Mulleri Nazeer", 
+            "113", 
+            "Victim"
+        ], 
+        [
+            "Kulungara Shamsu", 
+            "124", 
+            "Victim"
+        ], 
+        [
+            "Mavilakunnumal Akilesh", 
+            "134", 
+            "Victim"
+        ], 
+        [
+            "Illathu Balan", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Pulikkal Rajan", 
+            "227", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "4 a.m.:145"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:37", 
+        "Tuesday:201", 
+        "Friday night:235", 
+        "Friday:354"
+    ], 
+    "death": "", 
+    "title": "Rural areas witness blasts, clashes", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "After a lull , political violence has surfaced again in the rural areas , particularly in the politically sensitive Nadapuram police station limits , of the district . At least two incidents were reported early on Saturday . A bomb was thrown at the house of Kuttiyil Aziz at Kadimeri . There was no casualty . However , the blast damaged a portion of the house . The bomb disposal squad also recovered an unexploded bomb from the terrace of the building , the police said . Vehicles torched In another incident , several vehicles were torched at Thanakottoor near Chekkiyad . Two motorcycles parked in the porch of the house of Mulleri Nazeer were set ablaze . A motorbike of his friend Kulungara Shamsu was also torched . An autorickshaw owned by Mavilakunnumal Akilesh was destroyed . These incidents occurred between 3 and 4 a.m. Local people and the police doused the flames . Senior police officers said a team of police personnel had been deployed in these areas . Isolated clashes between the Communist Party of India ( Marxist ) ( CPI-M ) and the Indian Union Muslim League ( IUML ) had been reported at Kadimeri from Tuesday . However , the violence soon spread to nearby regions such as Ayancherry . Injured Two CPI ( M ) activists , Illathu Balan and Pulikkal Rajan , were injured in clashes on Friday night . They have been admitted to the Vadakara Cooperative Hospital . Soon afterwards there was an attack on a provision store . The house of an IUML activist was pelted with stones . The CPI ( M ) observed a dawn-to-dusk hartal at Ayancherry grama panchayat in protest against the attack on its workers . Party leaders said that IUML had masterminded the attack . A few persons had been taken into custody in connection with the incident , the police said . In another incident , six persons were injured in clashes between the workers of the CPI ( M ) and the Bharatiya Janata Party ( BJP ) at Karimbinpalakandi in Kayakkodi grama panchayat on Friday . The injured have been admitted to the Perambra government hospital . Bombs were hurled at an automobile workshop owned by a BJP activist . An autorickshaw was partially damaged in the explosion . The windscreen of a stationary private bus was shattered . The police have recovered an unexploded pipe bomb from the site . A posse of personnel were camping in the area , the police said . CPI ( M ) observes hartal in Ayancherry panchayat Police personnel deployed in violence-hit areas OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "lull:3", 
+        "violence:6", 
+        "station:22", 
+        "district:27", 
+        "bomb:40", 
+        "house:45", 
+        "casualty:55", 
+        "blast:60", 
+        "portion:63", 
+        "house:66", 
+        "bomb disposal squad:69", 
+        "bomb:76", 
+        "terrace:79", 
+        "building:82", 
+        "incident:92", 
+        "porch:108", 
+        "house:111", 
+        "set:116", 
+        "motorbike:120", 
+        "autorickshaw:131", 
+        "team:161", 
+        "cpi-m:184", 
+        "indian union:188", 
+        "league:191", 
+        "violence:206", 
+        "spread:208", 
+        "ayancherry:214", 
+        "cpi:218", 
+        "m:220", 
+        "night:236", 
+        "attack:253", 
+        "provision store:256", 
+        "house:260", 
+        "cpi:271", 
+        "m:273", 
+        "grama panchayat:281", 
+        "protest:284", 
+        "attack:287", 
+        "party:292", 
+        "party leaders:292", 
+        "attack:300", 
+        "custody:309", 
+        "connection:311", 
+        "incident:314", 
+        "incident:322", 
+        "cpi:335", 
+        "m:337", 
+        "grama panchayat:351", 
+        "automobile workshop:372", 
+        "autorickshaw:381", 
+        "explosion:387", 
+        "windscreen:390", 
+        "bus:395", 
+        "pipe bomb:405", 
+        "site:409", 
+        "posse:412", 
+        "camping:416", 
+        "area:419", 
+        "m:427", 
+        "panchayat:433"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/rural-areas-witness-blasts-clashes/article2505645.ece", 
+    "date": "01-10-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Communist Party of India", 
+            "176", 
+            "Accused"
+        ], 
+        [
+            "Marxist", 
+            "181", 
+            "Accused"
+        ], 
+        [
+            "CPI-M", 
+            "184", 
+            "Accused"
+        ], 
+        [
+            "Indian Union Muslim League", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "IUML", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "Vadakara Cooperative Hospital", 
+            "244", 
+            "Others"
+        ], 
+        [
+            "IUML", 
+            "263", 
+            "Others"
+        ], 
+        [
+            "IUML", 
+            "296", 
+            "Others"
+        ], 
+        [
+            "Bharatiya Janata Party", 
+            "341", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "345", 
+            "Others"
+        ], 
+        [
+            "Perambra government hospital", 
+            "363", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "377", 
+            "Others"
+        ], 
+        [
+            "CPI", 
+            "425", 
+            "Others"
+        ]
+    ]
+}

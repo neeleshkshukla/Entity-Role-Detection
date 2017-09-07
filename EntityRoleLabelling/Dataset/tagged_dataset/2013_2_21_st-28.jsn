@@ -1,0 +1,68 @@
+{
+    "LOC": [
+        [
+            "Dimapur railway station", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Dimapur railway station", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "poll-bound Nagaland", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Nagaland", 
+            "13", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday morning:18", 
+        "Wednesday:18"
+    ], 
+    "death": "1", 
+    "title": "Blast in Dimapur kills one", 
+    "det_loc": [
+        "India", 
+        "Nagaland", 
+        "Dimapur", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A bomb blast close to the Dimapur railway station in the poll-bound Nagaland killed a person on Wednesday morning . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb blast:2"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/blast-in-dimapur-kills-one/article4437579.ece", 
+    "date": "17-02-2010", 
+    "target": "Railway Station", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,501 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsukhnagar'
+p4
+aS'17'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Hyderabad'
+p8
+aS'19'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Nepal'
+p12
+aS'61'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Karnataka'
+p16
+aS'68'
+p17
+aS'Accused Location'
+p18
+aa(lp19
+S'Nepal'
+p20
+aS'84'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'India'
+p24
+aS'89'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Bhatkal'
+p28
+aS'95'
+p29
+aS'Accused Location'
+p30
+aa(lp31
+S'Nepal'
+p32
+aS'146'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Karnataka'
+p36
+aS'167'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'India'
+p40
+aS'219'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Indo-Nepal border'
+p44
+aS'228'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Azamgarh'
+p48
+aS'272'
+p49
+aS'Accused Location'
+p50
+aa(lp51
+S'Uttar Pradesh'
+p52
+aS'274'
+p53
+aS'Accused Location'
+p54
+aa(lp55
+S'Delhi'
+p56
+aS'350'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Pune'
+p60
+aS'366'
+p61
+aS'Assoc Event Location'
+p62
+aa(lp63
+S'German'
+p64
+aS'368'
+p65
+aS'Assoc Event Location'
+p66
+aa(lp67
+S'Bangalore'
+p68
+aS'372'
+p69
+aS'Assoc Event Location'
+p70
+aa(lp71
+S'Mumbai'
+p72
+aS'379'
+p73
+aS'Assoc Event Location'
+p74
+aa(lp75
+S'Ahmedabad'
+p76
+aS'388'
+p77
+aS'Assoc Event Location'
+p78
+aa(lp79
+S'Jaipur'
+p80
+aS'390'
+p81
+aS'Assoc Event Location'
+p82
+aa(lp83
+S'Varanasi'
+p84
+aS'392'
+p85
+aS'Assoc Event Location'
+p86
+aasS'PER'
+p87
+(lp88
+(lp89
+S'Yasin Bhatkal'
+p90
+aS'37'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Yasins'
+p94
+aS'65'
+p95
+aS'Accused'
+p96
+aa(lp97
+S'Yasins'
+p98
+aS'92'
+p99
+aS'Accused'
+p100
+aa(lp101
+S'Yasin'
+p102
+aS'125'
+p103
+aS'Accused'
+p104
+aa(lp105
+S'Yasin'
+p106
+aS'176'
+p107
+aS'Accused'
+p108
+aa(lp109
+S'Yasin'
+p110
+aS'213'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Asadullah Akhtar'
+p114
+aS'267'
+p115
+aS'Assoc Accused'
+p116
+aa(lp117
+S'Yasins'
+p118
+aS'298'
+p119
+aS'Accused'
+p120
+aa(lp121
+S'Yasin'
+p122
+aS'334'
+p123
+aS'Accused'
+p124
+aa(lp125
+S'Yasin'
+p126
+aS'399'
+p127
+aS'Accused'
+p128
+aa(lp129
+S'Asadullah'
+p130
+aS'404'
+p131
+aS'Assoc Accused'
+p132
+aasS'TIM'
+p133
+(lp134
+S'six months : 75'
+p135
+asS'hot_setting'
+p136
+S''
+p137
+sS'DAT'
+p138
+(lp139
+S'February 21 : 24'
+p140
+aS'September , 2011 : 355'
+p141
+aS'2008 : 363'
+p142
+aS'July , 2011 : 383'
+p143
+asS'death'
+p144
+g137
+sS'title'
+p145
+S'It took six months to pin him down'
+p146
+sS'det_loc'
+p147
+(lp148
+S'India'
+p149
+aS'Haryana'
+p150
+ag137
+aS'Dilshuknagar'
+p151
+ag137
+asS'terror_group'
+p152
+(lp153
+S'INDIAN MUJAHIDEEN'
+p154
+asS'content'
+p155
+S'After all possible leads indicated the involvement of the Indian Mujahideen ( IM ) in the Dilsukhnagar ( Hyderabad ) twin blasts on February 21 this year , intelligence agencies stepped up their surveillance to locate Yasin Bhatkal , the co-founder the terror organisation . Soon , Intelligence Bureau ( IB ) sleuths were able to track a call from Nepal to one of Yasins relatives in Karnataka . What followed in the next six months was the monitoring of phone calls from Nepal to various places in India , including Yasins native town Bhatkal , where he reportedly spoke to his relatives and accomplices . The IB relentlessly monitored these calls and got some other crucial leads . We soon managed to locate Yasin , one of the Indias top 10 wanted terrorists , who had taken refuge in a small town deep inside Nepal , a senior Ministry of Home Affairs ( MHA ) official said . As the IB reportedly flew in some Karnataka cops dealing with terror cases , in which Yasin is allegedly involved , to confirm his identity , back channel operations were also started with the Research & Analysis Wing ( RAW ) and the Ministry of External Affairs ( MEA ) to ensure that Yasin is held and brought to India . As he was not living along the Indo-Nepal border , we had to be extra cautious so that he could not slip away again as he has done in the past . Indian intelligence sleuths were then able to apprehend him along with his close associate Asadullah Akhtar who hails from Azamgarh in Uttar Pradesh they both were then brought to the international border , the official said . Though the Indian intelligence agencies are sure about Yasins identity , the National Investigation Agency ( NIA ) that is dealing with most of the terror cases involving the IM mastermind might go in for a DNA test to conclusively establish his identity . Yasin isthe alleged mastermind behind several blasts in the last few years , including those in Delhi ( High Court , September , 2011 and the serial blasts in 2008 ) , Pune ( German Bakery ) , Bangalore ( two blast cases ) , Mumbai triple blast ( July , 2011 ) , Ahmedabad , Jaipur and Varanasi . Sources said that apart from Yasin , the arrest of Asadullah is also of immense importance as he is said to be the IMs key bomb-maker and expert in planting improvised explosive devices ( IEDs ) . OPEN'
+p156
+sS'injured'
+p157
+g137
+sS'org_unorg'
+p158
+g137
+sS'O'
+p159
+(lp160
+S'twin blasts:21'
+p161
+aS'intelligence agencies:29'
+p162
+aS'surveillance:34'
+p163
+aS'co-founder:41'
+p164
+aS'terror organisation:43'
+p165
+aS'sleuths:53'
+p166
+aS'track a call:57'
+p167
+aS'monitoring of phone calls:79'
+p168
+aS'crucial leads:117'
+p169
+aS'managed to locate:122'
+p170
+aS'indias top 10 wanted terrorists:130'
+p171
+aS'refuge:139'
+p172
+aS'karnataka cops:167'
+p173
+aS'terror cases:171'
+p174
+aS'back channel operations:186'
+p175
+aS'extra cautious:235'
+p176
+aS'indian intelligence sleuths:253'
+p177
+aS'international border:283'
+p178
+aS'indian intelligence agencies:292'
+p179
+aS'terror cases:315'
+p180
+aS'mastermind:320'
+p181
+aS'dna test:326'
+p182
+aS'alleged mastermind:336'
+p183
+aS'blasts:340'
+p184
+aS'high court:352'
+p185
+aS'serial blasts:360'
+p186
+aS'German Bakery:368'
+p187
+aS'two blast cases:374'
+p188
+aS'mumbai triple blast:379'
+p189
+aS'immense importance:408'
+p190
+aS'bomb-maker:419'
+p191
+aS'improvised explosive devices:424'
+p192
+aS'ieds:428'
+p193
+asS'unexpl'
+p194
+(lp195
+g137
+asS'ocassion'
+p196
+g137
+sS'link'
+p197
+S'http://www.thehindu.com/todays-paper/it-took-six-months-to-pin-him-down/article5073770.ece'
+p198
+sS'date'
+p199
+S'21-02-2013'
+p200
+sS'target'
+p201
+g137
+sS'hot_spot'
+p202
+g137
+sS'delivery_mod'
+p203
+g137
+sS'delivery_met'
+p204
+g137
+sS'expl'
+p205
+(lp206
+S'IED'
+p207
+asS'ORG'
+p208
+(lp209
+(lp210
+S'Indian Mujahideen'
+p211
+aS'10'
+p212
+aS'Accused'
+p213
+aa(lp214
+S'IM'
+p215
+aS'13'
+p216
+aS'Accused'
+p217
+aa(lp218
+S'Intelligence Bureau'
+p219
+aS'48'
+p220
+aS'Others'
+p221
+aa(lp222
+S'IB'
+p223
+aS'51'
+p224
+aS'Others'
+p225
+aa(lp226
+S'IB'
+p227
+aS'108'
+p228
+aS'Others'
+p229
+aa(lp230
+S'Ministry of Home Affairs'
+p231
+aS'150'
+p232
+aS'Others'
+p233
+aa(lp234
+S'MHA'
+p235
+aS'155'
+p236
+aS'Others'
+p237
+aa(lp238
+S'IB'
+p239
+aS'162'
+p240
+aS'Others'
+p241
+aa(lp242
+S'Research & Analysis Wing'
+p243
+aS'194'
+p244
+aS'Others'
+p245
+aa(lp246
+S'RAW'
+p247
+aS'199'
+p248
+aS'Others'
+p249
+aa(lp250
+S'Ministry of External Affairs'
+p251
+aS'203'
+p252
+aS'Others'
+p253
+aa(lp254
+S'MEA'
+p255
+aS'208'
+p256
+aS'Others'
+p257
+aa(lp258
+S'National Investigation Agency'
+p259
+aS'302'
+p260
+aS'Others'
+p261
+aa(lp262
+S'NIA'
+p263
+aS'306'
+p264
+aS'Others'
+p265
+aa(lp266
+S'IM'
+p267
+aS'319'
+p268
+aS'Others'
+p269
+aa(lp270
+S'IMs'
+p271
+aS'417'
+p272
+aS'Others'
+p273
+aas.

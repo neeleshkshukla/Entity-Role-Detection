@@ -1,0 +1,212 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "26", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "43", 
+            "Accused Location"
+        ], 
+        [
+            "Malappuram", 
+            "47", 
+            "Accused Location"
+        ], 
+        [
+            "Wayanad", 
+            "52", 
+            "Accused Location"
+        ], 
+        [
+            "Kerala", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "153", 
+            "Neutral"
+        ], 
+        [
+            "Jammu and Kashmir", 
+            "297", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Umar Farooq", 
+            "44", 
+            "Accused"
+        ], 
+        [
+            "Ibrahim Moulavi", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "Farooq", 
+            "95", 
+            "Accused"
+        ], 
+        [
+            "Moulavi", 
+            "97", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "116", 
+            "Accused"
+        ], 
+        [
+            "Farooq", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Moulavi", 
+            "121", 
+            "Accused"
+        ], 
+        [
+            "Abdul Maudany", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "145", 
+            "Accused"
+        ], 
+        [
+            "Farooq", 
+            "232", 
+            "Accused"
+        ], 
+        [
+            "Moulavi", 
+            "234", 
+            "Accused"
+        ], 
+        [
+            "Thadiyandavide Naseer", 
+            "252", 
+            "Assoc Accused"
+        ], 
+        [
+            "Maudany", 
+            "283", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 25:28", 
+        "2008:31", 
+        "Friday:54"
+    ], 
+    "death": "", 
+    "title": "Bangalore blasts: city police looking at Interpol help", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)"
+    ], 
+    "content": "The Bangalore city police are contemplating seeking Interpol 's help to arrest at least six more persons allegedly involved in the serial blasts that rocked Bangalore on July 25 , 2008 , killing a woman . The police arrested two suspects from Kerala Umar Farooq of Malappuram and Ibrahim Moulavi of Wayanad last Friday . They are being interrogated at an undisclosed place . Police sources said that even more were probably involved in the blasts , eight of whom have fled the country , while another is in Kerala . We have interrogated Farooq and Moulavi . They have given us useful information about the blasts , a Central Crime Branch officer said . Maudany 's associates Farooq and Moulavi are close associates of People 's Democratic Party ( PDP ) leader Abdul Maudany , prime accused in the blasts . They knew Maudany for the past 15 years and visited Bangalore several times before the blasts , the officer told The Hindu . The police are collecting evidence against the accused and will shortly submit an additional charge sheet in court . If possible , the city police will submit the documents pertaining to the serials blasts to the Interpol Wing of the Central Bureau of Investigation ( CBI ) to issue a red corner notice , said the officer , who wished to remain anonymous . He described Farooq and Moulavi as experts in making crude bombs using ammonium nitrate . They are also associates of Lashkar-e-Toiba operative Thadiyandavide Naseer , he said . Thirty-two persons were charged by the city police in the first charge-sheet filed in court . As many as 19 persons , including PDP leader Maudany , have been arrested , while four were killed in an encounter in Jammu and Kashmir . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Chennai", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "arrest:12", 
+        "serial:22", 
+        "killing:33", 
+        "country:84", 
+        "information:104", 
+        "central crime branch:110", 
+        "democratic party:128", 
+        "pdp:131", 
+        "leader:133", 
+        "accused:138", 
+        "officer:161", 
+        "evidence:170", 
+        "charge sheet:180", 
+        "court:183", 
+        "city:189", 
+        "serials blasts:198", 
+        "interpol wing:202", 
+        "red corner notice:216", 
+        "crude bombs:239", 
+        "ammonium nitrate:242", 
+        "operative:251", 
+        "charge-sheet:269", 
+        "court:272", 
+        "pdp leader:281", 
+        "arrested:287", 
+        "killed:292", 
+        "encounter:295"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/bangalore-blasts-city-police-looking-at-interpol-help/article836971.ece", 
+    "date": "25-07-2008", 
+    "target": "", 
+    "hot_spot": "Bangalore", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Ammonium Nitrate"
+    ], 
+    "ORG": [
+        [
+            "Bangalore city police", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "People 's Democratic Party", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "163", 
+            "Others"
+        ], 
+        [
+            "Interpol", 
+            "202", 
+            "Others"
+        ], 
+        [
+            "Central Bureau of Investigation", 
+            "206", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "211", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Toiba", 
+            "250", 
+            "Accused"
+        ], 
+        [
+            "PDP", 
+            "281", 
+            "Accused"
+        ]
+    ]
+}

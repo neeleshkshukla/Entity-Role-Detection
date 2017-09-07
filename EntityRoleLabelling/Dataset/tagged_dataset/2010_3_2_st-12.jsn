@@ -1,0 +1,111 @@
+{
+    "LOC": [
+        [
+            "New Delhi", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Kabul", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "Afghan capital", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "47", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "84", 
+            "Neutral"
+        ], 
+        [
+            "Afghan", 
+            "133", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shankar Menon", 
+            "30", 
+            "Others"
+        ], 
+        [
+            "Menon", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Hamid Karzai", 
+            "128", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "March 5:38", 
+        "March:38"
+    ], 
+    "death": "", 
+    "title": "India sends probe team to Kabul", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)"
+    ], 
+    "content": "New Delhi : In the wake of Fridays bomb blasts in Kabul , India has sent a team of investigators to the Afghan capital . National Security Advisor Shiv Shankar Menon will pay a visit there on March 5 to discuss the security of Indians in Afghanistan . The team , including officials of Home and Defence Ministries , has joined its Afghan counterpart in probing the attack in which Indians engaged in developmental and reconstruction works in that country were targeted . Afghanistan has set up a five-member team to investigate the incident . The investigators suspect the involvement of the Taliban , particularly the Haqqani group , in league with elements of the Lashkar-e-Taiba in the assault . Mr. Menon is expected to meet President Hamid Karzai and other top Afghan leaders . PTI OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Kabul", 
+        ""
+    ], 
+    "O": [
+        "bomb blasts:9", 
+        "afghan capital:23", 
+        "national security advisor:26", 
+        "indians:45", 
+        "defence ministries:57", 
+        "afghan counterpart:63", 
+        "indians:71", 
+        "suspect:98", 
+        "involvement:100", 
+        "taliban:103", 
+        "haqqani group:107", 
+        "league:111"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/india-sends-probe-team-to-kabul/article721162.ece", 
+    "date": "02-03-2010", 
+    "target": "Public Organization", 
+    "hot_spot": "bomb blasts in Kabul", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Taiba", 
+            "116", 
+            "Accused"
+        ]
+    ]
+}

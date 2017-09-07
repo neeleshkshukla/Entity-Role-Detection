@@ -1,0 +1,416 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "2", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Gujarat", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "16", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ahmedabad", 
+            "52", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ahmedabad", 
+            "65", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Vadodara", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "Bariatu", 
+            "82", 
+            "Accused Location"
+        ], 
+        [
+            "Ranchi", 
+            "84", 
+            "Accused Location"
+        ], 
+        [
+            "Jharkhand", 
+            "86", 
+            "Accused Location"
+        ], 
+        [
+            "Ahmedabad", 
+            "137", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Khadia", 
+            "182", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ahmedabad", 
+            "212", 
+            "Event"
+        ], 
+        [
+            "Gujarat", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "273", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "293", 
+            "Neutral"
+        ], 
+        [
+            "Ahmedabad", 
+            "307", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "324", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mumbai", 
+            "328", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ahmedabad", 
+            "339", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "352", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ahmedabad", 
+            "358", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "377", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "383", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Gujarat", 
+            "389", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "394", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Gujarat", 
+            "405", 
+            "Event"
+        ], 
+        [
+            "Vallabh Vidyanagar", 
+            "441", 
+            "Neutral"
+        ], 
+        [
+            "Anand", 
+            "444", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Danish Riaz", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Danish Riaz", 
+            "54", 
+            "Accused"
+        ], 
+        [
+            "Safi", 
+            "57", 
+            "Accused"
+        ], 
+        [
+            "Riaz", 
+            "88", 
+            "Accused"
+        ], 
+        [
+            "Riaz", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "Abdul Subhan", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Tauqir", 
+            "128", 
+            "Accused"
+        ], 
+        [
+            "Mujib Sheikh", 
+            "156", 
+            "Assoc Accused"
+        ], 
+        [
+            "Mohammad Ismail", 
+            "159", 
+            "Assoc Accused"
+        ], 
+        [
+            "Abdul Rajjak", 
+            "162", 
+            "Assoc Accused"
+        ], 
+        [
+            "Riaz", 
+            "171", 
+            "Accused"
+        ], 
+        [
+            "Riaz", 
+            "218", 
+            "Accused"
+        ], 
+        [
+            "Tauqir", 
+            "228", 
+            "Accused"
+        ], 
+        [
+            "Mujib Sheikh", 
+            "282", 
+            "Assoc Accused"
+        ], 
+        [
+            "Abu Faisal", 
+            "285", 
+            "Assoc Accused"
+        ], 
+        [
+            "Narendra Modi", 
+            "408", 
+            "Others"
+        ], 
+        [
+            "Modi", 
+            "448", 
+            "Others"
+        ], 
+        [
+            "Sardar Patel", 
+            "452", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "last month : 41", 
+        "last month : 76"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "2008:64", 
+        "Saturday:188"
+    ], 
+    "death": "", 
+    "title": "Blasts probe leads to Gujarat", 
+    "det_loc": [
+        "India", 
+        "Gujarat", 
+        "Ahmedabad", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The Mumbai bomb blasts may have some links with Gujarat . The officials of the Mumbai Anti-Terrorist Squad ( ATS ) have landed here to question Danish Riaz , an Indian Mujahideen ( IM ) operative , who was arrested last month in connection with the earlier serial bomb blasts in Ahmedabad . Danish Riaz alias Safi , a key accused in the 2008 Ahmedabad serial blast case , was arrested from Vadodara railway station last month . A resident of Bariatu in Ranchi , Jharkhand , Riaz was working with a software company and is believed to be an active member of Students Islamic Movement of India ( SIMI ) and IM . Police sources alleged Riaz confessed that he provided shelter to Abdul Subhan alias Tauqir , who was also a suspect in the Ahmedabad serial bomb blasts and the recent Mumbai blasts , as well as some other IM operatives , including Mujib Sheikh and Mohammad Ismail alias Abdul Rajjak , apart from financially helping them . Riaz , who was on police remand in connection with the Khadia bomb blast and was on Saturday re-arrested in connection with the civil hospital blast case , was believed to be involved in planning and executing the serial blasts in Ahmedabad . The police sources said Riaz was in touch with the terror masterminds such as Tauqir and maintained links with his peers through the Internet chat . He used to avoid mobile phones to keep his locations secret , the sources said . The Gujarat ATS is also believed to have some important information , which it shared with its Mumbai counterpart , on two other IM operatives , Mujib Sheikh and Abu Faisal , who were arrested by the Madhya Pradesh ATS recently and were believed to have played key roles in the Ahmedabad serial bomb blasts . The police believe the duo also played a key role in the Mumbai blasts . The Mumbai ATS officials are also believed to have enquired with the Ahmedabad Regional Transport Office the registration details of the scooter found at the Zaveri Bazaar blast site having an Ahmedabad registration number . Though the police said nothing suspicious was found about the scooter , owned by an Ahmedabad resident who recently moved to Mumbai but was still holding the Gujarat number plate , the Mumbai police was not leaving anything to chance . Meanwhile , Gujarat Chief Minister Narendra Modi again upped his ante against the Congress-led United Progressive Alliance government strongly criticising it for its soft attitude to terrorism . Speaking at a function at the Sardar Patel University in Vallabh Vidyanagar in Anand district , Mr. Modi said : Had Sardar Patel still been alive , scores of innocent people would not have lost their lives and the terrorists who are enjoying themselves in jail , would have been hanged by now . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "mumbai bomb blasts:2", 
+        "landed:23", 
+        "arrested:40", 
+        "serial bomb blasts:48", 
+        "key accused:60", 
+        "ahmedabad serial blast case:65", 
+        "serial blast case:66", 
+        "arrested:71", 
+        "railway station:74", 
+        "resident:80", 
+        "software company:93", 
+        "member:102", 
+        "confessed:119", 
+        "shelter:123", 
+        "suspect:134", 
+        "Ahmedabad serial bomb blasts:137", 
+        "Mumbai blasts:144", 
+        "financially helping:167", 
+        "remand:177", 
+        "connection:179", 
+        "khadia bomb blast:182", 
+        "re-arrested:189", 
+        "connection:191", 
+        "civil hospital blast case:194", 
+        "planning:205", 
+        "executing:207", 
+        "serial blasts:209", 
+        "touch:221", 
+        "terror masterminds:224", 
+        "maintained links:230", 
+        "peers:234", 
+        "internet chat:237", 
+        "avoid mobile phones:243", 
+        "secret:250", 
+        "believed:261", 
+        "important information:265", 
+        "counterpart:274", 
+        "arrested:290", 
+        "key roles:303", 
+        "Ahmedabad serial bomb blasts:307", 
+        "duo:316", 
+        "key role:320", 
+        "enquired:336", 
+        "Regional Transport Office:340", 
+        "registration:344", 
+        "scooter:348", 
+        "blast site:354", 
+        "registration number:359", 
+        "suspicious:367", 
+        "scooter:372", 
+        "resident:378", 
+        "number plate:390", 
+        "chance:401", 
+        "ante:413", 
+        "Congress-led:416", 
+        "government:420", 
+        "criticising:422", 
+        "attitude:427", 
+        "terrorism:429", 
+        "function:434", 
+        "district:445", 
+        "terrorists:470", 
+        "jail:476", 
+        "hanged:481"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/blasts-probe-leads-to-gujarat/article2234917.ece", 
+    "date": "01-04-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorist Squad", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "34", 
+            "Accused"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "104", 
+            "Others"
+        ], 
+        [
+            "SIMI", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "113", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "152", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "258", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "279", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "295", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "329", 
+            "Others"
+        ], 
+        [
+            "United Progressive Alliance", 
+            "417", 
+            "Others"
+        ], 
+        [
+            "Sardar Patel University", 
+            "437", 
+            "Others"
+        ]
+    ]
+}

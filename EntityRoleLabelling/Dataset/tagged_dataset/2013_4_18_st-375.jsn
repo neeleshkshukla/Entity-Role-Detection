@@ -1,0 +1,218 @@
+{
+    "LOC": [
+        [
+            "Karnataka", 
+            "8", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Malleswaram", 
+            "45", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "47", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "71", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "115", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "273", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "376", 
+            "Event", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Election Commissioner Alok Shukla", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "Commissioner Alok Shukla", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "Alok Shukla", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Rajnath Singh", 
+            "137", 
+            "Others"
+        ], 
+        [
+            "Singh", 
+            "138", 
+            "Others"
+        ], 
+        [
+            "leader Shakeel Ahmed", 
+            "185", 
+            "Others"
+        ], 
+        [
+            "leader Shakeel", 
+            "185", 
+            "Others"
+        ], 
+        [
+            "Shakeel Ahmed", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "secretary Janardan Dwivedi", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "secretary Janardan", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "Janardan Dwivedi", 
+            "262", 
+            "Others"
+        ], 
+        [
+            "Mr. Ahmed", 
+            "267", 
+            "Others"
+        ], 
+        [
+            "Mr. Dwivedi", 
+            "367", 
+            "Others"
+        ], 
+        [
+            "Mr. Shukla", 
+            "371", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:5"
+    ], 
+    "death": "", 
+    "title": "Be cautious, bolster security, EC tells State", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Malleswaram", 
+        "bangalore", 
+        "near the BJP office"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Election Commission on Wednesday asked the Karnataka government , particularly the police , to be extremely cautious and take all security measures for the May 5 polls to the Legislative Assembly . The direction follows a bomb blast near the BJP office at Malleswaram in Bangalore on Wednesday in which 14 persons , including eight policemen , were injured . Deputy Election Commissioner Alok Shukla , in-charge of the Karnataka elections , told The Hindu that according to information received by the Commission , the incident was suspected to be a terror act . Informed sources said if necessary more Central security forces and police forces from other States would be sent to Karnataka to ensure that elections passed off peacefully . Personal security to star campaigners would be tightened . Meanwhile , BJP president Rajnath Singh , in an interaction with women journalists here , termed the blast unfortunate . This terror act appeared to be the job of some sleeper cells active due to lack of efforts in fighting terror by the Union government . He refused to react to Congress leader Shakeel Ahmed 's contention that the blast would help the BJP in the polls . I dont believe this has been stage-managed by somebody . Terror acts are occurring across the country . It is a ground reality that there are several sleeper modules which are playing their roles in different places . The Central government is not making any effort to destroy these sleeper cells , he said . Fight terror unitedly Congress general secretary Janardan Dwivedi distanced himself from Mr. Ahmed 's tweet on the Bangalore blast by stating that the party did not view terrorism in terms of political benefit or loss . We all know terrorism is a national issue or problem . Not only that , to some extent it is an international problem . We do not view the problem in terms of political benefit or loss , he told journalists here . The problem of terrorism should be a concern for all the citizens and should be faced unitedly . Whatever I am saying , I am saying on behalf of the party , Mr. Dwivedi said . Mr. Shukla also spoke to Bangalore Police Commissioner to get details about the blast . We are closely watching the situation in the State , sources in the Commission said . OPEN", 
+    "injured": "14", 
+    "org_unorg": "Organized", 
+    "O": [
+        "assembly:32", 
+        "deputy election:62", 
+        "election commissioner:63", 
+        "in-charge:68", 
+        "terror act:93", 
+        "central security forces:102", 
+        "central security:102", 
+        "personal security:124", 
+        "bjp president rajnath:135", 
+        "terror act:154", 
+        "sleeper:163", 
+        "union government:176", 
+        "leader:185", 
+        "terror:211", 
+        "ground reality:222", 
+        "sleeper:228", 
+        "central government:240", 
+        "government:241", 
+        "effort:246", 
+        "sleeper:250", 
+        "fight terror:256", 
+        "secretary:261", 
+        "tweet:270", 
+        "terrorism:295", 
+        "issue:299", 
+        "terrorism:338", 
+        "blast:384", 
+        "commission:399"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/be-cautious-bolster-security-ec-tells-state/article4628739.ece", 
+    "date": "17-04-2013", 
+    "target": "Government Building", 
+    "hot_spot": "near the BJP office", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Election Commission", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Commission", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "184", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "Congress", 
+            "259", 
+            "Others"
+        ]
+    ]
+}

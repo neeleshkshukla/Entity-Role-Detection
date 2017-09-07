@@ -1,0 +1,322 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'hotel'
+p4
+aS'192'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Jewish center'
+p8
+aS'233'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'British'
+p12
+aS'293'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'British'
+p16
+aS'302'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Taj'
+p20
+aS'325'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Oberoi-Trident'
+p24
+aS'328'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Jewish center'
+p28
+aS'336'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'southern Mumbai'
+p32
+aS'339'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Oberoi-Trident hotel'
+p36
+aS'360'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Jewish center'
+p40
+aS'364'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Jewish center'
+p44
+aS'421'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'India'
+p48
+aS'429'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Pakistan'
+p52
+aS'431'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Mumbai'
+p56
+aS'452'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Delhi'
+p60
+aS'494'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Pakistan'
+p64
+aS'500'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Mumbai'
+p68
+aS'525'
+p69
+aS'Neutral'
+p70
+aasS'PER'
+p71
+(lp72
+(lp73
+S'JK Dutt'
+p74
+aS'10'
+p75
+aS'Comment'
+p76
+aa(lp77
+S'Dutt'
+p78
+aS'44'
+p79
+aS'Comment'
+p80
+aa(lp81
+S'Dutt'
+p82
+aS'98'
+p83
+aS'Comment'
+p84
+aa(lp85
+S'Pranab Mukherjee'
+p86
+aS'510'
+p87
+aS'Comment'
+p88
+aa(lp89
+S'Shah Mehmood Qureshi'
+p90
+aS'516'
+p91
+aS'Others'
+p92
+aasS'TIM'
+p93
+(lp94
+S'morning : 35'
+p95
+aS'five hours : 39'
+p96
+aS'night : 89'
+p97
+aS'night : 248'
+p98
+aS'evening : 380'
+p99
+asS'hot_setting'
+p100
+S''
+p101
+sS'DAT'
+p102
+(lp103
+S'Saturday , Nov. 29 : 22'
+p104
+aS'Friday : 88'
+p105
+aS'Wednesday : 247'
+p106
+aS'Friday : 352'
+p107
+aS'Wednesday : 379'
+p108
+aS'2006 : 466'
+p109
+aS'Friday : 492'
+p110
+asS'death'
+p111
+S'1'
+p112
+sS'title'
+p113
+S'India Blames Pakistan as Mumbai Siege Ends'
+p114
+sS'org_unorg'
+p115
+S'ORGANISED'
+p116
+sS'terror_group'
+p117
+(lp118
+g101
+asS'content'
+p119
+V`` The hotel is under our control , '' JK Dutt , chief of the National Security Guard commandos , said Saturday , Nov. 29 , after fierce combat that began early in the morning and lasted nearly five hours . . . Dutt added that the commandoes had killed three terrorists after an intense gun battle inside the hotel . One commando was killed during the assault in the 565-room hotel . Some 200 national security guards were involved in the operation . . . Through Friday night , the terrorists engaged in intermittent battles . Dutt said terrorists had set fires at different places in the hotel as diversionary tactics whenever they found the forces closing in on them . . . Security forces still had to complete their final searches of the hotels . . `` There was a lot of shooting . Grenades were lobbed and explosives were used by terrorists , '' he said . . . The security chief said operations would be declared over only after the conclusion of room-to-room searches to ensure that there were no remaining terrorists or live explosives inside the hotel . . . `` We are also looking for surviving guests who could have locked themselves in rooms and have not been coming out for fear of terrorists , '' he said . . . Rescue operations at hotels , Jewish center . . In all , nearly 200 people have been killed since Wednesday night when a group of militants carried out a series of coordinated attacks in India 's commercial capital . At least 22 of the dead were non-Indian national . Several hundred more people have been injured . . . The terrorists reportedly targeted individuals carrying British and American passports . Five Americans and one British citizen have been reported among the foreign victims . . . In addition to other sites , the gunmen had seized the Taj and the Oberoi-Trident , both five-star hotels , and a Jewish center in southern Mumbai . . . The National Security Guard and military commandoes on Friday managed to end the siege at the Oberoi-Trident hotel and the Jewish center by killing two militants in each operation . . . The horror began Wednesday evening with coordinated attacks at multiple locations . . At least 30 bodies were found at the hotel , 20 of whom were massacred in one of the restaurants , officials said . Five hostages were murdered by militants at the Jewish center . . . Tension rises between India , Pakistan . . A previously unknown group calling itself the Decca Mujahedeen claimed responsibility for the attacks -- the worst in Mumbai since more than 180 people were killed in a series of bombings in 2006 . . . Indian security agencies have said they suspect that Pakistan-based militant groups like the Lashkar-e-Toiba had a hand in the carnage . On Friday , Delhi blamed `` elements '' in Pakistan for the attacks . . . Indian Foreign Minister Pranab Mukherjee told visiting Pakistani counterpart Shah Mehmood Qureshi that `` outrages '' like the Mumbai attack would make progress in the bilateral peace process `` impossible . '' .
+p120
+sS'injured'
+p121
+g101
+sS'det_loc'
+p122
+(lp123
+S'India'
+p124
+aS'Maharashtra'
+p125
+aS'Mumbai-City'
+p126
+ag101
+aS'southern Mumbai'
+p127
+asS'O'
+p128
+(lp129
+S'gun battle:56'
+p130
+aS'Grenades:147'
+p131
+aS'American passports:295'
+p132
+aS'Indian Foreign Minister:507'
+p133
+asS'unexpl'
+p134
+(lp135
+g101
+asS'ocassion'
+p136
+g101
+sS'link'
+p137
+S'http://www.dw.com/en/india-blames-pakistan-as-mumbai-siege-ends/a-3835517'
+p138
+sS'date'
+p139
+S'26-11-2008'
+p140
+sS'target'
+p141
+S'HOTEL'
+p142
+sS'hot_spot'
+p143
+S'southern Mumbai'
+p144
+sS'delivery_mod'
+p145
+S'HOTEL'
+p146
+sS'delivery_met'
+p147
+S'PLANTED'
+p148
+sS'expl'
+p149
+(lp150
+g101
+asS'ORG'
+p151
+(lp152
+(lp153
+S'National Security Guard commandos'
+p154
+aS'16'
+p155
+aS'Others'
+p156
+aa(lp157
+S'Security forces'
+p158
+aS'125'
+p159
+aS'Others'
+p160
+aa(lp161
+S'National Security Guard'
+p162
+aS'345'
+p163
+aS'Others'
+p164
+aa(lp165
+S'Decca Mujahedeen'
+p166
+aS'441'
+p167
+aS'Accused'
+p168
+aa(lp169
+S'Indian security agencies'
+p170
+aS'470'
+p171
+aS'Others'
+p172
+aa(lp173
+S'Lashkar-e-Toiba'
+p174
+aS'483'
+p175
+aS'Accused'
+p176
+aas.

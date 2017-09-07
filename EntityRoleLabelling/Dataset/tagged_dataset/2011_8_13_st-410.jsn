@@ -1,0 +1,311 @@
+{
+    "LOC": [
+        [
+            "Kozhikode city", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "KSRTC", 
+            "100", 
+            "Event"
+        ], 
+        [
+            "Mofussil bus station", 
+            "102", 
+            "Event"
+        ], 
+        [
+            "Mavoor Road", 
+            "108", 
+            "Event"
+        ], 
+        [
+            "Ernakulam Collectorate", 
+            "177", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Tamil Nadu", 
+            "205", 
+            "Neutral"
+        ], 
+        [
+            "Kalamassery", 
+            "209", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Kannur", 
+            "263", 
+            "Accused Location"
+        ], 
+        [
+            "Bangladesh", 
+            "267", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "272", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Marad", 
+            "335", 
+            "Neutral"
+        ], 
+        [
+            "north Kerala", 
+            "497", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "516", 
+            "Neutral"
+        ], 
+        [
+            "Jammu & Kashmir", 
+            "565", 
+            "Neutral"
+        ], 
+        [
+            "Kannur", 
+            "580", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Halim", 
+            "150", 
+            "Accused"
+        ], 
+        [
+            "Halim", 
+            "194", 
+            "Accused"
+        ], 
+        [
+            "Thadiyantavide Nazir", 
+            "221", 
+            "Accused"
+        ], 
+        [
+            "Ummer Haji", 
+            "224", 
+            "Accused"
+        ], 
+        [
+            "Shafaz Samsudheen", 
+            "228", 
+            "Accused"
+        ], 
+        [
+            "Fayiz Abdurahim", 
+            "553", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Ashar", 
+            "572", 
+            "Accused"
+        ], 
+        [
+            "P.P. Yoosaf", 
+            "575", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "March 3 , 2006 : 10", 
+        "June 13 , 2006 : 62", 
+        "December 8 , 2009 : 82", 
+        "July 2009:157", 
+        "2005:211", 
+        "July 2007:274", 
+        "May 2 , 2003 : 338"
+    ], 
+    "death": "", 
+    "title": "Kozhikode twin-blasts case knotty for sleuths", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Kozhikode", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": ": The twin-blasts case that rocked Kozhikode city on March 3 , 2006 was a well executed terror-linked case that foxed investigators for several years . Initially , the case was investigated by a Special Investigation Team of the City Police and later it was handed over to the Special Investigation Group III of the Crime Branch Crime Investigation Department on June 13 , 2006 . Subsequently , it was taken over by the National Investigation Agency ( NIA ) on December 8 , 2009 . The professional manner in which the two explosions were executed , at the KSRTC and Mofussil bus station , both on Mavoor Road , within a gap of 30 minutes gave investigating agencies little clues to unravel the mystery behind them . Two persons , including a police civil officer , had sustained injuries in the explosions . Fresh vigour The arrest of Abdul Halim by the Kochi police in July 2009 provided a fresh impetus to the investigation . Then the Kochi police was probing the blast at the Ernakulam Collectorate . Now the NIA court has acquitted him on benefit of doubt . However , Halim has been named an accused in the burning of a Tamil Nadu bus at Kalamassery in 2005 . The arrest of Lashkar-e-Taiba ( LeT ) operative Thadiyantavide Nazir alias Ummer Haji , and Shafaz Samsudheen , who were nabbed by the Bangladesh police and later handed over to the Border Security Force ( BSF ) , gave leads to the probe team . Both of them hailing from Kannur had fled to Bangladesh after the terror-attacks in Bangalore in July 2007 . Reason cited Evidence pieced together revealed that the accused had hatched a conspiracy to plant and explode two bombs at the bus stations . The reason they had told investigators was that they wanted to retaliate against the perceived partisan attitude of the Executive and the Judiciary in not granting bail to the Muslim accused involved in the Marad massacre of May 2 , 2003 . Earlier , two cases , one at the Nadakkavu and the other at the Kasaba police station were registered as the incidents were separate and had occurred in the area of two police stations . But the places of occurrence were hardly 40 metres away from each other . The only clues left behind were the anonymous calls from a Public Call Office received at the District Collectorate and a local eveninger , Calicut Times , warning that bombs had been planted at these places and would go off within half-an-hour . Fictitious forum Later some newspaper offices received a letter from a fictitious organisation Al Kanoun ' owning responsibility for the blasts . Intelligence wings had then suspected that terrorists had used the city as a testing ground to mastermind explosions elsewhere . They had also suspected that terrorist outfits like Indian Mujahideen and its offshoots received logistic support from active groups in north Kerala . The analysis of the samples from the blast site by the Central Forensic Science Laboratory , New Delhi , showed the components contained nitro-glycerine , nitrocellulose , ammonium nitrate and Gelatin . Timer devices had been used to explode the bombs . Incidentally , one of the accused named in the chargesheet , Fayiz Abdurahim , was killed in an encounter with security agencies in Jammu & Kashmir . Two accused , Mohammed Ashar and P.P. Yoosaf , both from Kannur are absconding . They are reported to be in the Gulf . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "twin-blasts case:3", 
+        "terror-linked case:18", 
+        "special investigation team:35", 
+        "special investigation group iii:50", 
+        "two explosions:93", 
+        "investigating agencies:118", 
+        "clues:121", 
+        "explosions:143", 
+        "arrest:148", 
+        "investigation:165", 
+        "blast:174", 
+        "benefit of doubt:188", 
+        "tamil nadu bus:205", 
+        "arrest:214", 
+        "lashkar-e-taiba ( let ) operative:216", 
+        "probe team:255", 
+        "terror-attacks:270", 
+        "evidence:279", 
+        "conspiracy:289", 
+        "explode two bombs:293", 
+        "bus stations:298", 
+        "retaliate:312", 
+        "partisan attitude:316", 
+        "muslim accused:330", 
+        "marad massacre:335", 
+        "anonymous calls:399", 
+        "public call office:403", 
+        "warning:419", 
+        "bombs:421", 
+        "planted:424", 
+        "newspaper offices:439", 
+        "fictitious organisation al kanoun:446", 
+        "blasts:455", 
+        "intelligence wings:457", 
+        "testing ground:470", 
+        "terrorist outfits:482", 
+        "logistic support:491", 
+        "analysis:501", 
+        "blast site:507", 
+        "nitro-glycerine:523", 
+        "nitrocellulose:525", 
+        "ammonium nitrate:527", 
+        "gelatin:530", 
+        "timer devices:532", 
+        "bombs:540", 
+        "encounter:560", 
+        "security agencies:562", 
+        "gulf:591"
+    ], 
+    "unexpl": [
+        "Electronic Timers"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/kozhikode-twinblasts-case-knotty-for-sleuths/article2352833.ece", 
+    "date": "03-03-2006", 
+    "target": "Public Transport", 
+    "hot_spot": "KSRTC and Mofussil bus station", 
+    "delivery_mod": "Bus", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Ammonium Nitrate", 
+        "", 
+        "", 
+        ""
+    ], 
+    "ORG": [
+        [
+            "City Police", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "Crime Branch Crime Investigation Department", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Kochi police", 
+            "154", 
+            "Others"
+        ], 
+        [
+            "Kochi police", 
+            "169", 
+            "Others"
+        ], 
+        [
+            "NIA court", 
+            "182", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "216", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "218", 
+            "Assoc Accused", 
+            "Others"
+        ], 
+        [
+            "Bangladesh police", 
+            "236", 
+            "Others"
+        ], 
+        [
+            "Border Security Force", 
+            "244", 
+            "Others"
+        ], 
+        [
+            "BSF", 
+            "248", 
+            "Others"
+        ], 
+        [
+            "Nadakkavu", 
+            "351", 
+            "Others"
+        ], 
+        [
+            "Kasaba police station", 
+            "357", 
+            "Others"
+        ], 
+        [
+            "District Collectorate", 
+            "409", 
+            "Others"
+        ], 
+        [
+            "Calicut Times", 
+            "416", 
+            "Others"
+        ], 
+        [
+            "Al Kanoun", 
+            "448", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "485", 
+            "Accused"
+        ], 
+        [
+            "Central Forensic Science Laboratory", 
+            "511", 
+            "Others"
+        ]
+    ]
+}

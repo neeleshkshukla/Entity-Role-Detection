@@ -1,0 +1,61 @@
+{
+    "LOC": [
+        [
+            "Baghdad province", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Baghdad", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Madain", 
+            "36", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday night:12"
+    ], 
+    "death": "65", 
+    "title": "Wave of bombings kills 65 in Baghdad province", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Baghdad", 
+        "Baghdad, and Madain"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A wave of bombings killed 65 people in Baghdad province on Saturday night , officials said . Twelve car bombs and a roadside bomb hit the city of Baghdad , while another bomb exploded in Madain to the south of the capital , a police colonel and a medical official said . The blasts also wounded 190 people.AFP OPEN", 
+    "injured": "190", 
+    "org_unorg": "Organized", 
+    "O": [
+        "wave of bombings:2", 
+        "Twelve:18", 
+        "car:19", 
+        "car bombs:19", 
+        "roadside bomb:23"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/wave-of-bombings-kills-65-in-baghdad-province/article4938601.ece", 
+    "date": "20-07-2013", 
+    "target": "", 
+    "hot_spot": "Baghdad city, Madain", 
+    "delivery_mod": "Four wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

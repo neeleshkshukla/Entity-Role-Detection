@@ -1,0 +1,125 @@
+{
+    "LOC": [
+        [
+            "Mahabad", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Turkey", 
+            "199", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "201", 
+            "Neutral"
+        ], 
+        [
+            "Mahabad", 
+            "203", 
+            "Neutral"
+        ], 
+        [
+            "Mahabad", 
+            "218", 
+            "Neutral"
+        ], 
+        [
+            "Tehran", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "United States", 
+            "259", 
+            "Neutral"
+        ], 
+        [
+            "Iranian city", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Iranian Kurdistan", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Iran", 
+            "216", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vahid Jalalzadeh", 
+            "161", 
+            "Comment"
+        ], 
+        [
+            "Mahmoud Ahmadinejad", 
+            "237", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "10:20 a.m.:45"
+    ], 
+    "hot_setting": "Iranian military parade", 
+    "DAT": [
+        "Wednesday:64", 
+        "1946:220", 
+        "Wednesday:222", 
+        "August 4:227", 
+        "August:227", 
+        "Wednesday:274", 
+        "Wednesday across Iran:274", 
+        "September 22:289", 
+        "September:289"
+    ], 
+    "death": "10", 
+    "title": "Bomb blast at Iranian military parade kills 10", 
+    "det_loc": [
+        "Azerbaijan", 
+        "", 
+        "", 
+        "West Azerbaijan", 
+        "Iranian city of Mahabad in West Azerbaijan province"
+    ], 
+    "terror_group": [
+        "counter-revolutionary groups"
+    ], 
+    "content": "A bomb blast during a military parade has killed at least 10 people and injured 57 in the Iranian city of Mahabad in West Azerbaijan province . This bomb was a time-bomb planted on a tree among the people and it went off at 10:20 a.m. , the website of state-run television IRIB quoted a military official as saying . The blast on Wednesday took place about 50 metres from the parade . None of the soldiers were injured , but the spectators , mostly women and children , were the chief victims of the attack . Iran 's Mehr news agency said wives of two ranking military officers were among the dead . State television showed a short video of soldiers marching in front of the VIP stand at when the bomb went off . Soon after the loud bang , the area was littered with debris , pieces of broken furniture , bits of clothing and footwear . Vahid Jalalzadeh , the Governor of West Azerbaijan province , blamed counter-revolutionary groups for the strike . While no one has claimed responsibility for the attack , Kurdish separatists have been active in West Azerbaijan , which borders Turkey and Iraq . Mahabad was once the capital of the self-proclaimed republic of Iranian Kurdistan . Iran recaptured Mahabad in 1946 . Wednesday 's carnage follows an August 4 attack , which appeared to target Iranian President Mahmoud Ahmadinejad 's motorcade , heading towards the western city of Hamadan . In Tehran , the armed forces chief accused the United States of supporting anti-government groups inside Iran . Several military parades were held on Wednesday across Iran to commemorate the 30th anniversary of the Iran-Iraq war which began on September 22 . These ceremonies are part of the Sacred Defence Week that is being observed throughout Iran . OPEN", 
+    "injured": "57", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb blast:2", 
+        "time-bomb:32"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "National Festivals", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/bomb-blast-at-iranian-military-parade-kills-10/article777955.ece", 
+    "date": "23-09-2010", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "IRIB", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Mehr news agency", 
+            "100", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "LOC": [
+        [
+            "Cheriathura", 
+            "32", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "177", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "179", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "P.D. Somarajan", 
+            "58", 
+            "Others"
+        ], 
+        [
+            "K. Ramakrishnan", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "Somarajan", 
+            "203", 
+            "Others"
+        ], 
+        [
+            "James Philipose", 
+            "389", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "May:34", 
+        "May 17:34", 
+        "May 18:94", 
+        "May:94", 
+        "2007:181", 
+        "2008:183"
+    ], 
+    "death": "6", 
+    "title": "Various types of crude bombs were used at Cheriathura, says report", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Trivandrum", 
+        "Thiruvananthapuram", 
+        "Cheriathura"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A scene-of-occurrence examination report filed by an explosives expert of the State Forensic Sciences Laboratory here has indicated that at least three types of crude bombs were used during rioting at Cheriathura on May 17 , 2009 . Six persons were killed and 30 injured in the violence and police firing . Assistant Director ( Explosives ) P.D. Somarajan , who authored the report , said he had dismantled a powerful bomb fashioned out of four sticks of gelignite connected to a safety fuse and a detonator at the scene of violence on May 18 . The bomb was found in the compound of a house , the front portion of which was damaged in an explosion . The device had the potency to destroy an area of 10 square metres . Inter-State links Earlier , representatives of the Kerala Police Officers ' Association had deposed before the inquiry commission , headed by District Judge K. Ramakrishnan , that the gelignite sticks recovered from the scene were of the same type used for the blasts in Hyderabad and Jaipur in 2007 and 2008 , respectively . Those blasts have been suspected to be the handiwork of a home-grown terrorist outfit . Mr. Somarajan 's report said he found two launcher-type explosive devices . On ignition the bomb will be exploded and the container will act as a missile . Severe burst and burning effect will result owing to the explosion of these types of bombs , it said . The forensic expert recovered a plastic bucket , which , he said , contained the residue of explosive materials . The container could have been used for carrying crude throw-down type bombs designed to explode on impact when hurled against a hard surface . He also saw signs of multiple explosions at a place of worship in the locality . The burst portions of different types of improvised explosive devices were strewn all over the area , the report said . The metallic portions of the crude bombs , though rusted , indicated that they were from recently exploded bombs . Some of the bomb fragments bore the smell of petroleum products . The lab 's experts also recovered a glass bottle of 375-ml capacity . It was seen fitted with a wick and contained some inflammable liquid . James Philipose , Director of the lab , was present along with senior police officials when the scene of crime was examined . OPEN", 
+    "injured": "30", 
+    "org_unorg": "Organized", 
+    "O": [
+        "scene-of-occurrence examination report:2", 
+        "laboratory:15", 
+        "crude bombs:25", 
+        "rioting:30", 
+        "violence:48", 
+        "firing:51", 
+        "assistant:53", 
+        "assistant director:53", 
+        "director:54", 
+        "report:64", 
+        "bomb:72", 
+        "gelignite:79", 
+        "safety fuse:83", 
+        "detonator:87", 
+        "scene:90", 
+        "violence:92", 
+        "bomb:98", 
+        "compound:103", 
+        "front portion:109", 
+        "explosion:117", 
+        "device:120", 
+        "potency:123", 
+        "inter-state links:133", 
+        "inquiry commission:149", 
+        "gelignite:161", 
+        "scene:166", 
+        "handiwork:195", 
+        "terrorist outfit:199", 
+        "launcher-type explosive:210", 
+        "ignition:215", 
+        "bomb:217", 
+        "container:223", 
+        "missile:228", 
+        "burst:231", 
+        "effect:234", 
+        "result:236", 
+        "explosion:240", 
+        "expert:252", 
+        "plastic bucket:255", 
+        "residue:265", 
+        "explosive:267", 
+        "container:271", 
+        "crude throw-down type:278", 
+        "impact:286", 
+        "burst:311", 
+        "explosive:318", 
+        "report:328", 
+        "crude bombs:336", 
+        "bombs:349", 
+        "bomb:354", 
+        "smell:358", 
+        "petroleum:360", 
+        "glass bottle:370", 
+        "375-ml capacity:373", 
+        "liquid:387"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/various-types-of-crude-bombs-were-used-at-cheriathura-says-report/article634959.ece", 
+    "date": "17-05-2009", 
+    "target": "Religious Places", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Thrown", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "State Forensic Sciences Laboratory", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "Kerala Police Officers ' Association", 
+            "140", 
+            "Others"
+        ]
+    ]
+}

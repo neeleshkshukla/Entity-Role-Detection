@@ -1,0 +1,273 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Iraq'
+p4
+aS'8'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Baghdad'
+p8
+aS'50'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Iraq'
+p12
+aS'66'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Kut'
+p16
+aS'103'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Aziziyah'
+p20
+aS'105'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Mahmudiyah'
+p24
+aS'107'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Nasiriyah'
+p28
+aS'109'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Basra'
+p32
+aS'111'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Kut'
+p36
+aS'115'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Wasit'
+p40
+aS'120'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Baghdad'
+p44
+aS'126'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Aziziyah'
+p48
+aS'157'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Basra'
+p52
+aS'183'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Nasiriyah'
+p56
+aS'212'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Iraq'
+p60
+aS'249'
+p61
+aS'Event'
+p62
+aasS'PER'
+p63
+(lp64
+sS'TIM'
+p65
+(lp66
+S'morning : 52'
+p67
+asS'hot_setting'
+p68
+S''
+p69
+sS'DAT'
+p70
+(lp71
+S'Sunday : 13'
+p72
+aS'2008 : 235'
+p73
+aS'2006 : 251'
+p74
+aS'2007 : 253'
+p75
+asS'death'
+p76
+S'20'
+p77
+sS'title'
+p78
+S'Wave of car bombs kills 20 in Iraq'
+p79
+sS'det_loc'
+p80
+(lp81
+S'Iraq'
+p82
+ag69
+ag69
+aS'Kut, Aziziyah, Mahmudiyah, Nasiriyah and Basra'
+p83
+aS'Outside a restaurant in an industrial area in Kut.  In the main marketplace and near a Shiite mosque in Aziziyah.'
+p84
+asS'terror_group'
+p85
+(lp86
+g69
+asS'content'
+p87
+S"A wave of car bombs in southern Iraq killed 20 people on Sunday as the country grapples with a spike in violence and prolonged political deadlock , sparking fears of all-out sectarian war . In all , seven vehicles rigged with explosives went off in five cities south of Baghdad during morning rush hour , leaving 56 people wounded in primarily Shiite Muslim areas of Iraq . No group immediately claimed responsibility for the attacks , but Sunni militant groups linked to Al-Qaeda frequently target Shiites , whom they regard as apostates , in coordinated attacks . Car bombs went off in Kut , Aziziyah , Mahmudiyah , Nasiriyah and Basra , officials said.In Kut , provincial capital of Wasit and 160 kilometres south of Baghdad , a car bomb exploded outside a restaurant in an industrial area packed with vehicle repair garages , killing seven people and wounding 15 . Another car bomb in nearby Aziziyah in the town 's main marketplace and near a Shiite mosque killed five and wounded 10 . Twin blasts in the southern port city of Basra , meanwhile , killed five people , including a bomb disposal expert looking to defuse one of the rigged vehicles . Three others were killed in bombings in Nasiriyah and Mahmudiyah.The violence was the latest in a spike in attacks nationwide , with last month registering the highest death toll since 2008 , sparking fears of a return to the all-out sectarian war that blighted Iraq in 2006 and 2007 . AFP OPEN"
+p88
+sS'injured'
+p89
+S'56'
+p90
+sS'org_unorg'
+p91
+S'ORGANISED'
+p92
+sS'O'
+p93
+(lp94
+S'car bombs:4'
+p95
+aS'grapples:17'
+p96
+aS'violence:22'
+p97
+aS'sectarian war:32'
+p98
+aS'explosives:42'
+p99
+aS'five cities:46'
+p100
+aS'shiite muslim areas:62'
+p101
+aS'attacks:75'
+p102
+aS'sunni militant groups:78'
+p103
+aS'shiites:86'
+p104
+aS'coordinated attacks:95'
+p105
+aS'car bombs:98'
+p106
+aS'car bomb:129'
+p107
+aS'restaurant:134'
+p108
+aS'industrial area:137'
+p109
+aS'car bomb:153'
+p110
+aS'marketplace:163'
+p111
+aS'shiite mosque:167'
+p112
+aS'twin blasts:175'
+p113
+aS'bomb disposal expert:193'
+p114
+aS'rigged vehicles:202'
+p115
+aS'bombings:210'
+p116
+aS'violence:215'
+p117
+aS'attacks nationwide:223'
+p118
+aS'sectarian war:245'
+p119
+asS'unexpl'
+p120
+(lp121
+g69
+asS'ocassion'
+p122
+g69
+sS'link'
+p123
+S'http://www.thehindu.com/todays-paper/tp-in-school/wave-of-car-bombs-kills-20-in-iraq/article4821349.ece'
+p124
+sS'date'
+p125
+S'16-06-2013'
+p126
+sS'target'
+p127
+S'SHIA ISLAM'
+p128
+sS'hot_spot'
+p129
+S'Cities in primarily Shiite Muslim areas of Iraq'
+p130
+sS'delivery_mod'
+p131
+S'CAR'
+p132
+sS'delivery_met'
+p133
+S'PLANTED'
+p134
+sS'expl'
+p135
+(lp136
+g69
+asS'ORG'
+p137
+(lp138
+(lp139
+S'Al-Qaeda'
+p140
+aS'83'
+p141
+aS'Accused'
+p142
+aa(lp143
+S'AFP'
+p144
+aS'255'
+p145
+aS'Others'
+p146
+aas.

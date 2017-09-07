@@ -1,0 +1,96 @@
+{
+    "LOC": [
+        [
+            "Bangkok", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Israel", 
+            "57", 
+            "Neutral"
+        ], 
+        [
+            "Bangkok", 
+            "114", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Saeid Moradi", 
+            "73", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 13", 
+        "2012 : 62"
+    ], 
+    "death": "", 
+    "title": "Thai court jails Iran pair over plot", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two Iranian men were sentenced to between 15 years and life on Thursday for alleged involvement in a botched bomb plot last year in Bangkok that ended with one of them having his legs blown off . The pair , who had denied the charges , were among five Iranians suspected of involvement in blasts that Israel has linked to a 2012 spate of attacks on its diplomats across the world . Saeid Moradi ( 29 , in picture ) , who lost his limbs as he hurled an explosive device at police in the Thai capital , was found guilty on charges including attempted murder and handed a life term by the Bangkok Southern Criminal court . The court found him guilty of carrying explosives in public , using explosives to attempt to kill officials and using explosives which caused the destruction of property . AFP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Thailand", 
+        "", 
+        "", 
+        "Bangkok", 
+        ""
+    ], 
+    "O": [
+        "two iranian men:1", 
+        "sentenced:5", 
+        "15 years and life:8", 
+        "botched bomb plot:19", 
+        "legs blown off:34", 
+        "denied:43", 
+        "charges:45", 
+        "five iranians suspected:49", 
+        "blasts:55", 
+        "attacks:65", 
+        "diplomats:68", 
+        "explosive device:90", 
+        "police:93", 
+        "thai capital:96", 
+        "guilty:101", 
+        "attempted murder:105", 
+        "guilty:123", 
+        "carrying explosives:125", 
+        "explosives:131", 
+        "attempt to kill officials:133", 
+        "explosives:139", 
+        "destruction:143"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/thai-court-jails-iran-pair-over-plot/article5050653.ece", 
+    "date": "14-02-2012", 
+    "target": "POLICE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bangkok Southern Criminal court", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "147", 
+            "Others"
+        ]
+    ]
+}

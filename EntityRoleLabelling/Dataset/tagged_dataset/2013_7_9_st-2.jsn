@@ -1,0 +1,229 @@
+{
+    "LOC": [
+        [
+            "Mahabodhi temple", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Bihars", 
+            "13", 
+            "Event"
+        ], 
+        [
+            "Gaya", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Gaya", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Gaya", 
+            "72", 
+            "Accused Location"
+        ], 
+        [
+            "Delhi", 
+            "194", 
+            "Neutral"
+        ], 
+        [
+            "Baiju Bigha", 
+            "439", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vinod Mistri", 
+            "63", 
+            "Accused"
+        ], 
+        [
+            "Vinod", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "Abhayanand", 
+            "94", 
+            "Comment"
+        ], 
+        [
+            "Nayyar Hasnain Khan", 
+            "110", 
+            "Comment"
+        ], 
+        [
+            "Vinod", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "Vinod", 
+            "152", 
+            "Accused"
+        ], 
+        [
+            "Nayyar Hasnain Khan", 
+            "306", 
+            "Comment"
+        ], 
+        [
+            "Abhayanand", 
+            "398", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "1 a.m.:201", 
+        "4 a.m.:204", 
+        "48 hours : 235"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 25", 
+        "Sunday : 207", 
+        "Monday : 402"
+    ], 
+    "death": "", 
+    "title": "NIA questions man for Bodh Gaya blasts", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": ": A day after serial blasts rocked the Mahabodhi temple complex in Bihars Gaya district , the National Investigation Agency ( NIA ) on Monday interrogated one person detained in connection with the incident . A team of the central agency arrived in Gaya to investigate the case . Based on a bag found in the temple premises , the police detained Vinod Mistri , resident of the Barachatti block in Gaya . Vinod was picked up based on certain information . His photo identity card was found in the temple premises , Abhayanand , Director General of Police , told reporters here . Deputy Inspector General of Police Nayyar Hasnain Khan told The Hindu that Vinod is a carpenter who made small furniture . The bag found contained a monks robe , a piece of paper with some mobile numbers , medical papers and a voter identity card belonging to Vinod . He is not a monk . So the NIA is investigating why he was carrying the robe , a police source told The Hindu . The mobile numbers on the papers , sources told The Hindu , were traced to Delhi and some calls were made between 1 a.m. and 4 a.m. on Sunday , just hours before the bombs went off . The link with these numbers is being investigated . In addition , the NIA is also probing nearly 48 hours or roughly 48 GB of CCTV footage gathered from 16 cameras installed in the temple . One of these cameras has not been functioning for some time . The blurred footage showing the movement of people inside the temple has provided some clues , a police official said . We are examining and monitoring the footage . There is no clear indication yet , Deputy Inspector General of Police Nayyar Hasnain Khan told The Hindu . Meanwhile , investigators have confirmed that ammonium nitrate , timers and gas cylinders were used in the blasts . Vague traces of TNT ( trinitrotoluene ) and RDX were found , but there is no confirmation on whether these substances were used in the explosives . The samples collected from the blast site have been sent for forensic examination . About 21/2 kg gas cylinders were used in nearly all the blasts . RDX traces are possible , but nothing is confirmed yet , Mr. Abhayanand said . On Monday , the police found another exploded bomb further away from the temple , taking the total number of bombs to 13 10 exploded and three defused . Splinters of the latest bomb were found in the Baiju Bigha area , about 1.10 kilometres from the temple , the DGP said . Investigators have found three pieces of text , carrying brief markers of the location of the bombs , on chits pasted on the cylinders . The chits were recovered from the three live bombs , which were later defused . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Gaya", 
+        "", 
+        "Bodh Gaya Temple"
+    ], 
+    "O": [
+        "serial blasts:5", 
+        "interrogated:26", 
+        "connection:31", 
+        "incident:34", 
+        "central agency:40", 
+        "temple:57", 
+        "temple premises:57", 
+        "Barachatti block:69", 
+        "certain information:80", 
+        "photo identity card:84", 
+        "temple premises:91", 
+        "reporters:102", 
+        "carpenter:120", 
+        "bag:127", 
+        "monks robe:131", 
+        "piece of paper:135", 
+        "mobile numbers:140", 
+        "medical papers:143", 
+        "a voter identity card:146", 
+        "monk:158", 
+        "robe:170", 
+        "mobile numbers:180", 
+        "papers:184", 
+        "traced:192", 
+        "calls:197", 
+        "bombs went off:213", 
+        "link:218", 
+        "probing:233", 
+        "48 GB:239", 
+        "CCTV footage:242", 
+        "16 cameras installed:246", 
+        "temple:251", 
+        "cameras:256", 
+        "blurred footage:266", 
+        "clues:279", 
+        "examining:288", 
+        "monitoring:290", 
+        "footage:292", 
+        "ammonium nitrate:319", 
+        "timers:322", 
+        "gas cylinders:324", 
+        "blasts:330", 
+        "Vague traces:332", 
+        "TNT:335", 
+        "trinitrotoluene:337", 
+        "RDX:340", 
+        "explosives:357", 
+        "blast site:364", 
+        "forensic examination:370", 
+        "21/2 kg gas cylinders:374", 
+        "blasts:384", 
+        "RDX traces:386", 
+        "exploded bomb:408", 
+        "temple:414", 
+        "10 exploded:424", 
+        "three defused:427", 
+        "Splinters:430", 
+        "latest bomb:433", 
+        "temple:448", 
+        "three pieces of text:457", 
+        "bombs:470", 
+        "cylinders:477", 
+        "three live bombs:485", 
+        "defused:492"
+    ], 
+    "unexpl": [
+        "ELECTRONIC TIMERS", 
+        "GAS CYLINDER"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/nia-questions-man-for-bodh-gaya-blasts/article4896401.ece", 
+    "date": "02-07-2013", 
+    "target": "TEMPLE", 
+    "hot_spot": "Bodh Gaya Temple", 
+    "delivery_mod": "GAS CYLINDER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "22", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "176", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "188", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "230", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "310", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "LOC": [
+        [
+            "Coimbatore", 
+            "30", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Coimbatore", 
+            "136", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Moosa Mohideen", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "Aftab Alam", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "R.M. Lodha", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "A.N.Maudhany", 
+            "102", 
+            "Others"
+        ], 
+        [
+            "L.K.Advani", 
+            "134", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:5", 
+        "1998:29", 
+        "December 2009:79", 
+        "February 14 , 1998 : 114"
+    ], 
+    "death": "58", 
+    "title": "Supreme Court notice to State", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Supreme Court on Monday issued notice to the Tamil Nadu government on appeals filed by accused Moosa Mohideen and 17 others , awarded life imprisonment in the 1998 Coimbatore serial blast case challenging a Madras High Court judgment upholding the trial court 's order . A Bench of Justice Aftab Alam and Justice R.M. Lodha issued notice to the State on appeals seeking to quash the High Court judgment . The High Court by its judgment in December 2009 while confirming an order of the lower court convicting the accused had also upheld the order of acquittal of PDP leader A.N.Maudhany . Fifty-eight persons died in the bomb blasts that occurred on February 14 , 1998 and over 250 were injured . The blasts coincided with the visit of senior BJP leader L.K.Advani to Coimbatore to attend an election rally . The appellants contended that the trial court had not properly appreciated the evidence , including the fact that the investigation was tainted . Further , the clubbing of cases was illegal and there was selective prosecution of Al Umma organisation . There was no evidence of conspiracy , transportation of explosives , manufacture , distribution and planting of bombs . The High Court had erroneously confirmed the life sentence against them , the appellants said and prayed for quashing the impugned judgment . OPEN", 
+    "injured": "250", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "notice:7", 
+        "life imprisonment:25", 
+        "coimbatore serial blast case:30", 
+        "madras high court judgment:36", 
+        "trial court 's order:42", 
+        "bench of justice:48", 
+        "high court judgment:68", 
+        "order:84", 
+        "court:88", 
+        "order:96", 
+        "pdp leader:100", 
+        "bomb blasts:109", 
+        "blasts:125", 
+        "bjp leader:132", 
+        "election rally:140", 
+        "trial court:148", 
+        "evidence:155", 
+        "investigation:162", 
+        "selective prosecution:177", 
+        "al umma organisation:180", 
+        "evidence:187", 
+        "erroneously:207", 
+        "life sentence:210", 
+        "impugned judgment:223"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/supreme-court-notice-to-state/article1479133.ece", 
+    "date": "21-02-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Supreme Court", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu government", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Madras High Court", 
+            "36", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "PDP", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Al Umma", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "204", 
+            "Others"
+        ]
+    ]
+}

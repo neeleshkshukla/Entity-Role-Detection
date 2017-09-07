@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "Pitampura", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Lok Vihar", 
+            "88", 
+            "Neutral"
+        ], 
+        [
+            "Pitampura", 
+            "91", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Pramod Jain", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "Jain", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "Gyanender", 
+            "202", 
+            "Accused"
+        ], 
+        [
+            "Gyanender", 
+            "227", 
+            "Accused"
+        ], 
+        [
+            "Gyanender", 
+            "269", 
+            "Accused"
+        ], 
+        [
+            "Gyanender", 
+            "296", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:93", 
+        "May:189", 
+        "Wednesday:258"
+    ], 
+    "death": "", 
+    "title": "Aping embassy blast, man bombs associate's car", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Taking a cue from the Israeli Embassy car blast , a movie vendor allegedly bombed the vehicle of a businessman with a crude explosive device at Pitampura here in a bid to extort Rs .5 crore from him . The police claim to have seized from him a crude bomb and a consignment of potassium sulphide . Loud explosion Pramod Jain was on his way to attend a function along with his family when he heard a loud explosion from the rear end of his car near Lok Vihar in Pitampura on Wednesday . Taking it to be a cracker thrown by some mischievous children , the businessman did not report the matter to the police . The next day , Mr. Jain received a call followed by a text message from an unknown number demanding a ransom of Rs .5 crore . Threatening call The caller threatened to injure him and his members if the demand was not met . Investigations revealed the mobile number used to make the call and send the text message had been procured using forged documents and had been in use since May . The police zeroed in on the user and identified him as Gyanender , an acquaintance of the businessman , who supplied movie DVDs at this residence on rent . Potassium sulphide seized The police then raided Gyanender 's residence and seized potassium sulphide and a crude bomb that explodes on impact . During interrogation , he purportedly disclosed that he had prepared two crude bombs and on Wednesday , tailed the businessman 's car on his motorcycle . Gyanender threw one the bombs at the rear bumper of the vehicle , which caused the blast . Based on the findings , the police have arrested Gyanender and seized the mobile phone used in the commission of crime . Accused threw a crude bomb at rear bumper of vehicleCalled , SMSed victim demanding Rs.5-crore ransom Accused threw a crude bomb at rear bumper of vehicle Called , SMSed victim demanding Rs.5-crore ransom OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Israel", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Israeli Embassy car blast:6", 
+        "vehicle:17", 
+        "businessman:20", 
+        "claim:42", 
+        "crude bomb:49", 
+        "potassium sulphide:55", 
+        "explosion:59", 
+        "explosion:79", 
+        "businessman:108", 
+        "text message:130", 
+        "potassium sulphide:220", 
+        "crude bomb:236", 
+        "interrogation:244", 
+        "crude:254", 
+        "car:264", 
+        "motorcycle:267", 
+        "vehicle:280", 
+        "blast:285", 
+        "accused:309", 
+        "crude bomb:312", 
+        "rear bumper:315", 
+        "victim:321", 
+        "accused:325", 
+        "crude bomb:328", 
+        "rear bumper:331", 
+        "vehicle:334", 
+        "victim:338"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/aping-embassy-blast-man-bombs-associates-car/article2909093.ece", 
+    "date": "15-02-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Thrown", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,299 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Karnataka'
+p4
+aS'27'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Tamil Nadu'
+p8
+aS'542'
+p9
+aS'Neutral'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Lalrokhuma Pachau'
+p14
+aS'128'
+p15
+aS'Comment'
+p16
+aa(lp17
+S'Raghavendra Auradkar'
+p18
+aS'226'
+p19
+aS'Others'
+p20
+aa(lp21
+S'Shivamurthy'
+p22
+aS'348'
+p23
+aS'Comment'
+p24
+aa(lp25
+S'Raghavendra Auradkar'
+p26
+aS'495'
+p27
+aS'Others'
+p28
+aa(lp29
+S'Shivamurthy'
+p30
+aS'649'
+p31
+aS'Comment'
+p32
+aasS'TIM'
+p33
+(lp34
+S'10.30 AM : 196'
+p35
+aS'Today : 211'
+p36
+aS'last day : 214'
+p37
+aS'weeks : 452'
+p38
+aS'weeks : 466'
+p39
+aS'Today : 475'
+p40
+asS'hot_setting'
+p41
+S''
+p42
+sS'DAT'
+p43
+(lp44
+S'May five : 37'
+p45
+aS'May five : 433'
+p46
+asS'death'
+p47
+g42
+sS'title'
+p48
+S'Bomb blast near BJP office in Bangalore, several injured'
+p49
+sS'org_unorg'
+p50
+g42
+sS'terror_group'
+p51
+(lp52
+g42
+asS'content'
+p53
+VBANGALORE : At least 16 people , including eight policemen , were injured when an `` incendiary bomb '' placed in a motorbike exploded near the Karnataka BJP city office buzzing with activity ahead of the May five Assembly polls . . . The policemen were on security duty as part of the bandobast arrangements for the BJP office in view of the polls when the explosion ripped through the crowded area damaging two vans , a Karnataka State Reserve Police vehicle and a motorbike , top police officials said . . . `` Due to the blast , 16 people are injured -- eight policemen on duty and eight civilians . Nobody is critically injured . All are being treated at hospital , '' State DGP Lalrokhuma Pachau told reporters at the spot . . . A National Investigative Agency team has arrived here , he said , adding , forensic experts would also be joining them . . . `` As of now , we do not know what is the material of the bomb blast . We will know after examination , '' he said . . . The blast occurred around 10.30 AM when the BJP office is normally brimming with party workers and candidates . Today is the last day for filing of nominations . . . City Police Commissioner Raghavendra Auradkar , citing preliminary investigation , said , `` It is an explosion '' , adding a motorbike with an `` incendiary bomb '' was used . The bike was planted in the midst of cars , he said . . . `` At this stage , I ca n't say what kind of explosion it was '' , the police chief . Police said `` explosive and incendiary materials '' were used . . . According to them , Police personnel were injured as they rushed out of their vehicle parked nearby the party office on seeing the vehicles going up in flames . . . Two of the injured were college students who were returning home after tution , Shivamurthy , an eye witness , said , adding BJP workers shifted some of the injured to hospital . . . Initial reports had said the explosion could have been caused by an LPG cylinder fitted to a car . . . According to eye witnesses , a loud noise was heard and some vehicles went up in flames , sending the people to flee in panic . Police have cordoned off the area . . . With the state going to Assembly polls on May five , the BJP office located in a residential locality is abuzz with activity for the past few weeks . The BJP office is overflowing with party workers since the past few weeks with state and national leaders frequenting it . Today is the last date for filing of nominations and more rush was expected . . . City Police Commissioner Raghavendra Auradkar , citing preliminary investigation , said , `` It is an explosion '' , adding a motorbike with an `` incendiary bomb '' was used . . . The state BJP said the police had confirmed that the bomb was placed in the bike bearing Tamil Nadu registration number . It said it had happened when party state president , Chief Minister and national leaders could have been present considering the Assembly polls . . . Describing the dastardly blast as an attempt to weaken the party 's morale , BJP said that its workers need not fear or be cowed down by it . . . According to them , police personnel were injured as they rushed out of their vehicle parked nearby the party office on seeing the vehicles going up in flames . . . Two of the injured were college students who were returning home after tuition , Shivamurthy , an eye witness , said , adding BJP workers shifted some injured to hospital .
+p54
+sS'injured'
+p55
+S'16'
+p56
+sS'det_loc'
+p57
+(lp58
+S'India'
+p59
+aS'Karnataka'
+p60
+aS'Bangalore Urban'
+p61
+aS'Bangalore'
+p62
+ag42
+asS'O'
+p63
+(lp64
+S'incendiary bomb:17'
+p65
+aS'motorbike exploded:23'
+p66
+aS'Assembly polls:39'
+p67
+aS'explosion:67'
+p68
+aS'motorbike:85'
+p69
+aS'blast:98'
+p70
+aS'injured:103'
+p71
+aS'injured:116'
+p72
+aS'forensic experts:152'
+p73
+aS'bomb blast:177'
+p74
+aS'blast:193'
+p75
+aS'party workers:206'
+p76
+aS'candidates:209'
+p77
+aS'nominations:219'
+p78
+aS'preliminary investigation:230'
+p79
+aS'explosion:239'
+p80
+aS'bomb:249'
+p81
+aS'explosion:281'
+p82
+aS'injured:310'
+p83
+aS'injured:337'
+p84
+aS'injured:363'
+p85
+aS'explosion:374'
+p86
+aS'LPG cylinder:381'
+p87
+aS'Assembly polls:430'
+p88
+aS'party workers:460'
+p89
+aS'investigation:500'
+p90
+aS'explosion:508'
+p91
+aS'incendiary bomb:517'
+p92
+aS'bomb:535'
+p93
+aS'Assembly polls:568'
+p94
+aS'blast:576'
+p95
+aS'injured:611'
+p96
+aS'injured:638'
+p97
+asS'unexpl'
+p98
+(lp99
+g42
+asS'ocassion'
+p100
+g42
+sS'link'
+p101
+S'http://articles.economictimes.indiatimes.com/2013-04-17/news/38616361_1_karnataka-bjp-bjp-office-state-bjp'
+p102
+sS'date'
+p103
+S'17-04-2013'
+p104
+sS'target'
+p105
+g42
+sS'hot_spot'
+p106
+g42
+sS'delivery_mod'
+p107
+S'MOTORCYCLE'
+p108
+sS'delivery_met'
+p109
+S'PLANTED'
+p110
+sS'expl'
+p111
+(lp112
+g42
+asS'ORG'
+p113
+(lp114
+(lp115
+S'BJP'
+p116
+aS'28'
+p117
+aS'Victim'
+p118
+aa(lp119
+S'BJP'
+p120
+aS'58'
+p121
+aS'Victim'
+p122
+aa(lp123
+S'Karnataka State Reserve Police'
+p124
+aS'78'
+p125
+aS'Others'
+p126
+aa(lp127
+S'National Investigative Agency'
+p128
+aS'139'
+p129
+aS'Others'
+p130
+aa(lp131
+S'BJP'
+p132
+aS'200'
+p133
+aS'Victim'
+p134
+aa(lp135
+S'BJP'
+p136
+aS'357'
+p137
+aS'Victim'
+p138
+aa(lp139
+S'BJP'
+p140
+aS'437'
+p141
+aS'Victim'
+p142
+aa(lp143
+S'BJP'
+p144
+aS'455'
+p145
+aS'Victim'
+p146
+aa(lp147
+S'BJP'
+p148
+aS'527'
+p149
+aS'Victim'
+p150
+aa(lp151
+S'BJP'
+p152
+aS'587'
+p153
+aS'Victim'
+p154
+aa(lp155
+S'BJP'
+p156
+aS'658'
+p157
+aS'Victim'
+p158
+aas.

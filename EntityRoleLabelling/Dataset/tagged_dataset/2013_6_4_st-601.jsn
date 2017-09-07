@@ -1,0 +1,191 @@
+{
+    "LOC": [
+        [
+            "eastern Afghanistan", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Paktia", 
+            "89", 
+            "Neutral"
+        ], 
+        [
+            "Samkani", 
+            "102", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "134", 
+            "Neutral"
+        ], 
+        [
+            "district administrative office", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "195", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "199", 
+            "Neutral"
+        ], 
+        [
+            "Laghman", 
+            "284", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Zelmia Oryakhail", 
+            "82", 
+            "Others"
+        ], 
+        [
+            "Saleh Mohammad Ahsas", 
+            "152", 
+            "Others"
+        ], 
+        [
+            "Oryakhail", 
+            "231", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:20", 
+        "Monday:234", 
+        "Monday:278", 
+        "2014:297"
+    ], 
+    "death": "12", 
+    "title": "Suicide blast kills 9 Afghan schoolchildren", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "KABUL", 
+        "American military delegation"
+    ], 
+    "terror_group": [
+        "TALIBAN"
+    ], 
+    "content": "A suicide bomber targeting an American military delegation outside a government office in eastern Afghanistan killed 12 people on Monday , including nine schoolchildren who were walking nearby and two international service members , officials said . The attack comes as the Taliban and other militants step up bombings and raids on police posts nationwide in a major test of the ability of Afghan soldiers and police to hold their ground without international military forces , who are withdrawing . General Zelmia Oryakhail , provincial police chief of Paktia province , said the bomber on a motorcycle detonated his explosives in Samkani district as American forces passed . He said a local school had just let pupils , who were between 10 and 16 years old , out for the day . The U.S. military delegation had just attended a security briefing at the district administrative office , said district chief Saleh Mohammad Ahsas , who was in the meeting . He said the bomber appeared to have been waiting for the delegation and struck as the Americans left the compound , and the blast killed people walking nearby including the schoolchildren . The U.S. military coalition in Afghanistan confirmed that two of its service members died in the explosion . It did not disclose their nationalities . Officials gave conflicting initial reports on the death toll , but Gen. Oryakhail said late Monday he had accounted for all the bodies many burned beyond recognition and the final count was one policeman and nine dead from the school , along with the two coalition troops . Seven more civilians , including two children , were killed on Monday in the eastern province of Laghman when their vehicle hit a bomb in the road . As the 2014 withdrawal of most international forces looms , insurgents are intensifying their attacks using a broad range of tactics from suicide bombings to improvised bombs that are often accidentally detonated by passing vehicles , killing civilians . AP OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "suicide bomber:2", 
+        "government office:11", 
+        "bomber:94", 
+        "detonated:98", 
+        "delegation:136", 
+        "security briefing:141", 
+        "americans:178", 
+        "service:205", 
+        "explosion:210", 
+        "death toll:226", 
+        "school:258", 
+        "laghman:284", 
+        "vehicle hit:287", 
+        "insurgents:305", 
+        "detonated:326"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/suicide-blast-kills-9-afghan-schoolchildren/article4780247.ece", 
+    "date": "03-06-2013", 
+    "target": "AMERICAN MILITARY", 
+    "hot_spot": "eastern Afghanistan", 
+    "delivery_mod": "MOTORCYCLES", 
+    "delivery_met": "SUICIDE ATTACKERS", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "American military", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "government office", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "Taliban", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "militants", 
+            "46", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Afghan soldiers", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "international military forces", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "American forces", 
+            "105", 
+            "Others"
+        ], 
+        [
+            "military", 
+            "135", 
+            "Others"
+        ], 
+        [
+            "military", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "policeman", 
+            "252", 
+            "Others"
+        ], 
+        [
+            "coalition troops", 
+            "264", 
+            "Others"
+        ], 
+        [
+            "international forces", 
+            "301", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "LOC": [
+        [
+            "Ajmer dargah", 
+            "29", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ajmer", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Hyderabad 's Makkah Masjid", 
+            "102", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Rajasthan", 
+            "165", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "New Delhi", 
+            "251", 
+            "Neutral"
+        ], 
+        [
+            "Makkah Masjid", 
+            "257", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ajmer dargah", 
+            "295", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ajmer dargah", 
+            "313", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Makkah Masjid", 
+            "316", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Malegaon", 
+            "319", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Dangs", 
+            "344", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "346", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Indresh Kumar", 
+            "22", 
+            "Accused"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "Aseemanand", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "Kumar", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Aseemanand", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "Kumar", 
+            "198", 
+            "Accused"
+        ], 
+        [
+            "Kumar", 
+            "229", 
+            "Accused"
+        ], 
+        [
+            "Kumar", 
+            "240", 
+            "Accused"
+        ], 
+        [
+            "Aseemanand", 
+            "276", 
+            "Accused"
+        ], 
+        [
+            "Kumar", 
+            "282", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007:28", 
+        "Sunday:131", 
+        "October:143", 
+        "October 31 , 2005:213"
+    ], 
+    "death": "", 
+    "title": "Rajasthan Police to quiz RSS leader", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Anti-Terrorism Squad ( ATS ) of Rajasthan Police is all set to summon and interrogate senior Rashtriya Swayamsevak Sangh leader Indresh Kumar in connection with the 2007 Ajmer dargah blast , which claimed three lives , after the prime accused Swami Aseemanand is brought to Ajmer and questioned about his recent revelations on the series of terror attacks on Muslims religious places . The ATS , which has obtained warrants for Aseemanand 's arrest from the Ajmer Sessions Court , is likely to get his custody on transit remand . He has been interrogated by the CBI in connection with Hyderabad 's Makkah Masjid blast and by the National Investigation Agency ( NIA ) on the Samjhauta Express blast . According to the sources in the ATS here on Sunday , Mr. Kumar whose name figures in the charge-sheet filed in October last year in the dargah blast case is likely to be called for grilling as soon as Aseemanand is brought to Rajasthan and questioned about his role in the conspiracy for carrying out bombing at the 13 -LCB- + t -RCB- -LCB- + h -RCB- century Sufi shrine . The charge-sheet stated that Mr. Kumar had addressed a secret meeting of RSS functionaries at a guesthouse in Jaipur on October 31 , 2005 . For want of evidence , the ATS did not mention Mr. Kumar 's name as an accused in the case . Mr. Kumar was recently interrogated by the CBI at its headquarters in New Delhi in connection with the Makkah Masjid blast . In his confessional statement recorded by a Metropolitan Magistrate and admissible in the court , Aseemanand had recently claimed that Mr. Kumar was part of a plan hatched to carry out bomb explosions at Ajmer dargah and elsewhere . Investigating agencies believe that the hard-line Hindutva Swami is the ideologue behind the Ajmer dargah , Makkah Masjid , Malegaon and Samjhauta Express blasts . He also allegedly gave shelter to some of the accused after the dargah blast at his Ashram ' at Dangs in Gujarat . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "interrogate:16", 
+        "rashtriya swayamsevak sangh leader:18", 
+        "ajmer dargah blast:29", 
+        "lives:36", 
+        "prime accused:40", 
+        "terror attacks:58", 
+        "muslims religious places:61", 
+        "warrants:71", 
+        "aseemanand 's arrest:73", 
+        "custody:87", 
+        "transit remand:89", 
+        "interrogated:95", 
+        "hyderabad 's makkah masjid blast:102", 
+        "samjhauta express blast:118", 
+        "charge-sheet:140", 
+        "dargah blast case:148", 
+        "conspiracy:173", 
+        "bombing:177", 
+        "sufi shrine:190", 
+        "charge-sheet:194", 
+        "makkah masjid blast:257", 
+        "confessional statement:263", 
+        "metropolitan magistrate:268", 
+        "court:274", 
+        "bomb explosions:292", 
+        "hindutva swami:306", 
+        "samjhauta express blasts:321", 
+        "shelter:329", 
+        "dargah blast:337", 
+        "ashram:341"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/rajasthan-police-to-quiz-rss-leader/article1076821.ece", 
+    "date": "11-10-2007", 
+    "target": "Religious Places", 
+    "hot_spot": "Ajmer dargah", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorism Squad", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "5", 
+            "Others"
+        ], 
+        [
+            "Rajasthan Police", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "Rashtriya Swayamsevak Sangh", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "66", 
+            "Others"
+        ], 
+        [
+            "Ajmer Sessions Court", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "RSS", 
+            "205", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "246", 
+            "Others"
+        ]
+    ]
+}

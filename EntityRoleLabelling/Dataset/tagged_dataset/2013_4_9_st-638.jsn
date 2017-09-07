@@ -1,0 +1,119 @@
+{
+    "LOC": [
+        [
+            "central Damascus", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Sabaa Bahrat square", 
+            "40", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Shahbander Street", 
+            "44", 
+            "Neutral"
+        ], 
+        [
+            "Damascus", 
+            "94", 
+            "Event"
+        ], 
+        [
+            "Damascus", 
+            "155", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sunni cleric", 
+            "167", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:13", 
+        "March 21:146"
+    ], 
+    "death": "12", 
+    "title": "Damascus bombing kills 12", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        "", 
+        "central Damascus"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A powerful suicide car bomb ripped through part of central Damascus on Monday , Syrian state media reported , with medical officials saying at least 12 people had been killed and 45 wounded . Terrorists detonate car bomb between Sabaa Bahrat square and Shahbander Street , state television reported , adding preliminary information suggested the explosion was a suicide attack . An AFP correspondent said the explosion caused extensive damage and intense gunfire could be heard shortly afterwards . The force of the blast blew out the windows of the AFP bureau in Damascus , but no staff were hurt . Firefighters rushed to the area and were working to put out fires in cars set ablaze by the explosion , which one state broadcaster said took place near a school , adding children were believed to be among the dead and wounded . On March 21 , a strong explosion ripped through a Damascus mosque killing at least 49 people , including a key pro-regime Sunni cleric . AFP OPEN", 
+    "injured": "45", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "suicide attack:59", 
+        "explosion:67", 
+        "extensive damage:69", 
+        "intense gunfire:72", 
+        "afp:91", 
+        "firefighters:102", 
+        "mosque:156", 
+        "killing:157", 
+        "49 people:160", 
+        "pro-regime:166"
+    ], 
+    "unexpl": [
+        "DETONATE CAR"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/damascus-bombing-kills-12/article4596772.ece", 
+    "date": "08-04-2013", 
+    "target": "", 
+    "hot_spot": "central Damascus", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "SUICIDE ATTACKERS", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Syrian state media", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "medical officials", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "Terrorists", 
+            "35", 
+            "Accused"
+        ], 
+        [
+            "state television", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "school", 
+            "131", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,214 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'5'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'South Extension'
+p8
+aS'33'
+p9
+aS'Event'
+p10
+aa(lp11
+S'South Delhi'
+p12
+aS'36'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Sarai Kale Khan'
+p16
+aS'75'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Sagarpur'
+p20
+aS'82'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Sagarpur'
+p24
+aS'92'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Sagarpur'
+p28
+aS'351'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'South Extension'
+p32
+aS'358'
+p33
+aS'Event'
+p34
+aasS'PER'
+p35
+(lp36
+(lp37
+S'Rai'
+p38
+aS'73'
+p39
+aS'Others'
+p40
+aa(lp41
+S'fidayeen'
+p42
+aS'441'
+p43
+aS'Accused'
+p44
+aasS'TIM'
+p45
+(lp46
+S'night : 41'
+p47
+asS'hot_setting'
+p48
+S''
+p49
+sS'DAT'
+p50
+(lp51
+S'AUG. 12 : 8'
+p52
+aS'Saturday:40'
+p53
+aS'Saturday : 423'
+p54
+asS'death'
+p55
+g49
+sS'title'
+p56
+S'Two injured in Delhi blast'
+p57
+sS'det_loc'
+p58
+(lp59
+S'India'
+p60
+aS'Delhi'
+p61
+aS'New Delhi'
+p62
+aS'Delhi'
+p63
+aS'South Extension'
+p64
+asS'terror_group'
+p65
+(lp66
+S'STUDENTS ISLAMIC MOVEMENT OF INDIA'
+p67
+asS'content'
+p68
+VBy Our Staff Reporter NEW DELHI , AUG. 12 . The Delhi police are on the look out for three young men , suspected to be behind the crude bomb blast at South Extension in South Delhi late on Saturday night . Two persons sustained minor injuries and two autorickshaws and a car were damaged in the explosion . Investigations have revealed that the three had boarded an autorickshaw driven by Manager Rai from Sarai Kale Khan and were bound for Sagarpur in South-West Delhi . Teams have been sent to Sagarpur and other places to trace them . A thorough check of hospitals and nursing homes is also being carried out to see if any person with explosion-related injuries has been admitted . While the exact sequence of events is still not clear , police believe that the explosive material , which was apparently being carried by one of the three , either fell accidentally or was dropped from the autorickshaw following which the explosion occurred . Police have for the time being ruled out the involvement of any militant organisation . `` The time and choice of place and the explosive material used do not point towards a conspiracy to create a major disturbance , '' a senior police officer said . Preliminary investigations into the type of material used have suggested the use of low grade explosives . `` Only nails and other shrapnel have been found , '' the police officer added . Meanwhile , the South Delhi police are zeroing on two possibilities . `` The explosion could be the result of the retaliation from the Students Islamic Movement of India -LRB- SIMI -RRB- after one of their functionary was arrested in a joint operation in the Capital recently , '' a district police officer said . Another possibility is that the miscreants might have decided to get rid of the explosive substance to evade detection . `` In view of the stringent security measures taken for Independence Day , they must have found it difficult to take the explosive material all the way to Sagarpur . So they dumped it at South Extension , '' the officer said . However , police are not ruling out the possibility of the explosive being used to manufacture a more lethal bomb to cause a embarrassment to the police in the run up to the Independence Day celebrations . Following the blast , senior police officers rushed to the spot and took stock of the situation . Only on Saturday , Delhi police had announced that there were threats from militant organisations , which also included `` fidayeen '' attacks by teams comprising women . Meanwhile , security in the Capital has been beefed up following the blast . Senior district police officials are patrolling the sensitive areas in the districts and conducting surprise checks at various places . The police presence in the district has also been increased . Police in the Capital have been put on high alert in view of the incident . . . By Our Staff Reporter . . NEW DELHI , AUG. 12 . The Delhi police are on the look out for three young men , suspected to be behind the crude bomb blast at South Extension in South Delhi late on Saturday night . Two persons sustained minor injuries and two autorickshaws and a car were damaged in the explosion . . . Investigations have revealed that the three had boarded an autorickshaw driven by Manager Rai from Sarai Kale Khan and were bound for Sagarpur in South-West Delhi . Teams have been sent to Sagarpur and other places to trace them . A thorough check of hospitals and nursing homes is also being carried out to see if any person with explosion-related injuries has been admitted . . . While the exact sequence of events is still not clear , police believe that the explosive material , which was apparently being carried by one of the three , either fell accidentally or was dropped from the autorickshaw following which the explosion occurred . . . Police have for the time being ruled out the involvement of any militant organisation . `` The time and choice of place and the explosive material used do not point towards a conspiracy to create a major disturbance , '' a senior police officer said . . . Preliminary investigations into the type of material used have suggested the use of low grade explosives . `` Only nails and other shrapnel have been found , '' the police officer added . . . Meanwhile , the South Delhi police are zeroing on two possibilities . `` The explosion could be the result of the retaliation from the Students Islamic Movement of India -LRB- SIMI -RRB- after one of their functionary was arrested in a joint operation in the Capital recently , '' a district police officer said . . . Another possibility is that the miscreants might have decided to get rid of the explosive substance to evade detection . . . `` In view of the stringent security measures taken for Independence Day , they must have found it difficult to take the explosive material all the way to Sagarpur . So they dumped it at South Extension , '' the officer said . . . However , police are not ruling out the possibility of the explosive being used to manufacture a more lethal bomb to cause a embarrassment to the police in the run up to the Independence Day celebrations . . . Following the blast , senior police officers rushed to the spot and took stock of the situation . . . Only on Saturday , Delhi police had announced that there were threats from militant organisations , which also included `` fidayeen '' attacks by teams comprising women . . . Meanwhile , security in the Capital has been beefed up following the blast . Senior district police officials are patrolling the sensitive areas in the districts and conducting surprise checks at various places . The police presence in the district has also been increased . Police in the Capital have been put on high alert in view of the incident .
+p69
+sS'injured'
+p70
+S'2'
+p71
+sS'org_unorg'
+p72
+S'ORGANISED'
+p73
+sS'O'
+p74
+(lp75
+S'police:136'
+p76
+aS'low grade:228'
+p77
+aS'Independence Day:333'
+p78
+asS'unexpl'
+p79
+(lp80
+g49
+asS'ocassion'
+p81
+g49
+sS'link'
+p82
+S'http://www.thehindu.com/2001/08/13/stories/02130008.htm'
+p83
+sS'date'
+p84
+S'11-08-2001'
+p85
+sS'target'
+p86
+g49
+sS'hot_spot'
+p87
+S'South Extension'
+p88
+sS'delivery_mod'
+p89
+g49
+sS'delivery_met'
+p90
+S'PLANTED'
+p91
+sS'expl'
+p92
+(lp93
+S'CRUDE BOMB'
+p94
+asS'ORG'
+p95
+(lp96
+(lp97
+S'Delhi police'
+p98
+aS'12'
+p99
+aS'Others'
+p100
+aa(lp101
+S'South Delhi police'
+p102
+aS'251'
+p103
+aS'Others'
+p104
+aa(lp105
+S'Students Islamic Movement of India'
+p106
+aS'272'
+p107
+aS'Accused'
+p108
+aa(lp109
+S'SIMI'
+p110
+aS'278'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Delhi police'
+p114
+aS'425'
+p115
+aS'Others'
+p116
+aas.

@@ -1,0 +1,222 @@
+{
+    "LOC": [
+        [
+            "Pune", 
+            "201", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mumbai", 
+            "308", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "323", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazaar", 
+            "326", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "391", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ahmedabad", 
+            "422", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Surat", 
+            "424", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bangalore", 
+            "426", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Delhi", 
+            "428", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Hyderabad", 
+            "430", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "chief Yasin", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "Asadullah Akhtar Javed Akhtar", 
+            "214", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "262", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "262", 
+            "Accused"
+        ], 
+        [
+            "Tahaseen Akhtar Wasim Aktar Shaikh", 
+            "268", 
+            "Accused"
+        ], 
+        [
+            "Asadulla Akhtar Javed Akhtar", 
+            "277", 
+            "Accused"
+        ], 
+        [
+            "Asadulla", 
+            "277", 
+            "Accused"
+        ], 
+        [
+            "Asadulla Akhtar", 
+            "277", 
+            "Accused"
+        ], 
+        [
+            "Akhtar Javed Akhtar", 
+            "278", 
+            "Accused"
+        ], 
+        [
+            "Waqas alias Ahmed", 
+            "285", 
+            "Accused"
+        ], 
+        [
+            "Waqas", 
+            "285", 
+            "Accused"
+        ], 
+        [
+            "Ahmed", 
+            "287", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "408", 
+            "Assoc Accused"
+        ], 
+        [
+            "Asadulla", 
+            "410", 
+            "Assoc Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 12:239", 
+        "July 13 , 2011 : 314", 
+        "August 1 , 2012 . : 394"
+    ], 
+    "death": "27", 
+    "title": "ATS gets spate of tips on IM operatives", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "mumbai", 
+        "blasts occurred at Opera House , Zaveri Bazaar , and Dadar West"
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "The Maharashtra Anti-Terrorism Squad , which had announced rewards amounting to Rs . 10 lakh each on Indian Mujahideen chief Yasin Bhatkal and his three aides allegedly involved in terror cases , have received as many as 40 phone calls in a weeks time seeking to provide them clues , but none of them has yielded results so far . According to the police , the callers claimed they had spotted persons resembling the wanted accused either in a public transport bus or at places like bus stops and railway stations . Besides these telephone calls , about 60 missed calls were received at the numbers provided by the ATS as the callers wanted to verify if they were correct , the police said . When we called them back after the missed calls , the callers said they wanted to verify whether the numbers were correct so that they could make calls if they spot the terrorists , said a police officer . One of the callers asked the ATS to mail him the photographs of the wanted accused as the pictures on the posters were not clear , the police added . Another person who had called from Pune said he had spotted a person resembling one of the wanted accused Asadullah Akhtar Javed Akhtar a few days ago . Following this , an ATS team rushed to him and took down the details . On February 12 , the ATS announced a cash reward of Rs 10 lakh to any person providing information leading to the arrest of Yasin Bhatkal ( 30 ) , Tahaseen Akhtar Wasim Aktar Shaikh ( 23 ) , Asadulla Akhtar Javed Akhtar ( 26 ) and Waqas alias Ahmed ( 26 ) . All the four accused were allegedly involved in three coordinated bomb explosions at different locations in Mumbai during peak evening hours on July 13 , 2011 . The blasts occurred at Opera House , Zaveri Bazaar , and Dadar West , leaving 27 dead and 130 injured . Five accused had been arrested and a 4,000-page charge sheet was filed in May last year in a special MCOCA court . Tahaseen planted the bomb that caused the Dadar blast , and the remaining three were involved in the four coordinated low-intensity explosions , which struck the arterial road in Pune city on August 1 , 2012 . Eight accused had been arrested in this connection . Yasin and Asadulla were involved in blasts that occurred over the past decade in Ahmedabad , Surat , Bangalore , Delhi and Hyderabad , ATS sources said . PTI OPEN", 
+    "injured": "130", 
+    "org_unorg": "Organized", 
+    "O": [
+        "rs . 10 lakh:12", 
+        "chief:20", 
+        "terror:30", 
+        "phone:39", 
+        "time:44", 
+        "public transport bus:80", 
+        "bus:87", 
+        "railway:90", 
+        "telephone:95", 
+        "spot:156", 
+        "officer:163", 
+        "mail:173", 
+        "team:228", 
+        "cash reward:246", 
+        "information:256", 
+        "arrest:260", 
+        "three coordinated bomb explosions:300", 
+        "bomb:302", 
+        "peak evening:310", 
+        "dadar west:330", 
+        "4,000-page charge sheet:347", 
+        "mcoca court:359", 
+        "bomb:365", 
+        "dadar blast:369", 
+        "city:392", 
+        "connection:406", 
+        "decade:420"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/ats-gets-spate-of-tips-on-im-operatives/article4437588.ece", 
+    "date": "13-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "18", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "MCOCA", 
+            "359", 
+            "Others"
+        ]
+    ]
+}

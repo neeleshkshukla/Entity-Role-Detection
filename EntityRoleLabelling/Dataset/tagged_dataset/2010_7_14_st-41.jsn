@@ -1,0 +1,162 @@
+{
+    "LOC": [
+        [
+            "Uttar Pradesh", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Agra", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Kotwali police station", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Bahadurganj", 
+            "134", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "206", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad", 
+            "235", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nand Gopal Gupta Nandi", 
+            "13", 
+            "Victim"
+        ], 
+        [
+            "Nandi", 
+            "119", 
+            "Victim"
+        ], 
+        [
+            "Rakesh Malviya", 
+            "136", 
+            "Victim"
+        ], 
+        [
+            "Brij Lal", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Malviya", 
+            "186", 
+            "Others"
+        ], 
+        [
+            "Nandi", 
+            "193", 
+            "Victim"
+        ], 
+        [
+            "Sanjay", 
+            "229", 
+            "Others"
+        ], 
+        [
+            "Nandi", 
+            "258", 
+            "Victim"
+        ], 
+        [
+            "Lal", 
+            "283", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:20", 
+        "Tuesday:161", 
+        "Monday:164", 
+        "Tuesday:190", 
+        "Monday:208"
+    ], 
+    "death": "1", 
+    "title": "Bomb attack on U.P. Minister: police still clueless", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "More than 24 hours after the bomb attack on Uttar Pradesh Minister Nand Gopal Gupta Nandi in Allahabad on Monday , the Special Task Force and the Anti-Terrorist Squad have not got any clue to the motive . The remnants of the explosives and the Scooty which together with two motorcycles were damaged in the fire caused by the blast have been sent to Agra for examination by a team of the Forensic Science Laboratory . The vehicle 's chassis number was found erased . A First Information Report , under Section 307 of the IPC and Section 3/4 of the Explosive Act , has been filed at the Kotwali police station . Six persons , including Mr. Nandi , were injured in the blast near the Institutional Finance Minister 's residence at Bahadurganj . Rakesh Malviya , one of those who were with the Minister when the blast occurred , died of injuries . The post-mortem was conducted on Tuesday . On Monday , Additional Director-General ( Law and Order ) Brij Lal denied that the blast claimed a life , but he confirmed Malviya 's death on Tuesday . Mr. Nandi was shifted to the Sanjay Gandhi Postgraduate Institute of Medical Sciences in Lucknow on Monday night , and his condition is said to be stable . However , the condition of his police gunner , Sanjay , and that of the Allahabad correspondent of an English daily was critical . The bomb , thought to have been kept in a two-wheeler parked near Mr. Nandi 's residence , was triggered by a remote control device . The investigating teams were uncertain about the type of explosives used . Mr. Lal ruled out the involvement of Maoists in the attack . OPEN", 
+    "injured": "0", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Lucknow", 
+        "Allahabad", 
+        ""
+    ], 
+    "O": [
+        "bomb attack:7", 
+        "special task force:23", 
+        "anti-terrorist squad:28", 
+        "explosive act:102", 
+        "residence:132", 
+        "minister:146", 
+        "director-general:167", 
+        "law and order:169", 
+        "bomb:245", 
+        "two-wheeler:254"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/bomb-attack-on-up-minister-police-still-clueless/article514429.ece", 
+    "date": "12-07-2010", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Special Task Force", 
+            "23", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorist Squad", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "Forensic Science Laboratory", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "Sanjay Gandhi Postgraduate Institute of Medical Sciences", 
+            "198", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "289", 
+            "Accused"
+        ]
+    ]
+}

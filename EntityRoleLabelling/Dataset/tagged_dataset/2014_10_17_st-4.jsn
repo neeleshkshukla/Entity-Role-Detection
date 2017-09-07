@@ -1,0 +1,107 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "144", 
+            "Event"
+        ], 
+        [
+            "Birbhum", 
+            "178", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "227", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hashem Moulla", 
+            "140", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2 : 33", 
+        "Wednesday : 125", 
+        "October 2 : 236"
+    ], 
+    "death": "", 
+    "title": "IEDs seized from Bardhaman blast suspect\u2019s house", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "Kolkata", 
+        ""
+    ], 
+    "terror_group": [
+        "Jamiat-ul-Mujahideen"
+    ], 
+    "content": "The National Investigation Agency ( NIA ) on Thursday seized a sack containing about 40 improvised explosive devices from the house of a suspect wanted in connection with the Bardhaman blast on October 2 . `` The NIA officers are being assisted by the National Security Guard team in safe disposal of the devices , as the house is located in a thickly-populated area , said a senior NIA official . `` A hunt has been launched for the suspect , who went missing after the blast . The suspect 's house , which has been cordoned off for gathering forensic evidence , is located close to the building where the explosion took place , killing two alleged members of Jamaat-ul-Mujahideen Bangladesh . On Wednesday , the NIA had searched the residence and shop belonging to the accused , Hashem Moulla , in Bardhaman , lifted swabs of explosive traces from a vehicle belonging to the owner of the house where the blast took place and seized a laptop . The agency also summoned another suspect from Birbhum and seized a computer from a shop there . According to agency sources , the Jamaat extremists involved in the case were part of a larger conspiracy to `` destabilise the incumbent Sheikh Hasina-led Bangladesh government . Some of the arrested persons have turned out to be from Bangladesh . `` One of those killed in the October 2 blast -LSB- Subhan -RSB- was also a Bangladeshi national ,  said an officer . OPEN", 
+    "injured": "", 
+    "org_unorg": "Unorganized", 
+    "O": [
+        "burdwan blast:9", 
+        "Jamaat:194"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/news/national/other-states/ieds-seized-from-bardhaman-blast-suspects-house/article6508758.ece", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "RDX"
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "National Security Guard", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "121", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "128", 
+            "Others"
+        ], 
+        [
+            "Sheikh Hasina-led Bangladesh government", 
+            "211", 
+            "Others"
+        ]
+    ]
+}

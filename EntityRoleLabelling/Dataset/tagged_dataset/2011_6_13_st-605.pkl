@@ -1,0 +1,224 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Khyber Super Market'
+p4
+aS'27'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Peshawar'
+p8
+aS'31'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Khyber tribal agency'
+p12
+aS'182'
+p13
+aS'Neutral'
+p14
+aasS'PER'
+p15
+(lp16
+sS'TIM'
+p17
+(lp18
+sS'hot_setting'
+p19
+S''
+p20
+sS'DAT'
+p21
+(lp22
+S'Sunday:36'
+p23
+aS'Sunday:240'
+p24
+asS'death'
+p25
+S'30'
+p26
+sS'title'
+p27
+S'Over 30 killed in Peshawar blasts'
+p28
+sS'det_loc'
+p29
+(lp30
+S'Pakistan'
+p31
+ag20
+ag20
+aS'Islamabad'
+p32
+ag20
+asS'terror_group'
+p33
+(lp34
+g20
+asS'content'
+p35
+S"Second blast kills rescue workers , journalist and policemen Over 30 people were killed and thrice the number injured in two blasts that ripped through the Khyber Super Market in Peshawar soon after midnight on Sunday . The dead include a journalist and a couple of policemen who had rushed to the spot after the first blast . According to the police , rescue workers , police and journalists had swarmed the site after the first blast . Within minutes , a second and larger explosion took place in the same area , which is within cantonment limits and includes both commercial and residential spaces . No one has claimed responsibility for the blasts . In fact , the Tehreek-e-Taliban Pakistan ( TTP ) has denied any role in the twin explosions . The AFP quoted a TTP spokesman as saying it was an attempt by foreign secret agencies who are doing it to malign us . Further , according to the TTP , it targeted only the government and the military . The office of the political agent of the Khyber tribal agency and a residential complex of the Army are in the vicinity of the super market . Initially , there was speculation that the first explosion was caused by a transformer blast but the subsequent explosion that consumed lives established the handiwork of terrorists who have been increasingly targeting security facilities and their properties . Last Sunday , terrorists had targeted an Army-run bakery , killing , among others , a Major 's wife and child . Police said approximately 10 kg of explosive material had been strapped to a motorcycle parked near the complex . Preliminary investigations by the Bomb Disposal Squad indicate a suicide-bomber . Witnesses said a restaurant in the super market and several adjoining shops were badly damaged in the explosion , which also triggered a huge fire . OPEN"
+p36
+sS'injured'
+p37
+S'90'
+p38
+sS'org_unorg'
+p39
+S'Organized'
+p40
+sS'O'
+p41
+(lp42
+S'blast:2'
+p43
+aS'rescue workers:4'
+p44
+aS'journalist:7'
+p45
+aS'journalist:42'
+p46
+aS'policemen:47'
+p47
+aS'blast:57'
+p48
+aS'rescue workers:64'
+p49
+aS'police:67'
+p50
+aS'journalists:69'
+p51
+aS'blast:77'
+p52
+aS'explosion:86'
+p53
+aS'commercial and residential spaces:102'
+p54
+aS'responsibility:111'
+p55
+aS'blasts:114'
+p56
+aS'twin explosions:131'
+p57
+aS'ttp spokesman:138'
+p58
+aS'foreign secret agencies:147'
+p59
+aS'malign:155'
+p60
+aS'office:175'
+p61
+aS'political agent:178'
+p62
+aS'residential complex:187'
+p63
+aS'army:191'
+p64
+aS'explosion:209'
+p65
+aS'transformer blast:214'
+p66
+aS'explosion:219'
+p67
+aS'terrorists:227'
+p68
+aS'army-run bakery:246'
+p69
+aS"Major 's wife and child:255"
+p70
+aS'explosive material:267'
+p71
+aS'motorcycle:274'
+p72
+aS'bomb disposal squad:284'
+p73
+aS'suicide-bomber:289'
+p74
+aS'restaurant:294'
+p75
+aS'super market:297'
+p76
+aS'explosion:308'
+p77
+aS'fire:315'
+p78
+asS'unexpl'
+p79
+(lp80
+g20
+asS'ocassion'
+p81
+g20
+sS'link'
+p82
+S'http://www.thehindu.com/todays-paper/tp-international/over-30-killed-in-peshawar-blasts/article2099950.ece'
+p83
+sS'date'
+p84
+S'13-06-2011'
+p85
+sS'target'
+p86
+S'Market Place'
+p87
+sS'hot_spot'
+p88
+S'Khyber Super Market'
+p89
+sS'delivery_mod'
+p90
+g20
+sS'delivery_met'
+p91
+S'Planted'
+p92
+sS'expl'
+p93
+(lp94
+g20
+asS'ORG'
+p95
+(lp96
+(lp97
+S'Tehreek-e-Taliban Pakistan'
+p98
+aS'120'
+p99
+aS'Others'
+p100
+aa(lp101
+S'TTP'
+p102
+aS'123'
+p103
+aS'Others'
+p104
+aa(lp105
+S'AFP'
+p106
+aS'135'
+p107
+aS'Others'
+p108
+aa(lp109
+S'TTP'
+p110
+aS'138'
+p111
+aS'Others'
+p112
+aa(lp113
+S'TTP'
+p114
+aS'163'
+p115
+aS'Others'
+p116
+aas.

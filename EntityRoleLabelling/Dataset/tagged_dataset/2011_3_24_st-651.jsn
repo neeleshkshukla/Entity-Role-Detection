@@ -1,0 +1,179 @@
+{
+    "LOC": [
+        [
+            "Ajmer dargah", 
+            "16", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ajmer", 
+            "139", 
+            "Neutral"
+        ], 
+        [
+            "Indore", 
+            "164", 
+            "Accused Location"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "166", 
+            "Accused Location"
+        ], 
+        [
+            "Ahata-e-Noor", 
+            "303", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chandrashekhar Leve", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "R. S. Rathore", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "Chandrashekhar", 
+            "57", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "96", 
+            "Accused"
+        ], 
+        [
+            "Devendra Gupta", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "128", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "169", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "224", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "256", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "359", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:6", 
+        "October 2007:14", 
+        "May 1:177", 
+        "October 11 , 2007 : 237"
+    ], 
+    "death": "", 
+    "title": "Bail for Ajmer blast accused", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Rajasthan High Court on Wednesday granted bail to a co-accused in the October 2007 Ajmer dargah blast case , Chandrashekhar Leve , who has been charged by the Anti-Terrorism Squad ( ATS ) of the State Police with shielding the main offenders and destroying evidence . Justice R. S. Rathore of the High Court ordered Chandrashekhar to be released on bail on condition of furnishing bond and a surety of Rs .2 lakh . Counsel for the accused contended that the charge against his client was yet to be proved in the trial . Chandrashekhar is the first among the seven accused in the dargah blast case to get bail from the High Court . His bail application , along with those of Devendra Gupta and Lokesh Sharma , was earlier rejected by the Sessions Court in Ajmer , which observed that the accused could not get the benefit of technical ground of delay in filing of charge-sheet . A resident of Indore in Madhya Pradesh , Chandrashekhar was arrested near his home town on May 1 last year following surveillance of his mobile calls which allegedly indicated his close association with other accused in the blast . According to the prosecution , the SIM cards procured by the accused through fake identities were found operational on the mobile handsets used by Chandrashekhar for the period when the blast took place in the dargah on October 11 , 2007 . In all , eight mobile handsets were bought for carrying out the blast . Chandrashekhar was also accused of destroying some of the mobile phones used for the crime . The charge-sheet refers to him as one of the perpetrators of the offence and as having aided the individuals who went to the historic Sufi shrine and planted the bomb at Ahata-e-Noor . Two persons were killed and several injured in the terror attack carried out in the courtyard outside the mausoleum where thousands of devotees had gathered to break their day-long Ramzan fast . The prosecution 's lawyer opposed the bail application in the Court saying the investigation in connection with the mobile handsets used by Chandrashekhar was in progress and some more accused were yet to be arrested . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "bail:8", 
+        "co-accused:11", 
+        "ajmer dargah blast case:16", 
+        "anti-terrorism squad:30", 
+        "ats:33", 
+        "evidence:46", 
+        "bail:62", 
+        "bond:67", 
+        "accused:79", 
+        "trial:94", 
+        "accused:103", 
+        "dargah blast case:106", 
+        "bail:111", 
+        "bail application:118", 
+        "charge-sheet:159", 
+        "arrested:171", 
+        "surveillance:182", 
+        "mobile calls:185", 
+        "accused:195", 
+        "blast:198", 
+        "sim cards:206", 
+        "mobile handsets:220", 
+        "blast:230", 
+        "dargah:235", 
+        "mobile handsets:246", 
+        "blast:254", 
+        "crime:270", 
+        "charge-sheet:273", 
+        "sufi shrine:296", 
+        "bomb:301", 
+        "killed:308", 
+        "injured:311", 
+        "terror attack:314", 
+        "ramzan fast:334", 
+        "bail application:343", 
+        "investigation:350", 
+        "mobile handsets:355", 
+        "accused:366"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/bail-for-ajmer-blast-accused/article1566697.ece", 
+    "date": "11-10-2007", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajasthan High Court", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "High Court", 
+            "114", 
+            "Others"
+        ], 
+        [
+            "Sessions Court", 
+            "136", 
+            "Others"
+        ]
+    ]
+}

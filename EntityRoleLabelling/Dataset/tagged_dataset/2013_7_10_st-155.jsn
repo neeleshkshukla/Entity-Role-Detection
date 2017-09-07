@@ -1,0 +1,260 @@
+{
+    "LOC": [
+        [
+            "Tamil Nadu", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "Malleswaram", 
+            "22", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "26", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Batlagundu", 
+            "33", 
+            "Victim Location"
+        ], 
+        [
+            "Dindigul", 
+            "35", 
+            "Victim Location"
+        ], 
+        [
+            "Bangalore", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Tirumangalam", 
+            "73", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "75", 
+            "Neutral"
+        ], 
+        [
+            "Thirumangalam", 
+            "93", 
+            "Neutral"
+        ], 
+        [
+            "Tirumangalam", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Malleswaram", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Malleswaram", 
+            "151", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "200", 
+            "Event"
+        ], 
+        [
+            "Malleswaram", 
+            "294", 
+            "Event"
+        ], 
+        [
+            "Batlagundu", 
+            "307", 
+            "Victim Location"
+        ], 
+        [
+            "Dindigul", 
+            "309", 
+            "Victim Location"
+        ], 
+        [
+            "Malleswaram", 
+            "320", 
+            "Event"
+        ], 
+        [
+            "Batlagundu", 
+            "334", 
+            "Victim Location"
+        ], 
+        [
+            "Dindigul", 
+            "336", 
+            "Victim Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hanifa", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "L.K. Advani", 
+            "67"
+        ], 
+        [
+            "Tenkasi Hanifa", 
+            "12", 
+            "Accused"
+        ], 
+        [
+            "Hanifa", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "Nagoor Hanifa", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "Hanifa", 
+            "80", 
+            "Accused"
+        ], 
+        [
+            "Hanifa", 
+            "142", 
+            "Accused"
+        ], 
+        [
+            "Hanifa", 
+            "159", 
+            "Accused"
+        ], 
+        [
+            "Hanifa", 
+            "186", 
+            "Accused"
+        ], 
+        [
+            "Hanifa", 
+            "209", 
+            "Accused"
+        ], 
+        [
+            "Advani", 
+            "238", 
+            "Others"
+        ], 
+        [
+            "Hanifa", 
+            "269", 
+            "Accused"
+        ], 
+        [
+            "Hanifa", 
+            "285", 
+            "Accused"
+        ], 
+        [
+            "Hanifa", 
+            "311", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:38", 
+        "2011:78", 
+        "Monday:103", 
+        "July 22:112", 
+        "2009:177"
+    ], 
+    "death": "", 
+    "title": "Malleswaram blast: one more suspect held in T.N.", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Bangalore", 
+        "Malleswaram"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Special Investigation Team ( SIT ) of Tamil Nadu arrested Tenkasi Hanifa , who is one of the suspects in Malleswaram blast case in Bangalore , from his native village at Batlagundu in Dindigul district on Monday . The Bangalore police said 32-year-old Hanifa alias Nagoor Hanifa , a realtor by profession , was also accused in the pipe bomb case to target BJP leader L.K. Advani during his visit to Tirumangalam in Tamil Nadu in 2011 . Hanifa , who was hiding in his native village , was brought to Thirumangalam and produced in the Tirumangalam judicial magistrate court on Monday . He was remanded in judicial custody till July 22 . The Bangalore Central Crime Branch police confirmed Hanifas arrest , stating that they would seek his custody for questioning in connection with the Malleswaram blast case . Hanifa is the 12th accused to be arrested in Malleswaram blast case so far . Earlier , Hanifa had been arrested on charges of murdering a member of a pro-Hindu organisation and was jailed in 2009 . After he came out on bail , Hanifa was again arrested as one of the accused in a communal clash in Tamil Nadu in which six persons were killed . Hanifa who managed to get out on bail in the same year , had been absconding since his name surfaced again in the case of terror attack on Mr. Advani . A CCB official said there were four or five suspects who were still at large and efforts were on to track them down . Information so far revealed that Hanifa had played a crucial role in supplying explosives and to execute the terror attack . Hanifa is the 12th accused to be arrested in Malleswaram blast case so farHe was picked up from his native village at Batlagundu in Dindigul district Hanifa is the 12th accused to be arrested in Malleswaram blast case so far He was picked up from his native village at Batlagundu in Dindigul district OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "sit:6", 
+        "realtor:51", 
+        "profession:53", 
+        "jailed:175", 
+        "bail:184", 
+        "clash:198", 
+        "terror attack:234", 
+        "village:305", 
+        "district:310"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/malleswaram-blast-one-more-suspect-held-in-tn/article4900658.ece", 
+    "date": "08-07-2013", 
+    "target": "", 
+    "hot_spot": "Malleswaram", 
+    "delivery_mod": "PIPE BOMB", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Investigation Team ( SIT )", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "target BJP leader", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "BJP", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "Tirumangalam judicial magistrate", 
+            "98", 
+            "Others"
+        ], 
+        [
+            "Bangalore Central Crime Branch police", 
+            "116", 
+            "Others"
+        ], 
+        [
+            "pro-Hindu", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "CCB official", 
+            "241", 
+            "Others"
+        ]
+    ]
+}

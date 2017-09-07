@@ -1,0 +1,331 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Junglee Maharaj Road'
+p4
+aS'11'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Pune'
+p8
+aS'17'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Pune'
+p12
+aS'33'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Pune'
+p16
+aS'107'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Mumbai'
+p20
+aS'120'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Delhi'
+p24
+aS'122'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Balgandharva Rang Mandir'
+p28
+aS'146'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Junglee Maharaj Road'
+p32
+aS'153'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Dena Bank'
+p36
+aS'254'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Garware Chowk'
+p40
+aS'257'
+p41
+aS'Event'
+p42
+aasS'PER'
+p43
+(lp44
+(lp45
+S'Gulabrao Pol'
+p46
+aS'36'
+p47
+aS'Comment'
+p48
+aa(lp49
+S'Pol'
+p50
+aS'90'
+p51
+aS'Comment'
+p52
+aa(lp53
+S'Dayanand Patil'
+p54
+aS'157'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Patil'
+p58
+aS'201'
+p59
+aS'Assoc Accused'
+p60
+aa(lp61
+S'Preeti Sharma Menon'
+p62
+aS'217'
+p63
+aS'Assoc Accused'
+p64
+aa(lp65
+S'Sushilkumar Shinde'
+p66
+aS'318'
+p67
+aS'Others'
+p68
+aasS'TIM'
+p69
+(lp70
+S'7.30 p.m.:135'
+p71
+aS'7.30 p.m.:143'
+p72
+asS'hot_setting'
+p73
+S''
+p74
+sS'DAT'
+p75
+(lp76
+S'Wednesday:19'
+p77
+asS'death'
+p78
+g74
+sS'title'
+p79
+S'Four low-intensity blasts in Pune'
+p80
+sS'det_loc'
+p81
+(lp82
+S'India'
+p83
+aS'Maharashtra'
+p84
+ag74
+aS'Pune'
+p85
+aS'Junglee Maharaj Road '
+p86
+asS'terror_group'
+p87
+(lp88
+g74
+asS'content'
+p89
+S'Four low-intensity blasts within a one-km range on the busy Junglee Maharaj Road were witnessed in Pune on Wednesday . While one person was confirmed to be injured in the incident , Pune Police Commissioner Gulabrao Pol has ruled out the terror angle and stated that it was a case of mischief . The explosions were set off by pencil cell detonators placed in a plastic bag , a dustbin and in cycles at two locations , police said . Speaking to reporters at the blast site , Mr. Pol said , The situation is under control . There is no need to panic . The Pune ATS and teams from the National Investigation Agency ( NIA ) from Mumbai and Delhi will investigate the matter further , he said . First blast at 7.30 p.m. . The first explosion occurred around 7.30 p.m. near Balgandharva Rang Mandir , an auditorium on Junglee Maharaj Road . Dayanand Patil , who was injured in the blast , was carrying a cake box kept in a plastic bag , police said . He was admitted to Sassoon Hospital , where the police recorded the evidence . While unconfirmed reports stated that Mr. Patil was a member of social activist Anna Hazares India Against Corruption movement , IAC coordinator Preeti Sharma Menon denied it . According to the police , the second explosion occurred in a dustbin outside the popular fast food joint McDonalds . Soon after , the third and fourth blasts went off at Dena Bank and Garware Chowk , in the same vicinity , with the explosive material planted in cycles . Another bomb was defused by the police within the next one hour . The number of injured might have been higher , but have not been reported as they were minor injuries . The explosions occurred on the day when newly appointed Union Home Minister Sushilkumar Shinde was scheduled to be on a visit to the city . It was cancelled earlier in the day . OPEN'
+p90
+sS'injured'
+p91
+S'1'
+p92
+sS'org_unorg'
+p93
+S'ORGANISED'
+p94
+sS'O'
+p95
+(lp96
+S'low-intensity blasts:2'
+p97
+aS'pencil cell detonators:60'
+p98
+aS'plastic bag:66'
+p99
+aS'dustbin:70'
+p100
+aS'two locations:75'
+p101
+aS'cake box:170'
+p102
+aS'plastic bag:175'
+p103
+aS'dustbin:234'
+p104
+aS'fast food joint mcdonalds:238'
+p105
+aS'vicinity:263'
+p106
+aS'explosive material:267'
+p107
+aS'planted:269'
+p108
+aS'cycles:271'
+p109
+aS'Union Home Minister:315'
+p110
+asS'unexpl'
+p111
+(lp112
+g74
+asS'ocassion'
+p113
+g74
+sS'link'
+p114
+S'http://www.thehindu.com/todays-paper/four-lowintensity-blasts-in-pune/article3715417.ece'
+p115
+sS'date'
+p116
+S'01-08-2012'
+p117
+sS'target'
+p118
+g74
+sS'hot_spot'
+p119
+S'an auditorium,Junglee Maharaj Road '
+p120
+sS'delivery_mod'
+p121
+S'PLASTIC BAG'
+p122
+sS'delivery_met'
+p123
+S'PLANTED'
+p124
+sS'expl'
+p125
+(lp126
+S'DETONATING'
+p127
+asS'ORG'
+p128
+(lp129
+(lp130
+S'Police'
+p131
+aS'34'
+p132
+aS'Others'
+p133
+aa(lp134
+S'police'
+p135
+aS'78'
+p136
+aS'Others'
+p137
+aa(lp138
+S'ATS'
+p139
+aS'108'
+p140
+aS'Others'
+p141
+aa(lp142
+S'National Investigation Agency'
+p143
+aS'113'
+p144
+aS'Others'
+p145
+aa(lp146
+S'NIA'
+p147
+aS'117'
+p148
+aS'Others'
+p149
+aa(lp150
+S'police'
+p151
+aS'178'
+p152
+aS'Others'
+p153
+aa(lp154
+S'Sassoon'
+p155
+aS'185'
+p156
+aS'Others'
+p157
+aa(lp158
+S'police'
+p159
+aS'190'
+p160
+aS'Others'
+p161
+aa(lp162
+S'social activist'
+p163
+aS'206'
+p164
+aS'Others'
+p165
+aa(lp166
+S'Anna Hazares India Against Corruption'
+p167
+aS'208'
+p168
+aS'Assoc Accused'
+p169
+aa(lp170
+S'IAC'
+p171
+aS'215'
+p172
+aS'Assoc Accused'
+p173
+aa(lp174
+S'police'
+p175
+aS'226'
+p176
+aS'Others'
+p177
+aa(lp178
+S'police'
+p179
+aS'279'
+p180
+aS'Others'
+p181
+aas.

@@ -1,0 +1,66 @@
+{
+    "LOC": [], 
+    "PER": [
+        [
+            "Mukhtar Ahmed Khan", 
+            "1", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "acquitted : 34"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:30"
+    ], 
+    "death": "", 
+    "title": "LeT suspect acquitted", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)"
+    ], 
+    "content": "Mukhtar Ahmed Khan , a suspected Lashkar-e-Taiba ( LeT ) militant , arrested for allegedly planning to execute bomb blasts here , was acquitted by a Delhi court on Saturday . He was acquitted as the prosecution failed to prove its case . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "suspected:6", 
+        "militant:11", 
+        "arrested:13", 
+        "allegedly planning:15", 
+        "bomb:19", 
+        "prosecution:37", 
+        "case:42"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/let-suspect-acquitted/article3341194.ece", 
+    "date": "21-04-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Lashkar-e-Taiba ( LeT )", 
+            "7", 
+            "Accused"
+        ], 
+        [
+            "Delhi court", 
+            "27", 
+            "Others"
+        ]
+    ]
+}

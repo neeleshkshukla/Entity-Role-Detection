@@ -1,0 +1,117 @@
+{
+    "LOC": [
+        [
+            "Uttar Pradesh", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Marhiyahu", 
+            "59", 
+            "Accused Location"
+        ], 
+        [
+            "Jaunpur district", 
+            "61", 
+            "Accused Location"
+        ], 
+        [
+            "Lucknow", 
+            "70", 
+            "Event"
+        ], 
+        [
+            "Faizabad", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Faizabad district court", 
+            "93", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Faizabad", 
+            "93", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Khalid Mujahid", 
+            "4", 
+            "Accused"
+        ], 
+        [
+            "Paras Nath Yadav", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "Khalids", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "Khalid", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "Akhilesh Yadav", 
+            "108", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:64"
+    ], 
+    "death": "", 
+    "title": "Khalid family rejects compensation", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Lucknow", 
+        "Lucknow", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The family of Khalid Mujahid , an accused in a bomb blast case who died under mysterious circumstances in police custody , has refused to accept compensation offered by the Uttar Pradesh government . It refused to accept a cheque for Rs . 6 lakh from Horticulture Minister Paras Nath Yadav , who went to Khalids house at Marhiyahu in Jaunpur district on Wednesday . An accused in the Lucknow and Faizabad courts bomb blast case , Khalid died when he was being brought back to jail after a hearing in the Faizabad district court last fortnight . As his family alleged foul play , Chief Minister Akhilesh Yadav referred the case to the Central Bureau of Investigation . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "died:15", 
+        "mysterious circumstances:17", 
+        "police custody:20", 
+        "refused:24", 
+        "compensation:27", 
+        "Rs . 6 lakh:42", 
+        "brought back to jail:84", 
+        "last fortnight:96", 
+        "foul play:103"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/khalid-family-rejects-compensation/article4764447.ece", 
+    "date": "29-05-2013", 
+    "target": "Government Building", 
+    "hot_spot": "Court", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Central Bureau of Investigation", 
+            "115", 
+            "Others"
+        ]
+    ]
+}

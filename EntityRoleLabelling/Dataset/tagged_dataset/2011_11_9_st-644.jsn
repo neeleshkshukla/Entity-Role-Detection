@@ -1,0 +1,136 @@
+{
+    "LOC": [
+        [
+            "Latehar", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Cone", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Ranchi", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Latehar", 
+            "182", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Singhbhum", 
+            "202", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "B. K. Sharma", 
+            "78", 
+            "Comment"
+        ], 
+        [
+            "Sharma", 
+            "165", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:30", 
+        "July/August:205"
+    ], 
+    "death": "", 
+    "title": "Seven cops injured in Maoist attack", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Maoist Communist Centre (MCC)"
+    ], 
+    "content": "Seven policemen were injured as Maoists tried to blow up a make-shift camp housing about a hundred personnel in Latehar district 's Cone village in the wee hours of Tuesday . After midnight , the rebels attacked the camp by triggering a landmine blast , damaging a portion of wall of a primary school building where the CRPF , Jaguar ' and district police personnel had taken shelter overnight , Deputy Inspector-General of Police ( CRPF ) B. K. Sharma told reporters here . The landmine was planted by the Maoists before the police reached the school . Jolted by the blast , the security personnel took position swiftly to retaliate the Maoist challenge with about thousand bullets exchanged till 4 am . Seven security personnel were injured in the wall collapse with four shifted to the Rajendra Institute of Medical Sciences in Ranchi . In all , 13 grenades/landmines and three petrol bombs were recovered from the spot after the encounter , Mr. Sharma said . The Maoist attack came days after the security forces launched Operation Prahar ' in Latehar district to take on the red challenge after successful operation against the ultras in the West and the East Singhbhum districts in July/August . - PTI OPEN", 
+    "injured": "7", 
+    "det_loc": [
+        "India", 
+        "Jharkhand", 
+        "Latehar", 
+        "", 
+        "Cone village"
+    ], 
+    "O": [
+        "injured:4", 
+        "make-shift camp:12", 
+        "rebels attacked:36", 
+        "camp:39", 
+        "landmine blast:43", 
+        "school building:54", 
+        "jaguar:60", 
+        "deputy inspector-general of police:71", 
+        "landmine:86", 
+        "school:97", 
+        "blast:102", 
+        "maoist challenge:113", 
+        "bullets exchanged:118", 
+        "injured:128", 
+        "wall collapse:131", 
+        "grenades/landmines:150", 
+        "petrol bombs:153", 
+        "encounter:162", 
+        "attack:170", 
+        "operation prahar:178", 
+        "ultras:195", 
+        "west and the east singhbhum districts:198"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/seven-cops-injured-in-maoist-attack/article2610510.ece", 
+    "date": "08-11-2011", 
+    "target": "Police and Defence Forces", 
+    "hot_spot": "make-shift camp", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "LandMine"
+    ], 
+    "ORG": [
+        [
+            "Maoists", 
+            "6", 
+            "Accused"
+        ], 
+        [
+            "CRPF", 
+            "58", 
+            "Victim"
+        ], 
+        [
+            "CRPF", 
+            "76", 
+            "Victim"
+        ], 
+        [
+            "Maoists", 
+            "91", 
+            "Accused"
+        ], 
+        [
+            "Maoist", 
+            "113", 
+            "Accused"
+        ], 
+        [
+            "Rajendra Institute of Medical Sciences", 
+            "138", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "169", 
+            "Accused"
+        ]
+    ]
+}

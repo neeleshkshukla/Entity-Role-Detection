@@ -1,0 +1,139 @@
+{
+    "LOC": [
+        [
+            "Karnataka", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Tamil Nadu", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Coimbatore", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Podanur", 
+            "87", 
+            "Neutral"
+        ], 
+        [
+            "Madurai", 
+            "124", 
+            "Neutral"
+        ], 
+        [
+            "Sathyamangalam", 
+            "149", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sadam Hussain", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "Azharuddin", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "Saddam Hussain", 
+            "104", 
+            "Accused"
+        ], 
+        [
+            "Hussain", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "Kichan Buhari", 
+            "115", 
+            "Assoc Accused"
+        ], 
+        [
+            "Buhari", 
+            "143", 
+            "Assoc Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "April 17 : 13", 
+        "April 7 : 54", 
+        "8 : 57", 
+        "Tuesday : 126"
+    ], 
+    "death": "", 
+    "title": "2 prisoners may be questioned", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A special team of the Karnataka and Tamil Nadu police probing the April 17 Bangalore bomb blast is likely to interrogate two inmates of the Salem Central Prison Sadam Hussain and Azharuddin , both aged 24 as they are suspected to have arranged the motorcycle that was used in the blast . On April 7 and 8 , the Coimbatore City Police arrested the two , as part of an 18-member gang , in connection with a clash that took place at a wedding hall at Podanur , near here . The police shifted the two to the Salem Central Prison and detained Saddam Hussain under Goondas Act . Hussain is the brother-in-law of Kichan Buhari , who the special team arrested in Madurai on Tuesday in connection with the blast . The sources said the two were suspected to have helped Buhari in procuring the vehicle from Sathyamangalam . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "special team:2", 
+        "probing:11", 
+        "Bangalore bomb blast:15", 
+        "interrogate:21", 
+        "two inmates:22", 
+        "Salem Central Prison:26", 
+        "aged 24:35", 
+        "suspected:40", 
+        "arranged:43", 
+        "motorcycle:45", 
+        "blast:51", 
+        "Coimbatore City Police:60", 
+        "arrested:63", 
+        "18-member gang:71", 
+        "connection:75", 
+        "clash:78", 
+        "wedding hall:84", 
+        "shifted:94", 
+        "Salem Central Prison:99", 
+        "detained:103", 
+        "Goondas Act:107", 
+        "brother-in-law:113", 
+        "special team:120", 
+        "arrested:122", 
+        "connection:128", 
+        "blast:131", 
+        "sources:134", 
+        "suspected:139", 
+        "procuring:145"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/2-prisoners-may-be-questioned/article4652363.ece", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

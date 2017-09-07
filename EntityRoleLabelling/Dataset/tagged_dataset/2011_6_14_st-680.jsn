@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "Peshawar", 
+            "112", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Peshawar", 
+            "124", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Islamabad", 
+            "156", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:106", 
+        "Sunday:162", 
+        "April 2010:196"
+    ], 
+    "death": "1", 
+    "title": "Suicide blast kills one in Islamabad", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A suicide bomber struck in the federal capital after nearly a year-and-a-half , killing one person and injuring at least six when he was stopped by the security guard of a private bank . But for the timely action of the guard , there would have been more fatalities as the interior of the bank and the commercial plaza where it was located suffered extensive damage . According to the police , the teenaged suicide bomber detonated himself when he was stopped by the guard from entering the bank premises on the periphery of the federal capital . Many vehicles were also damaged . With Saturday night 's twin bombings in Peshawar fresh in memory , police cordoned off the area . In Peshawar , it was the second blast which consumed more lives , including that of two journalists and some security personnel . This is the first instance of a suicide blast in Islamabad in 18 months . On Sunday , three people were injured in a minor blast on the outskirts of the capital and the city had been rocked by a couple of loud unexplained explosions that caused no injury in April 2010 . OPEN", 
+    "injured": "6", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Islamabad", 
+        ""
+    ], 
+    "O": [
+        "suicide bomber:2", 
+        "capital:8", 
+        "killing:14", 
+        "injuring:18", 
+        "security guard:28", 
+        "private bank:32", 
+        "guard:42", 
+        "bank:55", 
+        "plaza:59", 
+        "damage:66", 
+        "suicide bomber:75", 
+        "guard:85", 
+        "bank:89", 
+        "capital:97", 
+        "damaged:103", 
+        "twin:109", 
+        "twin bombings:109", 
+        "blast:130", 
+        "journalists:140", 
+        "security:143", 
+        "security personnel:143", 
+        "suicide blast:153", 
+        "injured:167", 
+        "minor blast:170", 
+        "blast:171", 
+        "outskirts:174", 
+        "capital:177", 
+        "couple:186", 
+        "loud unexplained explosions:188"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/suicide-blast-kills-one-in-islamabad/article2102645.ece", 
+    "date": "14-06-2011", 
+    "target": "Public Organization", 
+    "hot_spot": "Private bank", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

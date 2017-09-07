@@ -1,0 +1,152 @@
+{
+    "LOC": [
+        [
+            "Saranda", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "West Singhbhum", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Anandpur", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Orissa.More", 
+            "57", 
+            "Neutral"
+        ], 
+        [
+            "Panchayat Bhawan", 
+            "117", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Neyaz Ahmad", 
+            "93", 
+            "Others"
+        ], 
+        [
+            "Banu Pratap Singh", 
+            "108", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "anti-Naxal operation", 
+    "DAT": [
+        "Saturday:27", 
+        "Monday morning:42", 
+        "Monday:42"
+    ], 
+    "death": "13", 
+    "title": "10 Naxals, three policemen killed", 
+    "det_loc": [
+        "India", 
+        "Jharkhand", 
+        "Ranchi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "Maoist Communist Centre (MCC)"
+    ], 
+    "content": "Even as more than 10 Maoists and three policemen were killed in an anti-Naxal operation in the Saranda forest in Jharkhand 's West Singhbhum district since Saturday , Naxalites blasted the Panchayat Bhawan , Anandpur , and a hostel here on Monday morning . The operation was launched jointly by the security forces of Jharkhand and Orissa.More than 4,000 personnel of the Central Reserve Police Force , Jharkhand Jaguar , the STF and the Commando Battalion for Resolute Action ( CoBRA ) and two helicopters have been deployed . Director-General of Police Neyaz Ahmad said the bodies of some of the rebels were recovered . CRPF DIG Banu Pratap Singh said CRPF personnel camped in the Panchayat Bhawan and the hostel nearly two months ago . Three cane bombs , two weapons and five grenades were recovered . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "anti-naxal:14", 
+        "operation:15", 
+        "forest:19", 
+        "district:25", 
+        "hostel:39", 
+        "morning:43", 
+        "operation:46", 
+        "security:52", 
+        "director-general:90", 
+        "crpf dig:106", 
+        "hostel:121", 
+        "cane:128"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "Operations against terrorist groups", 
+    "link": "http://www.thehindu.com/todays-paper/10-naxals-three-policemen-killed/article799691.ece", 
+    "date": "28-09-2010", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maoists", 
+            "6", 
+            "Accused"
+        ], 
+        [
+            "Naxalites", 
+            "29", 
+            "Accused"
+        ], 
+        [
+            "Panchayat Bhawan", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Central Reserve Police Force", 
+            "63", 
+            "Others"
+        ], 
+        [
+            "Jharkhand Jaguar", 
+            "68", 
+            "Others"
+        ], 
+        [
+            "STF", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "Commando Battalion for Resolute Action", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "CoBRA", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "CRPF", 
+            "112", 
+            "Others"
+        ]
+    ]
+}

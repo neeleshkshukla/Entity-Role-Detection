@@ -1,0 +1,249 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'UN'
+p4
+aS'6'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Syria'
+p8
+aS'9'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Daraa'
+p12
+aS'64'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Norway'
+p16
+aS'83'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'UN'
+p20
+aS'89'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Syria'
+p24
+aS'149'
+p25
+aS'Event'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'Kofi Annan'
+p30
+aS'25'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Bashar al-Assad'
+p34
+aS'73'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Robert Mood'
+p38
+aS'80'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Neeraj Singh'
+p42
+aS'107'
+p43
+aS'Comment'
+p44
+aa(lp45
+S'Annan'
+p46
+aS'136'
+p47
+aS'Comment'
+p48
+aasS'TIM'
+p49
+(lp50
+S'14-month : 69'
+p51
+asS'hot_setting'
+p52
+S''
+p53
+sS'DAT'
+p54
+(lp55
+S'Wednesday:14'
+p56
+asS'death'
+p57
+g53
+sS'title'
+p58
+S'Blast hits UN observer convoy in Syria'
+p59
+sS'det_loc'
+p60
+(lp61
+S'Syria'
+p62
+ag53
+ag53
+aS'Daraa'
+p63
+ag53
+asS'terror_group'
+p64
+(lp65
+g53
+asS'content'
+p66
+S"A blast hit troops escorting UN observers in Syria 's restive south on Wednesday , an AFP photographer said , a day after envoy Kofi Annan warned his peace plan could be the last chance to avoid civil war . The explosive device , which appeared to have been planted underground , detonated as the convoy of four vehicles entered the town of Daraa , cradle of a 14-month uprising against President Bashar al-Assad 's regime . Major General Robert Mood of Norway , the head of the UN mission , was in the convoy but escaped unharmed along with 11 other observers and his spokesman Neeraj Singh , said the photographer who was travelling in the convoy . The bomb attack was the latest breach of a month-old ceasefire agreement that UN-Arab League envoy Annan said could be the last chance to avert a civil war in Syria . Opposition bloc the Syrian National Council accused the regime of being behind the blast . OPEN"
+p67
+sS'injured'
+p68
+g53
+sS'org_unorg'
+p69
+g53
+sS'O'
+p70
+(lp71
+S'blast hit troops:2'
+p72
+aS'un observers:6'
+p73
+aS'afp photographer:17'
+p74
+aS'envoy:24'
+p75
+aS'peace plan:29'
+p76
+aS'last chance:34'
+p77
+aS'civil war:38'
+p78
+aS'explosive device:42'
+p79
+aS'planted underground:50'
+p80
+aS'convoy:56'
+p81
+aS'cradle:66'
+p82
+aS'uprising:70'
+p83
+aS"president bashar al-assad 's regime:72"
+p84
+aS'regime:76'
+p85
+aS'major general robert mood:78'
+p86
+aS'un mission:89'
+p87
+aS'convoy:95'
+p88
+aS'escaped unharmed:97'
+p89
+aS'observers:103'
+p90
+aS'photographer:112'
+p91
+aS'convoy:118'
+p92
+aS'bomb attack:121'
+p93
+aS'latest breach:125'
+p94
+aS'a month-old ceasefire agreement:128'
+p95
+aS'last chance:141'
+p96
+aS'civil war:146'
+p97
+aS'opposition bloc:151'
+p98
+aS'regime:159'
+p99
+aS'blast:164'
+p100
+asS'unexpl'
+p101
+(lp102
+g53
+asS'ocassion'
+p103
+g53
+sS'link'
+p104
+S'http://www.thehindu.com/todays-paper/tp-in-school/blast-hits-un-observer-convoy-in-syria/article3402213.ece'
+p105
+sS'date'
+p106
+S'09-05-2012'
+p107
+sS'target'
+p108
+S'MILLITARY TROOPS'
+p109
+sS'hot_spot'
+p110
+g53
+sS'delivery_mod'
+p111
+S'UNDERGROUND'
+p112
+sS'delivery_met'
+p113
+S'PLANTED'
+p114
+sS'expl'
+p115
+(lp116
+g53
+asS'ORG'
+p117
+(lp118
+(lp119
+S'AFP'
+p120
+aS'17'
+p121
+aS'Others'
+p122
+aa(lp123
+S'UN-Arab League'
+p124
+aS'133'
+p125
+aS'Others'
+p126
+aa(lp127
+S'Syrian National Council'
+p128
+aS'154'
+p129
+aS'Others'
+p130
+aas.

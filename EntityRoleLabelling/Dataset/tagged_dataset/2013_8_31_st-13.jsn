@@ -1,0 +1,174 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "102", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "201", 
+            "Event"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "244", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "323", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhnagar", 
+            "331", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Muhammed Ahmed Zaraar Siddibappa", 
+            "5", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "143", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "227", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "291", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "314", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "morning : 237"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "February 21 : 86", 
+        "Friday : 232", 
+        "Saturday : 236", 
+        "February : 325"
+    ], 
+    "death": "", 
+    "title": "Bhatkal claims of stay in city being verified", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The reported admission of Muhammed Ahmed Zaraar Siddibappa alias Yasin Bhatkal , the prime suspect in the Dilsukhnagar twin blasts , of taking shelter in a building 45 minutes from the explosion sites , has sent the local police scurrying around to identify what might have been his possible hideout . Officials and teams of the National Investigation Agency ( NIA ) and the Counter Intelligence ( CI ) from the State are trying to verify Yasins claim that he was in Hyderabad before the February 21 bombings , and hid in a building located 10 to 15 km away from Dilsukhnagar . Video footage During the initial stages of the probe into the blasts , video footages recorded by a traffic surveillance camera and the secret camera of a cloth store became crucial leads . A suspect , believed to be Yasin , was seen pedalling a bicycle and carrying an Improvised Explosive Device ( IED ) hidden in a bag and strapped to the carrier . Based on the direction of the cyclists movement , investigators tried to ascertain the direction of his arrival . Video footages recorded by traffic and private cameras in all routes passing through Dilsukhnagar were also checked , but were of no avail . CI and NIA teams say the State police teams would get an opportunity to question Yasin , either late on Friday night or on Saturday morning . Police could then reconstruct the Dilsukhnagar explosions , Yasins role and how members of his module had executed the terror plot . State Intelligence officials have inputs that nearly 10 members of different IM modules had visited the city . Who were they ? Was there any local support ? Whom did Yasin coordinate with while operating from abroad all these years ? These are part of our questionnaire , police said . IM founder Yasin Bhatkal reportedly tells interrogators that he was in Hyderabad in February , to carry out the Dilsukhnagar bombings OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "HYDERABAD", 
+        "Dilsukhnagar"
+    ], 
+    "O": [
+        "Improvised Explosive Device ( IED:153", 
+        "not available", 
+        "video footages recorded:117", 
+        "surveillance camera:123", 
+        "secret camera:127", 
+        "ied:157"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/bhatkal-claims-of-stay-in-city-being-verified/article5078038.ece", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "Dilsukhnagar", 
+    "delivery_mod": "", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "police", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency ( NIA )", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "Counter Intelligence ( CI )", 
+            "65", 
+            "Others"
+        ], 
+        [
+            "CI", 
+            "212", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "214", 
+            "Others"
+        ], 
+        [
+            "State police", 
+            "218", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "239", 
+            "Others"
+        ], 
+        [
+            "State Intelligence officials", 
+            "261", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "272", 
+            "Accused"
+        ], 
+        [
+            "police", 
+            "309", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "312", 
+            "Others"
+        ]
+    ]
+}

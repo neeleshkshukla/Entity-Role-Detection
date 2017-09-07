@@ -1,0 +1,146 @@
+{
+    "LOC": [
+        [
+            "Andhra Pradesh", 
+            "1", 
+            "Neutral"
+        ], 
+        [
+            "Dilsukhanagar", 
+            "20", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "P. Sabitha Indra Reddy", 
+            "5", 
+            "Comment"
+        ], 
+        [
+            "N. Kiran Kumar Reddy", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "Ms. Sabitha", 
+            "181", 
+            "Others"
+        ], 
+        [
+            "Anurag Sharma", 
+            "329", 
+            "Comment"
+        ], 
+        [
+            "Abdul Wasey", 
+            "345", 
+            "Others"
+        ], 
+        [
+            "Wasey", 
+            "377", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "six months : 93", 
+        "15 days : 305"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday : 10"
+    ], 
+    "death": "16", 
+    "title": "15 crack teams formed to trace Hyderabad twin blasts culprits", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        ""
+    ], 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "Andhra Pradesh Home Minister P. Sabitha Indra Reddy on Saturday said she was confident about the police cracking the Dilsukhanagar twin blasts case and said 15 teams had been pressed into service for tracing the culprits . Addressing a media conference after a high level review meeting chaired by Chief Minister N. Kiran Kumar Reddy , she announced a Rs . 10-lakh reward for those who would give information that could help solve the case . She said the government had decided to install closed-circuit ( CC ) cameras within the next six months at about 3,500 locations in the city at an estimated cost of Rs . 450-crore . . The government would make it mandatory to install surveillance cameras in malls , hospitals , cinema halls and other places which attract crowds . On the progress made by the investigators , she said : The Centre and State government are confident of achieving some breakthrough very soon . The Counter Intelligence Force of the State , those from CID and National Investigation Agency are on the job . Ms. Sabitha denied that the police had ignored any bomb threat call . The alleged involvement of Indian Mujahideen in the blasts was also yet to be established , she noted . In all , 16 persons were killed in the ghastly incident so far and 15 bodies were handed over to the family members concerned . Among the injured , condition of five to six persons was critical . Asked about criticism over alleged intelligence failure , she said investigation was under progress and if any laxity was found action would be initiated against those responsible . The Home Minister however added that the State had stepped up searches and checks whenever Centre issued alerts . The vulnerable areas were scanned thoroughly only 15 days ago yet unfortunately the bomb blasts could not be prevented . No arrest so far Meanwhile , the city Police Commissioner , Anurag Sharma told journalists that no one had yet been taken into custody so far and Abdul Wasey , twice-injured in terror attacks , was not a suspect in the case . The city police team has merely recorded his statement and spoken to his family members . Wasey was working in a footwear shop close to the blast spot . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "andhra pradesh home minister p. sabitha indra reddy:1", 
+        "confident:14", 
+        "dilsukhanagar twin blasts case:20", 
+        "15 teams:26", 
+        "culprits:36", 
+        "media conference:40", 
+        "chief minister n. kiran kumar reddy:50", 
+        "rs . 10-lakh reward:60", 
+        "closed-circuit:85", 
+        "closed-circuit ( cc ) cameras:85", 
+        "3,500 locations:97", 
+        "rs . 450-crore:107", 
+        "mandatory:117", 
+        "surveillance cameras:120", 
+        "malls:123", 
+        "hospitals:125", 
+        "cinema halls:127", 
+        "attract crowds:133", 
+        "investigators:142", 
+        "centre and state government:148", 
+        "bomb threat call:190", 
+        "blasts:202", 
+        "ghastly incident:222", 
+        "critical:249", 
+        "criticism:253", 
+        "intelligence failure:256", 
+        "investigation:261", 
+        "laxity:268", 
+        "home minister:280", 
+        "Centre issued alerts:294", 
+        "vulnerable areas:299", 
+        "scanned:302", 
+        "bomb blasts:311", 
+        "police commissioner , anurag sharma:326", 
+        "custody:341", 
+        "twice-injured:348", 
+        "terror attacks:350", 
+        "statement:369", 
+        "footwear shop:382", 
+        "blast spot:387"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/15-crack-teams-formed-to-trace-hyderabad-twin-blasts-culprits/article4448325.ece", 
+    "date": "21-02-2013", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Counter Intelligence Force", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "CID", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "173", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "198", 
+            "Accused"
+        ]
+    ]
+}

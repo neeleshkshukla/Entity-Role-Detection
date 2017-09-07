@@ -1,0 +1,113 @@
+{
+    "LOC": [
+        [
+            "Syrian : 10", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Damascus", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Syrian", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Kfar Sousa", 
+            "50", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rami Abdel Rahman", 
+            "71", 
+            "Comment"
+        ], 
+        [
+            "Assad", 
+            "135", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "overnight : 13", 
+        "yesterday : 111"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday : 31"
+    ], 
+    "death": "", 
+    "title": "Yet another car bomb in Damascus", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        "Damascus", 
+        "Kfar Sousa in Damascus"
+    ], 
+    "terror_group": [
+        "LIWA AL-SHAM"
+    ], 
+    "content": "A powerful car bomb rocked a district of the Syrian capital Damascus overnight , injuring several members of the security forces , the Syrian Observatory for Human Rights said on Tuesday . A large explosion apparently caused by an explosive device placed inside a car rocked the district of Kfar Sousa , the watchdog said . Several members of the security forces were injured in the blast , Observatory director Rami Abdel Rahman said , adding that it was unclear what the explosion had targeted and whether it had caused any fatalities . The rebel brigade Liwa al-Sham claimed responsibility for the blast in a video uploaded to YouTube late yesterday . Two members of the group said its fighters on the ground targeted a group of senior officers responsible for crimes of the Assad regime.PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "powerful car bomb:2", 
+        "security forces:20", 
+        "large explosion:34", 
+        "explosive device:40", 
+        "watchdog:54", 
+        "security forces:61", 
+        "blast:67", 
+        "unclear:80", 
+        "explosion:83", 
+        "targeted:85", 
+        "fatalities:92", 
+        "rebel brigade:95", 
+        "blast:103", 
+        "video uploaded:106", 
+        "fighters:120", 
+        "targeted:124", 
+        "crimes:132"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/yet-another-car-bomb-in-damascus/article4874967.ece", 
+    "date": "02-07-2013", 
+    "target": "POLICE AND DEFENCE FORCES", 
+    "hot_spot": "District of Kfar Sousa in Damascus", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Syrian Observatory for Human Rights", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Observatory", 
+            "69", 
+            "Others"
+        ], 
+        [
+            "Liwa al-Sham", 
+            "97", 
+            "Accused"
+        ], 
+        [
+            "YouTube", 
+            "109", 
+            "Others"
+        ]
+    ]
+}

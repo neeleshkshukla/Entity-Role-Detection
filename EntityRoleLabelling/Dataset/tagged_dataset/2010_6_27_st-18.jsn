@@ -1,0 +1,61 @@
+{
+    "LOC": [
+        [
+            "Lahore", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Hall Road", 
+            "50", 
+            "Event", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:15"
+    ], 
+    "death": "0", 
+    "title": "Twin blasts in Lahore", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Twin low-intensity bomb blasts hit a CD market in Lahore , Pakistan , on Saturday , wounding four people and causing havoc in the area , police said . They said the target of blasts was one of the busiest music and CD markets in the city centre 's Hall Road . AFP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Lahore", 
+        "CD market in Lahore"
+    ], 
+    "O": [
+        "bomb blasts:3", 
+        "cd market:7", 
+        "city centre:47", 
+        "hall road:50"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/twin-blasts-in-lahore/article487984.ece", 
+    "date": "27-06-2010", 
+    "target": "Market Place", 
+    "hot_spot": "Hall Road", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

@@ -1,0 +1,169 @@
+{
+    "LOC": [
+        [
+            "Somwarpet", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Siddapur", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Hosathota", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "Somwarpet", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "78", 
+            "Neutral"
+        ], 
+        [
+            "Kerala", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "Somwarpet", 
+            "127", 
+            "Neutral"
+        ], 
+        [
+            "Siddapur", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "176", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "K.K. Shahina", 
+            "26", 
+            "Others"
+        ], 
+        [
+            "Manjunath Annigeri", 
+            "34", 
+            "Others"
+        ], 
+        [
+            "Ms. Shahina", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "K. Nasir", 
+            "68", 
+            "Accused"
+        ], 
+        [
+            "V.S. Achuthanandan", 
+            "111", 
+            "Others"
+        ], 
+        [
+            "K. Nasir", 
+            "139", 
+            "Accused"
+        ], 
+        [
+            "Abdul Nasir Maudany", 
+            "165", 
+            "Accused"
+        ], 
+        [
+            "Annigeri", 
+            "194", 
+            "Others"
+        ], 
+        [
+            "Shahina", 
+            "210", 
+            "Others"
+        ], 
+        [
+            "Annigeri", 
+            "247", 
+            "Others"
+        ], 
+        [
+            "Krishna Kumar", 
+            "256", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:41", 
+        "2008:99"
+    ], 
+    "death": "", 
+    "title": "We have acted on complaints: SP", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Madikeri", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Kodagu police acted on complaints by two persons one from Somwarpet and another from Siddapur in the district in registering cases against Tehelka reporter K.K. Shahina and others , Superintendent of Police Manjunath Annigeri told The Hindu here on Saturday . It is not a suo motu case , he clarified . Ms. Shahina and four others visited Hosathota in Somwarpet taluk last week , where K. Nasir , who was arrested in connection with the Bangalore bomb blasts case , stayed in the guise of a ginger cultivator until his disappearance months before the blasts in 2008 . Journalists in Kerala submitted a memorandum to their Chief Minister V.S. Achuthanandan expressing concern over the registering of cases . The two who lodged cases in Somwarpet and Siddapur were , earlier , witnesses to the case involving K. Nasir . They said they were questioned by strangers in an intimidating manner and it led them to suspect that they could be supporters of Abdul Nasir Maudany , who is also an accused in the Bangalore blasts case . We had to register cases given the sensitive nature of the issue , Mr. Annigeri said . The Somwarpet police verified that of the four persons who came with Ms. Shahina two were cameramen and the others drivers of the two vehicles by which they travelled . The police had to investigate the case as there could be truth in what the complainants had stated , Mr. Annigeri said . The district Crime Investigation Bureau inspector Krishna Kumar had been asked to probe the issue and he would submit a report to him soon , he added . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb:79", 
+        "ginger cultivator:89", 
+        "disappearance:93", 
+        "memorandum:106", 
+        "case:137", 
+        "suspect:158", 
+        "bangalore blasts case:176", 
+        "case:233", 
+        "district crime investigation bureau:251", 
+        "probe:262"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/we-have-acted-on-complaints-sp/article932875.ece", 
+    "date": "25-07-2008", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Kodagu police", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "Somwarpet police", 
+            "198", 
+            "Others"
+        ]
+    ]
+}

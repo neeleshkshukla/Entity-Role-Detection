@@ -1,0 +1,373 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Karnataka'
+p4
+aS'353'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bangalore'
+p8
+aS'12'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Gurapanapalya'
+p12
+aS'56'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Bangalore'
+p16
+aS'59'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Bangalore'
+p20
+aS'84'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Surat'
+p24
+aS'145'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Gurapanapalya'
+p28
+aS'152'
+p29
+aS'Accused Location'
+p30
+aa(lp31
+S'Bangalore'
+p32
+aS'154'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Karnataka'
+p36
+aS'222'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Karnataka'
+p40
+aS'227'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Indore'
+p44
+aS'247'
+p45
+aS'Accused Location'
+p46
+aa(lp47
+S'Madhya Pradesh'
+p48
+aS'249'
+p49
+aS'Accused Location'
+p50
+aa(lp51
+S'Karnataka'
+p52
+aS'329'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Bangalore'
+p56
+aS'344'
+p57
+aS'Event'
+p58
+aasS'PER'
+p59
+(lp60
+(lp61
+S'Sameer Sadiq'
+p62
+aS'48'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Sadiq'
+p66
+aS'184'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Sadiq'
+p70
+aS'206'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Riazuddin Nasir'
+p74
+aS'216'
+p75
+aS'Assoc Accused'
+p76
+aa(lp77
+S'Yahya Kamakutty'
+p78
+aS'219'
+p79
+aS'Assoc Accused'
+p80
+aasS'TIM'
+p81
+(lp82
+sS'hot_setting'
+p83
+S''
+p84
+sS'DAT'
+p85
+(lp86
+S'July 25:7'
+p87
+aS'Tuesday:25'
+p88
+aS'Tuesday:62'
+p89
+asS'death'
+p90
+g84
+sS'title'
+p91
+S'Bangalore arrest turns focus back on SIMI'
+p92
+sS'org_unorg'
+p93
+g84
+sS'terror_group'
+p94
+(lp95
+S'STUDENTS ISLAMIC MOVEMENT OF INDIA'
+p96
+asS'content'
+p97
+VThe Special Investigating Team probing the July 25 serial blasts in Bangalore picked up an activist of the Students Islamic Movement of India on Tuesday . . . ` Indian Mujahideen is SIMI , V2 .0 . . An investigating officer told rediff.com that they picked up Sameer Sadiq , a SIMI activist from the Gurapanapalya area in Bangalore , on Tuesday . . . With this arrest , the police say it is becoming clear that SIMI was behind the blasts in Bangalore and were using the name of Indian Mujahideen to conceal their identity . . . View : Incubus of India Mujahideen . . The investigating teams say they are probing deeper into the SIMI angle and preliminary investigations show that the banned outfit was behind the blasts.Sadiq , according to the police , had played a key role in the Surat riots . He was staying at Gurapanapalya in Bangalore , the area which incidentally housed the SIMI office before it had been banned . . . Indian Mujahideen 's two-pronged terror strategy . . The police have seized Sadiq 's mobile phone and are checking the call records of both his cell phone and land phone.It may be recalled that Sadiq had been questioned following the arrests of SIMI operative Riazuddin Nasir and Yahya Kamakutty in Karnataka earlier this year . Karnataka Police had cracked down on SIMI operatives and their interrogation led to the arrest of 10 SIMI activists at Indore in Madhya Pradesh . . . ISI 's Indianisation of jihad . . With the role of the SIMI becoming stronger in the case , the police are cracking down on local SIMI groups in the state . The police are trying to find more clues by cracking down on these groups . More arrests are expected in the next couple of days , an officer added.On high alertPolice has decided to crack down on terror in a big way in Karnataka . While the government proposed the issuing of identification cards to all residents of Bangalore and other parts of the state , the Karnataka police have issued a circular to all PCO owners to maintain a register regarding the people who come to the booths . The police , in their circular , have stated that it is mandatory that PCO owners maintain a register and keep a tab on all callers . They should make a mention of the destination to which a call is made , how much time was spent at the booth and also jot details regarding the description of the man who came to the booth . .
+p98
+sS'injured'
+p99
+g84
+sS'det_loc'
+p100
+(lp101
+S'India'
+p102
+aS'Karnataka'
+p103
+aS'Bangalore Urban'
+p104
+ag84
+ag84
+asS'O'
+p105
+(lp106
+S'indian mujahideen is simi , v2 .0:30'
+p107
+aS'using the name of indian mujahideen to conceal their identity:87'
+p108
+aS'key role in the surat riots:141'
+p109
+aS'surat riots:145'
+p110
+aS'checking the call records:190'
+p111
+aS'cracked down on simi:230'
+p112
+aS"isi 's indianisation of jihad:254"
+p113
+aS'simi becoming stronger:266'
+p114
+aS'police are cracking down on local simi groups:274'
+p115
+aS'maintain a register:364'
+p116
+asS'unexpl'
+p117
+(lp118
+g84
+asS'ocassion'
+p119
+g84
+sS'link'
+p120
+S'http://www.rediff.com/news/2008/jul/30beng.htm'
+p121
+sS'date'
+p122
+S'25-07-2008'
+p123
+sS'target'
+p124
+g84
+sS'hot_spot'
+p125
+g84
+sS'delivery_mod'
+p126
+g84
+sS'delivery_met'
+p127
+g84
+sS'expl'
+p128
+(lp129
+g84
+asS'ORG'
+p130
+(lp131
+(lp132
+S'Students Islamic Movement of India'
+p133
+aS'19'
+p134
+aS'Accused'
+p135
+aa(lp136
+S'Indian Mujahideen'
+p137
+aS'30'
+p138
+aS'Assoc Accused'
+p139
+aa(lp140
+S'SIMI'
+p141
+aS'33'
+p142
+aS'Assoc Accused'
+p143
+aa(lp144
+S'rediff.com'
+p145
+aS'43'
+p146
+aS'Others'
+p147
+aa(lp148
+S'SIMI'
+p149
+aS'52'
+p150
+aS'Accused'
+p151
+aa(lp152
+S'SIMI'
+p153
+aS'78'
+p154
+aS'Accused'
+p155
+aa(lp156
+S'Indian Mujahideen'
+p157
+aS'91'
+p158
+aS'Assoc Accused'
+p159
+aa(lp160
+S'India Mujahideen'
+p161
+aS'104'
+p162
+aS'Assoc Accused'
+p163
+aa(lp164
+S'SIMI'
+p165
+aS'118'
+p166
+aS'Accused'
+p167
+aa(lp168
+S'SIMI'
+p169
+aS'162'
+p170
+aS'Accused'
+p171
+aa(lp172
+S'Indian Mujahideen'
+p173
+aS'172'
+p174
+aS'Assoc Accused'
+p175
+aa(lp176
+S'SIMI'
+p177
+aS'214'
+p178
+aS'Accused'
+p179
+aa(lp180
+S'SIMI'
+p181
+aS'233'
+p182
+aS'Accused'
+p183
+aa(lp184
+S'SIMI'
+p185
+aS'244'
+p186
+aS'Accused'
+p187
+aa(lp188
+S'ISI'
+p189
+aS'254'
+p190
+aS'Assoc Accused'
+p191
+aa(lp192
+S'SIMI'
+p193
+aS'266'
+p194
+aS'Accused'
+p195
+aa(lp196
+S'SIMI'
+p197
+aS'280'
+p198
+aS'Accused'
+p199
+aa(lp200
+S'Karnataka police'
+p201
+aS'353'
+p202
+aS'Others'
+p203
+aas.

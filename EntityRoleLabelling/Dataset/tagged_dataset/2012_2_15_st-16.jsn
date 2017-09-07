@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Haryana", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Panchkula", 
+            "47", 
+            "Neutral"
+        ], 
+        [
+            "Noida", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Old Delhi", 
+            "114", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kamal Chauhan", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "Chauhan", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Ramchandra Kalasangra alias Ramji", 
+            "94", 
+            "Others"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "R.K. Handa", 
+            "127", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007:22", 
+        "Tuesday : 40", 
+        "Tuesday:50", 
+        "Sunday:57", 
+        "February 24:69"
+    ], 
+    "death": "68", 
+    "title": "Chauhan planted bombs on Samjhauta Express: NIA", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Kamal Chauhan , a disgruntled RSS worker arrested by the National Investigation Agency , planted bombs onboard the Samjhauta Express in 2007 after undergoing training in arms and explosives in Haryana and Madhya Pradesh , the agency said on Tuesday . He was taken to the Panchkula court on Tuesday after his arrest in Noida on Sunday . The court remanded him in the agency 's custody till February 24 for questioning on his alleged role in the blast that killed 68 people , mostly Pakistanis . Investigations reveal that Chauhan along with Ramchandra Kalasangra alias Ramji and Lokesh Sharma , also charged in the case planted the explosives in the train at Old Delhi , from where the train originates , NIA 's Special Prosecutor R.K. Handa said outside the court . PTI OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "", 
+        "Haryana", 
+        "battles fought"
+    ], 
+    "O": [
+        "Samjhauta Express:19", 
+        "training:25", 
+        "court:60", 
+        "blast:79", 
+        "Pakistanis:86", 
+        "train:120", 
+        "prosecutor:126"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/chauhan-planted-bombs-on-samjhauta-express-nia/article2894408.ece", 
+    "date": "18-02-2007", 
+    "target": "RAILWAY STATION", 
+    "hot_spot": "", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "RSS worker", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "agency", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "123", 
+            "Others"
+        ]
+    ]
+}

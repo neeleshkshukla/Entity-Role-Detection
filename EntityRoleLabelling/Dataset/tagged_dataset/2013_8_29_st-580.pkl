@@ -1,0 +1,260 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsuknagar'
+p4
+aS'115'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Gujarat'
+p8
+aS'174'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Ahmedabad'
+p12
+aS'185'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Gokul Chat'
+p16
+aS'198'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Lumbini Park'
+p20
+aS'214'
+p21
+aS'Event'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Anique Shafiq Syed'
+p26
+aS'38'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Mohammed Sadiq'
+p30
+aS'42'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Akbar Ismail Choudhary'
+p34
+aS'45'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Ansar Ahmed Badhsah Sheikh'
+p38
+aS'49'
+p39
+aS'Accused'
+p40
+aasS'TIM'
+p41
+(lp42
+sS'hot_setting'
+p43
+S''
+p44
+sS'DAT'
+p45
+(lp46
+S'Wednesday : 5'
+p47
+aS'August 2007 : 14'
+p48
+aS'August 25 , 2007 : 93'
+p49
+aS'October 28 : 124'
+p50
+aS'October 2008 : 166'
+p51
+aS'July : 187'
+p52
+asS'death'
+p53
+S'42'
+p54
+sS'title'
+p55
+S'Murder charges slapped against four blast accused'
+p56
+sS'det_loc'
+p57
+(lp58
+S'India'
+p59
+aS'Andhra Pradesh'
+p60
+ag44
+aS'Hydrabad'
+p61
+ag44
+asS'terror_group'
+p62
+(lp63
+S'INDIAN MUJAHIDEEN'
+p64
+asS'content'
+p65
+S'A local court on Wednesday framed charges against the four accused in the August 2007 twin bomb blasts here , that left behind 42 people dead.The second Metropolitan Sessions Judges ( MSJ ) court framed charges against Anique Shafiq Syed , Mohammed Sadiq , Akbar Ismail Choudhary and Ansar Ahmed Badhsah Sheikh - all alleged Indian Mujahideen operatives . The accused have been charged under section 302 ( murder ) and other relevant provisions of the IPC and sections of Explosive Substances Act in connection with the twin blasts that occurred on August 25 , 2007 , and also with regard to recovery of an unexploded bomb that was found under a footoverbridge at Dilsuknagar area here.The court then posted the matter to October 28 for fixing of schedule ( starting of trial ) . Summons On that day , the court will decide on issuing of summons to witnesses for recording their statements.The IM men are among those arrested by Maharashtra AntiTerrorism Squad in October 2008 and later taken into custody by Gujarat police for questioning in connection with the serial explosions in Ahmedabad in July that year . The nearsimultaneous blasts at the popular eatery Gokul Chat killed 32 people , while 10 others died at the open air theatre at Lumbini Park , a few metres away from the state Secretariat . - PTI OPEN'
+p66
+sS'injured'
+p67
+g44
+sS'org_unorg'
+p68
+g44
+sS'O'
+p69
+(lp70
+S'local court:2'
+p71
+aS'framed charges:6'
+p72
+aS'four accused:10'
+p73
+aS'twin bomb blasts:16'
+p74
+aS'Metropolitan Sessions Judges:28'
+p75
+aS'MSJ:32'
+p76
+aS'framed charges:35'
+p77
+aS'Indian Mujahideen operatives:56'
+p78
+aS'accused:61'
+p79
+aS'charged under section 302:64'
+p80
+aS'murder:69'
+p81
+aS'relevant provisions:73'
+p82
+aS'IPC:77'
+p83
+aS'Explosive Substances Act:81'
+p84
+aS'connection:85'
+p85
+aS'twin blasts:88'
+p86
+aS'occurred:91'
+p87
+aS'recovery:103'
+p88
+aS'unexploded bomb:106'
+p89
+aS'footoverbridge:113'
+p90
+aS'posted:120'
+p91
+aS'schedule:129'
+p92
+aS'Summons:136'
+p93
+aS'issuing of summons:146'
+p94
+aS'witnesses:150'
+p95
+aS'recording:152'
+p96
+aS'arrested:160'
+p97
+aS'custody:172'
+p98
+aS'questioning:177'
+p99
+aS'connection:179'
+p100
+aS'serial explosions:182'
+p101
+aS'nearsimultaneous blasts:192'
+p102
+aS'open air theatre:210'
+p103
+asS'unexpl'
+p104
+(lp105
+g44
+asS'ocassion'
+p106
+g44
+sS'link'
+p107
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/murder-charges-slapped-against-four-blast-accused/article5070291.ece'
+p108
+sS'date'
+p109
+S'25-08-2007'
+p110
+sS'target'
+p111
+S'PUBLIC PLACES'
+p112
+sS'hot_spot'
+p113
+g44
+sS'delivery_mod'
+p114
+g44
+sS'delivery_met'
+p115
+S'PLANTED'
+p116
+sS'expl'
+p117
+(lp118
+g44
+asS'ORG'
+p119
+(lp120
+(lp121
+S'Indian Mujahideen'
+p122
+aS'56'
+p123
+aS'Accused'
+p124
+aa(lp125
+S'IM'
+p126
+aS'155'
+p127
+aS'Accused'
+p128
+aa(lp129
+S'Maharashtra AntiTerrorism Squad'
+p130
+aS'162'
+p131
+aS'Others'
+p132
+aa(lp133
+S'PTI'
+p134
+aS'227'
+p135
+aS'Others'
+p136
+aas.

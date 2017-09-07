@@ -1,0 +1,136 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "76", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bangalore", 
+            "88", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Nasir Maudany", 
+            "23", 
+            "Accused"
+        ], 
+        [
+            "V. Jagannathan", 
+            "32", 
+            "Others"
+        ], 
+        [
+            "Ashok Harnahalli", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "53", 
+            "Accused"
+        ], 
+        [
+            "Harnahalli", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "59", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "Harnahalli", 
+            "106", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "120", 
+            "Accused"
+        ], 
+        [
+            "Jagannathan", 
+            "123", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "136", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:6", 
+        "July 2008:78", 
+        "Friday:146"
+    ], 
+    "death": "", 
+    "title": "Produce phone records of Maudany's conversations with terrorists'", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Karnataka High Court on Thursday asked the State to furnish details of mobile phone and telephonic conversations that Kerala PDP leader Abdul Nasir Maudany allegedly had with terrorists . Justice V. Jagannathan passed the order after Advocate-General ( AG ) Ashok Harnahalli , appearing for the State , opposed bail to Maudany . Mr. Harnahalli said that Maudany had mobile phone and telephonic conversations with several accused in the serial bomb blasts that rocked Bangalore in July 2008 . He said that Maudany knew about the Bangalore blasts and that he has been arraigned as one of the accused in the case . Mr. Harnahalli said that the State had filed a 160-page objection to the petition by Maudany . Justice Jagannathan asked the State to produce the mobile phone records of conversations that Maudany supposedly had with terrorists and adjourned the case to Friday . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "Bangalore", 
+        ""
+    ], 
+    "O": [
+        "mobile phone:14", 
+        "telephonic conversations:17", 
+        "Kerala PDP leader:20", 
+        "terrorists:29", 
+        "Advocate-General:38", 
+        "opposed bail:50", 
+        "mobile phone:61", 
+        "telephonic conversations:64", 
+        "serial bomb blasts:71", 
+        "Bangalore blasts:88", 
+        "filed:112", 
+        "objection:115", 
+        "petition:118", 
+        "mobile phone records:130", 
+        "conversations:134", 
+        "terrorists:140"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/produce-phone-records-of-maudanys-conversations-with-terrorists/article1329006.ece", 
+    "date": "11-02-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Karnataka High Court", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Kerala PDP", 
+            "20", 
+            "Others"
+        ]
+    ]
+}

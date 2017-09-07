@@ -1,0 +1,134 @@
+{
+    "LOC": [
+        [
+            "Durga bazaar", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Sector 5", 
+            "28", 
+            "Event"
+        ], 
+        [
+            "Arilova", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Madhurawada", 
+            "44", 
+            "Neutral"
+        ], 
+        [
+            "Arilova", 
+            "210", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "K. Rajendra Rao", 
+            "46", 
+            "Comment"
+        ], 
+        [
+            "K. Prasad", 
+            "58", 
+            "Victim"
+        ], 
+        [
+            "Arasavilli Vinodh", 
+            "66", 
+            "Victim"
+        ], 
+        [
+            "Vinodh", 
+            "86", 
+            "Victim"
+        ], 
+        [
+            "Prasad", 
+            "96", 
+            "Victim"
+        ], 
+        [
+            "Vinodh", 
+            "131", 
+            "Victim"
+        ], 
+        [
+            "Lakshmi", 
+            "175", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [
+        "evening : 37"
+    ], 
+    "hot_setting": "Deepavali or Diwali", 
+    "DAT": [
+        "Friday : 36"
+    ], 
+    "death": "1", 
+    "title": "One killed, two injured in cracker blast", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "Visakhapatnam", 
+        "Visakhapatnam", 
+        "Durga bazaar, Sector 5, Arilova"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "One person was killed and two others sustained minor injuries in a powerful explosion triggered by home-made Deepavali bombs , at a house at Durga bazaar in Sector 5 in Arilova suburb near here on Friday evening . Assistant Commissioner of Police ( Madhurawada ) K. Rajendra Rao said that it emerged from a preliminary inquiry that K. Prasad , a cellphone mechanic , and Arasavilli Vinodh ( 19 ) were making cracker bombs in the house of the former . The explosion occurred when Vinodh was engaged in making bombs . At the time Prasad had gone out on an errand . The bombs made of sulphur and potassium went off , ripping the outer portion of the building . The impact of the explosion was so powerful that Vinodh died on the spot . According to local people , a gas cylinder exploded simultaneously . All the household goods suffered extensive damage . The blast ripped apart wooden furniture and refrigerator , besides causing massive cracks on the walls and sunshades . Lakshmi , living in the neighbourhood , suffered minor injuries and was in a state of shock . The injured were rushed to the King George Hospital where they were given first aid . The Arilova outpost police are investigating . OPEN", 
+    "injured": "2", 
+    "org_unorg": "UNORGANISED", 
+    "O": [
+        "killed:4", 
+        "minor injuries:9", 
+        "powerful explosion:13", 
+        "home-made deepavali bombs:17", 
+        "preliminary inquiry:55", 
+        "cellphone mechanic:62", 
+        "cracker bombs:73", 
+        "explosion:83", 
+        "bombs:91", 
+        "errand:102", 
+        "sulphur and potassium:108", 
+        "building:120", 
+        "explosion:126", 
+        "gas cylinder:143", 
+        "extensive damage:153", 
+        "blast:157", 
+        "wooden furniture:160", 
+        "refrigerator:163", 
+        "massive cracks:167", 
+        "walls and sunshades:171", 
+        "minor injuries:183", 
+        "state of shock:189", 
+        "first aid:206", 
+        "investigating:214"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "NATIONAL FESTIVALS", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/one-killed-two-injured-in-cracker-blast/article4015703.ece", 
+    "date": "19-10-2012", 
+    "target": "RESIDENCE", 
+    "hot_spot": "House of maker of cracker bombs", 
+    "delivery_mod": "", 
+    "delivery_met": "ACCIDENTAL", 
+    "expl": [
+        "CRACKER BOMB"
+    ], 
+    "ORG": [
+        [
+            "King George Hospital", 
+            "199", 
+            "Others"
+        ]
+    ]
+}

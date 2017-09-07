@@ -1,0 +1,247 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Boston'
+p4
+aS'17'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Boston'
+p8
+aS'62'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Boylston Street'
+p12
+aS'90'
+p13
+aS'Accused Location'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'John King'
+p18
+aS'117'
+p19
+aS'Comment'
+p20
+aa(lp21
+S'Obama'
+p22
+aS'234'
+p23
+aS'Others'
+p24
+aasS'TIM'
+p25
+(lp26
+S'48 hours : 3'
+p27
+asS'hot_setting'
+p28
+S''
+p29
+sS'DAT'
+p30
+(lp31
+S'Tuesday:189'
+p32
+asS'death'
+p33
+S'3'
+p34
+sS'title'
+p35
+S'Boston blasts suspect identified'
+p36
+sS'org_unorg'
+p37
+g29
+sS'terror_group'
+p38
+(lp39
+g29
+asS'content'
+p40
+S'Less than 48 hours after two lethal bombs went off near the finish line of the Boston Marathon , killing three and injuring more than 170 , federal investigators were said to have identified a suspect after examining a security video shot from a nearby department store . The Associated Press said on Twitter Law enforcement official : Arrest imminent in Boston Marathon bombing , suspect to be brought to court , while CNN news channel reported that after analysing CCTV footage from the Lord & Taylor shop at Boylston Street An arrest has been ... based on two videos showing images of the suspect . Both sources quoted an unnamed law enforcement official with CNNs John King saying a second source briefed on the investigation said the suspect placed at least one of the bombs and walked away . Meanwhile , The Boston Globe reported that authorities had an image of a suspect carrying , and possibly dropping , a bag at the second bombing scene , just outside the Forum restaurant . The news of the suspects identification and possible arrest came after authorities revealed on Tuesday that the attacker used pressure cookers packed with metal nails and ball bearings as part of the bomb design . The news also broke after a Chinese consulate here revealed that the third victim of the blasts was a Chinese national . Letter to Obama contains ricin : International Page OPEN'
+p41
+sS'injured'
+p42
+S'170'
+p43
+sS'det_loc'
+p44
+(lp45
+S'United States'
+p46
+ag29
+ag29
+aS'washington'
+p47
+ag29
+asS'O'
+p48
+(lp49
+S'two lethal bombs:6'
+p50
+aS'finish line:13'
+p51
+aS'boston marathon:17'
+p52
+aS'federal investigators:28'
+p53
+aS'suspect:36'
+p54
+aS'security video shot:40'
+p55
+aS'department store:46'
+p56
+aS'twitter law enforcement official:54'
+p57
+aS'Arrest:59'
+p58
+aS'boston marathon bombing:62'
+p59
+aS'court:71'
+p60
+aS'cnn news channel:74'
+p61
+aS'cctv footage:81'
+p62
+aS'lord & taylor shop:85'
+p63
+aS'arrest:93'
+p64
+aS'two videos:99'
+p65
+aS'images:102'
+p66
+aS'suspect:105'
+p67
+aS'sources quoted:108'
+p68
+aS'law enforcement official:112'
+p69
+aS'second source:121'
+p70
+aS'investigation:126'
+p71
+aS'suspect placed:129'
+p72
+aS'bombs:136'
+p73
+aS'walked away:138'
+p74
+aS'authorities:148'
+p75
+aS'suspect carrying:154'
+p76
+aS'bombing scene:166'
+p77
+aS'forum restaurant:172'
+p78
+aS'suspects identification:179'
+p79
+aS'arrest:183'
+p80
+aS'authorities:186'
+p81
+aS'pressure cookers:194'
+p82
+aS'metal nails:198'
+p83
+aS'ball bearings:201'
+p84
+aS'bomb design:207'
+p85
+aS'chinese consulate:216'
+p86
+aS'third victim:222'
+p87
+aS'chinese national:229'
+p88
+aS'ricin:236'
+p89
+asS'unexpl'
+p90
+(lp91
+g29
+asS'ocassion'
+p92
+g29
+sS'link'
+p93
+S'http://www.thehindu.com/todays-paper/boston-blasts-suspect-identified/article4628838.ece'
+p94
+sS'date'
+p95
+S'15-04-2013'
+p96
+sS'target'
+p97
+g29
+sS'hot_spot'
+p98
+g29
+sS'delivery_mod'
+p99
+S'PRESSURE COOKER'
+p100
+sS'delivery_met'
+p101
+S'PLANTED'
+p102
+sS'expl'
+p103
+(lp104
+S'METAL NAILS'
+p105
+aS'BALL BEARINGS'
+p106
+asS'ORG'
+p107
+(lp108
+(lp109
+S'Associated Press'
+p110
+aS'50'
+p111
+aS'Others'
+p112
+aa(lp113
+S'Twitter'
+p114
+aS'54'
+p115
+aS'Others'
+p116
+aa(lp117
+S'CNN'
+p118
+aS'74'
+p119
+aS'Others'
+p120
+aa(lp121
+S'CNNs'
+p122
+aS'116'
+p123
+aS'Others'
+p124
+aa(lp125
+S'Boston Globe'
+p126
+aS'144'
+p127
+aS'Others'
+p128
+aas.

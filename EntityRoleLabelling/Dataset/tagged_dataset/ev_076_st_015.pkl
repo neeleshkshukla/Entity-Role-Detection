@@ -1,0 +1,472 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'HYDERABAD'
+p4
+aS'1'
+p5
+aS'Source'
+p6
+aa(lp7
+S'Andhra Pradesh'
+p8
+aS'3'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Karnataka'
+p12
+aS'22'
+p13
+aS'Accused Location'
+p14
+aa(lp15
+S'Hyderabad'
+p16
+aS'47'
+p17
+aS'Source'
+p18
+aa(lp19
+S'Karnataka'
+p20
+aS'58'
+p21
+aS'Accused Location'
+p22
+aa(lp23
+S'Andhra'
+p24
+aS'76'
+p25
+aS'Accused Location'
+p26
+aa(lp27
+S'Bangalore'
+p28
+aS'95'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Hyderabad'
+p32
+aS'97'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'US'
+p36
+aS'108'
+p37
+aS'Victim Location'
+p38
+aa(lp39
+S'US'
+p40
+aS'118'
+p41
+aS'Victim Location'
+p42
+aa(lp43
+S'Hyderabad'
+p44
+aS'127'
+p45
+aS'Accused Location'
+p46
+aa(lp47
+S'Bangalore'
+p48
+aS'137'
+p49
+aS'Accused Location'
+p50
+aa(lp51
+S'Hubli'
+p52
+aS'142'
+p53
+aS'Accused Location'
+p54
+aa(lp55
+S'Karnataka'
+p56
+aS'144'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Hyderabad'
+p60
+aS'161'
+p61
+aS'Accused Location'
+p62
+aa(lp63
+S'Sabarmati Jail'
+p64
+aS'168'
+p65
+aS'Accused Location'
+p66
+aa(lp67
+S'Gujarat'
+p68
+aS'177'
+p69
+aS'Victim Location'
+p70
+aa(lp71
+S'Hyderabad'
+p72
+aS'194'
+p73
+aS'Neutral'
+p74
+aa(lp75
+S'Hyderabad'
+p76
+aS'240'
+p77
+aS'Victim Location'
+p78
+aa(lp79
+S'Andhra'
+p80
+aS'265'
+p81
+aS'Neutral'
+p82
+aa(lp83
+S'Karnataka'
+p84
+aS'267'
+p85
+aS'Neutral'
+p86
+aa(lp87
+S'Bangalore'
+p88
+aS'280'
+p89
+aS'Neutral'
+p90
+aa(lp91
+S'Hyderabad'
+p92
+aS'303'
+p93
+aS'Neutral'
+p94
+aa(lp95
+S'Mecca Masjid'
+p96
+aS'338'
+p97
+aS'Event'
+p98
+aa(lp99
+S'Karnataka'
+p100
+aS'352'
+p101
+aS'Neutral'
+p102
+aa(lp103
+S'Jaipur'
+p104
+aS'354'
+p105
+aS'Neutral'
+p106
+aa(lp107
+S'Bangalore'
+p108
+aS'403'
+p109
+aS'Neutral'
+p110
+aa(lp111
+S'Malegaon'
+p112
+aS'430'
+p113
+aS'Event'
+p114
+aa(lp115
+S'Mecca Masjid'
+p116
+aS'432'
+p117
+aS'Event'
+p118
+aasS'PER'
+p119
+(lp120
+(lp121
+S'official.Raziuddin Nasir'
+p122
+aS'123'
+p123
+aS'Assoc Accused'
+p124
+aa(lp125
+S'Hafiz Khan Adnan'
+p126
+aS'133'
+p127
+aS'Assoc Accused'
+p128
+aa(lp129
+S'Raziuddin'
+p130
+aS'153'
+p131
+aS'Assoc Accused'
+p132
+aa(lp133
+S'Maulana Naseeruddin'
+p134
+aS'156'
+p135
+aS'Others'
+p136
+aa(lp137
+S'Hiren Pandiya'
+p138
+aS'180'
+p139
+aS'Victim'
+p140
+aa(lp141
+S'Raziuddin'
+p142
+aS'185'
+p143
+aS'Assoc Accused'
+p144
+aa(lp145
+S'Muqamuddin'
+p146
+aS'189'
+p147
+aS'Assoc Accused'
+p148
+aasS'TIM'
+p149
+(lp150
+S'however : 318'
+p151
+asS'hot_setting'
+p152
+S''
+p153
+sS'event'
+p154
+S'ec0000_ei0015'
+p155
+sS'content'
+p156
+VHYDERABAD : Andhra Pradesh cops have managed to establish that there 's a clear link between terror elements operating in neighbouring Karnataka and those active in its soil . They are , however , yet to identify them.Based on evidence gathered from the twin blasts in Hyderabad last year and on the interrogation of arrested persons in Karnataka , the police believe that sleeper cells in the beighbouring state have close ties with elements from Andhra . ` The aim of these groups , whether Huji or LeT or Simi , is clear . Bangalore and Hyderabad are being chosen as targets to create panic in the US as the cities house biggest IT companies from the US , ' said an official.Raziuddin Nasir , a Hyderabad resident , and his aide Hafiz Khan Adnan from Bangalore , were arrested near Hubli in Karnataka in January this year as terror suspects . Raziuddin 's father Maulana Naseeruddin , also from Hyderabad , is currently lodged in the Sabarmati Jail in connection with the murder of former Gujarat home minister Hiren Pandiya . Recently , Raziuddin 's elder brother Muqamuddin had been arrested in Hyderabad for alleged terror links . ` All this proves that the terror elements in the two states are operating as one group , ' said another police official.According to sources , interrogation of suspects revealed that the October 2005 attack on the STF office in Hyderabad and the December attack in IISC , Bangalore was carried out by the same elements . Another clear link between the terror elements in Andhra and Karnataka is the explosive material used in the blasts . In Friday 's Bangalore blasts , an explosive with an ammonium nitrate base was used , while in the Gokul Chat and Lumbini Park explosions in Hyderabad last August , a similar ammonium nitrate base was used.The Andhra police are , however , yet to dismantle a single sleeper cell . ` So many suspects have been rounded up in the Mecca Masjid and twin blasts last year . So many teams have sent across Karnataka , Jaipur and other blast sites , but not a single arrest directly related to terrorists could be made . This is very frustrating for us , ' a senior official said.Based on preliminary reports , the police have found some facts with regard to Friday 's serial blasts in Bangalore . ` One that it was a low intensity one intended to create only panic and not to cause major casualties . And like the the Malegaon and Mecca Masjid blasts , it took place on a Friday during or just after the prayers , ' said another official .
+p157
+sS'death'
+p158
+g153
+sS'title'
+p159
+S"'Clear link with terror elements of Andhra'"
+p160
+sS'det_loc'
+p161
+(lp162
+S'India'
+p163
+aS'Andhra Pradesh'
+p164
+ag153
+aS'Hyderabad'
+p165
+ag153
+asS'terror_group'
+p166
+(lp167
+S'LASHKAR-E-TAIBA'
+p168
+asS'DAT'
+p169
+(lp170
+S'January:146'
+p171
+aS'October 2005:232'
+p172
+aS'October:232'
+p173
+aS'December:243'
+p174
+aS'December attack:243'
+p175
+aS'Friday:278'
+p176
+aS'August:305'
+p177
+aS'Friday:398'
+p178
+aS'Friday:441'
+p179
+asS'injured'
+p180
+g153
+sS'org_unorg'
+p181
+S'UNORGANISED'
+p182
+sS'O'
+p183
+(lp184
+S'link:15'
+p185
+aS'terror:17'
+p186
+aS'soil:28'
+p187
+aS'evidence:40'
+p188
+aS'twin blasts in hyderabad:44'
+p189
+aS'interrogation:53'
+p190
+aS'sleeper cells:64'
+p191
+aS'it companies:114'
+p192
+aS'resident:128'
+p193
+aS'terror suspects:150'
+p194
+aS'home minister:178'
+p195
+aS'police official.according:221'
+p196
+aS'interrogation:226'
+p197
+aS'attack:244'
+p198
+aS'explosive material:270'
+p199
+aS'bangalore blasts:280'
+p200
+aS'ammonium:287'
+p201
+aS'ammonium nitrate base:287'
+p202
+aS'nitrate:288'
+p203
+aS'base:289'
+p204
+aS'ammonium nitrate base:309'
+p205
+aS'sleeper cell:325'
+p206
+aS'twin blasts:341'
+p207
+aS'serial blasts:400'
+p208
+asS'unexpl'
+p209
+(lp210
+g153
+asS'ocassion'
+p211
+g153
+sS'link'
+p212
+S'http://timesofindia.indiatimes.com/india/Clear-link-with-terror-elements-of-Andhra/articleshow/3281651.cms?referral=PM'
+p213
+sS'date'
+p214
+S'25-08-2007'
+p215
+sS'target'
+p216
+S'PARK AND RESTRAUNT'
+p217
+sS'hot_spot'
+p218
+g153
+sS'delivery_mod'
+p219
+g153
+sS'delivery_met'
+p220
+S'THROWN'
+p221
+sS'expl'
+p222
+(lp223
+S'AMMONIUM NITRATE'
+p224
+asS'ORG'
+p225
+(lp226
+(lp227
+S'Huji'
+p228
+aS'86'
+p229
+aS'Others'
+p230
+aa(lp231
+S'LeT'
+p232
+aS'88'
+p233
+aS'Others'
+p234
+aa(lp235
+S'Simi'
+p236
+aS'90'
+p237
+aS'Others'
+p238
+aa(lp239
+S'STF'
+p240
+aS'237'
+p241
+aS'Others'
+p242
+aa(lp243
+S'IISC , Bangalore'
+p244
+aS'246'
+p245
+aS'Others'
+p246
+aa(lp247
+S'Gokul Chat'
+p248
+aS'296'
+p249
+aS'Others'
+p250
+aa(lp251
+S'Lumbini Park'
+p252
+aS'299'
+p253
+aS'Others'
+p254
+aa(lp255
+S'Andhra police'
+p256
+aS'314'
+p257
+aS'Others'
+p258
+aas.

@@ -1,0 +1,254 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Manipur'
+p4
+aS'17'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Keisampat'
+p8
+aS'50'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Keisampat'
+p12
+aS'87'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Imphal'
+p16
+aS'93'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Manipur'
+p20
+aS'167'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Manipurs Thoubal'
+p24
+aS'194'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Manipur'
+p28
+aS'225'
+p29
+aS'Neutral'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Konsam Jayanta Singh'
+p34
+aS'97'
+p35
+aS'Comment'
+p36
+aasS'TIM'
+p37
+(lp38
+sS'hot_setting'
+p39
+S''
+p40
+sS'DAT'
+p41
+(lp42
+S'Wednesday:11'
+p43
+aS'Monday:184'
+p44
+asS'death'
+p45
+g40
+sS'title'
+p46
+S'Blast in Imphal, two troopers injured'
+p47
+sS'org_unorg'
+p48
+g40
+sS'terror_group'
+p49
+(lp50
+g40
+asS'content'
+p51
+VTwo security personnel were injured in a bomb blast triggered Wednesday by suspected militants in the Manipur capital , police said . . . A security alert has been sounded . . . The two Assam Rifles troopers were on routine patrolling when the blast hit them in the Keisampat area , a few kilometres from the Manipur Police headquarters . . . Their condition is stated to be stable , an Assam Rifles official said . . . A security alert has been sounded and Keisampat has been cordoned off , Imphal district police chief Konsam Jayanta Singh told IANS . . . He said preliminary reports suggested that the blast could have been triggered by an Improvised Explosive Device . . . We have found the wreckage of a scooter from the blast site , he said . . . No arrests had been made so far , he added . . . Though no rebel group has claimed responsibility for the blasts , Manipur Police and intelligence officials said the blasts were carried out by rebels . . . On Monday , a youth was killed in a village of Manipurs Thoubal district after a bomb , suspected to have been planted by militants , went off at his house . . . There are more than 20 rebel outfits in Manipur with demands ranging from secession to greater autonomy.IANS .
+p52
+sS'injured'
+p53
+g40
+sS'det_loc'
+p54
+(lp55
+S'India'
+p56
+aS'Manipur'
+p57
+aS'Imphal West'
+p58
+aS'Imphal'
+p59
+ag40
+asS'O'
+p60
+(lp61
+S'Two security personnel:1'
+p62
+aS'injured:5'
+p63
+aS'bomb blast:8'
+p64
+aS'triggered:10'
+p65
+aS'suspected militants:13'
+p66
+aS'Manipur capital:17'
+p67
+aS'security alert:26'
+p68
+aS'sounded:30'
+p69
+aS'two Assam Rifles troopers:35'
+p70
+aS'routine patrolling:41'
+p71
+aS'blast:45'
+p72
+aS'hit:46'
+p73
+aS'few kilometres:54'
+p74
+aS'Manipur Police headquarters:58'
+p75
+aS'stable:70'
+p76
+aS'security alert:81'
+p77
+aS'sounded:85'
+p78
+aS'cordoned off:90'
+p79
+aS'preliminary reports:107'
+p80
+aS'blast:112'
+p81
+aS'triggered:116'
+p82
+aS'Improvised Explosive Device:119'
+p83
+aS'wreckage:129'
+p84
+aS'scooter:132'
+p85
+aS'blast site:135'
+p86
+aS'rebel group:158'
+p87
+aS'blasts:165'
+p88
+aS'Manipur Police:167'
+p89
+aS'intelligence officials:170'
+p90
+aS'blasts:174'
+p91
+aS'rebels:179'
+p92
+aS'killed:189'
+p93
+aS'Manipurs Thoubal district:194'
+p94
+aS'bomb:199'
+p95
+aS'suspected:201'
+p96
+aS'planted:205'
+p97
+aS'militants:207'
+p98
+aS'20 rebel outfits:221'
+p99
+aS'demands:227'
+p100
+aS'ranging:228'
+p101
+aS'secession:230'
+p102
+asS'unexpl'
+p103
+(lp104
+g40
+asS'ocassion'
+p105
+g40
+sS'link'
+p106
+S'http://www.thehindu.com/todays-paper/tp-in-school/blast-in-imphal-two-troopers-injured/article3863812.ece'
+p107
+sS'date'
+p108
+S'06-09-2012'
+p109
+sS'target'
+p110
+S'MILITARY GROUP'
+p111
+sS'hot_spot'
+p112
+g40
+sS'delivery_mod'
+p113
+g40
+sS'delivery_met'
+p114
+S'PLANTED'
+p115
+sS'expl'
+p116
+(lp117
+S'IED'
+p118
+asS'ORG'
+p119
+(lp120
+(lp121
+S'Assam Rifles'
+p122
+aS'36'
+p123
+aS'Others'
+p124
+aa(lp125
+S'Assam Rifles'
+p126
+aS'73'
+p127
+aS'Others'
+p128
+aa(lp129
+S'IANS'
+p130
+aS'101'
+p131
+aS'Others'
+p132
+aas.

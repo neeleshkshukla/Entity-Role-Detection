@@ -1,0 +1,151 @@
+{
+    "LOC": [
+        [
+            "Mecca Masjid", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Haryana", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "Mecca", 
+            "132", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rajendra Choudhary", 
+            "66", 
+            "Accused"
+        ], 
+        [
+            "Samundar", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "Devender Gupta", 
+            "111", 
+            "Accused"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "114", 
+            "Accused"
+        ], 
+        [
+            "Swamy Aseemanand", 
+            "117", 
+            "Accused"
+        ], 
+        [
+            "Bharat Mohanlal Rateshwar", 
+            "120", 
+            "Accused"
+        ], 
+        [
+            "Bharat Bhai", 
+            "124", 
+            "Accused"
+        ], 
+        [
+            "Tejaram", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "Sandeep V. Dhage", 
+            "140", 
+            "Accused"
+        ], 
+        [
+            "Ramchandra Kalsangra", 
+            "144", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:9", 
+        "2007:15", 
+        "Monday:61"
+    ], 
+    "death": "", 
+    "title": "NIA brings another accused in Masjid blast case to city", 
+    "det_loc": [
+        "Saudi Arabia", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The National Investigation Agency ( NIA ) on Sunday brought another accused in the 2007 Mecca Masjid bomb blast case to the city on a prisoners transit ( PT ) warrant and produced him before the magistrate at his house here . The magistrate , however , asked the agency to produce him in the Nampally criminal court complex on Monday . The agency brought Rajendra Choudhary alias Samundar after obtaining a PT warrant from the Panchkula court , Haryana . He is an accused in Samjhauta blast case which is also being investigated by the NIA . He is the sixth person to be arrested in the case . Devender Gupta , Lokesh Sharma , Swamy Aseemanand , Bharat Mohanlal Rateshwar alias Bharat Bhai and Tejaram were already arrested in Mecca Masjid case , while two others , Sandeep V. Dhage and Ramchandra Kalsangra are absconding , NIA officials said . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "accused:12", 
+        "mecca masjid bomb blast case:16", 
+        "prisoners transit ( pt ) warrant:26", 
+        "magistrate:37", 
+        "magistrate:44", 
+        "agency:50", 
+        "court complex:58", 
+        "agency:64", 
+        "pt warrant:73", 
+        "samjhauta blast case:87", 
+        "mecca masjid case:132"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/nia-brings-another-accused-in-masjid-blast-case-to-city/article4473773.ece", 
+    "date": "08-05-2007", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "The National Investigation Agency", 
+            "1", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Nampally criminal court complex", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "Panchkula court", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "97", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "149", 
+            "Others"
+        ]
+    ]
+}

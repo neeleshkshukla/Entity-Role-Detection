@@ -1,0 +1,73 @@
+{
+    "LOC": [
+        [
+            "Nowshera", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Khyber-Pukhtoonkhwa province", 
+            "23", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Anita Joshua", 
+            "48", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday night : 26"
+    ], 
+    "death": "10", 
+    "title": "Blast kills 10in Pakistan", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "TEHREEK-E-TALIBAN PAKISTAN"
+    ], 
+    "content": "At least 10 people were killed and double the number injured in a bomb blast at a bakery at Nowshera in the Khyber-Pukhtoonkhwa province on Sunday night . The Tehreek-e-Taliban Pakistan claimed responsibility for planting the device in a dustbin at the entrance of the bakery . Anita Joshua OPEN", 
+    "injured": "20", 
+    "org_unorg": "", 
+    "O": [
+        "injured:11", 
+        "bomb blast:14", 
+        "bakery:18", 
+        "khyber-pukhtoonkhwa:23", 
+        "tehreek-e-taliban pakistan:30", 
+        "responsibility:33", 
+        "planting:35", 
+        "dustbin:40", 
+        "entrance:43", 
+        "bakery:46"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/blast-kills-10in-pakistan/article2080822.ece", 
+    "date": "05-06-2011", 
+    "target": "HOTEL AND RESTAURANT", 
+    "hot_spot": "", 
+    "delivery_mod": "DUSTBIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Tehreek-e-Taliban Pakistan", 
+            "30", 
+            "Accused"
+        ]
+    ]
+}

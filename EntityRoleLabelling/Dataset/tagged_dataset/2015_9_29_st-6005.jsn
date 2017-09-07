@@ -1,0 +1,281 @@
+{
+    "LOC": [
+        [
+            "Ranchi-Ramgarh", 
+            "34", 
+            "Accused Location"
+        ], 
+        [
+            "Ramgarh", 
+            "37", 
+            "Accused Location"
+        ], 
+        [
+            "Bardhaman", 
+            "69", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "78", 
+            "Accused Location"
+        ], 
+        [
+            "Barharwa", 
+            "83", 
+            "Accused Location"
+        ], 
+        [
+            "Sahebganj", 
+            "85", 
+            "Accused Location"
+        ], 
+        [
+            "Ramgarh", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Sahebganj", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "Sahebganj", 
+            "105", 
+            "Neutral"
+        ], 
+        [
+            "Bengal", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "Bangladesh", 
+            "115", 
+            "Neutral"
+        ], 
+        [
+            "Bardhaman", 
+            "125", 
+            "Event"
+        ], 
+        [
+            "Jharkhand", 
+            "128", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bardhaman", 
+            "144", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "198", 
+            "Event"
+        ], 
+        [
+            "Jharkhand", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "260", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Tariqul Islam", 
+            "27", 
+            "Accused"
+        ], 
+        [
+            "Sadiq", 
+            "30", 
+            "Accused"
+        ], 
+        [
+            "Sumon", 
+            "32", 
+            "Accused"
+        ], 
+        [
+            "Tariqul Islam", 
+            "47", 
+            "Accused"
+        ], 
+        [
+            "Tariqul Islam", 
+            "74", 
+            "Accused"
+        ], 
+        [
+            "SN Pradhan", 
+            "132", 
+            "Comment"
+        ], 
+        [
+            "Pradhan", 
+            "184", 
+            "Comment"
+        ], 
+        [
+            "Pradhan", 
+            "251", 
+            "Comment"
+        ], 
+        [
+            "Pradhan", 
+            "262", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday afternoon : 40", 
+        "October 2014 : 67", 
+        "October 2014 : 188", 
+        "Wednesday : 287"
+    ], 
+    "death": "", 
+    "title": "Terrorist wanted in Bardhaman blast held in Jharkhand", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The anti-terrorist squad of the state police with the help of National Investigation Agency ( NIA ) arrested a key Jamaat-ul-Mujahideen Bangladesh ( JMB ) terrorist Tariqul Islam alias Sadiq alias Sumon from Ranchi-Ramgarh border in Ramgarh district on Tuesday afternoon . According to NIA , Tariqul Islam carries a cash reward of Rs 5 lakh on his head and NIA was looking for him after October 2014 Bardhaman blast . Around 30-year-old Tariqul Islam is a Bangladesh national and lived at Barharwa in Sahebganj district . He was hiding in Ramgarh district after police mounted a search operation for him in Sahebganj . Sahebganj is situated on the tri-junction of Jharkhand-West Bengal and Bangladesh . Several terrorists have been arrested in connection with Bardhaman blast in Jharkhand . Police spokesperson SN Pradhan said he was wanted as a proclaimed warrantee in the Bardhaman blast case . `` The information was given to ATS recently by NIA . ATS developed the information and tracked him down . A team of NIA came to coordinate the operation which resulted into the arrest , '' Pradhan said . In October 2014 an explosion took place in a house at Bardhaman revealing the hideout of the JMB . In subsequent raids police had found several IEDs , and explosive substance from the house . `` He is one of the top terrorist of JMB and handled its Jharkhand structure . He is a bigger catch than what we had initially thought , '' Pradhan said . ATS has been newly formed in Jharkhand and Pradhan said it was the first major success of the anti terrorist squad . NIA is likely to produce him in the local court on Wednesday to seek his transit remand . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "arrested:18", 
+        "terrorist:26", 
+        "cash reward of Rs 5 lakh:51", 
+        "Bardhaman blast:69", 
+        "hiding:90", 
+        "mounted:96", 
+        "tri-junction of Jharkhand-West Bengal and Bangladesh:110", 
+        "terrorists:118", 
+        "arrested:121", 
+        "Bardhaman blast:125", 
+        "proclaimed warrantee:140", 
+        "Bardhaman blast:144", 
+        "information:162", 
+        "tracked:164", 
+        "coordinate:174", 
+        "arrest:181", 
+        "explosion:191", 
+        "hideout:201", 
+        "IEDs:213", 
+        "explosive substance:216", 
+        "top terrorist:228", 
+        "Jharkhand structure:235", 
+        "first major success:267", 
+        "local court:284", 
+        "transit:291"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/Terrorist-wanted-in-Bardhaman-blast-held-in-Jharkhand/articleshow/49156635.cms", 
+    "date": "02-10-2014", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "anti-terrorist squad", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "24", 
+            "Accused"
+        ], 
+        [
+            "NIA", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "154", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "157", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "159", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "JMB", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "231", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "254", 
+            "Others"
+        ], 
+        [
+            "anti terrorist squad", 
+            "272", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "276", 
+            "Others"
+        ]
+    ]
+}

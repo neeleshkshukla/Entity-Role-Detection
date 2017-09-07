@@ -1,0 +1,444 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bodh Gaya'
+p4
+aS'9'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bihar'
+p8
+aS'12'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Myanmar'
+p12
+aS'36'
+p13
+aS'Victim Location'
+p14
+aa(lp15
+S'Bodh Gaya'
+p16
+aS'69'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Tregar monastery premises'
+p20
+aS'174'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Bihar'
+p24
+aS'258'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Bodh Gaya'
+p28
+aS'264'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Bodh Gaya'
+p32
+aS'369'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Kolkata'
+p36
+aS'372'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Bodh Gaya'
+p40
+aS'412'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Bodh Gaya'
+p44
+aS'576'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Gaya'
+p48
+aS'585'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Patna'
+p52
+aS'591'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Bodh Gaya'
+p56
+aS'624'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Sri Lankan'
+p60
+aS'627'
+p61
+aS'Neutral'
+p62
+aasS'PER'
+p63
+(lp64
+(lp65
+S'Anil Goswami'
+p66
+aS'64'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Sujata'
+p70
+aS'211'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Arvind Singh'
+p74
+aS'216'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Sushil Khopade'
+p78
+aS'250'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Nitish Kumar'
+p82
+aS'261'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Prem Kumar'
+p86
+aS'298'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Nitish Kumar'
+p90
+aS'301'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Parasnath'
+p94
+aS'378'
+p95
+aS'Comment'
+p96
+aa(lp97
+S'Dorji'
+p98
+aS'415'
+p99
+aS'Comment'
+p100
+aa(lp101
+S'S K Bharadwaj'
+p102
+aS'518'
+p103
+aS'Comment'
+p104
+aa(lp105
+S'Dalai Lama'
+p106
+aS'618'
+p107
+aS'Others'
+p108
+aa(lp109
+S'Mahinda Rajapaksa'
+p110
+aS'630'
+p111
+aS'Others'
+p112
+aasS'TIM'
+p113
+(lp114
+S'5.30 am : 107'
+p115
+aS'6am : 110'
+p116
+aS'six-seven months : 546'
+p117
+aS'six months : 635'
+p118
+asS'hot_setting'
+p119
+S''
+p120
+sS'DAT'
+p121
+(lp122
+S'Sunday morning:24'
+p123
+asS'death'
+p124
+S'2'
+p125
+sS'title'
+p126
+S'Terror strikes Bodh Gaya, serial blasts rock Mahabodhi Temple'
+p127
+sS'org_unorg'
+p128
+g120
+sS'terror_group'
+p129
+(lp130
+S'INDIAN MUJAHIDEEN'
+p131
+asS'content'
+p132
+VGAYA : Terror struck the temple town of Bodh Gaya in Bihar , as nine serial explosions rocked the Mahabodhi Temple complex on Sunday morning . . . Two tourists , including a monk from Myanmar , have been injured in the blasts . The injured are being treated at the Anugrah Narain Magadh Medical College hospital . . . Union home secretary Anil Goswami confirmed that the Bodh Gaya blasts were a terror attack . . . Bihar Police suspect the involvement of Indian Mujahideen in the temple blasts . . . According to Gaya Police , the blasts took place in quick succession between 5.30 am and 6am in the temple complex and near the Mahabodhi tree . One blast was reported from a bus stand . . . One of the blasts took place just under the enlightenment tree causing partial damage to the Buddha footprints in the shrine premises . . . Four blasts took place inside the shrine premises , while another three blasts took place in the Tregar monastery premises . The Tregar monastery belongs to the Karmapa , the second most important spiritual leader . . . One blast each took place at the great Buddha statue and a bus parked on the Sujata bypass . . . Arvind Singh , a member of Mahabodhi Temple Management Commitee said two other bombs , one near the 80 feet statue and one at bus stand have been defused . . . Zonal IG Sushil Khopade confirmed eight blasts . . . Bihar chief minister Nitish Kumar reached Bodh Gaya to take stock of the situation . He took a round of the Mahabodhi Temple complex and held a meeting with the officials . . . BJP activists led by former minister Prem Kumar greeted Nitish Kumar with ` go back ' slogans outside the temple main gate . . . JD ( U ) workers present there raised pro-Nitish slogans and countered the protesting BJP workers . . . Cops have sealed the entry routes to the shrine . A NIA team is expected to arrive shortly for the probe . . . `` A team of NIA officers is coming to Bodh Gaya from Kolkata , '' DIG special branch Parasnath said . . . The DIG said , `` The sanctum sanctorum of the Mahabodhi Temple is intact . The temple premises have been sanitised . '' . . The secretary of the Bodh Gaya committee Dorji said , `` There were four blasts inside the temple premises . Fortunately , there was no damage to the Bodhi Tree or the main temple structure . '' . . `` In the first blast which took place near the Bodhi tree , a table was blown up because of which two persons were injured . The second blast , I think , was inside the enclosure where books were kept . The furniture was damaged but there was no damage to the monuments or statues , '' he said . . . Asked about the nature of explosives used , S K Bharadwaj , ADG ( Law and Order ) said they were low intensity time bombs . . . He said , `` We got information about six-seven months back that there may be a terror attack on the Mahabodhi temple . After that we had beefed up secuirty and deployed extra forces '' . . . Bodh Gaya Buddhist temple , around 10 km from Gaya and 100 km from capital Patna , is world famous . Lord Buddha had attained enlightenment here under the Mahabodhi tree in the temple premises . . . Tibetan spiritual leader the Dalai Lama makes frequent trips to Bodh Gaya and Sri Lankan President Mahinda Rajapaksa had visited it six months back . A total of 52 countries have established their monasteries here .
+p133
+sS'injured'
+p134
+g120
+sS'det_loc'
+p135
+(lp136
+S'India'
+p137
+aS'Bihar'
+p138
+aS'Gaya'
+p139
+aS'Bodh Gaya'
+p140
+aS'Mahabodhi Temple'
+p141
+asS'O'
+p142
+(lp143
+S'Terror struck:3'
+p144
+aS'nine serial explosions:15'
+p145
+aS'Mahabodhi Temple complex:20'
+p146
+aS'blasts:43'
+p147
+aS'blasts:71'
+p148
+aS'terror attack:74'
+p149
+aS'temple blasts:89'
+p150
+aS'blasts:100'
+p151
+aS'temple complex:113'
+p152
+aS'Mahabodhi tree:118'
+p153
+aS'blast:122'
+p154
+aS'blasts:135'
+p155
+aS'enlightenment tree:141'
+p156
+aS'Buddha footprints:148'
+p157
+aS'shrine premises:152'
+p158
+aS'Four blasts:157'
+p159
+aS'shrine premises:163'
+p160
+aS'blasts:169'
+p161
+aS'Tregar monastery:179'
+p162
+aS'Karmapa:184'
+p163
+aS'blast:196'
+p164
+aS'Buddha statue:203'
+p165
+aS'bombs:229'
+p166
+aS'eight blasts:253'
+p167
+aS'Mahabodhi Temple complex:279'
+p168
+aS'pro-Nitish slogans:325'
+p169
+aS'sanctum sanctorum:389'
+p170
+aS'Mahabodhi Temple:393'
+p171
+aS'four blasts:421'
+p172
+aS'temple premises:425'
+p173
+aS'Bodhi Tree:436'
+p174
+aS'first blast:450'
+p175
+aS'Bodhi tree:457'
+p176
+aS'second blast:474'
+p177
+aS'explosives:515'
+p178
+aS'low intensity time bombs:531'
+p179
+aS'terror attack:554'
+p180
+aS'Mahabodhi temple:558'
+p181
+aS'Buddhist temple:578'
+p182
+aS'Lord Buddha:597'
+p183
+aS'enlightenment:601'
+p184
+aS'Mahabodhi tree:605'
+p185
+aS'temple premises:609'
+p186
+aS'Tibetan:614'
+p187
+aS'52 countries:642'
+p188
+asS'unexpl'
+p189
+(lp190
+g120
+asS'ocassion'
+p191
+g120
+sS'link'
+p192
+S'http://articles.economictimes.indiatimes.com/2013-07-07/news/40421465_1_temple-premises-blasts-bodhi-tree'
+p193
+sS'date'
+p194
+S'07-07-2013'
+p195
+sS'target'
+p196
+g120
+sS'hot_spot'
+p197
+g120
+sS'delivery_mod'
+p198
+g120
+sS'delivery_met'
+p199
+S'PLANTED'
+p200
+sS'expl'
+p201
+(lp202
+g120
+asS'ORG'
+p203
+(lp204
+(lp205
+S'Anugrah Narain Magadh Medical College hospital'
+p206
+aS'52'
+p207
+aS'Others'
+p208
+aa(lp209
+S'Bihar Police'
+p210
+aS'79'
+p211
+aS'Others'
+p212
+aa(lp213
+S'Indian Mujahideen'
+p214
+aS'85'
+p215
+aS'Accused'
+p216
+aa(lp217
+S'Gaya Police'
+p218
+aS'96'
+p219
+aS'Others'
+p220
+aa(lp221
+S'Mahabodhi Temple Management Commitee'
+p222
+aS'222'
+p223
+aS'Others'
+p224
+aa(lp225
+S'BJP'
+p226
+aS'292'
+p227
+aS'Others'
+p228
+aa(lp229
+S'BJP'
+p230
+aS'331'
+p231
+aS'Others'
+p232
+aa(lp233
+S'NIA'
+p234
+aS'347'
+p235
+aS'Others'
+p236
+aa(lp237
+S'NIA'
+p238
+aS'364'
+p239
+aS'Others'
+p240
+aas.

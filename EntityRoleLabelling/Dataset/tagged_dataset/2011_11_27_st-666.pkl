@@ -1,0 +1,153 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Somanath Nagar'
+p4
+aS'21'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Jayaprakash Nagar'
+p8
+aS'53'
+p9
+aS'Event'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Kali Charan Padhi'
+p14
+aS'31'
+p15
+aS'Victim'
+p16
+aa(lp17
+S'Prakash Chandra Sabat'
+p18
+aS'74'
+p19
+aS'Victim'
+p20
+aasS'TIM'
+p21
+(lp22
+S'7 p.m.:26'
+p23
+aS'8.30 p.m.:58'
+p24
+asS'hot_setting'
+p25
+S''
+p26
+sS'DAT'
+p27
+(lp28
+S'Friday:12'
+p29
+asS'death'
+p30
+g26
+sS'title'
+p31
+S'Two injured in bomb blasts'
+p32
+sS'det_loc'
+p33
+(lp34
+S'India'
+p35
+aS'Orissa'
+p36
+aS'Ganjam'
+p37
+aS' BERHAMPUR'
+p38
+aS' BERHAMPUR'
+p39
+asS'terror_group'
+p40
+(lp41
+S'Miscreants,Dacoits & Smuggler Gang'
+p42
+asS'content'
+p43
+S'Miscreants hurled crude bombs at two places in the city on Friday evening . First case of bombing occurred at Somanath Nagar area at around 7 p.m. . A trader Kali Charan Padhi was injured . He was targeted by some youths who came on a motorcycle . Second incident occurred at Jayaprakash Nagar area at around 8.30 p.m. . A group of miscreants blasted bombs there . A stenographer of Irrigation Department Prakash Chandra Sabat was injured in the blasts . OPEN'
+p44
+sS'injured'
+p45
+S'2'
+p46
+sS'org_unorg'
+p47
+S'Organized'
+p48
+sS'O'
+p49
+(lp50
+S'crude bombs:3'
+p51
+aS'friday evening:12'
+p52
+aS'trader kali charan padhi:30'
+p53
+aS'some:41'
+p54
+aS'some youths:41'
+p55
+aS'motorcycle:47'
+p56
+aS'group of miscreants:62'
+p57
+aS'stenographer of irrigation department:70'
+p58
+asS'unexpl'
+p59
+(lp60
+g26
+asS'ocassion'
+p61
+g26
+sS'link'
+p62
+S'http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/two-injured-in-bomb-blasts/article2664769.ece'
+p63
+sS'date'
+p64
+S'25-11-2011'
+p65
+sS'target'
+p66
+g26
+sS'hot_spot'
+p67
+S'Somanath Nagar, Jayaprakash Nagar'
+p68
+sS'delivery_mod'
+p69
+S'Two wheeler'
+p70
+sS'delivery_met'
+p71
+S'Thrown'
+p72
+sS'expl'
+p73
+(lp74
+S'Crude bomb'
+p75
+asS'ORG'
+p76
+(lp77
+(lp78
+S'Irrigation Department'
+p79
+aS'72'
+p80
+aS'Others'
+p81
+aas.

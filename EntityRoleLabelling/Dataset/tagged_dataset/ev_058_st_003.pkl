@@ -1,0 +1,899 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbai'
+p4
+aS'2'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Mumbai'
+p8
+aS'90'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Zaveri Bazar'
+p12
+aS'163'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Mumbai'
+p16
+aS'241'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Mumbai'
+p20
+aS'246'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Ghatkopar'
+p24
+aS'299'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'SEEPZ'
+p28
+aS'362'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Mumbai'
+p32
+aS'431'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Maharashtra'
+p36
+aS'469'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Ghatkopar'
+p40
+aS'587'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Ghatkopar'
+p44
+aS'597'
+p45
+aS'Assoc Event Location'
+p46
+aa(lp47
+S'India'
+p48
+aS'698'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Dubai'
+p52
+aS'773'
+p53
+aS'Accused Location'
+p54
+aa(lp55
+S'Gujarat'
+p56
+aS'788'
+p57
+aS'Assoc Event Location'
+p58
+aa(lp59
+S'Dubai'
+p60
+aS'797'
+p61
+aS'Accused Location'
+p62
+aa(lp63
+S'India'
+p64
+aS'801'
+p65
+aS'Event'
+p66
+aa(lp67
+S'India'
+p68
+aS'821'
+p69
+aS'Event'
+p70
+aa(lp71
+S'Dubai'
+p72
+aS'882'
+p73
+aS'Accused Location'
+p74
+aa(lp75
+S'Saudi Arabia'
+p76
+aS'895'
+p77
+aS'Neutral'
+p78
+aa(lp79
+S'Pakistan'
+p80
+aS'907'
+p81
+aS'Neutral'
+p82
+aa(lp83
+S'Gujarat'
+p84
+aS'983'
+p85
+aS'Assoc Event Location'
+p86
+aa(lp87
+S'Surat'
+p88
+aS'1000'
+p89
+aS'Accused Location'
+p90
+aa(lp91
+S'Gujarat'
+p92
+aS'1003'
+p93
+aS'Assoc Event Location'
+p94
+aa(lp95
+S'Gujarat'
+p96
+aS'1012'
+p97
+aS'Assoc Event Location'
+p98
+aa(lp99
+S'Ahmedabad'
+p100
+aS'1015'
+p101
+aS'Assoc Event Location'
+p102
+aa(lp103
+S'Vadodara'
+p104
+aS'1017'
+p105
+aS'Assoc Event Location'
+p106
+aa(lp107
+S'Gujarat'
+p108
+aS'1020'
+p109
+aS'Assoc Event Location'
+p110
+aa(lp111
+S'Surat'
+p112
+aS'1022'
+p113
+aS'Accused Location'
+p114
+aa(lp115
+S'Mumbai'
+p116
+aS'1053'
+p117
+aS'Event'
+p118
+aa(lp119
+S'Gujarat'
+p120
+aS'1063'
+p121
+aS'Assoc Event Location'
+p122
+aa(lp123
+S'Gujarat'
+p124
+aS'1076'
+p125
+aS'Assoc Event Location'
+p126
+aa(lp127
+S'Mumbai'
+p128
+aS'1082'
+p129
+aS'Event'
+p130
+aa(lp131
+S'Gujarat'
+p132
+aS'1101'
+p133
+aS'Assoc Event Location'
+p134
+aa(lp135
+S'Gujarat'
+p136
+aS'1110'
+p137
+aS'Assoc Event Location'
+p138
+aa(lp139
+S'Gujarat'
+p140
+aS'1134'
+p141
+aS'Assoc Event Location'
+p142
+aa(lp143
+S'Gujarat'
+p144
+aS'1142'
+p145
+aS'Assoc Event Location'
+p146
+aa(lp147
+S'Gujarat'
+p148
+aS'1189'
+p149
+aS'Assoc Event Location'
+p150
+aa(lp151
+S'Gujarat'
+p152
+aS'1215'
+p153
+aS'Assoc Event Location'
+p154
+aa(lp155
+S'Ghatkopar'
+p156
+aS'1229'
+p157
+aS'Assoc Event Location'
+p158
+aa(lp159
+S'Zaveri Bazar'
+p160
+aS'1231'
+p161
+aS'Event'
+p162
+aa(lp163
+S'Gateway of India'
+p164
+aS'1235'
+p165
+aS'Event'
+p166
+aa(lp167
+S'India'
+p168
+aS'1237'
+p169
+aS'Event'
+p170
+aa(lp171
+S'Ghatkopar'
+p172
+aS'1262'
+p173
+aS'Event'
+p174
+aa(lp175
+S'Andheri East'
+p176
+aS'1270'
+p177
+aS'Accused Location'
+p178
+aa(lp179
+S'Ghatkopar'
+p180
+aS'1297'
+p181
+aS'Event'
+p182
+aa(lp183
+S'Zaveri Bazar'
+p184
+aS'1300'
+p185
+aS'Event'
+p186
+aa(lp187
+S'Mumbai'
+p188
+aS'1305'
+p189
+aS'Event'
+p190
+aa(lp191
+S'Andheri West'
+p192
+aS'1352'
+p193
+aS'Accused Location'
+p194
+aa(lp195
+S'Mumbai'
+p196
+aS'1356'
+p197
+aS'Event'
+p198
+aa(lp199
+S'Andheri East'
+p200
+aS'1361'
+p201
+aS'Accused Location'
+p202
+aa(lp203
+S'Mumbai'
+p204
+aS'1365'
+p205
+aS'Event'
+p206
+aa(lp207
+S'Chandigarh'
+p208
+aS'1447'
+p209
+aS'Neutral'
+p210
+aa(lp211
+S'Mangalore'
+p212
+aS'1469'
+p213
+aS'Accused Location'
+p214
+aa(lp215
+S'India'
+p216
+aS'1473'
+p217
+aS'Event'
+p218
+aa(lp219
+S'Bars Bareily'
+p220
+aS'1480'
+p221
+aS'Accused Location'
+p222
+aa(lp223
+S'Uttar Pradesh'
+p224
+aS'1484'
+p225
+aS'Accused Location'
+p226
+aasS'PER'
+p227
+(lp228
+(lp229
+S'Syed Mohammad Hanif'
+p230
+aS'34'
+p231
+aS'Accused'
+p232
+aa(lp233
+S'Syed Fahmida Mohammand Hanif'
+p234
+aS'42'
+p235
+aS'Accused'
+p236
+aa(lp237
+S'Syed Farheen Mohammad Hanif'
+p238
+aS'51'
+p239
+aS'Accused'
+p240
+aa(lp241
+S'Hanif'
+p242
+aS'67'
+p243
+aS'Accused'
+p244
+aa(lp245
+S'Shivnarayan Pande'
+p246
+aS'129'
+p247
+aS'Victim'
+p248
+aa(lp249
+S'Arshad Shafique Mohammad Ansari'
+p250
+aS'147'
+p251
+aS'Accused'
+p252
+aa(lp253
+S'Hanif'
+p254
+aS'288'
+p255
+aS'Accused'
+p256
+aa(lp257
+S'Arshad'
+p258
+aS'329'
+p259
+aS'Accused'
+p260
+aa(lp261
+S'Farheen'
+p262
+aS'331'
+p263
+aS'Accused'
+p264
+aa(lp265
+S'R S Sharma'
+p266
+aS'434'
+p267
+aS'Comment'
+p268
+aa(lp269
+S'Hanif'
+p270
+aS'458'
+p271
+aS'Accused'
+p272
+aa(lp273
+S'Chhagan Bhujbal'
+p274
+aS'473'
+p275
+aS'Comment'
+p276
+aa(lp277
+S'Bhujbal'
+p278
+aS'703'
+p279
+aS'Comment'
+p280
+aa(lp281
+S'Hanif'
+p282
+aS'752'
+p283
+aS'Accused'
+p284
+aa(lp285
+S'Hanif'
+p286
+aS'823'
+p287
+aS'Accused'
+p288
+aa(lp289
+S'Ashraf'
+p290
+aS'825'
+p291
+aS'Accused'
+p292
+aa(lp293
+S'Hanif'
+p294
+aS'837'
+p295
+aS'Accused'
+p296
+aa(lp297
+S'ASHRAF'
+p298
+aS'962'
+p299
+aS'Accused'
+p300
+aa(lp301
+S'Ashraf'
+p302
+aS'1031'
+p303
+aS'Accused'
+p304
+aa(lp305
+S'Ashraf'
+p306
+aS'1049'
+p307
+aS'Accused'
+p308
+aa(lp309
+S'Bhujbal'
+p310
+aS'1204'
+p311
+aS'Comment'
+p312
+aa(lp313
+S'Hanif'
+p314
+aS'1350'
+p315
+aS'Accused'
+p316
+aa(lp317
+S'Dr Satyapal Singh'
+p318
+aS'1428'
+p319
+aS'Comment'
+p320
+aa(lp321
+S'Hanif'
+p322
+aS'1464'
+p323
+aS'Accused'
+p324
+aa(lp325
+S'Arshad'
+p326
+aS'1476'
+p327
+aS'Accused'
+p328
+aasS'TIM'
+p329
+(lp330
+sS'hot_setting'
+p331
+S''
+p332
+sS'DAT'
+p333
+(lp334
+S'Friday:5'
+p335
+aS'August 25:11'
+p336
+aS'August:11'
+p337
+aS'2003:14'
+p338
+aS'July 28:301'
+p339
+aS'2003:304'
+p340
+aS'September 14:803'
+p341
+aS'September:803'
+p342
+aS'2002:806'
+p343
+aS'2002:987'
+p344
+asS'death'
+p345
+g332
+sS'title'
+p346
+S'Mumbai twin blasts case solved: Police'
+p347
+sS'det_loc'
+p348
+(lp349
+S'India'
+p350
+aS'Maharashtra'
+p351
+aS'Mumbai-City'
+p352
+aS'Mumbai'
+p353
+aS'Gateway of India, Zaberi Bazaar'
+p354
+asS'terror_group'
+p355
+(lp356
+S'HANIF GROUP'
+p357
+asS'content'
+p358
+VThe Mumbai Police on Friday claimed to have cracked the August 25 , 2003 twin blasts case with the arrest of four persons . The arrested include three persons from one family -- Syed Mohammad Hanif , 42 ; his wife Syed Fahmida Mohammand Hanif , 36 ; and daughter Syed Farheen Mohammad Hanif , 18 . . . . . These three , along with Hanif 's three-year-old daughter , had hired the taxi that was blown up at the Gateway of India . Complete coverage of the Mumbai blastsThe police have handed over the three-year-old daughter to her grandmother . It was the description provided bythe taxi driver , who survived the blast , that helped the police find the suspects . The taxi driver , Shivnarayan Pande , is now being provided police protection . . . . . The fourth arrested , Arshad Shafique Mohammad Ansari , 27 , had hired the second taxi that blew up at Zaveri Bazar , killing the driver . . . . . The police are still on the lookout for two more suspects and are confident of picking them up soon . . . . . . . . . . . . . . . . . . . Also Read . . . . . . . . . . . . . . . . . . . . . . . . Four arrested in Mumbai blasts case'Police intelligence in Mumbai is very poor '' The sound of the bomb still haunts me '45 minutes before the blasts , a warning ` There was no intelligence failure ' . . Incidentally , this outfit , which the police have termed as the Hanif group , was also responsible for the bomb blast at Ghatkopar on July 28 , 2003 , when a bomb was placed below the back seat of a bus , route number 340 . Then , the police said , Arshad and Farheen had boarded the bus and placed the bomb below the seat . . . . . . . This same outfit had also attempted to carry out a blast at SEEPZ -LRB- Santa Cruz Electronics Export Processing Zone -RRB- last year , but the explosive device failed . . . . . With the arrests , the police are clearly heaving a sigh of relief and are proud of having cracked the case in a week 's time . The media turned up in huge numbers when the police called the press conference , held in the office of Mumbai Police Commissioner R S Sharma . Displayed on his huge table were gelatin sticks , alarm clocks , binding tape andshrapnel , all used by the Hanif group to make their bombs . . . . . Maharashtra Deputy Chief Minister Chhagan Bhujbal announced the arrests of the four suspects , and praised the police Crime Branch for their success . Crime Branch Unit 11 and Unit 9 were mainly responsible for cracking the case . . . . . Said a senior police officer , ` We arrested them a couple of days ago , but we made sure that they were the right people before calling this press conference , ' he said , and added testily , ` Otherwise , the media will be the first to castigate us . ' . . . . Asked if it did not amount to intelligence failure that this group was not arrested after the Ghatkopar blast , he said the reason was that after Ghatkopar , there was just no description of the couple who had boarded the bus . ` The police also need some clues when looking for people . This time , we were lucky to get a good description from the taxi driver and our men did the rest of the work , ' he said . . . . . THE arrests and interrogation of the four culprits has thrown light and revealed the politicised statements made earlier . The four arrested have no connection with any local outfit . When specifically asked whether SIMI -LRB- Students Muslim Organization of India -RRB- was involved , Bhujbal said , ` No . ' Then he added , ` So far . ' . . . . But while the involvement of local jihadi groups is being ruled out , the police were categorical in bringing to light the international links . They pointed out that Hanif , who is clearly the mastermind and key agent of the blast , was employed at the Hilton Hotel in Dubai as an electrician . . . . . The police said that after the Gujarat riots , he was ` indoctrinated ' in Dubai and returned to India on September 14 , 2002 , with the intention of carrying out terrorist acts . On his return to India , Hanif contacted Ashraf and the duo began carrying out the explosions , supported by Hanif 's wife and grown-up daughter . . . . . When asked who indoctrinated him , the police were unwilling to give a name or even a hint . But the aforementioned officer said that as per their information , they believe that the Dubai centre that ` indoctrinated ' Hanif received instructions from an outfit in Saudi Arabia , which in turn was commanded by an outfit in Pakistan . . . . . This officer said the involvement of the Lashkar-e-Tayiba was not ruled out , just that it was more roundabout . . . . . But what stands punctured is the so-called link between the Lashkar and SIMI , a link that had political overtones . . . . . ASHRAF told the police that they had formed the Gujarat Muslim Revenge Force to avenge the killings of Muslim during the Gujarat riots of early 2002 . Ashraf is a zari -LRB- embroidery -RRB- worker , based in Surat , southern Gujarat . . . . . But while the Gujarat riots affected Ahmedabad , Vadodara and central Gujarat , Surat was peaceful . So on what basis did Ashraf claim to be affected ? . . . . A second senior officer told rediff.com that when Ashraf was questioned why Mumbai is being targeted if the motive is revenge for Gujarat , he apparently replied , ` Because the rich supporters of the Gujarat government are all based in Mumbai . ' . . . . But a third senior police officer said in the final analysis , Gujarat was merely the fig leaf cover . ` Gujarat today is being blamed for everything , ' he said , ` It is too simple to assume that the only motive is Gujarat . It is like saying that if Gujarat did not happen then these blasts would not take place . But we know that would not be the case . These blasts are going to occur because the motive is far bigger . ' . . . . There has been the perception that the Gujarat revenge motive is being played to the hilt . When the blast occurred , Bhujbal 's first reaction then was to blame the blasts on Gujarat . Reason : all the blasts had occurred in Gujarati-dominated areas such as Ghatkopar and Zaveri Bazar . The Gateway of India is an international symbol and a favourite tourist spot . . . . . But as the police revealed , the explosive for the Ghatkopar blast was placed inside the bus at Andheri East , from where the bus begins its run , and timed to explode later . It was just a coincidence that it happened to be Ghatkopar . And Zaveri Bazar is one of Mumbai 's most important commercial areas , and an extremely congested and busy area , where it is easy to slip in and out without anyone noticing . . . . . The police also said that the explosives were prepared at the residences of Hanif in Andheri West -LRB- northwestern Mumbai -RRB- and Ashraf in Andheri East -LRB- northwestern Mumbai -RRB- . The two , who lived in poor tenements , made the explosives from gelatin sticks that are available locally since gelatin is used for quarrying and other controlled blasts . . . . . There is as yet no indication that RDX was used . . . . . Asked about the use of RDX , Joint Commissioner of Police Dr Satyapal Singh said the police are still awaiting the report from the Central Forensic Laboratory of India , Chandigarh , and which would be considered final . . . . . The police said that Hanif originally hails from the Mangalore region -LRB- southwestern India -RRB- while Arshad hails from the Bars Bareily district in Uttar Pradesh . .
+p359
+sS'injured'
+p360
+g332
+sS'org_unorg'
+p361
+S'ORGANISED'
+p362
+sS'O'
+p363
+(lp364
+S'Mumbai Police:2'
+p365
+aS'arrested:26'
+p366
+aS'family:32'
+p367
+aS'taxi:75'
+p368
+aS'blown up:78'
+p369
+aS'Gateway of India:82'
+p370
+aS'taxi driver:126'
+p371
+aS'police protection:136'
+p372
+aS'fourth arrested:144'
+p373
+aS'Hanif group:288'
+p374
+aS'bomb blast:296'
+p375
+aS'Ghatkopar:299'
+p376
+aS'cracked the case:402'
+p377
+aS'media:412'
+p378
+aS'huge numbers:416'
+p379
+aS'press conference:423'
+p380
+aS'gelatin sticks:444'
+p381
+aS'alarm clocks:447'
+p382
+aS'binding tape:450'
+p383
+aS'Hanif group:458'
+p384
+aS'praised:484'
+p385
+aS'Crime Branch:487'
+p386
+aS'Ghatkopar:587'
+p387
+aS'Ghatkopar:597'
+p388
+aS'SIMI:692'
+p389
+aS'Students Muslim Organization of India:694'
+p390
+aS'Hilton Hotel:770'
+p391
+aS'Gujarat riots:788'
+p392
+aS"indoctrinated ' in Dubai:794"
+p393
+aS'outfit in Saudi Arabia:893'
+p394
+aS'Lashkar-e-Tayiba:920'
+p395
+aS'Lashkar:947'
+p396
+aS'SIMI:949'
+p397
+aS'Gujarat Muslim Revenge Force:971'
+p398
+aS'Gujarat riots:983'
+p399
+aS'Gujarat riots:1012'
+p400
+aS'rediff.com:1046'
+p401
+aS'blasts:1221'
+p402
+aS'occurred:1223'
+p403
+aS'Gujarati-dominated areas:1225'
+p404
+aS'Gateway of India:1235'
+p405
+aS'Andheri:1270'
+p406
+aS'explosives:1343'
+p407
+aS'prepared:1345'
+p408
+aS'residences:1348'
+p409
+aS'gelatin sticks:1381'
+p410
+aS'available locally:1385'
+p411
+aS'controlled blasts:1395'
+p412
+aS'RDX:1422'
+p413
+aS'Central Forensic Laboratory of India:1441'
+p414
+asS'unexpl'
+p415
+(lp416
+S'CLOCK'
+p417
+aS'SHRAPNEL'
+p418
+aS'BINDING TAPE'
+p419
+asS'ocassion'
+p420
+g332
+sS'link'
+p421
+S'http://www.rediff.com/news/2003/sep/01blast2.htm'
+p422
+sS'date'
+p423
+S'25-08-2003'
+p424
+sS'target'
+p425
+S'PUBLIC PLACES'
+p426
+sS'hot_spot'
+p427
+S'Gateway of India, Zaberi Bazaar'
+p428
+sS'delivery_mod'
+p429
+S'FOUR WHEELER'
+p430
+sS'delivery_met'
+p431
+S'PLACED'
+p432
+sS'expl'
+p433
+(lp434
+S'GELATINE STICKS'
+p435
+asS'ORG'
+p436
+(lp437
+(lp438
+S'Mumbai Police'
+p439
+ag5
+aS'Others'
+p440
+aa(lp441
+S'Hanif group'
+p442
+aS'288'
+p443
+aS'Accused'
+p444
+aa(lp445
+S'Santa Cruz Electronics Export Processing Zone'
+p446
+aS'364'
+p447
+aS'Victim'
+p448
+aa(lp449
+S'Hanif group'
+p450
+aS'458'
+p451
+aS'Accused'
+p452
+aa(lp453
+S'Crime Branch'
+p454
+aS'487'
+p455
+aS'Others'
+p456
+aa(lp457
+S'Crime Branch Unit 11'
+p458
+aS'493'
+p459
+aS'Others'
+p460
+aa(lp461
+S'Unit 9'
+p462
+aS'498'
+p463
+aS'Others'
+p464
+aa(lp465
+S'SIMI'
+p466
+aS'692'
+p467
+aS'Others'
+p468
+aa(lp469
+S'Students Muslim Organization of India'
+p470
+aS'694'
+p471
+aS'Others'
+p472
+aa(lp473
+S'Hilton Hotel'
+p474
+aS'770'
+p475
+aS'Others'
+p476
+aa(lp477
+S'Lashkar-e-Tayiba'
+p478
+aS'920'
+p479
+aS'Others'
+p480
+aa(lp481
+S'Lashkar'
+p482
+aS'947'
+p483
+aS'Others'
+p484
+aa(lp485
+S'SIMI'
+p486
+aS'949'
+p487
+aS'Others'
+p488
+aa(lp489
+S'Gujarat Muslim Revenge Force'
+p490
+aS'971'
+p491
+aS'Assoc Accused'
+p492
+aa(lp493
+S'rediff.com'
+p494
+aS'1046'
+p495
+aS'Others'
+p496
+aa(lp497
+S'Central Forensic Laboratory of India'
+p498
+aS'1441'
+p499
+aS'Others'
+p500
+aas.

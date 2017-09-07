@@ -1,0 +1,246 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mehrauli'
+p4
+aS'91'
+p5
+aS'Assoc Event Location'
+p6
+aa(lp7
+S'Saudi Arabia'
+p8
+aS'131'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Mehrauli'
+p12
+aS'324'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Bangladesh'
+p16
+aS'335'
+p17
+aS'Accused Location'
+p18
+aasS'PER'
+p19
+(lp20
+sS'TIM'
+p21
+(lp22
+sS'hot_setting'
+p23
+S''
+p24
+sS'DAT'
+p25
+(lp26
+S'May:170'
+p27
+aS'May 25:170'
+p28
+aS'Wednesday:193'
+p29
+aS'September 7:220'
+p30
+aS'May 25:338'
+p31
+aS'Sept. 7 : 354'
+p32
+asS'death'
+p33
+g24
+sS'title'
+p34
+S'Police suspect involvement of new outfit in Delhi blast'
+p35
+sS'org_unorg'
+p36
+S'Organized'
+p37
+sS'terror_group'
+p38
+(lp39
+S'Indian Mujahideen'
+p40
+asS'content'
+p41
+S"Although terror outfit Indian Mujahideen has purportedly claimed responsibility for the Delhi High Court blast through three e-mails in the past two days , police officers here have kept the scope of the probe open on suspicion of involvement of a new well-organised outfit . While both the High Court blasts in the past three months are widely perceived as the handiwork of the same group , senior police officers believe they were carried out by different outfits . The first one was of low intensity and so was the Mehrauli blast , indicating that they were not executed by organised terror groups . Since many IM operatives have been arrested in the past few years and 11 of them are said to have fled to various countries , including Saudi Arabia , the officers have doubts about its role in the blast . They suspect that the outfit 's capability to strike has reduced considerably . According to another theory , the group that had carried out the May 25 blast at the High Court would have acquired expertise during the past three months to execute the powerful blast this past Wednesday . However , it is not yet clear if it had the know-how to configure a sophisticated improvised explosive device . The bomb that exploded on September 7 was indeed powerful and had the potential to cause more damage . It was definitely masterminded by an organised group of terrorists , said a police officer , adding that IM still remains one of the prime suspects . Even as a hunt has been launched for the e-mail senders , the police have requested the mall owners in the Capital to install outdoor closed-circuit TV cameras . Henceforth , traffic policemen will be involved in random checking of vehicles across the city , said the police officer . It is also learnt that the police have identified the man behind the Mehrauli blast , who is suspected to be hiding somewhere in Bangladesh . The May 25 blast was of low intensity indicating the hand of unorganised terror groups ' The Sept. 7 blast was powerful and definitely executed by an organised group of terrorists ' OPEN"
+p42
+sS'injured'
+p43
+g24
+sS'det_loc'
+p44
+(lp45
+S'India'
+p46
+aS'Delhi'
+p47
+aS'New Delhi'
+p48
+aS'New Delhi'
+p49
+aS'Delhi High Court'
+p50
+asS'O'
+p51
+(lp52
+S'terror outfit:2'
+p53
+aS'responsibility:9'
+p54
+aS'blast:15'
+p55
+aS'three e-mails:17'
+p56
+aS'probe:34'
+p57
+aS'suspicion:37'
+p58
+aS'new well-organised outfit:42'
+p59
+aS'outfits:78'
+p60
+aS'low intensity:85'
+p61
+aS'Mehrauli blast:91'
+p62
+aS'IM operatives:107'
+p63
+aS'arrested:111'
+p64
+aS'fled:125'
+p65
+aS'blast:143'
+p66
+aS'theory:161'
+p67
+aS'May 25 blast:170'
+p68
+aS'expertise:180'
+p69
+aS'powerful blast:189'
+p70
+aS'improvised explosive device:211'
+p71
+aS'bomb:216'
+p72
+aS'damage:232'
+p73
+aS'group of terrorists:241'
+p74
+aS'e-mail senders:270'
+p75
+aS'mall owners:278'
+p76
+aS'closed-circuit TV cameras:286'
+p77
+aS'traffic policemen:292'
+p78
+aS'random checking:298'
+p79
+aS'vehicles:301'
+p80
+aS'identified:319'
+p81
+aS'Mehrauli blast:324'
+p82
+aS'May 25 blast:338'
+p83
+aS'low intensity:343'
+p84
+aS'terror groups:350'
+p85
+aS'Sept. 7 blast:354'
+p86
+aS'group of terrorists:365'
+p87
+asS'unexpl'
+p88
+(lp89
+g24
+asS'ocassion'
+p90
+g24
+sS'link'
+p91
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/police-suspect-involvement-of-new-outfit-in-delhi-blast/article2444031.ece'
+p92
+sS'date'
+p93
+S'11-09-2011'
+p94
+sS'target'
+p95
+S'Government Building'
+p96
+sS'hot_spot'
+p97
+S'Delhi High Court'
+p98
+sS'delivery_mod'
+p99
+g24
+sS'delivery_met'
+p100
+g24
+sS'expl'
+p101
+(lp102
+S'IED'
+p103
+asS'ORG'
+p104
+(lp105
+(lp106
+S'Indian Mujahideen'
+p107
+aS'4'
+p108
+aS'Accused'
+p109
+aa(lp110
+S'Delhi High Court'
+p111
+aS'12'
+p112
+aS'Victim'
+p113
+aa(lp114
+S'High Court'
+p115
+aS'49'
+p116
+aS'Victim'
+p117
+aa(lp118
+S'IM'
+p119
+aS'107'
+p120
+aS'Accused'
+p121
+aa(lp122
+S'High Court'
+p123
+aS'175'
+p124
+aS'Victim'
+p125
+aa(lp126
+S'IM'
+p127
+aS'252'
+p128
+aS'Accused'
+p129
+aas.

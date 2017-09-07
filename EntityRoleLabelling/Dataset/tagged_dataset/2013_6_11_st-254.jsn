@@ -1,0 +1,165 @@
+{
+    "LOC": [
+        [
+            "Kudankulam", 
+            "2", 
+            "Neutral"
+        ], 
+        [
+            "coastal village", 
+            "16", 
+            "Neutral"
+        ], 
+        [
+            "Kooththenkuzhi", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Kooththenkuzhi", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Kudankulam", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Kudankulam", 
+            "109", 
+            "Event"
+        ], 
+        [
+            "Kooththenkuzhi", 
+            "118", 
+            "Accused Location"
+        ], 
+        [
+            "Thirumurugan", 
+            "126", 
+            "Accused Location"
+        ], 
+        [
+            "Kooththenkuzhi", 
+            "151", 
+            "Accused Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mr.Thirumurugan", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "Jesuvadiyan", 
+            "191", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "night : 155"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:21", 
+        "Monday:44", 
+        "Sunday:154"
+    ], 
+    "death": "", 
+    "title": "Country bomb blasts rock coastal village", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "Tirunelveli", 
+        "", 
+        "coastal village of Kooththenkuzhi"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Kudankulam police are investigating the mysterious blasts that occurred on the outskirts of the coastal village of Kooththenkuzhi on Monday . The police said two country bombs exploded in the forest area on the outskirts of Kooththenkuzhi in the early hours of Monday . No one was injured in the incident . The Kudankulam police , who conducted an investigation , said the ongoing rivalry between two groups in the coastal hamlet could have been behind the latest explosion . The police said the country bombs made by one of the groups and concealed in the forest area might have gone off accidentally . Meanwhile , the Kudankulam police registered a case against 11 persons from Kooththenkuzhi for attempting to murder Sub-Inspector of Police Thirumurugan by running a sand-laden lorry on him . The police said the mini-lorry with the illegally quarried sand was intercepted by the police near Kooththenkuzhi intersection on Sunday night during a vehicle check . However , the illicit sand miners tried to mow down Mr.Thirumurugan and escaped . However , the police officer escaped unhurt . Subsequently , the police registered case against one Jesuvadiyan and 10 others . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "mysterious blasts:7", 
+        "outskirts:13", 
+        "rivalry:66", 
+        "coastal hamlet:72", 
+        "country:86", 
+        "forest area:98", 
+        "murder:122", 
+        "sub-inspector of police:123", 
+        "sand-laden lorry:130", 
+        "mini-lorry:139", 
+        "police:149", 
+        "illicit sand miners:164", 
+        "officer:179"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/country-bomb-blasts-rock-coastal-village/article4802477.ece", 
+    "date": "10-06-2013", 
+    "target": "", 
+    "hot_spot": "coastal village of Kooththenkuzhi,forest area", 
+    "delivery_mod": "FOREST AREA", 
+    "delivery_met": "STORED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "police", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "83", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "110", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "125", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "136", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "149", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "178", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "186", 
+            "Others"
+        ]
+    ]
+}

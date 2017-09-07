@@ -1,0 +1,276 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'BANGALORE'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Bangalore'
+p8
+aS'39'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Jaipur'
+p12
+aS'113'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Bangalore'
+p16
+aS'156'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Madivala'
+p20
+aS'172'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Madivala bus stand'
+p24
+aS'172'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Madivala bus stand'
+p28
+aS'172'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Bangalore'
+p32
+aS'310'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Hyderabad'
+p36
+aS'312'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'US'
+p40
+aS'325'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Mecca Masjid'
+p44
+aS'346'
+p45
+aS'Neutral'
+p46
+aasS'PER'
+p47
+(lp48
+(lp49
+S'Sudha'
+p50
+aS'165'
+p51
+aS'Assoc Victim'
+p52
+aa(lp53
+S'Ravi'
+p54
+aS'178'
+p55
+aS'Assoc Victim'
+p56
+aa(lp57
+S'Chetan'
+p58
+aS'192'
+p59
+aS'Assoc Victim'
+p60
+aa(lp61
+S'Gullamma'
+p62
+aS'194'
+p63
+aS'Assoc Victim'
+p64
+aasS'TIM'
+p65
+(lp66
+S'1.40 pm : 231'
+p67
+aS'2.15 pm:234'
+p68
+asS'hot_setting'
+p69
+S''
+p70
+sS'DAT'
+p71
+(lp72
+S'Friday:67'
+p73
+aS'May:104'
+p74
+aS'late Friday:279'
+p75
+aS'Friday:280'
+p76
+asS'death'
+p77
+g5
+sS'title'
+p78
+S'8 blasts rock Bangalore'
+p79
+sS'det_loc'
+p80
+(lp81
+S'India'
+p82
+aS'Karnataka'
+p83
+aS'Bangalore Urban'
+p84
+aS'Bangalore'
+p85
+ag70
+asS'terror_group'
+p86
+(lp87
+S'LASHKAR-E-TAIBA'
+p88
+aS'STUDENTS ISLAMIC MOVEMENT OF INDIA'
+p89
+asS'content'
+p90
+VBANGALORE : There 's a certain inevitability about it . It 's now almost a pattern that terrorists strike even before the nation recovers from its last shock , to leave it traumatized again.The target this time was Bangalore , the country 's IT capital , which has been in the terror shadow for long . The city became a target of eight serial blasts on Friday , leaving one dead , eight injured and the city scarred . The bombs were of low intensity , aimed more at dislocating economic activity than killing hundreds of people . -LRB- Watch -RRB- Only in May , 68 people were killed by terrorists in Jaipur . Even as the police was groping to identify the culprits there , terrorists cocked a snook at the security agencies , triggering eight serial blasts in 35 minutes at seven places during the busy lunch hour . -LRB- In Pics : Bangalore serial bomb blasts -RRB- The lone victim was Sudha , who was waiting at the Madivala bus stand . Her husband Ravi , who was standing beside her , was severely injured . Two others Chetan and Gullamma were also injured.Police said the bombs were put together with ammonium nitrate , commonly used in gelatin sticks , and used nuts and bolts as shrapnel . Timer devices were used to trigger the blasts between 1.40 pm and 2.15 pm in non-descript places on a traffic island , inside a drain , a vacant plot next to a vehicle showroom . As word of the blasts spread , malls , cinema halls and schools shut down for the day.No group claimed responsibility until late Friday , but intelligence sources said Lashkar-e-Taiba and SIMI were main suspects . ` The aim of these groups , whether Huji , LeT or SIMI , is clear . Bangalore and Hyderabad are chosen because by hitting them , panic can be conveyed to US and the west as these cities house their biggest IT operations , ' said a security official involved in the Mecca Masjid probe .
+p91
+sS'injured'
+p92
+S'8'
+p93
+sS'org_unorg'
+p94
+g70
+sS'O'
+p95
+(lp96
+S'it capital:44'
+p97
+aS'serial blasts:64'
+p98
+aS'bangalore serial bomb:156'
+p99
+aS'bangalore serial bomb blasts:156'
+p100
+aS'bangalore:156'
+p101
+aS'serial bomb:157'
+p102
+aS'ammonium nitrate:205'
+p103
+aS'gelatin sticks:211'
+p104
+aS'shrapnel:220'
+p105
+aS'traffic island:241'
+p106
+aS'vehicle showroom:254'
+p107
+aS'cinema halls:266'
+p108
+aS'security official:341'
+p109
+asS'unexpl'
+p110
+(lp111
+S'SHRAPNEL'
+p112
+asS'ocassion'
+p113
+g70
+sS'link'
+p114
+S'http://timesofindia.indiatimes.com/india/8-blasts-rock-Bangalore/articleshow/3279730.cms?referral=PM'
+p115
+sS'date'
+p116
+S'25-07-2008'
+p117
+sS'target'
+p118
+S'ROAD SIDE'
+p119
+sS'hot_spot'
+p120
+g70
+sS'delivery_mod'
+p121
+g70
+sS'delivery_met'
+p122
+S'PLACED'
+p123
+sS'expl'
+p124
+(lp125
+S'AMMONIUM NITRATE'
+p126
+aS'GELATINE STICKS'
+p127
+asS'ORG'
+p128
+(lp129
+(lp130
+S'Lashkar-e-Taiba'
+p131
+aS'286'
+p132
+aS'Accused'
+p133
+aa(lp134
+S'SIMI'
+p135
+aS'288'
+p136
+aS'Accused'
+p137
+aa(lp138
+S'Huji'
+p139
+aS'301'
+p140
+aS'Others'
+p141
+aa(lp142
+S'LeT'
+p143
+aS'303'
+p144
+aS'Others'
+p145
+aa(lp146
+S'SIMI'
+p147
+aS'305'
+p148
+aS'Others'
+p149
+aas.

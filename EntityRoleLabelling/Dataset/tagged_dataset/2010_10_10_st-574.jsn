@@ -1,0 +1,56 @@
+{
+    "LOC": [
+        [
+            "Panigrahy Pentha Street", 
+            "5", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Sitaram street", 
+            "56", 
+            "Event", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "0", 
+    "title": "Bomb blasts create panic", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "Miscreants created panic in Panigrahy Pentha Street of the city by blasting crude bombs . According to eyewitnesses two miscreants came on a bike and hurled bombs at a resident of the area and escaped . Luckily no one was injured . In recent past a group of miscreants had injured a youth of nearby Sitaram street by blasting crude bombs . OPEN", 
+    "injured": "0", 
+    "det_loc": [
+        "India", 
+        "Orissa", 
+        "Ganjam", 
+        "Berhampur", 
+        "Panigrahy Pentha Street"
+    ], 
+    "O": [
+        "panigrahy pentha street:5", 
+        "crude bombs:13", 
+        "miscreants:20", 
+        "resident:30", 
+        "sitaram street:56"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/bomb-blasts-create-panic/article823285.ece", 
+    "date": "01-04-2010", 
+    "target": "", 
+    "hot_spot": "bombs were hurled at a resident of the area", 
+    "delivery_mod": "Two wheeler", 
+    "delivery_met": "Thrown", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": []
+}

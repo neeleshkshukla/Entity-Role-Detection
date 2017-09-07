@@ -1,0 +1,569 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Hyderabad'
+p8
+aS'11'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Dilsukhnagar'
+p12
+aS'13'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'UP'
+p16
+aS'202'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Hyderabad'
+p20
+aS'267'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'India'
+p24
+aS'307'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Hyderabad'
+p28
+aS'347'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Mumbai'
+p32
+aS'351'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Bangalore'
+p36
+aS'353'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Coimbatore'
+p40
+aS'355'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Hubli'
+p44
+aS'357'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Gujarat'
+p48
+aS'362'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Maharashtra'
+p52
+aS'364'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Hyderabad'
+p56
+aS'387'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Hyderabad'
+p60
+aS'456'
+p61
+aS'Event'
+p62
+aa(lp63
+S'Hyderabad'
+p64
+aS'492'
+p65
+aS'Event'
+p66
+aa(lp67
+S'Dilsukhnagar'
+p68
+aS'503'
+p69
+aS'Event'
+p70
+aa(lp71
+S'Andhra'
+p72
+aS'541'
+p73
+aS'Neutral'
+p74
+aa(lp75
+S'AP'
+p76
+aS'620'
+p77
+aS'Neutral'
+p78
+aa(lp79
+S'Gokul Chat Bhandar'
+p80
+aS'714'
+p81
+aS'Assoc Event Location'
+p82
+aa(lp83
+S'Lumbini Park'
+p84
+aS'718'
+p85
+aS'Assoc Event Location'
+p86
+aa(lp87
+S'Mumbai'
+p88
+aS'771'
+p89
+aS'Assoc Event Location'
+p90
+aa(lp91
+S'Hyderabad'
+p92
+aS'792'
+p93
+aS'Event'
+p94
+aa(lp95
+S'Bangalore'
+p96
+aS'795'
+p97
+aS'Neutral'
+p98
+aa(lp99
+S'Coimbatore'
+p100
+aS'797'
+p101
+aS'Neutral'
+p102
+aa(lp103
+S'Dilsukhnagar'
+p104
+aS'897'
+p105
+aS'Event'
+p106
+aasS'PER'
+p107
+(lp108
+(lp109
+S'Sushilkumar Shinde'
+p110
+aS'251'
+p111
+aS'Comment'
+p112
+aa(lp113
+S'Afzal Guru'
+p114
+aS'280'
+p115
+aS'Assoc Accused'
+p116
+aa(lp117
+S'Guru'
+p118
+aS'310'
+p119
+aS'Assoc Accused'
+p120
+aa(lp121
+S'Hafiz Saeed'
+p122
+aS'321'
+p123
+aS'Assoc Accused'
+p124
+aa(lp125
+S'Shinde'
+p126
+aS'434'
+p127
+aS'Others'
+p128
+aa(lp129
+S'Syed Maqbool'
+p130
+aS'535'
+p131
+aS'Assoc Accused'
+p132
+aa(lp133
+S'Imran'
+p134
+aS'538'
+p135
+aS'Assoc Accused'
+p136
+aa(lp137
+S'Shinde'
+p138
+aS'610'
+p139
+aS'Others'
+p140
+aa(lp141
+S'Riyaz Bhatkal'
+p142
+aS'709'
+p143
+aS'Assoc Accused'
+p144
+aa(lp145
+S'Guru'
+p146
+aS'759'
+p147
+aS'Assoc Accused'
+p148
+aa(lp149
+S'Ajmal Kasab'
+p150
+aS'773'
+p151
+aS'Assoc Accused'
+p152
+aa(lp153
+S'Kasab'
+p154
+aS'787'
+p155
+aS'Assoc Accused'
+p156
+aa(lp157
+S'Shinde'
+p158
+aS'808'
+p159
+aS'Others'
+p160
+aasS'TIM'
+p161
+(lp162
+sS'hot_setting'
+p163
+S''
+p164
+sS'DAT'
+p165
+(lp166
+S'Thursday:17'
+p167
+aS'Thursday:107'
+p168
+aS'Friday:141'
+p169
+aS'November:195'
+p170
+aS'November 2007:195'
+p171
+aS'Saturday:289'
+p172
+aS'February:391'
+p173
+aS'February 19:391'
+p174
+aS'February:449'
+p175
+aS'February 20:449'
+p176
+aS'Thursday:481'
+p177
+aS'July:551'
+p178
+aS'2007:676'
+p179
+aS'November:781'
+p180
+aS'February:823'
+p181
+aS'February 19:823'
+p182
+aS'1999:916'
+p183
+aS'2002:930'
+p184
+aS'2007:942'
+p185
+aS'Thursday:962'
+p186
+asS'death'
+p187
+S'16'
+p188
+sS'title'
+p189
+S'Indian Mujahideen hand becomes clearer in Hyderabad blasts'
+p190
+sS'det_loc'
+p191
+(lp192
+S'India'
+p193
+aS'Andhra Pradesh'
+p194
+ag164
+aS'Hyderabad'
+p195
+aS'Dilsukhnagar'
+p196
+asS'terror_group'
+p197
+(lp198
+S'INDIAN MUJAHIDEEN'
+p199
+asS'content'
+p200
+VNEW DELHI : As investigators trawl the devastated spots in Hyderabad 's Dilsukhnagar for clues to Thursday 's twin blasts , a debate has begun in the home ministry over whether the terror attack could have been prevented . According to reports reaching here , there is no breakthrough yet for the investigators . ` We are still groping in the dark , ' a senior home ministry official familiar with the details of the probe said . However , there was relief after it turned out that some of the CCTV cameras in the ill-fated locality were functional at the time of the explosions on Thursday evening and , therefore , might be holding pointers . Senior sources disputed reports that the wires of CCTV cameras had been snapped four days ago . The MHA had fewer doubts on Friday about the involvement of Indian Mujahideen in the attack . The bombs carried the signature of IM . Both the devices were packed with ammonium nitrate and shrapnel with a timer mechanism : the staple of IM bomb-makers . The use of cycles to strap bombs has also been an IM trademark since November 2007 when they attacked courts in UP . Both bombs were designed to ensure that the impact of explosions was concentrated on one side : again a stock in trade for IM which has used boat-shaped devices earlier in order to maximize casualties . Faced with allegations of intelligence failure in Parliament , home minister Sushilkumar Shinde pointed out that the Centre has issued a series of alerts to authorities in Hyderabad about a possible terrorist reprisal against the hanging of Parliament attack convict Afzal Guru . The first advisory went out on Saturday , alerting states against the threat of United Jehad Council to launch a fresh terror campaign against India to avenge Guru 's hanging . The message was amplified by Lashkar chief Hafiz Saeed . Although the first alert was general in nature , intelligence agencies , acting on basis of intercepts , refined it to caution that Hyderabad , along with Mumbai , Bangalore , Coimbatore and Hubli and certain places in Gujarat and Maharashtra , could be on the hit list of terrorists desperate to make good their threat . This message highlighting the threat to Hyderabad was sent on February 19 . The following day , Intelligence Bureau asked the states to step up vigil at places which were known to be on the radar of terrorists and had been recced . Centre 's concern , prompted by clear inputs according to Shinde , that a terrorist strike could be in the works manifested itself again on February 20 , when it repeated that Hyderabad could be among the likely targets along with other places . The same anxiety led the government to sound the same alert anew on Thursday morning just eight hours before the bombs went off in Hyderabad , killing at least 16 and maiming many more . Dilsukhnagar fitted the bill , having been surveyed by an IM module as recently as last year . Delhi Police had on the basis of testimonies of two alleged IM terrorists , Syed Maqbool and Imran , told Andhra authorities that the locality was recceed as recently in July last year . Sources in the home ministry said that the emphasis on the sites which had already been reconnoitered reflected the assessment that the terrorists were under pressure to do something spectacular sooner than later and , hence , focussed on locales they were already familiar with . Centre refrained from blaming the state government , with Shinde saying in Rajya Sabha that the calm professionalism of AP cops was worth emulating . But many in his own ministry wondered whether cops could have prevented the carnage by upping their guard in response to a series of advisories . There was also puzzlement about the reasons why they failed to do so despite the fact that terrorists had targeted the same spot in 2007 . The last attempt failed only because the device planted by IM terrorists failed to go off , sparing the locality the devastation caused by the bombs the same module led by Riyaz Bhatkal had planted at Gokul Chat Bhandar and Lumbini Park . According to sources , one possible explanation could be the fatigue among cops over having to deal with the same kind of alerts over and over again . They said the counter-terror advisories issued in the wake of Guru 's hanging were not different from those which were sent after Mumbai attacker Ajmal Kasab was sent to the gallows in November . The alerts issued after Kasab 's execution had mentioned Hyderabad along with Bangalore and Coimbatore among the vulnerable spots . Speaking in Rajya Sabha , Shinde emphasized that the Centre had strong reasons to hoist the caution sign higher after February 19 and afterwards . If this was the case , the authorities clearly failed to impress the urgency upon the men at ground zero Sources said that the routine of having to respond to the same kind of cues repeatedly could not but lead to a dulling of response : a vulnerability which could be exploited by a terrorist group set on a particular target as has been the case with IM and Dilsukhnagar . The predominantly Hindu locality with a history of communal tension has been consistently targeted by terrorists since 1999 when they unsuccessfully planted a bomb there . The terrorists returned again in 2002 when a bomb claimed two lives . Residents were lucky in 2007 when the bomb planted there did not go off , but the determined group had had their way on Thursday .
+p201
+sS'injured'
+p202
+g164
+sS'org_unorg'
+p203
+S'ORGANISED'
+p204
+sS'O'
+p205
+(lp206
+S'twin blasts:19'
+p207
+aS'terror attack could have been prevented:33'
+p208
+aS'CCTV cameras in the ill-fated locality:92'
+p209
+aS'cycles to strap bombs:184'
+p210
+aS'maximize casualties:237'
+p211
+aS'intelligence failure in Parliament:244'
+p212
+aS'parliament attack:277'
+p213
+aS'fresh terror campaign:303'
+p214
+aS"guru 's hanging:310"
+p215
+aS'vigil:406'
+p216
+aS'radar of terrorists:416'
+p217
+aS'response to a series of advisories:645'
+p218
+aS'fatigue among cops:731'
+p219
+aS'same kind of alerts over and over:740'
+p220
+aS'counter-terror advisories:752'
+p221
+aS'ground zero:846'
+p222
+aS'Hindu locality:901'
+p223
+aS'communal tension:907'
+p224
+aS'targeted by terrorists:912'
+p225
+aS'unsuccessfully planted a bomb:919'
+p226
+asS'unexpl'
+p227
+(lp228
+S'MECHANICAL TIMERS'
+p229
+aS'NAILS'
+p230
+asS'ocassion'
+p231
+g164
+sS'link'
+p232
+S'http://timesofindia.indiatimes.com/india/Indian-Mujahideen-hand-becomes-clearer-in-Hyderabad-blasts/articleshow/18635772.cms?referral=PM'
+p233
+sS'date'
+p234
+S'21-02-2013'
+p235
+sS'target'
+p236
+g164
+sS'hot_spot'
+p237
+g164
+sS'delivery_mod'
+p238
+S'BYCICLE'
+p239
+sS'delivery_met'
+p240
+S'PLANTED'
+p241
+sS'expl'
+p242
+(lp243
+S'AMMONIUM NITRATE'
+p244
+asS'ORG'
+p245
+(lp246
+(lp247
+S'MHA'
+p248
+aS'136'
+p249
+aS'Others'
+p250
+aa(lp251
+S'Indian Mujahideen'
+p252
+aS'146'
+p253
+aS'Accused'
+p254
+aa(lp255
+S'IM'
+p256
+aS'158'
+p257
+aS'Accused'
+p258
+aa(lp259
+S'IM'
+p260
+aS'178'
+p261
+aS'Accused'
+p262
+aa(lp263
+S'IM'
+p264
+aS'192'
+p265
+aS'Accused'
+p266
+aa(lp267
+S'IM'
+p268
+aS'227'
+p269
+aS'Accused'
+p270
+aa(lp271
+S'United Jehad Council'
+p272
+aS'297'
+p273
+aS'Assoc Accused'
+p274
+aa(lp275
+S'Lashkar'
+p276
+aS'319'
+p277
+aS'Assoc Accused'
+p278
+aa(lp279
+S'intelligence agencies'
+p280
+aS'333'
+p281
+aS'Others'
+p282
+aa(lp283
+S'Intelligence Bureau'
+p284
+aS'398'
+p285
+aS'Others'
+p286
+aa(lp287
+S'IM'
+p288
+aS'513'
+p289
+aS'Accused'
+p290
+aa(lp291
+S'Delhi Police'
+p292
+aS'521'
+p293
+aS'Others'
+p294
+aa(lp295
+S'IM'
+p296
+aS'532'
+p297
+aS'Accused'
+p298
+aa(lp299
+S'Rajya Sabha'
+p300
+aS'613'
+p301
+aS'Others'
+p302
+aa(lp303
+S'IM'
+p304
+aS'688'
+p305
+aS'Accused'
+p306
+aa(lp307
+S'Rajya Sabha'
+p308
+aS'805'
+p309
+aS'Others'
+p310
+aa(lp311
+S'IM'
+p312
+aS'895'
+p313
+aS'Accused'
+p314
+aas.

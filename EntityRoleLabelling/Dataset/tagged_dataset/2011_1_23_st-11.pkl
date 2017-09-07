@@ -1,0 +1,145 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Telipati'
+p4
+aS'24'
+p5
+aS'Event'
+p6
+aasS'PER'
+p7
+(lp8
+sS'TIM'
+p9
+(lp10
+sS'hot_setting'
+p11
+S''
+p12
+sS'DAT'
+p13
+(lp14
+S'Friday:21'
+p15
+asS'death'
+p16
+g12
+sS'title'
+p17
+S'KCP group claims responsibility for blast'
+p18
+sS'org_unorg'
+p19
+S'Organized'
+p20
+sS'terror_group'
+p21
+(lp22
+S'Kangleipak Communist Party (KCP)'
+p23
+asS'content'
+p24
+S'The Kangleipak Communist Party ( Military Council ) , Lalheiba group , has claimed responsibility for the bomb blast on Friday in the Telipati area here , inhabited by migrant workers and small traders . One woman was injured , and two houses and some vehicles were damaged . The outfit said it launched the attack to demand the enforcement of the Inner Line Permit System to check the flow of outsiders into the State . It also demanded that the Family Welfare Department withdraw the population control programmes . OPEN'
+p25
+sS'injured'
+p26
+g12
+sS'det_loc'
+p27
+(lp28
+S'India'
+p29
+aS'Manipur'
+p30
+aS'Imphal West'
+p31
+aS'Imphal'
+p32
+aS'Telipati Area'
+p33
+asS'O'
+p34
+(lp35
+S'responsibility:15'
+p36
+aS'bomb blast:18'
+p37
+aS'telipati area:24'
+p38
+aS'migrant workers:30'
+p39
+aS'small traders:33'
+p40
+aS'vehicles:46'
+p41
+aS'damaged:48'
+p42
+aS'outfit:51'
+p43
+aS'attack:56'
+p44
+aS'enforcement:60'
+p45
+aS'inner line permit system:63'
+p46
+aS'flow:70'
+p47
+aS'outsiders:72'
+p48
+aS'demanded:79'
+p49
+aS'population control:87'
+p50
+asS'unexpl'
+p51
+(lp52
+g12
+asS'ocassion'
+p53
+g12
+sS'link'
+p54
+S'http://www.thehindu.com/todays-paper/kcp-group-claims-responsibility-for-blast/article1117877.ece'
+p55
+sS'date'
+p56
+S'21-01-2011'
+p57
+sS'target'
+p58
+S'Government Building'
+p59
+sS'hot_spot'
+p60
+g12
+sS'delivery_mod'
+p61
+g12
+sS'delivery_met'
+p62
+g12
+sS'expl'
+p63
+(lp64
+g12
+asS'ORG'
+p65
+(lp66
+(lp67
+S'Kangleipak Communist Party ( Military Council ) , Lalheiba group'
+p68
+aS'2'
+p69
+aS'Accused'
+p70
+aa(lp71
+S'Family Welfare Department'
+p72
+aS'82'
+p73
+aS'Others'
+p74
+aas.

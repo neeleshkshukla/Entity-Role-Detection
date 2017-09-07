@@ -1,0 +1,95 @@
+{
+    "LOC": [
+        [
+            "Mumbai", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "19", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "36", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "63", 
+            "Neutral"
+        ], 
+        [
+            "South Asia", 
+            "85", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dawood Ibrahim", 
+            "2", 
+            "Accused"
+        ], 
+        [
+            "Sushilkumar Shinde", 
+            "60", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "1993 : 9", 
+        "Tuesday:21"
+    ], 
+    "death": "", 
+    "title": "SHINDE", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "With Dawood Ibrahim , the man behind the 1993 Mumbai bombings , still out of its reach , India on Tuesday said the masterminds of the heinous serial blasts are sitting in safe havens in Pakistan which has taken no action against them despite being provided with credible evidence . Addressing the Interpol General Assembly here , Home Minister Sushilkumar Shinde said India continues to face a high degree of terrorist threats on several fronts , in particular of cross-border terrorism . Terrorism in South Asia has increasingly emerged as an effective strategic weapon , he said . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "Mumbai", 
+        "Mumbai"
+    ], 
+    "O": [
+        "masterminds:24", 
+        "heinous:27", 
+        "serial blasts:28", 
+        "Home Minister:58", 
+        "cross-border terrorism:80", 
+        "weapon:94"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/shinde/article4072200.ece", 
+    "date": "12-03-1993", 
+    "target": "", 
+    "hot_spot": "Mumbai", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Interpol General Assembly", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "terrorist", 
+            "71", 
+            "Accused"
+        ]
+    ]
+}

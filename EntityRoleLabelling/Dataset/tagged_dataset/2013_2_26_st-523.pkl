@@ -1,0 +1,347 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bhainsa'
+p4
+aS'31'
+p5
+aS'Accused Location'
+p6
+aa(lp7
+S'Adilabad'
+p8
+aS'33'
+p9
+aS'Accused Location'
+p10
+aS'Victim Location'
+p11
+aa(lp12
+S'Dilsukhnagar'
+p13
+aS'126'
+p14
+aS'Event'
+p15
+aa(lp16
+S'Hyderabad'
+p17
+aS'128'
+p18
+aS'Event'
+p19
+aa(lp20
+S'Kotagiri'
+p21
+aS'203'
+p22
+aS'Accused Location'
+p23
+aa(lp24
+S'Bodhan'
+p25
+aS'229'
+p26
+aS'Victim Location'
+p27
+aa(lp28
+S'Jagithyal'
+p29
+aS'250'
+p30
+aS'Neutral'
+p31
+aa(lp32
+S'Karimnagar'
+p33
+aS'254'
+p34
+aS'Neutral'
+p35
+aa(lp36
+S'Malapally'
+p37
+aS'272'
+p38
+aS'Accused Location'
+p39
+aS'Neutral'
+p40
+aa(lp41
+S'Samalkot'
+p42
+aS'298'
+p43
+aS'Accused Location'
+p44
+aa(lp45
+S'Samalkot'
+p46
+aS'356'
+p47
+aS'Accused Location'
+p48
+aasS'PER'
+p49
+(lp50
+(lp51
+S'Vikram Jeet Duggal'
+p52
+aS'68'
+p53
+aS'Others'
+p54
+aa(lp55
+S'Shaik Makbool Hussain'
+p56
+aS'175'
+p57
+aS'Accused'
+p58
+aa(lp59
+S'Firoze Khan'
+p60
+aS'183'
+p61
+aS'Assoc Accused'
+p62
+aa(lp63
+S'Azam Ghori'
+p64
+aS'192'
+p65
+aS'Assoc Accused'
+p66
+aa(lp67
+S'Khan'
+p68
+aS'210'
+p69
+aS'Accused'
+p70
+aa(lp71
+S'Ramakrishna Rao'
+p72
+aS'225'
+p73
+aS'Assoc Victim'
+p74
+aa(lp75
+S'Ghori'
+p76
+aS'237'
+p77
+aS'Assoc Accused'
+p78
+aa(lp79
+S'Firoz Khan'
+p80
+aS'262'
+p81
+aS'Assoc Accused'
+p82
+aa(lp83
+S'Ghoris'
+p84
+aS'265'
+p85
+aS'Assoc Accused'
+p86
+aa(lp87
+S'Mohd'
+p88
+aS'268'
+p89
+aS'Assoc Accused'
+p90
+aa(lp91
+S'Afsar'
+p92
+aS'270'
+p93
+aS'Assoc Accused'
+p94
+aasS'TIM'
+p95
+(lp96
+sS'hot_setting'
+p97
+S''
+p98
+sS'DAT'
+p99
+(lp100
+S'Monday:36'
+p101
+aS'1999:257'
+p102
+asS'death'
+p103
+g98
+sS'title'
+p104
+S'NIA team visits Nizamabad, Bhainsa'
+p105
+sS'org_unorg'
+p106
+S'Organized'
+p107
+sS'terror_group'
+p108
+(lp109
+g98
+asS'content'
+p110
+S'A four-member team of the National Investigating Agency ( NIA ) , led an officer of the rank Deputy Superintendent of Police , visited the district headquarters town and also Bhainsa in Adilabad district on Monday in connection with reports that the terrorists involved in bomb blasts in the State previously had links with these two towns . They had a meeting with the Superintendent of Police Vikram Jeet Duggal and sought some information from the district police . They also reportedly visited a couple of places in the town , but it was kept secret . When asked about their visit , the SP said the NIA team arrived as part of their investigation of districts in connection with the twin bomb blasts at Dilsukhnagar in Hyderabad . We are ready to give them the required information , but they did not ask any details , he said . The NIA teams visit , meanwhile , assumed significance following the news that the suspected main accused in the twin bomb blasts case , Shaik Makbool Hussain , had reportedly met one Firoze Khan , a close disciple of slain terrorist Azam Ghori , at Nellore prison last year . Hailing from Kotagiri mandal headquarters in the district , Khan is serving life sentence in connection with the murder of a leading businessman , Ramakrishna Rao , of Bodhan some nine years ago . Incidentally , Ghori who was said to have had ISI connections , was encountered at Jagithyal bus stand in Karimnagar district in 1999 . Subsequently , besides Firoz Khan , Ghoris another disciple Mohd . Afsar of Malapally in this town were arrested and sentenced to the life imprisonment . SIMI sympathisers Kakinada Staff Reporter writes : Meanwhile , another NIA team visited Samalkot and reportedly questioned two persons on the suspicion that they could be the sympathisers of the Students Islamic Movement of India ( SIMI ) , a banned outfit . The visit gained importance in the wake of twin bomb blasts in the State Capital . Though the police sources confirmed the visit of the NIA team to Samalkot , there was no confirmation over the issue of questioning the people . As the television news channels flashed a scroll stating that the NIA sleuths took two persons into custody , no police officer was prepared to share details . Links of blast accused with the two districts probed OPEN'
+p111
+sS'injured'
+p112
+g98
+sS'det_loc'
+p113
+(lp114
+S'India'
+p115
+aS'Andhra Pradesh'
+p116
+ag98
+aS'Nizamabad'
+p117
+aS'Bhainsa'
+p118
+asS'O'
+p119
+(lp120
+S'connection:38'
+p121
+aS'terrorists:43'
+p122
+aS'involved:44'
+p123
+aS'bomb blasts:46'
+p124
+aS'investigation:115'
+p125
+aS'twin bomb blasts:122'
+p126
+aS'isi connections:244'
+p127
+aS'arrested:277'
+p128
+aS'visit:329'
+p129
+aS'importance:331'
+p130
+aS'persons:385'
+p131
+aS'into:386'
+p132
+aS'custody:387'
+p133
+asS'unexpl'
+p134
+(lp135
+g98
+asS'ocassion'
+p136
+g98
+sS'link'
+p137
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/nia-team-visits-nizamabad-bhainsa/article4453843.ece'
+p138
+sS'date'
+p139
+S'25-02-2013'
+p140
+sS'target'
+p141
+g98
+sS'hot_spot'
+p142
+g98
+sS'delivery_mod'
+p143
+g98
+sS'delivery_met'
+p144
+g98
+sS'expl'
+p145
+(lp146
+g98
+asS'ORG'
+p147
+(lp148
+(lp149
+S'National Investigating Agency ( NIA )'
+p150
+aS'6'
+p151
+aS'Others'
+p152
+aa(lp153
+S'NIA'
+p154
+aS'108'
+p155
+aS'Others'
+p156
+aa(lp157
+S'NIA'
+p158
+aS'152'
+p159
+aS'Others'
+p160
+aa(lp161
+S'Nellore prison'
+p162
+aS'196'
+p163
+aS'Others'
+p164
+aa(lp165
+S'ISI'
+p166
+aS'244'
+p167
+aS'Assoc Accused'
+p168
+aa(lp169
+S'SIMI'
+p170
+aS'285'
+p171
+aS'Assoc Accused'
+p172
+aa(lp173
+S'NIA'
+p174
+aS'295'
+p175
+aS'Others'
+p176
+aa(lp177
+S'Students Islamic Movement of India ( SIMI )'
+p178
+aS'315'
+p179
+aS'Assoc Accused'
+p180
+aa(lp181
+S'NIA'
+p182
+aS'353'
+p183
+aS'Others'
+p184
+aa(lp185
+S'NIA'
+p186
+aS'381'
+p187
+aS'Others'
+p188
+aas.

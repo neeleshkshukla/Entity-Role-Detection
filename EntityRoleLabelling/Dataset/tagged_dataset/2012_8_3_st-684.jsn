@@ -1,0 +1,188 @@
+{
+    "LOC": [
+        [
+            "Bal Gandharva traffic square", 
+            "45", 
+            "Event"
+        ], 
+        [
+            "Bal Gandharva Theatre square", 
+            "224", 
+            "Event"
+        ], 
+        [
+            "Urali Kanchan", 
+            "274", 
+            "Victim Location"
+        ], 
+        [
+            "Pune", 
+            "283", 
+            "Event"
+        ], 
+        [
+            "Pune", 
+            "368", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "410", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dayanand Patil", 
+            "213", 
+            "Victim"
+        ], 
+        [
+            "Patil", 
+            "250", 
+            "Victim"
+        ], 
+        [
+            "Patil", 
+            "268", 
+            "Victim"
+        ], 
+        [
+            "Patil", 
+            "298", 
+            "Victim"
+        ], 
+        [
+            "Anna Hazares", 
+            "310", 
+            "Others"
+        ], 
+        [
+            "Gulabrao Pol", 
+            "372", 
+            "Comment"
+        ], 
+        [
+            "R K Singh", 
+            "405", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "night : 114"
+    ], 
+    "hot_setting": "", 
+    "DAT": [], 
+    "death": "0", 
+    "title": "Investigations into Pune blast on", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Investigators trying to string together bits of evidence in the serial blasts in the city have hit a hurdle as some CCTV cameras at the explosion sites have been found to be non-functional . The CCTV cameras installed at Dena Bank , McDonalds and Bal Gandharva traffic square , near the site of the explosions , have not yielded any clue so far and some of them were non-functional , sources in the investigative agencies said on condition of anonymity . Sources said the Maharashtra Anti Terrorism Squad , Pune Crime Branch and the National Investigation Agency are looking for clues from two bicycles , as two of the four coordinated blasts last night were from bombs in their front carriers . Explosives were strapped to these bicycles , which appear newly purchased . Investigators are trying to locate the shop from where these were bought in order to nail the perpetrators . Reports said a black sticky substance with ammonium nitrate was used in the explosions . Forensic experts are also trying to ascertain the concentration of explosives in the devices to zero in on the group behind the blasts . According to sources , different terror groups use varied concentration of explosives in their signature bombs . Injured in hospital Dayanand Patil , the only person injured in the blast at Bal Gandharva Theatre square , is being questioned by the police as to how the explosive found its way into his carry bag . Sources said Patil , who sustained minor injuries , was not being treated as a suspect in the case . Patil , who hails from nearby Urali Kanchan village and is a daily commuter to Pune for tailoring work , is in hospital where his statement is being recorded . Patil has told the police that he had visited the dharna by Anna Hazares India Against Corruption and somebody kept the explosive in his carry bag . Police have registered an offence against unknown persons under sections 307 ( attempt to murder ) , 427 ( mischief causing damage ) , 120 B ( criminal conspiracy ) and relevant sections of Unlawful Activities Prevention Act and Explosive Substances Act . Pune Commissioner of Police Gulabrao Pol has said that the use of very low-intensity explosives could possibly mean that it was not the handiwork of terrorists but an act of mischief . However , Union Home Secretary R K Singh said in Delhi that terror angle could not be ruled out as the blasts were coordinated.PTI OPEN", 
+    "injured": "1", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "Pune", 
+        "Near: Dena Bank, McDonalds, Bal Gandharva traffic square/Theatre square"
+    ], 
+    "O": [
+        "Investigators:1", 
+        "serial blasts:11", 
+        "hurdle:19", 
+        "cctv cameras:22", 
+        "explosion:26", 
+        "non-functional:33", 
+        "cctv cameras:36", 
+        "explosions:55", 
+        "clue:61", 
+        "non-functional:69", 
+        "two bicycles:103", 
+        "four coordinated blasts:110", 
+        "bombs:117", 
+        "front carriers:120", 
+        "explosives:123", 
+        "strapped to these bicycles:125", 
+        "newly purchased:132", 
+        "nail:150", 
+        "perpetrators:152", 
+        "black sticky substance:157", 
+        "ammonium nitrate:161", 
+        "explosions:167", 
+        "forensic experts:169", 
+        "explosives:179", 
+        "blasts:191", 
+        "terror groups:198", 
+        "concentration of explosives:202", 
+        "signature bombs:207", 
+        "only person injured:217", 
+        "blast:222", 
+        "questioned by the police:231", 
+        "explosive:239", 
+        "carry bag:245", 
+        "minor injuries:254", 
+        "suspect:263", 
+        "daily commuter:280", 
+        "tailoring:285", 
+        "dharna:308", 
+        "explosive:319", 
+        "unknown persons:331", 
+        "307 ( attempt to murder ):335", 
+        "427 ( mischief causing damage ):342", 
+        "120 b ( criminal conspiracy ):349", 
+        "unlawful activities prevention act and explosive substances act:359", 
+        "very low-intensity explosives:380", 
+        "handiwork of terrorists:391", 
+        "act of mischief:396", 
+        "Union Home Secretary R K Singh:402", 
+        "terror angle:412", 
+        "blasts:421"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/investigations-into-pune-blast-on/article3719822.ece", 
+    "date": "01-08-2012", 
+    "target": "TOWN", 
+    "hot_spot": "Public places in the city", 
+    "delivery_mod": "BYCICLE", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "Dena Bank", 
+            "40", 
+            "Others"
+        ], 
+        [
+            "McDonalds", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Maharashtra Anti Terrorism Squad", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "Pune Crime Branch", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "95", 
+            "Others"
+        ], 
+        [
+            "India Against Corruption", 
+            "312", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "LOC": [
+        [
+            "Aurangazeb Road", 
+            "24", 
+            "Event"
+        ], 
+        [
+            "Delhi Police", 
+            "31", 
+            "Neutral"
+        ], 
+        [
+            "Israel", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Patparganj", 
+            "446", 
+            "Event"
+        ], 
+        [
+            "East Delhi", 
+            "448", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "B.K. Gupta", 
+            "86", 
+            "Comment"
+        ], 
+        [
+            "Tal Yehoshua Koren", 
+            "127", 
+            "Victim"
+        ], 
+        [
+            "Gupta", 
+            "391", 
+            "Comment"
+        ], 
+        [
+            "Manoj Sharma", 
+            "403", 
+            "Victim"
+        ], 
+        [
+            "Gupta", 
+            "410", 
+            "Comment"
+        ], 
+        [
+            "Koren", 
+            "422", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:28"
+    ], 
+    "death": "", 
+    "title": "Hunt gathers pace for motorcyclist", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Even as the hunt is on for a motorcyclist who attached an improvised explosive magnetic device to an Israeli diplomat 's car on Aurangazeb Road here on Monday , the Delhi Police have sought footage of the closed-circuit television cameras in nearby buildings , the Israeli Embassy and the Canadian High Commission . We have sought the footage of the past seven-eight days . As the Canadian High Commission is located close to the spot , we have approached them for footage , Police Commissioner B.K. Gupta said . Police have identified 16 CCTVs installed at bungalows along the road and in nearby areas and their footage are being sought . Police suspect that the terrorist must have conducted a reconnaissance of the area and tailed Tal Yehoshua Koren embassy official and wife of Israel 's defence attach , who was seriously injured in the blast to ascertain her daily routine . Police , however , have not come across any significant grab revealing the assailant 's identity or the motorcycle 's registration number . From an eyewitness account , they believe that the motorcycle 's colour was red . On that basis , they have questioned five persons . Another person has come forward to reveal that he had passed by the Israeli Embassy around the time of the explosion . As described by the eyewitness , the device affixed to the diplomat 's car was not bigger than a palmtop or a brick . The bomb would have exploded in three to five seconds after it was stuck to the vehicle . While escaping , the motorcyclist hit a bollard dividing the road , moved to the other carriageway and apparently took a left turn before speeding away , he said . Police are not yet sure whether the bomb was triggered mechanically or detonated by a remote control device or a timer . But they have found magnet pieces at the spot . Given that such a bomb has been used for the first time in the country , police suspect the involvement of a terror module well trained in handling explosives , and probably having links with international terror organisations . The attacker managed to escape from the spot within seconds and without sustaining any injury , which shows that he was well trained , Mr. Gupta said . Neither the injured Israeli Embassy official nor car driver Manoj Sharma saw the motorcyclist , Mr. Gupta said . Police are yet to record the statement of Ms. Koren , who was going to pick up her children from school when the blast took place . The eyewitness , a resident of Patparganj in East Delhi , was driving a Ford Ikon behind the embassy car . He claimed that he saw the motorcyclist sticking a box-like object at the right rear end of the car seconds before the explosion . As part of investigations , the whereabouts of foreign nationals are being checked by police and intelligence agencies . OPEN", 
+    "injured": "1", 
+    "det_loc": [
+        "Israel", 
+        "", 
+        "", 
+        "", 
+        "Aurangazeb Road"
+    ], 
+    "O": [
+        "motorcyclist:9", 
+        "israeli diplomat:19", 
+        "closed-circuit television cameras:38", 
+        "israeli embassy:46", 
+        "16 cctvs:93", 
+        "bungalows:97", 
+        "reconnaissance:121", 
+        "assailant 's identity:166", 
+        "motorcycle 's registration number:171", 
+        "eyewitness account:178", 
+        "israeli embassy:214", 
+        "motorcyclist hit:269", 
+        "detonated:307", 
+        "magnet pieces:321", 
+        "israeli:397", 
+        "ford ikon:454", 
+        "box-like object:470"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/hunt-gathers-pace-for-motorcyclist/article2894403.ece", 
+    "date": "13-02-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "THROWN", 
+    "expl": [
+        "MAGENETIC DEVICE"
+    ], 
+    "ORG": [
+        [
+            "Canadian High Commission", 
+            "50", 
+            "Others"
+        ], 
+        [
+            "Canadian High Commission", 
+            "67", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "84", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "90", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "112", 
+            "Others"
+        ], 
+        [
+            "terrorist", 
+            "116", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "153", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "295", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "343", 
+            "Others"
+        ], 
+        [
+            "international terror", 
+            "362", 
+            "Accused"
+        ], 
+        [
+            "Police", 
+            "413", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "499", 
+            "Others"
+        ], 
+        [
+            "intelligence agencies", 
+            "501", 
+            "Others"
+        ]
+    ]
+}

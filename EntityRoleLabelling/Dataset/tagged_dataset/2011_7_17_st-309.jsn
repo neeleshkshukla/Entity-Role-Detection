@@ -1,0 +1,147 @@
+{
+    "LOC": [
+        [
+            "Bhatkal", 
+            "5", 
+            "Event"
+        ], 
+        [
+            "Uttara Kannada", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "18", 
+            "Neutral"
+        ], 
+        [
+            "Bhatkal", 
+            "49", 
+            "Event"
+        ], 
+        [
+            "Bhatkal", 
+            "64", 
+            "Event"
+        ], 
+        [
+            "Bhatkal", 
+            "91", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "110", 
+            "Neutral"
+        ], 
+        [
+            "Bhatkal", 
+            "180", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "M. Narayana", 
+            "29", 
+            "Comment"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "Narayan", 
+            "113", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:11"
+    ], 
+    "death": "", 
+    "title": "Police deny ATS presence in Bhatkal", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Uttara Kannada", 
+        "Karwar", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The police officials from Bhatkal in Uttara Kannada district on Saturday denied the arrival of ATS from Mumbai to investigate the recent bomb blast in the town . M. Narayana , Deputy Superintendent of Police , denied having any knowledge of the arrival of any investigation teams in Bhatkal.A section of the media had flashed the news of arrival of the ATS in Bhatkal town . The town has gained importance because Riyaz Bhatkal and his brother Yasin Bhatkal , who were the founders of Indian Mujahiddin , hail from Bhatkal . The Indian Mujahindin was one of the organisations suspected to be behind the recent bomb blast in Mumbai . Mr. Narayan said the normal procedure was that the police from outside the State contacted their local counter parts for help in such situations . Since the issue involved national security , the local police always helped teams that came from outside the State . The local police had been gathering information related to the terror attack . He denied that any member of ATS had arrived in Bhatkal . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "police officials:2", 
+        "arrival:14", 
+        "investigate:20", 
+        "bomb blast:23", 
+        "town:27", 
+        "deputy superintendent of police:32", 
+        "arrival:43", 
+        "investigation:46", 
+        "arrival:59", 
+        "brother:77", 
+        "suspected:101", 
+        "bomb blast:107", 
+        "normal procedure:116", 
+        "procedure:117", 
+        "national security:141", 
+        "teams:149", 
+        "gathering information:162", 
+        "terror attack:167", 
+        "member:174"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/police-deny-ats-presence-in-bhatkal/article2235253.ece", 
+    "date": "17-07-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "ATS", 
+            "16", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "62", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahiddin", 
+            "86", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahindin", 
+            "94", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "176", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,194 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Andhra Pradesh'
+p4
+aS'2'
+p5
+aS'Neutral'
+p6
+aasS'PER'
+p7
+(lp8
+(lp9
+S'Swami Asimanand'
+p10
+aS'16'
+p11
+aS'Accused'
+p12
+aa(lp13
+S'P. Sabitha Indra Reddy'
+p14
+aS'60'
+p15
+aS'Comment'
+p16
+aS'Others'
+p17
+aa(lp18
+S'Swami Asimanand'
+p19
+aS'68'
+p20
+aS'Accused'
+p21
+aa(lp22
+S'Reddy'
+p23
+aS'101'
+p24
+aS'Others'
+p25
+aa(lp26
+S'Swami Asimanand'
+p27
+aS'117'
+p28
+aS'Accused'
+p29
+aa(lp30
+S'Devender Gupta'
+p31
+aS'137'
+p32
+aS'Accused'
+p33
+aa(lp34
+S'Lokesh Sharma'
+p35
+aS'140'
+p36
+aS'Accused'
+p37
+aa(lp38
+S'Swami Asimanand'
+p39
+aS'148'
+p40
+aS'Accused'
+p41
+aa(lp42
+S'Ms. Reddy'
+p43
+aS'151'
+p44
+aS'Others'
+p45
+aa(lp46
+S'V. Bhaskara Rao'
+p47
+aS'184'
+p48
+aS'Others'
+p49
+aasS'TIM'
+p50
+(lp51
+sS'hot_setting'
+p52
+S''
+p53
+sS'DAT'
+p54
+(lp55
+S'Monday:8'
+p56
+asS'death'
+p57
+g53
+sS'title'
+p58
+S'Asimanand to be grilled further'
+p59
+sS'det_loc'
+p60
+(lp61
+S'India'
+p62
+aS'Andhra Pradesh'
+p63
+ag53
+ag53
+ag53
+asS'terror_group'
+p64
+(lp65
+g53
+asS'content'
+p66
+S'The Andhra Pradesh Assembly was informed on Monday that further investigations into the role of Swami Asimanand , who was arrested last month in connection with the Mecca Masjid bomb blast here , would continue after charge sheets against two other accused in the case were filed in a local court . A written reply given by Home Minister P. Sabitha Indra Reddy during question hour said Swami Asimanand and other suspects would be further grilled following the filing of charge sheets . All the accused , who were at large , would also be brought to book . Ms. Reddy said the CBI , which was probing the case , arrested 58 persons , including Swami Asimanand , in 38 cases revolving around the bomb blast . A charge sheet would soon be filed against Devender Gupta and Lokesh Sharma , who were arrested ahead of Swami Asimanand . Ms. Reddy furnished details of the 58 arrested persons and 49 others who were let off as their complicity in the cases was not established . She said the report of the Justice V. Bhaskara Rao Commission , which went into the firing after the blast , would be tabled in the House within six months . OPEN'
+p67
+sS'injured'
+p68
+g53
+sS'org_unorg'
+p69
+S'Organized'
+p70
+sS'O'
+p71
+(lp72
+S'assembly:4'
+p73
+aS'mecca masjid bomb blast:28'
+p74
+aS'case:45'
+p75
+aS'court:51'
+p76
+aS'question hour:65'
+p77
+aS'bomb blast:126'
+p78
+aS'charge sheet:130'
+p79
+aS'blast:196'
+p80
+asS'unexpl'
+p81
+(lp82
+g53
+asS'ocassion'
+p83
+g53
+sS'link'
+p84
+S'http://www.thehindu.com/todays-paper/tp-national/asimanand-to-be-grilled-further/article950998.ece'
+p85
+sS'date'
+p86
+S'18-05-2007'
+p87
+sS'target'
+p88
+S'Religious Places'
+p89
+sS'hot_spot'
+p90
+S'Mecca Masjid bomb blast'
+p91
+sS'delivery_mod'
+p92
+g53
+sS'delivery_met'
+p93
+S'Planted'
+p94
+sS'expl'
+p95
+(lp96
+g53
+asS'ORG'
+p97
+(lp98
+(lp99
+S'CBI'
+p100
+aS'104'
+p101
+aS'Others'
+p102
+aas.

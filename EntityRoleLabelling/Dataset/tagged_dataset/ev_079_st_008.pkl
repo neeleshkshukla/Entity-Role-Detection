@@ -1,0 +1,232 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Delhi'
+p4
+aS'4'
+p5
+aS'Event'
+p6
+aa(lp7
+S'South Delhi'
+p8
+aS'22'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Mehrauli'
+p12
+aS'72'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Qutab Minar'
+p16
+aS'202'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Faridabad'
+p20
+aS'276'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Haryana'
+p24
+aS'279'
+p25
+aS'Neutral'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'H S Dhaliwal'
+p30
+aS'85'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Madhukar Gupta'
+p34
+aS'178'
+p35
+aS'Comment'
+p36
+aa(lp37
+S'Gupta'
+p38
+aS'291'
+p39
+aS'Comment'
+p40
+aa(lp41
+S'Shivraj Patil'
+p42
+aS'308'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Gupta'
+p46
+aS'322'
+p47
+aS'Comment'
+p48
+aa(lp49
+S'Y S Dadwal'
+p50
+aS'330'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Patil'
+p54
+aS'335'
+p55
+aS'Others'
+p56
+aasS'TIM'
+p57
+(lp58
+S'2.15 pm:75'
+p59
+asS'hot_setting'
+p60
+S''
+p61
+sS'DAT'
+p62
+(lp63
+S'Saturday:289'
+p64
+aS'Saturday:349'
+p65
+asS'death'
+p66
+S'1'
+p67
+sS'title'
+p68
+S'Terror hits Delhi again; bomb blast kills boy'
+p69
+sS'org_unorg'
+p70
+g61
+sS'terror_group'
+p71
+(lp72
+g61
+asS'content'
+p73
+VTerror returned to Delhi a fortnight after the serial blasts with two motorcycle-borne youth dropping a tiffin bomb in a crowded South Delhi market that exploded killing a young boy and injuring 18 people . . . Riding a black motorcycle , the two men in black dress and wearing helmets , dropped a black polythene bag containing a tiffin box opposite an electronic goods shop in the flower market in Mehrauli at about 2.15 pm , Deputy Commissioner of Police -LRB- South -RRB- H S Dhaliwal said . . . A 13-year-old boy picked it up to give it back to the bikers . They refused and fled the place but the boy was still keen on giving it to them when it exploded killing him instantaneously and injuring 18 others . . . Eleven of the injured were rushed to AIIMS where doctors said six were in critical condition . Five of them suffered serious head injuries . Three or four of the injured could be required to be operated upon , Union Home Secretary Madhukar Gupta said . . . The explosive shattered the window panes of several adjacent shops in the market located close to the historic Qutab Minar , which was bustling with shoppers . . . The blast , which caused a crater , left a gory scene where blood was splattered on the road along with shattered glass panes and furniture . . . The explosion comes exactly two weeks after the national capital was rocked by five near simultaneous blasts in which 24 people were killed . . . There were reports that police in the neighbouring Faridabad district in Haryana had tipped off about the possibility of explosions on Saturday but Gupta asked the media not to speculate . . . Soon after the explosion , Home Minister Shivraj Patil reviewed the situation with top officials of his Ministry . . . Gupta , who talked to Delhi Police Commissioner Y S Dadwal , briefed Patil on the situation . . . The nature of the explosives used in Saturday 's blast was not immediately known . Forensic experts of the NSG bomb data squad , who visited the spot , found the nails in the explosives were sharpened on both sides . . . ... contd .
+p74
+sS'injured'
+p75
+S'18'
+p76
+sS'det_loc'
+p77
+(lp78
+S'India'
+p79
+aS'Delhi'
+p80
+aS'South West'
+p81
+ag61
+aS'Mehrauli'
+p82
+asS'O'
+p83
+(lp84
+S'two motorcycle-borne youth dropping a tiffin bomb:12'
+p85
+aS'killing a young boy:27'
+p86
+aS'polythene bag containing a tiffin box:56'
+p87
+aS'flower market:69'
+p88
+aS'boy picked it up:94'
+p89
+aS'critical condition:150'
+p90
+aS'explosive shattered the window panes:185'
+p91
+aS'national capital was rocked by five near simultaneous blasts:250'
+p92
+aS'tipped off about the possibility of explosions:281'
+p93
+aS'nails in the explosives:373'
+p94
+asS'unexpl'
+p95
+(lp96
+S'NAILS'
+p97
+asS'ocassion'
+p98
+g61
+sS'link'
+p99
+S'http://archive.indianexpress.com/news/terror-hits-delhi-again--bomb-blast-kills-bo/366683/'
+p100
+sS'date'
+p101
+S'27-10-2008'
+p102
+sS'target'
+p103
+S'MARKET PLACE'
+p104
+sS'hot_spot'
+p105
+g61
+sS'delivery_mod'
+p106
+S'TIFFIN BOX'
+p107
+sS'delivery_met'
+p108
+S'ACCIDENTAL'
+p109
+sS'expl'
+p110
+(lp111
+g61
+asS'ORG'
+p112
+(lp113
+(lp114
+S'AIIMS'
+p115
+aS'143'
+p116
+aS'Others'
+p117
+aa(lp118
+S'Delhi Police'
+p119
+aS'327'
+p120
+aS'Others'
+p121
+aa(lp122
+S'NSG bomb data squad'
+p123
+aS'361'
+p124
+aS'Others'
+p125
+aas.

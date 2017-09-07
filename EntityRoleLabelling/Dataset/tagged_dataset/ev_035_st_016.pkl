@@ -1,0 +1,268 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Guwahati'
+p4
+aS'5'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Garchuk'
+p8
+aS'71'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Baksa'
+p12
+aS'174'
+p13
+aS'Neutral'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Punkha Brahma'
+p18
+aS'53'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Punkha Brahma'
+p22
+aS'64'
+p23
+aS'Accused'
+p24
+aa(lp25
+S'Dinesh Boro'
+p26
+aS'85'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Punkha Brahma'
+p30
+aS'139'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Dinesh Boro'
+p34
+aS'177'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Punkha Boro'
+p38
+aS'180'
+p39
+aS'Others'
+p40
+aasS'TIM'
+p41
+(lp42
+S'12 days : 93'
+p43
+asS'hot_setting'
+p44
+S''
+p45
+sS'DAT'
+p46
+(lp47
+S'October 30:16'
+p48
+aS'Sunday:33'
+p49
+asS'death'
+p50
+g45
+sS'title'
+p51
+S'Another accused presented in court'
+p52
+sS'det_loc'
+p53
+(lp54
+S'India'
+p55
+aS'Assam'
+p56
+aS'Kamrup'
+p57
+aS'Guwahati'
+p58
+ag45
+asS'terror_group'
+p59
+(lp60
+g45
+asS'content'
+p61
+VSpecial Correspondent . . Guwahati : The Special Investigation Team -LRB- SIT -RRB- probing the October 30 serial blasts in Assam produced another accused before the Court of Chief Judicial Magistrate on Sunday . . . Police said that all the three Maruti cars used as car-bombs were in possession of one Punkha Brahma the day before the serial blasts . . . Punkha Brahma was arrested from the citys Garchuk locality by SIT based on the alleged confession made by another arrested person Dinesh Boro . The court remanded him to 12 days in police custody . . . However , the arrested youth , whose face was masked with a black cloth as he was brought to the court , claimed that he was innocent . The SIT has so far arrested six persons , including Punkha Brahma , and picked up about 40 people for questioning in connection with the serial blasts . . . Police sources said interrogations of the arrested revealed that all the three cars were from Baksa district . Dinesh Boro and Punkha Boro were allegedly involved in the movement of the cars and providing logistics to the perpetrators of the terror attacks . Initial probe revealed that the number plates of the cars were fake . Police then began tracking down the owners with the help of the engine and chassis numbers .
+p62
+sS'injured'
+p63
+g45
+sS'org_unorg'
+p64
+g45
+sS'O'
+p65
+(lp66
+S'Special Correspondent:1'
+p67
+aS'probing:14'
+p68
+aS'serial blasts:18'
+p69
+aS'Maruti cars:43'
+p70
+aS'car-bombs:47'
+p71
+aS'possession:50'
+p72
+aS'serial blasts:59'
+p73
+aS'arrested:67'
+p74
+aS'alleged:78'
+p75
+aS'confession:79'
+p76
+aS'arrested:83'
+p77
+aS'arrested:104'
+p78
+aS'masked:110'
+p79
+aS'black cloth:113'
+p80
+aS'court:121'
+p81
+aS'claimed:123'
+p82
+aS'innocent:127'
+p83
+aS'arrested:134'
+p84
+aS'six persons:135'
+p85
+aS'40 people:146'
+p86
+aS'questioning:149'
+p87
+aS'connection:151'
+p88
+aS'serial blasts:154'
+p89
+aS'interrogations:162'
+p90
+aS'arrested revealed:165'
+p91
+aS'three cars:170'
+p92
+aS'allegedly involved:183'
+p93
+aS'movement:187'
+p94
+aS'cars:190'
+p95
+aS'providing logistics:192'
+p96
+aS'perpetrators:196'
+p97
+aS'terror attacks:199'
+p98
+aS'Initial probe:202'
+p99
+aS'revealed:204'
+p100
+aS'number plates:207'
+p101
+aS'cars:211'
+p102
+aS'fake:213'
+p103
+aS'tracking down:218'
+p104
+aS'engine:227'
+p105
+aS'chassis numbers:229'
+p106
+asS'unexpl'
+p107
+(lp108
+g45
+asS'ocassion'
+p109
+g45
+sS'link'
+p110
+S'http://www.thehindu.com/todays-paper/tp-national/another-accused-presented-in-court/article1373056.ece'
+p111
+sS'date'
+p112
+S'30-10-2008'
+p113
+sS'target'
+p114
+S'PUBLIC PLACES'
+p115
+sS'hot_spot'
+p116
+g45
+sS'delivery_mod'
+p117
+S'CAR'
+p118
+sS'delivery_met'
+p119
+S'PLANTED'
+p120
+sS'expl'
+p121
+(lp122
+g45
+asS'ORG'
+p123
+(lp124
+(lp125
+S'Special Investigation Team'
+p126
+aS'8'
+p127
+aS'Others'
+p128
+aa(lp129
+S'SIT'
+p130
+aS'12'
+p131
+aS'Others'
+p132
+aa(lp133
+S'SIT'
+p134
+aS'74'
+p135
+aS'Others'
+p136
+aa(lp137
+S'SIT'
+p138
+aS'130'
+p139
+aS'Others'
+p140
+aas.

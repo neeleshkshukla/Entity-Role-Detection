@@ -1,0 +1,74 @@
+{
+    "LOC": [
+        [
+            "Karachi", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Mominabad", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Orangi Town", 
+            "54", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Bashir Jan.", 
+            "59", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:26"
+    ], 
+    "death": "10", 
+    "title": "10 killed in Karachi bomb attack", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 10 people were feared dead in a bomb blast that targeted yet another candidate from the Awami National Party in Karachi late on Friday . Nearly 40 people , some of them children , were injured in the blast that took place near a corner meeting organised in Mominabad area of Orangi Town for ANP candidate Bashir Jan. . OPEN", 
+    "injured": "40", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Karachi", 
+        ""
+    ], 
+    "O": [
+        ""
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/10-killed-in-karachi-bomb-attack/article4659357.ece", 
+    "date": "26-04-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Awami National Party", 
+            "19", 
+            "Others"
+        ], 
+        [
+            "ANP", 
+            "57", 
+            "Others"
+        ]
+    ]
+}

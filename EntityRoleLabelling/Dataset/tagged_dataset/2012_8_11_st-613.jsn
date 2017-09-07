@@ -1,0 +1,273 @@
+{
+    "LOC": [
+        [
+            "Panchkula", 
+            "42", 
+            "Neutral"
+        ], 
+        [
+            "Panipat", 
+            "148", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "236", 
+            "Neutral"
+        ], 
+        [
+            "Indore", 
+            "238", 
+            "Accused Location"
+        ], 
+        [
+            "Delhi", 
+            "292", 
+            "Neutral"
+        ], 
+        [
+            "Bagli", 
+            "336", 
+            "Neutral"
+        ], 
+        [
+            "Dewas", 
+            "339", 
+            "Neutral"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "341", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Kamal Chauhan", 
+            "48", 
+            "Accused"
+        ], 
+        [
+            "Bhai Saab", 
+            "52", 
+            "Accused"
+        ], 
+        [
+            "Amit", 
+            "56", 
+            "Accused"
+        ], 
+        [
+            "Ashwani Chauhan", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Chauhan", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "Amit", 
+            "86", 
+            "Accused"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "126", 
+            "Accused"
+        ], 
+        [
+            "Samunder", 
+            "129", 
+            "Accused"
+        ], 
+        [
+            "Rajender Choudhary", 
+            "132", 
+            "Accused"
+        ], 
+        [
+            "Naba Kumar Sarkar", 
+            "171", 
+            "Accused"
+        ], 
+        [
+            "Swami Asimanand", 
+            "175", 
+            "Accused"
+        ], 
+        [
+            "Sunil Joshi", 
+            "178", 
+            "Accused"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "185", 
+            "Accused"
+        ], 
+        [
+            "Sandeep Dange", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "Ramchandra Kalasangra", 
+            "192", 
+            "Accused"
+        ], 
+        [
+            "Ramji", 
+            "195", 
+            "Accused"
+        ], 
+        [
+            "Kamal Chauhan", 
+            "232", 
+            "Accused"
+        ], 
+        [
+            "Chauhan", 
+            "284", 
+            "Accused"
+        ], 
+        [
+            "Rajender", 
+            "286", 
+            "Accused"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "295", 
+            "Accused"
+        ], 
+        [
+            "Amit", 
+            "298", 
+            "Accused"
+        ], 
+        [
+            "Kamal Chauhan", 
+            "347", 
+            "Others"
+        ], 
+        [
+            "Amit", 
+            "350", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007 : 15", 
+        "February 18 , 2007 : 112", 
+        "July 29 , 2010 : 224", 
+        "2006 : 331", 
+        "February 18 , 2007 : 375"
+    ], 
+    "death": "68", 
+    "title": "2 more accused named in Samjhauta case", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "Panipat", 
+        "Panipat", 
+        "In the train Samjhauta Express"
+    ], 
+    "terror_group": [
+        "HINDU RIGHT WING ORGANISATION"
+    ], 
+    "content": "The National Investigation Agency ( NIA ) has named two more accused in the 2007 Samjhauta Express blasts case , thus taking the total number of accused to seven . In its supplementary charge sheet filed at a special court at Panchkula , the NIA has named Kamal Chauhan , alias Bhai Saab , and Amit alias Ashwani Chauhan , and charged them with murder , conspiracy , and some other serious offences . In its charge sheet , the NIA has accused Chauhan and Amit , who is currently missing , of planting suitcase bombs in the Indo-Pak Samjhauta Express train that claimed 68 lives , mostly Pakistanis , on February 18 , 2007 . The NIA has said the duo , along with Lokesh Sharma and Samunder , alias Rajender Choudhary , who is also missing , had planted the bombs in the train near Panipat . The remaining five accused charged under various sections of the Indian Penal Code and Unlawful Activities ( Prevention ) Act are Naba Kumar Sarkar alias Swami Asimanand , Sunil Joshi ( now dead ) , Lokesh Sharma , Sandeep Dange , and Ramchandra Kalasangra alias Ramji . All the seven accused are allegedly linked to Hindu right-wing organisations . In its charge sheet , the NIA , which has been investigating the case since July 29 , 2010 , has said that Kamal Chauhan had visited Delhi from Indore to select the target for the blasts . They had initially decided on Delhis Jama Masjid area , but dropped the plan due to tight security in the communally sensitive locality . Later on , Samjhauta Express was selected as the target . They -LSB- Chauhan and Rajender -RSB- came by train to Delhi along with Lokesh Sharma and Amit for planting the bombs , and in due course , they planted the bombs as decided earlier by them . Investigation has also revealed that all of them had undertaken training in 2006 in a jungle near Bagli , District Dewas , Madhya Pradesh . The accused , Kamal Chauhan and Amit , conspired and planned with the remaining accused and suspects and executed this terrorist act . They planted bombs in Samjhauta Express train on February 18 , 2007 , the NIA statement said . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "accused:12", 
+        "samjhauta express blasts case:16", 
+        "accused:27", 
+        "supplementary charge:33", 
+        "special court:39", 
+        "murder:65", 
+        "conspiracy:67", 
+        "offences:73", 
+        "missing:91", 
+        "suitcase bombs:95", 
+        "indo-pak samjhauta express train:99", 
+        "pakistanis:109", 
+        "nia:118", 
+        "duo:122", 
+        "missing:138", 
+        "bombs:143", 
+        "train:146", 
+        "accused:153", 
+        "indian penal code:160", 
+        "unlawful activities ( prevention ) act:164", 
+        "investigating:220", 
+        "target:242", 
+        "blasts:245", 
+        "delhis jama masjid:252", 
+        "plan:260", 
+        "tight security:263", 
+        "samjhauta express:274", 
+        "bombs:302", 
+        "bombs:312", 
+        "investigation:319", 
+        "training:329", 
+        "jungle:334", 
+        "accused:358", 
+        "suspects:360", 
+        "terrorist act:364", 
+        "samjhauta express:371"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/2-more-accused-named-in-samjhauta-case/article3752739.ece", 
+    "date": "18-02-2007", 
+    "target": "PUBLIC TRANSPORT", 
+    "hot_spot": "Samjhauta Express train which runs between India and Pakistan", 
+    "delivery_mod": "TRAIN", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "45", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "81", 
+            "Others"
+        ], 
+        [
+            "Hindu right-wing", 
+            "205", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "215", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "381", 
+            "Others"
+        ]
+    ]
+}

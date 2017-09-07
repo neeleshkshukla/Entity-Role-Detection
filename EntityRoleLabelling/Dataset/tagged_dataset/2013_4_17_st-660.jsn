@@ -1,0 +1,182 @@
+{
+    "LOC": [
+        [
+            "Boston", 
+            "2", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Boston", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "152", 
+            "Event"
+        ], 
+        [
+            "Boston", 
+            "195", 
+            "Event"
+        ], 
+        [
+            "Boston", 
+            "222", 
+            "Event"
+        ], 
+        [
+            "Saudi", 
+            "319", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "389", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "403", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "456", 
+            "Event"
+        ], 
+        [
+            "America", 
+            "478", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Barack Obama", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "Obamas", 
+            "424", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "3 pm:82", 
+        "pm:83"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday : 6", 
+        "September 11 , 2001 : 27", 
+        "Tuesday morning : 198", 
+        "9/11 : 256", 
+        "Tuesday : 353", 
+        "Mondays : 420"
+    ], 
+    "death": "3", 
+    "title": "Homeland security breached", 
+    "det_loc": [
+        "United States", 
+        "", 
+        "", 
+        "Boston", 
+        ""
+    ], 
+    "terror_group": [
+        "AL-QAEDA"
+    ], 
+    "content": "The Boston Marathon bombings of Monday afternoon marked the first major terror attack carried out on U.S. soil since al Qaeda struck with devastating force on September 11 , 2001 . With three confirmed dead , among them an eight-year-old boy waiting for his father at the finish line , and local hospitals receiving at least 176 persons , many with serious injuries and some requiring amputation , the city of Boston turned from jubilation to stunned silence . Shortly before 3 pm , a quarter of a mile or so before the finish line , two loud blasts went off within seconds of each other . Spectators and runners knocked over by the force of the blast sat amidst blood and debris on the road . Doctors treating the injured were said to be pulling ball-bearings and shrapnel out of people , suggesting a bomb designed for lethal impact . U.S. law enforcement , which did not appear to have any advance intelligence of the incident , went into fourth gear immediately . Major cities were put on high alert , and a no-fly zone and temporary airport ground stop were imposed in Boston . On Tuesday morning the Federal Bureau of Investigation , now in charge of the criminal investigation into the attack , raided a high-rise apartment in Boston in search of a person of interest . In a statement made a few hours after the attack , President Barack Obama seemed to be conscious of the legacy of suspicion that followed 9/11 , particularly the violent backlash against Muslims , Sikhs and other ethnic minorities . We dont yet have all the answers , he said . We still do not know who did this or why ... People shouldnt jump to conclusions before we have all the facts . Yet even as he spoke there were unconfirmed reports in the media about a Saudi national said to have been questioned at a hospital . Some media outlets got ahead of themselves , speculating over whether foreign or home-grown terror groups could be involved . Yet as of Tuesday , the authorities made it clear they had no concrete leads . After nearly a decade of polarising experience with hate crimes , Islamophobia and the suspension of civil liberties under legislation such as the U.S. Patriot Act , it is only in the past few years that the U.S. has enacted stronger protections for minorities and free speech . There is a real risk that Mondays bombing and Mr. Obamas promise that the attackers would feel the full weight of justice may lead to the rollback of these hard-fought rights . If they do , it may once again draw the U.S. back into a negative spiral of injurious overreach in foreign policy and domestic policing that will damage the civilisational fabric of America without making the country any more secure . OPEN", 
+    "injured": "176", 
+    "org_unorg": "", 
+    "O": [
+        "Boston Marathon bombings:2", 
+        "first major terror attack:10", 
+        "devastating force:24", 
+        "eight-year-old boy:40", 
+        "finish line:48", 
+        "local hospitals:52", 
+        "serious injuries:62", 
+        "requiring amputation:66", 
+        "jubilation to stunned silence:75", 
+        "finish line:94", 
+        "two loud blasts:97", 
+        "Spectators and runners knocked:108", 
+        "blast:118", 
+        "amidst blood and debris:120", 
+        "ball-bearings:137", 
+        "shrapnel:139", 
+        "bomb designed:146", 
+        "lethal impact:149", 
+        "U.S. law enforcement:152", 
+        "advance intelligence:163", 
+        "fourth gear:171", 
+        "high alert:180", 
+        "no-fly zone:185", 
+        "temporary airport:188", 
+        "criminal investigation:211", 
+        "attack:215", 
+        "high-rise apartment:219", 
+        "President Barack Obama:242", 
+        "legacy of suspicion:251", 
+        "violent backlash:260", 
+        "Muslims:263", 
+        "Sikhs:265", 
+        "ethnic minorities:268", 
+        "unconfirmed reports:312", 
+        "Saudi national:319", 
+        "home-grown terror groups:343", 
+        "polarising experience:371", 
+        "hate crimes:374", 
+        "Islamophobia:377", 
+        "civil liberties:382", 
+        "legislation:385", 
+        "U.S. Patriot Act:389", 
+        "stronger protections:406", 
+        "minorities:409", 
+        "free speech:411", 
+        "real risk:417", 
+        "attackers:428", 
+        "full weight of justice:432", 
+        "rollback:440", 
+        "hard-fought rights:443", 
+        "negative spiral of injurious:460", 
+        "foreign policy:466", 
+        "domestic policing:469", 
+        "civilisational fabric of America:475", 
+        "more secure:484"
+    ], 
+    "unexpl": [
+        "BALL-BEARINGS", 
+        "SHRAPNEL"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-opinion/homeland-security-breached/article4625376.ece", 
+    "date": "15-04-2013", 
+    "target": "SPORTS VENUE", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "al Qaeda", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "Federal Bureau of Investigation", 
+            "201", 
+            "Others"
+        ]
+    ]
+}

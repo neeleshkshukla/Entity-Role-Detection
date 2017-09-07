@@ -1,0 +1,159 @@
+{
+    "LOC": [
+        [
+            "Baghdad", 
+            "8", 
+            "Event"
+        ], 
+        [
+            "Iraq", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Talibiyah", 
+            "113", 
+            "Event"
+        ], 
+        [
+            "Baghdads", 
+            "242", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "290", 
+            "Neutral"
+        ], 
+        [
+            "Basra", 
+            "346", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Wisam al-Hardan", 
+            "316", 
+            "Assoc Victim"
+        ], 
+        [
+            "Abdul-Karim Mustafa", 
+            "354", 
+            "Assoc Victim"
+        ]
+    ], 
+    "TIM": [
+        "evening : 5", 
+        "evening : 47", 
+        "evenings : 96", 
+        "evening : 170"
+    ], 
+    "hot_setting": "Insurgents try to capitalise on rising sectarian and ethnic tensions.", 
+    "DAT": [
+        "Tuesday : 20", 
+        "Monday : 324"
+    ], 
+    "death": "33", 
+    "title": "Bombings, attacks in Iraq kill 47", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Baghdad; Basra", 
+        "Talibiyah in Baghdad"
+    ], 
+    "terror_group": [
+        "AL-QAEDA"
+    ], 
+    "content": "A series of coordinated evening blasts in Baghdad and other violence killed at least 47 people in Iraq on Tuesday , officials said . Many of those killed were caught up in a string of car bombings that tore through the Iraqi capital early in the evening as residents were out shopping or heading to dinner . Those blasts struck seven different neighbourhoods and claimed at least 33 lives . The killing comes amid a spike in deadly violence in recent months as insurgents try to capitalise on rising sectarian and ethnic tensions . The evenings deadliest single blast struck hit a row of restaurants in the largely Shia eastern neighbourhood of Talibiyah , killing seven and wounding 28 . No one claimed immediate responsibility for the attacks , but coordinated car bombings and attacks on civilians and Iraqi security forces are a favourite tactic of the Iraqi branch of al-Qaeda . It typically does not lay claim to attacks for many days , if at all . The evening blasts added to a death toll that had been mounting throughout the day . Shia and Sunni leaders have both called for calm , hoping to avoid a return to those dark days . But the bloodshed continues , with more than 4,000 people killed over the past five months alone . That includes 804 Iraqis killed just last month , according to U.N. figures released earlier this week . In Baghdads southern suburbs , gunmen stormed the house of a member of a Sunni militia opposed to al-Qaeda , killing him and his wife and three children in a southern suburb of the capital , according to police . The militia , known as the Sahwa , helped U.S. troops fight al-Qaeda at the height of the war and since been a target for hard-line insurgents who consider them traitors . Prominent Sahwa leader Wisam al-Hardan escaped unharmed an assassination attempt on Monday by two suicide bombers , but six of his bodyguards and a bystander were killed . In the southern city of Basra , gunmen shot and killed Sunni cleric Abdul-Karim Mustafa . AP OPEN", 
+    "injured": "28", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "blasts:6", 
+        "violence:11", 
+        "car bombings:36", 
+        "Iraqi capital:42", 
+        "blasts:59", 
+        "deadly violence:78", 
+        "insurgents:84", 
+        "capitalise:87", 
+        "sectarian and ethnic tensions:90", 
+        "deadliest single blast:97", 
+        "Shia:109", 
+        "attacks:128", 
+        "car bombings:132", 
+        "attacks:135", 
+        "civilians and Iraqi security forces:137", 
+        "Iraqi branch:148", 
+        "attacks:160", 
+        "blasts:171", 
+        "Shia:185", 
+        "Sunni:187", 
+        "dark days:202", 
+        "bloodshed:207", 
+        "4,000 people:213", 
+        "804 Iraqis:225", 
+        "gunmen:246", 
+        "sunni militia:255", 
+        "militia:282", 
+        "war:299", 
+        "hard-line insurgents:306", 
+        "traitors:311", 
+        "assassination attempt:321", 
+        "suicide bombers:327", 
+        "bodyguards:334", 
+        "bystander:337", 
+        "Sunni cleric Abdul-Karim Mustafa:352"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "INSURGENCY/CIVIL WAR", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/bombings-attacks-in-iraq-kill-47/article5091711.ece", 
+    "date": "03-09-2013", 
+    "target": "TOWN", 
+    "hot_spot": "Shia eastern neighbourhood of Talibiyah in Baghdad.", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "al-Qaeda", 
+            "151", 
+            "Accused"
+        ], 
+        [
+            "U.N.", 
+            "234", 
+            "Others"
+        ], 
+        [
+            "al-Qaeda", 
+            "259", 
+            "Accused"
+        ], 
+        [
+            "Sahwa", 
+            "287", 
+            "Assoc Victim"
+        ], 
+        [
+            "al-Qaeda", 
+            "293", 
+            "Assoc Accused"
+        ], 
+        [
+            "Sahwa", 
+            "314", 
+            "Others"
+        ], 
+        [
+            "AP", 
+            "357", 
+            "Others"
+        ]
+    ]
+}

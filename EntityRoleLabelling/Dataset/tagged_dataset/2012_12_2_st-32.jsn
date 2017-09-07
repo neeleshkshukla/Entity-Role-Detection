@@ -1,0 +1,243 @@
+{
+    "LOC": [
+        [
+            "Koregaon", 
+            "14", 
+            "Event"
+        ], 
+        [
+            "Kaij tehsil", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Beed", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Maharashtra", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Beed", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Koregaon", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Ambejogai", 
+            "87", 
+            "Neutral"
+        ], 
+        [
+            "Beed", 
+            "177", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "200", 
+            "Neutral"
+        ], 
+        [
+            "Aurangabad", 
+            "295", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "311", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "327", 
+            "Neutral"
+        ], 
+        [
+            "Aurangabad", 
+            "359", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Om Ramesh Nimbalkar", 
+            "43", 
+            "Victim"
+        ], 
+        [
+            "Usha Nimbalkar", 
+            "52", 
+            "Victim"
+        ], 
+        [
+            "Kusum Ramesh Nimbalkar", 
+            "60", 
+            "Victim"
+        ], 
+        [
+            "Kunal", 
+            "69", 
+            "Victim"
+        ], 
+        [
+            "Nimbalkar", 
+            "72", 
+            "Victim"
+        ], 
+        [
+            "Nimbalkar", 
+            "141", 
+            "Victim"
+        ], 
+        [
+            "Rakesh Jadhav", 
+            "166", 
+            "Comment"
+        ], 
+        [
+            "Nimbalkar", 
+            "207", 
+            "Victim"
+        ], 
+        [
+            "Nimbalkar", 
+            "226", 
+            "Victim"
+        ], 
+        [
+            "Kunal", 
+            "239", 
+            "Victim"
+        ], 
+        [
+            "Jadhav", 
+            "249", 
+            "Comment"
+        ], 
+        [
+            "Jadhav", 
+            "260", 
+            "Comment"
+        ], 
+        [
+            "Riteish Kumar", 
+            "298", 
+            "Others"
+        ], 
+        [
+            "Dattatray Mandlik", 
+            "304", 
+            "Others"
+        ], 
+        [
+            "Mandlik", 
+            "372", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:25", 
+        "Friday afternoon:37", 
+        "Friday morning:98"
+    ], 
+    "death": "", 
+    "title": "Transistor blast in Beed injures four", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Beed", 
+        "", 
+        "Koregaon Village"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Four members of a family were injured in a transistor bomb blast at Koregaon village of Kaij tehsil in Beed district of Maharashtra on Friday . According to Beed police , the blast took place on Friday afternoon . The injured are Om Ramesh Nimbalkar ( 32 ) , his wife Usha Nimbalkar ( 25 ) , his mother Kusum Ramesh Nimbalkar ( 55 ) and two-year-old son Kunal . Mr. Nimbalkar , a resident of Koregaon , who works as a bus conductor in the Ambejogai bus depot , found a parcel in a bus on Friday morning and took it to his house . On opening it , he found a radio set and three cells . His family members were huddled around him when he inserted the cells into the radio . The radio exploded when Mr. Nimbalkar switched it on . According to some reports reaching here , the sound of the explosion could be heard four km away . Dr. Rakesh Jadhav , Deputy Superintendent of Swami Ramanand Tirath Hospital in Beed , where the injured had been admitted , told The Hindu that all four have been referred to the J.J. Hospital in Mumbai now for ophthalmic care . Mr. Nimbalkar and his wife have suffered corneal injuries . All four have suffered fractures on their hands . Mr. Nimbalkar lost his right hand and two fingers of his left hand . Kunal has also suffered heavy corneal injuries , said Dr. Jadhav . Asked if they were out of danger , Dr. Jadhav said : We cant say this at this point of time because some of them have deep injuries . A team of forensic experts have collected samples from the spot . Inspector General , Aurangabad range , Riteish Kumar , Superintendent of Police Dattatray Mandlik , a team of the Maharashtra Anti-Terrorism Squad and a team of the National Investigation Agency have reached the spot . Mumbai Staff Reporter reports : The police are awaiting the preliminary forensic report to ascertain the nature of the bomb . Forensic teams have collected evidence . It has been sent to Aurangabad for preliminary investigation . We are still awaiting the report , Mr. Mandlik told The Hindu . He declined to give any further information . OPEN", 
+    "injured": "4", 
+    "org_unorg": "", 
+    "O": [
+        "four members:1", 
+        "injured:7", 
+        "transistor bomb blast:10", 
+        "blast:33", 
+        "injured:41", 
+        "bus conductor:83", 
+        "ambejogai bus depot:87", 
+        "parcel:93", 
+        "radio set:114", 
+        "three cells:117", 
+        "huddled:124", 
+        "radio exploded:137", 
+        "reports:149", 
+        "explosion:157", 
+        "admitted:184", 
+        "ophthalmic care:203", 
+        "corneal injuries:213", 
+        "fractures:220", 
+        "corneal injuries:244", 
+        "deep injuries:277", 
+        "forensic experts:283", 
+        "collected samples:286", 
+        "mumbai staff reporter:327", 
+        "bomb:346", 
+        "forensic teams:348", 
+        "evidence:352", 
+        "preliminary investigation:361", 
+        "report:369"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/transistor-blast-in-beed-injures-four/article4155325.ece", 
+    "date": "01-12-2012", 
+    "target": "INDIVIDUAL", 
+    "hot_spot": "Koregaon Village of Kaij tehsil in Beed district of Maharashtra", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Swami Ramanand Tirath Hospital", 
+            "172", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "187", 
+            "Others"
+        ], 
+        [
+            "J.J. Hospital", 
+            "197", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "312", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "319", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "374", 
+            "Others"
+        ]
+    ]
+}

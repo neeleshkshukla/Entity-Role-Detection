@@ -1,0 +1,295 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'5'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Mehrauli'
+p8
+aS'15'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Delhi'
+p12
+aS'218'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Rajiv Pratap Rudy'
+p18
+aS'54'
+p19
+aS'Comment'
+p20
+aa(lp21
+S'Manmohan Singh'
+p22
+aS'73'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Mr. Rudy'
+p26
+aS'113'
+p27
+aS'Comment'
+p28
+aa(lp29
+S'Hamid Ansari'
+p30
+aS'137'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Shivraj Patil'
+p34
+aS'173'
+p35
+aS'Comment'
+p36
+aa(lp37
+S'Sonia Gandhi'
+p38
+aS'233'
+p39
+aS'Comment'
+p40
+aa(lp41
+S'Manish Tewari'
+p42
+aS'262'
+p43
+aS'Comment'
+p44
+aa(lp45
+S'D. Raja'
+p46
+aS'322'
+p47
+aS'Comment'
+p48
+aasS'TIM'
+p49
+(lp50
+S'month : 111'
+p51
+aS'three-day : 355'
+p52
+asS'hot_setting'
+p53
+S''
+p54
+sS'DAT'
+p55
+(lp56
+S'Saturday : 29'
+p57
+aS'Saturdays : 209'
+p58
+aS'Sunday : 359'
+p59
+asS'death'
+p60
+g54
+sS'title'
+p61
+S'Manmohan soft on terror: BJP'
+p62
+sS'det_loc'
+p63
+(lp64
+S'India'
+p65
+aS'Delhi'
+p66
+aS'New Delhi'
+p67
+ag54
+ag54
+asS'terror_group'
+p68
+(lp69
+g54
+asS'content'
+p70
+VSpecial Correspondent . . NEW DELHI : Within hours of the blast in the Mehrauli area of the capital , the Bharatiya Janata Party -LRB- BJP -RRB- on Saturday accused the Prime Minister of being soft on terror for the sake of vote-bank politics . . . Condemning the blast , BJP spokesman Rajiv Pratap Rudy sought to draw attention to the irony that the blast took place even as Prime Minister Manmohan Singh was calling for a campaign against terrorism , at the United Nations General Assembly . . . Expressing concern over the fact that the capital had come under terror attack for the second time in a month , Mr. Rudy said it was high time the government stopped debating and discussing terrorism , and began acting against it . . . Vice-President Hamid Ansari said such mindless and reprehensible acts of violence were intended to disturb the peace and impede national progress . He appealed to all sections of society to maintain calm . . . Home Minister Shivraj Patil said the government had taken a series of measures recently to beef up security in the capital . Whatever more is required to be done will be done expeditiously . I condemn todays -LSB- Saturdays -RSB- blast and appeal to the people of Delhi to remain calm , he said in a statement . . . Congress president Sonia Gandhi expressed deep shock and concern and said the blast should be condemned in the strongest terms . . . Responding to the BJP demand , party spokesperson Manish Tewari said this was the time for the nation to be seen as one in the fight against terror . The principal party in the Opposition should stand up and send a strong signal that political parties were one in meeting this challenge rather than play this game of oneupmanship . . . Communist Party of India national secretary D. Raja said the intelligence agencies should understand and counter the new methods being employed by the terrorists . . . Campaign . . The All-India Forward Bloc said it would organise a three-day nationwide campaign from Sunday against increasing terrorist activities across the country .
+p71
+sS'injured'
+p72
+g54
+sS'org_unorg'
+p73
+g54
+sS'O'
+p74
+(lp75
+S'Within hours:8'
+p76
+aS'blast:12'
+p77
+aS'vote-bank politics:43'
+p78
+aS'blast:50'
+p79
+aS'attention:60'
+p80
+aS'blast:66'
+p81
+aS'Prime Minister Manmohan Singh:71'
+p82
+aS'campaign against terrorism:79'
+p83
+aS'United Nations General Assembly:85'
+p84
+aS'terror attack:103'
+p85
+aS'second time:107'
+p86
+aS'debating and discussing terrorism:123'
+p87
+aS'mindless:141'
+p88
+aS'reprehensible acts of violence:143'
+p89
+aS'peace and impede national progress:152'
+p90
+aS'Home Minister Shivraj Patil:171'
+p91
+aS'series of measures:181'
+p92
+aS'blast:211'
+p93
+aS'appeal:213'
+p94
+aS'remain calm:220'
+p95
+aS'deep shock and concern:236'
+p96
+aS'blast:243'
+p97
+aS'fight against terror:279'
+p98
+aS'Opposition:288'
+p99
+aS'stand up:290'
+p100
+aS'strong signal:295'
+p101
+aS'political parties:298'
+p102
+aS'challenge:305'
+p103
+aS'oneupmanship:312'
+p104
+aS'intelligence agencies:326'
+p105
+aS'new methods:333'
+p106
+aS'terrorists:339'
+p107
+aS'Campaign:343'
+p108
+aS'nationwide campaign:356'
+p109
+aS'increasing terrorist activities:361'
+p110
+asS'unexpl'
+p111
+(lp112
+g54
+asS'ocassion'
+p113
+g54
+sS'link'
+p114
+S'http://www.thehindu.com/todays-paper/article1347291.ece'
+p115
+sS'date'
+p116
+S'27-09-2008'
+p117
+sS'target'
+p118
+S'CITY'
+p119
+sS'hot_spot'
+p120
+g54
+sS'delivery_mod'
+p121
+g54
+sS'delivery_met'
+p122
+S'PLANTED'
+p123
+sS'expl'
+p124
+(lp125
+g54
+asS'ORG'
+p126
+(lp127
+(lp128
+S'Bharatiya Janata Party'
+p129
+aS'22'
+p130
+aS'Others'
+p131
+aa(lp132
+S'BJP'
+p133
+aS'26'
+p134
+aS'Others'
+p135
+aa(lp136
+S'BJP'
+p137
+aS'52'
+p138
+aS'Others'
+p139
+aa(lp140
+S'Congress'
+p141
+aS'231'
+p142
+aS'Others'
+p143
+aa(lp144
+S'BJP'
+p145
+aS'257'
+p146
+aS'Others'
+p147
+aa(lp148
+S'Communist Party of India'
+p149
+aS'316'
+p150
+aS'Others'
+p151
+aa(lp152
+S'All-India Forward Bloc'
+p153
+aS'347'
+p154
+aS'Others'
+p155
+aas.

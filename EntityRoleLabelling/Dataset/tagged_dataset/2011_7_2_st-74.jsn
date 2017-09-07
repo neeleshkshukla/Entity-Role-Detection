@@ -1,0 +1,152 @@
+{
+    "LOC": [], 
+    "PER": [
+        [
+            "Ramchandra Kalsangra", 
+            "40", 
+            "Accused"
+        ], 
+        [
+            "Sandeep Dange", 
+            "43", 
+            "Accused"
+        ], 
+        [
+            "M. Rathi", 
+            "65", 
+            "Comment"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "Kanchan Mahi", 
+            "118", 
+            "Others"
+        ], 
+        [
+            "Aseemanand", 
+            "125", 
+            "Accused"
+        ], 
+        [
+            "Sunil Joshi", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "Lokesh Sharma", 
+            "134", 
+            "Accused"
+        ], 
+        [
+            "Sandeep Dange", 
+            "137", 
+            "Accused"
+        ], 
+        [
+            "Ramchandra Kalsangra", 
+            "140", 
+            "Accused"
+        ], 
+        [
+            "Ramji", 
+            "143", 
+            "Accused"
+        ], 
+        [
+            "Swami Aseemanand", 
+            "159", 
+            "Accused"
+        ], 
+        [
+            "Sharma", 
+            "162", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:10", 
+        "July 8:21", 
+        "June 20:75", 
+        "2007:92", 
+        "Friday:179"
+    ], 
+    "death": "68", 
+    "title": "Two accusedin Samjhauta case declared offenders", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A special court hearing the Samjhauta blasts case on Friday declared two of the accused proclaimed offenders and posted for July 8 the next hearing in the case . During in-camera hearing of the case , the court declared Ramchandra Kalsangra and Sandeep Dange proclaimed offenders after the National Investigation Agency ( NIA ) said it had failed to locate them , defence counsel M. Rathi told journalists here . The NIA had on June 20 charged Swami Aseemanand and four others with triggering explosions in the cross-border Samjhauta Express in 2007 . The incident left 68 dead and 12 injured . In the charge sheet filed before the vacation court of Additional District and Sessions Judge Kanchan Mahi , the NIA had accused Aseemanand , Sunil Joshi ( now dead ) , Lokesh Sharma , Sandeep Dange and Ramchandra Kalsangra alias Ramji of hatching a criminal conspiracy , which resulted in bomb blasts in the train . Swami Aseemanand and Sharma are already in judicial custody in Ambala Jail . Both were present in the court on Friday . PTI OPEN", 
+    "injured": "12", 
+    "det_loc": [
+        "India", 
+        "Haryana", 
+        "Panchkula", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "special court:2", 
+        "samjhauta blasts case:6", 
+        "next hearing:24", 
+        "in-camera hearing:31", 
+        "defence counsel:63", 
+        "triggering explosions:84", 
+        "cross-border:88", 
+        "samjhauta express:89", 
+        "charge sheet:105", 
+        "vacation court:110", 
+        "additional district and sessions judge:113", 
+        "aseemanand:125", 
+        "criminal conspiracy:147", 
+        "bomb blasts:153", 
+        "train:157", 
+        "judicial custody:166"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/two-accusedin-samjhauta-case-declared-offenders/article2152321.ece", 
+    "date": "01-07-2011", 
+    "target": "Public Transport", 
+    "hot_spot": "Samjhauta Express", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "122", 
+            "Others"
+        ], 
+        [
+            "Ambala Jail", 
+            "169", 
+            "Others"
+        ]
+    ]
+}

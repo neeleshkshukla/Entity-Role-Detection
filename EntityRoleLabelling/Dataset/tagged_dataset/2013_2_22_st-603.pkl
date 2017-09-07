@@ -1,0 +1,232 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Damascus'
+p4
+aS'72'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Mazraa'
+p8
+aS'75'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Damascus'
+p12
+aS'135'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Al-Iman mosque'
+p16
+aS'161'
+p17
+aS'Assoc Event Location'
+p18
+aasS'PER'
+p19
+(lp20
+sS'TIM'
+p21
+(lp22
+sS'hot_setting'
+p23
+S''
+p24
+sS'DAT'
+p25
+(lp26
+S'Thursday:17'
+p27
+aS'16 November : 156'
+p28
+asS'death'
+p29
+S'31'
+p30
+sS'title'
+p31
+S'Many killed in Damascus blast'
+p32
+sS'org_unorg'
+p33
+g24
+sS'terror_group'
+p34
+(lp35
+g24
+asS'content'
+p36
+S'A powerful car bomb exploded near the ruling Baath party headquarters in the Syrian capital on Thursday , killing at least 31 people , wounding dozens and leaving a trail of destruction , said a watchdog . Images of charred bodies lying next to mangled vehicles were broadcast by state television channel Al-Ekhbariya , which said children were among those wounded , as the blast occurred near a school the central Damascus district of Mazraa . At least 31 people were killed and dozens wounded , the majority civilians , said the Syrian Observatory for Human Rights , while the state news agency SANA reported 16 killed and 200 hurt in what it said was a suicide bombing . Shortly after the mid-morning blast , two mortars were fired at a military headquarters in Damascus , Al-Ekhbariya and the Observatory both reported , without giving information on casualties . The car bomb exploded at the 16 November Square near the Al-Iman mosque , next to the head offices of the Baath party , which has been in power for half a century . Buildings were shattered by the blast , which sent thick black smoke billowing across the capitals skyline and all roads in the area were quickly sealed off , an AFP correspondent said . Ambulance sirens rang out , and machinegun fire was also heard in the area , as firemen rushed to the scene to douse the flames . There was no immediate claim of responsibility for the attack , which left a large crater in a major road , according to pictures released by the SANA state news agency . AFP OPEN'
+p37
+sS'injured'
+p38
+S'12'
+p39
+sS'det_loc'
+p40
+(lp41
+S'Syria'
+p42
+ag24
+ag24
+aS'Damascus'
+p43
+ag24
+asS'O'
+p44
+(lp45
+S'exploded:5'
+p46
+aS'Baath party headquarters:9'
+p47
+aS'Syrian capital:14'
+p48
+aS'trail of destruction:30'
+p49
+aS'watchdog:36'
+p50
+aS'Images:38'
+p51
+aS'charred bodies:40'
+p52
+aS'mangled vehicles:45'
+p53
+aS'broadcast:48'
+p54
+aS'state television channel:50'
+p55
+aS'Al-Ekhbariya:53'
+p56
+aS'blast:65'
+p57
+aS'school:69'
+p58
+aS'majority civilians:88'
+p59
+aS'Syrian Observatory for Human Rights:93'
+p60
+aS'16 killed:106'
+p61
+aS'200 hurt:109'
+p62
+aS'suicide bombing:117'
+p63
+aS'mid-morning blast:123'
+p64
+aS'two mortars:126'
+p65
+aS'military headquarters:132'
+p66
+aS'Al-Ekhbariya:137'
+p67
+aS'casualties:148'
+p68
+aS'car bomb exploded:151'
+p69
+aS'Buildings:184'
+p70
+aS'shattered:186'
+p71
+aS'blast:189'
+p72
+aS'thick black smoke billowing:193'
+p73
+aS'capitals skyline:199'
+p74
+aS'sealed off:209'
+p75
+aS'Ambulance:217'
+p76
+aS'machinegun:223'
+p77
+aS'firemen rushed:233'
+p78
+aS'attack:252'
+p79
+asS'unexpl'
+p80
+(lp81
+g24
+asS'ocassion'
+p82
+g24
+sS'link'
+p83
+S'http://www.thehindu.com/todays-paper/tp-international/many-killed-in-damascus-blast/article4441114.ece'
+p84
+sS'date'
+p85
+S'21-02-2013'
+p86
+sS'target'
+p87
+S'PUBLIC PLACES'
+p88
+sS'hot_spot'
+p89
+g24
+sS'delivery_mod'
+p90
+g24
+sS'delivery_met'
+p91
+S'PLANTED'
+p92
+sS'expl'
+p93
+(lp94
+g24
+asS'ORG'
+p95
+(lp96
+(lp97
+S'Baath party'
+p98
+aS'9'
+p99
+aS'Others'
+p100
+aa(lp101
+S'SANA'
+p102
+aS'104'
+p103
+aS'Others'
+p104
+aa(lp105
+S'Baath party'
+p106
+aS'171'
+p107
+aS'Others'
+p108
+aa(lp109
+S'AFP'
+p110
+aS'213'
+p111
+aS'Others'
+p112
+aa(lp113
+S'SANA'
+p114
+aS'270'
+p115
+aS'Others'
+p116
+aa(lp117
+S'AFP'
+p118
+aS'275'
+p119
+aS'Others'
+p120
+aas.

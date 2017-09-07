@@ -1,0 +1,226 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'India'
+p4
+aS'10'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Gujarat'
+p8
+aS'28'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Ahmedabad'
+p12
+aS'43'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Prem Darwaja'
+p16
+aS'75'
+p17
+aS'Source'
+p18
+aa(lp19
+S'Dariapur'
+p20
+aS'82'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Patna'
+p24
+aS'119'
+p25
+aS'Accused Location'
+p26
+aa(lp27
+S'Azamgarh'
+p28
+aS'128'
+p29
+aS'Accused Location'
+p30
+aa(lp31
+S'Uttar Pradesh'
+p32
+aS'130'
+p33
+aS'Accused Location'
+p34
+aasS'PER'
+p35
+(lp36
+(lp37
+S'Himanshu Shukla'
+p38
+aS'57'
+p39
+aS'Comment'
+p40
+aa(lp41
+S'Hasib Raza'
+p42
+aS'110'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Shamim Saiyed'
+p46
+aS'113'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Abu Fakir Siddiqui'
+p50
+aS'123'
+p51
+aS'Accused'
+p52
+aasS'TIM'
+p53
+(lp54
+sS'hot_setting'
+p55
+S''
+p56
+sS'DAT'
+p57
+(lp58
+S'Monday:45'
+p59
+asS'death'
+p60
+g56
+sS'title'
+p61
+S'SIMI activists arrested'
+p62
+sS'org_unorg'
+p63
+S'Organized'
+p64
+sS'terror_group'
+p65
+(lp66
+S'Students Islamic Movement of India'
+p67
+asS'content'
+p68
+S'Two activists of the banned Students Islamic Movement of India ( SIMI ) , which was allegedly involved in several bomb blasts and other terror attacks in Gujarat and other parts of the country , were arrested by the Crime Branch in Ahmedabad on Monday . The Deputy Commissioner of Police ( Crime Branch ) , Himanshu Shukla , said the police acted on a tip-off and arrested the two SIMI activists from the Prem Darwaja locality adjacent to the minority-dominated Dariapur area . He said the police have recovered an air gun , a pistol , and 20 live cartridges . The two activists were identified as 43-year-old Hasib Raza alias Shamim Saiyed , who hails from Patna , and 34-year-old Abu Fakir Siddiqui , from Azamgarh in Uttar Pradesh . They had been living in the city with their families for some time now . OPEN'
+p69
+sS'injured'
+p70
+g56
+sS'det_loc'
+p71
+(lp72
+S'India'
+p73
+aS'Gujarat'
+p74
+aS'Ahmedabad'
+p75
+ag56
+ag56
+asS'O'
+p76
+(lp77
+S'bomb blasts:21'
+p78
+aS'country:34'
+p79
+aS'crime branch:40'
+p80
+aS'branch:41'
+p81
+aS'deputy commissioner:48'
+p82
+aS'crime branch:53'
+p83
+aS'branch:54'
+p84
+aS'simi activists:71'
+p85
+aS'area:83'
+p86
+aS'air gun:92'
+p87
+aS'pistol:96'
+p88
+asS'unexpl'
+p89
+(lp90
+g56
+asS'ocassion'
+p91
+g56
+sS'link'
+p92
+S'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/simi-activists-arrested/article512987.ece'
+p93
+sS'date'
+p94
+S'13-07-2010'
+p95
+sS'target'
+p96
+g56
+sS'hot_spot'
+p97
+g56
+sS'delivery_mod'
+p98
+g56
+sS'delivery_met'
+p99
+g56
+sS'expl'
+p100
+(lp101
+S'Crude bomb'
+p102
+asS'ORG'
+p103
+(lp104
+(lp105
+S'Students Islamic Movement of India'
+p106
+aS'6'
+p107
+aS'Accused'
+p108
+aa(lp109
+S'SIMI'
+p110
+aS'12'
+p111
+aS'Accused'
+p112
+aa(lp113
+S'Crime Branch'
+p114
+aS'40'
+p115
+aS'Others'
+p116
+aa(lp117
+S'SIMI'
+p118
+aS'71'
+p119
+aS'Accused'
+p120
+aas.

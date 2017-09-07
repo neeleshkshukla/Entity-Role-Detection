@@ -1,0 +1,177 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bangkok'
+p4
+aS'25'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Israel'
+p8
+aS'57'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Bangkok'
+p12
+aS'114'
+p13
+aS'Event'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Saeid Moradi'
+p18
+aS'73'
+p19
+aS'Accused'
+p20
+aasS'TIM'
+p21
+(lp22
+sS'hot_setting'
+p23
+S''
+p24
+sS'DAT'
+p25
+(lp26
+S'Thursday : 13'
+p27
+aS'2012 : 62'
+p28
+asS'death'
+p29
+g24
+sS'title'
+p30
+S'Thai court jails Iran pair over plot'
+p31
+sS'org_unorg'
+p32
+g24
+sS'terror_group'
+p33
+(lp34
+g24
+asS'content'
+p35
+S'Two Iranian men were sentenced to between 15 years and life on Thursday for alleged involvement in a botched bomb plot last year in Bangkok that ended with one of them having his legs blown off . The pair , who had denied the charges , were among five Iranians suspected of involvement in blasts that Israel has linked to a 2012 spate of attacks on its diplomats across the world . Saeid Moradi ( 29 , in picture ) , who lost his limbs as he hurled an explosive device at police in the Thai capital , was found guilty on charges including attempted murder and handed a life term by the Bangkok Southern Criminal court . The court found him guilty of carrying explosives in public , using explosives to attempt to kill officials and using explosives which caused the destruction of property . AFP OPEN'
+p36
+sS'injured'
+p37
+g24
+sS'det_loc'
+p38
+(lp39
+S'Thailand'
+p40
+ag24
+ag24
+aS'Bangkok'
+p41
+ag24
+asS'O'
+p42
+(lp43
+S'two iranian men:1'
+p44
+aS'sentenced:5'
+p45
+aS'15 years and life:8'
+p46
+aS'botched bomb plot:19'
+p47
+aS'legs blown off:34'
+p48
+aS'denied:43'
+p49
+aS'charges:45'
+p50
+aS'five iranians suspected:49'
+p51
+aS'blasts:55'
+p52
+aS'attacks:65'
+p53
+aS'diplomats:68'
+p54
+aS'explosive device:90'
+p55
+aS'police:93'
+p56
+aS'thai capital:96'
+p57
+aS'guilty:101'
+p58
+aS'attempted murder:105'
+p59
+aS'guilty:123'
+p60
+aS'carrying explosives:125'
+p61
+aS'explosives:131'
+p62
+aS'attempt to kill officials:133'
+p63
+aS'explosives:139'
+p64
+aS'destruction:143'
+p65
+asS'unexpl'
+p66
+(lp67
+g24
+asS'ocassion'
+p68
+g24
+sS'link'
+p69
+S'http://www.thehindu.com/todays-paper/tp-international/thai-court-jails-iran-pair-over-plot/article5050653.ece'
+p70
+sS'date'
+p71
+S'14-02-2012'
+p72
+sS'target'
+p73
+S'POLICE'
+p74
+sS'hot_spot'
+p75
+g24
+sS'delivery_mod'
+p76
+g24
+sS'delivery_met'
+p77
+g24
+sS'expl'
+p78
+(lp79
+g24
+asS'ORG'
+p80
+(lp81
+(lp82
+S'Bangkok Southern Criminal court'
+p83
+aS'114'
+p84
+aS'Others'
+p85
+aa(lp86
+S'AFP'
+p87
+aS'147'
+p88
+aS'Others'
+p89
+aas.

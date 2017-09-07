@@ -1,0 +1,62 @@
+{
+    "LOC": [
+        [
+            "Baghdad", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Baghdad", 
+            "52", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:20", 
+        "Tuesday:69", 
+        "Tuesday morning:69", 
+        "Tuesday morning:69"
+    ], 
+    "death": "76", 
+    "title": "Series of blasts in Baghdad kill 76", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Baghdad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Rapid-fire bombings and mortar strikes in mostly Shiite neighbourhoods of Baghdad killed 76 people and wounded nearly 200 on Tuesday , calling into question the ability of Iraqi security forces to protect the Capital . The blasts -- at least 13 separate attacks -- came just two days after gunmen in Baghdad held a Christian congregation hostage in a siege that ended with 58 people dead . On Tuesday morning , hundreds of Christians gathered at a downtown church to mourn their lost brethren . -- AP OPEN", 
+    "injured": "200", 
+    "org_unorg": "Organized", 
+    "O": [
+        "mortar:4", 
+        "security:29", 
+        "capital:34", 
+        "christian:55", 
+        "congregation hostage:56", 
+        "siege:60", 
+        "morning:70", 
+        "downtown church:78"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/series-of-blasts-in-baghdad-kill-76/article866031.ece", 
+    "date": "03-11-2010", 
+    "target": "", 
+    "hot_spot": "Rapid-fire bombings and mortar strikes", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

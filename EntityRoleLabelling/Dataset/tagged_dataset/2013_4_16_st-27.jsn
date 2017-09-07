@@ -1,0 +1,136 @@
+{
+    "LOC": [
+        [
+            "Saikhong", 
+            "17", 
+            "Event"
+        ], 
+        [
+            "Churachandpur", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Manipur", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Lilong", 
+            "62", 
+            "Neutral"
+        ], 
+        [
+            "Thoubal", 
+            "64", 
+            "Neutral"
+        ], 
+        [
+            "Heirok", 
+            "81", 
+            "Neutral"
+        ], 
+        [
+            "Thoubal", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Imphal West", 
+            "111", 
+            "Neutral"
+        ], 
+        [
+            "Kangleipak", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "Kwakeithel Heinou Khongnembi", 
+            "140", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ibomcha Gurumayum", 
+            "116", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday : 25"
+    ], 
+    "death": "", 
+    "title": "Assam Rifles trooper injured in bomb attack", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A trooper of 31 Assam Rifles was injured in a bomb blast triggered by militants at Saikhong village in Churachandpur district of Manipur on Sunday . He was on foot patrol with some others . In another incident , a 12-year-old boy was injured when a bomb went off while it was being removed by the police on Highway 39 at Lilong in Thoubal district . A grenade was hurled at the camp of 116 Bn Border Security Force at Heirok in Thoubal district . In a statement , the Revolutionary Peoples Front said its military wing , the Peoples Liberation Army , was behind the bomb attacks . The Imphal West district police arrested Ibomcha Gurumayum ( 52 ) , said to be a member of the Peoples Revolutionary Party of Kangleipak ( Pro group ) , from Kwakeithel Heinou Khongnembi . Eight hand grenades were seized from him . OPEN", 
+    "injured": "31", 
+    "det_loc": [
+        "India", 
+        "Manipur", 
+        "Churachandpur", 
+        "Saikhong", 
+        ""
+    ], 
+    "O": [
+        "trooper:2", 
+        "31 Assam Rifles:4", 
+        "injured:8", 
+        "bomb blast:11", 
+        "triggered:13", 
+        "militants:15", 
+        "foot patrol:30", 
+        "incident:38", 
+        "12-year-old boy:41", 
+        "injured:44", 
+        "bomb went off:47", 
+        "removed:54", 
+        "Highway 39:59", 
+        "grenade:68", 
+        "hurled:70", 
+        "camp:73", 
+        "116 Bn Border Security Force:75", 
+        "military wing:96", 
+        "bomb attacks:107", 
+        "arrested:115", 
+        "Pro group:135", 
+        "hand grenades:145", 
+        "seized:148"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/assam-rifles-trooper-injured-in-bomb-attack/article4622320.ece", 
+    "date": "14-04-2013", 
+    "target": "MILLITARY TROOPS", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "GRENADE"
+    ], 
+    "ORG": [
+        [
+            "Revolutionary Peoples Front", 
+            "91", 
+            "Others"
+        ], 
+        [
+            "Peoples Liberation Army", 
+            "100", 
+            "Accused"
+        ], 
+        [
+            "Peoples Revolutionary Party", 
+            "129", 
+            "Others"
+        ]
+    ]
+}

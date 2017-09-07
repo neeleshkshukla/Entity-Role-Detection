@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "JAIPUR", 
+            "3", 
+            "Event"
+        ], 
+        [
+            "Shujapur", 
+            "25", 
+            "Event"
+        ], 
+        [
+            "Malwa", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "29", 
+            "Event"
+        ], 
+        [
+            "Ajmer", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Ajmer", 
+            "129", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Malegaon", 
+            "176", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Hyderabad", 
+            "186", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devendra Gupta", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "Chandrashekhar", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "116", 
+            "Accused"
+        ], 
+        [
+            "Devendra", 
+            "142", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "144", 
+            "Accused"
+        ], 
+        [
+            "Pragnya Thakur", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "Srikant Purohit", 
+            "166", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 2007:18", 
+        "Saturday:114"
+    ], 
+    "death": "", 
+    "title": "Another man held for Ajmer dargah blast", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent JAIPUR : The Anti-Terrorism Squad of Rajasthan Police has arrested a second suspect in the October 2007 Ajmer dargah blast case from Shujapur near Malwa in Madhya Pradesh . Earlier this week the key suspect , Devendra Gupta , 36 , was nabbed in Ajmer . Chandrashekhar , suspected to be a key member of the terror module of a Hindu extremist outfit , Abhinav Bharat , was arrested on evidence indicating that he had been entrusted with supplying the mobile phone and SIM cards which were used for carrying out the bomb attack that killed three persons . In fact , the cellphone was reportedly recovered from him . On Saturday , Chandrashekhar was produced in the court of the Additional Chief Judicial Magistrate in Ajmer and remanded to 12 days ' police custody . The names of Devendra and Chandrashekhar cropped up during the interrogation of and narco tests on the prime suspects in the Malegaon case , Pragnya Thakur and Srikant Purohit . The ATS believes that the blasts at Malegaon , the Ajmer dargah and the Makkah Masjid in Hyderabad were part of a single conspiracy . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Ajmer", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "anti-terrorism:6", 
+        "anti-terrorism squad:6", 
+        "ajmer dargah blast case:20", 
+        "hindu extremist outfit:63", 
+        "evidence:73", 
+        "sim cards:86", 
+        "bomb attack:95", 
+        "cellphone:106", 
+        "court:121", 
+        "custody:137", 
+        "interrogation:149", 
+        "narco:152", 
+        "malegaon case:160", 
+        "ajmer dargah:179"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/another-man-held-for-ajmer-dargah-blast/article759951.ece", 
+    "date": "02-05-2010", 
+    "target": "", 
+    "hot_spot": "Ajmer dargah", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorism Squad", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Rajasthan Police", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Abhinav Bharat", 
+            "67", 
+            "Accused"
+        ], 
+        [
+            "Makkah Masjid", 
+            "183", 
+            "Others"
+        ]
+    ]
+}

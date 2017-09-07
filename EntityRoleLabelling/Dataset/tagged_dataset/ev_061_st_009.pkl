@@ -1,0 +1,201 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'New Delhi'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Sarojini Nagar'
+p8
+aS'5'
+p9
+aS'Event'
+p10
+aa(lp11
+S'NEW DELHI'
+p12
+aS'14'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Paharganj'
+p16
+aS'29'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Sarojini Nagar'
+p20
+aS'38'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Sarojini Nagar'
+p24
+aS'164'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Shyam Juice Corner'
+p28
+aS'200'
+p29
+aS'Event'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Ravinder Khetrapal'
+p34
+aS'67'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Khetrapal'
+p38
+aS'154'
+p39
+aS'Comment'
+p40
+aa(lp41
+S'Khetrapal'
+p42
+aS'159'
+p43
+aS'Comment'
+p44
+aa(lp45
+S'B. S. Bassi'
+p46
+aS'223'
+p47
+aS'Comment'
+p48
+aa(lp49
+S'Shivraj Patil'
+p50
+aS'243'
+p51
+aS'Others'
+p52
+aasS'TIM'
+p53
+(lp54
+S'evening : 32'
+p55
+aS'8 p.m.:251'
+p56
+asS'hot_setting'
+p57
+S''
+p58
+sS'DAT'
+p59
+(lp60
+S'Saturday:31'
+p61
+asS'death'
+p62
+g58
+sS'title'
+p63
+S'Panic in Sarojini Nagar market'
+p64
+sS'org_unorg'
+p65
+S'ORGANISED'
+p66
+sS'terror_group'
+p67
+(lp68
+g58
+asS'content'
+p69
+VNew Delhi Panic in Sarojini Nagar market . . Staff Reporter . . NEW DELHI : Even as the police were coming to terms with the blast at Paharganj on Saturday evening , another busy market at Sarojini Nagar was rocked by an even more powerful explosion . The bomb went off in one of the corners of the market teaming with people . . . Ravinder Khetrapal was in his readymade clothes shop when the blast went off . Within minutes there was panic all round . People who were engulfed in the blaze screamed for help . The fire gutted at least half-a-dozen clothes shops . . . And then more blasts followed , triggered by exploding cooking gas cylinders that caught fire . ` Following the bomb blast , some of the vehicles which were parked right behind the cloth shops also went up in flames , ' said Mr. Khetrapal . . . Mr. Khetrapal added that while the Sarojini Nagar market is always teeming with people , particularly nowadays in view of the festive season , the blast took place at the most crowded corner , where a few eateries are located , including Shyam Juice Corner where the first cooking gas cylinder exploded . . . The Joint Commissioner of Police -LRB- Southern Range -RRB- , B. S. Bassi , said the exploding cooking gas cylinders added to the high toll . While Union Home Minister Shivraj Patil , who visited Safdarjung Hospital around 8 p.m. , put the toll at 37 , it later crossed 40 . The condition of another 20 people was reported to be critical . Most of the injured had sustained serious burn injuries and the toll was likely to go up . . . Some of the victims were also taken to the All-India Institute of Medical Sciences where two of them succumbed to their injuries . Seven others were reported to be serious . . . While the police said investigations were on to ascertain the people who triggered these explosions , eyewitnesses claimed that the bomb was kept inside a white Maruti van . The front windscreen of the vehicle was shattered and so were the hatchback and the rear windscreen . However , the vehicle itself was not reduced to a mangled heap .
+p70
+sS'injured'
+p71
+g58
+sS'det_loc'
+p72
+(lp73
+S'India'
+p74
+aS'Delhi'
+p75
+aS'New Delhi'
+p76
+aS'Delhi'
+p77
+aS'Paharganj'
+p78
+asS'O'
+p79
+(lp80
+S'police:20'
+p81
+aS'joint commissioner of police:214'
+p82
+aS'union home minister:240'
+p83
+aS'safdarjung hospital:248'
+p84
+aS'white maruti van:355'
+p85
+asS'unexpl'
+p86
+(lp87
+g58
+asS'ocassion'
+p88
+g58
+sS'link'
+p89
+S'http://www.thehindu.com/2005/10/30/stories/2005103014210300.htm'
+p90
+sS'date'
+p91
+S'29-10-2005'
+p92
+sS'target'
+p93
+S'MARKETPLACE'
+p94
+sS'hot_spot'
+p95
+S'Paharganj'
+p96
+sS'delivery_mod'
+p97
+g58
+sS'delivery_met'
+p98
+S'PLANTED'
+p99
+sS'expl'
+p100
+(lp101
+S'LPG CYLINDER'
+p102
+asS'ORG'
+p103
+(lp104
+(lp105
+S'All-India Institute of Medical Sciences'
+p106
+aS'306'
+p107
+aS'Others'
+p108
+aas.

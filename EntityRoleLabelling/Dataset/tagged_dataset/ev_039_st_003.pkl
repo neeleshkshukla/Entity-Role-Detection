@@ -1,0 +1,3257 @@
+(dp0
+S'LOC'
+p1
+(lp2
+sS'PER'
+p3
+(lp4
+sS'TIM'
+p5
+(lp6
+sS'hot_setting'
+p7
+S''
+p8
+sS'DAT'
+p9
+(lp10
+sS'death'
+p11
+g8
+sS'title'
+p12
+S'Assam cops goof up; suspected bomber is a schoolboy'
+p13
+sS'org_unorg'
+p14
+g8
+sS'terror_group'
+p15
+(lp16
+g8
+asS'content'
+p17
+V.
+p18
+sS'injured'
+p19
+g8
+sS'det_loc'
+p20
+(lp21
+g8
+ag8
+ag8
+ag8
+ag8
+asS'O'
+p22
+(lp23
+S'suspect:19'
+p24
+aS'involvement:27'
+p25
+aS'serial:30'
+p26
+aS'reports:42'
+p27
+aS'early:47'
+p28
+aS'morning:49'
+p29
+aS'.:60'
+p30
+aS'found each near:69'
+p31
+aS'room:75'
+p32
+aS'childrens:78'
+p33
+aS'a place opposite:81'
+p34
+aS':93'
+p35
+aS'superintendent:95'
+p36
+aS'police -lrb- city:97'
+p37
+aS'.:105'
+p38
+aS'more:114'
+p39
+aS'recovered:117'
+p40
+aS'park:120'
+p41
+aS'the:122'
+p42
+aS'the:125'
+p43
+aS'police:128'
+p44
+aS'in view of more bombs being:135'
+p45
+aS':142'
+p46
+aS'said permission:149'
+p47
+aS'given:154'
+p48
+aS'was suppose:168'
+p49
+aS'the:174'
+p50
+aS'the same:174'
+p51
+aS'same:175'
+p52
+aS'.:179'
+p53
+aS'29:183'
+p54
+aS'.:186'
+p55
+aS'recovered:194'
+p56
+aS'have found:200'
+p57
+aS'another live:202'
+p58
+aS'police:212'
+p59
+aS'defuse:222'
+p60
+aS'in:231'
+p61
+aS'the:234'
+p62
+aS'bomb was:236'
+p63
+aS'to:239'
+p64
+aS'rally .:253'
+p65
+aS'which:260'
+p66
+aS'believed to:262'
+p67
+aS'planted by:266'
+p68
+aS'planted:266'
+p69
+aS'reportedly:272'
+p70
+aS'timer:278'
+p71
+aS'bodhgaya:282'
+p72
+aS'`` the:285'
+p73
+aS'between the ieds:289'
+p74
+aS'between:289'
+p75
+aS'the ieds:290'
+p76
+aS'bodhgaya:294'
+p77
+aS'- a:303'
+p78
+aS'-:303'
+p79
+aS'was:314'
+p80
+aS'as the:317'
+p81
+aS'very neatly:323'
+p82
+aS'a:328'
+p83
+aS'told:331'
+p84
+aS'express . . .:334'
+p85
+aS'meet me:344'
+p86
+aS'meet:344'
+p87
+aS'me:345'
+p88
+aS'was supposed:357'
+p89
+aS'to:361'
+p90
+aS'he:367'
+p91
+aS'the trip there:371'
+p92
+aS'another meeting:378'
+p93
+aS'another:378'
+p94
+aS'meeting:379'
+p95
+aS'to:382'
+p96
+aS'said:386'
+p97
+aS'chief:390'
+p98
+aS'him in:394'
+p99
+aS'.:398'
+p100
+aS'.:402'
+p101
+aS'had:414'
+p102
+aS'threats to:424'
+p103
+aS'central intelligence:443'
+p104
+aS'central:443'
+p105
+aS'intelligence:444'
+p106
+aS'and later:446'
+p107
+aS'and:446'
+p108
+aS'they:452'
+p109
+aS'much too:456'
+p110
+aS'much:456'
+p111
+aS'too:457'
+p112
+aS'10.35:462'
+p113
+aS'wants patna:467'
+p114
+aS'wants:467'
+p115
+aS'written:481'
+p116
+aS'and:485'
+p117
+aS'patna blasts:489'
+p118
+aS'investigation:497'
+p119
+aS':502'
+p120
+aS'reported .:504'
+p121
+aS'.:507'
+p122
+aS'. the:507'
+p123
+aS'the:508'
+p124
+aS'and:515'
+p125
+aS'come under fire for:519'
+p126
+aS'to:527'
+p127
+aS'patna rally:531'
+p128
+aS'patna:531'
+p129
+aS'rally:532'
+p130
+aS'targeted:535'
+p131
+aS'minister:546'
+p132
+aS'vigorously:550'
+p133
+aS'are reportedly:563'
+p134
+aS'are:563'
+p135
+aS'reportedly:564'
+p136
+aS'to this report:572'
+p137
+aS'thetimes:576'
+p138
+aS'was:605'
+p139
+aS':612'
+p140
+aS':618'
+p141
+aS'not done:620'
+p142
+aS'venue:633'
+p143
+aS'several:635'
+p144
+aS'.:648'
+p145
+aS'the:662'
+p146
+aS'. unlike the:674'
+p147
+aS'not:686'
+p148
+aS'in:691'
+p149
+aS'squad:708'
+p150
+aS'there:710'
+p151
+aS'area:718'
+p152
+aS'lathis:723'
+p153
+aS'to:727'
+p154
+aS'.:736'
+p155
+aS'his:739'
+p156
+aS'.:746'
+p157
+aS'inputs:751'
+p158
+aS'from the:753'
+p159
+aS'from:757'
+p160
+aS'possible:763'
+p161
+aS'for this:766'
+p162
+aS'was:779'
+p163
+aS'was tightened keeping:779'
+p164
+aS'keeping:781'
+p165
+aS'rally:786'
+p166
+aS'police:789'
+p167
+aS'.:800'
+p168
+aS':800'
+p169
+aS'. .:800'
+p170
+aS'. .:801'
+p171
+aS'by:808'
+p172
+aS'and:812'
+p173
+aS'the:822'
+p174
+aS'which:825'
+p175
+aS'emerging:831'
+p176
+aS'explosive devices:853'
+p177
+aS'police took:858'
+p178
+aS'police:858'
+p179
+aS'took:859'
+p180
+aS'whatsoever:862'
+p181
+aS'people:865'
+p182
+aS'.:870'
+p183
+aS'has been revealed:873'
+p184
+aS'people:877'
+p185
+aS'throwing:885'
+p186
+aS'them .:888'
+p187
+aS'has:893'
+p188
+aS'a:899'
+p189
+aS'recovery:917'
+p190
+aS'two:919'
+p191
+aS'ministry told:925'
+p192
+aS'the:927'
+p193
+aS'the state:927'
+p194
+aS'the state government to:927'
+p195
+aS'state government to:928'
+p196
+aS'the nature:935'
+p197
+aS'the:935'
+p198
+aS'persons:942'
+p199
+aS'it:949'
+p200
+aS'taken:952'
+p201
+aS'ptisaid:959'
+p202
+aS'quoting:961'
+p203
+aS'that:975'
+p204
+aS'blasts:978'
+p205
+aS'criminal:983'
+p206
+aS'lax:990'
+p207
+aS'the:993'
+p208
+aS'`:996'
+p209
+aS"':998"
+p210
+aS'.:1001'
+p211
+aS'said:1006'
+p212
+aS'negligence:1012'
+p213
+aS'negligence and:1012'
+p214
+aS'wanted:1024'
+p215
+aS'and so:1028'
+p216
+aS'and:1028'
+p217
+aS'with more:1068'
+p218
+aS':1080'
+p219
+aS'say:1083'
+p220
+aS'say that:1083'
+p221
+aS'that:1084'
+p222
+aS'as:1088'
+p223
+aS'as six:1090'
+p224
+aS'three:1095'
+p225
+aS'to carry:1097'
+p226
+aS'to:1097'
+p227
+aS'carry:1098'
+p228
+aS'two:1105'
+p229
+aS'have been:1110'
+p230
+aS'at:1129'
+p231
+aS'.:1133'
+p232
+aS'and:1147'
+p233
+aS'. . .:1154'
+p234
+aS'the indian:1159'
+p235
+aS'bombers had:1164'
+p236
+aS'bombers:1164'
+p237
+aS'had:1165'
+p238
+aS'up:1167'
+p239
+aS'of:1171'
+p240
+aS'bombers:1173'
+p241
+aS'coming:1177'
+p242
+aS'.:1184'
+p243
+aS':1198'
+p244
+aS'was:1200'
+p245
+aS'by:1202'
+p246
+aS'protection:1205'
+p247
+aS'protection force after:1205'
+p248
+aS'after:1207'
+p249
+aS'injuring:1212'
+p250
+aS'tariq:1215'
+p251
+aS'paper with:1223'
+p252
+aS'it .:1230'
+p253
+aS'was:1233'
+p254
+aS'initial:1241'
+p255
+aS'police may:1244'
+p256
+aS'``:1256'
+p257
+aS'were:1260'
+p258
+aS'team:1264'
+p259
+aS'third:1272'
+p260
+aS'said .:1277'
+p261
+aS'the:1281'
+p262
+aS'planted pipe:1292'
+p263
+aS'bombs:1294'
+p264
+aS'brief:1308'
+p265
+aS'to create:1310'
+p266
+aS'to:1310'
+p267
+aS'create:1311'
+p268
+aS'9.22 am:1320'
+p269
+aS'police arrest:1323'
+p270
+aS'arrest second:1324'
+p271
+aS'second:1325'
+p272
+aS'second suspect .:1325'
+p273
+aS'second suspect:1325'
+p274
+aS'suspect .:1326'
+p275
+aS'have:1333'
+p276
+aS'cnn-ibn:1335'
+p277
+aS'the:1344'
+p278
+aS':1355'
+p279
+aS'police:1374'
+p280
+aS'.:1376'
+p281
+aS'emerged as:1385'
+p282
+aS'emerged:1385'
+p283
+aS'as:1386'
+p284
+aS'killed:1395'
+p285
+aS'people:1397'
+p286
+aS'been:1406'
+p287
+aS'while planting:1408'
+p288
+aS'with:1413'
+p289
+aS'reports:1415'
+p290
+aS'may:1419'
+p291
+aS'supervised the blasts .:1422'
+p292
+aS'meanwhile according to this report:1428'
+p293
+aS'very close to being:1436'
+p294
+aS'very:1436'
+p295
+aS'close to being:1437'
+p296
+aS'to:1448'
+p297
+aS'he:1451'
+p298
+aS'information:1453'
+p299
+aS'arrested:1458'
+p300
+aS'am:1463'
+p301
+aS'forget:1465'
+p302
+aS'music:1468'
+p303
+aS'why did:1471'
+p304
+aS'rally ?:1476'
+p305
+aS'.:1481'
+p306
+aS'minister:1489'
+p307
+aS'film:1497'
+p308
+aS'blasts:1505'
+p309
+aS'. .:1507'
+p310
+aS'beyond:1514'
+p311
+aS'thing that happened:1520'
+p312
+aS'order:1527'
+p313
+aS'was:1540'
+p314
+aS'ministry:1547'
+p315
+aS'on the:1557'
+p316
+aS':1560'
+p317
+aS'the:1577'
+p318
+aS'was:1605'
+p319
+aS'minister:1622'
+p320
+aS'ahead:1638'
+p321
+aS'rally .:1641'
+p322
+aS'should:1646'
+p323
+aS'to:1650'
+p324
+aS'to people:1650'
+p325
+aS'people:1651'
+p326
+aS'hurt:1654'
+p327
+aS'should:1656'
+p328
+aS'find:1661'
+p329
+aS'find out what has:1661'
+p330
+aS'what has:1663'
+p331
+aS'his:1670'
+p332
+aS'...:1672'
+p333
+aS'...:1675'
+p334
+aS'said:1681'
+p335
+aS'.:1683'
+p336
+aS'about:1691'
+p337
+aS'people who died or what had happened because:1693'
+p338
+aS'people who died or:1693'
+p339
+aS'had happened because:1698'
+p340
+aS'.:1707'
+p341
+aS'the:1710'
+p342
+aS'on:1715'
+p343
+aS'party:1721'
+p344
+aS'.:1728'
+p345
+aS'said:1737'
+p346
+aS'that:1743'
+p347
+aS'much:1747'
+p348
+aS'also:1749'
+p349
+aS'``:1757'
+p350
+aS'`` there:1757'
+p351
+aS'a:1773'
+p352
+aS'bright:1777'
+p353
+aS'of:1780'
+p354
+aS'.:1783'
+p355
+aS'. for:1783'
+p356
+aS'a:1799'
+p357
+aS'family:1803'
+p358
+aS'in:1808'
+p359
+aS'-rrb-:1820'
+p360
+aS"'':1823"
+p361
+aS"'' . .:1823"
+p362
+aS'.:1825'
+p363
+aS': patna blasts:1828'
+p364
+aS'of:1841'
+p365
+aS'police in:1849'
+p366
+aS'reportedly:1859'
+p367
+aS'to:1866'
+p368
+aS'to:1877'
+p369
+aS'stampede:1880'
+p370
+aS'many:1885'
+p371
+aS'.:1890'
+p372
+aS'the:1896'
+p373
+aS'that:1908'
+p374
+aS'muslims:1911'
+p375
+aS'also:1929'
+p376
+aS'to trigger panic:1938'
+p377
+aS'women and:1943'
+p378
+aS'children:1945'
+p379
+aS'killed in:1948'
+p380
+aS'the rush:1950'
+p381
+aS'.:1953'
+p382
+aS'--:1955'
+p383
+aS'.:1963'
+p384
+aS'9.50:1965'
+p385
+aS': two:1967'
+p386
+aS'lodged:1982'
+p387
+aS'with:1985'
+p388
+aS'serial:1987'
+p389
+aS'state capital:1991'
+p390
+aS'state:1991'
+p391
+aS'capital:1992'
+p392
+aS'six persons dead and:1995'
+p393
+aS'police said:2003'
+p394
+aS'police:2003'
+p395
+aS'said:2004'
+p396
+aS'firs:2010'
+p397
+aS'been registered at the grp:2012'
+p398
+aS'station:2018'
+p399
+aS'and:2024'
+p400
+aS'police:2028'
+p401
+aS'with yesterday:2032'
+p402
+aS'additional:2037'
+p403
+aS'headquarters -rrb-:2043'
+p404
+aS'.:2050'
+p405
+aS'. . he:2050'
+p406
+aS'he:2052'
+p407
+aS'not give:2057'
+p408
+aS'.:2064'
+p409
+aS'9.12 pm:2066'
+p410
+aS'shinde:2069'
+p411
+aS'visit:2072'
+p412
+aS'home minister:2077'
+p413
+aS'home:2077'
+p414
+aS'minister:2078'
+p415
+aS'announced:2088'
+p416
+aS'.:2101'
+p417
+aS'. shinde:2101'
+p418
+aS'shinde:2102'
+p419
+aS'visit:2105'
+p420
+aS'kumar:2108'
+p421
+aS'forcing:2114'
+p422
+aS'home:2116'
+p423
+aS'trip:2121'
+p424
+aS'trip'
+p425
+aS':2121'
+p426
+aS':2122'
+p427
+aS'.:2126'
+p428
+aS'travel:2134'
+p429
+aS'on:2137'
+p430
+aS'minister:2144'
+p431
+aS'and:2147'
+p432
+aS'law:2150'
+p433
+aS'blasts:2161'
+p434
+aS'that:2165'
+p435
+aS'that so far:2165'
+p436
+aS'far:2167'
+p437
+aS'far claimed:2167'
+p438
+aS'. .:2171'
+p439
+aS'instead of shinde'
+p440
+aS':2174'
+p441
+aS'officials will:2186'
+p442
+aS'will visit:2187'
+p443
+aS'visit:2188'
+p444
+aS'situation:2196'
+p445
+aS'the:2203'
+p446
+aS':2205'
+p447
+aS'patna:2211'
+p448
+aS'asses:2214'
+p449
+aS'situation there:2216'
+p450
+aS'situation:2216'
+p451
+aS'there . `` i:2217'
+p452
+aS'there .:2217'
+p453
+aS'there:2217'
+p454
+aS'. `` i:2218'
+p455
+aS'in:2225'
+p456
+aS'say anything:2233'
+p457
+aS'::2254'
+p458
+aS'slams:2256'
+p459
+aS'slams shinde:2256'
+p460
+aS'shinde:2257'
+p461
+aS'.:2261'
+p462
+aS'criticised home minister:2265'
+p463
+aS'music:2273'
+p464
+aS'function of:2275'
+p465
+aS'function:2275'
+p466
+aS'a:2281'
+p467
+aS'after:2284'
+p468
+aS'become:2293'
+p469
+aS'not:2299'
+p470
+aS'give:2301'
+p471
+aS'to better:2304'
+p472
+aS'.:2307'
+p473
+aS'.:2309'
+p474
+aS'said:2315'
+p475
+aS'attack:2321'
+p476
+aS'the:2325'
+p477
+aS'home:2327'
+p478
+aS'changing:2332'
+p479
+aS'clothes before:2334'
+p480
+aS'speaking to the:2336'
+p481
+aS'speaking to:2336'
+p482
+aS'speaking:2336'
+p483
+aS'to the:2337'
+p484
+aS'serial blasts:2347'
+p485
+aS'rally in:2353'
+p486
+aS'at:2359'
+p487
+aS'launch:2362'
+p488
+aS'become a:2367'
+p489
+aS'become:2367'
+p490
+aS'a habit of:2368'
+p491
+aS'a habit:2368'
+p492
+aS'a:2368'
+p493
+aS'habit of:2369'
+p494
+aS'to give:2374'
+p495
+aS'governance:2380'
+p496
+aS'more:2383'
+p497
+aS'their clothes and:2386'
+p498
+aS"'':2391"
+p499
+aS'.:2396'
+p500
+aS'attended the:2400'
+p501
+aS'of film ` rajjo:2404'
+p502
+aS"':2408"
+p503
+aS'hours:2417'
+p504
+aS'blasts:2420'
+p505
+aS'a rally:2422'
+p506
+aS'which:2426'
+p507
+aS'ministerial:2433'
+p508
+aS'. ``:2439'
+p509
+aS'shocking:2443'
+p510
+aS'entertaining:2449'
+p511
+aS'another:2466'
+p512
+aS'said:2471'
+p513
+aS'minister:2477'
+p514
+aS'his:2484'
+p515
+aS'in the:2486'
+p516
+aS'in:2486'
+p517
+aS'the:2487'
+p518
+aS'. 5.04:2493'
+p519
+aS'we had:2497'
+p520
+aS'inputs:2501'
+p521
+aS'inputs'
+p522
+aS':2501'
+p523
+aS'. .:2506'
+p524
+aS'denied:2513'
+p525
+aS'on:2522'
+p526
+aS':2547'
+p527
+aS'that:2553'
+p528
+aS'refused:2564'
+p529
+aS'blast:2575'
+p530
+aS':2586'
+p531
+aS'said:2589'
+p532
+aS'::2595'
+p533
+aS'was:2598'
+p534
+aS'.:2605'
+p535
+aS'jaitley:2608'
+p536
+aS'the:2610'
+p537
+aS'government:2618'
+p538
+aS'blasts yesterday:2622'
+p539
+aS'he:2627'
+p540
+aS'senior:2633'
+p541
+aS'.:2640'
+p542
+aS'``:2643'
+p543
+aS'to:2649'
+p544
+aS'the:2652'
+p545
+aS'happening:2655'
+p546
+aS'senior:2660'
+p547
+aS'us'
+p548
+aS':2664'
+p549
+aS'us'
+p550
+aS"'':2664"
+p551
+aS'us:2664'
+p552
+aS':2665'
+p553
+aS'dilemma:2678'
+p554
+aS'to:2681'
+p555
+aS'. we:2683'
+p556
+aS'have:2686'
+p557
+aS'a stampede .:2688'
+p558
+aS'a:2688'
+p559
+aS'.:2690'
+p560
+aS'. he said that it:2693'
+p561
+aS'of:2701'
+p562
+aS'arrange:2705'
+p563
+aS'and:2708'
+p564
+aS':2711'
+p565
+aS'at:2717'
+p566
+aS'attitude:2724'
+p567
+aS'callous:2731'
+p568
+aS'inputs on the blasts:2746'
+p569
+aS'jaitley said'
+p570
+aS'`` we:2751'
+p571
+aS'jaitley said:2751'
+p572
+aS'`` we:2754'
+p573
+aS'ib:2761'
+p574
+aS'to:2768'
+p575
+aS'also:2779'
+p576
+aS'police:2783'
+p577
+aS'them:2787'
+p578
+aS'warned them:2789'
+p579
+aS'go:2793'
+p580
+aS'venue .:2796'
+p581
+aS'pm:2801'
+p582
+aS'progress:2806'
+p583
+aS'.:2812'
+p584
+aS'chief:2814'
+p585
+aS'the:2824'
+p586
+aS'six:2834'
+p587
+aS':2836'
+p588
+aS':2839'
+p589
+aS'quoting:2839'
+p590
+aS'quoting:2840'
+p591
+aS'.:2843'
+p592
+aS'.:2845'
+p593
+aS'expedite:2851'
+p594
+aS'and bring:2854'
+p595
+aS'to:2856'
+p596
+aS'the culprits at the:2858'
+p597
+aS'secretary:2871'
+p598
+aS'director:2875'
+p599
+aS'police:2878'
+p600
+aS'the:2890'
+p601
+aS'minister.the:2896'
+p602
+aS'was:2899'
+p603
+aS'about the:2901'
+p604
+aS'progress:2903'
+p605
+aS'and:2908'
+p606
+aS'law:2911'
+p607
+aS'situation:2914'
+p608
+aS'.:2919'
+p609
+aS'minister:2923'
+p610
+aS'left for:2925'
+p611
+aS'attend two-day ` chintan:2929'
+p612
+aS'attend two-day:2929'
+p613
+aS'chintan:2932'
+p614
+aS'chintan `:2932'
+p615
+aS'of:2936'
+p616
+aS'-rrb- during:2941'
+p617
+aS'which:2943'
+p618
+aS'outline his:2948'
+p619
+aS'the sources:2955'
+p620
+aS'the:2955'
+p621
+aS'. .:2959'
+p622
+aS'::2963'
+p623
+aS'to:2965'
+p624
+aS'tomorrow:2968'
+p625
+aS'.:2975'
+p626
+aS'a:2978'
+p627
+aS'from the:2980'
+p628
+aS'from the intelligence:2980'
+p629
+aS'from:2980'
+p630
+aS'the intelligence:2981'
+p631
+aS'will be:2995'
+p632
+aS'will:2995'
+p633
+aS'following:3007'
+p634
+aS'blasts:3009'
+p635
+aS'.:3011'
+p636
+aS'was:3018'
+p637
+aS'security:3026'
+p638
+aS'.:3034'
+p639
+aS'the:3038'
+p640
+aS'with the:3044'
+p641
+aS'requires:3048'
+p642
+aS'.:3069'
+p643
+aS'that:3073'
+p644
+aS'bureau:3076'
+p645
+aS'with:3080'
+p646
+aS'minister:3083'
+p647
+aS'beneficiary:3104'
+p648
+aS'.:3113'
+p649
+aS'secretary:3116'
+p650
+aS'for:3129'
+p651
+aS'needed:3137'
+p652
+aS'for:3141'
+p653
+aS'law:3145'
+p654
+aS'order:3147'
+p655
+aS'the:3151'
+p656
+aS'. .:3155'
+p657
+aS'however:3158'
+p658
+aS'in a:3160'
+p659
+aS'in:3160'
+p660
+aS'he:3166'
+p661
+aS'tweet'
+p662
+aS':3172'
+p663
+aS'timing:3176'
+p664
+aS'would:3180'
+p665
+aS':3187'
+p666
+aS'that `:3189'
+p667
+aS'that:3189'
+p668
+aS'partyreally:3193'
+p669
+aS'these:3196'
+p670
+aS"'"
+p671
+aS':3198'
+p672
+aS'whether it:3202'
+p673
+aS'was a terrorist attack:3204'
+p674
+aS'was a:3204'
+p675
+aS'was:3204'
+p676
+aS'a terrorist attack:3205'
+p677
+aS'the:3212'
+p678
+aS':3212'
+p679
+aS'of:3219'
+p680
+aS'denied:3226'
+p681
+aS'that:3229'
+p682
+aS'saying:3237'
+p683
+aS'he:3239'
+p684
+aS'he:3246'
+p685
+aS'hindsight:3253'
+p686
+aS'tweet:3256'
+p687
+aS'.:3261'
+p688
+aS'.:3268'
+p689
+aS'blast:3271'
+p690
+aS'condemn:3276'
+p691
+aS'nitish:3279'
+p692
+aS'otherwise:3284'
+p693
+aS'launch in:3291'
+p694
+aS'launch:3291'
+p695
+aS'in:3292'
+p696
+aS'singh:3298'
+p697
+aS'.:3306'
+p698
+aS'that:3310'
+p699
+aS'chief:3314'
+p700
+aS':3319'
+p701
+aS'happened:3326'
+p702
+aS'.:3328'
+p703
+aS'were:3335'
+p704
+aS'result of:3337'
+p705
+aS'result:3337'
+p706
+aS'of:3338'
+p707
+aS'negligence:3340'
+p708
+aS'. . bihar bjp:3344'
+p709
+aS'has:3352'
+p710
+aS'blasts:3357'
+p711
+aS'`:3361'
+p712
+aS"':3364"
+p713
+aS'that:3367'
+p714
+aS'lax:3369'
+p715
+aS"':3377"
+p716
+aS'. .:3379'
+p717
+aS'this:3389'
+p718
+aS'seems deliberate:3395'
+p719
+aS'rally:3417'
+p720
+aS'event:3430'
+p721
+aS'. .:3432'
+p722
+aS'.:3432'
+p723
+aS'.:3455'
+p724
+aS'made it a:3461'
+p725
+aS'be in:3467'
+p726
+aS'because of:3473'
+p727
+aS'because:3473'
+p728
+aS'of:3474'
+p729
+aS'enmity:3476'
+p730
+aS'modi:3478'
+p731
+aS':3480'
+p732
+aS'. .:3484'
+p733
+aS'.:3484'
+p734
+aS'.:3485'
+p735
+aS'pm:3487'
+p736
+aS'cm:3490'
+p737
+aS'emergency meet .:3492'
+p738
+aS'. .:3494'
+p739
+aS'.:3495'
+p740
+aS'. chief minister:3495'
+p741
+aS'. chief:3495'
+p742
+aS'chief minister:3496'
+p743
+aS'is:3500'
+p744
+aS'emergency:3504'
+p745
+aS'to:3506'
+p746
+aS'the:3508'
+p747
+aS'by:3511'
+p748
+aS'by the:3511'
+p749
+aS'in:3515'
+p750
+aS'12:00 pm:3520'
+p751
+aS'our:3528'
+p752
+aS'appealed to:3546'
+p753
+aS'be:3554'
+p754
+aS'to conduct:3556'
+p755
+aS'in:3560'
+p756
+aS'in states:3560'
+p757
+aS'up to the:3565'
+p758
+aS'without:3569'
+p759
+aS'. .:3575'
+p760
+aS'other states:3580'
+p761
+aS'other:3580'
+p762
+aS'security:3588'
+p763
+aS'them should be:3591'
+p764
+aS'them should:3591'
+p765
+aS'be in:3593'
+p766
+aS'appealed:3599'
+p767
+aS'we:3601'
+p768
+aS'to:3605'
+p769
+aS'to hold:3605'
+p770
+aS'.:3627'
+p771
+aS'police:3632'
+p772
+aS'gets:3635'
+p773
+aS'the:3641'
+p774
+aS'police special cell:3643'
+p775
+aS'in:3665'
+p776
+aS'the:3668'
+p777
+aS'agency:3673'
+p778
+aS'most:3681'
+p779
+aS'responsible:3683'
+p780
+aS'killed:3692'
+p781
+aS'people:3696'
+p782
+aS'close:3699'
+p783
+aS'100:3701'
+p784
+aS'a:3703'
+p785
+aS'blasts:3721'
+p786
+aS'agency:3727'
+p787
+aS'-rrb- has:3730'
+p788
+aS'the:3734'
+p789
+aS'reportedly sought:3746'
+p790
+aS'im:3751'
+p791
+aS'was arrested in:3756'
+p792
+aS'was:3756'
+p793
+aS'was arrested:3756'
+p794
+aS'arrested in:3757'
+p795
+aS'this:3760'
+p796
+aS'.:3763'
+p797
+aS'police:3768'
+p798
+aS'one:3772'
+p799
+aS'they:3776'
+p800
+aS'caught:3778'
+p801
+aS'with:3781'
+p802
+aS'confessed:3786'
+p803
+aS'the im had been behind:3788'
+p804
+aS'attack:3794'
+p805
+aS'revenge:3797'
+p806
+aS'. .:3802'
+p807
+aS'.:3802'
+p808
+aS':3806'
+p809
+aS'is:3812'
+p810
+aS'hand:3815'
+p811
+aS'arrested im:3818'
+p812
+aS':3823'
+p813
+aS'as the:3826'
+p814
+aS'as:3826'
+p815
+aS'the:3827'
+p816
+aS'suspect behind:3829'
+p817
+aS'attack .:3832'
+p818
+aS'the:3843'
+p819
+aS'after:3846'
+p820
+aS'to:3863'
+p821
+aS'for:3866'
+p822
+aS'inputs:3878'
+p823
+aS'on:3881'
+p824
+aS'discuss:3901'
+p825
+aS'discuss:3917'
+p826
+aS'prime:3922'
+p827
+aS'of:3937'
+p828
+aS'.:3942'
+p829
+aS'apart:3944'
+p830
+aS"'s security:3947"
+p831
+aS'also lodge a complaint:3953'
+p832
+aS'president:3960'
+p833
+aS'responsible for:3969'
+p834
+aS'. .:3975'
+p835
+aS'.:3975'
+p836
+aS'meet:3979'
+p837
+aS'as:3982'
+p838
+aS'of:3988'
+p839
+aS'.:3992'
+p840
+aS'that:4008'
+p841
+aS'still receiving:4015'
+p842
+aS'injuries from the:4028'
+p843
+aS'control .:4042'
+p844
+aS'control:4042'
+p845
+aS'.:4043'
+p846
+aS'are:4046'
+p847
+aS'be:4051'
+p848
+aS'be:4059'
+p849
+aS'in:4061'
+p850
+aS'aroundfour:4079'
+p851
+aS'were:4088'
+p852
+aS'``:4095'
+p853
+aS'we:4103'
+p854
+aS'told:4111'
+p855
+aS': shinde:4119'
+p856
+aS'attending music:4124'
+p857
+aS'.:4130'
+p858
+aS'under fire:4137'
+p859
+aS'under:4137'
+p860
+aS'taken:4156'
+p861
+aS'taken place:4156'
+p862
+aS'place:4157'
+p863
+aS'explosions:4176'
+p864
+aS'.:4182'
+p865
+aS'the:4207'
+p866
+aS'that:4212'
+p867
+aS'a:4221'
+p868
+aS'said .:4224'
+p869
+aS'touch with security:4241'
+p870
+aS'touch:4241'
+p871
+aS'security:4243'
+p872
+aS'and:4245'
+p873
+aS'about:4248'
+p874
+aS'was:4250'
+p875
+aS'during the:4256'
+p876
+aS'i:4282'
+p877
+aS'to rush to:4284'
+p878
+aS'meanwhile the:4303'
+p879
+aS'meanwhile:4303'
+p880
+aS'the:4304'
+p881
+aS'to:4312'
+p882
+aS'to all:4312'
+p883
+aS'. .:4326'
+p884
+aS'8.45:4328'
+p885
+aS'injured:4331'
+p886
+aS'injuries . . one:4335'
+p887
+aS'the:4343'
+p888
+aS'who was:4347'
+p889
+aS'who:4347'
+p890
+aS'was:4348'
+p891
+aS'in:4351'
+p892
+aS'.:4362'
+p893
+aS'had been earlier:4365'
+p894
+aS'had:4365'
+p895
+aS'earlier:4367'
+p896
+aS'injured:4380'
+p897
+aS'injured while:4380'
+p898
+aS'while:4381'
+p899
+aS'. . .:4389'
+p900
+aS'had:4393'
+p901
+aS'he:4422'
+p902
+aS'.:4429'
+p903
+aS'just:4452'
+p904
+aS'the:4454'
+p905
+aS'some:4467'
+p906
+aS'.:4481'
+p907
+aS'. . .:4493'
+p908
+aS'.:4505'
+p909
+aS'which:4510'
+p910
+aS'scanner:4527'
+p911
+aS'.:4529'
+p912
+aS'has:4537'
+p913
+aS'arrangements:4542'
+p914
+aS'rally:4546'
+p915
+aS'differ:4555'
+p916
+aS'.:4558'
+p917
+aS'this:4561'
+p918
+aS'.:4570'
+p919
+aS'said though:4572'
+p920
+aS'no:4576'
+p921
+aS'was:4582'
+p922
+aS'possible threats:4585'
+p923
+aS'security:4593'
+p924
+aS'lax:4596'
+p925
+aS':4607'
+p926
+aS'done:4610'
+p927
+aS'adequate:4618'
+p928
+aS'venue:4622'
+p929
+aS'guarded:4632'
+p930
+aS'security:4635'
+p931
+aS'express:4641'
+p932
+aS'were reported:4663'
+p933
+aS'standard practice:4668'
+p934
+aS'standard:4668'
+p935
+aS'practice:4669'
+p936
+aS'blasts:4672'
+p937
+aS'areas:4675'
+p938
+aS'which:4680'
+p939
+aS'loss of vital:4683'
+p940
+aS'.:4687'
+p941
+aS'have:4695'
+p942
+aS'disposal squad:4698'
+p943
+aS'not:4703'
+p944
+aS'to:4706'
+p945
+aS'area:4709'
+p946
+aS'.:4725'
+p947
+aS'.:4727'
+p948
+aS'for:4729'
+p949
+aS':4735'
+p950
+aS'inputs:4742'
+p951
+aS'state .:4750'
+p952
+aS'for:4757'
+p953
+aS'for this:4757'
+p954
+aS'the:4763'
+p955
+aS'keeping:4772'
+p956
+aS'keeping in mind:4772'
+p957
+aS'mind:4774'
+p958
+aS'.:4792'
+p959
+aS'. . meanwhile:4792'
+p960
+aS'meanwhile:4794'
+p961
+aS'meanwhile more:4794'
+p962
+aS'which:4802'
+p963
+aS'report:4813'
+p964
+aS'of:4819'
+p965
+aS'saying:4823'
+p966
+aS'when:4829'
+p967
+aS':4835'
+p968
+aS'the:4837'
+p969
+aS'no:4840'
+p970
+aS'no step:4840'
+p971
+aS'furthermore it:4851'
+p972
+aS'that people:4856'
+p973
+aS'the bombs:4862'
+p974
+aS'the:4862'
+p975
+aS'bombs:4863'
+p976
+aS'.:4869'
+p977
+aS'for a:4878'
+p978
+aS'at:4891'
+p979
+aS'bombs:4902'
+p980
+aS'ministry:4905'
+p981
+aS'state:4908'
+p982
+aS'send a:4911'
+p983
+aS'the bomb:4918'
+p984
+aS'persons or organisations:4922'
+p985
+aS'persons or:4922'
+p986
+aS'organisations which:4924'
+p987
+aS'taken:4932'
+p988
+aS'law:4935'
+p989
+aS':4940'
+p990
+aS'. .:4945'
+p991
+aS'.:4945'
+p992
+aS'.:4946'
+p993
+aS'has:4948'
+p994
+aS'beefed:4950'
+p995
+aS'.:4959'
+p996
+aS'::4963'
+p997
+aS'responsible:4966'
+p998
+aS'blasts:4968'
+p999
+aS'.:4970'
+p1000
+aS'at:4992'
+p1001
+aS'close:4997'
+p1002
+aS'.:5002'
+p1003
+aS'this:5004'
+p1004
+aS'in:5006'
+p1005
+aS'in the:5006'
+p1006
+aS'alleged:5014'
+p1007
+aS'the:5017'
+p1008
+aS'the outfit have:5017'
+p1009
+aS'have:5019'
+p1010
+aS'have been:5019'
+p1011
+aS'critical:5028'
+p1012
+aS'after being caught in a:5030'
+p1013
+aS'. . ``:5037'
+p1014
+aS'.:5037'
+p1015
+aS'``:5039'
+p1016
+aS'they had staged the:5049'
+p1017
+aS'they had:5049'
+p1018
+aS'the:5052'
+p1019
+aS'named:5067'
+p1020
+aS'module:5070'
+p1021
+aS'module involved:5070'
+p1022
+aS'involved:5071'
+p1023
+aS'bodh:5074'
+p1024
+aS':5078'
+p1025
+aS'.:5084'
+p1026
+aS'according:5086'
+p1027
+aS'one:5091'
+p1028
+aS'one of:5091'
+p1029
+aS'of:5092'
+p1030
+aS'operatives is:5095'
+p1031
+aS':5100'
+p1032
+aS'caught:5103'
+p1033
+aS'caught while:5103'
+p1034
+aS'blast:5111'
+p1035
+aS'.:5115'
+p1036
+aS'in the:5123'
+p1037
+aS'. .:5127'
+p1038
+aS'that:5132'
+p1039
+aS'right:5139'
+p1040
+aS':5148'
+p1041
+aS'emerged:5150'
+p1042
+aS'behind:5155'
+p1043
+aS'. . .:5158'
+p1044
+aS'darbhanga:5169'
+p1045
+aS'revenge:5190'
+p1046
+aS'they:5198'
+p1047
+aS'this:5202'
+p1048
+aS"'':5209"
+p1049
+aS'.:5216'
+p1050
+aS'end:5218'
+p1051
+aS'27:5222'
+p1052
+aS'.:5226'
+p1053
+aS'rushed:5234'
+p1054
+aS'sites'
+p1055
+aS'says shinde .:5237'
+p1056
+aS'the:5250'
+p1057
+aS'in:5262'
+p1058
+aS'five:5272'
+p1059
+aS'around:5276'
+p1060
+aS'people were killed:5283'
+p1061
+aS'.:5291'
+p1062
+aS'sidelines of:5309'
+p1063
+aS'that:5319'
+p1064
+aS'bombings:5334'
+p1065
+aS'being:5337'
+p1066
+aS'explosions in:5343'
+p1067
+aS'. when asked:5348'
+p1068
+aS'.:5348'
+p1069
+aS'when asked:5349'
+p1070
+aS'saying:5365'
+p1071
+aS'saying he was:5365'
+p1072
+aS'was:5368'
+p1073
+aS'whatever information he had:5370'
+p1074
+aS'whatever information:5370'
+p1075
+aS'had:5373'
+p1076
+aS'had with him .:5373'
+p1077
+aS'him . . .:5375'
+p1078
+aS'him .:5375'
+p1079
+aS'.:5378'
+p1080
+aS'pm:5380'
+p1081
+aS'condemned:5401'
+p1082
+aS'and punish the:5414'
+p1083
+aS'deep:5422'
+p1084
+aS'deep concern:5422'
+p1085
+aS'concern:5423'
+p1086
+aS'the:5425'
+p1087
+aS'people:5429'
+p1088
+aS'restraint .:5434'
+p1089
+aS'restraint . . . ``:5434'
+p1090
+aS'. ``:5437'
+p1091
+aS'nation:5440'
+p1092
+aS'remain united:5442'
+p1093
+aS'its:5445'
+p1094
+aS'resolve to:5447'
+p1095
+aS'to fight:5448'
+p1096
+aS'fight:5449'
+p1097
+aS'all:5451'
+p1098
+aS'of terror:5453'
+p1099
+aS'violence:5456'
+p1100
+aS'have:5458'
+p1101
+aS'have no:5458'
+p1102
+aS'no:5459'
+p1103
+aS'in:5461'
+p1104
+aS'civilised:5463'
+p1105
+aS':5465'
+p1106
+aS'.:5469'
+p1107
+aS'. the:5471'
+p1108
+aS'chief:5478'
+p1109
+aS'telephone:5483'
+p1110
+aS'for:5486'
+p1111
+aS'and firm action . .:5488'
+p1112
+aS'. .:5492'
+p1113
+aS'.:5493'
+p1114
+aS'take:5503'
+p1115
+aS'the:5512'
+p1116
+aS'in:5519'
+p1117
+aS':5522'
+p1118
+aS'prime:5525'
+p1119
+aS'official statement .:5532'
+p1120
+aS'official statement . . .:5532'
+p1121
+aS'.:5536'
+p1122
+aS'least:5538'
+p1123
+aS'as:5548'
+p1124
+aS':5555'
+p1125
+aS'around the:5561'
+p1126
+aS':5572'
+p1127
+aS'addressed:5576'
+p1128
+aS'rally:5578'
+p1129
+aS'.:5580'
+p1130
+aS'three:5585'
+p1131
+aS'. . the:5591'
+p1132
+aS'.:5591'
+p1133
+aS'. the:5592'
+p1134
+aS'said:5597'
+p1135
+aS'of:5601'
+p1136
+aS'are:5609'
+p1137
+aS'.:5625'
+p1138
+aS'up:5633'
+p1139
+aS'update:5636'
+p1140
+aS'mentioned the three deceased as:5639'
+p1141
+aS'mentioned the three:5639'
+p1142
+aS'as:5643'
+p1143
+aS'an erroneous:5647'
+p1144
+aS'an:5647'
+p1145
+aS'erroneous:5648'
+p1146
+aS'.:5650'
+p1147
+aS'.:5652'
+p1148
+aS'blasts:5658'
+p1149
+aS'as:5661'
+p1150
+aS'dgp:5665'
+p1151
+aS'-lrb-:5678'
+p1152
+aS'11.40 am:5681'
+p1153
+aS'--:5691'
+p1154
+aS'old:5697'
+p1155
+aS'12.15 pm:5700'
+p1156
+aS'pm:5706'
+p1157
+aS'--:5712'
+p1158
+aS'::5720'
+p1159
+aS'vows:5723'
+p1160
+aS'bring culprits:5725'
+p1161
+aS'book:5728'
+p1162
+aS'agencies:5748'
+p1163
+aS'get:5750'
+p1164
+aS'the:5755'
+p1165
+aS'i strongly:5767'
+p1166
+aS'.:5775'
+p1167
+aS'of:5778'
+p1168
+aS'.:5791'
+p1169
+aS'were:5796'
+p1170
+aS'. blasts took:5804'
+p1171
+aS'.:5804'
+p1172
+aS'blasts took:5805'
+p1173
+aS'apart:5811'
+p1174
+aS'a:5820'
+p1175
+aS'conference:5822'
+p1176
+aS'.:5825'
+p1177
+aS'announcing:5828'
+p1178
+aS'of:5831'
+p1179
+aS'5:5833'
+p1180
+aS'to:5835'
+p1181
+aS'of:5840'
+p1182
+aS'of:5852'
+p1183
+aS"'':5856"
+p1184
+aS'`` we:5860'
+p1185
+aS'who:5867'
+p1186
+aS'for:5872'
+p1187
+aS'not:5877'
+p1188
+aS'to:5885'
+p1189
+aS'day:5892'
+p1190
+aS'minister:5897'
+p1191
+aS'ministerial:5902'
+p1192
+aS'-rrb-:5905'
+p1193
+aS'should:5911'
+p1194
+aS'finish their:5919'
+p1195
+aS'said:5925'
+p1196
+aS'denying:5929'
+p1197
+aS'has:5932'
+p1198
+aS'in:5935'
+p1199
+aS'the:5938'
+p1200
+aS'minister:5940'
+p1201
+aS':5942'
+p1202
+aS'tell the:5947'
+p1203
+aS'tell:5947'
+p1204
+aS'the:5948'
+p1205
+aS'there:5951'
+p1206
+aS'been:5953'
+p1207
+aS'by:5956'
+p1208
+aS'by the:5956'
+p1209
+aS'by the state:5956'
+p1210
+aS'the state:5957'
+p1211
+aS'not:5961'
+p1212
+aS'. all:5965'
+p1213
+aS'for:5969'
+p1214
+aS'for security:5969'
+p1215
+aS'security:5970'
+p1216
+aS'the:5974'
+p1217
+aS'.:5987'
+p1218
+aS'.:5994'
+p1219
+aS'of:6014'
+p1220
+aS'blasts:6016'
+p1221
+aS'.:6019'
+p1222
+aS'was:6023'
+p1223
+aS'report regarding these:6026'
+p1224
+aS'report:6026'
+p1225
+aS'regarding these:6027'
+p1226
+aS'i:6031'
+p1227
+aS'be:6038'
+p1228
+aS'case:6043'
+p1229
+aS'.:6050'
+p1230
+aS'that:6054'
+p1231
+aS'been nabbed:6068'
+p1232
+aS'his:6073'
+p1233
+aS'was:6075'
+p1234
+aS'.:6079'
+p1235
+aS'the:6086'
+p1236
+aS'the:6089'
+p1237
+aS'.:6091'
+p1238
+aS"'s:6098"
+p1239
+aS"'s date:6098"
+p1240
+aS'date:6099'
+p1241
+aS'the:6106'
+p1242
+aS'important:6110'
+p1243
+aS'very worrying:6112'
+p1244
+aS'on:6115'
+p1245
+aS'suitcase was:6120'
+p1246
+aS'and:6126'
+p1247
+aS'had asked:6128'
+p1248
+aS'had:6128'
+p1249
+aS'the:6135'
+p1250
+aS"'':6138"
+p1251
+aS'. kumar:6140'
+p1252
+aS'to:6146'
+p1253
+aS'guess on:6149'
+p1254
+aS'but:6153'
+p1255
+aS'``:6160'
+p1256
+aS'maintain:6165'
+p1257
+aS'and:6167'
+p1258
+aS'made:6174'
+p1259
+aS'and:6178'
+p1260
+aS'is:6180'
+p1261
+aS"'':6183"
+p1262
+aS'chief:6185'
+p1263
+aS'said .:6187'
+p1264
+aS'had:6194'
+p1265
+aS'this:6196'
+p1266
+aS'at:6198'
+p1267
+aS': modi:6209'
+p1268
+aS'rally:6218'
+p1269
+aS"rally ':6236"
+p1270
+aS'preceeded:6242'
+p1271
+aS'blasts:6245'
+p1272
+aS':6250'
+p1273
+aS'in:6254'
+p1274
+aS'post:6257'
+p1275
+aS'. . .:6260'
+p1276
+aS'.:6260'
+p1277
+aS'. .:6261'
+p1278
+aS'prayers with:6279'
+p1279
+aS'i:6283'
+p1280
+aS'for peace:6285'
+p1281
+aS'calm'
+p1282
+aS':6288'
+p1283
+aS'calm:6288'
+p1284
+aS':6289'
+p1285
+aS'wrote:6292'
+p1286
+aS'the:6299'
+p1287
+aS'made no:6303'
+p1288
+aS'his hour-long:6310'
+p1289
+aS':6313'
+p1290
+aS'he:6320'
+p1291
+aS'five:6335'
+p1292
+aS'injured:6341'
+p1293
+aS'six:6343'
+p1294
+aS'bomb blasts:6345'
+p1295
+aS'address:6359'
+p1296
+aS'::6368'
+p1297
+aS'condemns:6370'
+p1298
+aS'out at:6374'
+p1299
+aS'.:6378'
+p1300
+aS'i:6380'
+p1301
+aS'serial:6383'
+p1302
+aS'rally:6391'
+p1303
+aS'gross:6397'
+p1304
+aS'failure .:6399'
+p1305
+aS'.:6402'
+p1306
+aS'hidden:6442'
+p1307
+aS'garbage:6447'
+p1308
+aS'garbage and went:6447'
+p1309
+aS'and went:6448'
+p1310
+aS'a loud:6452'
+p1311
+aS'explosion:6454'
+p1312
+aS'followed by smoke:6456'
+p1313
+aS'fire:6460'
+p1314
+aS'the:6462'
+p1315
+aS'the spot:6462'
+p1316
+aS'the:6475'
+p1317
+aS'this:6482'
+p1318
+aS'::6484'
+p1319
+aS'are:6486'
+p1320
+aS'around:6490'
+p1321
+aS'the:6494'
+p1322
+aS'sanitised the area:6498'
+p1323
+aS'sanitised the area . .:6498'
+p1324
+aS'.:6502'
+p1325
+aS'::6506'
+p1326
+aS': two suspects:6506'
+p1327
+aS': two:6506'
+p1328
+aS'two suspects:6507'
+p1329
+aS'one:6511'
+p1330
+aS'soon:6515'
+p1331
+aS'in:6523'
+p1332
+aS'the:6528'
+p1333
+aS'is:6531'
+p1334
+aS'about:6539'
+p1335
+aS'.:6542'
+p1336
+aS'ministry has:6546'
+p1337
+aS'cnn-ibn that:6550'
+p1338
+aS'few:6553'
+p1339
+aS'those bombs were:6555'
+p1340
+aS'inside:6559'
+p1341
+aS'pits:6561'
+p1342
+aS'pits in:6561'
+p1343
+aS'for:6568'
+p1344
+aS"'s:6571"
+p1345
+aS'rally .:6573'
+p1346
+aS'.:6576'
+p1347
+aS'pm:6578'
+p1348
+aS'five:6581'
+p1349
+aS"hospital ':6585"
+p1350
+aS'hospital:6585'
+p1351
+aS'who:6592'
+p1352
+aS'injured inside gandhi:6594'
+p1353
+aS'gandhi maidan:6596'
+p1354
+aS'medical camp:6598'
+p1355
+aS'medical:6598'
+p1356
+aS'camp:6599'
+p1357
+aS'``:6608'
+p1358
+aS'48:6611'
+p1359
+aS'dead to:6618'
+p1360
+aS"'':6623"
+p1361
+aS'the:6639'
+p1362
+aS'must get:6650'
+p1363
+aS'must:6650'
+p1364
+aS'get'
+p1365
+aS':6651'
+p1366
+aS'get'
+p1367
+aS"'' ahmed:6651"
+p1368
+aS'get:6651'
+p1369
+aS"'' ahmed:6652"
+p1370
+aS'. blasts during modi:6659'
+p1371
+aS"'s:6664"
+p1372
+aS'visit:6666'
+p1373
+aS'hopeful:6669'
+p1374
+aS'should:6672'
+p1375
+aS'condemned:6674'
+p1376
+aS'one &:6676'
+p1377
+aS'one:6676'
+p1378
+aS'&:6677'
+p1379
+aS'govt:6679'
+p1380
+aS'unearth:6683'
+p1381
+aS'-rrb-:6693'
+p1382
+aS'.:6698'
+p1383
+aS'4.45:6700'
+p1384
+aS'? .:6705'
+p1385
+aS'per the:6709'
+p1386
+aS'reports:6712'
+p1387
+aS'were seven blasts:6715'
+p1388
+aS'over:6719'
+p1389
+aS'injured:6721'
+p1390
+aS'. .:6728'
+p1391
+aS'i:6730'
+p1392
+aS'to:6735'
+p1393
+aS'along:6742'
+p1394
+aS'. 4.15 pm bomb:6761'
+p1395
+aS'below:6767'
+p1396
+aS'a:6775'
+p1397
+aS'discovered:6781'
+p1398
+aS'below:6786'
+p1399
+aS'where:6790'
+p1400
+aS'minister:6794'
+p1401
+aS"'s:6797"
+p1402
+aS'addressed:6803'
+p1403
+aS'for:6806'
+p1404
+aS'an hour:6808'
+p1405
+aS'an hour .:6808'
+p1406
+aS'. .:6810'
+p1407
+aS'as per unconfirmed ground reports:6813'
+p1408
+aS'as per:6813'
+p1409
+aS'ground reports:6816'
+p1410
+aS'personnel have:6820'
+p1411
+aS'personnel have surrounded:6820'
+p1412
+aS'surrounded the:6822'
+p1413
+aS'the:6826'
+p1414
+aS'is on:6828'
+p1415
+aS'. .:6831'
+p1416
+aS'saw 3 blast:6835'
+p1417
+aS'saw:6835'
+p1418
+aS'3 blast:6836'
+p1419
+aS'i:6841'
+p1420
+aS':6841'
+p1421
+aS'i:6842'
+p1422
+aS'tyre:6849'
+p1423
+aS'burst .:6851'
+p1424
+aS'.:6866'
+p1425
+aS'found:6869'
+p1426
+aS'.:6879'
+p1427
+aS'-lrb-:6882'
+p1428
+aS'attacks:6897'
+p1429
+aS'govt .:6899'
+p1430
+aS'govt:6899'
+p1431
+aS'will ask:6904'
+p1432
+aS'eight months:6914'
+p1433
+aS'and:6927'
+p1434
+aS'people:6929'
+p1435
+aS'definitely:6935'
+p1436
+aS'lapse:6939'
+p1437
+aS'getting details about the:6943'
+p1438
+aS'getting details:6943'
+p1439
+aS'the:6946'
+p1440
+aS'lashing out at the:6955'
+p1441
+aS'in:6967'
+p1442
+aS'cancels:6977'
+p1443
+aS'::6986'
+p1444
+aS'chief:6988'
+p1445
+aS'cancelled his scheduled:6992'
+p1446
+aS'in:6998'
+p1447
+aS'of:7001'
+p1448
+aS'blasts:7003'
+p1449
+aS'blasts that:7003'
+p1450
+aS'that:7004'
+p1451
+aS'state:7007'
+p1452
+aS'at:7015'
+p1453
+aS'kumar:7023'
+p1454
+aS'was ready at:7026'
+p1455
+aS'was:7026'
+p1456
+aS'ready at:7027'
+p1457
+aS'leave:7036'
+p1458
+aS'airport:7039'
+p1459
+aS'the:7045'
+p1460
+aS':7049'
+p1461
+aS'the chief:7052'
+p1462
+aS'the:7052'
+p1463
+aS'chief:7053'
+p1464
+aS"'s office:7055"
+p1465
+aS'.:7059'
+p1466
+aS'. .:7059'
+p1467
+aS'.:7060'
+p1468
+aS'chief minister:7062'
+p1469
+aS'chief:7062'
+p1470
+aS'minister:7063'
+p1471
+aS'to prime:7066'
+p1472
+aS'phone:7073'
+p1473
+aS'the blasts:7075'
+p1474
+aS'kumar:7083'
+p1475
+aS'scheduled:7085'
+p1476
+aS'go to:7087'
+p1477
+aS'go:7087'
+p1478
+aS'to:7088'
+p1479
+aS'and:7090'
+p1480
+aS'to:7093'
+p1481
+aS'to attend:7095'
+p1482
+aS'-rrb-:7101'
+p1483
+aS'the sources said:7107'
+p1484
+aS'kumar held:7113'
+p1485
+aS'secretary:7119'
+p1486
+aS'the:7135'
+p1487
+aS'and areas:7148'
+p1488
+aS'near gandhi:7150'
+p1489
+aS'near:7150'
+p1490
+aS'gandhi:7151'
+p1491
+aS'the:7154'
+p1492
+aS'.:7158'
+p1493
+aS'death:7163'
+p1494
+aS'injured .:7170'
+p1495
+aS'latest:7175'
+p1496
+aS'sources:7179'
+p1497
+aS'lives:7188'
+p1498
+aS'six serial:7190'
+p1499
+aS'20:7198'
+p1500
+aS'incidents:7206'
+p1501
+aS'2.30:7210'
+p1502
+aS'::7212'
+p1503
+aS'. `` there:7221'
+p1504
+aS'.:7221'
+p1505
+aS'`` there:7222'
+p1506
+aS'provide:7247'
+p1507
+aS'said:7256'
+p1508
+aS'minister:7258'
+p1509
+aS'state for home:7260'
+p1510
+aS'state for:7260'
+p1511
+aS'state:7260'
+p1512
+aS'for home:7261'
+p1513
+aS'pm ::7269'
+p1514
+aS'.:7278'
+p1515
+aS'``:7280'
+p1516
+aS'prime:7282'
+p1517
+aS'condemns the:7284'
+p1518
+aS'at:7289'
+p1519
+aS'appeals:7296'
+p1520
+aS'the:7298'
+p1521
+aS'the people:7298'
+p1522
+aS':7305'
+p1523
+aS'minister:7309'
+p1524
+aS'goes:7323'
+p1525
+aS'and nsg personnel:7334'
+p1526
+aS'and:7334'
+p1527
+aS'nsg personnel:7335'
+p1528
+aS'been:7338'
+p1529
+aS'to:7340'
+p1530
+aS'by the union:7342'
+p1531
+aS'by the:7342'
+p1532
+aS'by:7342'
+p1533
+aS'the union:7343'
+p1534
+aS'the state government:7349'
+p1535
+aS'.:7355'
+p1536
+aS'take:7360'
+p1537
+aS'pm breaking:7379'
+p1538
+aS'to modi:7392'
+p1539
+aS'.:7397'
+p1540
+aS'::7404'
+p1541
+aS'::7406'
+p1542
+aS'blast:7408'
+p1543
+aS'blast:7421'
+p1544
+aS'hall:7429'
+p1545
+aS'latest:7432'
+p1546
+aS'at:7453'
+p1547
+aS'reportedly:7461'
+p1548
+aS'in:7463'
+p1549
+aS'chief:7470'
+p1550
+aS'to ibn7:7473'
+p1551
+aS'is:7479'
+p1552
+aS'as:7484'
+p1553
+aS'chief:7491'
+p1554
+aS'chief said . the:7491'
+p1555
+aS'. the:7493'
+p1556
+aS'underneath:7497'
+p1557
+aS'where people:7500'
+p1558
+aS'where:7500'
+p1559
+aS'people:7501'
+p1560
+aS'from:7506'
+p1561
+aS'into:7518'
+p1562
+aS'into the:7518'
+p1563
+aS'angle:7521'
+p1564
+aS'serial:7528'
+p1565
+aS'home ministry:7546'
+p1566
+aS':7548'
+p1567
+aS'crude bombs:7550'
+p1568
+aS'placed:7553'
+p1569
+aS'one went:7558'
+p1570
+aS'while the:7561'
+p1571
+aS'detected:7565'
+p1572
+aS'first:7569'
+p1573
+aS'the:7576'
+p1574
+aS'. . 11.55:7579'
+p1575
+aS'.:7579'
+p1576
+aS'. 11.55:7580'
+p1577
+aS'secretary:7586'
+p1578
+aS'what a coincidence blast:7593'
+p1579
+aS'railway on:7599'
+p1580
+aS'nitish:7610'
+p1581
+aS'find:7613'
+p1582
+aS'singh -lrb- @digvijaya_28:7620'
+p1583
+aS':7626'
+p1584
+aS'pm ::7631'
+p1585
+aS'crude bomb detected:7634'
+p1586
+aS'crude:7634'
+p1587
+aS'bomb detected:7635'
+p1588
+aS'one dead .:7638'
+p1589
+aS'::7644'
+p1590
+aS'arrest:7649'
+p1591
+aS': police:7651'
+p1592
+aS'reporters at:7657'
+p1593
+aS'said:7671'
+p1594
+aS'a search:7680'
+p1595
+aS'a:7680'
+p1596
+aS'search:7681'
+p1597
+aS'we have:7683'
+p1598
+aS'.:7689'
+p1599
+aS'11.30:7693'
+p1600
+aS'::7695'
+p1601
+aS'government:7699'
+p1602
+aS'a:7703'
+p1603
+aS'game:7706'
+p1604
+aS'the:7715'
+p1605
+aS'soon:7720'
+p1606
+aS'blast:7723'
+p1607
+aS'.:7726'
+p1608
+aS'order:7736'
+p1609
+aS'.:7739'
+p1610
+asS'unexpl'
+p1611
+(lp1612
+g8
+asS'ocassion'
+p1613
+g8
+sS'link'
+p1614
+S'http://www.ibnlive.com/news/india/assam-cops-assam-sot-313279.html'
+p1615
+sS'date'
+p1616
+g8
+sS'target'
+p1617
+g8
+sS'hot_spot'
+p1618
+g8
+sS'delivery_mod'
+p1619
+g8
+sS'delivery_met'
+p1620
+g8
+sS'expl'
+p1621
+(lp1622
+g8
+asS'ORG'
+p1623
+(lp1624
+s.

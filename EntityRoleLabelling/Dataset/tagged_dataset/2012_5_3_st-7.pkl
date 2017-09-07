@@ -1,0 +1,305 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbai'
+p4
+aS'37'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Zaveri Bazar'
+p8
+aS'114'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Opera House'
+p12
+aS'117'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Dadar'
+p16
+aS'120'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Byculla'
+p20
+aS'149'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Mumbai'
+p24
+aS'152'
+p25
+aS'Event'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'Rakesh Maria'
+p30
+aS'74'
+p31
+aS'Comment'
+p32
+aa(lp33
+S'Mr. Maria'
+p34
+aS'93'
+p35
+aS'Comment'
+p36
+aa(lp37
+S'Naquee Ahmed'
+p38
+aS'154'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Nadeem Sheikh'
+p42
+aS'157'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Kanwar Pathrija'
+p46
+aS'160'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Haroon Naik'
+p50
+aS'163'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Naquee'
+p54
+aS'177'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Nadeem'
+p58
+aS'179'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Yasin Bhatkal'
+p62
+aS'195'
+p63
+aS'Others'
+p64
+aa(lp65
+S'Yasin'
+p66
+aS'195'
+p67
+aS'Others'
+p68
+aasS'TIM'
+p69
+(lp70
+sS'hot_setting'
+p71
+S''
+p72
+sS'DAT'
+p73
+(lp74
+S'13/7 : 34'
+p75
+aS'July 13:122'
+p76
+asS'death'
+p77
+g72
+sS'title'
+p78
+S'RDX traces found in house of 13/7 blasts accused'
+p79
+sS'org_unorg'
+p80
+g72
+sS'terror_group'
+p81
+(lp82
+S'INDIAN MUJAHIDEEN'
+p83
+asS'content'
+p84
+S'The Maharashtra Anti-Terrorism Squad has found traces of RDX along with other explosives in the apartment here of the alleged Indian Mujahideen ( IM ) operatives suspected to have been involved in the 13/7 blasts in Mumbai . The original components of the explosive were ammonium nitrate , nitrite and TNT . Now , in the house , we found TNT , other explosive material and also traces of RDX , ATS chief Rakesh Maria told The Hindu . The agency received the chemical analysis report a couple of days ago . Mr. Maria said : There was no RDX at the blast sites . The three bombs , which went off at Zaveri Bazar , Opera House and Dadar on July 13 , were a mixture of ammonium nitrate , nitrite , petroleum hydrocarbon and TNT . RDX was recovered in a flat in Habib building at Byculla in south Mumbai . Naquee Ahmed , Nadeem Sheikh , Kanwar Pathrija and Haroon Naik have been arrested in connection with the blast . Of them , Naquee and Nadeem are accused of staying with the absconding accused at Habib building , where IM operative Yasin Bhatkal allegedly took residence for a while . OPEN'
+p85
+sS'injured'
+p86
+g72
+sS'det_loc'
+p87
+(lp88
+S'India'
+p89
+aS'Maharashtra'
+p90
+ag72
+aS'Mumbai'
+p91
+ag72
+asS'O'
+p92
+(lp93
+S'maharashtra anti-terrorism squad:2'
+p94
+aS'rdx:9'
+p95
+aS'explosives:13'
+p96
+aS'apartment:16'
+p97
+aS'13/7 blasts:34'
+p98
+aS'explosive:44'
+p99
+aS'ammonium:46'
+p100
+aS'ammonium nitrate:46'
+p101
+aS'nitrite:49'
+p102
+aS'tnt:51'
+p103
+aS'tnt:61'
+p104
+aS'explosive material:64'
+p105
+aS'rdx:70'
+p106
+aS'ats chief rakesh maria:72'
+p107
+aS'chemical analysis report:84'
+p108
+aS'rdx:100'
+p109
+aS'blast sites:103'
+p110
+aS'three bombs:107'
+p111
+aS'ammonium nitrate:129'
+p112
+aS'nitrite:132'
+p113
+aS'petroleum hydrocarbon:134'
+p114
+aS'tnt:137'
+p115
+aS'rdx:139'
+p116
+aS'habib building:146'
+p117
+aS'arrested:167'
+p118
+aS'blast:172'
+p119
+aS'absconding accused:186'
+p120
+aS'habib building:189'
+p121
+aS'im operative yasin bhatkal:193'
+p122
+asS'unexpl'
+p123
+(lp124
+g72
+asS'ocassion'
+p125
+g72
+sS'link'
+p126
+S'http://www.thehindu.com/todays-paper/rdx-traces-found-in-house-of-137-blasts-accused/article3378504.ece'
+p127
+sS'date'
+p128
+S'13-07-2011'
+p129
+sS'target'
+p130
+g72
+sS'hot_spot'
+p131
+g72
+sS'delivery_mod'
+p132
+g72
+sS'delivery_met'
+p133
+g72
+sS'expl'
+p134
+(lp135
+S'RDX'
+p136
+asS'ORG'
+p137
+(lp138
+(lp139
+S'Maharashtra Anti-Terrorism Squad'
+p140
+aS'2'
+p141
+aS'Others'
+p142
+aa(lp143
+S'Indian Mujahideen'
+p144
+aS'21'
+p145
+aS'Accused'
+p146
+aa(lp147
+S'IM'
+p148
+aS'24'
+p149
+aS'Accused'
+p150
+aa(lp151
+S'ATS'
+p152
+aS'72'
+p153
+aS'Others'
+p154
+aa(lp155
+S'The Hindu'
+p156
+aS'77'
+p157
+aS'Others'
+p158
+aa(lp159
+S'IM'
+p160
+aS'193'
+p161
+aS'Accused'
+p162
+aas.

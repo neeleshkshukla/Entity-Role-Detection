@@ -1,0 +1,97 @@
+{
+    "LOC": [
+        [
+            "Indore", 
+            "50", 
+            "Source"
+        ], 
+        [
+            "Ajmer Dargah", 
+            "78", 
+            "Event"
+        ], 
+        [
+            "Indore", 
+            "82", 
+            "Neutral"
+        ], 
+        [
+            "Gujarat", 
+            "84", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sunil Joshi", 
+            "58", 
+            "Accused"
+        ], 
+        [
+            "Satyendra Singh", 
+            "89", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007:20", 
+        "Saturday:94"
+    ], 
+    "death": "", 
+    "title": "Car recovered in Ajmer blast case", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Ajmer", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Rajasthan Anti-Terrorism Squad has seized a car believed to have been used to transport the bombs for the 2007 Ajmer Dargah blast even as the names of four more people cropped up in connection with the case . We have recovered a Santro car and brought it from Indore , recently . It was used by Sunil Joshi ( who died during the course of investigation ) to carry bombs , which were planted in the Ajmer Dargah , from Indore to Gujarat , ATS Additional SP Satyendra Singh told PTI on Saturday The team brought it here as an evidence . The car was sold to somebody else and no fresh arrest has been made in this connection , he said . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "squad:4", 
+        "transport:15", 
+        "bombs:17", 
+        "ajmer dargah blast:21", 
+        "blast:23", 
+        "santro car:44", 
+        "course:65", 
+        "investigation:67", 
+        "bombs:71", 
+        "team:96", 
+        "evidence:102", 
+        "car:105", 
+        "arrest:114"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/car-recovered-in-ajmer-blast-case/article980757.ece", 
+    "date": "11-10-2007", 
+    "target": "", 
+    "hot_spot": "Ajmer dargah", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajasthan Anti-Terrorism Squad", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "86", 
+            "Others"
+        ]
+    ]
+}

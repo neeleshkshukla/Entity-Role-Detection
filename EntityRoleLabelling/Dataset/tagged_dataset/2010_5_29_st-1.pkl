@@ -1,0 +1,317 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'West Bengal'
+p4
+aS'28'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Kharagpur-Tata Nagar'
+p8
+aS'89'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Khemasuli'
+p12
+aS'98'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'West Bengal'
+p16
+aS'367'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Kolkata'
+p20
+aS'450'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Jorhat'
+p24
+aS'565'
+p25
+aS'Neutral'
+p26
+aasS'PER'
+p27
+(lp28
+(lp29
+S'K. Balchand Question'
+p30
+aS'1'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Mamata Banerjee'
+p34
+aS'199'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Manmohan Singh'
+p38
+aS'239'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Vivek Sahai'
+p42
+aS'292'
+p43
+aS'Others'
+p44
+aa(lp45
+S'P. Chidambaram'
+p46
+aS'330'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Bhupinder Singh'
+p50
+aS'373'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Surojit Karpurokayastha'
+p54
+aS'379'
+p55
+aS'Others'
+p56
+aa(lp57
+S'Ardhendu Sen'
+p58
+aS'425'
+p59
+aS'Others'
+p60
+aasS'TIM'
+p61
+(lp62
+sS'hot_setting'
+p63
+S''
+p64
+sS'DAT'
+p65
+(lp66
+S'Friday:31'
+p67
+asS'death'
+p68
+S'73'
+p69
+sS'title'
+p70
+S'Cause of accident, a point of debate'
+p71
+sS'org_unorg'
+p72
+S'Organized'
+p73
+sS'terror_group'
+p74
+(lp75
+S'Maoist Communist Centre (MCC)'
+p76
+asS'content'
+p77
+S'K. Balchand Question of whether explosive device was used to blast track goes abegging NEW DELHI : What led to the derailment of the Jnaneswari Express in West Bengal on Friday that killed 73 passengers and left 138 others injured ? The authorities concerned seem to agree that it was the handiwork of sabotage , but the question of whether any kind of explosive device was used to blast the tracks goes a-begging . The sequence of events leading to the accident of the Jnaneswari Express on the Kharagpur-Tata Nagar section starts with a pilot engine passing Khemasuli at 2250 hours on the UP route . That was followed by a goods train at 2337 hours , and three passenger trains at 0021 hours , 0037 hours and 0043 hours . The Jnaneswari derailed some half an hour later , at about 0115 hours . The goods train which inflicted heavy casualties by ramming the derailed bogies of the passenger train had passed Sardiah station on the down track at 0113 hours . From this sequence , it is evident the time available for any group to sabotage the track was just over 30 minutes . Railway Minister Mamata Banerjee categorically maintained that a bomb blast had caused the derailment and lashed out at the Maoists for making the railways their soft target , thereby accusing them of being behind the tragedy . She also briefed Prime Minister Manmohan Singh about the accident . Interestingly , the report of the Inspector of Safety too mentioned that the derailment was consequent upon a bomb blast . Officials of South Eastern Railways claimed the presence of gelatine sticks and TNT explosives on the track . However , Member Traffic , Railway Board , Vivek Sahai was cautious in his statement , saying that the driver of the train heard a loud explosion . He said that investigations were under way if the track had been tampered with . Union Home Minister P. Chidambaram admitted that it was a case of sabotage as a portion of the track had been removed but added that it was not clear whether explosives had been used to damage the rail line . West Bengal police officials including DGP Bhupinder Singh and Law and Order Surojit Karpurokayastha maintained that fish plates had been removed and pandrol clips had been found missing and regarded this as the cause of the accident . But they were not sure of the use of any bomb at the accident site . West Bengal Chief Secretary Ardhendu Sen did not rule out sabotage by Maoists underscoring that the accident site was located in their stronghold . Commissioner for Railway Safety , Kolkata circle , will be carrying out the statutory investigation , while the West Bengal government has ordered a CID probe into the cause of the accident . Irrespective of the difference of perception , the response of authorities dealing with the rescue and relief operations was well coordinated and apparently was also swift . The National Disaster Response Force ( NDRF ) deployed four teams comprising 132 personnel with necessary equipment at the accident site to assist rail and local authorities . The IAF too , responded to requests from the railways , and pressed three helicopters to transport injured passengers , while an AN-32 freight carrier brought in paramedics and medical supply from Jorhat . The railways on their part had rushed in a medical relief van and three accident relief trains to the spot . OPEN'
+p78
+sS'injured'
+p79
+S'138'
+p80
+sS'det_loc'
+p81
+(lp82
+S'India'
+p83
+ag64
+ag64
+ag64
+aS'Kharagpur-Tata Nagar section'
+p84
+asS'O'
+p85
+(lp86
+S'explosive device:6'
+p87
+aS'blast track:11'
+p88
+aS'derailment:22'
+p89
+aS'jnaneswari express:25'
+p90
+aS'explosive device:64'
+p91
+aS'blast:69'
+p92
+aS'sequence:76'
+p93
+aS'accident:82'
+p94
+aS'pilot engine:95'
+p95
+aS'Jnaneswari:133'
+p96
+aS'railway:197'
+p97
+aS'bomb blast:205'
+p98
+aS'derailment:210'
+p99
+aS'target:223'
+p100
+aS'derailment:258'
+p101
+aS'bomb blast:263'
+p102
+aS'gelatine:275'
+p103
+aS'tnt explosives:278'
+p104
+aS'member traffic:286'
+p105
+aS'train:306'
+p106
+aS'explosion:310'
+p107
+aS'pandrol:389'
+p108
+aS'cause:400'
+p109
+aS'accident:403'
+p110
+aS'bomb:415'
+p111
+aS'accident site:418'
+p112
+aS'accident site:524'
+p113
+aS'rail:528'
+p114
+aS'transport:549'
+p115
+aS'relief van:577'
+p116
+aS'accident relief:581'
+p117
+asS'unexpl'
+p118
+(lp119
+g64
+asS'ocassion'
+p120
+g64
+sS'link'
+p121
+S'http://www.thehindu.com/todays-paper/cause-of-accident-a-point-of-debate/article775890.ece'
+p122
+sS'date'
+p123
+S'29-05-2010'
+p124
+sS'target'
+p125
+g64
+sS'hot_spot'
+p126
+S'Jnaneswari Express'
+p127
+sS'delivery_mod'
+p128
+g64
+sS'delivery_met'
+p129
+g64
+sS'expl'
+p130
+(lp131
+S'TNT'
+p132
+asS'ORG'
+p133
+(lp134
+(lp135
+S'Maoists'
+p136
+aS'216'
+p137
+aS'Accused'
+p138
+aa(lp139
+S'South Eastern Railways'
+p140
+aS'268'
+p141
+aS'Others'
+p142
+aa(lp143
+S'Railway Board'
+p144
+aS'289'
+p145
+aS'Others'
+p146
+aa(lp147
+S'Maoists'
+p148
+aS'433'
+p149
+aS'Accused'
+p150
+aa(lp151
+S'West Bengal government'
+p152
+aS'463'
+p153
+aS'Others'
+p154
+aa(lp155
+S'CID'
+p156
+aS'469'
+p157
+aS'Others'
+p158
+aa(lp159
+S'National Disaster Response Force'
+p160
+aS'506'
+p161
+aS'Others'
+p162
+aa(lp163
+S'NDRF'
+p164
+aS'511'
+p165
+aS'Others'
+p166
+aa(lp167
+S'IAF'
+p168
+aS'534'
+p169
+aS'Others'
+p170
+aas.

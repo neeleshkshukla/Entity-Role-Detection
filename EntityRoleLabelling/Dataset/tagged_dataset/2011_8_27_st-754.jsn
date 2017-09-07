@@ -1,0 +1,95 @@
+{
+    "LOC": [
+        [
+            "Abuja", 
+            "13", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Ban Ki-moon", 
+            "109", 
+            "Comment"
+        ], 
+        [
+            "Ban", 
+            "123", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:15"
+    ], 
+    "death": "18", 
+    "title": "Suicide bomb rocks Nigerian capital", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A suicide bomb blast rocked the U.N. compound in the Nigerian capital Abuja on Friday , killing at least 18 people , leaving others trapped and blowing out large areas of the building , officials said . Witnesses reported that the bomb went off after a suspect forced his way through security and rammed the car into the building . Parts of the first two floors were blown out and rescue workers scrambled to rescue those left inside . There was no immediate claim of responsibility , but an Islamist sect known as Boko Haram has been blamed for scores of bombings in recent months . U.N. chief Ban Ki-moon strongly condemned the attack and said considerable casualties were expected . Mr. Ban said staff for 26 U.N. agencies and departments were in the building . AFP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Nigeria", 
+        "", 
+        "", 
+        "Abuja", 
+        ""
+    ], 
+    "O": [
+        "suicide bomb blast:2", 
+        "u.n. compound:7", 
+        "nigerian capital:11", 
+        "building:33", 
+        "bomb:42", 
+        "suspect:47", 
+        "security:52", 
+        "car:56", 
+        "building:59", 
+        "responsibility:86", 
+        "islamist sect:90", 
+        "bombings:102", 
+        "u.n. chief:107", 
+        "attack:114", 
+        "staff:125", 
+        "u.n. agencies:128", 
+        "building:135"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/suicide-bomb-rocks-nigerian-capital/article2401661.ece", 
+    "date": "27-08-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "U.N.", 
+            "7", 
+            "Victim"
+        ], 
+        [
+            "Boko Haram", 
+            "94", 
+            "Accused"
+        ], 
+        [
+            "U.N", 
+            "107", 
+            "Victim"
+        ], 
+        [
+            "U.N", 
+            "128", 
+            "Victim"
+        ]
+    ]
+}

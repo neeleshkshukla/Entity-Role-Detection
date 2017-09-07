@@ -1,0 +1,167 @@
+{
+    "LOC": [
+        [
+            "Malleswaram", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Satyamangalam", 
+            "85", 
+            "Event"
+        ], 
+        [
+            "Coimbatore", 
+            "92", 
+            "Event"
+        ], 
+        [
+            "Tamil Nadu", 
+            "123", 
+            "Neutral"
+        ], 
+        [
+            "Salem", 
+            "179", 
+            "Neutral"
+        ], 
+        [
+            "Siddique", 
+            "195", 
+            "Accused Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammed Ali Khan Kutti", 
+            "1", 
+            "Accused"
+        ], 
+        [
+            "Kutti", 
+            "77", 
+            "Accused"
+        ], 
+        [
+            "Shamshuddin", 
+            "173", 
+            "Accused"
+        ], 
+        [
+            "Shaheel Hameed Bagadur Shah", 
+            "188", 
+            "Accused"
+        ], 
+        [
+            "Umar", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "Zulfikhar Ali", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "H.M. Omkaraiah", 
+            "261", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:63", 
+        "April 17:216"
+    ], 
+    "death": "", 
+    "title": "Five more suspects in blast case, court told", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Mohammed Ali Khan Kutti ( 35 ) , who has helping the families of the Malleswaram bomb blast case accused , is among the five under the scanner of the Central Crime Branch ( CCB ) sleuths investigating the case . The CCB , while seeking further custody of one of the suspects before the I Additional Metropolitan Magistrate Court here on Monday , said that there are five more suspects in the case . Mr. Kutti , a mobile phone shop owner from Satyamangalam , was an accused in the Coimbatore blast case but was acquitted by the Madras High Court . He is part of an NGO formed to provide legal assistance to other suspects languishing in various prisons across Tamil Nadu . He has been coordinating with advocates , helping the family members of the suspects by arranging for meetings in jail with court permission , and he frequently interacts with the police during every hearing , sources said . The other four suspects sought by the CCB are Shamshuddin , who is lodged in Salem jail in connection with a blast case , Shaheel Hameed Bagadur Shah , Umar and Siddique . Their names emerged during the questioning of Zulfikhar Ali , who is alleged to have provided explosives for the April 17 blast , the sources said . CCB officials said that only 11 have been arrested so far while many have been questioned . We got information about the new suspects based on the statements of the accused , said Assistant Commissioner of Police H.M. Omkaraiah , investigating officer in the case . One of them works with an NGO providing legal aid to those in custody OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Bangalore", 
+        "Malleswaram"
+    ], 
+    "O": [
+        "prisons:121", 
+        "jail:145", 
+        "court permission:147", 
+        "jail:180", 
+        "blast:185", 
+        "explosives:213", 
+        "assistant commissioner:257", 
+        "investigating officer:264"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/five-more-suspects-in-blast-case-court-told/article4758004.ece", 
+    "date": "27-05-2013", 
+    "target": "", 
+    "hot_spot": "Malleswaram", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Central Crime Branch ( CCB )", 
+            "31", 
+            "Others"
+        ], 
+        [
+            "CCB", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Additional Metropolitan Magistrate Court", 
+            "57", 
+            "Others"
+        ], 
+        [
+            "Madras High Court", 
+            "100", 
+            "Others"
+        ], 
+        [
+            "NGO", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "advocates", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "CCB", 
+            "171", 
+            "Others"
+        ], 
+        [
+            "CCB", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "NGO", 
+            "276", 
+            "Others"
+        ]
+    ]
+}

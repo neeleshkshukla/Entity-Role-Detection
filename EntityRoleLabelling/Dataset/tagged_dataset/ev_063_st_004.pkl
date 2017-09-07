@@ -1,0 +1,370 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'20'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Walled City'
+p8
+aS'29'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Jama Masjid'
+p12
+aS'47'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Delhi'
+p16
+aS'58'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Delhi'
+p20
+aS'133'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Walled City'
+p24
+aS'145'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Jama Masjid'
+p28
+aS'415'
+p29
+aS'Neutral'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Manmohan Singh'
+p34
+aS'87'
+p35
+aS'Others'
+p36
+aa(lp37
+S'E. Ahmed'
+p38
+aS'98'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Shahi Imam'
+p42
+aS'109'
+p43
+aS'Others'
+p44
+aa(lp45
+S'K. K. Paul'
+p46
+aS'137'
+p47
+aS'Others'
+p48
+aasS'TIM'
+p49
+(lp50
+S'hours : 38'
+p51
+asS'hot_setting'
+p52
+S''
+p53
+sS'DAT'
+p54
+(lp55
+S'Saturday : 36'
+p56
+aS'Friday : 51'
+p57
+aS'Saturday evening : 104'
+p58
+aS'Saturday : 455'
+p59
+aS'Saturday : 480'
+p60
+asS'death'
+p61
+g53
+sS'title'
+p62
+S'Over a dozen picked up for Jama Masjid blasts'
+p63
+sS'det_loc'
+p64
+(lp65
+S'India'
+p66
+aS'Delhi'
+p67
+ag53
+aS'Delhi'
+p68
+ag53
+asS'terror_group'
+p69
+(lp70
+g53
+asS'content'
+p71
+VStaff Reporter . . Security stepped up in and around the mosque as life returns to normal . . NEW DELHI : Even as normality returned to the Walled City area of the Capital on Saturday within hours of the two bomb explosions inside the historic Jama Masjid complex on Friday , the Special Cell of the Delhi police picked up over a dozen people for questioning . However , no arrests have been made so far . . . Amid tight security , Prime Minister Manmohan Singh along with Union Minister of State for External Affairs E. Ahmed visited the mosque on Saturday evening and met the Shahi Imam of Jama Masjid . He also visited the hospital where the injured are admitted . . . Earlier in the day , Delhi 's Police Commissioner K. K. Paul took a round of the Walled City area to review the security arrangements . ` We are piecing together all the evidence gathered from the blast site . About 15 people have been interrogated in coordination with intelligence agencies in connection with the blast , ' he disclosed . . Along with those picked up for interrogation , the antecedents of at least two suspects are being probed by Special Cell officers as they have given contradictory statements about their movement at the time of the blasts . With the help of eyewitnesses the police are trying to reconstruct the sequence of events leading to the explosions near the water-tank right at the centre of the historic mosque . . . The police have also recorded the statements of some of the victims injured in the twin blasts . . . The police have recovered portions of a battery from the scene of explosions but have not come across any timer device or wire . Though senior police officers are sure that the bombs used in the explosions were crude , they are probing how exactly they were configured . . . According to the police , the nature of blasts indicates that some local group was involved . ` As investigations are in an initial stage , we can not say for sure which outfit is behind the explosions , ' said a senior police officer , emphasising that the motive of the blasts by all indications was not to kill but to whip up communal passions . . . Following the explosions , metal detectors have been installed at all entrances to the Jama Masjid and more police personnel have been deployed in the area . All visitors to the mosque are being frisked and their belongings checked . However , all the shops in the area around the mosque remained open on Saturday . . . Meanwhile , barring three of the victims , all the other injured were discharged from Lok Nayak Jayaprakash Narayan Hospital on Saturday .
+p72
+sS'injured'
+p73
+g53
+sS'org_unorg'
+p74
+g53
+sS'O'
+p75
+(lp76
+S'Security:5'
+p77
+aS'stepped up:6'
+p78
+aS'mosque:12'
+p79
+aS'returns:15'
+p80
+aS'normal:17'
+p81
+aS'normality returned:25'
+p82
+aS'Capital:34'
+p83
+aS'two bomb explosions:41'
+p84
+aS'dozen people:64'
+p85
+aS'questioning:67'
+p86
+aS'no arrests:71'
+p87
+aS'tight security:82'
+p88
+aS'visited:100'
+p89
+aS'mosque:102'
+p90
+aS'Jama Masjid:112'
+p91
+aS'visited:117'
+p92
+aS'hospital:119'
+p93
+aS'injured:122'
+p94
+aS'admitted:124'
+p95
+aS'review:149'
+p96
+aS'security arrangements:151'
+p97
+aS'piecing:157'
+p98
+aS'evidence gathered:161'
+p99
+aS'blast site:165'
+p100
+aS'15 people:169'
+p101
+aS'interrogated:173'
+p102
+aS'intelligence agencies:177'
+p103
+aS'connection:180'
+p104
+aS'blast:183'
+p105
+aS'interrogation:196'
+p106
+aS'antecedents:199'
+p107
+aS'two suspects:203'
+p108
+aS'probed:207'
+p109
+aS'Special Cell officers:209'
+p110
+aS'contradictory statements:216'
+p111
+aS'movement:220'
+p112
+aS'blasts:226'
+p113
+aS'eyewitnesses:232'
+p114
+aS'reconstruct:238'
+p115
+aS'sequence of events:240'
+p116
+aS'explosions:246'
+p117
+aS'water-tank:249'
+p118
+aS'historic mosque:256'
+p119
+aS'recorded:265'
+p120
+aS'statements:267'
+p121
+aS'victims injured:272'
+p122
+aS'twin blasts:276'
+p123
+aS'recovered:284'
+p124
+aS'battery:288'
+p125
+aS'scene of explosions:291'
+p126
+aS'timer device:300'
+p127
+aS'wire:303'
+p128
+aS'senior police officers:306'
+p129
+aS'bombs:313'
+p130
+aS'explosions:317'
+p131
+aS'crude:319'
+p132
+aS'configured:328'
+p133
+aS'blasts:340'
+p134
+aS'local group:344'
+p135
+aS'involved:347'
+p136
+aS'investigations:351'
+p137
+aS'initial stage:355'
+p138
+aS'outfit:365'
+p139
+aS'explosions:369'
+p140
+aS'emphasising:378'
+p141
+aS'motive:381'
+p142
+aS'blasts:384'
+p143
+aS'indications:387'
+p144
+aS'kill:391'
+p145
+aS'communal passions:396'
+p146
+aS'explosions:403'
+p147
+aS'detectors:406'
+p148
+aS'installed:409'
+p149
+aS'entrances:412'
+p150
+aS'police personnel:419'
+p151
+aS'deployed:423'
+p152
+aS'visitors:429'
+p153
+aS'mosque:432'
+p154
+aS'frisked:435'
+p155
+aS'mosque:451'
+p156
+aS'victims:465'
+p157
+aS'injured:470'
+p158
+asS'unexpl'
+p159
+(lp160
+g53
+asS'ocassion'
+p161
+g53
+sS'link'
+p162
+S'http://www.thehindu.com/todays-paper/over-a-dozen-picked-up-for-jama-masjid-blasts/article3148206.ece'
+p163
+sS'date'
+p164
+S'15-04-2006'
+p165
+sS'target'
+p166
+S'MOSQUE'
+p167
+sS'hot_spot'
+p168
+g53
+sS'delivery_mod'
+p169
+g53
+sS'delivery_met'
+p170
+S'PLANTED'
+p171
+sS'expl'
+p172
+(lp173
+g53
+asS'ORG'
+p174
+(lp175
+(lp176
+S'Special Cell'
+p177
+aS'54'
+p178
+aS'Others'
+p179
+aa(lp180
+S'Delhi police'
+p181
+aS'58'
+p182
+aS'Others'
+p183
+aa(lp184
+S'Special Cell'
+p185
+aS'209'
+p186
+aS'Others'
+p187
+aa(lp188
+S'Lok Nayak Jayaprakash Narayan Hospital'
+p189
+aS'474'
+p190
+aS'Others'
+p191
+aas.

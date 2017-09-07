@@ -1,0 +1,80 @@
+{
+    "LOC": [
+        [
+            "Aurangabad district", 
+            "10", 
+            "Victim Location"
+        ], 
+        [
+            "Bihar", 
+            "13", 
+            "Victim Location"
+        ], 
+        [
+            "Deo-Abma Road", 
+            "33", 
+            "Victim Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Daljeet Singh", 
+            "71", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:19"
+    ], 
+    "death": "0", 
+    "title": "Maoists blow up government building", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Maoists blasted a building of the irrigation department in Aurangabad district of Bihar in the early hours of Thursday . The incident took place near Bigha village in Deo block on the Deo-Abma Road . More than 50 Maoists were involved , the police said . The building has seven structures , which were being repaired . Two were severely damaged and the remaining partially damaged , Superintendent of Police Daljeet Singh told The Hindu . The police recovered a live cane bomb and defused it , he said . A case under the Arms Act and the Unlawful Activities ( Prevention ) Act has been registered . OPEN", 
+    "injured": "0", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Patna", 
+        "", 
+        "Aurangabad district of Bihar"
+    ], 
+    "O": [
+        "building:4", 
+        "irrigation department:7", 
+        "district:11", 
+        "incident:22", 
+        "place:24", 
+        "bigha village:26", 
+        "bigha:26", 
+        "village:27", 
+        "deo:29", 
+        "deo block:29", 
+        "block:30", 
+        "building:48", 
+        "superintendent:68", 
+        "cane bomb:82", 
+        "case:92", 
+        "act:96", 
+        "prevention:102", 
+        "act:104"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/maoists-blow-up-government-building/article4608637.ece", 
+    "date": "11-04-2013", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

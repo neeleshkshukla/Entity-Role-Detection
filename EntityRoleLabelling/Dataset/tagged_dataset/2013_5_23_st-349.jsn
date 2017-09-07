@@ -1,0 +1,71 @@
+{
+    "LOC": [
+        [
+            "Madhugiri", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Tumkur", 
+            "21", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "6 p.m.:72"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday night:24"
+    ], 
+    "death": "", 
+    "title": "Court blast: ballistics experts collect samples", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Tumkur", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A bomb disposal squad and a team of ballistics experts visited the Fifth Fast Track Court in Madhugiri town in Tumkur district on Tuesday night , hours after an explosion took place on the court premises . The teams collected various samples from the site . The court staff were disposing of old records by burning them in front of the judge of the court when the explosion took place around 6 p.m. Two people were injured in the blast . OPEN", 
+    "injured": "2", 
+    "org_unorg": "", 
+    "O": [
+        "bomb disposal squad:2", 
+        "team of ballistics:7", 
+        "explosion:30", 
+        "court premises:35", 
+        "collected:40", 
+        "samples:42", 
+        "court staff:48", 
+        "old records:53", 
+        "judge:62", 
+        "explosion:68", 
+        "injured:77", 
+        "blast:80"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/court-blast-ballistics-experts-collect-samples/article4741502.ece", 
+    "date": "21-05-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Fifth Fast Track Court", 
+            "13", 
+            "Victim"
+        ]
+    ]
+}

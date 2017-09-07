@@ -1,0 +1,131 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "26", 
+            "Event"
+        ], 
+        [
+            "Saroornagar", 
+            "39", 
+            "Neutral"
+        ], 
+        [
+            "Malakpet", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Gokul Chat", 
+            "147", 
+            "Event"
+        ], 
+        [
+            "Lumbini Park", 
+            "150", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "O. Narasimha Murthy", 
+            "49", 
+            "Comment"
+        ], 
+        [
+            "Murthy", 
+            "109", 
+            "Comment"
+        ], 
+        [
+            "Murthy", 
+            "179", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007:153"
+    ], 
+    "death": "", 
+    "title": "FSL lab flooded with blast samples", 
+    "det_loc": [
+        "India", 
+        "", 
+        "", 
+        "HYDERABAD", 
+        "Dilsukhnagar"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Forensic Science Laboratory ( FSL ) here was flooded with nearly sixty samples supplied by police for analysis from the bomb blasts sites at Dilsukhnagar . The samples weighing 47 kg were handed over by police of Saroornagar , Malakpet and National Investigation Agency , FSL Director O. Narasimha Murthy said . He said aluminium pieces , nails , nuts and bolts and parts of bicycles , which were strapped with bombs , were referred to the lab for examining the chemical composition . The damaged motorcycles that were parked near the sites and the splinters recovered from bodies were also sent to the lab . Mr. Murthy said that the bombs were of high intensity and made of ammonium nitrate . They were concealed in tiffin boxes made of aluminium . The explosive materials were kept in wooden boxes in the earlier explosions at Gokul Chat and Lumbini Park in 2007 . The wooden boxes also had iron balls . But the aluminium boxes now had bolts and nails to provide the lethal element . Mr. Murthy added that the laboratory did not have the equipment to enhance the quality of the surveillance camera footage , which provided a blurred image of the suspected bomber . The laboratory will place orders for acquiring audio-video authentication and enhancement equipment , automatic speaker identification software and hardware , chassis and engine number examination kit to study vehicles and trinocular microscope with camera attachment . According to the FSL chief , the lab has no equipment to enhance the quality of the surveillance camera footage , which provided a blurred image of the bomber OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "ammonium nitrate:121", 
+        "wooden boxes:140", 
+        "wooden boxes:156", 
+        "iron balls:160", 
+        "aluminium boxes:165", 
+        "surveillance camera footage:195", 
+        "bomber:207", 
+        "audio-video authentication:216", 
+        "enhancement equipment:219", 
+        "chassis:229", 
+        "engine number examination kit:231", 
+        "trinocular microscope:239", 
+        "blurred:269"
+    ], 
+    "unexpl": [
+        "BICYCLES", 
+        "WOODEN BOXES"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/fsl-lab-flooded-with-blast-samples/article4468224.ece", 
+    "date": "01-03-2013", 
+    "target": "", 
+    "hot_spot": "Dilsukhnagar", 
+    "delivery_mod": "TIFFIN BOX", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE", 
+        "NAILS", 
+        "NUTS", 
+        "BOLTS", 
+        "PARTS OF BICYCLE"
+    ], 
+    "ORG": [
+        [
+            "Forensic Science Laboratory ( FSL )", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "National Investigation Agency", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "FSL", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "FSL", 
+            "248", 
+            "Others"
+        ]
+    ]
+}

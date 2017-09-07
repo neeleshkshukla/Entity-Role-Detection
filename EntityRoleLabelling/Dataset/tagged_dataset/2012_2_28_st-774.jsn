@@ -1,0 +1,83 @@
+{
+    "LOC": [
+        [
+            "Nowshera", 
+            "12", 
+            "Neutral"
+        ], 
+        [
+            "Khyber Pukhtoonkhwa", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Khyber Pukhtoonkhwa", 
+            "39", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Amir Haider Hoti", 
+            "43", 
+            "Victim"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday afternoon:24"
+    ], 
+    "death": "6", 
+    "title": "Awami leaders target of blast?", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Islamabad", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least six people were killed in a blast in the Nowshera area of Khyber Pukhtoonkhwa ( formerly North-West Frontier Province ) on Monday afternoon . The blast is being billed as an attempt on the life of Khyber Pukhtoonkhwa Chief Minister Amir Haider Hoti and the senior leadership of the Awami National Party ( ANP ) as the bomb went off just after they left the area after addressing a party rally . According to the police , the bomb was planted on a motorcycle and detonated with a remote control as people were leaving the venue . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "blast:9", 
+        "north-west frontier province:19", 
+        "blast:28", 
+        "bomb:60", 
+        "party rally:72", 
+        "bomb:81", 
+        "motorcycle:86", 
+        "detonated:88", 
+        "remote control:91", 
+        "venue:98"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/awami-leaders-target-of-blast/article2940091.ece", 
+    "date": "30-01-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "Two wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Awami National Party", 
+            "52", 
+            "Others"
+        ], 
+        [
+            "ANP", 
+            "56", 
+            "Others"
+        ]
+    ]
+}

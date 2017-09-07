@@ -1,0 +1,276 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Israeli Embassy'
+p4
+aS'4'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Delhi'
+p8
+aS'36'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Bangkok'
+p12
+aS'77'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Bangkok'
+p16
+aS'175'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Lado Sarai'
+p20
+aS'281'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'South Delhi'
+p24
+aS'285'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Ludhiana'
+p28
+aS'318'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Britain'
+p32
+aS'476'
+p33
+aS'Neutral'
+p34
+aasS'PER'
+p35
+(lp36
+(lp37
+S'B. K. Gupta'
+p38
+aS'250'
+p39
+aS'Comment'
+p40
+aasS'TIM'
+p41
+(lp42
+sS'hot_setting'
+p43
+S''
+p44
+sS'DAT'
+p45
+(lp46
+S'Thursday : 14'
+p47
+aS'Monday : 39'
+p48
+asS'death'
+p49
+g44
+sS'title'
+p50
+S'Delhi Police await report on explosives used in blast'
+p51
+sS'det_loc'
+p52
+(lp53
+S'India'
+p54
+aS'Delhi'
+p55
+aS'New Delhi'
+p56
+ag44
+ag44
+asS'terror_group'
+p57
+(lp58
+g44
+asS'content'
+p59
+S"Investigations into the Israeli Embassy car blast case took a new turn on Thursday following the Bangkok Police 's assertion that suspected terrorists arrested there had used explosives similar to the one employed in the Delhi explosion on Monday . The Delhi Police are awaiting a formal report from the CBI 's Central Forensic Science Laboratory on the nature of explosives used in the improvised magnetic device . While the composition of the bomb used in Bangkok has not been made public , police sources here said if it was similar to the one used to target the Israeli official here , the ingredient could be a combination of an explosive and an incendiary material , such as nitro-glycerine , which enhances the impact range . Different types of explosives , like potassium chlorate , can be used in the combination . However , the forensic report on the articles lifted from the blast site would make things clear , said an official . Given that a module of foreign nationals was active in Bangkok , agencies here are screening the data on foreigners who have entered the country in the recent past . The local police have also been instructed to carry out checks in guesthouses and hotels and conduct verification to gather information primarily on foreign nationals who were staying or had stayed there in the past weeks . The focus of the exercise is to identify those with suspicious movements . Earlier , Delhi Police Commissioner B. K. Gupta said investigations were in the initial stages . It is learnt that the police have solved the mystery behind the recovery of an abandoned red-colour motorcycle in the Lado Sarai area of South Delhi . It is not connected to the blast . We have traced its last owner , who lives in the same locality and had parked the vehicle before he left for Ludhiana . It appears that someone had made a failed attempt to steal the vehicle , said an officer . Stating that no concrete leads had emerged so far from the analysis of the phone calls made around the time of the explosion , the officer said efforts were being made to find out if the module or the assailant had been provided logistics support by any local element . Ruling out any possibility at this stage would hamper the probe , he added . While the police had earlier suggested that the pocket-size device used in the attack was a sticky bomb , experts said it was only through proper reconstruction of the configuration with the help of articles recovered from the blast site , besides information on the explosives used in the device , that a decision in this regard could be arrived at . Sticky bomb was an anti-tank grenade first designed and developed in Britain during World War II . Probe in initial stages : Delhi Police chiefAbandoned motorcycle not connected to blast Probe in initial stages : Delhi Police chief Abandoned motorcycle not connected to blast OPEN"
+p60
+sS'injured'
+p61
+g44
+sS'org_unorg'
+p62
+S'Organized'
+p63
+sS'O'
+p64
+(lp65
+S'car blast case:6'
+p66
+aS'turn:12'
+p67
+aS'assertion:20'
+p68
+aS'explosion:37'
+p69
+aS'report:48'
+p70
+aS'nature:59'
+p71
+aS'improvised magnetic device:65'
+p72
+aS'ingredient:104'
+p73
+aS'combination:108'
+p74
+aS'explosive:111'
+p75
+aS'material:115'
+p76
+aS'nitro-glycerine:119'
+p77
+aS'impact range:124'
+p78
+aS'potassium chlorate:133'
+p79
+aS'combination:141'
+p80
+aS'blast site:154'
+p81
+aS'conduct verification:211'
+p82
+aS'red-colour motorcycle:277'
+p83
+aS'analysis:349'
+p84
+aS'explosion:360'
+p85
+aS'assailant:377'
+p86
+aS'pocket-size device:411'
+p87
+aS'sticky bomb:419'
+p88
+aS'configuration:432'
+p89
+aS'decision:456'
+p90
+aS'sticky bomb:465'
+p91
+aS'anti-tank grenade:469'
+p92
+aS'world war ii:478'
+p93
+aS'probe:482'
+p94
+aS'motorcycle:490'
+p95
+aS'blast probe:494'
+p96
+asS'unexpl'
+p97
+(lp98
+g44
+asS'ocassion'
+p99
+g44
+sS'link'
+p100
+S'http://www.thehindu.com/todays-paper/delhi-police-await-report-on-explosives-used-in-blast/article2902046.ece'
+p101
+sS'date'
+p102
+S'16-02-2012'
+p103
+sS'target'
+p104
+S'Government Building'
+p105
+sS'hot_spot'
+p106
+S'Israeli Embassy '
+p107
+sS'delivery_mod'
+p108
+g44
+sS'delivery_met'
+p109
+g44
+sS'expl'
+p110
+(lp111
+g44
+ag44
+asS'ORG'
+p112
+(lp113
+(lp114
+S'Bangkok Police'
+p115
+aS'17'
+p116
+aS'Others'
+p117
+aa(lp118
+S'Delhi Police'
+p119
+aS'42'
+p120
+aS'Others'
+p121
+aa(lp122
+S'CBI'
+p123
+aS'51'
+p124
+aS'Others'
+p125
+aa(lp126
+S'Central Forensic Science Laboratory'
+p127
+aS'53'
+p128
+aS'Others'
+p129
+aa(lp130
+S'Israeli official'
+p131
+aS'99'
+p132
+aS'Victim'
+p133
+aa(lp134
+S'Delhi Police'
+p135
+aS'247'
+p136
+aS'Others'
+p137
+aa(lp138
+S'Delhi Police'
+p139
+aS'487'
+p140
+aS'Others'
+p141
+aa(lp142
+S'Delhi Police'
+p143
+aS'500'
+p144
+aS'Others'
+p145
+aas.

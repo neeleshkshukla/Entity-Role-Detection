@@ -1,0 +1,144 @@
+{
+    "LOC": [
+        [
+            "Damascus", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Barzeh", 
+            "166", 
+            "Assoc Event Location"
+        ], 
+        [
+            "United States", 
+            "206", 
+            "Neutral"
+        ], 
+        [
+            "Russia and UN", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Syria", 
+            "244", 
+            "Event"
+        ], 
+        [
+            "Daraa", 
+            "253", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "UN chief Ban Ki-moon", 
+            "237", 
+            "Comment"
+        ], 
+        [
+            "chief Ban Ki-moon", 
+            "238", 
+            "Comment"
+        ], 
+        [
+            "Ban Ki-moon", 
+            "239", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Damascus on Thursday:7", 
+        "Friday:101", 
+        "May 10:141", 
+        "May 10 , 2012 : 141", 
+        "Barzeh on Thursday:166"
+    ], 
+    "death": "83", 
+    "title": "Spate of bombings 'kills 83 in Damascus'", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        " Damascus", 
+        "near the headquarters of the ruling Baath party "
+    ], 
+    "terror_group": [
+        "jihadist Al-Nusra Front"
+    ], 
+    "content": "A spate of car bombings in Damascus on Thursday killed at least 83 people , including more than 60 in an attack near the headquarters of the ruling Baath party , a watchdog said . The most lethal attack , in central Damascus , was by a suicide bomber who detonated his explosives-laden car near the entrance of the Baath party 's main offices , said the Syrian Observatory for Human Rights . The majority of the 61 people who died in the powerful blast were civilians , including many children from a nearby school , the Observatory said on Friday , adding 17 were members of the security forces . The attack was the deadliest in Damascus since bombers first began targeting Damascus about a year ago . Twin suicide bombings killed 55 people in the Syrian capital on May 10 , 2012 . Another 22 people were killed in an apparently coordinated triple bombing targeting security headquarters in the northern Damascus district of Barzeh on Thursday , including 19 members of the forces , said the Observatory . Attacks have increasingly targeted government or security buildings in Damascus in recent months , many of them claimed by the jihadist Al-Nusra Front which the United States has designated as a `` terrorist '' group . Thursday 's attacks were condemned by both the regime and opposition as well as the United States , Russia and UN chief Ban Ki-moon . Elsewhere in Syria , 38 people were killed on Thursday in Daraa , cradle of the anti-regime revolt in the south of the country , including 18 in an air raid on a medical centre , the Britain-based Observatory said.AFP OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "spate:2", 
+        "car:4", 
+        "damascus:7", 
+        "attack:22", 
+        "ruling baath:28", 
+        "baath party:29", 
+        "watchdog:33", 
+        "attack:39", 
+        "central damascus:42", 
+        "suicide bomber:48", 
+        "baath party:60", 
+        "Baath party 's main offices:60", 
+        "party:61", 
+        "blast:85", 
+        "observatory:98", 
+        "security:109", 
+        "attack:113", 
+        "Twin suicide bombings:130", 
+        "suicide:131", 
+        "bombing:156", 
+        "security:158", 
+        "security headquarters:158", 
+        "northern damascus:162", 
+        "damascus district:163", 
+        "barzeh:166", 
+        "observatory:179", 
+        "damascus:190", 
+        "jihadist al-nusra:201", 
+        "jihadist:201", 
+        "al-nusra front:202", 
+        "front:203", 
+        "terrorist:213", 
+        "group:215", 
+        "regime:225", 
+        "opposition:227", 
+        "un:237", 
+        "daraa:253", 
+        "cradle:255", 
+        "anti-regime revolt:258", 
+        "revolt:259", 
+        "air raid:271", 
+        "Britain-based Observatory:279"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-in-school/spate-of-bombings-kills-83-in-damascus/article4444508.ece", 
+    "date": "21-02-2013", 
+    "target": "Government Building", 
+    "hot_spot": " headquarters of the ruling Baath party", 
+    "delivery_mod": "Four wheeler", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "explosives"
+    ], 
+    "ORG": [
+        [
+            "jihadist Al-Nusra Front", 
+            "201", 
+            "Accused"
+        ], 
+        [
+            "UN", 
+            "237", 
+            "Others"
+        ]
+    ]
+}

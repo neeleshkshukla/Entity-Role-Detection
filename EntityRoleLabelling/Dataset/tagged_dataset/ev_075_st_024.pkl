@@ -1,0 +1,340 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Jaipur'
+p4
+aS'10'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Hanuman temple'
+p8
+aS'30'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Jodhpur'
+p12
+aS'80'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Hawa Mahal'
+p16
+aS'138'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Tripolia Bazar'
+p20
+aS'152'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Hanuman temple'
+p24
+aS'164'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Johari Bazar'
+p28
+aS'167'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Manas Chowk'
+p32
+aS'170'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Badi Choupal'
+p36
+aS'173'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Choti Choupal'
+p40
+aS'176'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Jaipur'
+p44
+aS'193'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Hanuman temple'
+p48
+aS'228'
+p49
+aS'Event'
+p50
+aa(lp51
+S'Jaipur'
+p52
+aS'269'
+p53
+aS'Event'
+p54
+aa(lp55
+S'Rajasthan'
+p56
+aS'271'
+p57
+aS'Event'
+p58
+aa(lp59
+S'Jaipur'
+p60
+aS'321'
+p61
+aS'Event'
+p62
+aa(lp63
+S'Kotwali'
+p64
+aS'350'
+p65
+aS'Event'
+p66
+aa(lp67
+S'Hanuman temple'
+p68
+aS'412'
+p69
+aS'Event'
+p70
+aa(lp71
+S'Tripolia bazar'
+p72
+aS'415'
+p73
+aS'Event'
+p74
+aa(lp75
+S'Jaipur'
+p76
+aS'443'
+p77
+aS'Event'
+p78
+aa(lp79
+S'Hanuman Mandir'
+p80
+aS'460'
+p81
+aS'Event'
+p82
+aa(lp83
+S'India'
+p84
+aS'482'
+p85
+aS'Event'
+p86
+aa(lp87
+S'India'
+p88
+aS'497'
+p89
+aS'Event'
+p90
+aasS'PER'
+p91
+(lp92
+(lp93
+S'Vasundhara Raje'
+p94
+aS'69'
+p95
+aS'Comment'
+p96
+aa(lp97
+S'Pankaj Singh'
+p98
+aS'195'
+p99
+aS'Comment'
+p100
+aa(lp101
+S'A S Gill'
+p102
+aS'276'
+p103
+aS'Comment'
+p104
+aa(lp105
+S'Lalit Modi'
+p106
+aS'431'
+p107
+aS'Comment'
+p108
+aa(lp109
+S'Narayanan'
+p110
+aS'492'
+p111
+aS'Comment'
+p112
+aasS'TIM'
+p113
+(lp114
+sS'hot_setting'
+p115
+S''
+p116
+sS'DAT'
+p117
+(lp118
+S'Tuesday:21'
+p119
+aS'Tuesday:423'
+p120
+aS'Saturday:445'
+p121
+asS'death'
+p122
+S'60'
+p123
+sS'title'
+p124
+S'60 killed, 150 hurt in Jaipur blasts: CM'
+p125
+sS'org_unorg'
+p126
+g116
+sS'terror_group'
+p127
+(lp128
+S'HARKAT-UL-MUJAHIDEEN OR HARKAT-UL-ANSAR OR HARKAT-UL-JEHAD-E-ISLAMI'
+p129
+asS'content'
+p130
+V. . Terrorists struck for the first time in Jaipur triggering seven blasts in a span of 12 minutes on Tuesday night in crowded market areas and near a Hanuman temple in the walled city leaving at least 60 killed and 200 injured . . . ` According to the information I have received 60 people have died and 150 have been injured , ' said Chief Minister Vasundhara Raje , who rushed back to the state capital from Jodhpur . . . Bangladesh-based Harkut-ul-Jehadi Islami is suspected to be behind the blasts that has taken the state authorities by surprise , home ministry sources said . The sources ruled out the use of RDX in the carefully orchestrated low-intensity explosions which were suspected to have been set off from cycles in areas including near the famous Hawa Mahal which are frequented by domestic and foreign tourists . The blasts rocked Tripolia Bazar , where large number of devotees turned up at a Hanuman temple , Johari Bazar , Manas Chowk , Badi Choupal and Choti Choupal -- all located within a two-km radius in the old city . Inspector General -LRB- Jaipur -RRB- Pankaj Singh said in all there were seven blasts , a couple of them in the same area . . . Police said one explosive was defused by bomb disposal squad near the Hanuman temple . . . Blood was splattered at the scene of the blasts which tossed some of the victims several feet up in the sky . . . The Centre rushed bomb data squad of the National Security Guards to Jaipur . Rajasthan Director General of Police A S Gill said the blasts were ` obviously a terror attack . ' . . Doctors said many of the victims had shrapnel injuries . They feared that the toll may go up further . . . Rapid Action Force personnel were deployed in Jaipur to help deal with the situation as security was beefed up . One of the blasts took place in a car and another near a handloom shop in Kotwali area of the city , home department sources said . Most of the injured were rushed to Sawai Man Singh hospital . Bodies of several victims lay strewn in the corridors of hospitals . The blasts triggered a near-stampede situation at the blast sites were crammed with peak-hour shoppers and panic-stricken people ran helter skelter in search of safety . The Hanuman temple at Tripolia bazar was crowded with worshippers being a Tuesday . . . Indian Premier League Commisioner Lalit Modi said said the league match scheduled to be played in Jaipur on Saturday will go on as planned.Image : The scene near the blast site at the Hanuman Mandir in ChandpoleReportage : PTI | Photograph : Rajesh KumawatAlso Read : Trapped in Terror 's WakeIndia 's counter-terrorism strategyTerrorism : India 's unending warISI continues to train terror groups : Narayanan ` Most attacks in India by Pak-based terror groups ' A terrorist 's stunning revelationsWomen & kids : The new soldiers of terror .
+p131
+sS'injured'
+p132
+S'200'
+p133
+sS'det_loc'
+p134
+(lp135
+S'India'
+p136
+aS'Rajasthan'
+p137
+aS'Jaipur'
+p138
+aS'Jaipur'
+p139
+ag116
+asS'O'
+p140
+(lp141
+S'terrorists struck for the first time in jaipur:3'
+p142
+aS'seven blasts in a span of 12 minutes:12'
+p143
+aS'RDX:115'
+p144
+aS'carefully orchestrated low-intensity:118'
+p145
+aS'frequented by domestic and foreign tourists:142'
+p146
+aS'one explosive was defused:218'
+p147
+aS'centre rushed bomb data squad:258'
+p148
+aS'rapid action force personnel were deployed:314'
+p149
+aS'handloom shop:347'
+p150
+aS'several victims lay strewn in the corridors of hospitals:375'
+p151
+aS'near-stampede situation:389'
+p152
+asS'unexpl'
+p153
+(lp154
+S'NAILS'
+p155
+asS'ocassion'
+p156
+g116
+sS'link'
+p157
+S'http://www.rediff.com/news/2008/may/13rajblast.htm'
+p158
+sS'date'
+p159
+S'13-05-2008'
+p160
+sS'target'
+p161
+S'MARKET PLACE'
+p162
+sS'hot_spot'
+p163
+g116
+sS'delivery_mod'
+p164
+S'BYCICLE'
+p165
+sS'delivery_met'
+p166
+S'PLANTED'
+p167
+sS'expl'
+p168
+(lp169
+g116
+asS'ORG'
+p170
+(lp171
+(lp172
+S'Harkut-ul-Jehadi Islami'
+p173
+aS'85'
+p174
+aS'Accused'
+p175
+aa(lp176
+S'National Security Guards'
+p177
+aS'265'
+p178
+aS'Others'
+p179
+aa(lp180
+S'Sawai Man Singh hospital'
+p181
+aS'368'
+p182
+aS'Others'
+p183
+aa(lp184
+S'Indian Premier League'
+p185
+aS'427'
+p186
+aS'Others'
+p187
+aas.

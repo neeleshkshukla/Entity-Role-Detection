@@ -1,0 +1,443 @@
+{
+    "LOC": [
+        [
+            "Sri Lankan", 
+            "9", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "14", 
+            "Neutral"
+        ], 
+        [
+            "German Bakery", 
+            "15", 
+            "Event"
+        ], 
+        [
+            "Colombo", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "101", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "108", 
+            "Neutral"
+        ], 
+        [
+            "India", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Udgir", 
+            "119", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "122", 
+            "Neutral"
+        ], 
+        [
+            "Latur", 
+            "124", 
+            "Neutral"
+        ], 
+        [
+            "Udgir", 
+            "169", 
+            "Neutral"
+        ], 
+        [
+            "Udgir", 
+            "225", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "242", 
+            "Neutral"
+        ], 
+        [
+            "Udgir", 
+            "279", 
+            "Neutral"
+        ], 
+        [
+            "Latur", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Udgir", 
+            "300", 
+            "Neutral"
+        ], 
+        [
+            "Latur", 
+            "302", 
+            "Neutral"
+        ], 
+        [
+            "Udgir", 
+            "405", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mirza Himayat Inayat Baig", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "55", 
+            "Accused"
+        ], 
+        [
+            "Faiyaz Kagzi", 
+            "70", 
+            "Accused"
+        ], 
+        [
+            "Zabiuddin Ansari", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "Kagzi", 
+            "80", 
+            "Accused"
+        ], 
+        [
+            "Ansari", 
+            "82", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "84", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "110", 
+            "Accused"
+        ], 
+        [
+            "Yusuf", 
+            "130", 
+            "Accused"
+        ], 
+        [
+            "Hasan", 
+            "133", 
+            "Accused"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "151", 
+            "Accused"
+        ], 
+        [
+            "Iqbal Bhatkal", 
+            "154", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "161", 
+            "Accused"
+        ], 
+        [
+            "Mohsin Chowdhary", 
+            "164", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "167", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "199", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "220", 
+            "Accused"
+        ], 
+        [
+            "Chowdhary", 
+            "222", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "240", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "266", 
+            "Accused"
+        ], 
+        [
+            "Chowdhary", 
+            "268", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "318", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "350", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "371", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "391", 
+            "Accused"
+        ], 
+        [
+            "Rehman", 
+            "396", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "433", 
+            "Accused"
+        ], 
+        [
+            "Khayum Ayub Shaikh", 
+            "442", 
+            "Accused"
+        ], 
+        [
+            "Immadoddin Ahmed Shaikh", 
+            "446", 
+            "Accused"
+        ], 
+        [
+            "Khurshid Alam", 
+            "468", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "474", 
+            "Accused"
+        ], 
+        [
+            "Khayum Ayub Shaikh", 
+            "484", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "501", 
+            "Accused"
+        ], 
+        [
+            "A. Rehman", 
+            "504", 
+            "Comment"
+        ], 
+        [
+            "Baig", 
+            "513", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "5 p.m.:330", 
+        "6.50 p.m.:338"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "March 2008:43", 
+        "January 2010:141", 
+        "January 31:196", 
+        "February:218", 
+        "February 13:309", 
+        "Monday:520"
+    ], 
+    "death": "17", 
+    "title": "German Bakery blast mastermind had training in Colombo: ATS", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)", 
+        "Indian Mujahideen", 
+        "Students Islamic Movement of India"
+    ], 
+    "content": "The Maharashtra Anti-Terrorism Squad has finally established the Sri Lankan connection in the Pune German Bakery blast case . Mirza Himayat Inayat Baig , the alleged mastermind , underwent training to assemble explosive devices and cause their explosion ' in Colombo in March 2008 , says the charge sheet filed by the ATS against Baig and six other accused . He was trained by two of the accused , Faiyaz Kagzi and Zabiuddin Ansari . The charge sheet says Kagzi and Ansari gave Baig money or funding the purchase of explosive devices and the travel of indoctrinated Muslim youth to Pakistan for training . After training in Pakistan , Baig returned to India and lived in the non-descript Udgir taluk in Maharashtra 's Latur district under concealed identity as Yusuf ' and Hasan ' . In the last week of January 2010 , on instructions from two of the accused Riyaz Bhatkal and Iqbal Bhatkal , the other two accused Yasin Bhatkal and Mohsin Chowdhary met Baig in Udgir to discuss , finalise and put into execution the plan to cause the bomb explosion at German Bakery , according to the charge sheet . On January 31 , Baig conducted a recce and decided the timing of planting the explosive device . In the first week of February , Yasin and Chowdhary went to Udgir again to give finishing touches to the plan . Thereafter , the duo accompanied Baig to Mumbai , where a haversack and a Nokia 1100 model mobile phone ( which was used to trigger the explosion ) were bought . Yasin and Chowdhary assembled the explosive device at the Global Internet Caf in Udgir . The charge sheet says the three conspirators then travelled to Latur , taking private transport , and again from Udgir to Latur in a state corporation bus on February 13 , the day of the blast . Yasin proceeded to the German Bakery and planted the bomb at about 5 p.m. , and it went off at 6.50 p.m. , killing 17 people . All the accused , including Baig , are part of the banned Students Islamic Movement of India and the Lashkar-e-Taiba , the charge sheet states . Baig is also believed to be an operator of the terror outfit , Indian Mujahideen . The ATS contends that Baig had used his friend Rehman 's bank account to make various transactions from Udgir . He used 25 e-mail IDs to communicate with the other accused , while the plan was being hatched . In pursuance of the conspiracy , ' Baig acquired forged voter cards under two names , Khayum Ayub Shaikh and Immadoddin Ahmed Shaikh , the charge sheet states . He had even a forged handicapped person card . The Latur police said Khurshid Alam , who allegedly helped Baig acquire the forged voter card under the name of Khayum Ayub Shaikh , is on the run . Falsely implicated Commenting on the charge sheet , Baig 's lawyer A. Rehman said his client was falsely implicated . Baig was given the charge sheet on Monday in the first class judicial magistrate court . The case is now moved to the sessions . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Pune", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "squad:4", 
+        "sri lankan:9", 
+        "connection:11", 
+        "blast case:17", 
+        "mastermind:27", 
+        "training:30", 
+        "explosive:33", 
+        "cause:36", 
+        "explosion:38", 
+        "charge sheet:48", 
+        "charge sheet:77", 
+        "money:85", 
+        "funding:87", 
+        "purchase:89", 
+        "explosive:91", 
+        "travel:95", 
+        "youth:99", 
+        "training:103", 
+        "training:106", 
+        "taluk:120", 
+        "district:125", 
+        "identity:128", 
+        "yusuf:130", 
+        "week:139", 
+        "baig:167", 
+        "execution:177", 
+        "plan:179", 
+        "cause:181", 
+        "bomb explosion:183", 
+        "charge sheet:192", 
+        "recce:202", 
+        "timing:206", 
+        "explosive device:210", 
+        "week:216", 
+        "yasin and chowdhary:220", 
+        "yasin:220", 
+        "chowdhary:222", 
+        "plan:233", 
+        "duo:238", 
+        "baig:240", 
+        "haversack:246", 
+        "model:251", 
+        "phone:253", 
+        "trigger:259", 
+        "explosion:261", 
+        "yasin:266", 
+        "yasin and chowdhary:266", 
+        "chowdhary:268", 
+        "explosive device:271", 
+        "internet caf:276", 
+        "charge sheet:282", 
+        "transport:295", 
+        "state corporation bus:305", 
+        "day:313", 
+        "blast:316", 
+        "yasin:318", 
+        "bomb:327", 
+        "part:353", 
+        "islamic movement:358", 
+        "lashkar-e-taiba:364", 
+        "charge sheet:367", 
+        "operator:378", 
+        "terror outfit:381", 
+        "friend rehman:395", 
+        "friend:395", 
+        "rehman:396", 
+        "bank account:398", 
+        "e-mail:410", 
+        "plan:421", 
+        "pursuance:427", 
+        "conspiracy:430", 
+        "baig:433", 
+        "voter:436", 
+        "charge sheet:451", 
+        "person card:461", 
+        "acquire:475", 
+        "voter card:478", 
+        "name:482", 
+        "run:491", 
+        "charge sheet:498", 
+        "client:508", 
+        "charge sheet:517", 
+        "class:524", 
+        "magistrate court:526", 
+        "case:530"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/german-bakery-blast-mastermind-had-training-in-colombo-ats/article936438.ece", 
+    "date": "13-02-2010", 
+    "target": "Hotel and Restaurant", 
+    "hot_spot": "German Bakery blast case", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "German Bakery", 
+            "186", 
+            "Victim"
+        ], 
+        [
+            "Global Internet Caf", 
+            "275", 
+            "Others"
+        ], 
+        [
+            "German Bakery", 
+            "322", 
+            "Victim"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "357", 
+            "Accused"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "364", 
+            "Accused"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "384", 
+            "Accused"
+        ], 
+        [
+            "Latur police", 
+            "465", 
+            "Others"
+        ]
+    ]
+}

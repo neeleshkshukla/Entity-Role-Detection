@@ -1,0 +1,652 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Assam'
+p4
+aS'4'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Assam'
+p8
+aS'5'
+p9
+aS'Event'
+p10
+aa(lp11
+S'GUWAHATI'
+p12
+aS'19'
+p13
+aS'Event'
+p14
+aa(lp15
+S'U.S.'
+p16
+aS'25'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'India'
+p20
+aS'28'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Assam'
+p24
+aS'88'
+p25
+aS'Event'
+p26
+aa(lp27
+S'United States'
+p28
+aS'123'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'India'
+p32
+aS'276'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Assam'
+p36
+aS'324'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Assam'
+p40
+aS'359'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Bhutan'
+p44
+aS'615'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Bangladesh'
+p48
+aS'620'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Myanmar'
+p52
+aS'622'
+p53
+aS'Neutral'
+p54
+aasS'PER'
+p55
+(lp56
+(lp57
+S'Mulford'
+p58
+aS'8'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Sushanta Talukdar'
+p62
+aS'15'
+p63
+aS'Others'
+p64
+aa(lp65
+S'David C. Mulford'
+p66
+aS'30'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Shivraj Patil'
+p70
+aS'64'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Mulford'
+p74
+aS'85'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Tarun Gogoi'
+p78
+aS'92'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Shivraj Patil'
+p82
+aS'173'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Gogoi'
+p86
+aS'225'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Gogoi'
+p90
+aS'280'
+p91
+aS'Comment'
+p92
+aa(lp93
+S'Gogoi'
+p94
+aS'337'
+p95
+aS'Others'
+p96
+aa(lp97
+S'Gogoi'
+p98
+aS'365'
+p99
+aS'Comment'
+p100
+aa(lp101
+S'Gogoi'
+p102
+aS'417'
+p103
+aS'Comment'
+p104
+aa(lp105
+S'Gogoi'
+p106
+aS'484'
+p107
+aS'Comment'
+p108
+aa(lp109
+S'Gogoi'
+p110
+aS'572'
+p111
+aS'Comment'
+p112
+aa(lp113
+S'L.K. Advani'
+p114
+aS'586'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Gogoi'
+p118
+aS'603'
+p119
+aS'Others'
+p120
+aasS'TIM'
+p121
+(lp122
+S'yesterday : 57'
+p123
+aS'morning : 82'
+p124
+aS'morning : 228'
+p125
+aS'weekend : 327'
+p126
+asS'hot_setting'
+p127
+S''
+p128
+sS'DAT'
+p129
+(lp130
+S'OCT. 5 : 21'
+p131
+aS'October 4:73'
+p132
+aS'October 2-3 : 329'
+p133
+aS'October 2 : 404'
+p134
+asS'death'
+p135
+S'30'
+p136
+sS'title'
+p137
+S'Assam attacks: Mulford  offers FBI help'
+p138
+sS'det_loc'
+p139
+(lp140
+S'India'
+p141
+aS'Assam'
+p142
+aS'Kamrup'
+p143
+aS'Guwahati'
+p144
+ag128
+asS'terror_group'
+p145
+(lp146
+S'NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)'
+p147
+asS'content'
+p148
+VOther States - Assam Assam attacks : Mulford offers FBI help . . By Sushanta Talukdar . . GUWAHATI , OCT. 5 . The U.S. Ambassador to India , David C. Mulford , today offered to provide technical expertise to the Assam Government in investigating bomb attacks by militants . He had made the same offer yesterday to the Union Home Minister , Shivraj Patil . . . In his letter dated October 4 , faxed by the U.S. Embassy this morning , Mr. Mulford wrote to Assam Chief Minister , Tarun Gogoi , that the Federal Bureau of Investigation -LRB- FBI -RRB- would be pleased to provide technical support in the investigation . . . ` In this context , the United States has considerable expertise in investigative techniques including , for example , such areas as forensic analysis of explosive residues . Should you find it helpful , the FBI would be pleased to provide technical support for your investigation . I have also made this offer to Home Minister Shivraj Patil . I hope you will feel free to contact me if there is any other way that we can be helpful , ' the letter said . . . National security . . A copy of the letter was made available to reporters during a press conference addressed by Mr. Gogoi here this morning . . . The Chief Minister said he was willing to take the help of the FBI , provided the Centre agreed to it . ' I am for it -LSB- taking help of the FBI -RSB- . I will take it up with the Government of India , ' Mr. Gogoi said . He , however , said that it -LRB- taking help from FBI -RRB- can not be at the cost of national security . . . Offering his ` sincere condolences ' in the wake of the ` terrorist attacks ' in Assam over the weekend of October 2-3 , the U.S. Ambassador wished Mr. Gogoi all success in apprehending the ` terrorists who have carried out these senseless attacks and in restoring peace and tranquillity to Assam . ' . . Mr. Gogoi said that 30 people were killed and 190 injured in serial blasts and incidents of indiscriminate firing by the outlawed National Democratic Front of Bodoland -LRB- NDFB -RRB- and United Liberation Front of Asom -LRB- ULFA -RRB- since October 2 . Describing the situation as ` very disturbing , ' Mr. Gogoi said the State Government had vowed to carry on with the development activities despite the sabotage bid by militants . . . He , however , said that neither the Assam Government nor other States in the region could afford to be complacent as a ` bigger force inimical to the country had been trying to disrupt the whole of North-east . ' . . Mr. Gogoi said the State Government had decided to recruit 16,000 home guards and 6,000 Assam Police personnel and form 11,000 more groups of Village Defence Party -LRB- VDP -RRB- . It would also raise two more India Reserve Battalions to counter the militants ' new strategy of attacking soft targets . He also said vigilance committees at the village level and market level would be constituted to ensure a strict vigil by public along with the security forces . . . ` Frivolous charges ' . . Mr. Gogoi described as ` frivolous and baseless ' the former Deputy Prime Minister , L.K. Advani 's allegation that the Congress had nexus with the ULFA . It was he -LRB- Gogoi -RRB- who had insisted on demolition of militants ' camps in Bhutan as well as in Bangladesh and Myanmar . . . Instead of responding to the Governments ' appeal for unconditional talks , the militants had stepped up violence . Asked to comment on a statement by the NDFB asking its cadre to prepare for talks , the Chief Minister said that the State Government would first have to confirm the genuineness of the statement published in a section of the media . He , however , reiterated that door was always open for unconditional talks .
+p149
+sS'injured'
+p150
+S'190'
+p151
+sS'org_unorg'
+p152
+S'ORGANISED'
+p153
+sS'O'
+p154
+(lp155
+S'Assam attacks:5'
+p156
+aS'offered:35'
+p157
+aS'technical expertise:38'
+p158
+aS'investigating bomb attacks:45'
+p159
+aS'militants:49'
+p160
+aS'faxed:76'
+p161
+aS'pleased:106'
+p162
+aS'technical support:109'
+p163
+aS'investigation:113'
+p164
+aS'expertise:127'
+p165
+aS'investigative:129'
+p166
+aS'techniques:130'
+p167
+aS'forensic analysis:139'
+p168
+aS'explosive residues:142'
+p169
+aS'technical support:158'
+p170
+aS'investigation:162'
+p171
+aS'helpful:195'
+p172
+aS'letter:212'
+p173
+aS'reporters:217'
+p174
+aS'press conference:220'
+p175
+aS'willing:238'
+p176
+aS'help:242'
+p177
+aS'Centre:249'
+p178
+aS'Government of India:274'
+p179
+aS'national security:303'
+p180
+aS'sincere condolences:311'
+p181
+aS'terrorist attacks:320'
+p182
+aS'success:339'
+p183
+aS'apprehending:341'
+p184
+aS'terrorists:344'
+p185
+aS'senseless attacks:350'
+p186
+aS'restoring peace:354'
+p187
+aS'tranquillity:357'
+p188
+aS'killed:371'
+p189
+aS'injured:374'
+p190
+aS'serial blasts:376'
+p191
+aS'incidents:379'
+p192
+aS'indiscriminate firing:381'
+p193
+aS'outlawed:385'
+p194
+aS'situation:409'
+p195
+aS'very disturbing:412'
+p196
+aS'vowed:423'
+p197
+aS'development activities:429'
+p198
+aS'sabotage bid:433'
+p199
+aS'militants:436'
+p200
+aS'States:452'
+p201
+aS'complacent:460'
+p202
+aS'bigger force inimical:464'
+p203
+aS'disrupt:474'
+p204
+aS'North-east:478'
+p205
+aS'recruit 16,000 home guards:492'
+p206
+aS'6,000 Assam Police personnel:497'
+p207
+aS'counter:524'
+p208
+aS'militants:526'
+p209
+aS'strategy:529'
+p210
+aS'attacking soft targets:531'
+p211
+aS'vigilance committees:538'
+p212
+aS'village level:542'
+p213
+aS'market level:545'
+p214
+aS'strict vigil:553'
+p215
+aS'security forces:560'
+p216
+aS'Frivolous charges:566'
+p217
+aS'frivolous and baseless:576'
+p218
+aS'allegation:589'
+p219
+aS'nexus:594'
+p220
+aS'insisted:607'
+p221
+aS'demolition:609'
+p222
+aS"militants ' camps:611"
+p223
+aS'Governments:631'
+p224
+aS'unconditional talks:635'
+p225
+aS'militants:639'
+p226
+aS'stepped up violence:641'
+p227
+aS'statement:650'
+p228
+aS'cadre:656'
+p229
+aS'talks:660'
+p230
+aS'confirm:674'
+p231
+aS'genuineness:676'
+p232
+aS'published:680'
+p233
+aS'media:686'
+p234
+aS'reiterated:692'
+p235
+aS'unconditional talks:699'
+p236
+asS'unexpl'
+p237
+(lp238
+g128
+asS'ocassion'
+p239
+g128
+sS'link'
+p240
+S'http://www.thehindu.com/2004/10/06/stories/2004100603201100.htm'
+p241
+sS'date'
+p242
+S'15-08-2004'
+p243
+sS'target'
+p244
+S'CITY'
+p245
+sS'hot_spot'
+p246
+g128
+sS'delivery_mod'
+p247
+g128
+sS'delivery_met'
+p248
+S'PLANTED'
+p249
+sS'expl'
+p250
+(lp251
+g128
+asS'ORG'
+p252
+(lp253
+(lp254
+S'FBI'
+p255
+aS'10'
+p256
+aS'Others'
+p257
+aa(lp258
+S'U.S. Ambassador'
+p259
+aS'25'
+p260
+aS'Others'
+p261
+aa(lp262
+S'Assam Government'
+p263
+aS'42'
+p264
+aS'Others'
+p265
+aa(lp266
+S'U.S. Embassy'
+p267
+aS'79'
+p268
+aS'Others'
+p269
+aa(lp270
+S'Federal Bureau of Investigation'
+p271
+aS'97'
+p272
+aS'Others'
+p273
+aa(lp274
+S'FBI'
+p275
+aS'102'
+p276
+aS'Others'
+p277
+aa(lp278
+S'FBI'
+p279
+aS'152'
+p280
+aS'Others'
+p281
+aa(lp282
+S'National security'
+p283
+aS'204'
+p284
+aS'Others'
+p285
+aa(lp286
+S'FBI'
+p287
+aS'245'
+p288
+aS'Others'
+p289
+aa(lp290
+S'FBI'
+p291
+aS'264'
+p292
+aS'Others'
+p293
+aa(lp294
+S'FBI'
+p295
+aS'294'
+p296
+aS'Others'
+p297
+aa(lp298
+S'U.S. Ambassador'
+p299
+aS'333'
+p300
+aS'Others'
+p301
+aa(lp302
+S'National Democratic Front of Bodoland'
+p303
+aS'386'
+p304
+aS'Accused'
+p305
+aS'Others'
+p306
+aa(lp307
+S'NDFB'
+p308
+aS'392'
+p309
+aS'Accused'
+p310
+aa(lp311
+S'United Liberation Front of Asom'
+p312
+aS'395'
+p313
+aS'Accused'
+p314
+aa(lp315
+S'ULFA'
+p316
+aS'401'
+p317
+aS'Accused'
+p318
+aa(lp319
+S'State Government'
+p320
+aS'420'
+p321
+aS'Others'
+p322
+aa(lp323
+S'Assam Government'
+p324
+aS'448'
+p325
+aS'Others'
+p326
+aa(lp327
+S'State Government'
+p328
+aS'487'
+p329
+aS'Others'
+p330
+aa(lp331
+S'Village Defence Party'
+p332
+aS'507'
+p333
+aS'Others'
+p334
+aa(lp335
+S'VDP'
+p336
+aS'511'
+p337
+aS'Others'
+p338
+aa(lp339
+S'India Reserve Battalions'
+p340
+aS'520'
+p341
+aS'Others'
+p342
+aa(lp343
+S'ULFA'
+p344
+aS'597'
+p345
+aS'Accused'
+p346
+aa(lp347
+S'NDFB'
+p348
+aS'653'
+p349
+aS'Accused'
+p350
+aa(lp351
+S'State Government'
+p352
+aS'668'
+p353
+aS'Others'
+p354
+aas.

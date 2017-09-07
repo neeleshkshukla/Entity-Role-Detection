@@ -1,0 +1,479 @@
+{
+    "LOC": [
+        [
+            "Jaipur", 
+            "38", 
+            "Event"
+        ], 
+        [
+            "Sanjarpur", 
+            "77", 
+            "Accused Location"
+        ], 
+        [
+            "Azamgarh", 
+            "80", 
+            "Accused Location"
+        ], 
+        [
+            "Siddharth Nagar", 
+            "90", 
+            "Neutral"
+        ], 
+        [
+            "India-Nepal border", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "132", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "134", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "136", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "138", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "140", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "146", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "161", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Jaipur", 
+            "180", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "208", 
+            "Neutral"
+        ], 
+        [
+            "Jaipur", 
+            "327", 
+            "Event"
+        ], 
+        [
+            "Mumbai", 
+            "430", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "486", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "635", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "748", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "750", 
+            "Event"
+        ], 
+        [
+            "Azamgarh", 
+            "757", 
+            "Accused Location"
+        ], 
+        [
+            "India-Nepal border", 
+            "766", 
+            "Neutral"
+        ], 
+        [
+            "Varanasi", 
+            "780", 
+            "Event"
+        ], 
+        [
+            "Gorakhpur", 
+            "782", 
+            "Event"
+        ], 
+        [
+            "Jaipur", 
+            "784", 
+            "Event"
+        ], 
+        [
+            "Ahmedabad", 
+            "786", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "788", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammed Salman", 
+            "31", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "187", 
+            "Accused"
+        ], 
+        [
+            "Atif Amin", 
+            "198", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "281", 
+            "Accused"
+        ], 
+        [
+            "Paikar Farooq", 
+            "299", 
+            "Others"
+        ], 
+        [
+            "Salman", 
+            "312", 
+            "Accused"
+        ], 
+        [
+            "Kapil Bhargava", 
+            "364", 
+            "Others"
+        ], 
+        [
+            "Farooq", 
+            "417", 
+            "Comment"
+        ], 
+        [
+            "Salman", 
+            "422", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "493", 
+            "Accused"
+        ], 
+        [
+            "Farooq", 
+            "562", 
+            "Comment"
+        ], 
+        [
+            "R.C. Ramdhari", 
+            "583", 
+            "Others"
+        ], 
+        [
+            "Farooq", 
+            "604", 
+            "Comment"
+        ], 
+        [
+            "Salman", 
+            "615", 
+            "Accused"
+        ], 
+        [
+            "Shahbaz Ahmed", 
+            "657", 
+            "Accused"
+        ], 
+        [
+            "Mohammed Sarvar", 
+            "660", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "732", 
+            "Accused"
+        ], 
+        [
+            "Salman", 
+            "752", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [
+        "Salman : 64"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "May 2008:36", 
+        "Tuesday:71", 
+        "March 6 , 2010:97", 
+        "February:150", 
+        "September 2008:159", 
+        "2000:250", 
+        "June 21:277", 
+        "1992:316", 
+        "October 3 , 1992 : 455", 
+        "Wednesday:568", 
+        "Thursday:601", 
+        "May 13 , 2008 : 681", 
+        "March 2010:769"
+    ], 
+    "death": "", 
+    "title": "Jaipur blasts case accused a minor'", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "In a major setback to the Rajasthan Anti-Terrorism Squad ( ATS ) , the Sessions Court here has set aside an order of a lower court holding an accused , Mohammed Salman , in the May 2008 Jaipur serial blasts case to be a major and refusing to refer his case for adjudication to the Juvenile Justice Board . The Sessions Court allowed Salman 's appeal against the order on Tuesday . Salman a native of Sanjarpur village in Azamgarh was picked up by the Uttar Pradesh ATS at Siddharth Nagar near the India-Nepal border on March 6 , 2010 , on the charge that he was involved in the conspiracy to carry out blasts at several places in the country . The ATS claimed that he had planted bombs in Varanasi , Gorakhpur , Jaipur , Ahmedabad and Delhi . After a court in Delhi discharged him in February this year of his alleged involvement in the September 2008 Delhi blasts case , the Rajasthan ATS took him into custody and arraigned him as an accused in the Jaipur blasts case . It claimed that Salman was an Indian Mujahideen operative and was in touch with Atif Amin killed in the controversial Batla House encounter in Delhi . Counsel for the accused raised the plea that he was a minor when he was alleged to have planted the bombs and his case should be heard under the Juvenile Justice ( Care & Protection of Children ) Act , 2000 . After considering an inquiry report of the ATS and the findings of a medical board , the Chief Metropolitan Magistrate ( CMM ) held on June 21 last that Salman had attained the age of majority . Challenging the CMM 's order through an appeal , counsel Paikar Farooq produced documentary evidence before the District and Sessions Judge proving that Salman was born in 1992 and was 16 years old when the serial blasts in Jaipur took place . It is a settled law that the -LSB- date of -RSB- birth is decided on the basis of educational records , he said while producing the mark-sheets of the accused . Sessions Judge Kapil Bhargava set aside the CMM 's order on the basis of the material produced before him and directed the accused to approach the Special Court hearing the blasts case with an application under Section 52 of the Juvenile Justice Act seeking transfer of his matter to the Juvenile Justice Board . Mr. Farooq said the records of Salman 's admission to a primary school in Mumbai as well as the mark-sheet issued by the Uttar Pradesh High School and Intermediate Education Board had conclusively proved that he was born on October 3 , 1992 . His custody in jail and his trial in the Special Court would amount to gross violation of his rights as a minor , he contended . Delhi 's Additional Sessions Judge had discharged Salman earlier this year with the observation that the Special Cell of Delhi Police had failed to furnish any evidence to back its charge that he had a role in the blasts in the national Capital . While the charge sheet had named him as a conspirator and a recruiter , the court found several inconsistencies in the police theory and the evidence produced by them unreliable . Mr. Farooq told The Hindu here on Wednesday that he had moved an application in the Special Court , presided over by R.C. Ramdhari , in accordance with the Sessions Judge 's order and it is listed for arguments this Thursday . Mr. Farooq said though the ATS was aware of the fact of Salman being a minor , it was trying to mislead the court by arguing that the CMM 's court in Delhi too had rejected his plea about his age . The Special Court here has framed charges against two of the accused Shahbaz Ahmed and Mohammed Sarvar in the case , holding them responsible for planning and executing at least three of the nine blasts on May 13 , 2008 , in which 70 people were killed and 186 injured . Even as civil rights groups have been questioning the government claim of having cracked the blasts case , the ATS has obtained arrest warrants against several youths with the claim that they are absconding . Besides Salman , some of the other accused also face charges in connection with the blasts in Delhi and Ahmedabad . Salman , a native of Azamgarh , was picked up by U.P. ATS near India-Nepal border in March 2010 The ATS claimed that he had planted bombs in Varanasi , Gorakhpur , Jaipur , Ahmedabad and Delhi OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Jaipur", 
+        ""
+    ], 
+    "O": [
+        "accused:29", 
+        "jaipur serial blasts case:38", 
+        "salman 's appeal:64", 
+        "charge:104", 
+        "conspiracy:111", 
+        "blasts:115", 
+        "planted bombs:129", 
+        "involvement:156", 
+        "delhi blasts case:161", 
+        "custody:171", 
+        "accused:177", 
+        "jaipur blasts case:180", 
+        "indian mujahideen operative:190", 
+        "touch:196", 
+        "atif amin:198", 
+        "killed:200", 
+        "batla house encounter:204", 
+        "counsel:210", 
+        "accused:213", 
+        "plea:216", 
+        "juvenile justice:239", 
+        "act , 2000:248", 
+        "inquiry report:255", 
+        "medical board:265", 
+        "chief metropolitan magistrate:269", 
+        "cmm:273", 
+        "cmm:291", 
+        "appeal:296", 
+        "counsel paikar farooq:298", 
+        "documentary evidence:302", 
+        "district and sessions judge:306", 
+        "serial blasts:324", 
+        "educational records:349", 
+        "mark-sheets:357", 
+        "sessions judge:362", 
+        "cmm:369", 
+        "court hearing:389", 
+        "blasts case:392", 
+        "juvenile justice act:402", 
+        "transfer:406", 
+        "admission:424", 
+        "primary school:427", 
+        "mark-sheet:435", 
+        "custody:461", 
+        "jail:463", 
+        "trial:466", 
+        "violation:475", 
+        "minor:481", 
+        "additional sessions judge:488", 
+        "special cell:502", 
+        "evidence:512", 
+        "charge:516", 
+        "blasts:524", 
+        "national capital:527", 
+        "charge sheet:532", 
+        "conspirator:539", 
+        "recruiter:542", 
+        "evidence:555", 
+        "unreliable:559", 
+        "sessions judge:590", 
+        "minor:618", 
+        "mislead:624", 
+        "cmm:631", 
+        "cmm 's court:631", 
+        "plea:640", 
+        "age:643", 
+        "accused:656", 
+        "killed:691", 
+        "injured:694", 
+        "government claim:705", 
+        "blasts case:711", 
+        "arrest warrants:718", 
+        "absconding:729", 
+        "accused:738", 
+        "face:740", 
+        "blasts:746", 
+        "planted bombs:777"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/jaipur-blasts-case-accused-a-minor/article2593201.ece", 
+    "date": "03-11-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajasthan Anti-Terrorism Squad", 
+            "7", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "11", 
+            "Others"
+        ], 
+        [
+            "Sessions Court", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "Juvenile Justice Board", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "Sessions Court", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh ATS", 
+            "86", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "124", 
+            "Others"
+        ], 
+        [
+            "Rajasthan ATS", 
+            "166", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "190", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "259", 
+            "Others"
+        ], 
+        [
+            "Special Court", 
+            "388", 
+            "Others"
+        ], 
+        [
+            "Juvenile Justice Board", 
+            "412", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh High School and Intermediate Education Board", 
+            "439", 
+            "Others"
+        ], 
+        [
+            "Special Court", 
+            "469", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "505", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "564", 
+            "Others"
+        ], 
+        [
+            "Special Court", 
+            "577", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "608", 
+            "Others"
+        ], 
+        [
+            "Special Court", 
+            "646", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "715", 
+            "Others"
+        ], 
+        [
+            "U.P. ATS", 
+            "763", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "772", 
+            "Others"
+        ]
+    ]
+}

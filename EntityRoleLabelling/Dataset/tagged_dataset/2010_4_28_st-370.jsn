@@ -1,0 +1,200 @@
+{
+    "LOC": [
+        [
+            "Kolkata", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Midnapur", 
+            "15", 
+            "Neutral"
+        ], 
+        [
+            "Bhadutala stations", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "20", 
+            "Neutral"
+        ], 
+        [
+            "Paschim Medinipur", 
+            "23", 
+            "Neutral"
+        ], 
+        [
+            "Midnapur-Adra section", 
+            "50", 
+            "Neutral"
+        ], 
+        [
+            "West Bengal", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "Jharkhand", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Orissa", 
+            "85", 
+            "Neutral"
+        ], 
+        [
+            "Lalgarh", 
+            "109", 
+            "Neutral"
+        ], 
+        [
+            "Paschim Medinipur", 
+            "112", 
+            "Neutral"
+        ], 
+        [
+            "Chakradharpur", 
+            "144", 
+            "Neutral"
+        ], 
+        [
+            "Salboni", 
+            "339", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Dilip Kumar Mitra", 
+            "119", 
+            "Others"
+        ], 
+        [
+            "Buddhadeb Bhattacharjee", 
+            "307", 
+            "Others"
+        ], 
+        [
+            "Mitra", 
+            "358", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "9-15 a.m.:68"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:31", 
+        "Tuesday:280", 
+        "2008:289", 
+        "November:314", 
+        "November 2:314", 
+        "2008:317"
+    ], 
+    "death": "", 
+    "title": "Maoists blast rail track", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Medinipur", 
+        "", 
+        "between Midnapur and Bhadutala railway stations"
+    ], 
+    "terror_group": [
+        "Maoist Communist Centre (MCC)"
+    ], 
+    "content": "Staff Reporter Kolkata : Suspected Maoists triggered an explosion on the railway track between Midnapur and Bhadutala stations in West Bengal 's Paschim Medinipur district in the wee hours of Tuesday , the second day of the 48-hour bandh called by the Left-wing extremists . Train services on the Midnapur-Adra section of South Eastern Railway were affected by the blast and normalcy could be restored only at 9-15 a.m. . The bandh had been called by the Maoists in West Bengal , Jharkhand and Orissa in support of the demand to produce four of their arrested cadres at a court . The cadres were reportedly arrested from the Lalgarh region of Paschim Medinipur district two weeks back . Dilip Kumar Mitra , Additional Director-General ( Railways ) , told The Hindu that the blast occurred little before the pilot engine that precedes the Chakradharpur Passenger was passing through the spot . Trains stranded There was a crack of one foot . The driver of the patrol engine noticed a jerk and some irregularity in the tracks while passing through the spot and immediately alerted the authorities . Train services were subsequently stopped on both the up and down lines and police , paramilitary and bomb squad personnel rushed to the spot , he said . The rebels had reportedly also kept two steel tiffin carriers at two ends of the blast site though they were found to be empty . According to the South Eastern Railway authorities , the Neelachal Express and two passenger trains were stranded at various stations due to the blast . Manpower shortage The very stretch of railway tracks where the blast took place on Tuesday has witnessed three incidents of Maoist sabotage since 2008 . It is suspected that it was the spot from where the landmine explosion on Chief Minister Buddhadeb Bhattacharjee 's convoy was triggered on November 2 , 2008 , while he was on his way back to the city after laying the foundation stone for a steel project at Salboni . Asked if the State Government was mulling over foot patrolling the stretch during such bandhs , Mr. Mitra said : There is a manpower shortage and we are pulling up our resources to do the best we can . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "explosion:9", 
+        "railway track:12", 
+        "bandh:39", 
+        "blast:60", 
+        "normalcy:62", 
+        "bandh:72", 
+        "support:87", 
+        "demand:90", 
+        "court:100", 
+        "region:110", 
+        "district:114", 
+        "director-general:124", 
+        "pilot engine:139", 
+        "chakradharpur passenger:144", 
+        "patrol engine:166", 
+        "train:188", 
+        "bomb squad:205", 
+        "rebels:217", 
+        "steel tiffin:223", 
+        "blast site:231", 
+        "south eastern:244", 
+        "railway:246", 
+        "neelachal express:250", 
+        "passenger:254", 
+        "manpower shortage:266", 
+        "stretch:270", 
+        "railway:272", 
+        "sabotage:287", 
+        "landmine explosion:302", 
+        "convoy:310", 
+        "city:328", 
+        "foundation stone:332", 
+        "steel project:336", 
+        "foot patrolling:349", 
+        "manpower shortage:364"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/maoists-blast-rail-track/article757655.ece", 
+    "date": "27-04-2010", 
+    "target": "Railway Station", 
+    "hot_spot": "Railway Track", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maoists", 
+            "6", 
+            "Accused"
+        ], 
+        [
+            "South Eastern Railway", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Maoists", 
+            "78", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "130", 
+            "Others"
+        ], 
+        [
+            "South Eastern Railway", 
+            "244", 
+            "Others"
+        ], 
+        [
+            "Maoist", 
+            "286", 
+            "Accused"
+        ], 
+        [
+            "State Government", 
+            "344", 
+            "Others"
+        ]
+    ]
+}

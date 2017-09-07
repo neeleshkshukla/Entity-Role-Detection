@@ -1,0 +1,131 @@
+{
+    "LOC": [
+        [
+            "Palace of Justice", 
+            "6", 
+            "Event"
+        ], 
+        [
+            "Damascus", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Turkey", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Syria", 
+            "30", 
+            "Neutral"
+        ], 
+        [
+            "Damascus", 
+            "34", 
+            "Event"
+        ], 
+        [
+            "Turkey", 
+            "123", 
+            "Neutral"
+        ], 
+        [
+            "Syria", 
+            "140", 
+            "Neutral"
+        ], 
+        [
+            "Turkish", 
+            "144", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "15-month : 97"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:12", 
+        "Wednesday:105", 
+        "Friday:147"
+    ], 
+    "death": "69", 
+    "title": "Turkey troops at border", 
+    "org_unorg": "", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Twin bombs exploded outside the Palace of Justice in Damascus on Thursday as deadly violence raged across the country and Turkey deployed missile batteries along its volatile border with Syria . In central Damascus , three people were wounded when bombs blasted a car park outside the court complex , state media reported . A police source told AFP that two magnetic bombs exploded in judges cars and that a third was being defused . Elsewhere , violence killed at least 69 people , including 38 civilians , after one of the bloodiest days of the 15-month revolt left at least 149 dead on Wednesday , a watchdog said . The days death toll also included 23 soldiers and eight rebels . Turkey has sent missile batteries , tanks and troops to the border as a security corridor after Syria shot down a Turkish warplane last Friday , media reports said . There was no official confirmation , but state-run TRT television showed dozens of military vehicles reportedly heading for the border , in a convoy that included air defence systems . AFP OPEN", 
+    "injured": "3", 
+    "det_loc": [
+        "Syria", 
+        "", 
+        "", 
+        "Damacus", 
+        ""
+    ], 
+    "O": [
+        "twin bombs:1", 
+        "violence:15", 
+        "missile batteries:23", 
+        "volatile border:27", 
+        "central damascus:33", 
+        "bombs blasted:41", 
+        "car park:44", 
+        "court complex:48", 
+        "state media:51", 
+        "police source:56", 
+        "two magnetic bombs:61", 
+        "judges cars:66", 
+        "defused:74", 
+        "violence:78", 
+        "bloodiest:93", 
+        "15-month revolt:97", 
+        "watchdog:108", 
+        "death toll:113", 
+        "23 soldiers:117", 
+        "eight rebels:120", 
+        "missile batteries:126", 
+        "tanks:129", 
+        "troops:131", 
+        "security corridor:137", 
+        "syria shot:140", 
+        "warplane:145", 
+        "official confirmation:156", 
+        "military vehicles:166", 
+        "convoy:176", 
+        "air defence systems:179"
+    ], 
+    "unexpl": [
+        "MAGNET"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/turkey-troops-at-border/article3582904.ece", 
+    "date": "28-06-2012", 
+    "target": "PALACE OF JUSTICE", 
+    "hot_spot": "", 
+    "delivery_mod": "CAR", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "MAGNETIC BOMB"
+    ], 
+    "ORG": [
+        [
+            "AFP", 
+            "59", 
+            "Others"
+        ], 
+        [
+            "TRT television", 
+            "161", 
+            "Others"
+        ], 
+        [
+            "AFP", 
+            "183", 
+            "Others"
+        ]
+    ]
+}

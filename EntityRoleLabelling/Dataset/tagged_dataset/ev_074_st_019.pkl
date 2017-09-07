@@ -1,0 +1,282 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Rajdhani Express'
+p4
+aS'26'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Dimapur'
+p8
+aS'29'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'New Delhi'
+p12
+aS'40'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Assam'
+p16
+aS'129'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'New Delhi'
+p20
+aS'154'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Sungajan'
+p24
+aS'193'
+p25
+aS'Accused Location'
+p26
+aa(lp27
+S'Maligaon'
+p28
+aS'206'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Nagaland'
+p32
+aS'259'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Morioni'
+p36
+aS'289'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Assam'
+p40
+aS'293'
+p41
+aS'Neutral'
+p42
+aasS'PER'
+p43
+(lp44
+(lp45
+S'Shivraj Patil'
+p46
+aS'45'
+p47
+aS'Comment'
+p48
+aa(lp49
+S'Madhukar Gupta'
+p50
+aS'121'
+p51
+aS'Comment'
+p52
+aa(lp53
+S'Trikalagya Rabha'
+p54
+aS'207'
+p55
+aS'Comment'
+p56
+aa(lp57
+S'Satyaprakash Rai'
+p58
+aS'215'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Sudama Rai'
+p62
+aS'221'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Lakshman Rai'
+p66
+aS'227'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'A K Sah'
+p70
+aS'233'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'D Prasad'
+p74
+aS'240'
+p75
+aS'Accused'
+p76
+aa(lp77
+S'Tarun Gogoi'
+p78
+aS'296'
+p79
+aS'Comment'
+p80
+aasS'TIM'
+p81
+(lp82
+S'morning : 21'
+p83
+asS'hot_setting'
+p84
+S''
+p85
+sS'DAT'
+p86
+(lp87
+sS'death'
+p88
+S'5'
+p89
+sS'title'
+p90
+S'5 killed in Rajdhani Express blast, Patil condemns explosion'
+p91
+sS'org_unorg'
+p92
+S'ORGANISED'
+p93
+sS'terror_group'
+p94
+(lp95
+S'ALL ADIVASI NATIONAL LIBERATION ARMY'
+p96
+asS'content'
+p97
+VGuwahati , Dec 13 ( UNI ) At least five people were killed and around ten injured in an early morning blast today in the Rajdhani Express near Dimapur set off by suspected Adivasi militants . . . In New Delhi , Home Minister Shivraj Patil condemned the blast and assured all possible help to the state government in tackling such terror attacks . . . Expressing anguish over the blast and conveying his sympathies to the victims and their families , the Home Minister said the Centre would provide all necessary assistance to the state government and Railways to take steps to provide protection to passengers and see that such incidents do not recur . . . Home Secretary Madhukar Gupta spoke to the Chief Secretary of Assam to get details of the incident . . . Train services , however , resumed later on the route while the train proceeded towards New Delhi after the damaged rake was detached from the train . . . As a precautionary measure , security had been stepped up in all sections following the blast suspected to be triggered by alleged Adivasi militants at Sungajan . . . North East Frontier Railway spokesman from the headquarters at Maligaon Trikalagya Rabha said the deceased were identified as Satyaprakash Rai ( 45 ) , Sudama Rai ( 45 ) , Lakshman Rai ( 44 ) , A K Sah ( 20 ) and D Prasad ( 19 ) . The four seriously injured people were admitted to the Dimapur Civil Hospital in Nagaland . . . According to a police source , a programmable timed device was placed in the parcel van of the train by some unknown passengers who alighted at Morioni . . . Assam Chief Minister Tarun Gogoi also condemned the incident . . . .
+p98
+sS'injured'
+p99
+S'10'
+p100
+sS'det_loc'
+p101
+(lp102
+S'India'
+p103
+aS'Assam'
+p104
+ag85
+aS'guwahati'
+p105
+aS'Rajdhani Express near Dimapur'
+p106
+asS'O'
+p107
+(lp108
+S'Home Minister:84'
+p109
+aS'parcel van:277'
+p110
+aS'train:281'
+p111
+aS'Chief Minister:294'
+p112
+asS'unexpl'
+p113
+(lp114
+S'TIMED DEVICE'
+p115
+asS'ocassion'
+p116
+g85
+sS'link'
+p117
+S'http://www.oneindia.com/2007/12/13/5-killed-in-rajdhani-express-blast-patil-condemns-explosion-1197560429.html'
+p118
+sS'date'
+p119
+S'13-12-2007'
+p120
+sS'target'
+p121
+S'TRAIN'
+p122
+sS'hot_spot'
+p123
+S'Rajdhani Express near Dimapur'
+p124
+sS'delivery_mod'
+p125
+S'TRAIN'
+p126
+sS'delivery_met'
+p127
+S'PLANTED'
+p128
+sS'expl'
+p129
+(lp130
+g85
+asS'ORG'
+p131
+(lp132
+(lp133
+S'Adivasi'
+p134
+aS'34'
+p135
+aS'Accused'
+p136
+aa(lp137
+S'state government'
+p138
+aS'57'
+p139
+aS'Others'
+p140
+aa(lp141
+S'state government'
+p142
+aS'96'
+p143
+aS'Others'
+p144
+aa(lp145
+S'Adivasi'
+p146
+aS'190'
+p147
+aS'Accused'
+p148
+aa(lp149
+S'North East Frontier Railway'
+p150
+aS'197'
+p151
+aS'Others'
+p152
+aa(lp153
+S'Dimapur Civil Hospital'
+p154
+aS'255'
+p155
+aS'Others'
+p156
+aas.

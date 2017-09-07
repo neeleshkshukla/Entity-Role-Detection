@@ -1,0 +1,383 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'47'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'India'
+p8
+aS'50'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Islamabad'
+p12
+aS'55'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'India'
+p16
+aS'104'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Islamabad'
+p20
+aS'171'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'New Delhi'
+p24
+aS'205'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Palam Airport'
+p28
+aS'224'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Panipat'
+p32
+aS'418'
+p33
+aS'Victim Location'
+p34
+aa(lp35
+S'Pakistan'
+p36
+aS'437'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Pakistan'
+p40
+aS'451'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Panipat'
+p44
+aS'466'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Pakistan'
+p48
+aS'490'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Wagah'
+p52
+aS'492'
+p53
+aS'Neutral'
+p54
+aasS'PER'
+p55
+(lp56
+(lp57
+S'Amit Baruah'
+p58
+aS'1'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Rana Shoukat Ali'
+p62
+aS'395'
+p63
+aS'Victim'
+p64
+aa(lp65
+S'Rukhsana'
+p66
+aS'399'
+p67
+aS'Victim'
+p68
+aa(lp69
+S'Aksa'
+p70
+aS'405'
+p71
+aS'Victim'
+p72
+aa(lp73
+S'Ali'
+p74
+aS'410'
+p75
+aS'Comment'
+p76
+aa(lp77
+S'Rana Shaukat Ali'
+p78
+aS'457'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Rana Shaukat Ali'
+p82
+aS'481'
+p83
+aS'Others'
+p84
+aasS'TIM'
+p85
+(lp86
+S'1505 hrs : 208'
+p87
+aS'1730 hrs : 235'
+p88
+aS'1800 hrs : 243'
+p89
+aS'2115 hrs : 287'
+p90
+asS'hot_setting'
+p91
+S''
+p92
+sS'DAT'
+p93
+(lp94
+S'Thursday : 15'
+p95
+aS'Friday : 53'
+p96
+aS'Thursday : 75'
+p97
+aS'Sunday : 84'
+p98
+aS'Thursday : 129'
+p99
+aS'Thursday night : 173'
+p100
+aS'Thursday : 310'
+p101
+aS'Friday : 361'
+p102
+aS'Thursday : 371'
+p103
+asS'death'
+p104
+g92
+sS'title'
+p105
+S'Train attack probe: plea to Pakistan'
+p106
+sS'det_loc'
+p107
+(lp108
+S'India'
+p109
+aS'Haryana'
+p110
+ag92
+aS'Panipat'
+p111
+ag92
+asS'terror_group'
+p112
+(lp113
+g92
+asS'content'
+p114
+VAmit Baruah . . Seven of the injured sent home by special aircraft on Thursday . . Delay in aircraft 's take was on account of a ` glitch ' : External Affairs Ministry Pakistani version of events do not match Ministry 's statement . . NEW DELHI : India hoped on Friday that Islamabad would facilitate the recording of statements by the 10 injured Pakistanis , being treated at the Safdarjung Hospital till Thursday , in the interest of the investigations into Sunday 's fire-bombing of the Samjhauta Express . . . In a statement , the External Affairs Ministry confirmed that India had requested the Pakistani authorities to allow the interrogation of these persons , seven of whom flew back home by a special aircraft on Thursday . . . ` This request had been made to Pakistani authorities while conveying the clearance for the aircraft , ' the Ministry said , referring to the Pakistani C-130 aircraft , which , after a long tangle , returned to Islamabad on Thursday night . . . Giving an account of the C-130 flight , the Ministry statement said , ` The aircraft which had 14 crew members and a 15-member medical team reached New Delhi at 1505 hrs . Seven of the injured Pakistanis were taken from Safdarjung Hospital in ambulances to Palam Airport . ' . . ` They reached there at 1730 hrs and their boarding was completed by 1800 hrs . However , the aircraft could not take off because it developed a technical glitch . One of its engines developed a problem and had to be repaired by the ground staff of the airport . The aircraft finally took off at 2115 hrs . ' . . The statement cited the remarks of the External Affairs Ministry spokesman , reported in The Hindu on Thursday , that the delay in the aircraft taking off was on account of a ` glitch . ' . . The Pakistani version of the events , as reported in the words of its Foreign Office spokeswoman , of course , does not match either the Ministry 's statement on Friday or the spokesman 's comments to this newspaper on Thursday . . . Referring to the ` media reports ' that the aircraft was delayed because it was waiting for three injured Pakistanis Rana Shoukat Ali , Rukhsana , and their daughter , Aksa the statement said Mr. Ali had expressed a desire to go to Panipat to identify the bodies of his five other children killed in the train blasts . . . ` Pakistan High Commission was informed that these three persons would not be going to Pakistan in the special aircraft . Rana Shaukat Ali and his family were taken to Panipat where they were able to identify all the five bodies of their children . Rana Shaukat Ali and his family will return to Pakistan via Wagah . ' . . The statement said that the attention of the Pakistani authorities was drawn to the fact that the terrorist attack on the train was being investigated by the Indian police who may wish to take their statements at a later date .
+p115
+sS'injured'
+p116
+S'10'
+p117
+sS'org_unorg'
+p118
+g92
+sS'O'
+p119
+(lp120
+S'injured:8'
+p121
+aS'special aircraft:12'
+p122
+aS'delay:18'
+p123
+aS'aircraft:20'
+p124
+aS'external affairs ministry pakistani version:32'
+p125
+aS"ministry 's statement:42"
+p126
+aS'injured:65'
+p127
+aS'pakistanis:66'
+p128
+aS'treated:69'
+p129
+aS'investigations:82'
+p130
+aS'fire-bombing:86'
+p131
+aS'samjhauta express:89'
+p132
+aS'pakistani authorities:108'
+p133
+aS'interrogation:113'
+p134
+aS'aircraft:127'
+p135
+aS'pakistani authorities:140'
+p136
+aS'aircraft:148'
+p137
+aS'pakistani c-130 aircraft:158'
+p138
+aS'returned:169'
+p139
+aS'c-130 flight:183'
+p140
+aS'aircraft:193'
+p141
+aS'14 crew members:196'
+p142
+aS'15-member medical team:201'
+p143
+aS'injured:214'
+p144
+aS'pakistanis:215'
+p145
+aS'ambulances:222'
+p146
+aS'aircraft:249'
+p147
+aS'technical glitch:258'
+p148
+aS'ground staff:275'
+p149
+aS'airport:279'
+p150
+aS'aircraft:282'
+p151
+aS'statement cited:294'
+p152
+aS'external affairs ministry spokesman:300'
+p153
+aS'delay:314'
+p154
+aS'aircraft:317'
+p155
+aS'glitch:326'
+p156
+aS'pakistani version:332'
+p157
+aS'foreign office spokeswoman:345'
+p158
+aS"ministry 's statement:357"
+p159
+aS'newspaper:369'
+p160
+aS'media reports:379'
+p161
+aS'aircraft:384'
+p162
+aS'three injured pakistanis:392'
+p163
+aS'killed:428'
+p164
+aS'train blasts:431'
+p165
+aS'high commission:438'
+p166
+aS'special aircraft:454'
+p167
+aS'identify:472'
+p168
+aS'five bodies:475'
+p169
+aS'attention:502'
+p170
+aS'pakistani authorities:505'
+p171
+aS'terrorist attack:514'
+p172
+aS'indian police:524'
+p173
+asS'unexpl'
+p174
+(lp175
+g92
+asS'ocassion'
+p176
+g92
+sS'link'
+p177
+S'http://www.thehindu.com/todays-paper/tp-national/train-attack-probe-plea-to-pakistan/article1801636.ece'
+p178
+sS'date'
+p179
+S'18-02-2007'
+p180
+sS'target'
+p181
+S'TRAIN'
+p182
+sS'hot_spot'
+p183
+g92
+sS'delivery_mod'
+p184
+g92
+sS'delivery_met'
+p185
+S'PLANTED'
+p186
+sS'expl'
+p187
+(lp188
+g92
+asS'ORG'
+p189
+(lp190
+(lp191
+S'Safdarjung Hospital'
+p192
+aS'72'
+p193
+aS'Others'
+p194
+aa(lp195
+S'Safdarjung Hospital'
+p196
+aS'219'
+p197
+aS'Others'
+p198
+aa(lp199
+S'The Hindu'
+p200
+aS'307'
+p201
+aS'Others'
+p202
+aas.

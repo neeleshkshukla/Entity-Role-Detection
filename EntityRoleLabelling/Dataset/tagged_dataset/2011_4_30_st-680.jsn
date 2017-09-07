@@ -1,0 +1,178 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "28", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "86", 
+            "Event"
+        ], 
+        [
+            "Coimbatore", 
+            "95", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bangalore", 
+            "230", 
+            "Neutral"
+        ], 
+        [
+            "Karnataka", 
+            "244", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "278", 
+            "Event"
+        ], 
+        [
+            "India", 
+            "330", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Nasir Maudany", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "Markandey Katju", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "Gyan Sudha Misra", 
+            "41", 
+            "Others"
+        ], 
+        [
+            "Shanti Bhushan", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "81", 
+            "Accused"
+        ], 
+        [
+            "T.R. Andhyarujina", 
+            "113", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "Maudany", 
+            "191", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:5", 
+        "July 25:24", 
+        "2008:27", 
+        "May 4:54", 
+        "June 11 , 2010 : 218"
+    ], 
+    "death": "", 
+    "title": "Maudany bail plea on health grounds only a smokescreen'", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Karnataka government on Friday strongly opposed in the Supreme Court grant of bail to Abdul Nasir Maudany , an accused in the July 25 , 2008 Bangalore serial bomb blast cases . A Bench of Justices Markandey Katju and Gyan Sudha Misra directed that the matter be listed for further hearing on May 4 and that , in the meantime , the petitioner file his rejoinder to the counter filed by the State . Senior counsel Shanti Bhushan said Maudany was implicated in the Karnataka case after he had been acquitted in the Coimbatore serial bomb blasts case . He said bail should be granted on medical grounds . However , T.R. Andhyarujina , appearing for the State , said bail on health grounds was only a smokescreen , and the court should not entertain such a plea . In his special leave petition against a fast-track court order which rejected his bail , Mr. Maudany said he was wheelchair-bound , following amputation of the right leg below the knee . Moreover , he was suffering from chronic diabetes , coronary heart disease , and cervical spondylosis . Mr. Maudany said his name was not at all mentioned in the charge sheet filed initially . His name figured only in the additional charge sheet filed on June 11 , 2010 before the First Additional Chief Metropolitan Magistrate , Bangalore , who issued a non-bailable warrant against him . Opposing his plea , Karnataka said the petitioner , having failed in six attempts to secure bail , filed the SLP on grounds which had already been considered . Evidence collected following the eight blasts in and around Bangalore showed that the accused had established an organisation called the Federation of ISS and that all the accused were its active members and they had nexus with the Students Islamic Movement of India , a banned outfit . Evidence showed that the accused had a common intention to wage war against India , to damage its economic fabric , to Islamise the country and to destabilise the governments by engineering violence and thereby disturb the national unity , integrity and sovereignty of the country , said the government . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "Karnataka government:2", 
+        "grant of bail:12", 
+        "bangalore serial bomb blast:28", 
+        "serial bomb blast:29", 
+        "further hearing:51", 
+        "petitioner file:64", 
+        "Karnataka case:86", 
+        "Coimbatore serial bomb blasts case:95", 
+        "serial bomb blasts:96", 
+        "bail:103", 
+        "bail:122", 
+        "plea:139", 
+        "special leave petition:143", 
+        "court order:149", 
+        "bail:154", 
+        "wheelchair-bound:161", 
+        "amputation:164", 
+        "diabetes:180", 
+        "heart disease:183", 
+        "spondylosis:188", 
+        "charge sheet:202", 
+        "charge sheet:214", 
+        "Chief Metropolitan Magistrate:226", 
+        "non-bailable warrant:235", 
+        "plea:242", 
+        "petitioner:247", 
+        "bail:256", 
+        "slp:260", 
+        "evidence:269", 
+        "blasts:274", 
+        "nexus:304", 
+        "banned outfit:314", 
+        "evidence:317", 
+        "intention:325", 
+        "wage war:327", 
+        "islamise:339", 
+        "country:341", 
+        "engineering violence:348", 
+        "integrity:357", 
+        "sovereignty:359"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/maudany-bail-plea-on-health-grounds-only-a-smokescreen/article1980020.ece", 
+    "date": "30-04-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Supreme Court", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "Federation of ISS", 
+            "289", 
+            "Accused"
+        ], 
+        [
+            "Students Islamic Movement of India", 
+            "307", 
+            "Assoc Accused"
+        ]
+    ]
+}

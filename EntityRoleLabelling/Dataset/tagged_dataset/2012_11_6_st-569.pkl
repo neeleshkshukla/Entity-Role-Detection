@@ -1,0 +1,287 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Bahrain'
+p4
+aS'5'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Tamil Nadu'
+p8
+aS'41'
+p9
+aS'Victim Location'
+p10
+aa(lp11
+S'Gudaibiya'
+p12
+aS'47'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Manama'
+p16
+aS'50'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Rajasthan'
+p20
+aS'89'
+p21
+aS'Victim Location'
+p22
+aa(lp23
+S'Adliya'
+p24
+aS'113'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Manama'
+p28
+aS'179'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Bahrain'
+p32
+aS'205'
+p33
+aS'Event'
+p34
+aa(lp35
+S'al-Akr'
+p36
+aS'233'
+p37
+aS'Event'
+p38
+aasS'PER'
+p39
+(lp40
+(lp41
+S'T. Murugaiiyan'
+p42
+aS'36'
+p43
+aS'Victim'
+p44
+aa(lp45
+S'Murugaiiyan'
+p46
+aS'70'
+p47
+aS'Victim'
+p48
+aa(lp49
+S'Dhannaram Saini'
+p50
+aS'85'
+p51
+aS'Victim'
+p52
+aa(lp53
+S'Murugaiiyans'
+p54
+aS'135'
+p55
+aS'Victim'
+p56
+aasS'TIM'
+p57
+(lp58
+sS'hot_setting'
+p59
+S''
+p60
+sS'DAT'
+p61
+(lp62
+S'Monday : 181'
+p63
+aS'April : 258'
+p64
+aS'February 2011 : 295'
+p65
+asS'death'
+p66
+S'2'
+p67
+sS'title'
+p68
+S'Indian among two killed in Bahrain blasts'
+p69
+sS'det_loc'
+p70
+(lp71
+S'Bahrain'
+p72
+ag60
+ag60
+aS'Manama'
+p73
+aS'Gudaibiya area in Manama.  Adliya district in Manama.'
+p74
+asS'terror_group'
+p75
+(lp76
+g60
+asS'content'
+p77
+S'A bomb blast in Bahrain has killed an Indian and injured another , triggering fears of more violence in the absence of any real dialogue between pro-democracy campaigners and the monarchy in the Kingdom . T. Murugaiiyan , hailing from Tamil Nadu , was killed in Gudaibiya area of Manama when he kicked an object wrapped in plastic bag , which blew up . The tragedy occurred when Mr. Murugaiiyan was walking behind his brother who was on the cellphone . Another Indian , Dhannaram Saini , from Rajasthan , a municipality cleaner , lost his palm when he touched an explosive object hidden inside a garbage container in the capitals upscale Adliya district . He was admitted to hospital and his condition was reported to be stable , diplomatic sources said . Mr. Murugaiiyans body would be handed over to his family after completion of formalities , which include clearances from the police and the Health Ministry . The state-run Bahrain News Agency ( BNA ) reported that five serial blasts , caused by homemade devises rocked Manama on Monday . These explosions , described by officials as acts of terrorism , also killed a Bangladeshi national . Violence has been rising in Bahrain , coinciding with the suppression of dissent in the Kingdom . Last month , a bomb explosion killed a policeman while on patrol in the village of al-Akr , where a protest rally was being held . Another succumbed to his injuries sustained after he was attacked with a petrol bomb in April . Last week , the Interior Ministry banned all rallies and public gatherings . At least 60 people , including several policemen have died , and thousands injured or jailed after the Bahraini uprising flared in February 2011 . OPEN'
+p78
+sS'injured'
+p79
+S'1'
+p80
+sS'org_unorg'
+p81
+S'ORGANISED'
+p82
+sS'O'
+p83
+(lp84
+S'bomb blast:2'
+p85
+aS'indian:9'
+p86
+aS'injured:11'
+p87
+aS'triggering fears:14'
+p88
+aS'violence:18'
+p89
+aS'dialogue:25'
+p90
+aS'pro-democracy campaigners:27'
+p91
+aS'monarchy:31'
+p92
+aS'kingdom:34'
+p93
+aS'plastic bag:58'
+p94
+aS'tragedy:66'
+p95
+aS'cellphone:80'
+p96
+aS'indian:83'
+p97
+aS'municipality cleaner:92'
+p98
+aS'explosive object:102'
+p99
+aS'garbage container:107'
+p100
+aS'hospital:120'
+p101
+aS'diplomatic:130'
+p102
+aS'formalities:147'
+p103
+aS'clearances:151'
+p104
+aS'five serial blasts:170'
+p105
+aS'homemade devises:176'
+p106
+aS'explosions:184'
+p107
+aS'acts of terrorism:190'
+p108
+aS'bangladeshi national:197'
+p109
+aS'violence:200'
+p110
+aS'suppression of dissent:210'
+p111
+aS'bomb explosion:221'
+p112
+aS'patrol:228'
+p113
+aS'protest rally:237'
+p114
+aS'succumbed:244'
+p115
+aS'injuries:247'
+p116
+aS'petrol bomb:255'
+p117
+aS'rallies and public gatherings:268'
+p118
+aS'several policemen:279'
+p119
+aS'thousands injured:285'
+p120
+aS'jailed:288'
+p121
+aS'bahraini uprising:291'
+p122
+asS'unexpl'
+p123
+(lp124
+g60
+asS'ocassion'
+p125
+g60
+sS'link'
+p126
+S'http://www.thehindu.com/todays-paper/tp-international/indian-among-two-killed-in-bahrain-blasts/article4069103.ece'
+p127
+sS'date'
+p128
+S'05-11-2012'
+p129
+sS'target'
+p130
+S'TOWN'
+p131
+sS'hot_spot'
+p132
+S'Gudaibiya area in Manama.  Adliya district in Manama.'
+p133
+sS'delivery_mod'
+p134
+g60
+sS'delivery_met'
+p135
+S'PLANTED'
+p136
+sS'expl'
+p137
+(lp138
+g60
+asS'ORG'
+p139
+(lp140
+(lp141
+S'Health Ministry'
+p142
+aS'157'
+p143
+aS'Others'
+p144
+aa(lp145
+S'Bahrain News Agency'
+p146
+aS'162'
+p147
+aS'Others'
+p148
+aa(lp149
+S'Interior Ministry'
+p150
+aS'264'
+p151
+aS'Others'
+p152
+aas.

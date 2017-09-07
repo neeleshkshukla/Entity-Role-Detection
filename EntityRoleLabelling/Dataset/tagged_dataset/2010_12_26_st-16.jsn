@@ -1,0 +1,47 @@
+{
+    "LOC": [], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007:20"
+    ], 
+    "death": "", 
+    "title": "Ajmer blast: car recovered", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "Ajmer", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Rajasthan Anti-Terrorism Squad has seized a car believed to have been used to transport the bombs for the 2007 Ajmer Dargah blast . PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "ajmer dargah blast:21"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/ajmer-blast-car-recovered/article980321.ece", 
+    "date": "11-10-2007", 
+    "target": "Religious Places", 
+    "hot_spot": "Ajmer dargah", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajasthan Anti-Terrorism Squad", 
+            "2", 
+            "Others"
+        ]
+    ]
+}

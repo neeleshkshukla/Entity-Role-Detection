@@ -1,0 +1,161 @@
+{
+    "LOC": [
+        [
+            "Israeli Embassy", 
+            "4", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "36", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bangkok", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Bangkok", 
+            "175", 
+            "Event"
+        ], 
+        [
+            "Lado Sarai", 
+            "281", 
+            "Neutral"
+        ], 
+        [
+            "South Delhi", 
+            "285", 
+            "Neutral"
+        ], 
+        [
+            "Ludhiana", 
+            "318", 
+            "Neutral"
+        ], 
+        [
+            "Britain", 
+            "476", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "B. K. Gupta", 
+            "250", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday : 14", 
+        "Monday : 39"
+    ], 
+    "death": "", 
+    "title": "Delhi Police await report on explosives used in blast", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Investigations into the Israeli Embassy car blast case took a new turn on Thursday following the Bangkok Police 's assertion that suspected terrorists arrested there had used explosives similar to the one employed in the Delhi explosion on Monday . The Delhi Police are awaiting a formal report from the CBI 's Central Forensic Science Laboratory on the nature of explosives used in the improvised magnetic device . While the composition of the bomb used in Bangkok has not been made public , police sources here said if it was similar to the one used to target the Israeli official here , the ingredient could be a combination of an explosive and an incendiary material , such as nitro-glycerine , which enhances the impact range . Different types of explosives , like potassium chlorate , can be used in the combination . However , the forensic report on the articles lifted from the blast site would make things clear , said an official . Given that a module of foreign nationals was active in Bangkok , agencies here are screening the data on foreigners who have entered the country in the recent past . The local police have also been instructed to carry out checks in guesthouses and hotels and conduct verification to gather information primarily on foreign nationals who were staying or had stayed there in the past weeks . The focus of the exercise is to identify those with suspicious movements . Earlier , Delhi Police Commissioner B. K. Gupta said investigations were in the initial stages . It is learnt that the police have solved the mystery behind the recovery of an abandoned red-colour motorcycle in the Lado Sarai area of South Delhi . It is not connected to the blast . We have traced its last owner , who lives in the same locality and had parked the vehicle before he left for Ludhiana . It appears that someone had made a failed attempt to steal the vehicle , said an officer . Stating that no concrete leads had emerged so far from the analysis of the phone calls made around the time of the explosion , the officer said efforts were being made to find out if the module or the assailant had been provided logistics support by any local element . Ruling out any possibility at this stage would hamper the probe , he added . While the police had earlier suggested that the pocket-size device used in the attack was a sticky bomb , experts said it was only through proper reconstruction of the configuration with the help of articles recovered from the blast site , besides information on the explosives used in the device , that a decision in this regard could be arrived at . Sticky bomb was an anti-tank grenade first designed and developed in Britain during World War II . Probe in initial stages : Delhi Police chiefAbandoned motorcycle not connected to blast Probe in initial stages : Delhi Police chief Abandoned motorcycle not connected to blast OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "car blast case:6", 
+        "turn:12", 
+        "assertion:20", 
+        "explosion:37", 
+        "report:48", 
+        "nature:59", 
+        "improvised magnetic device:65", 
+        "ingredient:104", 
+        "combination:108", 
+        "explosive:111", 
+        "material:115", 
+        "nitro-glycerine:119", 
+        "impact range:124", 
+        "potassium chlorate:133", 
+        "combination:141", 
+        "blast site:154", 
+        "conduct verification:211", 
+        "red-colour motorcycle:277", 
+        "analysis:349", 
+        "explosion:360", 
+        "assailant:377", 
+        "pocket-size device:411", 
+        "sticky bomb:419", 
+        "configuration:432", 
+        "decision:456", 
+        "sticky bomb:465", 
+        "anti-tank grenade:469", 
+        "world war ii:478", 
+        "probe:482", 
+        "motorcycle:490", 
+        "blast probe:494"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/delhi-police-await-report-on-explosives-used-in-blast/article2902046.ece", 
+    "date": "16-02-2012", 
+    "target": "Government Building", 
+    "hot_spot": "Israeli Embassy ", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        "", 
+        ""
+    ], 
+    "ORG": [
+        [
+            "Bangkok Police", 
+            "17", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "42", 
+            "Others"
+        ], 
+        [
+            "CBI", 
+            "51", 
+            "Others"
+        ], 
+        [
+            "Central Forensic Science Laboratory", 
+            "53", 
+            "Others"
+        ], 
+        [
+            "Israeli official", 
+            "99", 
+            "Victim"
+        ], 
+        [
+            "Delhi Police", 
+            "247", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "487", 
+            "Others"
+        ], 
+        [
+            "Delhi Police", 
+            "500", 
+            "Others"
+        ]
+    ]
+}

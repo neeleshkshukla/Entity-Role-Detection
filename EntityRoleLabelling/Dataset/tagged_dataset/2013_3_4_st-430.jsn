@@ -1,0 +1,87 @@
+{
+    "LOC": [
+        [
+            "Dilsukhnagar", 
+            "44", 
+            "Event"
+        ], 
+        [
+            "Hyderabad", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Ranga Reddy", 
+            "74", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Chief Minister N. Kiran Kumar Reddy", 
+            "1", 
+            "Comment"
+        ], 
+        [
+            "N. Kiran Kumar Reddy", 
+            "3", 
+            "Comment"
+        ], 
+        [
+            "Ranga Reddy", 
+            "74", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Sunday:8"
+    ], 
+    "death": "", 
+    "title": "Ex gratia for kin of blast victims cleared: Kiran", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Chief Minister N. Kiran Kumar Reddy on Sunday said the government had cleared payment of ex gratia of Rs . 6 lakh to the kin of each of the 16 persons who lost their lives in the recent , twin bomb blasts at Dilsukhnagar . After a review meeting , he said no effort was being spared to help the injured with medical assistance . He asked the District Collectors of Hyderabad and Ranga Reddy districts to ensure that the best of medical care was given to those who were injured and being treated at different hospitals . He said of the over 100 injured who were undergoing treatment in various hospitals in and around the State capital , 62 had fully recovered OPEN", 
+    "injured": "100", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "Rangareddy", 
+        "hyderabad", 
+        "Dilsukhnagar"
+    ], 
+    "O": [
+        "government:11", 
+        "payment:14", 
+        "gratia:17", 
+        "Rs . 6 lakh:19", 
+        "kin:25", 
+        "twin bomb:40", 
+        "review meeting:48", 
+        "effort:54", 
+        "help:59", 
+        "assistance:64", 
+        "district collectors:69", 
+        "district:69", 
+        "care:84", 
+        "treatment:109", 
+        "state capital:117"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/ex-gratia-for-kin-of-blast-victims-cleared-kiran/article4473520.ece", 
+    "date": "21-02-2013", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

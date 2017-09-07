@@ -1,0 +1,88 @@
+{
+    "LOC": [
+        [
+            "Kozhikode", 
+            "28", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Mohammed Azar", 
+            "16", 
+            "Accused"
+        ], 
+        [
+            "P.P. Usman", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "T. Nazir", 
+            "76", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:11"
+    ], 
+    "death": "", 
+    "title": "Two named proclaimed offenders'", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The National Investigation Agency ( NIA ) Special Court on Wednesday declared two accused , Mohammed Azar and P.P. Usman , as proclaimed offenders ' in the Kozhikode twin bomb blast cases . The court made the proclamation on a petition filed by the NIA seeking to make them proclaimed offenders ' as the agen cy 's efforts to trace them had come to naught . Meanwhile , the court extended the judicial remand of T. Nazir and other accused in the case . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Kozhikode", 
+        "Kochi", 
+        ""
+    ], 
+    "O": [
+        "twin bomb blast:29", 
+        "court:35", 
+        "proclamation:38", 
+        "petition:41", 
+        "case:83"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/two-named-proclaimed-offenders/article494686.ece", 
+    "date": "03-03-2006", 
+    "target": "", 
+    "hot_spot": "Kozhikode twin bomb blast cases", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "Special Court", 
+            "8", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "45", 
+            "Others"
+        ]
+    ]
+}

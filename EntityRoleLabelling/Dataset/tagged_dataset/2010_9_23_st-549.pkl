@@ -1,0 +1,268 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Sompeta'
+p4
+aS'19'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Sompeta'
+p8
+aS'63'
+p9
+aS'Neutral'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Y. Krishnamurthy'
+p14
+aS'38'
+p15
+aS'Others'
+p16
+aa(lp17
+S'Dr. Krishnamurthy'
+p18
+aS'82'
+p19
+aS'Others'
+p20
+aa(lp21
+S'Bena Dhilli Rao'
+p22
+aS'89'
+p23
+aS'Others'
+p24
+aa(lp25
+S'P. V. Ramana'
+p26
+aS'100'
+p27
+aS'Others'
+p28
+aa(lp29
+S'Dr. Krishnamurthy'
+p30
+aS'150'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Bendalam Krishnamurthy'
+p34
+aS'172'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Sanjay Kumar Jain'
+p38
+aS'228'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Mr. Dhilli Rao'
+p42
+aS'282'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Mr. Jain'
+p46
+aS'286'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Ramana'
+p50
+aS'306'
+p51
+aS'Accused'
+p52
+aS'Others'
+p53
+aasS'TIM'
+p54
+(lp55
+S'2.15 p.m.:147'
+p56
+asS'hot_setting'
+p57
+S''
+p58
+sS'DAT'
+p59
+(lp60
+S'July 14:21'
+p61
+aS'July:21'
+p62
+aS'Wednesday:25'
+p63
+aS'July:213'
+p64
+aS'July 14:213'
+p65
+asS'death'
+p66
+S'3'
+p67
+sS'title'
+p68
+S'Blast in hospital at Sompeta'
+p69
+sS'org_unorg'
+p70
+S'Organized'
+p71
+sS'terror_group'
+p72
+(lp73
+S'Miscreants,Dacoits & Smuggler Gang'
+p74
+asS'content'
+p75
+S'A person who was injured in the police lathicharge on protesters at NCC thermal power plant site at Sompeta on July 14 succumbed on Wednesday , while a crude bomb mysteriously exploded in Mahalakshmi Hospital owned by Y. Krishnamurthy , president of the Paryavarana Parirakshana Sangham ( PPS ) . Both the incidents brought the situation to a boil once again in Sompeta and a bandh is being called by the PPS that spearheaded the agitation against the power plant . Dr. Krishnamurthy and another leader of PPS Bena Dhilli Rao suspected the hand of local Congress leader , P. V. Ramana and his supporters in the bomb blast . No one was injured in the explosion but the front elevation of the hospital and furniture was damaged in the second floor where the bomb was planted . Eye witnesses said the blast took place at 2.15 p.m. when Dr. Krishnamurthy was treating patients on the ground floor . Patients and medical staff ran out of the hospital . The 60-year-old Bendalam Krishnamurthy who was injured in the lathicharge was undergoing treatment at a hospital all this while and was discharged only a week ago . This pushes the death toll to three as two persons were killed in police firing on July 14 . The PPS leaders submitted a representation to the District Superintendent of Police Sanjay Kumar Jain urging him to conduct a thorough inquiry and to take stern action against those involved . People with the vested interests and supporters of power plant are trying to eliminate us physically . These incidents will not deter us and we will continue to fight against the power plant , said Mr. Dhilli Rao . Mr. Jain said experts from the forensic department will inquire into the incident . PPS leaders suspected one person called Ramana . We will conduct a thorough inquiry and take the inputs from the forensic department also , he told The Hindu . OPEN'
+p76
+sS'injured'
+p77
+g58
+sS'det_loc'
+p78
+(lp79
+S'India'
+p80
+aS'Andhra Pradesh'
+p81
+aS'Srikakulam'
+p82
+aS'Sompeta'
+p83
+aS'NCC thermal power plant site at Sompeta'
+p84
+asS'O'
+p85
+(lp86
+S'lathicharge:9'
+p87
+aS'crude bomb:29'
+p88
+aS'president:41'
+p89
+aS'pps:48'
+p90
+aS'bandh:66'
+p91
+aS'agitation:76'
+p92
+aS'power plant:79'
+p93
+aS'bomb blast:108'
+p94
+aS'explosion:117'
+p95
+aS'bomb:135'
+p96
+aS'eye witnesses:139'
+p97
+aS'place:145'
+p98
+aS'hospital:168'
+p99
+aS'lathicharge:179'
+p100
+aS'treatment:182'
+p101
+aS'hospital:185'
+p102
+aS'district superintendent:224'
+p103
+aS'inquiry:237'
+p104
+aS'power plant:255'
+p105
+aS'department:293'
+p106
+aS'inquire:295'
+p107
+aS'incident:298'
+p108
+aS'conduct:310'
+p109
+asS'unexpl'
+p110
+(lp111
+g58
+asS'ocassion'
+p112
+g58
+sS'link'
+p113
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/blast-in-hospital-at-sompeta/article778059.ece'
+p114
+sS'date'
+p115
+S'22-09-2010'
+p116
+sS'target'
+p117
+S'Public Organization'
+p118
+sS'hot_spot'
+p119
+g58
+sS'delivery_mod'
+p120
+g58
+sS'delivery_met'
+p121
+S'Planted'
+p122
+sS'expl'
+p123
+(lp124
+g58
+asS'ORG'
+p125
+(lp126
+(lp127
+S'NCC thermal power plant'
+p128
+aS'13'
+p129
+aS'Victim'
+p130
+aS'Others'
+p131
+aa(lp132
+S'Mahalakshmi Hospital'
+p133
+aS'34'
+p134
+aS'Others'
+p135
+aa(lp136
+S'Paryavarana Parirakshana Sangham'
+p137
+aS'44'
+p138
+aS'Others'
+p139
+aa(lp140
+S'The Hindu'
+p141
+aS'326'
+p142
+aS'Others'
+p143
+aas.

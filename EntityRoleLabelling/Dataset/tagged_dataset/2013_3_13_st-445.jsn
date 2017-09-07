@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Mecca Masjid", 
+            "23", 
+            "Event"
+        ], 
+        [
+            "Haryana", 
+            "38", 
+            "Accused Location"
+        ], 
+        [
+            "Haryana", 
+            "115", 
+            "Accused Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rajendra Chowdhary", 
+            "10", 
+            "Accused"
+        ], 
+        [
+            "Samundar", 
+            "13", 
+            "Accused"
+        ], 
+        [
+            "Chowdhary", 
+            "70", 
+            "Accused"
+        ], 
+        [
+            "Chowdhary", 
+            "83", 
+            "Accused"
+        ], 
+        [
+            "Chowdhary", 
+            "88", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2007 : 22", 
+        "March 26 : 85"
+    ], 
+    "death": "", 
+    "title": "NIA takes custody of Samjhauta accused", 
+    "det_loc": [
+        "India", 
+        "Andhra Pradesh", 
+        "", 
+        "Hyderabad", 
+        "Mecca Masjid"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The National Investigation Agency ( NIA ) has taken Rajendra Chowdhary alias Samundar into custody for interrogation in connection with the 2007 Mecca Masjid bomb blast . The NIA had filed a prisoners transit warrant in a Haryana court and brought him to the city a few days ago . He was remanded to judicial custody by the magistrate . The NIA later filed a plea seeking cu-stody of Chowdhary . After hearing the arguments , the court granted police custody of Chowdhary till March 26 . Chowdhary may be taken to various places in the country to corroborate facts pertaining to the case , sources said . He had been lodged in a Haryana jail for his alleged involvement in Samjhauta Express blast . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "custody:15", 
+        "interrogation:17", 
+        "bomb blast:25", 
+        "prisoners transit warrant:33", 
+        "court:39", 
+        "judicial custody:55", 
+        "magistrate:59", 
+        "plea:66", 
+        "arguments:75", 
+        "court:78", 
+        "police custody:80", 
+        "corroborate:99", 
+        "Haryana jail:115", 
+        "alleged involvement:119", 
+        "samjhauta express blast:122"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/nia-takes-custody-of-samjhauta-accused/article4503516.ece", 
+    "date": "18-05-2007", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "Mecca Masjid, one of the oldest mosques in Hyderabad", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "6", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "Haryana court", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "62", 
+            "Others"
+        ]
+    ]
+}

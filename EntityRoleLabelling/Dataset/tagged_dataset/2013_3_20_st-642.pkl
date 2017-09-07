@@ -1,0 +1,282 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Baghdad'
+p4
+aS'8'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Washington'
+p8
+aS'43'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Iraq'
+p12
+aS'66'
+p13
+aS'Event'
+p14
+aa(lp15
+S'U.S.'
+p16
+aS'87'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Iraq'
+p20
+aS'172'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Baghdads'
+p24
+aS'222'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Baghdads Mashtal'
+p28
+aS'222'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Baghdads'
+p32
+aS'246'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Qahira'
+p36
+aS'248'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Iraqs'
+p40
+aS'261'
+p41
+aS'Event'
+p42
+aasS'PER'
+p43
+(lp44
+(lp45
+S'Saddam Hussein'
+p46
+aS'73'
+p47
+aS'Others'
+p48
+aasS'TIM'
+p49
+(lp50
+S'two hours : 144'
+p51
+aS'8 a.m.:209'
+p52
+aS'10 a.m.:233'
+p53
+aS'six months : 282'
+p54
+asS'hot_setting'
+p55
+S''
+p56
+sS'DAT'
+p57
+(lp58
+S'Tuesday:11'
+p59
+aS'Tuesdays : 31'
+p60
+aS'March 19 , 2003 : 56'
+p61
+aS'Tuesdays : 104'
+p62
+aS'Tuesday:211'
+p63
+aS'Tuesday:266'
+p64
+asS'death'
+p65
+S'57'
+p66
+sS'title'
+p67
+S'Wave of blasts kills 56 on eve of Iraq invasion anniversary'
+p68
+sS'org_unorg'
+p69
+g56
+sS'terror_group'
+p70
+(lp71
+S'AL-QAEDA'
+p72
+asS'content'
+p73
+S'A wave of bombings tore through the Baghdad area on Tuesday , killing 57 people on the eve of the 10th anniversary of the U.S.-led invasion . The symbolism of Tuesdays attacks was strong , coming 10 years to the day that Washington launched the invasion with a shock and awe campaign of airstrikes on March 19 , 2003 before dawn the following day in Iraq . The military action quickly ousted Saddam Hussein but led to years of bloodshed as Sunni and Shia militants battled U.S. forces and each other , leaving nearly 4,500 Americans and more than 100,000 Iraqis killed . Tuesdays apparently coordinated attacks included car bombs and explosives stuck to the underside of vehicles . They targeted government security forces and mainly Shia areas , small restaurants , day labourers and bus stops over a span of more than two hours , according to police and hospital officials . There was no immediate claim of responsibility for the blasts , but they bore hallmarks of al-Qaeda in Iraq . The terror group , which favours car bombs and coordinated bombings intended to undermine public confidence in the government , has sought to reassert its presence in recent weeks . The violence started at around 8 a.m. Tuesday , when a bomb exploded outside a popular restaurant in Baghdads Mashtal neighbourhood , killing four peopleThe deadliest attack was a 10 a.m. car bombing near the Ministry of Labour and Social Affairs in Baghdads eastern Qahira neighbourhood , which killed seven people . Underscoring the political tensions , Iraqs Cabinet also decided on Tuesday to postpone elections in two provinces dominated by the countrys minority Sunnis for up to six months . AP OPEN'
+p74
+sS'injured'
+p75
+g56
+sS'det_loc'
+p76
+(lp77
+S'Iraq'
+p78
+ag56
+ag56
+aS'Baghdad'
+p79
+ag56
+asS'O'
+p80
+(lp81
+S'wave of bombings:2'
+p82
+aS'eve:18'
+p83
+aS'10th anniversary:21'
+p84
+aS'u.s.-led invasion:25'
+p85
+aS'symbolism:29'
+p86
+aS'10 years:37'
+p87
+aS'awe campaign:51'
+p88
+aS'airstrikes:54'
+p89
+aS'military:69'
+p90
+aS'bloodshed:80'
+p91
+aS'sunni and shia militants:82'
+p92
+aS'4,500 americans:95'
+p93
+aS'100,000 iraqis:100'
+p94
+aS'car bombs:109'
+p95
+aS'explosives:112'
+p96
+aS'vehicles:118'
+p97
+aS'government security forces:122'
+p98
+aS'shia areas:127'
+p99
+aS'small restaurants:130'
+p100
+aS'day labourers:133'
+p101
+aS'bus stops:136'
+p102
+aS'police and hospital officials:149'
+p103
+aS'terror group:175'
+p104
+aS'car bombs:180'
+p105
+aS'coordinated bombings:183'
+p106
+aS'public confidence:188'
+p107
+aS'reassert:197'
+p108
+aS'violence:205'
+p109
+aS'bomb exploded:215'
+p110
+aS'restaurant:220'
+p111
+aS'mashtal neighbourhood:223'
+p112
+aS'attack:230'
+p113
+aS'car bombing:235'
+p114
+aS'ministry of labour:239'
+p115
+aS'social affairs:243'
+p116
+aS'eastern qahira:247'
+p117
+aS'underscoring:256'
+p118
+aS'iraqs cabinet:261'
+p119
+aS'provinces:272'
+p120
+aS'minority sunnis:277'
+p121
+asS'unexpl'
+p122
+(lp123
+g56
+asS'ocassion'
+p124
+g56
+sS'link'
+p125
+S'http://www.thehindu.com/todays-paper/tp-international/wave-of-blasts-kills-56-on-eve-of-iraq-invasion-anniversary/article4527868.ece'
+p126
+sS'date'
+p127
+S'19-03-2013'
+p128
+sS'target'
+p129
+S'GOVERNMENT SECURITY FORCES'
+p130
+sS'hot_spot'
+p131
+g56
+sS'delivery_mod'
+p132
+S'CAR'
+p133
+sS'delivery_met'
+p134
+S'PLANTED'
+p135
+sS'expl'
+p136
+(lp137
+g56
+asS'ORG'
+p138
+(lp139
+(lp140
+S'al-Qaeda'
+p141
+aS'170'
+p142
+aS'Accused'
+p143
+aa(lp144
+S'AP'
+p145
+aS'285'
+p146
+aS'Others'
+p147
+aas.

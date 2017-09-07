@@ -1,0 +1,335 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Chennai'
+p4
+aS'14'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Bardhaman'
+p8
+aS'19'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Tamil Nadu'
+p12
+aS'100'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Kerala'
+p16
+aS'103'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'West Bengal'
+p20
+aS'118'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Beldanga'
+p24
+aS'147'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'West Bengal'
+p28
+aS'196'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Simulia Madrassa'
+p32
+aS'206'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'West Bengal'
+p36
+aS'251'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Bardhaman'
+p40
+aS'270'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Bardhaman'
+p44
+aS'284'
+p45
+aS'Neutral'
+p46
+aasS'PER'
+p47
+(lp48
+(lp49
+S'Shakil Ahmed'
+p50
+aS'150'
+p51
+aS'Victim'
+p52
+aasS'TIM'
+p53
+(lp54
+sS'hot_setting'
+p55
+S''
+p56
+sS'DAT'
+p57
+(lp58
+S'Tuesday:9'
+p59
+aS'October 2:158'
+p60
+asS'death'
+p61
+g56
+sS'title'
+p62
+S'NIA summons three from Chennai'
+p63
+sS'det_loc'
+p64
+(lp65
+S'India'
+p66
+aS'West Bengal'
+p67
+aS'Bardhaman'
+p68
+ag56
+ag56
+asS'terror_group'
+p69
+(lp70
+S'JAMIAT-UL-MUJAHIDEEN'
+p71
+asS'content'
+p72
+VThe National Investigation Agency -LRB- NIA -RRB- on Tuesday summoned three persons from Chennai for interrogation in the Bardhaman blast case , after phone records revealed that they were in touch with the accused . . . At this stage , there is no concrete evidence to suggest their involvement . However , since their names have cropped up during the preliminary investigations , they have to be examined , an official said . . . Based on the phone records , the NIA found that the accused had links in almost all major cities , including those in Tamil Nadu and Kerala , he said . . . The NIA conducted searches in different parts of West Bengal on further leads in the case , allegedly involving members of Jamaat-Ul-Mujahideen , a Bangladesh-based extremist group . . . The agency also collected evidence from the Beldanga accommodation of Shakil Ahmed , who was killed in the October 2 blast . Certain documents and metal pieces used in the making of the improvised explosive devices have been recovered , said an official of the Union Home Ministry . . . The NIA team and the West Bengal CID have also launched a search of the Simulia Madrassa , where the accused had been radicalised and initiated into terror activities . . . The NIA has already taken custody of three of the 12 accused , and is trying to secure the custody of the others for joint interrogation with the West Bengal CID and intelligence sleuths . . . Phone records reveal that they were in touch with the Bardhaman blast accused . . Phone records reveal they were in touch with the Bardhaman blast accused .
+p73
+sS'injured'
+p74
+g56
+sS'org_unorg'
+p75
+g56
+sS'O'
+p76
+(lp77
+S'summoned:10'
+p78
+aS'three persons:11'
+p79
+aS'interrogation:16'
+p80
+aS'bardhaman blast case:19'
+p81
+aS'phone records:24'
+p82
+aS'revealed:26'
+p83
+aS'accused:34'
+p84
+aS'concrete evidence:45'
+p85
+aS'suggest:48'
+p86
+aS'involvement:50'
+p87
+aS'cropped up:58'
+p88
+aS'preliminary investigations:62'
+p89
+aS'examined:69'
+p90
+aS'phone records:80'
+p91
+aS'accused:88'
+p92
+aS'links:90'
+p93
+aS'major cities:94'
+p94
+aS'searches:113'
+p95
+aS'case:125'
+p96
+aS'bangladesh-based extremist group:134'
+p97
+aS'agency:141'
+p98
+aS'collected evidence:143'
+p99
+aS'accommodation:148'
+p100
+aS'killed:155'
+p101
+aS'blast:160'
+p102
+aS'certain documents:162'
+p103
+aS'metal pieces:165'
+p104
+aS'improvised explosive devices:173'
+p105
+aS'recovered:178'
+p106
+aS'launched:201'
+p107
+aS'accused:211'
+p108
+aS'radicalised:214'
+p109
+aS'initiated:216'
+p110
+aS'terror activities:218'
+p111
+aS'custody:228'
+p112
+aS'12 accused:233'
+p113
+aS'secure:240'
+p114
+aS'custody:242'
+p115
+aS'joint interrogation:247'
+p116
+aS'intelligence sleuths:255'
+p117
+aS'phone records:260'
+p118
+aS'reveal:262'
+p119
+aS'touch:267'
+p120
+aS'bardhaman blast accused:270'
+p121
+aS'phone records:275'
+p122
+aS'reveal:277'
+p123
+aS'reveal they were in touch with the bardhaman blast accused:277'
+p124
+aS'touch:281'
+p125
+asS'unexpl'
+p126
+(lp127
+g56
+asS'ocassion'
+p128
+g56
+sS'link'
+p129
+S'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/nia-summons-three-from-chennai/article6502057.ece'
+p130
+sS'date'
+p131
+S'02-10-2014'
+p132
+sS'target'
+p133
+g56
+sS'hot_spot'
+p134
+g56
+sS'delivery_mod'
+p135
+g56
+sS'delivery_met'
+p136
+g56
+sS'expl'
+p137
+(lp138
+g56
+asS'ORG'
+p139
+(lp140
+(lp141
+S'National Investigation Agency'
+p142
+aS'2'
+p143
+aS'Others'
+p144
+aa(lp145
+S'NIA'
+p146
+aS'6'
+p147
+aS'Others'
+p148
+aa(lp149
+S'NIA'
+p150
+aS'84'
+p151
+aS'Others'
+p152
+aa(lp153
+S'NIA'
+p154
+aS'111'
+p155
+aS'Others'
+p156
+aa(lp157
+S'Jamaat-Ul-Mujahideen'
+p158
+aS'131'
+p159
+aS'Accused'
+p160
+aa(lp161
+S'NIA'
+p162
+aS'192'
+p163
+aS'Others'
+p164
+aa(lp165
+S'CID'
+p166
+aS'198'
+p167
+aS'Others'
+p168
+aa(lp169
+S'NIA'
+p170
+aS'224'
+p171
+aS'Others'
+p172
+aa(lp173
+S'CID'
+p174
+aS'253'
+p175
+aS'Others'
+p176
+aas.

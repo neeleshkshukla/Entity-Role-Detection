@@ -1,0 +1,90 @@
+{
+    "LOC": [
+        [
+            "Bihar", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Aurangabad", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Tetrain", 
+            "27", 
+            "Event"
+        ], 
+        [
+            "Deo", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Yadupur", 
+            "74", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:45"
+    ], 
+    "death": "", 
+    "title": "Maoists blast school in Aurangabad", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Aurangabad", 
+        "", 
+        "Tetrain village"
+    ], 
+    "terror_group": [
+        "Maoist Communist Centre (MCC)"
+    ], 
+    "content": "Maoists blasted a state-run school at a village in Bihar 's Aurangabad district , the police said . Over 50 ultras surrounded the school building in Tetrain village in the Deo police station area and triggered a dynamite blast to blow it up on Thursday night , they said . Three rooms of the building were destroyed in the blast , they said . A powerful bomb was also recovered from the adjoining Yadupur village , where the Naxalites blew up a school building last year . Raids are on in the area to nab the ultras . PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "school:5", 
+        "village:8", 
+        "ultras:21", 
+        "school building:24", 
+        "tetrain village:27", 
+        "deo police station area:31", 
+        "dynamite blast:38", 
+        "blow:41", 
+        "blast:60", 
+        "powerful bomb:66", 
+        "yadupur village:74", 
+        "school building:83", 
+        "raids:88"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/maoists-blast-school-in-aurangabad/article1572863.ece", 
+    "date": "26-03-2011", 
+    "target": "Educational Institution", 
+    "hot_spot": "School", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Dynamite"
+    ], 
+    "ORG": [
+        [
+            "Maoists", 
+            "1", 
+            "Accused"
+        ], 
+        [
+            "Naxalites", 
+            "79", 
+            "Assoc Accused"
+        ]
+    ]
+}

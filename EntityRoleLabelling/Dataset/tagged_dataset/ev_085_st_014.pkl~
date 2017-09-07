@@ -1,0 +1,321 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'New Delhi'
+p4
+aS'1'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Varanasi'
+p8
+aS'47'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'northern Indian state'
+p12
+aS'55'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Uttar Pradesh'
+p16
+aS'59'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Pune'
+p20
+aS'151'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Mumbai'
+p24
+aS'167'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Varanasi : 253'
+p28
+aS'Event'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'New Delhi'
+p32
+aS'300'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Pakistan'
+p36
+aS'348'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Uttar Pradesh'
+p40
+aS'375'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Ayodhya'
+p44
+aS'417'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Babri Masjid'
+p48
+aS'472'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Varanasi'
+p52
+aS'529'
+p53
+aS'Event'
+p54
+aa(lp55
+S'train station'
+p56
+aS'553'
+p57
+aS'Event'
+p58
+aa(lp59
+S'temple'
+p60
+aS'557'
+p61
+aS'Event'
+p62
+aasS'PER'
+p63
+(lp64
+(lp65
+S'pundits'
+p66
+aS'122'
+p67
+aS'Comment'
+p68
+aasS'TIM'
+p69
+(lp70
+S'evening : 30'
+p71
+aS'6:45 pm : 63'
+p72
+asS'hot_setting'
+p73
+S''
+p74
+sS'DAT'
+p75
+(lp76
+S'Tuesday : 29'
+p77
+aS'February : 153'
+p78
+aS'2008 : 170'
+p79
+aS'September : 307'
+p80
+aS'2007 : 335'
+p81
+aS'2008 : 337'
+p82
+aS'September : 401'
+p83
+aS'1992 : 438'
+p84
+aS'Septembers : 513'
+p85
+aS'March 2006 : 538'
+p86
+asS'death'
+p87
+g5
+sS'title'
+p88
+S"Explosion rocks one of India's holiest cities"
+p89
+sS'org_unorg'
+p90
+S'ORGANISED'
+p91
+sS'terror_group'
+p92
+(lp93
+S'INDIAN MUJAHIDEEN'
+p94
+asS'content'
+p95
+VNew Delhi Islamist militants are being blamed for an explosion that killed at least one person and wounded more than 20 others at one of Hinduisms holiest sites Tuesday evening . . . The blast went off during a Hindu ceremony by the river Ganges in Varanasi , an ancient pilgrimage city in the northern Indian state of Uttar Pradesh at around 6:45 pm . Police were immediately put on high alert in Indias big cities . . . Several television channels and newspapers said they had received e-mails from an Islamist militant group , the Indian Mujahadeen ( IM ) , claiming it was behind the blast . . . The official investigation is just beginning . But Indian security pundits say the IM is an obvious suspect : The group has carried out a string of bombings in Indian cities , most recently in the southern city of Pune this February . It is linked to the Pakistan-based Lashkar-e-Taiba militants who were behind the Mumbai attacks of 2008 . . . A police officer told local journalists a bomb appeared to have been hidden in a container on one of the ghats stone staircases that lead down to the Ganges , where people gather to say their prayers and bathe , particularly at sunrise and sunset . . . The bomb is thought to have killed a baby girl and injured at least 20 more , including an unknown number of foreigners . . . Perhaps Indias holiest city , Varanasi also known by its older name of Benares is always packed with Hindu pilgrims and foreign tourists . . . Some analysts say the IM is focusing on foreigners . The group was suspected of involvement in machine gun attack on tourists in the capital , New Delhi that wounded two foreigners in September , in the run-up to the Commonwealth Games . . . An offshoot of the banned Students Islamic Movement of India , the IM first emerged in 2007 and 2008 . Intelligence officials allege its operatives are being trained in Pakistan . They also say its threat has been reduced in recent months thanks to successful security operations . . . Police have been especially vigilant in Uttar Pradesh in recent months , following a controversial ruling over a religious site that has long divided Indias Hindu majority and Muslim minority . In September , a high court in the state ruled that a site in the town of Ayodhya should be divided between Hindu and Muslims groups , with the majority share going to Hindus . . . In 1992 , Hindu zealots had torn down a 17th century mosque at the site , unleashing India-wide riots that killed 2,000 people , most of them Muslim . . . The issue of the Babri Masjid ( mosque ) has lost some of its power to mobilize mass unrest in recent years . Indias Muslim community , though long marginalized and discriminated against , has been largely peaceful . Despite fears of a backlash after Septembers ruling , the state remained peaceful in the aftermath of the ruling . . . Varanasi is no stranger to militant attacks . In March 2006 , twin bombings blamed on a Pakistan-based Islamist militant group tore through a train station and a temple in the city , killing 20 people . . . .
+p96
+sS'injured'
+p97
+S'20'
+p98
+sS'det_loc'
+p99
+(lp100
+S'India'
+p101
+aS'Uttar Pradesh'
+p102
+aS'Varanasi'
+p103
+aS'Varanasi'
+p104
+aS'Varanasi'
+p105
+asS'O'
+p106
+(lp107
+S'Benares:261'
+p108
+aS'Hindu pilgrims:266'
+p109
+aS'Police:369'
+p110
+asS'unexpl'
+p111
+(lp112
+g74
+asS'ocassion'
+p113
+S'RELIGIOUS FESTIVAL'
+p114
+sS'link'
+p115
+S'http://www.csmonitor.com/World/Asia-South-Central/2010/1207/Explosion-rocks-one-of-India-s-holiest-cities'
+p116
+sS'date'
+p117
+S'07-12-2010'
+p118
+sS'target'
+p119
+g74
+sS'hot_spot'
+p120
+S'Varanasi'
+p121
+sS'delivery_mod'
+p122
+g74
+sS'delivery_met'
+p123
+S'PLANTED'
+p124
+sS'expl'
+p125
+(lp126
+g74
+asS'ORG'
+p127
+(lp128
+(lp129
+S'Islamist militants'
+p130
+aS'3'
+p131
+aS'Accused'
+p132
+aa(lp133
+S'e-mails'
+p134
+aS'89'
+p135
+aS'Others'
+p136
+aa(lp137
+S'Islamist militant'
+p138
+aS'92'
+p139
+aS'Accused'
+p140
+aa(lp141
+S'Indian Mujahadeen'
+p142
+aS'97'
+p143
+aS'Accused'
+p144
+aa(lp145
+S'IM'
+p146
+aS'100'
+p147
+aS'Accused'
+p148
+aa(lp149
+S'Indian security'
+p150
+aS'120'
+p151
+aS'Others'
+p152
+aa(lp153
+S'IM'
+p154
+aS'125'
+p155
+aS'Accused'
+p156
+aa(lp157
+S'Lashkar-e-Taiba'
+p158
+aS'161'
+p159
+aS'Accused'
+p160
+aa(lp161
+S'IM'
+p162
+aS'278'
+p163
+aS'Accused'
+p164
+aa(lp165
+S'Islamic Movement of India'
+p166
+aS'325'
+p167
+aS'Accused'
+p168
+aa(lp169
+S'IM'
+p170
+aS'331'
+p171
+aS'Accused'
+p172
+aa(lp173
+S'Islamist militant'
+p174
+aS'547'
+p175
+aS'Accused'
+p176
+aas.

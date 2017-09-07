@@ -1,0 +1,217 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'cinema hall'
+p4
+aS'15'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Upper Assams Sivasagar'
+p8
+aS'18'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Assam'
+p12
+aS'70'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Dibrugarh'
+p16
+aS'74'
+p17
+aS'Victim Location'
+p18
+aa(lp19
+S'Sivasagar'
+p20
+aS'84'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Central Market'
+p24
+aS'139'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Lakshmi Talkies'
+p28
+aS'142'
+p29
+aS'Event'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Paresh Barua'
+p34
+aS'38'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'G. D. Tripathi'
+p38
+aS'56'
+p39
+aS'Comment'
+p40
+aa(lp41
+S'Mr. Tripathi'
+p42
+aS'121'
+p43
+aS'Comment'
+p44
+aasS'TIM'
+p45
+(lp46
+S'night : 24'
+p47
+aS'evening : 106'
+p48
+asS'hot_setting'
+p49
+S''
+p50
+sS'DAT'
+p51
+(lp52
+S'Monday:23'
+p53
+asS'death'
+p54
+S'1'
+p55
+sS'title'
+p56
+S'One killed as bomb goes off in Assam'
+p57
+sS'org_unorg'
+p58
+S'ORGANISED'
+p59
+sS'terror_group'
+p60
+(lp61
+S'UNITED LIBERATION FRONT OF ASOM '
+p62
+asS'content'
+p63
+VOne person was killed and seven injured when a bicycle-bomb went off outside a cinema hall in Upper Assams Sivasagar town on Monday night . . . Police suspect that the blast was the handiwork of the Paresh Barua faction of the United Liberation Front of Asom -LRB- ULFA -RRB- . . . Home Secretary G. D. Tripathi told The Hindu that one critically injured person was shifted to Assam Medical College in Dibrugarh , while the others were admitted to hospitals in Sivasagar town . . . It is suspected that an improvised explosive device was used . Had the blast occurred in the evening when the place is crowded , there would have been many more casualties , Mr. Tripathi said . . . PTI reports : . . Police said the blast was triggered between Central Market and Lakshmi Talkies in the heart of the town .
+p64
+sS'injured'
+p65
+S'7'
+p66
+sS'det_loc'
+p67
+(lp68
+S'India'
+p69
+aS'Assam'
+p70
+aS'Sivasagar'
+p71
+aS'Upper Assams Sivasagar town'
+p72
+aS'Upper Assams Sivasagar town'
+p73
+asS'O'
+p74
+(lp75
+S'Home Secretary:54'
+p76
+aS'The Hindu:60'
+p77
+aS'Assam Medical College:70'
+p78
+aS'hospitals:82'
+p79
+aS'PTI:127'
+p80
+asS'unexpl'
+p81
+(lp82
+g50
+asS'ocassion'
+p83
+g50
+sS'link'
+p84
+S'http://www.thehindu.com/todays-paper/one-killed-as-bomb-goes-off-in-assam/article3934144.ece'
+p85
+sS'date'
+p86
+S'24-09-2012'
+p87
+sS'target'
+p88
+g50
+sS'hot_spot'
+p89
+S'Upper Assams Sivasagar town'
+p90
+sS'delivery_mod'
+p91
+S'BYCICLE'
+p92
+sS'delivery_met'
+p93
+S'PLANTED'
+p94
+sS'expl'
+p95
+(lp96
+g50
+asS'ORG'
+p97
+(lp98
+(lp99
+S'Police'
+p100
+aS'28'
+p101
+aS'Others'
+p102
+aa(lp103
+S'United Liberation Front of Asom'
+p104
+aS'43'
+p105
+aS'Accused'
+p106
+aa(lp107
+S'ULFA'
+p108
+aS'49'
+p109
+aS'Accused'
+p110
+aa(lp111
+S'Assam Medical College'
+p112
+aS'70'
+p113
+aS'Others'
+p114
+aa(lp115
+S'Police'
+p116
+aS'132'
+p117
+aS'Others'
+p118
+aas.

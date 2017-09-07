@@ -1,0 +1,244 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Chennai'
+p4
+aS'24'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Chennai'
+p8
+aS'35'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Gudiyatham'
+p12
+aS'220'
+p13
+aS'Neutral'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'B. Sudershan Reddy'
+p18
+aS'47'
+p19
+aS'Others'
+p20
+aa(lp21
+S'S.S. Nijjar'
+p22
+aS'52'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Kaza Nizamuddin'
+p26
+aS'58'
+p27
+aS'Accused'
+p28
+aa(lp29
+S'Hyder Ali'
+p30
+aS'61'
+p31
+aS'Accused'
+p32
+aa(lp33
+S'Abubucker Siddique'
+p34
+aS'64'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Reddy'
+p38
+aS'129'
+p39
+aS'Others'
+p40
+aa(lp41
+S'R. Natarajan'
+p42
+aS'195'
+p43
+aS'Others'
+p44
+aa(lp45
+S'G. Balaji'
+p46
+aS'199'
+p47
+aS'Others'
+p48
+aasS'TIM'
+p49
+(lp50
+sS'hot_setting'
+p51
+S''
+p52
+sS'DAT'
+p53
+(lp54
+S'August 6:95'
+p55
+aS'August:95'
+p56
+aS'1993:98'
+p57
+asS'death'
+p58
+S'11'
+p59
+sS'title'
+p60
+S'RSS office bomb blast accused acquitted'
+p61
+sS'org_unorg'
+p62
+S'Organized'
+p63
+sS'terror_group'
+p64
+(lp65
+g52
+asS'content'
+p66
+S"The Supreme Court has ordered acquittal of three main accused in the case relating to a bomb blast at the RSS office in Chennai and directed their release forthwith . The TADA court in Chennai had awarded life imprisonment to them . A Bench of Justice B. Sudershan Reddy and Justice S.S. Nijjar allowed the appeals of Kaza Nizamuddin , Hyder Ali and Abubucker Siddique challenging the life sentence and dismissed the CBI 's appeals questioning the acquittal of some of the accused by the TADA court . The prosecution case was that on August 6 , 1993 , there were loud explosions which resulted in the death of 11 persons , injuries to seven , and complete demolition of the building . Writing the judgment , Justice Reddy said , Excepting for the confessional statements , admittedly , there is no other independent evidence with regard to the participation of the accused in the conspiracy and the particular role played by them . It is apparent that even according to the prosecution version , they could have only carried bombs made from gelatine . The Bench , accepting the arguments of senior counsel R. Natarajan and counsel G. Balaji appearing for the appellants , said the confessional statements reveal that what was purchased was only gelatine sticks from Gudiyatham and not RDX or PETN , which has got a serious bearing on the acceptability of the confessional statements of the accused and their involvement of all the accused in the conspiracy . The lid on the prosecution case is blown away by the report of forensic experts and the traces of the explosive material collected at the bomb site . The prosecution story does not inspire confidence on the basis of the material placed on record , it said . OPEN"
+p67
+sS'injured'
+p68
+S'7'
+p69
+sS'det_loc'
+p70
+(lp71
+S'India'
+p72
+aS'Delhi'
+p73
+aS'New Delhi'
+p74
+ag52
+ag52
+asS'O'
+p75
+(lp76
+S'bomb blast:17'
+p77
+aS'life sentence:68'
+p78
+aS'tada court:86'
+p79
+aS'confessional:135'
+p80
+aS'evidence:145'
+p81
+aS'gelatine:184'
+p82
+aS'confessional:208'
+p83
+aS'gelatine sticks:217'
+p84
+aS'rdx:223'
+p85
+aS'petn:225'
+p86
+aS'involvement:245'
+p87
+aS'explosive material:274'
+p88
+aS'bomb site:279'
+p89
+aS'prosecution story:283'
+p90
+aS'confidence:288'
+p91
+aS'basis:291'
+p92
+aS'record:297'
+p93
+asS'unexpl'
+p94
+(lp95
+g52
+asS'ocassion'
+p96
+g52
+sS'link'
+p97
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/rss-office-bomb-blast-accused-acquitted/article938930.ece'
+p98
+sS'date'
+p99
+S'06-08-1993'
+p100
+sS'target'
+p101
+S'Public Organization'
+p102
+sS'hot_spot'
+p103
+S'bomb blast at the RSS office'
+p104
+sS'delivery_mod'
+p105
+g52
+sS'delivery_met'
+p106
+g52
+sS'expl'
+p107
+(lp108
+g52
+asS'ORG'
+p109
+(lp110
+(lp111
+S'Supreme Court'
+p112
+aS'2'
+p113
+aS'Others'
+p114
+aa(lp115
+S'RSS office'
+p116
+aS'21'
+p117
+aS'Others'
+p118
+aa(lp119
+S'TADA court'
+p120
+aS'32'
+p121
+aS'Others'
+p122
+aa(lp123
+S'CBI'
+p124
+aS'73'
+p125
+aS'Others'
+p126
+aa(lp127
+S'TADA court'
+p128
+aS'86'
+p129
+aS'Others'
+p130
+aas.

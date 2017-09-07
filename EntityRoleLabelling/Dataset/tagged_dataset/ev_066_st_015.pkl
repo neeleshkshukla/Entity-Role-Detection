@@ -1,0 +1,521 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'PANIPAT'
+p4
+aS'31'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Pakistan'
+p8
+aS'98'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Delhi'
+p12
+aS'110'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Pakistan'
+p16
+aS'234'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'India'
+p20
+aS'244'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Pakistan'
+p24
+aS'253'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Deewana'
+p28
+aS'370'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Panipat'
+p32
+aS'373'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Delhi'
+p36
+aS'416'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'New Delhi'
+p40
+aS'543'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'UP'
+p44
+aS'571'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Attari'
+p48
+aS'594'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Wagah'
+p52
+aS'615'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Pakistan'
+p56
+aS'617'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'New Delhi'
+p60
+aS'711'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'New Delhi'
+p64
+aS'721'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Hazrat Nizamuddin'
+p68
+aS'730'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Ambala'
+p72
+aS'734'
+p73
+aS'Neutral'
+p74
+aa(lp75
+S'Amritsar'
+p76
+aS'746'
+p77
+aS'Neutral'
+p78
+aa(lp79
+S'Ludhiana'
+p80
+aS'751'
+p81
+aS'Neutral'
+p82
+aa(lp83
+S'Jalandhar'
+p84
+aS'754'
+p85
+aS'Neutral'
+p86
+aasS'PER'
+p87
+(lp88
+(lp89
+S'Praveen Swami'
+p90
+aS'1'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Khurshid Mahmud Kasuri'
+p94
+aS'102'
+p95
+aS'Others'
+p96
+aa(lp97
+S'Lalu Prasad'
+p98
+aS'406'
+p99
+aS'Others'
+p100
+aa(lp101
+S'Prasad'
+p102
+aS'474'
+p103
+aS'Others'
+p104
+aasS'TIM'
+p105
+(lp106
+S'midnight : 55'
+p107
+aS'day : 95'
+p108
+aS'three-day : 106'
+p109
+aS'48 hours : 160'
+p110
+aS'fifteen minutes : 385'
+p111
+asS'hot_setting'
+p112
+S''
+p113
+sS'DAT'
+p114
+(lp115
+S'Sunday:57'
+p116
+asS'death'
+p117
+S'67'
+p118
+sS'title'
+p119
+S'Samjhauta Express firebombed, 67 killed'
+p120
+sS'det_loc'
+p121
+(lp122
+S'India'
+p123
+aS'Haryana'
+p124
+aS'Panipat'
+p125
+ag113
+ag113
+asS'terror_group'
+p126
+(lp127
+g113
+asS'content'
+p128
+VPraveen Swami . . Suitcase bombs intended to kill by fire , not explosion ; Rs . 10 lakh for next of kin of each of the deceased . . PANIPAT : At least 67 people were killed and 50 injured when two firebombs went off on the New Delhi-Wagah Samjhauta Express just before midnight on Sunday . Most of the dead , including three children , are Pakistani citizens : the first civilians of that country to have died in a terrorist strike on Indian soil . . . The attack comes a day ahead of Pakistan 's Foreign Minister Khurshid Mahmud Kasuri 's three-day official visit to Delhi . . . Investigators believe the perpetrators of the terror strike intended that the bombing be mistaken for an arson attack - a deception they hoped would deflect suspicion away from them . . . Forensic tests on three unexploded suitcase-bombs found on the train will take at least 48 hours to complete , but a senior intelligence official told The Hindu that investigators have been able to determine that the devices were cleverly designed to start a fire . ` They were incendiary devices , ' he said , ` rather than explosive devices . ' . . ` Whoever carried out this attack , ' the official said , ` hoped that it would be interpreted as arson . Many in Pakistan would have blamed Hindu fundamentalists for the attack . India would have suspected terrorists , but few in Pakistan would have believed its claims . Unfortunately for the perpetrators , and fortunately for us , three devices failed to work . ' . . Forensic findings . . Bottles filled with kerosene and then packed with cotton-wool were recovered from the three unexploded devices . Digital travel alarm clocks linked to a circuit-controlled detonator were used to control the timing of the ignition . A severed wire has been established , in one case , as the cause of the firebomb 's failure to ignite . . . The absence of an explosion meant the driver of the Samjhauta Express did not realise there was a fire until he was alerted by station staff at Deewana , near Panipat . . . Passengers said the train kept moving for over fifteen minutes after the fire broke out , delaying their escape from the two burning compartments . . . Railway Minister Lalu Prasad who visited the site and Safdarjung hospital in Delhi , admitted that poor security facilitated the strike . However , he noted that station authorities do not possess baggage-screening equipment . . . An official inquiry into the bombings will look into measures to improve security , but Railway Police officials say that screening of all passenger baggage may not be possible . . . Mr. Prasad announced a compensation of Rs . 10 lakh for the next of the kin of each of the deceased and Rs . 50,000 for the injured . Investigators plan to question survivors to see if any of them saw the suitcases being planted on the train . Since doors and vestibules are closed on the Samjhauta Express , it is almost certain that the bombs were planted in New Delhi , most likely by a perpetrator who did not board the train . . . Technically , the ill-fated train is the Delhi-Attari Special -LRB- 4001 UP -RRB- , though it is commonly known as the Samjhauta Express . . . All passengers on the Special train alight at Attari , on the Indian side of the border , from where they catch another train to travel three kilometres to Wagah in Pakistan . Investigators say the fact that most witnesses are Pakistani nationals will pose an unusual challenge . . . ` Many of the survivors we need to speak to will soon be in Pakistan , ' a senior Ministry of Home Affairs official told The Hindu . . . ` This investigation will be a real test of India-Pakistan counter-terrorism cooperation , ' he said . . . Helpline numbers . . The Railways has set up telephone helplines to provide information on the Samjhauta Express tragedy . . . They are : New Delhi Railway Station 011-23341074 and 23342954 ; Headquarter -LRB- New Delhi -RRB- 011-23389319 , 23389853 and 23385106 ; Hazrat Nizamuddin 011-24355954 ; Ambala 1072 -LRB- local helpline number -RRB- , 0171-2610329 and 2611072 ; Amritsar 0183-2223171 and 2564485 ; Ludhiana 0161-2760006 ; Jalandhar 0181-2223504 ; at the site 0180-3297823 and 6450342 .
+p129
+sS'injured'
+p130
+S'50'
+p131
+sS'org_unorg'
+p132
+g113
+sS'O'
+p133
+(lp134
+S'suitcase bombs:5'
+p135
+aS'kill:9'
+p136
+aS'fire:11'
+p137
+aS'explosion:14'
+p138
+aS'rs . 10 lakh:16'
+p139
+aS'killed:38'
+p140
+aS'injured:41'
+p141
+aS'two firebombs:43'
+p142
+aS'new delhi-wagah samjhauta express:49'
+p143
+aS'dead:62'
+p144
+aS'pakistani citizens:69'
+p145
+aS'country:77'
+p146
+aS'died:80'
+p147
+aS'terrorist strike:83'
+p148
+aS'attack:92'
+p149
+aS'investigators:114'
+p150
+aS'perpetrators:117'
+p151
+aS'terror strike:120'
+p152
+aS'bombing:125'
+p153
+aS'arson attack:130'
+p154
+aS'deflect suspicion:138'
+p155
+aS'forensic tests:146'
+p156
+aS'unexploded suitcase-bombs:150'
+p157
+aS'train:155'
+p158
+aS'investigators:174'
+p159
+aS'devices:182'
+p160
+aS'incendiary devices:194'
+p161
+aS'explosive devices:204'
+p162
+aS'attack:215'
+p163
+aS'interpreted:228'
+p164
+aS'arson:230'
+p165
+aS'hindu fundamentalists:238'
+p166
+aS'attack:242'
+p167
+aS'suspected terrorists:247'
+p168
+aS'perpetrators:263'
+p169
+aS'three devices:270'
+p170
+aS'failed:272'
+p171
+aS'forensic findings:279'
+p172
+aS'kerosene:286'
+p173
+aS'cotton-wool:291'
+p174
+aS'recovered:293'
+p175
+aS'three unexploded devices:296'
+p176
+aS'digital travel:300'
+p177
+aS'alarm clocks:302'
+p178
+aS'circuit-controlled detonator:307'
+p179
+aS'severed wire:320'
+p180
+aS"firebomb 's failure:335"
+p181
+aS'ignite:339'
+p182
+aS'absence:344'
+p183
+aS'explosion:347'
+p184
+aS'samjhauta express:353'
+p185
+aS'alerted:365'
+p186
+aS'station staff:367'
+p187
+aS'passengers:377'
+p188
+aS'train:380'
+p189
+aS'fire:389'
+p190
+aS'escape:395'
+p191
+aS'two burning compartments:398'
+p192
+aS'site:411'
+p193
+aS'security facilitated:421'
+p194
+aS'strike:424'
+p195
+aS'baggage-screening equipment:436'
+p196
+aS'inquiry:443'
+p197
+aS'bombings:446'
+p198
+aS'improve security:452'
+p199
+aS'screening:461'
+p200
+aS'baggage:465'
+p201
+aS'announced:475'
+p202
+aS'rs . 10 lakh:479'
+p203
+aS'rs . 50,000:495'
+p204
+aS'injured:500'
+p205
+aS'investigators:502'
+p206
+aS'survivors:506'
+p207
+aS'suitcases:515'
+p208
+aS'train:520'
+p209
+aS'samjhauta express:530'
+p210
+aS'bombs:539'
+p211
+aS'perpetrator:550'
+p212
+aS'ill-fated train:563'
+p213
+aS'delhi-attari special:567'
+p214
+aS'samjhauta express:581'
+p215
+aS'train:609'
+p216
+aS'investigators:619'
+p217
+aS'witnesses:625'
+p218
+aS'pakistani nationals:627'
+p219
+aS'investigation:669'
+p220
+aS'railways:691'
+p221
+aS'telephone helplines:695'
+p222
+aS'information:699'
+p223
+aS'samjhauta express tragedy:702'
+p224
+aS'new delhi railway station:711'
+p225
+aS'011-23341074:715'
+p226
+aS'23342954:717'
+p227
+aS'011-23389319:724'
+p228
+aS'23389853:726'
+p229
+aS'23385106:728'
+p230
+aS'011-24355954:732'
+p231
+aS'1072:735'
+p232
+aS'local helpline number:737'
+p233
+aS'0171-2610329:742'
+p234
+aS'2611072:744'
+p235
+aS'0183-2223171:747'
+p236
+aS'2564485:749'
+p237
+aS'0161-2760006:752'
+p238
+aS'0181-2223504:755'
+p239
+aS'0180-3297823:760'
+p240
+aS'6450342:762'
+p241
+asS'unexpl'
+p242
+(lp243
+g113
+asS'ocassion'
+p244
+g113
+sS'link'
+p245
+S'http://www.thehindu.com/todays-paper/article1799870.ece'
+p246
+sS'date'
+p247
+S'18-02-2007'
+p248
+sS'target'
+p249
+S'TRAIN'
+p250
+sS'hot_spot'
+p251
+g113
+sS'delivery_mod'
+p252
+S'TRAIN'
+p253
+sS'delivery_met'
+p254
+S'PLANTED'
+p255
+sS'expl'
+p256
+(lp257
+g113
+asS'ORG'
+p258
+(lp259
+(lp260
+S'The Hindu'
+p261
+aS'171'
+p262
+aS'Others'
+p263
+aa(lp264
+S'Safdarjung hospital'
+p265
+aS'413'
+p266
+aS'Others'
+p267
+aa(lp268
+S'The Hindu'
+p269
+aS'662'
+p270
+aS'Others'
+p271
+aa(lp272
+S'India-Pakistan counter-terrorism cooperation'
+p273
+aS'676'
+p274
+aS'Others'
+p275
+aas.

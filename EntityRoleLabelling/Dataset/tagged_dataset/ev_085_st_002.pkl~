@@ -1,0 +1,311 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Varanasi : 6'
+p4
+aS'Event'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'India'
+p8
+aS'21'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Jammu and Kashmir'
+p12
+aS'206'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Delhi'
+p16
+aS'239'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Hyderabad'
+p20
+aS'241'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Bangalore'
+p24
+aS'243'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Varanasi'
+p28
+aS'295'
+p29
+aS'Event'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Manmohan Singh'
+p34
+aS'12'
+p35
+aS'Comment'
+p36
+aS'Others'
+p37
+aa(lp38
+S'Singh'
+p39
+aS'35'
+p40
+aS'Others'
+p41
+aa(lp42
+S'P. Chidambaram'
+p43
+aS'133'
+p44
+aS'Others'
+p45
+aa(lp46
+S'G.K. Pillai'
+p47
+aS'255'
+p48
+aS'Comment'
+p49
+aa(lp50
+S'Pillai'
+p51
+aS'343'
+p52
+aS'Comment'
+p53
+aasS'TIM'
+p54
+(lp55
+S'6.20 p.m.:306'
+p56
+asS'hot_setting'
+p57
+S''
+p58
+sS'DAT'
+p59
+(lp60
+S'Tuesday : 8'
+p61
+asS'death'
+p62
+g58
+sS'title'
+p63
+S'Blast, an attempt to weaken our resolve to fight terror: Manmohan'
+p64
+sS'det_loc'
+p65
+(lp66
+S'India'
+p67
+aS'Uttar Pradesh'
+p68
+aS'Varanasi'
+p69
+aS'Varanasi'
+p70
+ag58
+asS'terror_group'
+p71
+(lp72
+S'INDIAN MUJAHIDEEN'
+p73
+asS'content'
+p74
+VCondemning the bomb blast in Varanasi on Tuesday , Prime Minister Manmohan Singh said it was an attempt to weaken India 's resolve to fight the evil forces of terrorism . . . Dr. Singh appealed to people to maintain calm and peace . It is the most unfortunate incident . It was an attempt to weaken our resolve to fight the evil forces of terrorism and the terrorists will not succeed , he said soon after the incident . . . My heart goes out to those suffering families and we will provide succour to them , the Prime Minister said . . . Earlier , he asked the Home Ministry for a detailed report . . . Terming the blast an attempt to disturb peace and harmony , Home Minister P. Chidambaram appealed to the people to remain calm . He said security had been tightened all over the country . . . He said the Indian Mujahideen had claimed responsibility . The authenticity of the claim was being verified . . . He said various media houses received an e-mail purported to be from the outfit . It is a five-page document that refers to the demolition of the Babri Masjid , Jammu and Kashmir and other issues . PTI . . Nationwide alert . . Special Correspondent reports : . . In the wake of the blast , a nationwide alert , particularly in Delhi , Hyderabad , Bangalore and Mumbai , had been sounded , said Union Home Secretary G.K. Pillai . . . A general alert has been sent to all State governments and they were asked to stay on high alert . . . The Home Ministry planned to send a team of National Investigation Agency to Varanasi . It was a low intensity blast that occurred at 6.20 p.m. and three to four people were injured . Subsequently , we understand there could have been a stampede . As a result 15-20 people were injured . So about 20-25 people were injured , Mr. Pillai said .
+p75
+sS'injured'
+p76
+S'25'
+p77
+sS'org_unorg'
+p78
+g58
+sS'O'
+p79
+(lp80
+S'Condemning:1'
+p81
+aS'bomb blast:3'
+p82
+aS'attempt:18'
+p83
+aS'weaken:20'
+p84
+aS"India 's resolve:21"
+p85
+aS'fight:25'
+p86
+aS'evil forces of terrorism:27'
+p87
+aS'appealed:36'
+p88
+aS'maintain:40'
+p89
+aS'calm and peace:41'
+p90
+aS'unfortunate incident:49'
+p91
+aS'attempt:55'
+p92
+aS'weaken:57'
+p93
+aS'resolve:59'
+p94
+aS'fight:61'
+p95
+aS'evil forces of terrorism:63'
+p96
+aS'terrorists:69'
+p97
+aS'not succeed:71'
+p98
+aS'incident:79'
+p99
+aS'suffering families:89'
+p100
+aS'succour:95'
+p101
+aS'detailed report:115'
+p102
+aS'Terming:120'
+p103
+aS'blast:122'
+p104
+aS'attempt:124'
+p105
+aS'disturb:126'
+p106
+aS'peace and harmony:127'
+p107
+aS'appealed:135'
+p108
+aS'remain calm:140'
+p109
+aS'security:145'
+p110
+aS'tightened:148'
+p111
+aS'claimed responsibility:162'
+p112
+aS'authenticity:166'
+p113
+aS'claim:169'
+p114
+aS'verified:172'
+p115
+aS'e-mail purported:183'
+p116
+aS'outfit:189'
+p117
+aS'five-page document:194'
+p118
+aS'demolition:200'
+p119
+aS'Babri Masjid:203'
+p120
+aS'issues:211'
+p121
+aS'Nationwide alert:216'
+p122
+aS'blast:231'
+p123
+aS'nationwide alert:234'
+p124
+aS'Mumbai:245'
+p125
+aS'sounded:249'
+p126
+aS'general alert:261'
+p127
+aS'State governments:268'
+p128
+aS'high alert:277'
+p129
+aS'planned:285'
+p130
+aS'low intensity blast:300'
+p131
+aS'three to four people:309'
+p132
+aS'injured:314'
+p133
+aS'stampede:325'
+p134
+aS'15-20 people:330'
+p135
+aS'injured:333'
+p136
+aS'20-25 people:337'
+p137
+aS'injured:340'
+p138
+asS'unexpl'
+p139
+(lp140
+g58
+asS'ocassion'
+p141
+g58
+sS'link'
+p142
+S'http://www.thehindu.com/todays-paper/tp-national/blast-an-attempt-to-weaken-our-resolve-to-fight-terror-manmohan/article938515.ece'
+p143
+sS'date'
+p144
+S'07-12-2010'
+p145
+sS'target'
+p146
+g58
+sS'hot_spot'
+p147
+g58
+sS'delivery_mod'
+p148
+g58
+sS'delivery_met'
+p149
+S'PLANTED'
+p150
+sS'expl'
+p151
+(lp152
+g58
+asS'ORG'
+p153
+(lp154
+(lp155
+S'Indian Mujahideen'
+p156
+aS'159'
+p157
+aS'Accused'
+p158
+aa(lp159
+S'National Investigation Agency'
+p160
+aS'291'
+p161
+aS'Others'
+p162
+aas.

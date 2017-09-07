@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "Nawada", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Bihar", 
+            "19", 
+            "Event"
+        ], 
+        [
+            "Patna", 
+            "79", 
+            "Event"
+        ], 
+        [
+            "Nawada", 
+            "102", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Deepak", 
+            "40", 
+            "Victim"
+        ], 
+        [
+            "Shankar", 
+            "42", 
+            "Victim"
+        ], 
+        [
+            "Karan Manjhi", 
+            "44", 
+            "Victim"
+        ], 
+        [
+            "Deepak", 
+            "72", 
+            "Victim"
+        ], 
+        [
+            "Shankar", 
+            "74", 
+            "Victim"
+        ], 
+        [
+            "Karan", 
+            "94", 
+            "Victim"
+        ], 
+        [
+            "Manavjit Singh", 
+            "107", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "197", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "8.15 a.m. : 63", 
+        "8.20 a.m. : 66"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday : 21"
+    ], 
+    "death": "0", 
+    "title": "Bomb in tiffin box goes off; 3 children injured", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "Nawada", 
+        "", 
+        "In a small steel tiffin box in a garbage dump"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Three children , who worked as ragpickers , were injured in a low-intensity blast in Nawada district of Bihar on Wednesday . The explosive was placed in a small steel tiffin box in a garbage dump . The children Deepak , Shankar and Karan Manjhi aged between eight and 10 years , tried to open it when the bomb went off between 8.15 a.m. and 8.20 a.m. , police said . Deepak and Shankar were rushed to the Patna Medical College and Hospital in a critical condition with head and limb injuries . Karan was admitted to the Sadar hospital in Nawada . Superintendent of Police Manavjit Singh said the children were out of danger and were making good progress . There did not seem to be any terror link so far . Apart from the bomb that went off , two other tiffin box bombs were defused by a bomb squad . Contents of the explosives were sent for forensic examination . Preliminary reports indicated that sulphur , potassium nitrate , diesel and nut and bolts were used in making the bomb . It is an improvised explosive , but low in intensity , Mr. Singh told The Hindu . The children belong to Dalit families . They are ragpickers who eke out a living by selling metal scrap . They are our only eyewitnesses . We still have to record their statements , he said . Police do not see terror link ; two other tiffin box bombs were defused OPEN", 
+    "injured": "3", 
+    "org_unorg": "", 
+    "O": [
+        "ragpickers:7", 
+        "low-intensity blast:13", 
+        "explosive:24", 
+        "steel tiffin box:30", 
+        "garbage dump:35", 
+        "bomb:59", 
+        "out of danger:113", 
+        "good progress:119", 
+        "terror:129", 
+        "bomb:137", 
+        "tiffin box bombs:144", 
+        "defused:148", 
+        "bomb squad:151", 
+        "forensic examination:161", 
+        "sulphur:168", 
+        "potassium nitrate:170", 
+        "diesel:173", 
+        "nut:175", 
+        "bolts:177", 
+        "bomb:183", 
+        "improvised explosive:188", 
+        "Dalit families:206", 
+        "ragpickers:211", 
+        "metal scrap:219", 
+        "eyewitnesses:226", 
+        "record:232", 
+        "terror link:243", 
+        "tiffin box bombs:248", 
+        "defused:252"
+    ], 
+    "unexpl": [
+        "NUTS AND BOLTS", 
+        "DIESEL"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/bomb-in-tiffin-box-goes-off-3-children-injured/article4786041.ece", 
+    "date": "05-06-2013", 
+    "target": "ROAD SIDE", 
+    "hot_spot": "In a small steel tiffin box in a garbage dump", 
+    "delivery_mod": "TIFFIN BOX", 
+    "delivery_met": "", 
+    "expl": [
+        "IED", 
+        "SULPHUR", 
+        "POTASSIUM NITRATE"
+    ], 
+    "ORG": [
+        [
+            "Patna Medical College and Hospital", 
+            "79", 
+            "Others"
+        ], 
+        [
+            "Sadar hospital", 
+            "99", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "199", 
+            "Others"
+        ]
+    ]
+}

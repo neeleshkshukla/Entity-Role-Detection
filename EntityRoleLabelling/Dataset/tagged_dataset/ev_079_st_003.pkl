@@ -1,0 +1,397 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'22'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Mehrauli'
+p8
+aS'44'
+p9
+aS'Event'
+p10
+aa(lp11
+S'South Delhi'
+p12
+aS'47'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Capital'
+p16
+aS'99'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Mehrauli Sarai market'
+p20
+aS'127'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Capital'
+p24
+aS'386'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Pakistan'
+p28
+aS'408'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Delhi'
+p32
+aS'471'
+p33
+aS'Event'
+p34
+aasS'PER'
+p35
+(lp36
+(lp37
+S'Devesh K. Pandey'
+p38
+aS'1'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Santosh'
+p42
+aS'134'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Santoshs'
+p46
+aS'174'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Tilak Raj'
+p50
+aS'189'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Baldev Khattar'
+p54
+aS'239'
+p55
+aS'Others'
+p56
+aa(lp57
+S'Vikas'
+p58
+aS'260'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Jitender'
+p62
+aS'293'
+p63
+aS'Others'
+p64
+aa(lp65
+S'Abdul Karim Tunda'
+p66
+aS'397'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Ajay Kashyap'
+p70
+aS'434'
+p71
+aS'Others'
+p72
+aasS'TIM'
+p73
+(lp74
+S'fortnight : 27'
+p75
+aS'2-15 p.m.:131'
+p76
+asS'hot_setting'
+p77
+S''
+p78
+sS'DAT'
+p79
+(lp80
+S'Saturday : 50'
+p81
+aS'September 13 : 85'
+p82
+aS'1997-98 : 388'
+p83
+asS'death'
+p84
+g78
+sS'title'
+p85
+S'Blast in Delhi again, two killed'
+p86
+sS'org_unorg'
+p87
+g78
+sS'terror_group'
+p88
+(lp89
+S'LASHKAR-E-TAIBA'
+p90
+asS'content'
+p91
+VDevesh K. Pandey . . 24 injured ; police believe it is not linked to the recent serial blasts . . NEW DELHI : Exactly a fortnight after a series of five blasts rocked the Capital , a bomb exploded in the crowded Mehrauli area of South Delhi on Saturday , claiming the lives of a nine-year-old boy and a 60-year-old unidentified man . Nearly two dozen people were injured . . . The police believe that the blast is not linked to the September 13 explosions . However , a red alert has been sounded in the Capital . . . According to eyewitnesses , two men riding a black motorcycle dropped a polythene bag containing the bomb near an electrical goods shop at the Mehrauli Sarai market around 2-15 p.m. Nine-year-old Santosh , who was standing nearby , thought the duo had accidentally dropped the bag and picked it up to return it to the riders when the bomb exploded . . . The impact of the blast was such that Santoshs head was blown off and he was tossed into the air . . . Tilak Raj , who was in the market , said : Soon after the blast , the lane was filled with thick smoke . When it cleared , I saw people lying on the road in blood-splattered clothes writhing in pain . A boy was lying motionless . . . Baldev Khattar , who was at the entrance of his electronic goods shop , was injured , but his nephew , Vikas , escaped unhurt as he was inside . Several other shopkeepers and passers-by were injured . Three of the four shops damaged in the blast belong to the Khattar family , said Jitender , who works in a utensils shop . . . Residents and shopkeepers immediately called up the police and rushed the injured to the All-India Institute of Medical Sciences , Safdarjung Hospital and Fortis Hospital . . . The police soon reached the spot and cordoned off the blast site . . . By then all shopkeepers in the area had downed the shutters and the market was closed . . . Preliminary investigations indicated that the bomb was of a crude nature , very similar to the ones used in the Capital during 1997-98 by a module headed by top Lashkar-e-Taiba militant Abdul Karim Tunda , who is now said to be in Pakistan . While the bomb had a chemical-detonation mechanism , nails were used as splinters . . . Joint Commissioner of Police -LRB- Southern Range -RRB- Ajay Kashyap said the bomb was planted by two motorcycle-borne men who were in their early 30s . . . They were dressed in black jeans and shirts and were wearing helmets . The motorcycle bore a Delhi registration number . . . RELATED LINKS .
+p92
+sS'injured'
+p93
+S'24'
+p94
+sS'det_loc'
+p95
+(lp96
+S'India'
+p97
+aS'Delhi'
+p98
+aS'New Delhi'
+p99
+aS'New Delhi'
+p100
+ag78
+asS'O'
+p101
+(lp102
+S'injured:7'
+p103
+aS'serial blasts:18'
+p104
+aS'five blasts:32'
+p105
+aS'rocked:34'
+p106
+aS'capital:36'
+p107
+aS'bomb exploded:39'
+p108
+aS'crowded:43'
+p109
+aS'nine-year-old boy:57'
+p110
+aS'60-year-old unidentified man:61'
+p111
+aS'injured:70'
+p112
+aS'blast:79'
+p113
+aS'explosions:87'
+p114
+aS'red alert:92'
+p115
+aS'sounded:96'
+p116
+aS'eyewitnesses:105'
+p117
+aS'black motorcycle:111'
+p118
+aS'polythene bag:115'
+p119
+aS'bomb:119'
+p120
+aS'electrical goods:122'
+p121
+aS'Nine-year-old:133'
+p122
+aS'accidentally dropped:145'
+p123
+aS'bag:148'
+p124
+aS'return:154'
+p125
+aS'riders:158'
+p126
+aS'bomb exploded:161'
+p127
+aS'impact:167'
+p128
+aS'blast:170'
+p129
+aS'blown off:177'
+p130
+aS'market:196'
+p131
+aS'blast:203'
+p132
+aS'thick smoke:210'
+p133
+aS'blood-splattered clothes:225'
+p134
+aS'pain:229'
+p135
+aS'motionless:235'
+p136
+aS'electronic goods shop:249'
+p137
+aS'injured:254'
+p138
+aS'nephew:258'
+p139
+aS'unhurt:263'
+p140
+aS'shopkeepers:271'
+p141
+aS'passers-by:273'
+p142
+aS'injured:275'
+p143
+aS'four shops:280'
+p144
+aS'damaged:282'
+p145
+aS'blast:285'
+p146
+aS'Khattar family:289'
+p147
+aS'utensils shop:299'
+p148
+aS'Residents:304'
+p149
+aS'shopkeepers:306'
+p150
+aS'injured:315'
+p151
+aS'spot:337'
+p152
+aS'cordoned off:339'
+p153
+aS'blast site:342'
+p154
+aS'shopkeepers:350'
+p155
+aS'shutters:357'
+p156
+aS'market:360'
+p157
+aS'Preliminary investigations:366'
+p158
+aS'bomb:371'
+p159
+aS'crude nature:375'
+p160
+aS'module headed:391'
+p161
+aS'militant:396'
+p162
+aS'bomb:412'
+p163
+aS'chemical-detonation mechanism:415'
+p164
+aS'splinters:422'
+p165
+aS'Southern Range:431'
+p166
+aS'bomb:438'
+p167
+aS'planted:440'
+p168
+aS'two motorcycle-borne:442'
+p169
+aS'early 30s:449'
+p170
+aS'dressed:456'
+p171
+aS'black jeans:458'
+p172
+aS'shirts:461'
+p173
+aS'wearing helmets:464'
+p174
+aS'motorcycle:468'
+p175
+aS'registration number:472'
+p176
+asS'unexpl'
+p177
+(lp178
+g78
+asS'ocassion'
+p179
+g78
+sS'link'
+p180
+S'http://www.thehindu.com/todays-paper/article1347359.ece'
+p181
+sS'date'
+p182
+S'27-09-2008'
+p183
+sS'target'
+p184
+S'MARKET PLACE'
+p185
+sS'hot_spot'
+p186
+g78
+sS'delivery_mod'
+p187
+g78
+sS'delivery_met'
+p188
+S'PLANTED'
+p189
+sS'expl'
+p190
+(lp191
+g78
+asS'ORG'
+p192
+(lp193
+(lp194
+S'All-India Institute of Medical Sciences'
+p195
+aS'318'
+p196
+aS'Others'
+p197
+aa(lp198
+S'Safdarjung Hospital'
+p199
+aS'324'
+p200
+aS'Others'
+p201
+aa(lp202
+S'Fortis Hospital'
+p203
+aS'327'
+p204
+aS'Others'
+p205
+aa(lp206
+S'Lashkar-e-Taiba'
+p207
+aS'395'
+p208
+aS'Accused'
+p209
+aas.

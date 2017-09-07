@@ -1,0 +1,202 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsukhnagar'
+p4
+aS'15'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Dilsukhnagar terror strike'
+p8
+aS'94'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Dilsukhnagar'
+p12
+aS'94'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Mecca Masjid'
+p16
+aS'117'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Mecca Masjid blast'
+p20
+aS'117'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'Mecca'
+p24
+aS'117'
+p25
+aS'Assoc Event Location'
+p26
+aa(lp27
+S'Mecca Masjid blast'
+p28
+aS'117'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Masjid blast'
+p32
+aS'118'
+p33
+aS'Assoc Event Location'
+p34
+aasS'PER'
+p35
+(lp36
+sS'TIM'
+p37
+(lp38
+sS'hot_setting'
+p39
+S''
+p40
+sS'DAT'
+p41
+(lp42
+S'February 21:18'
+p43
+aS'2007:121'
+p44
+asS'death'
+p45
+S'18'
+p46
+sS'title'
+p47
+S'2 months later, no names yet'
+p48
+sS'det_loc'
+p49
+(lp50
+S'India'
+p51
+aS'Andhra Pradesh'
+p52
+aS'Rangareddy'
+p53
+aS'Hyderabad'
+p54
+aS'Dilsukhnagar'
+p55
+asS'terror_group'
+p56
+(lp57
+S'Indian Mujahideen'
+p58
+asS'content'
+p59
+S'Its been more than two months since the terror operatives struck at the bustling Dilsukhnagar ( on February 21 ) snuffing out 18 lives and injuring over 100 others . But the investigators are yet to conclusively say who is responsible for the attack though they concede in private conversations that all leads point out to the outlawed terrorist outfit Indian Mujahideen . It is the faux pas made by police in terror attack cases in different parts of the country that is holding back them from officially announcing the organisation behind the Dilsukhnagar terror strike . The goof-up of arresting several youngsters from the Old City accusing them of conspiring for terror attacks after the Mecca Masjid blast in 2007 had made them too cautious even to speak about the suspects in the open . We dont want to make any official announcement unless we nab persons directly involved in the attack or those associated with the twin blasts , says an investigator . From bomb signature to video footage , there are many leads that are driving the investigators to believe that it is the handiwork of IM module . Since the terror outfits are taking the help of organisations operating from abroad , even gathering information about them is becoming a challenging task , a senior police official admits . OPEN'
+p60
+sS'injured'
+p61
+S'100'
+p62
+sS'org_unorg'
+p63
+S'Organized'
+p64
+sS'O'
+p65
+(lp66
+S'terror:9'
+p67
+aS'attack:44'
+p68
+aS'terrorist outfit:59'
+p69
+aS'pas:68'
+p70
+aS'terror attack:73'
+p71
+aS'organisation:91'
+p72
+aS'terror strike:95'
+p73
+aS'goof-up:99'
+p74
+aS'old city:106'
+p75
+aS'terror:113'
+p76
+aS'official announcement:143'
+p77
+aS'nab:147'
+p78
+aS'attack:153'
+p79
+aS'investigator:164'
+p80
+aS'bomb signature:167'
+p81
+aS'video footage:170'
+p82
+aS'handiwork:188'
+p83
+aS'im module:190'
+p84
+aS'terror outfits:195'
+p85
+aS'help:200'
+p86
+aS'gathering information:208'
+p87
+asS'unexpl'
+p88
+(lp89
+g40
+asS'ocassion'
+p90
+g40
+sS'link'
+p91
+S'http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/2-months-later-no-names-yet/article4645839.ece'
+p92
+sS'date'
+p93
+S'21-02-2013'
+p94
+sS'target'
+p95
+g40
+sS'hot_spot'
+p96
+g40
+sS'delivery_mod'
+p97
+g40
+sS'delivery_met'
+p98
+g40
+sS'expl'
+p99
+(lp100
+g40
+asS'ORG'
+p101
+(lp102
+(lp103
+S'Indian Mujahideen'
+p104
+aS'61'
+p105
+aS'Accused'
+p106
+aas.

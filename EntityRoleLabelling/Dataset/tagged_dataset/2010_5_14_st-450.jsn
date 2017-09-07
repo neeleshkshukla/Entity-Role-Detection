@@ -1,0 +1,226 @@
+{
+    "LOC": [
+        [
+            "JAIPUR", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "17", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "174", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "202", 
+            "Neutral"
+        ], 
+        [
+            "Makkah", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Masjid", 
+            "205", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "Modasa", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "297", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "308", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "317", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Sadhvi Pragya Singh", 
+            "260", 
+            "Others"
+        ], 
+        [
+            "Srikant Purohit", 
+            "266", 
+            "Others"
+        ], 
+        [
+            "Shivraj Patil", 
+            "290", 
+            "Others"
+        ], 
+        [
+            "Qari Moinuddin", 
+            "387", 
+            "Others"
+        ], 
+        [
+            "Paikar Farooq", 
+            "504", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "October 11 , 2007:63", 
+        "October 11:63", 
+        "October:63", 
+        "2003:170", 
+        "April:180", 
+        "April 2006:180", 
+        "May:207", 
+        "May 2007:207", 
+        "September 2008:215", 
+        "September:215"
+    ], 
+    "death": "", 
+    "title": "Ajmer arrests belie Muslims behind blasts' theory", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Harkat-ul-Mujahideen or Harkat-Ul-Ansar or Harkat-Ul-Jehad-E-Islami"
+    ], 
+    "content": "Special Correspondent JAIPUR : The breakthrough made by the Anti-Terrorism Squad of Rajasthan Police in the Ajmer dargah blast case with the arrest of Abhinav Bharat members has scotched the theories assiduously fed into the public domain about Islamist neo-conservatives waging a war against popular Sufi shrines across the country . Ever since the blast at the dargah killed three persons on October 11 , 2007 , security analysts had been busy proclaiming a new hypothesis about a less-understood project of Muslim terrorists targeting these shrines under the influence of their puritanical understanding of scriptures . The police machinery , under pressure to show quick results , bought this theory lock , stock and barrel and resorted to arbitrary detentions and torture of imams of mosques , maulvis and madrassa teachers for more than a year . Each detainee had to be released later for want of evidence . What has finally surfaced is a terror plot of Right-wing Hindu outfits that had targeted Muslims with regularity since the 2003 Parbhani blast in Maharashtra . The Nanded blast in April 2006 , in which two persons died while making bombs in the house of an RSS member , and blasts at Hyderabad 's Makkah Masjid in May 2007 and at Malegaon and Modasa in September 2008 yielded sufficient clues to the real perpetrators . Investigators refused to look in the obvious direction and blindly believed certain think tanks proclaiming that the assailants at the Muslim places of worship could be none other than Muslims themselves . The arrest of Sadhvi Pragya Singh and Lt. Col. Srikant Purohit in connection with the Malegaon blast came as a rude shock for the Rajasthan Police . Even the then Union Home Minister Shivraj Patil now the acting Governor of Rajasthan believed the conjectures and named Harkat-ul-Jihad-e-Islami ( HuJI ) of Bangladesh as the prime suspect during his visit to Ajmer shortly after the terror attack . As the Rajasthan Muslim Forum now points out , police officers who ignored the role of RSS affiliates despite hard and clinching evidence actually used the dargah blast probe as a ploy to target innocent Muslims . The police force infiltrated by persons with dubious credentials was acting in line with the political message delivered from the top , alleged Muslim Forum convenor Qari Moinuddin . Ulema and clerics have repeatedly affirmed that Tasawwuf or Sufism forms part of mainstream Islam , and puritanical Sunni Muslims often described as Ahl-e-Sunnah-wal-Jamat hold high reverence for Sufi mysticism propounded by schools such as Chishti , Naqshbandi and Qadri and draw inspiration from them . Investigators looking through the prism of theological persuasion of suspects could not reach anywhere near the real culprits for a long time . The credence given to the postulation that a Deobandi Muslim would carry out a blast at the shrine of his own religion left an impression of a police force trying to drive a wedge between Muslim sects . Association for Protection of Civil Rights convenor Paikar Farooq says there is sufficient evidence to bring the RSS under the Unlawful Activities ( Prevention ) Act , 1967 , after its pracharaks were arrested for alleged involvement in the dargah bombing and its patronage to outfits like Abhinav Bharat coming to light . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "anti-terrorism squad:10", 
+        "ajmer dargah blast case:17", 
+        "sufi:46", 
+        "killed:59", 
+        "detainee:139", 
+        "evidence:148", 
+        "terror plot:156", 
+        "outfits:161", 
+        "parbhani blast:171", 
+        "arrest:258", 
+        "malegaon blast:272", 
+        "malegaon:272", 
+        "union home:287", 
+        "home minister:288", 
+        "governor:295", 
+        "huji:305", 
+        "dargah blast probe:350", 
+        "forum convenor:385", 
+        "convenor:386", 
+        "ulema:390", 
+        "mainstream:403", 
+        "ahl-e-sunnah-wal-jamat hold:413", 
+        "ahl-e-sunnah-wal-jamat:413", 
+        "reverence:416", 
+        "mysticism:419", 
+        "chishti:425", 
+        "draw inspiration:431", 
+        "prism:440", 
+        "persuasion:443", 
+        "credence:460", 
+        "postulation:464", 
+        "deobandi:467", 
+        "blast:473", 
+        "religion:480", 
+        "impression:483", 
+        "force:487", 
+        "drive:490", 
+        "evidence:510", 
+        "prevention:520", 
+        "involvement:533", 
+        "dargah bombing:536", 
+        "patronage:540", 
+        "outfits:542", 
+        "light:548"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/ajmer-arrests-belie-muslims-behind-blasts-theory/article767056.ece", 
+    "date": "11-10-2007", 
+    "target": "Religious Places", 
+    "hot_spot": "Ajmer dargah", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Rajasthan Police", 
+            "13", 
+            "Others"
+        ], 
+        [
+            "Abhinav Bharat", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "Right-wing Hindu", 
+            "159", 
+            "Others"
+        ], 
+        [
+            "RSS", 
+            "196", 
+            "Others"
+        ], 
+        [
+            "Rajasthan Police", 
+            "281", 
+            "Others"
+        ], 
+        [
+            "Harkat-ul-Jihad-e-Islami", 
+            "303", 
+            "Accused"
+        ], 
+        [
+            "RSS", 
+            "340", 
+            "Others"
+        ], 
+        [
+            "Association for Protection of Civil Rights", 
+            "497", 
+            "Others"
+        ], 
+        [
+            "RSS", 
+            "514", 
+            "Others"
+        ], 
+        [
+            "Abhinav Bharat", 
+            "544", 
+            "Others"
+        ]
+    ]
+}

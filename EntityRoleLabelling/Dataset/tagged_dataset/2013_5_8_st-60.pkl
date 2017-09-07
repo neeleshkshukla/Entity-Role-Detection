@@ -1,0 +1,210 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Karthankulam'
+p4
+aS'53'
+p5
+aS'Accused Location'
+p6
+aa(lp7
+S'Morappur'
+p8
+aS'55'
+p9
+aS'Accused Location'
+p10
+aa(lp11
+S'Asra Garg'
+p12
+aS'137'
+p13
+aS'Neutral'
+p14
+aasS'PER'
+p15
+(lp16
+(lp17
+S'Sugendran'
+p18
+aS'43'
+p19
+aS'Accused'
+p20
+aa(lp21
+S'Theerthalingam'
+p22
+aS'48'
+p23
+aS'Accused'
+p24
+aa(lp25
+S'S. Ramadoss'
+p26
+aS'97'
+p27
+aS'Victim'
+p28
+aa(lp29
+S'Vanniyar Sangam'
+p30
+aS'103'
+p31
+aS'Assoc Victim'
+p32
+aa(lp33
+S'R. Lilly'
+p34
+aS'142'
+p35
+aS'Others'
+p36
+aasS'TIM'
+p37
+(lp38
+sS'hot_setting'
+p39
+S''
+p40
+sS'DAT'
+p41
+(lp42
+S'May 2 : 23'
+p43
+aS'Tuesday : 36'
+p44
+aS'Tuesday night : 150'
+p45
+asS'death'
+p46
+g40
+sS'title'
+p47
+S'Two PMK men held under National Security Act'
+p48
+sS'det_loc'
+p49
+(lp50
+S'India'
+p51
+aS'Tamil Nadu'
+p52
+aS'Chennai'
+p53
+ag40
+ag40
+asS'terror_group'
+p54
+(lp55
+g40
+asS'content'
+p56
+S'Two Pattali Makkal Katchi ( PMK ) cadre who allegedly triggered an explosion in a bid to blow up a culvert on May 2 were detained under the National Security Act ( NSA ) on Tuesday . According to police sources , Sugendran ( 40 ) and Theerthalingam ( 25 ) of Karthankulam near Morappur were arrested on charges of causing the explosion . Police seized explosive substances used to make the crude country bomb from their premises . During interrogation , the duo confessed to having triggered the blast to condemn the arrest PMK founder S. Ramadoss and other party and Vanniyar Sangam functionaries . Special teams are on the lookout for a few others involved in the sabotage conspiracy , a police official said . Acting on the recommendations of Dharmapuri Superintendent of Police Asra Garg , District Collector R. Lilly issued the detention orders late on Tuesday night . OPEN'
+p57
+sS'injured'
+p58
+g40
+sS'org_unorg'
+p59
+g40
+sS'O'
+p60
+(lp61
+S'triggered:11'
+p62
+aS'explosion:13'
+p63
+aS'blow up a culvert:18'
+p64
+aS'national security act:29'
+p65
+aS'nsa:33'
+p66
+aS'arrested:57'
+p67
+aS'explosion:63'
+p68
+aS'seized explosive substances:66'
+p69
+aS'crude country bomb:73'
+p70
+aS'premises:78'
+p71
+aS'interrogation:81'
+p72
+aS'duo confessed:84'
+p73
+aS'triggered the blast:88'
+p74
+aS'arrest pmk founder s. ramadoss:94'
+p75
+aS'sabotage conspiracy:120'
+p76
+aS'recommendations:131'
+p77
+aS'Dharmapuri Superintendent of Police:133'
+p78
+aS'District Collector R. Lilly:140'
+p79
+aS'detention orders:146'
+p80
+asS'unexpl'
+p81
+(lp82
+g40
+asS'ocassion'
+p83
+g40
+sS'link'
+p84
+S'http://www.thehindu.com/todays-paper/tp-national/two-pmk-men-held-under-national-security-act/article4694272.ece'
+p85
+sS'date'
+p86
+S'02-05-2013'
+p87
+sS'target'
+p88
+S'POLITICAL LEADER/GROUP'
+p89
+sS'hot_spot'
+p90
+g40
+sS'delivery_mod'
+p91
+g40
+sS'delivery_met'
+p92
+S'PLANTED'
+p93
+sS'expl'
+p94
+(lp95
+g40
+asS'ORG'
+p96
+(lp97
+(lp98
+S'Pattali Makkal Katchi'
+p99
+aS'2'
+p100
+aS'Victim'
+p101
+aa(lp102
+S'PMK'
+p103
+aS'6'
+p104
+aS'Victim'
+p105
+aa(lp106
+S'PMK'
+p107
+aS'95'
+p108
+aS'Others'
+p109
+aas.

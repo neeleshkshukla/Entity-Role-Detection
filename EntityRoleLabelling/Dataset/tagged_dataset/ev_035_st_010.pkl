@@ -1,0 +1,389 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'5'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Assam'
+p8
+aS'24'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Bangladesh'
+p12
+aS'108'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Assam'
+p16
+aS'251'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Assam'
+p20
+aS'313'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Sarbananda Sonowal'
+p26
+aS'57'
+p27
+aS'Others'
+p28
+aa(lp29
+S'Arun Kumar Sarma'
+p30
+aS'60'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Manmohan Singh'
+p34
+aS'304'
+p35
+aS'Others'
+p36
+aa(lp37
+S'Shivraj Patil'
+p38
+aS'321'
+p39
+aS'Others'
+p40
+aa(lp41
+S'L.K. Advani'
+p42
+aS'352'
+p43
+aS'Others'
+p44
+aasS'TIM'
+p45
+(lp46
+S'four months : 282'
+p47
+asS'hot_setting'
+p48
+S''
+p49
+sS'DAT'
+p50
+(lp51
+S'Saturday:16'
+p52
+aS'1985:254'
+p53
+aS'2000:267'
+p54
+aS'2006 : 329'
+p55
+asS'death'
+p56
+g49
+sS'title'
+p57
+S'AGP accuses Congress of neglecting national security'
+p58
+sS'det_loc'
+p59
+(lp60
+S'India'
+p61
+aS'Delhi'
+p62
+aS'New Delhi'
+p63
+ag49
+ag49
+asS'terror_group'
+p64
+(lp65
+S'INDIAN MUJAHIDEEN'
+p66
+asS'content'
+p67
+VSpecial Correspondent . . NEW DELHI : The Asom Gana Parishad -LRB- AGP -RRB- on Saturday charged that the serial bomb blasts in Assam was the result of neglect of national security by the Congress and demanded the dismissal of the State government . . . Both the MPs of the AGP in the Lok Sabha Sarbananda Sonowal and Arun Kumar Sarma charged that the Islamic Security Force -LRB- ISF -RRB- of the Indian Mujahideen group by claiming responsibility for the blasts had underscored the greater threat to the country from the ISI . . . They charged that the ISI was using the open border with Bangladesh as a safe route to conduct its operation in any corner of the country and that the arrests in connection with other blasts pointed to their operation from across these parts of the border . . . The two MPs accused the Congress of adopting a casual approach in dealing with such anti-Indian forces with the consequence that their activities were growing at an alarming rate in the country . . . The AGP leaders warned that the situation could deteriorate further if not dealt with urgency as domestic militant outfits enjoyed patronage from countries neighbouring the northeastern region . Their allegation was that there were more than 60 lakh Bangladeshi immigrants in the region providing a safe haven to the ISI . . . Implement accord . . Attacking the Congress they underscored that it had never cared to implement the Assam Accord of 1985 of detecting and deporting illegal Bangladeshis and the Supreme Courts order in 2000 for constitution of tribunals in all the 27 districts for determining illegal migrants within four months was yet to yield the result . . . They said that the State did not benefit despite Prime Minister Manmohan Singh being elected to the Rajya Sabha from Assam . The promise of Union Home Minister Shivraj Patil to have the border sealed by 2006 proved to be a hollow one , they alleged . . . They however admitted that the NDA when Leader of Opposition L.K. Advani happened to the Union Home Minister had also failed to tackle the problem . . . The AGP has also written to the President and the three chiefs of the armed forces to take note of the situation and discharge their constitutional duties .
+p68
+sS'injured'
+p69
+g49
+sS'org_unorg'
+p70
+g49
+sS'O'
+p71
+(lp72
+S'Special Correspondent:1'
+p73
+aS'charged:17'
+p74
+aS'serial bomb blasts:20'
+p75
+aS'neglect:29'
+p76
+aS'national security:31'
+p77
+aS'demanded:37'
+p78
+aS'dismissal:39'
+p79
+aS'State government:42'
+p80
+aS'MPs:49'
+p81
+aS'Lok Sabha:55'
+p82
+aS'charged:63'
+p83
+aS'ISF:70'
+p84
+aS'blasts:82'
+p85
+aS'underscored:84'
+p86
+aS'greater threat:86'
+p87
+aS'ISI:93'
+p88
+aS'charged:98'
+p89
+aS'ISI:101'
+p90
+aS'open border:105'
+p91
+aS'safe route:111'
+p92
+aS'operation:116'
+p93
+aS'arrests:126'
+p94
+aS'connection:128'
+p95
+aS'blasts:131'
+p96
+aS'operation:135'
+p97
+aS'two MPs:147'
+p98
+aS'accused:149'
+p99
+aS'adopting:153'
+p100
+aS'casual approach:155'
+p101
+aS'dealing:158'
+p102
+aS'anti-Indian forces:161'
+p103
+aS'activities:168'
+p104
+aS'alarming rate:173'
+p105
+aS'AGP leaders:182'
+p106
+aS'warned:184'
+p107
+aS'situation:187'
+p108
+aS'deteriorate:189'
+p109
+aS'urgency:195'
+p110
+aS'domestic militant outfits:197'
+p111
+aS'patronage:201'
+p112
+aS'northeastern region:206'
+p113
+aS'allegation:210'
+p114
+aS'60 lakh:217'
+p115
+aS'Bangladeshi immigrants:219'
+p116
+aS'safe haven:226'
+p117
+aS'ISI:230'
+p118
+aS'Attacking:238'
+p119
+aS'underscored:242'
+p120
+aS'implement:249'
+p121
+aS'Assam Accord of 1985:251'
+p122
+aS'detecting:256'
+p123
+aS'deporting:258'
+p124
+aS'illegal Bangladeshis:259'
+p125
+aS'Supreme Courts order:263'
+p126
+aS'constitution of tribunals:269'
+p127
+aS'27 districts:275'
+p128
+aS'illegal migrants:279'
+p129
+aS'elected:307'
+p130
+aS'Rajya Sabha:310'
+p131
+aS'promise:316'
+p132
+aS'border sealed:326'
+p133
+aS'hollow:334'
+p134
+aS'admitted:344'
+p135
+aS'failed:362'
+p136
+aS'tackle:364'
+p137
+aS'problem:366'
+p138
+aS'written:374'
+p139
+aS'three chiefs:380'
+p140
+aS'armed forces:384'
+p141
+aS'situation:391'
+p142
+aS'discharge:393'
+p143
+aS'constitutional duties:395'
+p144
+asS'unexpl'
+p145
+(lp146
+g49
+asS'ocassion'
+p147
+g49
+sS'link'
+p148
+S'http://www.thehindu.com/todays-paper/tp-national/agp-accuses-congress-of-neglecting-national-security/article1367829.ece'
+p149
+sS'date'
+p150
+S'01-11-2008'
+p151
+sS'target'
+p152
+g49
+sS'hot_spot'
+p153
+g49
+sS'delivery_mod'
+p154
+g49
+sS'delivery_met'
+p155
+g49
+sS'expl'
+p156
+(lp157
+g49
+asS'ORG'
+p158
+(lp159
+(lp160
+S'Asom Gana Parishad'
+p161
+aS'9'
+p162
+aS'Others'
+p163
+aa(lp164
+S'AGP'
+p165
+aS'13'
+p166
+aS'Others'
+p167
+aa(lp168
+S'Congress'
+p169
+aS'35'
+p170
+aS'Others'
+p171
+aa(lp172
+S'AGP'
+p173
+aS'52'
+p174
+aS'Others'
+p175
+aa(lp176
+S'Islamic Security Force'
+p177
+aS'66'
+p178
+aS'Others'
+p179
+aa(lp180
+S'Indian Mujahideen'
+p181
+aS'74'
+p182
+aS'Accused'
+p183
+aa(lp184
+S'Congress'
+p185
+aS'151'
+p186
+aS'Others'
+p187
+aa(lp188
+S'AGP'
+p189
+aS'182'
+p190
+aS'Others'
+p191
+aa(lp192
+S'Congress'
+p193
+aS'240'
+p194
+aS'Others'
+p195
+aa(lp196
+S'NDA'
+p197
+aS'347'
+p198
+aS'Others'
+p199
+aa(lp200
+S'AGP'
+p201
+aS'371'
+p202
+aS'Others'
+p203
+aas.

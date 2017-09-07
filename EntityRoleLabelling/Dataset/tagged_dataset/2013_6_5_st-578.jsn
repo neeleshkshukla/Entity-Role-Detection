@@ -1,0 +1,169 @@
+{
+    "LOC": [
+        [
+            "Varanasi", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "39", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "47", 
+            "Event"
+        ], 
+        [
+            "Jamuna Fatak", 
+            "93", 
+            "Event"
+        ], 
+        [
+            "Godaulia", 
+            "96", 
+            "Event"
+        ], 
+        [
+            "Dashashwamedh Ghat", 
+            "99", 
+            "Event"
+        ], 
+        [
+            "cantonment area", 
+            "115", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "118", 
+            "Event"
+        ], 
+        [
+            "U.P.", 
+            "131", 
+            "Event"
+        ], 
+        [
+            "Dasna jail", 
+            "160", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Batla House", 
+            "168", 
+            "Assoc Event Location"
+        ], 
+        [
+            "New Delhi", 
+            "172", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shamim Ahmad", 
+            "19", 
+            "Accused"
+        ], 
+        [
+            "Shamim", 
+            "36", 
+            "Accused"
+        ], 
+        [
+            "Shamim", 
+            "70", 
+            "Accused"
+        ], 
+        [
+            "Waliullah", 
+            "138", 
+            "Assoc Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2006:15", 
+        "March 7 , 2006:120", 
+        "2008:164"
+    ], 
+    "death": "21", 
+    "title": "Cases against Varanasi blast accused to be withdrawn", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Lucknow", 
+        "Lucknow", 
+        ""
+    ], 
+    "terror_group": [
+        "Harkat-ul-Mujahideen or Harkat-Ul-Ansar or Harkat-Ul-Jehad-E-Islami"
+    ], 
+    "content": "The Uttar Pradesh Government has decided to withdraw cases against alleged HUJI worker and 2006 Varanasi blast accused Shamim Ahmad , a senior official said . A decision has been taken to withdraw cases against Shamim in the Varanasi blast case . The District Magistrate of Varanasi has been asked to approach the local court there in this connection , said a senior Home Department official . The absconding Shamim , who was never arrested in the case , is accused of having planted a bomb , which remained unexploded , at Jamuna Fatak in Godaulia area at Dashashwamedh Ghat . The bomb was recovered soon after twin blasts in the Sankatmochan temple and cantonment area of Varanasi on March 7 , 2006 , which killed 21 persons . The U.P. special task force had arrested one Waliullah , the imam of a mosque , for being the alleged mastermind behind the blasts . He is currently lodged in Dasna jail . In 2008 , following the Batla House encounter in New Delhi , one alleged Indian Mujahideen member was arrested who is said to have confessed to being involved in the planting of the unexploded bomb . - PTI OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "huji worker:12", 
+        "blast:17", 
+        "official:24", 
+        "decision:28", 
+        "blast case:40", 
+        "district magistrate:44", 
+        "district:44", 
+        "magistrate:45", 
+        "approach:52", 
+        "court:55", 
+        "connection:59", 
+        "official:66", 
+        "case:78", 
+        "bomb:86", 
+        "bomb:103", 
+        "twin blasts:108", 
+        "task force:133", 
+        "imam:141", 
+        "mosque:144", 
+        "mastermind:150", 
+        "jail:161", 
+        "encounter:170", 
+        "member:179", 
+        "bomb:197"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/cases-against-varanasi-blast-accused-to-be-withdrawn/article4782897.ece", 
+    "date": "05-06-2013", 
+    "target": "Religious Places", 
+    "hot_spot": "Dashashwamedh Ghat", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Uttar Pradesh Government", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Home Department", 
+            "64", 
+            "Others"
+        ], 
+        [
+            "Sankatmochan temple", 
+            "112", 
+            "Victim"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "177", 
+            "Accused"
+        ]
+    ]
+}

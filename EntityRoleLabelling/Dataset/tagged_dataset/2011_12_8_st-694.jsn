@@ -1,0 +1,109 @@
+{
+    "LOC": [
+        [
+            "Dashashwamedh ghat", 
+            "9", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Varanasi", 
+            "125", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "1992:98"
+    ], 
+    "death": "1", 
+    "title": "Security agencies clueless on Varanasi blast", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Varanasi", 
+        "Varanasi", 
+        "Dashashwamedh ghat"
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "A year after an explosion had rocked the Dashashwamedh ghat in Varanasi , security agencies are clueless about the module that was used to trigger the bomb blast that left a 2-year-old girl dead and over three dozen injured . Those behind the blast continued to remain a mystery for investigators as did the nature of the explosive material used to trigger the bomb . However , Indian Mujahideen ( IM ) had claimed responsibility for the blast in e-mails sent to media houses and said the incident was in response to demolition of Babri Masjid in 1992 . The recent modules busted by the Delhi Police in which six persons allegedly belonging to the IM were arrested have expressed their ignorance about the Varanasi explosion . Security forces have rounded up many people and jailed terrorists were questioned without any results . There was a move to handover the probe to the National Investigation Agency ( NIA ) but it was dropped because of issues between the Centre and the Uttar Pradesh Government . - PTI OPEN", 
+    "injured": "36", 
+    "org_unorg": "Organized", 
+    "O": [
+        "security agencies:14", 
+        "trigger:25", 
+        "bomb blast:27", 
+        "girl dead:33", 
+        "blast:44", 
+        "explosive material:58", 
+        "trigger:62", 
+        "bomb:64", 
+        "responsibility:75", 
+        "e-mails:80", 
+        "response:91", 
+        "demolition:93", 
+        "babri masjid:95", 
+        "modules busted:102", 
+        "varanasi explosion:125", 
+        "jailed terrorists:136", 
+        "probe:151"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/security-agencies-clueless-on-varanasi-blast/article2696580.ece", 
+    "date": "07-12-2010", 
+    "target": "Religious Places", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "68", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "71", 
+            "Accused"
+        ], 
+        [
+            "Delhi Police", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "116", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "154", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "158", 
+            "Others"
+        ], 
+        [
+            "Uttar Pradesh Government", 
+            "172", 
+            "Others"
+        ]
+    ]
+}

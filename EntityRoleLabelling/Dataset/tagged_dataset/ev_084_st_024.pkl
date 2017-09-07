@@ -1,0 +1,551 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Pune'
+p4
+aS'124'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Maharashtra'
+p8
+aS'338'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'India'
+p12
+aS'469'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Maharashtra'
+p16
+aS'754'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Beed'
+p20
+aS'796'
+p21
+aS'Accused Location'
+p22
+aa(lp23
+S'Maharashtra'
+p24
+aS'799'
+p25
+aS'Accused Location'
+p26
+aa(lp27
+S'Colombo'
+p28
+aS'812'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Koregaon Park'
+p32
+aS'887'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'India'
+p36
+aS'931'
+p37
+aS'Neutral'
+p38
+aasS'PER'
+p39
+(lp40
+(lp41
+S'Mirza Himayat Baig'
+p42
+aS'3'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'N P Dhote'
+p46
+aS'56'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Baig'
+p50
+aS'103'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Yasin Bhatkal'
+p54
+aS'149'
+p55
+aS'Assoc Accused'
+p56
+aa(lp57
+S'Baig'
+p58
+aS'169'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Baig'
+p62
+aS'239'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Baig'
+p66
+aS'319'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Rakesh Maria'
+p70
+aS'343'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Raja Thakre'
+p74
+aS'410'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Baig'
+p78
+aS'505'
+p79
+aS'Accused'
+p80
+aS'Others'
+p81
+aa(lp82
+S'Thakre'
+p83
+aS'535'
+p84
+aS'Comment'
+p85
+aa(lp86
+S'Baig'
+p87
+aS'548'
+p88
+aS'Accused'
+p89
+aa(lp90
+S'Thakre'
+p91
+aS'577'
+p92
+aS'Comment'
+p93
+aa(lp94
+S'Kasab'
+p95
+aS'580'
+p96
+aS'Accused'
+p97
+aa(lp98
+S'Yakub Memon'
+p99
+aS'582'
+p100
+aS'Accused'
+p101
+aa(lp102
+S'A Rahaman'
+p103
+aS'624'
+p104
+aS'Comment'
+p105
+aa(lp106
+S'Yasin Bhatkal'
+p107
+aS'668'
+p108
+aS'Accused'
+p109
+aa(lp110
+S'Baig'
+p111
+aS'678'
+p112
+aS'Accused'
+p113
+aa(lp114
+S'Rahman'
+p115
+aS'718'
+p116
+aS'Comment'
+p117
+aa(lp118
+S'Baig'
+p119
+aS'747'
+p120
+aS'Accused'
+p121
+aa(lp122
+S'Baig'
+p123
+aS'770'
+p124
+aS'Accused'
+p125
+aa(lp126
+S'Baig'
+p127
+aS'791'
+p128
+aS'Accused'
+p129
+aa(lp130
+S'Yasin Bhatkal'
+p131
+aS'818'
+p132
+aS'Accused'
+p133
+aa(lp134
+S'Mohsin Chaudhary'
+p135
+aS'821'
+p136
+aS'Accused'
+p137
+aa(lp138
+S'Riyaz Bhatkal'
+p139
+aS'824'
+p140
+aS'Accused'
+p141
+aa(lp142
+S'Iqbal Bhatkal'
+p143
+aS'827'
+p144
+aS'Accused'
+p145
+aa(lp146
+S'Fayyaz Kagzi'
+p147
+aS'830'
+p148
+aS'Accused'
+p149
+aa(lp150
+S'Zabiuddin Ansari'
+p151
+aS'833'
+p152
+aS'Accused'
+p153
+aa(lp154
+S'Abu Jundal'
+p155
+aS'836'
+p156
+aS'Accused'
+p157
+aa(lp158
+S'Jundal'
+p159
+aS'842'
+p160
+aS'Others'
+p161
+aa(lp162
+S'Jundal'
+p163
+aS'857'
+p164
+aS'Accused'
+p165
+aa(lp166
+S'David Headley'
+p167
+aS'920'
+p168
+aS'Others'
+p169
+aasS'TIM'
+p170
+(lp171
+S'three days : 248'
+p172
+aS'today : 257'
+p173
+aS'33-year-old : 790'
+p174
+asS'hot_setting'
+p175
+S''
+p176
+sS'DAT'
+p177
+(lp178
+S'2010 : 13'
+p179
+aS'Thursday : 26'
+p180
+aS'April 15 : 100'
+p181
+aS'February 13 , 2010 : 117'
+p182
+aS'March 2008 : 809'
+p183
+asS'death'
+p184
+S'17'
+p185
+sS'title'
+p186
+S'German Bakery blast: Himayat Baig gets death sentence'
+p187
+sS'org_unorg'
+p188
+g176
+sS'terror_group'
+p189
+(lp190
+S'INDIAN MUJAHIDEEN'
+p191
+asS'content'
+p192
+VPune : Mirza Himayat Baig , the lone convicted accused in the 2010 German Bakery bombing that killed 17 and wounded 64 , was on Thursday sentenced to death for murder and criminal conspiracy by a sessions court here which termed his crime as ` rarest of rare ' . . . Additional sessions judge N P Dhote , after hearing the day-long arguments on the quantum of sentence , pronounced his verdict , saying the case fell under the ` rarest of the rare ' category warranting the most severe punishment . . . The court had on April 15 pronounced Baig , the only person arrested in the blast at the popular eatery on February 13 , 2010 , that brought Pune on the terror radar , guilty of involvement in the crime . Six others named in the charge sheet in the case , including Yasin Bhatkal who is alleged to have planted the bomb , are still absconding . . . The judge sentenced Baig to death under sections 302 ( murder ) , 120 ( b ) ( criminal conspiracy ) , of IPC , besides section 16 ( a ) of Unlawful Activities Prevention Act ( UAPA ) and section 3 of Explosive Substances Act which attract death penalty . He was also awarded concurrent life imprisonment under various other sections of IPC , UAPA and Explosives Substances Act . . . Baig , who had looked composed when pronounced guilty three days back , was shaken and momentarily fainted today after the judge read out the sentence . . . He was given water to drink while being escorted out of the court by policemen under tight security even as some social groups burst firecrackers outside the premises hailing the judicial system . . . When asked by the judge as to what he had to say about the verdict , Baig broke down and pleaded innocence , alleging that he had been falsely implicated in the case by the Maharashtra Anti-Terrorism Squad led by Rakesh Maria . . . ' I am innocent and have nothing to do with the German Bakery bombing . Police have failed to nab the real culprit and I have been made the scapegoat in the case . While 17 persons died in the explosion , I have been made the 18th victim , ' he told the judge . . . Earlier , public prosecutor Raja Thakre , pressing for death penalty argued that the court had held the accused guilty under 14 out of 17 charges levelled against him including those of murder , criminal conspiracy and possession of the deadly RDX . . . ` The accused committed an act of terror in pursuance of a criminal conspiracy . The image of India will be lowered in the eyes of the international community if there is no guarantee of safety in the country as among the deceased in the bomb blast were five foreigners . . . ` Baig was in possession of the special category explosive substance such as RDX and was also in the company of the person who planted bomb in the bakery , ' Thakre said , contending there were no mitigating circumstances to show leniency to Baig . . . Referring to defence counsel ` s argument that young age ( 33 ) of the accused too was a ground for a lighter sentence , Thakre said terrorists Kasab and Yakub Memon were also given death sentence notwithstanding their age . . . ` It is a fit case for extreme penalty of death for social justice and does not deserve any leniency , ' he said . . . Defence counsel A Rahaman said the case did not fall under the rarest of the rare category and the alleged links of the accused with Indian Mujahiddin ( IM ) and Lashker-e-Toiba ( LeT ) had not been proved . . . ` The actual culprit Yasin Bhatkal , who planted the bomb is absconding . Baig never visited the German Bakery to plant the bomb . Death penalty is an exception and life sentence should be the rule , ' he told the court , pleading for a lenient view to taken . . . Rahman later said he would go in appeal to High court against the sentence . . . A heavy security blanket was thrown in and around the court when Baig was brought under heavy escort by Maharashtra ATS and state police personnel . . . The judge upheld all prosecution charges against Baig except for those relating to forgery under sections 465 , 467 and 468 of IPC . . . The 33-year-old Baig , who hails from Beed district of Maharashtra , was convicted of hatching a criminal conspiracy in March 2008 in Colombo with six other accused -- Yasin Bhatkal , Mohsin Chaudhary , Riyaz Bhatkal , Iqbal Bhatkal , Fayyaz Kagzi and Zabiuddin Ansari alias Abu Jundal . . . Barring Jundal , one of the handlers of 26/11 terrorists , all others are absconding . Jundal , facing trial in several terror cases , has not been arrested in the German Bakery blast . . . The bombing of the popular eatery located in plush Koregaon Park area of the city in the vicinity of the Osho Ashram and Jewish community centre , had exposed vulnerability of the city as a terrorist target . . . LeT operative David Headley had recced the bakery during his various visits to India to scout for potential terror targets .
+p193
+sS'injured'
+p194
+S'64'
+p195
+sS'det_loc'
+p196
+(lp197
+S'India'
+p198
+aS'Maharashtra'
+p199
+aS'Pune'
+p200
+ag176
+ag176
+asS'O'
+p201
+(lp202
+S'accused:10'
+p203
+aS'German Bakery bombing:14'
+p204
+aS'killed:18'
+p205
+aS'murder:31'
+p206
+aS'day-long arguments:63'
+p207
+aS'punishment:92'
+p208
+aS'arrested:108'
+p209
+aS'blast:111'
+p210
+aS'terror radar:127'
+p211
+aS'charge sheet:142'
+p212
+aS'bomb:158'
+p213
+aS'IPC:189'
+p214
+aS'Unlawful Activities Prevention Act:198'
+p215
+aS'UAPA:203'
+p216
+aS'Explosive Substances Act:209'
+p217
+aS'death penalty:214'
+p218
+aS'imprisonment:223'
+p219
+aS'IPC:229'
+p220
+aS'UAPA:231'
+p221
+aS'Explosives Substances Act:233'
+p222
+aS'burst firecrackers:291'
+p223
+aS'German Bakery bombing:359'
+p224
+aS'culprit:370'
+p225
+aS'explosion:388'
+p226
+aS'18th victim:395'
+p227
+aS'death penalty:415'
+p228
+aS'accused:424'
+p229
+aS'murder:438'
+p230
+aS'criminal conspiracy:440'
+p231
+aS'RDX:447'
+p232
+aS'accused:453'
+p233
+aS'criminal conspiracy:463'
+p234
+aS'bomb blast:496'
+p235
+aS'RDX:517'
+p236
+aS'planted bomb:528'
+p237
+aS'accused:567'
+p238
+aS'death sentence:587'
+p239
+aS'accused:645'
+p240
+aS'bomb:674'
+p241
+aS'German Bakery:682'
+p242
+aS'bomb:687'
+p243
+aS'26/11 terrorists:849'
+p244
+aS'terror cases:863'
+p245
+aS'arrested:869'
+p246
+aS'German Bakery blast:872'
+p247
+aS'Osho Ashram:898'
+p248
+aS'Jewish community centre:901'
+p249
+aS'terrorist target:913'
+p250
+aS'terror targets:936'
+p251
+asS'unexpl'
+p252
+(lp253
+g176
+asS'ocassion'
+p254
+g176
+sS'link'
+p255
+S'http://zeenews.india.com/news/nation/german-bakery-blast-himayat-baig-gets-death-sentence_843015.html'
+p256
+sS'date'
+p257
+S'13-02-2010'
+p258
+sS'target'
+p259
+S'PUBLIC PLACES'
+p260
+sS'hot_spot'
+p261
+g176
+sS'delivery_mod'
+p262
+g176
+sS'delivery_met'
+p263
+S'PLANTED'
+p264
+sS'expl'
+p265
+(lp266
+g176
+asS'ORG'
+p267
+(lp268
+(lp269
+S'Anti-Terrorism Squad'
+p270
+aS'339'
+p271
+aS'Others'
+p272
+aa(lp273
+S'Indian Mujahiddin'
+p274
+aS'647'
+p275
+aS'Accused'
+p276
+aa(lp277
+S'IM'
+p278
+aS'650'
+p279
+aS'Accused'
+p280
+aa(lp281
+S'Lashker-e-Toiba'
+p282
+aS'653'
+p283
+aS'Assoc Accused'
+p284
+aa(lp285
+S'LeT'
+p286
+aS'655'
+p287
+aS'Assoc Accused'
+p288
+aa(lp289
+S'High court'
+p290
+aS'727'
+p291
+aS'Others'
+p292
+aa(lp293
+S'ATS'
+p294
+aS'755'
+p295
+aS'Others'
+p296
+aa(lp297
+S'LeT'
+p298
+aS'918'
+p299
+aS'Others'
+p300
+aas.

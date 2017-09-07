@@ -1,0 +1,96 @@
+{
+    "LOC": [
+        [
+            "Anwarserry camp", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "76", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Abdul Nasir Maudany", 
+            "12", 
+            "Accused"
+        ], 
+        [
+            "Poonthura Siraj", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "Siraj", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "Maudany", 
+            "49", 
+            "Accused"
+        ], 
+        [
+            "Maundany", 
+            "67", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2008:20", 
+        "Monday:65"
+    ], 
+    "death": "", 
+    "title": "Maudany is innocent: PDP", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "Bangalore Urban", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The inclusion of People 's Democratic Party ( PDP ) leader Abdul Nasir Maudany as an accused in the 2008 Bangalore serial bomb blast case is a conspiracy to weaken that case , party working chairman Poonthura Siraj has said . Mr. Siraj was talking to mediapersons from Maudany 's Anwarserry camp , near here , after the party 's central council meeting on Monday . Maundany is innocent and had no hand in the Bangalore blasts . The party will counter the conspiracy legally . An anticipatory bail application will be moved in the Bangalore Sessions Court , he said . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bangalore serial bomb blast case:21", 
+        "bangalore blasts:76"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/maudany-is-innocent-pdp/article457311.ece", 
+    "date": "25-07-2008", 
+    "target": "", 
+    "hot_spot": "Bangalore, Bangalore Serial bomb blast", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "People 's Democratic Party", 
+            "4", 
+            "Others"
+        ], 
+        [
+            "PDP", 
+            "9", 
+            "Others"
+        ], 
+        [
+            "Bangalore Sessions Court", 
+            "96", 
+            "Others"
+        ]
+    ]
+}

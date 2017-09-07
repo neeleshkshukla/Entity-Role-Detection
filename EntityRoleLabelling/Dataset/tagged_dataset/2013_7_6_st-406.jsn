@@ -1,0 +1,105 @@
+{
+    "LOC": [
+        [
+            "Bavode", 
+            "20", 
+            "Event"
+        ], 
+        [
+            "Chakkarakkal", 
+            "23", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "3 a.m. : 81"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday : 38"
+    ], 
+    "death": "", 
+    "title": "CPI(M) branch office attacked", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Cannanore", 
+        "Chakkarakkal", 
+        "Branch office of CPI(M), Bavode, Chakkarakkal"
+    ], 
+    "terror_group": [
+        "RASHTRIYA SWAYAMSEVAK SANGH"
+    ], 
+    "content": ": A building that houses a local library controlled by the Communist Party of India ( Marxist ) at Bavode under the Chakkarakkal police station limits was damaged in a bomb attack in the early hours of Friday . Party workers alleged that the two-storey building , which also functions as the branch office of the CPI ( M ) , was attacked by Rashtriya Swayamsevak Sangh ( RSS ) workers . The police said the attack took place at 3 a.m. . The culprits broke open the door of the building and ransacked the office , said party workers . Furniture in the building was destroyed in the attack . The windowpanes were also destroyed in the blast . The police bomb disposal squad and dog squad examined the spot . The area had been tense over following clashes between CPI ( M ) and RSS workers . OPEN", 
+    "injured": "", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "local library:7", 
+        "damaged:28", 
+        "bomb attack:31", 
+        "party workers:40", 
+        "two-storey building:45", 
+        "branch office:53", 
+        "attacked:63", 
+        "attack:77", 
+        "culprits:85", 
+        "ransacked:94", 
+        "party workers:99", 
+        "furniture:102", 
+        "destroyed:107", 
+        "attack:110", 
+        "windowpanes:113", 
+        "destroyed:116", 
+        "blast:119", 
+        "bomb disposal squad:123", 
+        "dog squad:127", 
+        "tense:137", 
+        "clashes:140"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/cpim-branch-office-attacked/article4887343.ece", 
+    "date": "05-07-2013", 
+    "target": "OFFICE BUILDING", 
+    "hot_spot": "A two-storey building which is the branch office of CPI(M) in  Bavode in Chakkarakkal", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Communist Party of India ( Marxist )", 
+            "12", 
+            "Victim"
+        ], 
+        [
+            "CPI ( M )", 
+            "57", 
+            "Victim"
+        ], 
+        [
+            "Rashtriya Swayamsevak Sangh", 
+            "65", 
+            "Accused"
+        ], 
+        [
+            "RSS", 
+            "69", 
+            "Accused"
+        ], 
+        [
+            "CPI ( M )", 
+            "142", 
+            "Victim"
+        ], 
+        [
+            "RSS", 
+            "147", 
+            "Accused"
+        ]
+    ]
+}

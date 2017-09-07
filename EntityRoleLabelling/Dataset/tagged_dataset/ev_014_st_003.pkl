@@ -1,0 +1,305 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Assam'
+p4
+aS'6'
+p5
+aS'Event'
+p6
+aa(lp7
+S'DELHI'
+p8
+aS'17'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Dhemaji'
+p12
+aS'50'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Assam'
+p16
+aS'52'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Assam'
+p20
+aS'173'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Dhemaji'
+p24
+aS'233'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Assam'
+p28
+aS'257'
+p29
+aS'Neutral'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Anand Sharma'
+p34
+aS'118'
+p35
+aS'Comment'
+p36
+aasS'TIM'
+p37
+(lp38
+sS'hot_setting'
+p39
+S''
+p40
+sS'DAT'
+p41
+(lp42
+S'AUG. 16 : 19'
+p43
+asS'death'
+p44
+S'13'
+p45
+sS'title'
+p46
+S'Congress, Left condemn Assam blast'
+p47
+sS'org_unorg'
+p48
+g40
+sS'terror_group'
+p49
+(lp50
+S'UNITED NATIONAL LIBERATION FRONT (UNLF)'
+p51
+asS'content'
+p52
+VNational Congress , Left condemn Assam blast . . By Our Special Correspondent . . NEW DELHI , AUG. 16 . The Congress and the Left Parties today expressed deep shock over the killing of 13 persons , mostly schoolchildren , at an Independence Day parade by militants at Dhemaji in Assam . The Congress said the incident was a powerful reminder of the continuing threat of terrorism in the sensitive border States . No words were adequate to condemn this ` dastardly act . ' . . ` It calls for continued vigil on the part of the intelligence agencies , police and administration to prevent recurrence of such incidents , '' the party spokesperson , Anand Sharma , said adding that in some regions , some foreign countries were providing covert assistance to terror . . . The Polit Bureau of the Communist Party of India -LRB- Marxist -RRB- said the ` horrific crime ' came in the background of a call for boycott by the United Liberation Front of Assam -LRB- ULFA -RRB- of the Independence Day celebrations . In a statement , the Polit Bureau conveyed its heartfelt condolences to the families of those killed . . . It said the State Government should spare no effort to hunt down the culprits ` responsible for this heinous crime ' and also urgently enquire into how the blast in Dhemaji and other places took place when heightened security arrangements were in place . The party said that all the democratic political forces in Assam must unitedly mobilise the people to isolate the extremists and disruptive elements ` who have no compunctions in targeting innocent children and people . '' . . The Communist Party of India said ` the dastardly crime ' was committed through a bomb blast by remote control in a ` terrible atmosphere ' created by the boycott call by the ULFA . While expressing its condolences to the families of those killed , the party urged the State Government to track down the culprits and take punitive action .
+p53
+sS'injured'
+p54
+g40
+sS'det_loc'
+p55
+(lp56
+S'India'
+p57
+aS'Assam'
+p58
+aS'Dhemaji'
+p59
+ag40
+ag40
+asS'O'
+p60
+(lp61
+S'Assam blast:6'
+p62
+aS'Special Correspondent:12'
+p63
+aS'Independence Day parade:44'
+p64
+aS'powerful reminder:61'
+p65
+aS'continuing threat of terrorism:65'
+p66
+aS'sensitive border States:71'
+p67
+aS'continued vigil:93'
+p68
+aS'intelligence agencies:100'
+p69
+aS'covert assistance:133'
+p70
+aS'terror:136'
+p71
+aS'horrific crime:155'
+p72
+aS'boycott:166'
+p73
+aS'Independence Day celebrations:179'
+p74
+aS'heartfelt condolences:192'
+p75
+aS'hunt down:213'
+p76
+aS'culprits:216'
+p77
+aS'heinous crime:221'
+p78
+aS'enquire:227'
+p79
+aS'blast:231'
+p80
+aS'heightened security arrangements:240'
+p81
+aS'extremists:266'
+p82
+aS'disruptive elements:268'
+p83
+aS'the dastardly crime:292'
+p84
+aS'bomb blast:300'
+p85
+aS'terrible atmosphere:308'
+p86
+aS'boycott call:314'
+p87
+aS'condolences:323'
+p88
+aS'culprits:341'
+p89
+aS'punitive action:344'
+p90
+asS'unexpl'
+p91
+(lp92
+g40
+asS'ocassion'
+p93
+g40
+sS'link'
+p94
+S'http://www.thehindu.com/2004/08/17/stories/2004081705501100.htm'
+p95
+sS'date'
+p96
+S'15-08-2004'
+p97
+sS'target'
+p98
+g40
+sS'hot_spot'
+p99
+g40
+sS'delivery_mod'
+p100
+g40
+sS'delivery_met'
+p101
+g40
+sS'expl'
+p102
+(lp103
+g40
+asS'ORG'
+p104
+(lp105
+(lp106
+S'National Congress'
+p107
+aS'1'
+p108
+aS'Others'
+p109
+aa(lp110
+S'Congress'
+p111
+aS'23'
+p112
+aS'Others'
+p113
+aa(lp114
+S'Left Parties'
+p115
+aS'26'
+p116
+aS'Others'
+p117
+aa(lp118
+S'Congress'
+p119
+aS'55'
+p120
+aS'Others'
+p121
+aa(lp122
+S'Polit Bureau'
+p123
+aS'141'
+p124
+aS'Others'
+p125
+aa(lp126
+S'Communist Party of India'
+p127
+aS'145'
+p128
+aS'Others'
+p129
+aa(lp130
+S'Marxist'
+p131
+aS'150'
+p132
+aS'Others'
+p133
+aa(lp134
+S'United Liberation Front'
+p135
+aS'169'
+p136
+aS'Accused'
+p137
+aa(lp138
+S'ULFA'
+p139
+aS'175'
+p140
+aS'Others'
+p141
+aa(lp142
+S'Polit Bureau'
+p143
+aS'188'
+p144
+aS'Others'
+p145
+aa(lp146
+S'State Government'
+p147
+aS'206'
+p148
+aS'Others'
+p149
+aa(lp150
+S'Communist Party of India'
+p151
+aS'286'
+p152
+aS'Others'
+p153
+aa(lp154
+S'ULFA'
+p155
+aS'318'
+p156
+aS'Accused'
+p157
+aS'Others'
+p158
+aa(lp159
+S'State Government'
+p160
+aS'335'
+p161
+aS'Others'
+p162
+aas.

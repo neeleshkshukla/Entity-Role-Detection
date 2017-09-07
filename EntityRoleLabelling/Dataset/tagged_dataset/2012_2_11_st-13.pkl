@@ -1,0 +1,295 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbai'
+p4
+aS'26'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Gateway of India'
+p8
+aS'46'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Zaveri Bazaar'
+p12
+aS'50'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Ghatkopar'
+p16
+aS'107'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Seepz Bus Depot'
+p20
+aS'120'
+p21
+aS'Assoc Event Location'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'A.M. Khanvilkar'
+p26
+aS'138'
+p27
+aS'Others'
+p28
+aa(lp29
+S'P.D. Kode'
+p30
+aS'141'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Ashrat Shafiq Ansari'
+p34
+aS'148'
+p35
+aS'Accused'
+p36
+aa(lp37
+S'Mohammad Hanif Abdul Rahim Sayyed'
+p38
+aS'155'
+p39
+aS'Accused'
+p40
+aa(lp41
+S'Fahmida Sayyed'
+p42
+aS'166'
+p43
+aS'Accused'
+p44
+aa(lp45
+S'Hassan Batteriwala'
+p46
+aS'188'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Rizwan Ladduwala'
+p50
+aS'191'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Ladoowala'
+p54
+aS'287'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Batterywala'
+p58
+aS'289'
+p59
+aS'Accused'
+p60
+aasS'TIM'
+p61
+(lp62
+sS'hot_setting'
+p63
+S''
+p64
+sS'DAT'
+p65
+(lp66
+S'Friday : 6'
+p67
+aS'2003 : 28'
+p68
+aS'August 25 , 2003 : 63'
+p69
+aS'July 28 , 2003 : 109'
+p70
+aS'December 2 , 2002 : 125'
+p71
+aS'Friday : 131'
+p72
+aS'August 6 , 2009 : 268'
+p73
+asS'death'
+p74
+S'52'
+p75
+sS'title'
+p76
+S'Death sentence upheld in Mumbai blasts case'
+p77
+sS'org_unorg'
+p78
+S'ORGANISED'
+p79
+sS'terror_group'
+p80
+(lp81
+S'LASHKAR-E-TAIBA'
+p82
+asS'content'
+p83
+S'The Bombay High Court on Friday confirmed the death sentence of three Lashkar-e-Taiba operatives , including a couple , accused of the twin blasts in Mumbai in 2003 claiming the lives of 52 persons and injuring over 100 . Two bombs went off at the Gateway of India and Zaveri Bazaar after the accused left them in the taxis to explode on August 25 , 2003 . It was the first time that a married couple was involved in the attack . Five accused were arrested in the case . They have been charged with two more terror attacks a bomb blast in a bus at Ghatkopar in July 28 , 2003 ; and an unexploded bomb at the Seepz Bus Depot planted on December 2 , 2002 . On Friday , a Division Bench of Justices A.M. Khanvilkar and P.D. Kode confirmed the death penalty of Ashrat Shafiq Ansari ( 34 ) , Mohammad Hanif Abdul Rahim Sayyed ( 46 ) and his wife Fahmida Sayyed ( 43 ) . But the court partially quashed the order of the lower court discharging two other accused , Hassan Batteriwala and Rizwan Ladduwala , on the basis of a report of the POTA review committee . They will have to face trial for the crimes registered against them under IPC . The two accused have been directed by the High Court to appear before the POTA court in four weeks . All the accused have been given eight weeks to file an appeal in the Supreme Court . The conviction order will be stayed till then . On August 6 , 2009 , the special POTA court convicted the three accused and sentenced them to death . Ladoowala and Batterywala were discharged from the case after the apex court upheld a POTA review committee report which stated that no case could be made out . OPEN'
+p84
+sS'injured'
+p85
+S'100'
+p86
+sS'det_loc'
+p87
+(lp88
+S'India'
+p89
+aS'Maharashtra'
+p90
+aS'Mumbai-City'
+p91
+aS'Mumbai'
+p92
+aS'Gateway of India and Zaveri Bazaar'
+p93
+asS'O'
+p94
+(lp95
+S'death sentence:9'
+p96
+aS'twin blasts:23'
+p97
+aS'bombs:41'
+p98
+aS'taxis:59'
+p99
+aS'married couple:75'
+p100
+aS'attack:81'
+p101
+aS'five accused:83'
+p102
+aS'arrested:86'
+p103
+aS'terror attacks:98'
+p104
+aS'bomb blast in a bus:101'
+p105
+aS'unexploded bomb:116'
+p106
+aS'Division Bench of Justices:134'
+p107
+aS'death penalty:145'
+p108
+aS'quashed:176'
+p109
+aS'discharging:183'
+p110
+aS'pota review committee:202'
+p111
+aS'crimes:214'
+p112
+aS'ipc:219'
+p113
+aS'pota court:235'
+p114
+aS'four weeks:238'
+p115
+aS'eight weeks:247'
+p116
+aS'appeal:252'
+p117
+aS'conviction order:259'
+p118
+aS'special pota court:274'
+p119
+aS'three accused:279'
+p120
+aS'sentenced:282'
+p121
+aS'death:285'
+p122
+aS'apex court:297'
+p123
+aS'pota review committee report:301'
+p124
+asS'unexpl'
+p125
+(lp126
+g64
+asS'ocassion'
+p127
+g64
+sS'link'
+p128
+S'http://www.thehindu.com/todays-paper/death-sentence-upheld-in-mumbai-blasts-case/article2881226.ece'
+p129
+sS'date'
+p130
+S'25-08-2003'
+p131
+sS'target'
+p132
+S'TOWN'
+p133
+sS'hot_spot'
+p134
+S'Gateway of India \xe2\x80\x94 a monument near the sea, and Zaveri Bazaar \xe2\x80\x94 a market place'
+p135
+sS'delivery_mod'
+p136
+S'FOUR WHEELER'
+p137
+sS'delivery_met'
+p138
+S'PLANTED'
+p139
+sS'expl'
+p140
+(lp141
+g64
+asS'ORG'
+p142
+(lp143
+(lp144
+S'Bombay High Court'
+p145
+aS'2'
+p146
+aS'Others'
+p147
+aa(lp148
+S'Lashkar-e-Taiba'
+p149
+aS'13'
+p150
+aS'Accused'
+p151
+aa(lp152
+S'High Court'
+p153
+aS'229'
+p154
+aS'Others'
+p155
+aa(lp156
+S'Supreme Court'
+p157
+aS'255'
+p158
+aS'Others'
+p159
+aas.

@@ -1,0 +1,213 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Coimbatore'
+p4
+aS'2'
+p5
+aS'Event'
+p6
+aasS'PER'
+p7
+(lp8
+sS'TIM'
+p9
+(lp10
+S'seven years : 102'
+p11
+asS'hot_setting'
+p12
+S''
+p13
+sS'DAT'
+p14
+(lp15
+S'Sunday evening : 27'
+p16
+aS'February 14 , 1998 : 40'
+p17
+aS'December 2010:139'
+p18
+aS'October 30 , 2012 : 173'
+p19
+aS'Sunday:197'
+p20
+asS'death'
+p21
+S'58'
+p22
+sS'title'
+p23
+S'Blasts case documents despatched to SC'
+p24
+sS'org_unorg'
+p25
+g13
+sS'terror_group'
+p26
+(lp27
+g13
+asS'content'
+p28
+S'The Coimbatore serial blast case documents weighing more than 250 kg packed in four huge boxes were sent to Supreme Court with armed police guard on Sunday evening by the Coimbatore Nizamuddin Kongu Express . The serial blasts of February 14 , 1998 claimed more than 58 lives and left over 200 injured besides damages to properties worth several crores of rupees . The case investigated by the Special Investigation Team ( SIT ) of the CB-CID was tried by the Special Court for Bomb Blast cases . A number of accused were awarded life sentences while the co-conspirators were awarded seven years life imprisonment . Eighteen convicts who were awarded life sentence by the Special Court went on an appeal before the Madras High Court and the High Court upheld the verdict of the trial court in December 2010 . Of the 18 , as many as 17 accused had moved the Supreme Court seeking to cancel the life sentence . The appeal is likely to come up for hearing on October 30 , 2012 . Hence , based on a notice from the Supreme Court , documents/materials pertaining to the case were sent on Sunday . OPEN'
+p29
+sS'injured'
+p30
+S'200'
+p31
+sS'det_loc'
+p32
+(lp33
+S'India'
+p34
+aS'Tamil Nadu'
+p35
+aS'Coimbatore'
+p36
+aS'Coimbatore'
+p37
+ag13
+asS'O'
+p38
+(lp39
+S'coimbatore serial blast:2'
+p40
+aS'documents:6'
+p41
+aS'250 kg packed:10'
+p42
+aS'four huge boxes:14'
+p43
+aS'police guard:24'
+p44
+aS'serial blasts:37'
+p45
+aS'damages:55'
+p46
+aS'crores:60'
+p47
+aS'special court:82'
+p48
+aS'bomb blast:85'
+p49
+aS'life sentences:95'
+p50
+aS'co-conspirators:99'
+p51
+aS'life imprisonment:104'
+p52
+aS'imprisonment:105'
+p53
+aS'eighteen convicts:107'
+p54
+aS'life sentence:112'
+p55
+aS'special court:116'
+p56
+aS'trial court:136'
+p57
+aS'life sentence:160'
+p58
+aS'documents/materials:189'
+p59
+asS'unexpl'
+p60
+(lp61
+g13
+asS'ocassion'
+p62
+g13
+sS'link'
+p63
+S'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/blasts-case-documents-despatched-to-sc/article3760816.ece'
+p64
+sS'date'
+p65
+S'14-02-1998'
+p66
+sS'target'
+p67
+g13
+sS'hot_spot'
+p68
+g13
+sS'delivery_mod'
+p69
+g13
+sS'delivery_met'
+p70
+S'PLANTED'
+p71
+sS'expl'
+p72
+(lp73
+g13
+asS'ORG'
+p74
+(lp75
+(lp76
+S'Supreme Court'
+p77
+aS'20'
+p78
+aS'Others'
+p79
+aa(lp80
+S'Coimbatore Nizamuddin Kongu Express'
+p81
+aS'31'
+p82
+aS'Others'
+p83
+aa(lp84
+S'Special Investigation Team'
+p85
+aS'69'
+p86
+aS'Others'
+p87
+aa(lp88
+S'SIT'
+p89
+aS'73'
+p90
+aS'Others'
+p91
+aa(lp92
+S'CB-CID'
+p93
+aS'77'
+p94
+aS'Others'
+p95
+aa(lp96
+S'Madras High Court'
+p97
+aS'124'
+p98
+aS'Others'
+p99
+aa(lp100
+S'High Court'
+p101
+aS'129'
+p102
+aS'Others'
+p103
+aa(lp104
+S'Supreme Court'
+p105
+aS'154'
+p106
+aS'Others'
+p107
+aa(lp108
+S'Supreme Court'
+p109
+aS'186'
+p110
+aS'Others'
+p111
+aas.

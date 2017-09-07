@@ -1,0 +1,253 @@
+{
+    "LOC": [
+        [
+            "Kozhikode", 
+            "10", 
+            "Neutral"
+        ], 
+        [
+            "KOZHIKODE", 
+            "30", 
+            "Event"
+        ], 
+        [
+            "Kozhikode", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "Viyyur", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "Kozhikode", 
+            "94", 
+            "Neutral"
+        ], 
+        [
+            "mofussil bus stations", 
+            "158", 
+            "Neutral"
+        ], 
+        [
+            "Mavoor Road", 
+            "162", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "235", 
+            "Neutral"
+        ], 
+        [
+            "Bangladesh", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "259", 
+            "Neutral"
+        ], 
+        [
+            "Annakulam", 
+            "323", 
+            "Neutral"
+        ], 
+        [
+            "Kannur", 
+            "325", 
+            "Neutral"
+        ], 
+        [
+            "Maithanapally", 
+            "338", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Kannur", 
+            "341", 
+            "Neutral"
+        ], 
+        [
+            "mofussil bus station", 
+            "381", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Nazir", 
+            "26", 
+            "Accused"
+        ], 
+        [
+            "Thadiyantavide Nazir", 
+            "38", 
+            "Accused"
+        ], 
+        [
+            "Ummer Haji", 
+            "42", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "64", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "T.K. Rajmohan", 
+            "131", 
+            "Others"
+        ], 
+        [
+            "Nazir", 
+            "141", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "181", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "211", 
+            "Accused"
+        ], 
+        [
+            "Abdul Halim", 
+            "213", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "223", 
+            "Accused"
+        ], 
+        [
+            "Shafaz Samsudheen", 
+            "225", 
+            "Accused"
+        ], 
+        [
+            "Halim", 
+            "264", 
+            "Accused"
+        ], 
+        [
+            "Azhar", 
+            "314", 
+            "Accused"
+        ], 
+        [
+            "Nazir", 
+            "350", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:50", 
+        "Tuesday:165", 
+        "March 3:172", 
+        "2006:175", 
+        "July:261", 
+        "July 2007:261", 
+        "May 2 , 2003 : 299"
+    ], 
+    "death": "", 
+    "title": "Nazir brought to city to collect evidence", 
+    "det_loc": [
+        "India", 
+        "Kerala", 
+        "Kozhikode", 
+        "Calicut", 
+        ""
+    ], 
+    "terror_group": [
+        "Lashkar-e-Taiba / Pasban-E-Ahle Hadis (LeT)"
+    ], 
+    "content": "Staff Reporter Terror suspect is the prime accused in Kozhikode twin-blast case Nazir to be taken to blast sites today NIA has secured custody of Nazir for 10 days KOZHIKODE : Suspected Lashkar-e-Taiba ( LeT ) operative Thadiyantavide Nazir , alias Ummer Haji , was brought to Kozhikode on Monday to collect evidence in connection with the twin-blast case in the city . Nazir , who is the first accused in the blast case , was brought amid tight security from the Viyyur Central Prison to the National Investigation Agency ( NIA ) Kozhikode camp office at the Rest House at West Hill in the morning . The NIA , which is probing the case , has secured the custody of Nazir for 10 days . NIA Superintendent of Police T.K. Rajmohan is investigating the case . Official sources said Nazir would be taken to the two blast sites at the Kerala State Road Transport Corporation and mofussil bus stations on Mavoor Road on Tuesday . The explosions had occurred on March 3 , 2006 . Investigations had revealed that Nazir had meticulously planned the blasts and executed the operation through a network of youths in the State . Earlier , the State police had established the links between the Nazir and Abdul Halim , the third accused in the case . Nazir and Shafaz Samsudheen , another accused , were nabbed by the Bangladesh police and later handed over to the Border Security Force ( BSF ) . Both had fled to Bangladesh after the terror-attacks in Bangalore in July 2007 . Halim had confessed to the interrogators that he had made two bombs for exploding them at the bus stations in protest against the denial of bail to the accused in the Marad massacre case of May 2 , 2003 . The improvised explosives devices were made at the house of Azhar , another accused in the case , at Annakulam in Kannur . He admitted that he had tested the bombs twice on the Maithanapally beach in Kannur . But now it has been revealed that Nazir had masterminded he two explosions to plant terror-attacks in other cities in the country . Two persons , including a policeman , had sustained injuries in the blast at the mofussil bus station . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "twin-blast case:11", 
+        "lashkar-e-taiba:33", 
+        "twin-blast case:58", 
+        "accused:70", 
+        "blast:73", 
+        "viyyur central prison:83", 
+        "investigation:89", 
+        "marad massacre case:295", 
+        "mofussil bus station:381"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-kerala/nazir-brought-to-city-to-collect-evidence/article720856.ece", 
+    "date": "03-03-2006", 
+    "target": "Public Transport", 
+    "hot_spot": "bus station", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "IED"
+    ], 
+    "ORG": [
+        [
+            "NIA", 
+            "21", 
+            "Others"
+        ], 
+        [
+            "Lashkar-e-Taiba", 
+            "33", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "88", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "92", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "109", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "127", 
+            "Others"
+        ], 
+        [
+            "Kerala State Road Transport Corporation", 
+            "152", 
+            "Others"
+        ], 
+        [
+            "Border Security Force", 
+            "243", 
+            "Others"
+        ], 
+        [
+            "BSF", 
+            "247", 
+            "Others"
+        ]
+    ]
+}

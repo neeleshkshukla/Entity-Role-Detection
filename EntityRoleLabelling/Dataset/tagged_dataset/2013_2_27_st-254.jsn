@@ -1,0 +1,162 @@
+{
+    "LOC": [
+        [
+            "Tiruchi railway junction", 
+            "8", 
+            "Neutral"
+        ], 
+        [
+            "Hyderabad", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "paraphernalia", 
+            "58", 
+            "Neutral"
+        ], 
+        [
+            "checked platforms", 
+            "60", 
+            "Neutral"
+        ], 
+        [
+            "two and four-wheeler parking areas", 
+            "74", 
+            "Neutral"
+        ], 
+        [
+            "retiring rooms", 
+            "80", 
+            "Neutral"
+        ], 
+        [
+            "parcel office", 
+            "83", 
+            "Neutral"
+        ], 
+        [
+            "computerised passenger reservation centre", 
+            "86", 
+            "Neutral"
+        ], 
+        [
+            "railway refreshment stalls", 
+            "92", 
+            "Neutral"
+        ], 
+        [
+            "Ganesan", 
+            "129", 
+            "Neutral"
+        ], 
+        [
+            "Tiruchi", 
+            "138", 
+            "Assoc Event Location"
+        ], 
+        [
+            "A.Kalaiarasan", 
+            "140", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Hyderabad", 
+            "197", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:28"
+    ], 
+    "death": "", 
+    "title": "Joint combing operation at Tiruchi junction", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A combing operation was jointly conducted at Tiruchi railway junction by city police , Government Railway Police , and Railway Protection Force ( RPF ) personnel on Tuesday in the wake of the twin blasts in Hyderabad . During the over hour-long anti-sabotage checks , the police and RPF personnel armed with bomb detection equipment and other paraphernalia , checked platforms 2 , 3 , 4 , 5 , 6 and 7 , two and four-wheeler parking areas , retiring rooms , parcel office , computerised passenger reservation centre , and railway refreshment stalls , looking out for any suspicious objects . Around 50 personnel were involved in the operation that was headed by the Assistant Commissioner of Police ( Law and Order ) , Cantonment range , Ganesan , and RPF , Assistant Security Commissioner , Tiruchi , A.Kalaiarasan . Two empty rakes of passenger coaches halted at the station were also checked . No suspicious objects or articles were found during the sudden checks , said RPF officers adding that the operation was conducted as a precautionary measure and to enhance coordination between security agencies . In the wake of the twin blasts in Hyderabad OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Tamil Nadu", 
+        "", 
+        "TIRUCHI", 
+        "Hyderabad"
+    ], 
+    "O": [
+        "combing operation:2", 
+        "anti-sabotage checks:43", 
+        "law and order:121", 
+        "Cantonment range:126", 
+        "twin blasts:194"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/joint-combing-operation-at-tiruchi-junction/article4457660.ece", 
+    "date": "26-02-2013", 
+    "target": "", 
+    "hot_spot": "Hyderabad", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "city police", 
+            "12", 
+            "Others"
+        ], 
+        [
+            "Government Railway Police", 
+            "15", 
+            "Others"
+        ], 
+        [
+            "Railway Protection Force ( RPF )", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "47", 
+            "Others"
+        ], 
+        [
+            "RPF personnel armed", 
+            "49", 
+            "Others"
+        ], 
+        [
+            "Assistant Commissioner of Police", 
+            "116", 
+            "Others"
+        ], 
+        [
+            "RPF", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Assistant Security Commissioner", 
+            "134", 
+            "Others"
+        ], 
+        [
+            "RPF", 
+            "169", 
+            "Others"
+        ], 
+        [
+            "security agencies", 
+            "186", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "LOC": [
+        [
+            "Pakpattan", 
+            "18", 
+            "Event", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Data Darbar", 
+            "113", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Lahore", 
+            "116", 
+            "Neutral"
+        ], 
+        [
+            "Abdullah Shah Ghazi shrine", 
+            "122", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Karachi", 
+            "127", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Baba Farid Shakar Ganj", 
+            "57", 
+            "Victim"
+        ], 
+        [
+            "Baba Farid", 
+            "158", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "6.30 a.m.:68"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday morning:24", 
+        "Monday:24"
+    ], 
+    "death": "0", 
+    "title": "Blast at Sufi shrine", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "At least six people were killed and dozen injured in a blast outside a Sufi shrine in Pakpattan in the Punjab province on Monday morning . The bomb was apparently planted in a milk container . According to the police , two men came on a motorcycle and left the milk container at the gate of Baba Farid Shakar Ganj shrine soon after the morning prayers around 6.30 a.m. Though several kg of explosive material were stashed up in the milk container , the toll was low because of the early hour of the blast . Sufi shrines have increasingly come under attack in recent months ; the most serious being at Data Darbar in Lahore and more recently at the Abdullah Shah Ghazi shrine in Karachi earlier this month . The blast damaged the outer wall of the shrine and some shops alongside it but the mausoleum of the 12th Century Baba Farid remained untouched . Baba Farid is said to be the first major poet of Punjabi language and revered by Muslims , Sikhs and Hindus alike . Some of his works have been incorporated in the Guru Granth Sahib . OPEN", 
+    "injured": "0", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Punjab province", 
+        "outside a Sufi shrine"
+    ], 
+    "O": [
+        "bomb:28", 
+        "milk container:34", 
+        "motorcycle:47", 
+        "explosive material:74", 
+        "Sufi:97", 
+        "guru granth sahib:190"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/blast-at-sufi-shrine/article849465.ece", 
+    "date": "26-10-2010", 
+    "target": "Religious Places", 
+    "hot_spot": "", 
+    "delivery_mod": "Two wheeler", 
+    "delivery_met": "Thrown", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

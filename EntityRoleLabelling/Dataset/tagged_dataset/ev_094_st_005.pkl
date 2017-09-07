@@ -1,0 +1,362 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Patnas Gandhi Maidan'
+p4
+aS'13'
+p5
+aS'Event'
+p6
+aa(lp7
+S'railway station'
+p8
+aS'18'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Gandhi Maidan'
+p12
+aS'52'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Gandhi Maidan'
+p16
+aS'95'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Patna'
+p20
+aS'103'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Patna'
+p24
+aS'198'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Patna'
+p28
+aS'216'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Gandhi Maidan'
+p32
+aS'265'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Udyog Bhavan'
+p36
+aS'268'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Regent Cinema Hall'
+p40
+aS'280'
+p41
+aa(lp42
+S'twin towers'
+p43
+aS'291'
+p44
+aS'Neutral'
+p45
+aa(lp46
+S'childrens park'
+p47
+aS'315'
+p48
+aS'Neutral'
+p49
+aa(lp50
+S'Bihar'
+p51
+aS'555'
+p52
+aS'Neutral'
+p53
+aa(lp54
+S'Bihar'
+p55
+aS'610'
+p56
+aS'Neutral'
+p57
+aa(lp58
+S'Bihar'
+p59
+aS'656'
+p60
+aS'Neutral'
+p61
+aa(lp62
+S'Bihar'
+p63
+aS'664'
+p64
+aS'Neutral'
+p65
+aasS'PER'
+p66
+(lp67
+(lp68
+S'Narendra Modi'
+p69
+aS'29'
+p70
+aS'Others'
+p71
+aa(lp72
+S'Manu Maharaj'
+p73
+aS'108'
+p74
+aS'Comment'
+p75
+aa(lp76
+S'Ram Narayan Singh'
+p77
+aS'168'
+p78
+aS'Accused'
+p79
+aa(lp80
+S'Vikas Singh'
+p81
+aS'172'
+p82
+aS'Accused'
+p83
+aa(lp84
+S'Munna Srivastav'
+p85
+aS'175'
+p86
+aS'Accused'
+p87
+aa(lp88
+S'Abhayanand'
+p89
+aS'243'
+p90
+aS'Comment'
+p91
+aa(lp92
+S'Navin Kumar Sah'
+p93
+aS'391'
+p94
+aS'Accused'
+p95
+aa(lp96
+S'Imtiaz Ansari'
+p97
+aS'465'
+p98
+aS'Accused'
+p99
+aa(lp100
+S'Abhayanand'
+p101
+aS'542'
+p102
+aS'Comment'
+p103
+aa(lp104
+S'Nitish Kumar'
+p105
+aS'558'
+p106
+aS'Comment'
+p107
+aa(lp108
+S'Kumar'
+p109
+aS'659'
+p110
+aS'Comment'
+p111
+aasS'TIM'
+p112
+(lp113
+S'9.30 a.m. : 188'
+p114
+aS'11.40 a.m.:261'
+p115
+aS'12.05 p.m.:276'
+p116
+aS'12.15 p.m.:287'
+p117
+aS'12.20 p.m.:298'
+p118
+aS'1 p.m.:423'
+p119
+asS'hot_setting'
+p120
+S''
+p121
+sS'DAT'
+p122
+(lp123
+S'Sunday:21'
+p124
+asS'death'
+p125
+S'5'
+p126
+sS'title'
+p127
+S'Serial blasts rock Modis rally venue in Patna, five killed'
+p128
+sS'org_unorg'
+p129
+S'ORGANISED'
+p130
+sS'terror_group'
+p131
+(lp132
+S'INDIAN MUJAHIDEEN'
+p133
+asS'content'
+p134
+VFive persons were killed and 83 injured in multiple blasts that rocked Patnas Gandhi Maidan and the railway station on Sunday , hours before BJPs prime ministerial candidate Narendra Modi was to address the Hunkar rally here . . . A rash of seven explosions ripped through the surroundings of the Gandhi Maidan , where nearly over two lakh people had gathered for the rally . Of the 83 people injured , two are in a critical condition . . . A total of seven blasts took place of which five were inside the Gandhi Maidan and two at the station , Patna Senior Superintendent of Police Manu Maharaj told The Hindu . . . One of the blasts at the station occurred even as the bomb disposal squad was defusing a bomb . The police found two unexploded improvised explosive devices -LRB- IEDs -RRB- at two locations around the maidan . Searches are on for more IEDs . . . The blasts claimed the lives of Ram Narayan Singh , Vikas Singh , Munna Srivastav and two others . . . The first blast occurred at 9.30 a.m. in the toilet on Platform 10 at the Patna junction . One critically injured person , admitted to the Indira Gandhi Institute of Medical Sciences in Patna , is believed to be a suspect . . . There is a possibility that he was injured while planting the bomb , Director-General of Police Abhayanand told a press conference . . . Two hours later , the second blast took place around 11.40 a.m. on the Gandhi Maidan near Udyog Bhavan . The third one occurred at 12.05 p.m. near the Regent Cinema Hall , the fourth at 12.15 p.m. near the twin towers , and the fifth at 12.20 p.m. near the State Bank of India office . The last blast went off near the childrens park , the DGP said . . . There is discrepancy in the number and location of blasts given by the police . While the SSP said there were two blasts at the railway station , the DGP said there was only one . While the SSP said five blasts occurred inside the maidan , the DGP said only one went off . . . I was defusing a bomb when it went off , Navin Kumar Sah , member of the bomb disposal squad , who was injured , told The Hindu at the Patna Medical College and Hospital . The second blast took place at 1 p.m. I could escape with a fractured finger . The bomb I was defusing had a timer attached to it . So it could not have been a crude bomb , he said . . . The police had arrested one Imtiaz Ansari , who was allegedly trying to flee after the blast at the station . He is suspected to be a member of the Indian Mujahideen and has given his confession . Three others detained also confessed to the crime , according to the police . . . IEDs were used in all the blasts , and timers and improvised switches were used in some . The bomb planted at the station was complicated , Mr. Abhayanand said . . . Asked if there was a terror link , Bihar Chief Minister Nitish Kumar said the possibility could not be ruled out . However , he denied political conspiracy . At a press conference , he condemned the incident and denied any security lapse by the police or the administration . The attacks were carried out with an intention to vitiate the atmosphere in Bihar . They took us completely by surprise . We had no intelligence input or alert either from the Centre or State agencies . It would be wrong and an over simplification to call this a security lapse . Such a thing has never happened in Bihar , Mr. Kumar said . . . Bihar has not had a history of confrontation . This is the handiwork of people who want to spoil Bihars climate . We wont let them succeed in their designs . , he said . . . He announced an ex gratia of Rs .5 lakh for the families of the deceased .
+p135
+sS'injured'
+p136
+S'83'
+p137
+sS'det_loc'
+p138
+(lp139
+S'India'
+p140
+aS'Bihar'
+p141
+aS'Patna'
+p142
+aS'Patna'
+p143
+aS'Patna'
+p144
+asS'O'
+p145
+(lp146
+S'Senior Superintendent of Police:104'
+p147
+aS'explosive devices:141'
+p148
+aS'IEDs:158'
+p149
+aS'DGP:372'
+p150
+aS'Chief Minister:556'
+p151
+asS'unexpl'
+p152
+(lp153
+g121
+asS'ocassion'
+p154
+g121
+sS'link'
+p155
+S'http://www.thehindu.com/news/national/other-states/serial-bomb-blasts-at-modi-rally-several-injured/article5277899.ece'
+p156
+sS'date'
+p157
+S'27-10-2013'
+p158
+sS'target'
+p159
+g121
+sS'hot_spot'
+p160
+S'Patna'
+p161
+sS'delivery_mod'
+p162
+g121
+sS'delivery_met'
+p163
+S'PLANTED'
+p164
+sS'expl'
+p165
+(lp166
+g121
+asS'ORG'
+p167
+(lp168
+(lp169
+S'BJPs'
+p170
+aS'25'
+p171
+aS'Others'
+p172
+aa(lp173
+S'The Hindu'
+p174
+aS'111'
+p175
+aS'Others'
+p176
+aa(lp177
+S'Indira Gandhi Institute of Medical Sciences'
+p178
+aS'209'
+p179
+aS'Others'
+p180
+aa(lp181
+S'State Bank of India'
+p182
+aS'302'
+p183
+aS'Others'
+p184
+aa(lp185
+S'India'
+p186
+aS'305'
+p187
+aS'Others'
+p188
+aa(lp189
+S'The Hindu'
+p190
+aS'407'
+p191
+aS'Others'
+p192
+aa(lp193
+S'Patna Medical College and Hospital'
+p194
+aS'411'
+p195
+aS'Others'
+p196
+aa(lp197
+S'Indian Mujahideen'
+p198
+aS'490'
+p199
+aS'Accused'
+p200
+aas.

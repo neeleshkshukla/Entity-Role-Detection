@@ -1,0 +1,302 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Dilsukhnagar'
+p4
+aS'71'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Dilsukhnagar'
+p8
+aS'225'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Dilsukhnagar'
+p12
+aS'245'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Koti'
+p16
+aS'306'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Kothapet'
+p20
+aS'376'
+p21
+aS'Neutral'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Shaik Jani Pasha'
+p26
+aS'53'
+p27
+aS'Comment'
+p28
+aa(lp29
+S'Pasha'
+p30
+aS'91'
+p31
+aS'Others'
+p32
+aa(lp33
+S'Pasha'
+p34
+aS'209'
+p35
+aS'Others'
+p36
+aa(lp37
+S'N. Satyanarayana'
+p38
+aS'241'
+p39
+aS'Others'
+p40
+aa(lp41
+S'Chiranjeevi'
+p42
+aS'249'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Chiranjeevi'
+p46
+aS'351'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Pasha'
+p50
+aS'379'
+p51
+aS'Others'
+p52
+aa(lp53
+S'Pashas'
+p54
+aS'435'
+p55
+aS'Others'
+p56
+aa(lp57
+S'A.K. Khan'
+p58
+aS'442'
+p59
+aS'Others'
+p60
+aa(lp61
+S'Pasha'
+p62
+aS'533'
+p63
+aS'Others'
+p64
+aasS'TIM'
+p65
+(lp66
+sS'hot_setting'
+p67
+S''
+p68
+sS'DAT'
+p69
+(lp70
+S'February 21 : 73'
+p71
+aS'Thursday : 389'
+p72
+aS'Saturday : 445'
+p73
+asS'death'
+p74
+g68
+sS'title'
+p75
+S'Love in the midst of misfortune'
+p76
+sS'org_unorg'
+p77
+g68
+sS'terror_group'
+p78
+(lp79
+g68
+asS'content'
+p80
+S'The memory refuses to fade away . It is over a month , but the pathetic sight of a young girl dying in his arms keeps flashing in his mind . She breathed her last in my arms as I was shifting her into a bus . I felt wretched , said Shaik Jani Pasha , an RTC driver , as he recalled the scenes from the twin blasts at Dilsukhnagar on February 21 . On the dreadful day , when most ran helter-skelter after the bombs went off , Pasha rushed to the site to help the injured . In fact , it was his initiative that saved many lives . As the blast at Anand tiffin centre ripped through the market , motorcycles flew up in the air , and people fell apart . It was like an action scene from an English movie , and soon bodies were strewn all over , he recalled with a shudder . Even before I could react , another blast occurred at the 107 bus stop . Fire and smoke enveloped the site at Anand tiffin centre , and I ran towards the bus stop . People were injured badly and were crying in shock and pain , Mr. Pasha said . It was his weekly off , and he was having tea at the Dilsukhnagar bus stand when the blasts occurred . Immediately , he called up Malakpet Police Inspector N. Satyanarayana and later Dilsukhnagar RTC Depot Manager Chiranjeevi . I informed them that I was shifting the injured into buses and sending them to hospital . Time was crucial , recalled the 44-year-old . The sight of two children , aged about two years , crying near their mother moved him . He stopped a Metro Express bus and two ordinary buses heading towards Koti and shifted the injured into them . I made sure that all the injured were shifted immediately , and students from nearby hostels also helped me . Thankfully , police ensured that the buses had a clear passage , he said . Meanwhile , Chiranjeevi pointed out that had he waited for an ambulance instead of using the buses , casualties would have been higher . A resident of Kothapet , Mr. Pasha volunteers in organising services at Sai Baba Temple every Thursday . Just days before the blast , police had instructed all pushcart vendors and others near Venkatdri theatre to shift their operations . This saved many lives as there was not much of pedestrian traffic on the fateful day , he reminisced . Lauding Mr. Pashas initiative , APSRTC Vice-Chairman and MD A.K. Khan on Saturday presented him a cash award of Rs . 25,000 and an appreciation letter . Even before I could react , another blast occurred at 107 bus stop . Fire and smoke enveloped the site at Anand tiffin centre . People were injured badly and were crying in shock and pain . Just days before the blast , police had instructed all pushcart vendors near Venkatdri theatre to shift . This saved many lives as there was not much of pedestrian traffic . On the dreadful day , Pasha rushed to the blast sites to help the injured and shifted them to hospital , saving many lives OPEN'
+p81
+sS'injured'
+p82
+g68
+sS'det_loc'
+p83
+(lp84
+S'India'
+p85
+aS'Andhra Pradesh'
+p86
+ag68
+aS'Dilshuknagar'
+p87
+ag68
+asS'O'
+p88
+(lp89
+S'memory refuses:2'
+p90
+aS'pathetic sight:16'
+p91
+aS'wretched:50'
+p92
+aS'RTC driver:58'
+p93
+aS'twin blasts:68'
+p94
+aS'dreadful day:78'
+p95
+aS'helter-skelter:84'
+p96
+aS'bombs:87'
+p97
+aS'injured:99'
+p98
+aS'blast:115'
+p99
+aS'Anand tiffin centre:117'
+p100
+aS'motorcycles flew up:125'
+p101
+aS'English movie:145'
+p102
+aS'strewn:152'
+p103
+aS'shudder:160'
+p104
+aS'blast:169'
+p105
+aS'107 bus stop:173'
+p106
+aS'Fire and smoke:177'
+p107
+aS'Anand tiffin centre:184'
+p108
+aS'injured badly:198'
+p109
+aS'Dilsukhnagar bus stand:225'
+p110
+aS'blasts:230'
+p111
+aS'Malakpet Police Inspector N. Satyanarayana:238'
+p112
+aS'Dilsukhnagar RTC Depot Manager Chiranjeevi:245'
+p113
+aS'Metro Express bus:297'
+p114
+aS'two ordinary buses:301'
+p115
+aS'ambulance:360'
+p116
+aS'Sai Baba Temple:385'
+p117
+aS'pushcart vendors:401'
+p118
+aS'Venkatdri theatre:406'
+p119
+aS'operations:411'
+p120
+aS'pedestrian traffic:423'
+p121
+aS'fateful day:427'
+p122
+aS'cash award:449'
+p123
+aS'Rs . 25,000:452'
+p124
+aS'appreciation letter:457'
+p125
+aS'107 bus stop:470'
+p126
+aS'Fire and smoke:474'
+p127
+aS'Anand tiffin centre:481'
+p128
+aS'injured badly:487'
+p129
+aS'shock and pain:493'
+p130
+aS'pushcart vendors:507'
+p131
+aS'Venkatdri theatre:510'
+p132
+aS'pedestrian traffic:525'
+p133
+aS'dreadful day:530'
+p134
+aS'blast sites:537'
+p135
+aS'injured and shifted:542'
+p136
+asS'unexpl'
+p137
+(lp138
+g68
+asS'ocassion'
+p139
+g68
+sS'link'
+p140
+S'http://www.thehindu.com/todays-paper/tp-in-school/love-in-the-midst-of-misfortune/article4552748.ece'
+p141
+sS'date'
+p142
+S'21-02-2013'
+p143
+sS'target'
+p144
+S'PUBLIC TRANSPORT'
+p145
+sS'hot_spot'
+p146
+g68
+sS'delivery_mod'
+p147
+S'MOTORCYCLES'
+p148
+sS'delivery_met'
+p149
+S'PLANTED'
+p150
+sS'expl'
+p151
+(lp152
+g68
+asS'ORG'
+p153
+(lp154
+(lp155
+S'APSRTC'
+p156
+aS'438'
+p157
+aS'Others'
+p158
+aas.

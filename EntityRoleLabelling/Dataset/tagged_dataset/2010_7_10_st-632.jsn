@@ -1,0 +1,153 @@
+{
+    "LOC": [
+        [
+            "Afghanistan", 
+            "29", 
+            "Neutral"
+        ], 
+        [
+            "Kunar province", 
+            "31", 
+            "Neutral"
+        ], 
+        [
+            "Yakka Ghund tehsil", 
+            "65", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "147", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "187", 
+            "Neutral"
+        ], 
+        [
+            "Mohmand", 
+            "241", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "286", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Makhdoom Shah Mahmood Qureshi", 
+            "250", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday morning:34", 
+        "Friday:34", 
+        "2008:205", 
+        "April:225", 
+        "2001:365"
+    ], 
+    "death": "60", 
+    "title": "Over 60 killed in Pakistan blast", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Kunar province", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Over 60 people were killed and nearly 110 injured in a suicide bomb attack on the office of the assistant political agent of the Mohmand tribal agency bordering Afghanistan 's Kunar province on Friday morning just as locals were gathering there for a scheduled meeting with the official . The bomber came on a motorcycle and blew himself up at the government office in Yakka Ghund tehsil which was particularly crowded because both the assistant political agent and the tehsildar were present for disposal of cases . The blast brought down several buildings in the vicinity and people were trapped in the rubble till late in the day resulting in a mounting death toll as the clock ticked . There were reports that the blast damaged a prison facilitating the escape of a number of prisoners . Mohmand is one of the seven tribal agencies of Pakistan that together make up the Federally Administered Tribal Areas ( FATA ) which is often dubbed the most dangerous place in the world '' because the Taliban/Al-Qaeda is believed to have taken refuge there after being pushed out of Afghanistan . It is the most heavily populated of the seven agencies and had witnessed large-scale displacement in 2008 when fighting flared up between the Army and the militants . The Internally Displaced Persons began returning only this April and this blast has again raised questions on the military 's claims of having made Mohmand militant-free . Condemning the blast , Foreign Minister Makhdoom Shah Mahmood Qureshi said such reprehensible acts only strengthen our resolve '' to ensure that terrorism is never allowed to succeed in its nefarious designs . In a statement , the U. S. Embassy in Pakistan said such brutal acts clearly demonstrated the terrorists ' complete disregard for human life . The Peshawar-based Tribal NGOs Consortium used the attention that the blast brought to Mohmand to focus on the plight of the people of FATA who continue to live outside the ambit of the law of the land and human rights standards that are an accepted norm elsewhere . FATA and its people have been suffering for the last many years and especially after 2001 when extremism and terrorism took the area into its grip and forced the people to either migrate to comparatively safer areas of the province or live as per the terms and conditions of the militants and military alike . '' OPEN", 
+    "injured": "110", 
+    "org_unorg": "Organized", 
+    "O": [
+        "suicide bomb attack:12", 
+        "office:17", 
+        "official:48", 
+        "bomber:51", 
+        "motorcycle:55", 
+        "government office:62", 
+        "assistant:75", 
+        "tehsildar:80", 
+        "disposal:84", 
+        "blast:89", 
+        "vicinity:96", 
+        "death toll:113", 
+        "blast:125", 
+        "prison:128", 
+        "escape:131", 
+        "Federally Administered Tribal Areas:153", 
+        "FATA:158", 
+        "refuge:180", 
+        "displacement:203", 
+        "army:212", 
+        "blast:228", 
+        "blast:246", 
+        "terrorism:266", 
+        "statement:279", 
+        "u. s. embassy:282", 
+        "disregard:297", 
+        "peshawar-based tribal:303", 
+        "tribal ngos:304", 
+        "consortium:306", 
+        "attention:309", 
+        "blast:312", 
+        "mohmand:315", 
+        "focus:317", 
+        "plight:320", 
+        "FATA:325", 
+        "law:335", 
+        "land:338", 
+        "FATA:350", 
+        "extremism:367", 
+        "terrorism:369", 
+        "province:389"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/over-60-killed-in-pakistan-blast/article508576.ece", 
+    "date": "10-07-2010", 
+    "target": "Government Building", 
+    "hot_spot": "Office of the assistant political agent", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Mohmand tribal agency", 
+            "25", 
+            "Others"
+        ], 
+        [
+            "Taliban/Al-Qaeda", 
+            "174", 
+            "Others"
+        ], 
+        [
+            "U. S. Embassy", 
+            "282", 
+            "Others"
+        ], 
+        [
+            "FATA", 
+            "325", 
+            "Others"
+        ], 
+        [
+            "FATA", 
+            "350", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,262 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Imphal West'
+p4
+aS'4'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bishnupur'
+p8
+aS'7'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Andro'
+p12
+aS'64'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Imphal East'
+p16
+aS'67'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'wall of M-sector'
+p20
+aS'116'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Raj Bhavan'
+p24
+aS'129'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Khwairakpan Lamkhai'
+p28
+aS'177'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Bishnupur'
+p32
+aS'180'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'gate of 6/8'
+p36
+aS'185'
+p37
+aS'Event'
+p38
+aa(lp39
+S'Moidangpok'
+p40
+aS'197'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Imphal West'
+p44
+aS'199'
+p45
+aS'Event'
+p46
+aa(lp47
+S'Manipur'
+p48
+aS'209'
+p49
+aS'Neutral'
+p50
+aasS'PER'
+p51
+(lp52
+sS'TIM'
+p53
+(lp54
+S'morning : 11'
+p55
+aS'morning : 112'
+p56
+asS'hot_setting'
+p57
+S''
+p58
+sS'DAT'
+p59
+(lp60
+S'Tuesday:10'
+p61
+aS'Monday:56'
+p62
+aS'Tuesday:102'
+p63
+aS'September 5:229'
+p64
+aS'September 8:249'
+p65
+asS'death'
+p66
+g58
+sS'title'
+p67
+S'Triple blasts rock Manipur'
+p68
+sS'det_loc'
+p69
+(lp70
+S'India'
+p71
+aS'Manipur'
+p72
+aS'Imphal West'
+p73
+aS'Imphal West'
+p74
+aS'Imphal West'
+p75
+asS'terror_group'
+p76
+(lp77
+S'UNITED NATIONAL LIBERATION FRONT (UNLF)'
+p78
+aS"PEOPLE'S LIBERATION ARMY (PLA)"
+p79
+asS'content'
+p80
+VThree explosions rocked Imphal West and Bishnupur districts on Tuesday morning . There were no casualties . . . The police suspect the hand of the Peoples Liberation Army -LRB- PLA -RRB- , the armed wing of the Revolutionary Peoples Front , since the insurgent group is celebrating its foundation day . . . On Monday , the PLA exploded a bomb at Andro , in Imphal East , though the police commandos targeted escaped unhurt . . . Police and security personnel have arrested 10 persons , including three women , in connection with the explosions . . . On Tuesday , the first blast took place early in the morning near the boundary wall of M-sector , the army administrative office in Imphal adjacent to the Raj Bhavan . . . Security sidestepped . . Despite being heavily guarded by armed personnel round the clock , suspected insurgents sneaked into the area and planted the bomb , which was later triggered with a remote-control device . . . The second explosion took place at Khwairakpan Lamkhai in Bishnupur district , near the gate of 6/8 Gorkha Regiment , while the third took place at Moidangpok in Imphal West district . . . The PLA and the Manipur Peoples Army , the military wing of the United National Liberation Front , have continuously targeted security personnel since September 5 . One Assam Rifles personnel was killed and some others , including a civilian , were wounded on September 8 . . . The insurgent groups had advised people to stay away from security personnel , who they said could be attacked at will , any time , any place . . . Police suspect role of Peoples Liberation Army One bomb was planted near Army office . . Police suspect role of Peoples Liberation Army . . One bomb was planted near Army office .
+p81
+sS'injured'
+p82
+g58
+sS'org_unorg'
+p83
+S'ORGANISED'
+p84
+sS'O'
+p85
+(lp86
+S'police:21'
+p87
+aS'assam rifles:233'
+p88
+asS'unexpl'
+p89
+(lp90
+g58
+asS'ocassion'
+p91
+g58
+sS'link'
+p92
+S'http://www.thehindu.com/todays-paper/tp-national/triple-blasts-rock-manipur/article3937062.ece'
+p93
+sS'date'
+p94
+S'25-09-2012'
+p95
+sS'target'
+p96
+g58
+sS'hot_spot'
+p97
+S'Imphal West'
+p98
+sS'delivery_mod'
+p99
+g58
+sS'delivery_met'
+p100
+S'PLANTED'
+p101
+sS'expl'
+p102
+(lp103
+g58
+asS'ORG'
+p104
+(lp105
+(lp106
+S'Peoples Liberation Army'
+p107
+aS'27'
+p108
+aS'Accused'
+p109
+aS'Others'
+p110
+aa(lp111
+S'PLA'
+p112
+aS'31'
+p113
+aS'Accused'
+p114
+aa(lp115
+S'Revolutionary Peoples Front'
+p116
+aS'39'
+p117
+aS'Accused'
+p118
+aa(lp119
+S'PLA'
+p120
+aS'59'
+p121
+aS'Accused'
+p122
+aa(lp123
+S'Gorkha Regiment'
+p124
+aS'188'
+p125
+aS'Others'
+p126
+aa(lp127
+S'PLA'
+p128
+aS'206'
+p129
+aS'Others'
+p130
+aa(lp131
+S'United National Liberation Front'
+p132
+aS'218'
+p133
+aS'Accused'
+p134
+aa(lp135
+S'Peoples Liberation Army'
+p136
+aS'288'
+p137
+aS'Others'
+p138
+aa(lp139
+S'Peoples Liberation Army'
+p140
+aS'304'
+p141
+aS'Accused'
+p142
+aas.

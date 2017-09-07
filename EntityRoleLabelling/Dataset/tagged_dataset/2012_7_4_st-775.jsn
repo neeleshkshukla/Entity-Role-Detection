@@ -1,0 +1,112 @@
+{
+    "LOC": [
+        [
+            "Iraq", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Diwaniyah", 
+            "65", 
+            "Event"
+        ], 
+        [
+            "Baghdad", 
+            "71", 
+            "Neutral"
+        ], 
+        [
+            "Karbala", 
+            "106", 
+            "Event"
+        ], 
+        [
+            "Baghdad", 
+            "147", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Diwaniyah", 
+            "154", 
+            "Event"
+        ], 
+        [
+            "Karbala", 
+            "161", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [
+        "morning : 55", 
+        "early-morning : 177"
+    ], 
+    "hot_setting": "Pilgrimages for religious ceremonies of Shia Muslims.", 
+    "DAT": [
+        "Tuesday : 18", 
+        "Friday : 118"
+    ], 
+    "death": "33", 
+    "title": "33 killed, 100 injured in blasts across Iraq", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "AL-QAEDA"
+    ], 
+    "content": "Market blasts and other bombings across Iraq killed at least 33 people and wounded nearly 100 on Tuesday , spooking an already-rattled public . It also spurred security officials to clamp down on traffic as Shia Muslims brace themselves for more tragedy during pilgrimages towards the end of this week . The wave of morning bombings struck four cities , the worst hit being Diwaniyah , 130 km south of Baghdad , where an explosives-laden vegetable truck detonated in a crowded market , killing 25 people and leaving 40 injured . The attacks come as thousands of Shia pilgrims head to the holy city of Karbala this week for religious ceremonies that are expected to peak on Friday . Shia pilgrimages are a favourite target of Sunni militants linked to al-Qaeda . It might be recalled that attacks timed to strike during a similar march in Baghdad last month left 100 dead . Diwaniyah is located about 40 km from Karbala , which also was hit by two bombs in cars parked outside a market in early-morning strikes that killed five people and wounded 30 . No one immediately claimed responsibility for the bombings . AP OPEN", 
+    "injured": "100", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Diwaniyah; Karbala", 
+        "Crowded market in Diwaniyah.  Outside a market in Karbala."
+    ], 
+    "O": [
+        "market blasts:1", 
+        "bombings:5", 
+        "already-rattled public:22", 
+        "security officials:28", 
+        "traffic:34", 
+        "shia muslims:36", 
+        "tragedy:42", 
+        "pilgrimages:44", 
+        "bombings:56", 
+        "four cities:58", 
+        "explosives-laden vegetable truck:75", 
+        "crowded market:81", 
+        "attacks:93", 
+        "shia pilgrims:98", 
+        "religious ceremonies:110", 
+        "shia pilgrimages:120", 
+        "favourite target:124", 
+        "sunni militants:127", 
+        "attacks:138", 
+        "two bombs in cars:168", 
+        "bombings:194"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "RELIGIOUS FESTIVAL", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/33-killed-100-injured-in-blasts-across-iraq/article3600200.ece", 
+    "date": "03-07-2012", 
+    "target": "SHIA ISLAM", 
+    "hot_spot": "Crowded market in Diwaniyah. Outside a market in the holy city Karbala.", 
+    "delivery_mod": "FOUR WHEELER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "al-Qaeda", 
+            "131", 
+            "Accused"
+        ], 
+        [
+            "AP", 
+            "196", 
+            "Others"
+        ]
+    ]
+}

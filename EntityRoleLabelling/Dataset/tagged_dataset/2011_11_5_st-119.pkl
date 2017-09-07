@@ -1,0 +1,219 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Tirumangalam'
+p4
+aS'25'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Madurai'
+p8
+aS'27'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Kanyakumari'
+p12
+aS'52'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Palavillai'
+p16
+aS'167'
+p17
+aS'Event'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'L. K. Advani'
+p22
+aS'19'
+p23
+aS'Others'
+p24
+aa(lp25
+S'Advani'
+p26
+aS'184'
+p27
+aS'Others'
+p28
+aa(lp29
+S'P.S. Suresh Kumar'
+p30
+aS'376'
+p31
+aS'Others'
+p32
+aasS'TIM'
+p33
+(lp34
+sS'hot_setting'
+p35
+S''
+p36
+sS'DAT'
+p37
+(lp38
+sS'death'
+p39
+g36
+sS'title'
+p40
+S"It's time to streamline operation of stone quarries"
+p41
+sS'det_loc'
+p42
+(lp43
+S'India'
+p44
+aS'Tamil Nadu'
+p45
+aS'Madurai'
+p46
+aS'Tirumangalam'
+p47
+ag36
+asS'terror_group'
+p48
+(lp49
+g36
+asS'content'
+p50
+S"The recent seizure of a pipe bomb ' on the scheduled route of the Bharatiya Janata Party leader L. K. Advani 's yatra near Tirumangalam in Madurai district has come as a wake-up call for the officials of the Revenue and Police departments and the Directorate of Mines and Minerals in Kanyakumari district to streamline the operation of stone quarries and the distribution of explosive substances to blast rocks . 50 unauthorised quarries There are 43 approved stone quarries and more than 50 unauthorised quarries functioning in the district . Boring of rock is done manually as blasting results in cracks in nearby buildings . The quarry dust emanating from the rubble also poses a health hazard . Still , explosives are used to blast rocks in the district . There have also been instances of illegal possession of explosive materials such as detonators , gelatine sticks , cut wires and batteries . Recently , explosive materials were planted at the residence of a teacher at Palavillai , which created a suspicion that it could be related to the attempt to blast Mr. Advani 's convoy . Later , it turned out to be a conspiracy hatched by the teacher against her spouse . The free and easy availability of explosive materials in the district is a cause for concern among officials . They are worried about the unchecked quarrying activity . High demand Explosives are in demand in illegal quarrying sites , which also use machinery . Workers fall victims to accidents in these quarries , officials allege . There have been reports of loss of limbs in quarries . Shortage of staff The official machinery , which regulates and monitors the use of explosives , is plagued with shortage of staff and vehicles . Even inspection of the quarry has to be done in a vehicle provided by the lessee . The illegal means of procuring and using explosives could be curbed by providing adequate staff to the police and revenue officials as also those attached to the office of the Assistant Director ( Mines and Minerals ) . An intensified vigil will also prevent inter-State movement of explosive materials . Easy availability of explosive materials is a cause for concern , writes P.S. Suresh Kumar OPEN"
+p51
+sS'injured'
+p52
+g36
+sS'org_unorg'
+p53
+S'Organized'
+p54
+sS'O'
+p55
+(lp56
+S'pipe bomb:6'
+p57
+aS'route:12'
+p58
+aS'yatra:23'
+p59
+aS'Revenue and Police departments:40'
+p60
+aS'Directorate of Mines and Minerals:46'
+p61
+aS'stone quarries:59'
+p62
+aS'explosive substances:65'
+p63
+aS'blast rocks:68'
+p64
+aS'stone quarries:78'
+p65
+aS'quarries:85'
+p66
+aS'rock:93'
+p67
+aS'blasting:98'
+p68
+aS'quarry dust:107'
+p69
+aS'explosives:121'
+p70
+aS'blast rocks:125'
+p71
+aS'explosive materials:140'
+p72
+aS'detonators:144'
+p73
+aS'gelatine sticks:146'
+p74
+aS'explosive materials:156'
+p75
+aS'residence:162'
+p76
+aS'blast:182'
+p77
+aS'convoy:186'
+p78
+aS'conspiracy:196'
+p79
+aS'explosive materials:211'
+p80
+aS'quarrying activity:230'
+p81
+aS'Explosives:235'
+p82
+aS'quarrying sites:241'
+p83
+aS'quarries:256'
+p84
+aS'quarries:270'
+p85
+aS'explosives:286'
+p86
+aS'inspection:298'
+p87
+aS'quarry:301'
+p88
+aS'explosives:321'
+p89
+aS'Assistant Director:344'
+p90
+aS'explosive:361'
+p91
+aS'explosive:367'
+p92
+asS'unexpl'
+p93
+(lp94
+g36
+asS'ocassion'
+p95
+g36
+sS'link'
+p96
+S'http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/its-time-to-streamline-operation-of-stone-quarries/article2600045.ece'
+p97
+sS'date'
+p98
+S'05-11-2011'
+p99
+sS'target'
+p100
+S'Individuals and VIPs'
+p101
+sS'hot_spot'
+p102
+g36
+sS'delivery_mod'
+p103
+g36
+sS'delivery_met'
+p104
+S'Planted'
+p105
+sS'expl'
+p106
+(lp107
+g36
+asS'ORG'
+p108
+(lp109
+(lp110
+S'Bharatiya Janata Party'
+p111
+aS'15'
+p112
+aS'Others'
+p113
+aas.

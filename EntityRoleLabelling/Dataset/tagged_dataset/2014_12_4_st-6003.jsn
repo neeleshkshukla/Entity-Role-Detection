@@ -1,0 +1,124 @@
+{
+    "LOC": [
+        [
+            "Bardhaman", 
+            "11", 
+            "Event"
+        ], 
+        [
+            "Bardhaman", 
+            "51", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Early November : 102", 
+        "October two : 169"
+    ], 
+    "death": "", 
+    "title": "ED unearths suspect bank accounts in Bardhaman blast case", 
+    "det_loc": [
+        "India", 
+        "West Bengal", 
+        "Bardhaman", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        "JAMIAT-UL-MUJAHIDEEN"
+    ], 
+    "content": "The Enforcement Directorate probing the money laundering aspect in the Bardhaman blast case has unearthed a few suspect bank accounts and would probe whether they were linked to terror funding . `` We have got a few account numbers of some unidentified persons while probing the money trail in the Bardhaman blast case , '' an official source told PTI . The source said the agency had obtained the account numbers of the persons whose identities were yet to be ascertained . The agency would probe possible links of these accounts to find whether money was used for terror funding . Early November , the ED had registered a case of money laundering against Jamaat-ul-Mujahideen Bangladesh ( JMB ) and several of its recruits in connection with the blast . The case was registered by the agency based on the FIR filed by the National Investigation Agency and the information provided by it . The NIA is probing the terror angle of the blast which took place in October two . The source said that accounts of the accused persons named in the FIR were also being probed to ascertain the money trail . Asked whether the agency had got any clue so far on money raised by Ponzi firms being used for terror funding , the source said no evidence was there as of now . Soon after the NIA took charge of the probe , a team from the terror funding cell of the agency met ED officials to share information . OPEN", 
+    "injured": "", 
+    "org_unorg": "", 
+    "O": [
+        "money laundering:6", 
+        "bardhaman blast case:11", 
+        "suspect bank accounts:18", 
+        "terror funding:29", 
+        "few account numbers:37", 
+        "unidentified persons:42", 
+        "money trail:47", 
+        "bardhaman blast case:51", 
+        "account numbers:70", 
+        "identities:76", 
+        "ascertained:81", 
+        "terror funding:99", 
+        "money laundering:112", 
+        "blast:129", 
+        "fir filed:141", 
+        "terror angle:160", 
+        "blast:164", 
+        "accused persons:179", 
+        "fir:184", 
+        "money trail:192", 
+        "any clue:201", 
+        "money raised:206", 
+        "ponzi firms:209", 
+        "terror funding:214", 
+        "probe:236", 
+        "terror funding cell:242"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://timesofindia.indiatimes.com/india/ED-unearths-suspect-bank-accounts-in-Bardhaman-blast-case/articleshow/45369032.cms", 
+    "date": "02-10-2014", 
+    "target": "TOWN", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Enforcement Directorate", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "PTI", 
+            "60", 
+            "Others"
+        ], 
+        [
+            "ED", 
+            "106", 
+            "Others"
+        ], 
+        [
+            "Jamaat-ul-Mujahideen Bangladesh", 
+            "115", 
+            "Accused"
+        ], 
+        [
+            "JMB", 
+            "118", 
+            "Accused"
+        ], 
+        [
+            "National Investigation Agency", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "156", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "231", 
+            "Others"
+        ], 
+        [
+            "ED", 
+            "249", 
+            "Others"
+        ]
+    ]
+}

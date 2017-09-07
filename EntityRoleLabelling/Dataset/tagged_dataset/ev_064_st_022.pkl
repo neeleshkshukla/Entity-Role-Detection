@@ -1,0 +1,472 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbai'
+p4
+aS'39'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bangalore'
+p8
+aS'41'
+p9
+aS'Assoc Event Location'
+p10
+aa(lp11
+S'Srinagar'
+p12
+aS'43'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Delhi'
+p16
+aS'45'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Varanasi'
+p20
+aS'47'
+p21
+aS'Assoc Event Location'
+p22
+aa(lp23
+S'India'
+p24
+aS'50'
+p25
+aS'Event'
+p26
+aa(lp27
+S'London'
+p28
+aS'53'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Madrid'
+p32
+aS'55'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Beslan ,'
+p36
+aS'57'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'New York'
+p40
+aS'59'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Lebanon'
+p44
+aS'62'
+p45
+aS'Assoc Event Location'
+p46
+aa(lp47
+S'Iraq'
+p48
+aS'64'
+p49
+aS'Assoc Event Location'
+p50
+aa(lp51
+S'Pakistan'
+p52
+aS'80'
+p53
+aS'Accused Location'
+p54
+aa(lp55
+S'Afghanistan'
+p56
+aS'82'
+p57
+aS'Accused Location'
+p58
+aa(lp59
+S'Europe'
+p60
+aS'84'
+p61
+aS'Accused Location'
+p62
+aa(lp63
+S'USA'
+p64
+aS'87'
+p65
+aS'Accused Location'
+p66
+aa(lp67
+S'Mumbai'
+p68
+aS'98'
+p69
+aS'Event'
+p70
+aa(lp71
+S'India'
+p72
+aS'115'
+p73
+aS'Neutral'
+p74
+aa(lp75
+S'Mumbai'
+p76
+aS'193'
+p77
+aS'Event'
+p78
+aa(lp79
+S'Bangalore'
+p80
+aS'277'
+p81
+aS'Assoc Event Location'
+p82
+aa(lp83
+S'India'
+p84
+aS'279'
+p85
+aS'Event'
+p86
+aa(lp87
+S'Manhattan'
+p88
+aS'295'
+p89
+aS'Assoc Event Location'
+p90
+aa(lp91
+S'New Jersey'
+p92
+aS'297'
+p93
+aS'Assoc Event Location'
+p94
+aa(lp95
+S'United States'
+p96
+aS'301'
+p97
+aS'Assoc Event Location'
+p98
+aa(lp99
+S'Mumbai'
+p100
+aS'352'
+p101
+aS'Event'
+p102
+aa(lp103
+S'Singapore'
+p104
+aS'371'
+p105
+aS'Neutral'
+p106
+aa(lp107
+S'Dubai'
+p108
+aS'373'
+p109
+aS'Neutral'
+p110
+aa(lp111
+S'Mumbai'
+p112
+aS'407'
+p113
+aS'Event'
+p114
+aa(lp115
+S'London'
+p116
+aS'409'
+p117
+aS'Assoc Event Location'
+p118
+aa(lp119
+S'New York'
+p120
+aS'411'
+p121
+aS'Neutral'
+p122
+aa(lp123
+S'Paris'
+p124
+aS'416'
+p125
+aS'Neutral'
+p126
+aa(lp127
+S'Mumbai'
+p128
+aS'969'
+p129
+aS'Event'
+p130
+aa(lp131
+S'Mumbai'
+p132
+aS'974'
+p133
+aS'Event'
+p134
+aa(lp135
+S'Mumbai'
+p136
+aS'1017'
+p137
+aS'Event'
+p138
+aa(lp139
+S'Mumbai'
+p140
+aS'1037'
+p141
+aS'Event'
+p142
+aa(lp143
+S'Mumbai'
+p144
+aS'1205'
+p145
+aS'Event'
+p146
+aa(lp147
+S'Mumbai'
+p148
+aS'1212'
+p149
+aS'Event'
+p150
+aasS'PER'
+p151
+(lp152
+(lp153
+S'Rakesh Goyal'
+p154
+aS'1221'
+p155
+aS'Comment'
+p156
+aasS'TIM'
+p157
+(lp158
+sS'hot_setting'
+p159
+S''
+p160
+sS'DAT'
+p161
+(lp162
+S'Tuesday:95'
+p163
+aS'1993:587'
+p164
+aS'2006:589'
+p165
+aS'Tuesday:985'
+p166
+aS'Tuesday:1088'
+p167
+asS'death'
+p168
+g160
+sS'title'
+p169
+S'Terror in Mumbai: IT could be next target'
+p170
+sS'det_loc'
+p171
+(lp172
+S'India'
+p173
+aS'Maharashtra'
+p174
+aS'Mumbai-City'
+p175
+aS'Mumbai'
+p176
+ag160
+asS'terror_group'
+p177
+(lp178
+g160
+asS'content'
+p179
+VTerrorism ' has become a global industry . It appears to work like a multinational corporation with branches , local offices around the world . This industry has no accountability to society . . . The attacks in Mumbai , Bangalore , Srinagar , Delhi , Varanasi etc in India and in London , Madrid , Beslan , New York , Lebanon , Iraq appear to be executed with planned precision , coordinated by global bosses , sitting in Pakistan or Afghanistan or Europe or the USA or God knows where . . . Tuesday 's well-coordinated Mumbai blasts -LRB- termed ' 7/11 ' -RRB- were targeted to disrupt the main commercial hub of India 's resurgent economy , which houses the nation 's central bank , major financial institutions , major stock exchanges , big corporate houses like Tata , Birla , Reliance ; major public sector units , a booming diamond trade ; wholesale trade and a big part of the IT industry , and can be termed as the engine of the Indian economy . . . The bombs strategically targetted the local trains : the transport lifeline of Mumbai . All the blasts were in the first class compartments which carry middle and senior management of corporations , banks and government , apart from owner-managers from various markets . Thus , the target-segment was chosen carefully to break the middle layer of the industrial hierarchy and create terror . Until now , this class was never targeted . . . Just a few months ago , terrorists could penetrate the Indian Institute of Science , a major institution of technical excellence in Bangalore , India 's information technology hub . Last week , a plot to blow up tunnels between Manhattan and New Jersey in the United States was discovered and defused . . . Terrorism is here to stay , whether we like or not . . . Intelligence . . Many people start describing it as an intelligence failure . This can not be blindly termed as an intelligence failure . In any city like Mumbai , with over 15 million people , it is impossible to provide total security . Even city-States like Singapore and Dubai -- with far less population and ` Big Brother-is-watching ' capabilities -- can not have a 100 per cent incident/crime-free environment . . . There are many soft targets in any city like Mumbai , London , New York , Tokyo , Paris . The success of intelligence is rarely known , only when some major haul of arms or drugs is made is there a whiff of it . Else , the success is always unsung . Similarly , successes in security prevention are not known at all . Only the breaches are known . . . In TQM/QA -LRB- Total Quality Management/Quality Analysis -RRB- terms , if we say that 93 per cent of probable incidents are prevented and 7 per cent leads to real incidents , we can say intelligence has three-sigma quality accuracy . . . This 7 per cent apparently looks quite high . Four-sigma intelligence quality will make it 99.4 per cent and 0.6 per cent . I believe , the intelligence quality may lie somewhere between 3.5 sigma and 4 sigma . At less than this mark , we would have seen many more such horrible incidents . . . IT infrastructure could be the next target . . If the methods used by terrorist since 1993 till 2006 are analysed , one can see the trend that the attacks are becoming more sophisticated with precisely defined targets using the same old tools . The arrests of some terrorists in the recent past revealed that terrorists are recruiting people trained in engineering , science , medicine and management . . . A lot of technical and managerial knowledge is flowing in to the terror industry . It seems clear that at least the planning process is done by technical and managerial educated minds . . . In this scenario , the risk is very high that IT infrastructure and IT assets may be targetted in the future . This is one of the softest targets today , which can create maximum damage . . . Today , the application and implementation of IT controls many business processes of social and national strategic importance -- power , communication , railways , transport , oil , manufacturing , banking , services , government-business , etc. . The security of these IT assets and IT infrastructure is far lower compared to the security of normal physical assets/infrastructure . Hackers , perpetrators , computer-criminals easily break into IT assets and create news . . . There are many methods available for terrorists to break into this IT infrastructure / IT assets . I can discuss a number of these . But the irony is that this discussion of methods apart from creating awareness among masses , will also help terrorist get ideas . I refrain from discussing these methods as a better and socially secure option . . . Thus , it is the duty of all concerned business-process owners , whether in government or industry or utilities , to ascertain that their IT assets and infrastructure are reasonably secure . . . Security is not a one-time event . Security is a continuous process . Security is constant vigilance . Security is an ongoing fight between evil and our-protection-from-evil . . . Evil always finds new ways to attack us . So it is our duty to keep a constant vigil and keep upgrading the methods and technology of securing ourselves . Especially , when the threat is apparent and looming large on the horizon . . . The spirit of Mumbai . . Today , Mumbai is back to business . People suffered a lot on Tuesday evening , but only after 12 to 15 hours they are back to their duties/business without any fear , travelling in the same crowded trains . This is the spirit of Mumbai . Terrorists can explode bombs in trains or even at strategic locations , but they can not break the Mumbai spirit . . . This spirit is sufficient to frustrate the evil design of terror-mongers . They can draw satisfaction from material damage but they are unable to break the moral , courage and spirit of Mumbaikars . . . Despite the jamming of all telecommunication and transportation hurdles on Tuesday evening , Mumbaikars rose to the occasion . They helped each other ; passed well-being messages through incoming STD calls ; provided food , water and shelter to stranded fellow Mumbaikars ; donated blood ; helped the administration in traffic control and at blast sites . . . Jamming the communications networks was required so that terrorists could not use mobile phones for more blasts or to communicate amongst themselves for escape . . . We need to fight the challenge thrown by the terrorism industry to civilised humankind by systematically/professionally securing ourselves individually and collectively : by being vigilant , by monitoring all the happenings around us , and with a large dose of that Mumbai spirit . . . . . Mumbai suburban train blasts : Complete Coverage . . Rakesh Goyal is director general , Centre for Research and Prevention of Computer Crimes . .
+p180
+sS'injured'
+p181
+g160
+sS'org_unorg'
+p182
+g160
+sS'O'
+p183
+(lp184
+S'Terrorism:1'
+p185
+aS'global industry:6'
+p186
+aS'multinational corporation:15'
+p187
+aS'no accountability:29'
+p188
+aS'society:32'
+p189
+aS'planned precision:70'
+p190
+aS'global bosses:75'
+p191
+aS'7/11:103'
+p192
+aS'disrupt:109'
+p193
+aS'economy:118'
+p194
+aS'IT industry:164'
+p195
+aS'engine:173'
+p196
+aS'Indian economy:176'
+p197
+aS'transport lifeline:190'
+p198
+aS'first class compartments:201'
+p199
+aS'terror:242'
+p200
+aS'blow up tunnels:291'
+p201
+aS'defused:306'
+p202
+aS'intelligence failure:334'
+p203
+aS'total security:365'
+p204
+aS'soft targets:401'
+p205
+aS'Total Quality Management/Quality Analysis:475'
+p206
+aS'sophisticated:604'
+p207
+aS'terrorists:626'
+p208
+aS'recruiting:628'
+p209
+aS'trained:630'
+p210
+aS'IT:687'
+p211
+aS'Hackers:776'
+p212
+aS'break:782'
+p213
+aS'IT assets:784'
+p214
+aS'Security:890'
+p215
+aS'continuous process:900'
+p216
+aS'spirit:1015'
+p217
+aS'Mumbaikars:1091'
+p218
+aS'helped each other:1098'
+p219
+aS'civilised humankind:1176'
+p220
+asS'unexpl'
+p221
+(lp222
+g160
+asS'ocassion'
+p223
+g160
+sS'link'
+p224
+S'http://www.rediff.com/news/2006/jul/12goyal.htm'
+p225
+sS'date'
+p226
+S'11-07-2006'
+p227
+sS'target'
+p228
+S'RAILWAY'
+p229
+sS'hot_spot'
+p230
+g160
+sS'delivery_mod'
+p231
+g160
+sS'delivery_met'
+p232
+g160
+sS'expl'
+p233
+(lp234
+g160
+asS'ORG'
+p235
+(lp236
+(lp237
+S'Tata'
+p238
+aS'140'
+p239
+aS'Others'
+p240
+aa(lp241
+S'Birla'
+p242
+aS'142'
+p243
+aS'Others'
+p244
+aa(lp245
+S'Reliance'
+p246
+aS'144'
+p247
+aS'Others'
+p248
+aa(lp249
+S'Indian Institute of Science'
+p250
+aS'265'
+p251
+aS'Others'
+p252
+aa(lp253
+S'Centre for Research and Prevention of Computer Crimes'
+p254
+aS'1227'
+p255
+aS'Others'
+p256
+aas.

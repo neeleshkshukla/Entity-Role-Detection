@@ -1,0 +1,156 @@
+{
+    "LOC": [
+        [
+            "JAIPUR", 
+            "3", 
+            "Neutral"
+        ], 
+        [
+            "Rajasthan", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "Shujapur", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Malwa", 
+            "33", 
+            "Event"
+        ], 
+        [
+            "Madhya Pradesh", 
+            "35", 
+            "Neutral"
+        ], 
+        [
+            "Ajmer", 
+            "53", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Ajmer", 
+            "135", 
+            "Neutral"
+        ], 
+        [
+            "Malegaon", 
+            "182", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Hyderabad", 
+            "192", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Devendra Gupta", 
+            "45", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "55", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "122", 
+            "Accused"
+        ], 
+        [
+            "Devendra", 
+            "148", 
+            "Accused"
+        ], 
+        [
+            "Chandrashekhar", 
+            "150", 
+            "Accused"
+        ], 
+        [
+            "Pragnya Thakur", 
+            "169", 
+            "Accused"
+        ], 
+        [
+            "Srikant Purohit", 
+            "172", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday evening:16", 
+        "Friday:16", 
+        "October:24", 
+        "October 2007:24", 
+        "Saturday:120"
+    ], 
+    "death": "", 
+    "title": "Another suspect held", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Special Correspondent JAIPUR : The Anti-Terrorism Squad ( ATS ) of the Rajasthan police on Friday evening arrested a second suspect in the October 2007 Ajmer dargah blast case from Shujapur near Malwa in Madhya Pradesh . Earlier this week , the key suspect Devendra Gupta , 36 , was nabbed in Ajmer . Chandrashekhar , suspected to be a key member of the terror module of a Hindu extremist outfit , Abhinav Bharat , was arrested on evidence indicating that he had been entrusted with supplying the mobile phone and SIM cards which were used for carrying out the bomb attack that killed three persons . In fact , the cellphone was reportedly recovered from him . On Saturday , Chandrashekhar was produced in the court of the additional chief judicial magistrate in Ajmer and remanded to 12 days ' police custody . The names of Devendra and Chandrashekhar cropped up during the interrogation of and narco tests on the prime suspects in the Malegaon case , Pragnya Thakur and Srikant Purohit . The ATS believes that the blasts at Malegaon , the Ajmer dargah and the Makkah Masjid in Hyderabad were part of a single conspiracy . Police teams are likely to be sent shortly to other States for further investigation . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Rajasthan", 
+        "Jaipur", 
+        "", 
+        "Shujapur near Malwa in Madhya Pradesh"
+    ], 
+    "O": [
+        "anti-terrorism squad:6", 
+        "suspect:21", 
+        "ajmer dargah blast case:26", 
+        "key suspect:43", 
+        "hindu extremist outfit:69", 
+        "evidence:79", 
+        "bomb attack:101", 
+        "cellphone:112", 
+        "custody:143", 
+        "interrogation:155", 
+        "narco:158", 
+        "malegaon case:166", 
+        "ajmer dargah:185", 
+        "investigation:213"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/another-suspect-held/article760089.ece", 
+    "date": "11-10-2007", 
+    "target": "Religious Places", 
+    "hot_spot": "Ajmer dargah", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "Crude bomb"
+    ], 
+    "ORG": [
+        [
+            "Abhinav Bharat", 
+            "73", 
+            "Accused"
+        ], 
+        [
+            "Ajmer dargah", 
+            "185", 
+            "Others"
+        ], 
+        [
+            "Makkah Masjid", 
+            "189", 
+            "Others"
+        ]
+    ]
+}

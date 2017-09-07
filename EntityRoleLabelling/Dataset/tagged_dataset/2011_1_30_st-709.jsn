@@ -1,0 +1,142 @@
+{
+    "LOC": [
+        [
+            "Moscow", 
+            "7", 
+            "Event"
+        ], 
+        [
+            "Chechnya", 
+            "22", 
+            "Accused Location"
+        ], 
+        [
+            "Northern Caucasus", 
+            "37", 
+            "Accused Location"
+        ], 
+        [
+            "Domodedovo airport", 
+            "57", 
+            "Event"
+        ], 
+        [
+            "Domodedovo", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Domodedovo", 
+            "130", 
+            "Event"
+        ], 
+        [
+            "Moscow", 
+            "166", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Moscow", 
+            "187", 
+            "Event"
+        ], 
+        [
+            "Northern Caucasus", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Red Square", 
+            "264", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vladimir Markin", 
+            "74", 
+            "Comment"
+        ], 
+        [
+            "Markin", 
+            "111", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:46", 
+        "Monday:60", 
+        "December 31:170", 
+        "December 31 : 233"
+    ], 
+    "death": "35", 
+    "title": "Russian airport bomber identified", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Russian investigators have traced the deadly Moscow airport bombing earlier this week to the country 's restive southern region that includes Chechnya . The Investigative Committee has identified the suicide bomber as a 20-year-old man from Northern Caucasus , said the committee 's spokesman on Saturday . The bomb killed 35 people and wounded 180 at Domodedovo airport on Monday . The act of terrorism at Domodedovo has been solved , said spokesman Vladimir Markin . Even though the investigators know the man 's name we wo n't disclose it today because the search is on for the attack masterminds and their accomplices , the Interfax news wire quoted Mr. Markin as saying . He added the attackers had targeted foreigners and therefore bombed the international arrival hall at Domodedovo . Investigators have also detained four people and are looking for several more persons for their involvement in an accidental explosion that killed a suspected black widow suicide bomber at a rented cabin in a Moscow sports club on December 31 . A terrorist group planned to carry out a terrorist attack in the centre of Moscow on New Year eve , said the spokesman . He denied the incident was linked to the airport bombing , saying the two blasts were the work of unconnected armed gangs operating in different regions of Northern Caucasus . A newspaper report suggested that the December 31 bomb was to be set off by a text message sent to the black widow 's mobile phone when she would mix with crowds celebrating the New Year in Red Square . However , the bomb was caused to go off earlier by a greetings message from the phone company . OPEN", 
+    "injured": "180", 
+    "det_loc": [
+        "Russia", 
+        "", 
+        "", 
+        "Moscow", 
+        "Domodedovo airport"
+    ], 
+    "O": [
+        "moscow airport bombing:7", 
+        "investigative committee:25", 
+        "suicide bomber:30", 
+        "bomb:49", 
+        "killed:50", 
+        "wounded:54", 
+        "terrorism:65", 
+        "search:94", 
+        "masterminds:100", 
+        "bombed:124", 
+        "international arrival hall:126", 
+        "accidental explosion:150", 
+        "killed:153", 
+        "black widow:156", 
+        "suicide bomber:158", 
+        "cabin:163", 
+        "moscow sports club:166", 
+        "terrorist group:174", 
+        "terrorist attack:181", 
+        "new year eve:189", 
+        "airport bombing:205", 
+        "blasts:211", 
+        "armed gangs:217", 
+        "northern caucasus:224", 
+        "bomb:235", 
+        "text message:243", 
+        "black widow:248", 
+        "new year:261", 
+        "bomb:270", 
+        "message:280", 
+        "phone company:283"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/russian-airport-bomber-identified/article1138977.ece", 
+    "date": "30-01-2011", 
+    "target": "Airport", 
+    "hot_spot": "International arrival hall at Domodedovo airport", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Interfax news wire", 
+            "106", 
+            "Others"
+        ]
+    ]
+}

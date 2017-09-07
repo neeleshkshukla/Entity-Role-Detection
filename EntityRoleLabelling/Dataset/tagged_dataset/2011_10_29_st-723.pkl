@@ -1,0 +1,226 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Sanakodanda'
+p4
+aS'19'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Ganjam'
+p8
+aS'29'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Ganjam'
+p12
+aS'160'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Ambapua'
+p16
+aS'195'
+p17
+aS'Assoc Event Location'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Krishna Swain'
+p22
+aS'39'
+p23
+aS'Victim'
+p24
+aa(lp25
+S'Hemanta Pradhan'
+p26
+aS'45'
+p27
+aS'Victim'
+p28
+aa(lp29
+S'Krishna'
+p30
+aS'106'
+p31
+aS'Victim'
+p32
+aa(lp33
+S'Hemanta'
+p34
+aS'138'
+p35
+aS'Victim'
+p36
+aasS'TIM'
+p37
+(lp38
+sS'hot_setting'
+p39
+S''
+p40
+sS'DAT'
+p41
+(lp42
+S'Friday:32'
+p43
+aS'September 2008:164'
+p44
+asS'death'
+p45
+g40
+sS'title'
+p46
+S'Two students hurt as detonator explodes'
+p47
+sS'org_unorg'
+p48
+S'Organized'
+p49
+sS'terror_group'
+p50
+(lp51
+g40
+asS'content'
+p52
+S'Two primary school students were injured when a detonator they picked up from a garbage dump exploded at Sanakodanda village in the limits of Bhanjanagar police station in Ganjam district on Friday . The two injured students were Krishna Swain of class III and Hemanta Pradhan of class IV . They were admitted to the Bhanjanagar sub-divisional hospital for treatment . According to hospital sources , both of them are out of danger . Police started investigation into the reason behind the blast . According to eye witnesses , the blast occurred when the two students tried to connect a battery to the detonator . Krishna said he got the detonator from a garbage dump near a stone crusher unit that operates near their village . He brought it to school . He along with his friend Hemanta tried to connect a battery to the detonator out of curiosity . Such accidental blasts injuring children are not new to Ganjam district . In September 2008 , three rag-pickers of the city were seriously injured when they accidentally stepped on crude bombs hidden in a garbage dump . In the past , two children of Ambapua area of the city also sustained serious injuries when the ignorant children tried to play cricket with the crude bombs which they found from a field . They picked up the explosive from a garbage dump OPEN'
+p53
+sS'injured'
+p54
+S'2'
+p55
+sS'det_loc'
+p56
+(lp57
+S'India'
+p58
+aS'Orissa'
+p59
+aS'Ganjam'
+p60
+ag40
+aS'Sanakodanda village of Bhanjanagar police station'
+p61
+asS'O'
+p62
+(lp63
+S'primary school students:2'
+p64
+aS'injured:6'
+p65
+aS'detonator:9'
+p66
+aS'garbage dump:15'
+p67
+aS'exploded:17'
+p68
+aS'sanakodanda village:19'
+p69
+aS'bhanjanagar police station:25'
+p70
+aS'injured students:36'
+p71
+aS'hospital:64'
+p72
+aS'investigation:77'
+p73
+aS'blast:83'
+p74
+aS'blast:91'
+p75
+aS'battery:101'
+p76
+aS'detonator:104'
+p77
+aS'detonator:111'
+p78
+aS'garbage dump:114'
+p79
+aS'stone crusher unit:118'
+p80
+aS'school:131'
+p81
+aS'battery:143'
+p82
+aS'detonator:146'
+p83
+aS'curiosity:149'
+p84
+aS'accidental blasts:152'
+p85
+aS'three rag-pickers:167'
+p86
+aS'crude bombs hidden:180'
+p87
+aS'garbage dump:185'
+p88
+aS'ambapua area:195'
+p89
+aS'injuries:203'
+p90
+aS'play cricket:210'
+p91
+aS'crude bombs:214'
+p92
+aS'explosive:227'
+p93
+aS'garbage dump:230'
+p94
+asS'unexpl'
+p95
+(lp96
+g40
+asS'ocassion'
+p97
+g40
+sS'link'
+p98
+S'http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/two-students-hurt-as-detonator-explodes/article2579102.ece'
+p99
+sS'date'
+p100
+S'29-10-2011'
+p101
+sS'target'
+p102
+g40
+sS'hot_spot'
+p103
+g40
+sS'delivery_mod'
+p104
+g40
+sS'delivery_met'
+p105
+g40
+sS'expl'
+p106
+(lp107
+g40
+asS'ORG'
+p108
+(lp109
+(lp110
+S'Bhanjanagar police station'
+p111
+aS'25'
+p112
+aS'Others'
+p113
+aa(lp114
+S'Bhanjanagar sub-divisional hospital'
+p115
+aS'56'
+p116
+aS'Others'
+p117
+aas.

@@ -1,0 +1,86 @@
+{
+    "LOC": [
+        [
+            "Bodh Gaya", 
+            "8", 
+            "Event"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:16"
+    ], 
+    "death": "", 
+    "title": "Sketches of Bodh Gaya blasts suspect released", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two sketches of a suspect in the Bodh Gaya serial bomb blasts case were on Tuesday released by the National Investigation Agency ( NIA ) on its website . It has said he is likely to be an Indian national . Two sketches -LSB- with and without mask -RSB- of the suspect who was wearing the dress of a Buddhist monk , have been developed with the leads available , a NIA release said . In an uploaded video clip , the agency merged clips from the CCTV footage where the suspect was seen . The NIA prepared the sketches based on eyewitness accounts and the CCTV footage . ... we have relied on the witness statements . We revisited the CCTV footage based on their accounts , a source told The Hindu . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Bihar", 
+        "", 
+        "Patna", 
+        "Bodh Gaya"
+    ], 
+    "O": [
+        "bomb blasts:11", 
+        "buddhist monk:60", 
+        "CCTV footage:107", 
+        "cctv footage:122"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/sketches-of-bodh-gaya-blasts-suspect-released/article4922314.ece", 
+    "date": "16-07-2013", 
+    "target": "RELIGIOUS PLACES", 
+    "hot_spot": "Bodh Gaya", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "National Investigation Agency", 
+            "20", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "24", 
+            "Others"
+        ], 
+        [
+            "Indian national", 
+            "39", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "NIA", 
+            "97", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "132", 
+            "Others"
+        ], 
+        [
+            "Hindu", 
+            "133", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "LOC": [
+        [
+            "Kareli", 
+            "18", 
+            "Event"
+        ], 
+        [
+            "Allahabad", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad", 
+            "128", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad", 
+            "267", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad", 
+            "279", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "B. P. Singh", 
+            "137", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "252", 
+            "Comment"
+        ], 
+        [
+            "Singh", 
+            "284", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [
+        "3.30 p.m.:111"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:23"
+    ], 
+    "death": "", 
+    "title": "Two children killed in Allahabad bomb explosion", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Allahabad", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Two children were killed and half a dozen persons injured in a powerful bomb blast that rocked Kareli area of Allahabad on Wednesday . The blast occurred in a garbage dump near a nullah under the Kareli Scheme police station area and the victims are rag-pickers . It is suspected that a crude bomb was placed in the dump , and the device went off when it was touched by the kids playing in the area . The basti where the incident took place is inhabited by rag-pickers . Unofficial reports said the blast claimed five lives , including four children and a woman . The explosion occurred at around 3.30 p.m. . A team of Anti-Terrorist Squad ( ATS ) and forensic experts have rushed to Allahabad . State I-G ( Law & Order ) B. P. Singh told journalists that in the morning some rag-pickers had collected the garbage and kept it at the bomb blast site . Some children were playing in the area when the explosion occurred . While two children were killed , four more persons were injured in the blast , the I-G added . One of the deceased has been identified . The injured include two women and two girls in the age group of 11 to 40 years . About the intensity of the blast , the I-G said from the damage caused by the explosion it appeared to be a powerful blast . Regarding the type of the explosive material , Mr. Singh said it would be assessed by the forensic team which has been sent to Allahabad . He added that no specific alert has been sounded in Allahabad or elsewhere . Mr. Singh denied that crude bombs hurled by some anti-social elements caused the explosion . OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb blast:14", 
+        "garbage dump:30", 
+        "nullah:34", 
+        "kareli:37", 
+        "kareli scheme police station area:37", 
+        "kareli scheme:37", 
+        "scheme:38", 
+        "station area:40", 
+        "crude bomb:53", 
+        "dump:59", 
+        "incident:82", 
+        "blast:94", 
+        "explosion:107", 
+        "anti-terrorist:117", 
+        "anti-terrorist squad:117", 
+        "forensic experts:123", 
+        "law & order:133", 
+        "garbage:151", 
+        "bomb blast site:157", 
+        "explosion:170", 
+        "blast:186", 
+        "age group:210", 
+        "intensity:220", 
+        "blast:223", 
+        "explosion:234", 
+        "explosive material:248", 
+        "crude bombs:287", 
+        "explosion:296"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/two-children-killed-in-allahabad-bomb-explosion/article3450942.ece", 
+    "date": "23-05-2012", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Anti-Terrorist Squad", 
+            "117", 
+            "Others"
+        ]
+    ]
+}

@@ -1,0 +1,412 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'5'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Mehrauli Sarai market'
+p8
+aS'36'
+p9
+aS'Event'
+p10
+aa(lp11
+S'South Delhi'
+p12
+aS'40'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Connaught Place'
+p16
+aS'59'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Gaffar Market'
+p20
+aS'62'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Sarojini Nagar'
+p24
+aS'65'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Greater Kailash-I'
+p28
+aS'68'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Delhi'
+p32
+aS'72'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Palika Bazar'
+p36
+aS'152'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'B.S. Kohli'
+p40
+aS'157'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Greater Kailash-I'
+p44
+aS'232'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Connaught Place'
+p48
+aS'278'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Gaffar Market'
+p52
+aS'287'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Sarojini Nagar'
+p56
+aS'346'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Sarojini Nagar market'
+p60
+aS'437'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Noida'
+p64
+aS'449'
+p65
+aS'Neutral'
+p66
+aasS'PER'
+p67
+(lp68
+(lp69
+S'Amit Sharma'
+p70
+aS'146'
+p71
+aS'Comment'
+p72
+aa(lp73
+S'Raju Singh'
+p74
+aS'216'
+p75
+aS'Comment'
+p76
+aS'Others'
+p77
+aa(lp78
+S'Surendra Kumar Upadhyaya'
+p79
+aS'268'
+p80
+aS'Comment'
+p81
+aa(lp82
+S'Anil Kumar'
+p83
+aS'338'
+p84
+aS'Comment'
+p85
+aa(lp86
+S'Priyanka Das'
+p87
+aS'434'
+p88
+aS'Others'
+p89
+aa(lp90
+S'Sanya Suneja'
+p91
+aS'451'
+p92
+aS'Others'
+p93
+aa(lp94
+S'Meeta'
+p95
+aS'462'
+p96
+aS'Others'
+p97
+aa(lp98
+S'Meeta'
+p99
+aS'526'
+p100
+aS'Comment'
+p101
+aasS'TIM'
+p102
+(lp103
+S'10 minutes : 264'
+p104
+aS'today : 373'
+p105
+aS'today : 492'
+p106
+aS'today : 506'
+p107
+asS'hot_setting'
+p108
+S''
+p109
+sS'DAT'
+p110
+(lp111
+S'Saturday : 26'
+p112
+aS'Saturdays : 120'
+p113
+aS'Saturday afternoon : 242'
+p114
+aS'Saturdays : 496'
+p115
+asS'death'
+p116
+g109
+sS'title'
+p117
+S'Many give weekend shopping a miss'
+p118
+sS'det_loc'
+p119
+(lp120
+S'India'
+p121
+aS'Delhi'
+p122
+aS'New Delhi'
+p123
+aS'Delhi'
+p124
+ag109
+asS'terror_group'
+p125
+(lp126
+g109
+asS'content'
+p127
+VStaff Reporter . . NEW DELHI : Crowds at some of the major markets of the Capital began thinning out in the second half of Saturday as news spread about the bomb blast at the Mehrauli Sarai market in South Delhi . . . As news began trickling in , barricades came up at prominent market places like Connaught Place , Gaffar Market , Sarojini Nagar and Greater Kailash-I . The Delhi police personnel carried out a thorough check of the shops . . . Public announcements were made by the police as well as local shopkeepers associations to alert customers about the presence of any suspicious object or person . . . There was heavy security even before Saturdays blast . But more police personnel came to inspect the area after the incident . They also asked us to be more vigilant , said Amit Sharma , a shopkeeper at Palika Bazar . . . B.S. Kohli , president of the Palika Bazar Shopkeepers Welfare Association , said dustbins were checked and shopkeepers asked to maintain calm to avoid any panic among customers . . . Shortly after the blast , the local police instructed all the shopkeepers to keep their stuff inside the store as they wanted to clear the walkway , said Raju Singh , who works with a kids garments store at the M Block Market in Greater Kailash-I . . . The parking was full till Saturday afternoon . Just after the bomb blast , people began rushing out . About 20 cars left within a span of 10 minutes , said Surendra Kumar Upadhyaya , a parking attendant at C-Block at Connaught Place . . . A handloom trader at Gaffar Market lamented how unsafe the Capital had become in view of the frequent bomb blasts . Life has become unpredictable . There are fewer people here than normal days . Every day something or the other is happening . How will we sustain ourselves , he rued . . . Anil Kumar , a garments shop owner at Sarojini Nagar , said : This place bustles with activity during weekends . People come out with their families to shop . But all that is missing today . . . Even as most opted to give weekend shopping a miss , there were many who decided to venture out . We heard about the blast as we were leaving home . We were apprehensive , but Durga Puja is approaching and the excitement of the festival overcame the fear and we decide to step out , said Priyanka Das at Sarojini Nagar market . . . On hearing about the blast , Noida resident Sanya Suneja who was to go out shopping with her mother Meeta , initially thought of cancelling their outing at the M-Block market . But since I work nearby , we decided to go out . The market is very deserted today . Normally on Saturdays , it is bursting at the seams . But today there are hardly any people . In fact , it is this atmosphere that is more scaring , said Meeta .
+p128
+sS'injured'
+p129
+g109
+sS'org_unorg'
+p130
+g109
+sS'O'
+p131
+(lp132
+S'Crowds:8'
+p133
+aS'major markets:13'
+p134
+aS'Capital:17'
+p135
+aS'thinning out:19'
+p136
+aS'second half:23'
+p137
+aS'spread:29'
+p138
+aS'bomb blast:32'
+p139
+aS'trickling:48'
+p140
+aS'barricades:51'
+p141
+aS'prominent market places:55'
+p142
+aS'check:79'
+p143
+aS'Public announcements:86'
+p144
+aS'local shopkeepers:96'
+p145
+aS'alert customers:100'
+p146
+aS'suspicious:107'
+p147
+aS'heavy security:116'
+p148
+aS'Saturdays blast:120'
+p149
+aS'police personnel:125'
+p150
+aS'inspect:129'
+p151
+aS'incident:134'
+p152
+aS'vigilant:143'
+p153
+aS'dustbins:170'
+p154
+aS'checked:172'
+p155
+aS'shopkeepers:174'
+p156
+aS'maintain calm:177'
+p157
+aS'avoid:180'
+p158
+aS'panic:182'
+p159
+aS'blast:191'
+p160
+aS'local police:194'
+p161
+aS'shopkeepers:199'
+p162
+aS'stuff:203'
+p163
+aS'wanted:209'
+p164
+aS'kids garments store:223'
+p165
+aS'M Block Market:228'
+p166
+aS'parking:238'
+p167
+aS'bomb blast:248'
+p168
+aS'20 cars:257'
+p169
+aS'parking attendant:273'
+p170
+aS'C-Block:276'
+p171
+aS'handloom trader:284'
+p172
+aS'lamented:289'
+p173
+aS'unsafe:291'
+p174
+aS'Capital:293'
+p175
+aS'frequent bomb blasts:300'
+p176
+aS'unpredictable:307'
+p177
+aS'normal days:315'
+p178
+aS'garments shop:342'
+p179
+aS'bustles:353'
+p180
+aS'weekends:357'
+p181
+aS'opted:380'
+p182
+aS'weekend shopping:383'
+p183
+aS'venture out:394'
+p184
+aS'blast:401'
+p185
+aS'Durga Puja:413'
+p186
+aS'excitement:419'
+p187
+aS'festival:422'
+p188
+aS'blast:447'
+p189
+aS'cancelling:467'
+p190
+aS'M-Block market:472'
+p191
+aS'bursting:500'
+p192
+aS'atmosphere:519'
+p193
+asS'unexpl'
+p194
+(lp195
+g109
+asS'ocassion'
+p196
+g109
+sS'link'
+p197
+S'http://www.thehindu.com/todays-paper/tp-national/article1347286.ece'
+p198
+sS'date'
+p199
+S'27-09-2008'
+p200
+sS'target'
+p201
+S'MARKETPLACE'
+p202
+sS'hot_spot'
+p203
+g109
+sS'delivery_mod'
+p204
+g109
+sS'delivery_met'
+p205
+S'PLANTED'
+p206
+sS'expl'
+p207
+(lp208
+g109
+asS'ORG'
+p209
+(lp210
+(lp211
+S'Delhi police'
+p212
+aS'72'
+p213
+aS'Others'
+p214
+aa(lp215
+S'Palika Bazar Shopkeepers Welfare Association'
+p216
+aS'163'
+p217
+aS'Others'
+p218
+aas.

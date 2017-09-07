@@ -1,0 +1,72 @@
+{
+    "LOC": [
+        [
+            "Delhi", 
+            "5", 
+            "Neutral"
+        ], 
+        [
+            "Jama Masjid", 
+            "28", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Jama Masjid", 
+            "42", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "September 19:49"
+    ], 
+    "death": "", 
+    "title": "25-lakh reward announced", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Police Commissioner of Delhi has announced a reward of Rs .25 lakh for any information leading to the arrest of the culprits of last year 's Jama Masjid bomb blast case here . A Maruti car had caught fire near Jama Masjid following a mild blast on September 19 . A few hours earlier , two young men on a motorcycle had opened fire at a group of foreigners . Also , the reward money for any information on the attack on the foreigners has been increased from Rs .10 lakh to Rs .30 lakh . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Delhi", 
+        "New Delhi", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "police commissioner:2", 
+        "reward:9", 
+        "information:16", 
+        "arrest:20", 
+        "culprits:23", 
+        "jama masjid bomb blast case:28", 
+        "maruti car:36", 
+        "fire:40", 
+        "blast:47", 
+        "motorcycle:62", 
+        "opened fire:64", 
+        "foreigners:70", 
+        "reward money:75", 
+        "information:79", 
+        "attack:82", 
+        "foreigners:85"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/25lakh-reward-announced/article1470918.ece", 
+    "date": "19-02-2011", 
+    "target": "Religious Places", 
+    "hot_spot": "Jama Masjid", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

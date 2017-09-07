@@ -1,0 +1,215 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Mumbai'
+p4
+aS'7'
+p5
+aS'Event'
+p6
+aa(lp7
+S'J.J. Hospital'
+p8
+aS'96'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Zaveri Bazaar'
+p12
+aS'149'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Zaveri Bazaar'
+p16
+aS'170'
+p17
+aS'Assoc Event Location'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Sripal Mujpura'
+p22
+aS'40'
+p23
+aS'Victim'
+p24
+aa(lp25
+S'Sundar Singh Bisht'
+p26
+aS'55'
+p27
+aS'Victim'
+p28
+aa(lp29
+S'Ajay Sovram Verma'
+p30
+aS'73'
+p31
+aS'Victim'
+p32
+aa(lp33
+S'Ajay'
+p34
+aS'89'
+p35
+aS'Victim'
+p36
+aa(lp37
+S'Sundar'
+p38
+aS'91'
+p39
+aS'Victim'
+p40
+aa(lp41
+S'Sundar'
+p42
+aS'138'
+p43
+aS'Victim'
+p44
+aasS'TIM'
+p45
+(lp46
+S'24 hours : 24'
+p47
+aS'5.45 p.m.:86'
+p48
+aS'10.20 a.m.:155'
+p49
+asS'hot_setting'
+p50
+S''
+p51
+sS'DAT'
+p52
+(lp53
+S'13/7 : 6'
+p54
+aS'Friday night : 31'
+p55
+aS'Saturday:38'
+p56
+aS'Friday night : 52'
+p57
+aS'Saturday morning : 70'
+p58
+aS'1993:166'
+p59
+aS'2003:168'
+p60
+asS'death'
+p61
+S'23'
+p62
+sS'title'
+p63
+S'Mumbai blasts death toll goes up to 23'
+p64
+sS'org_unorg'
+p65
+S'ORGANISED'
+p66
+sS'terror_group'
+p67
+(lp68
+g51
+asS'content'
+p69
+S"The death toll in the 13/7 Mumbai triple blasts has gone up to 23 with three more injured dying in a span of 24 hours . While one died on Friday night , two passed away on Saturday While Sripal Mujpura ( 35 ) died due to extensive brain injury on Friday night , Sundar Singh Bisht ( 30 ) passed away after he suffered a cardio-respiratory arrest on Saturday morning . Ajay Sovram Verma ( 30 ) died due to multiple organ failure around 5.45 p.m. Both Ajay and Sundar passed away at the J.J. Hospital here . Six more critical Six more victims , critically injured , still lie in the hospital 's Critical Care Unit ( CCU ) on a thin string of hope as the doctors try their best to save them . Sundar , who was an attendant at a jewellery shop in Zaveri Bazaar , passed away at 10.20 a.m. . He had escaped two previous bomb blasts in 1993 and 2003 in Zaveri Bazaar . This time he had gone to eat snacks at the Khau galli with three friends when the bomb exploded . OPEN"
+p70
+sS'injured'
+p71
+S'6'
+p72
+sS'det_loc'
+p73
+(lp74
+S'India'
+p75
+aS'Maharashtra'
+p76
+aS'Mumbai-City'
+p77
+aS'Mumbai'
+p78
+aS'Zaveri Bazaar, Sheikh Menon St, Lohar Chawl, Kalbadevi, Mumbai, Maharashtra 400002. Located at Bhuleshwar in South Mumbai, just north of Crawford Market.'
+p79
+asS'O'
+p80
+(lp81
+S'death toll:2'
+p82
+aS'mumbai triple blasts:7'
+p83
+aS'brain injury:49'
+p84
+aS'suffered:65'
+p85
+aS'cardio-respiratory arrest:67'
+p86
+aS'organ failure:83'
+p87
+aS'critical care unit:116'
+p88
+aS'ccu:120'
+p89
+aS'jewellery shop:146'
+p90
+aS'zaveri bazaar:149'
+p91
+aS'escaped:160'
+p92
+aS'bomb blasts:163'
+p93
+aS'snacks:180'
+p94
+aS'khau galli:183'
+p95
+aS'bomb:190'
+p96
+asS'unexpl'
+p97
+(lp98
+g51
+asS'ocassion'
+p99
+g51
+sS'link'
+p100
+S'http://www.thehindu.com/todays-paper/tp-national/mumbai-blasts-death-toll-goes-up-to-23/article2289165.ece'
+p101
+sS'date'
+p102
+S'22-07-2011'
+p103
+sS'target'
+p104
+S'MARKET PLACE'
+p105
+sS'hot_spot'
+p106
+S'Jewellery market.'
+p107
+sS'delivery_mod'
+p108
+g51
+sS'delivery_met'
+p109
+S'PLANTED'
+p110
+sS'expl'
+p111
+(lp112
+g51
+asS'ORG'
+p113
+(lp114
+s.

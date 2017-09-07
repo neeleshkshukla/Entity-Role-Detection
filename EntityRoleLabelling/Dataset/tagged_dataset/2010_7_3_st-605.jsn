@@ -1,0 +1,144 @@
+{
+    "LOC": [
+        [
+            "Lahore", 
+            "22", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "117", 
+            "Neutral"
+        ], 
+        [
+            "Punjab", 
+            "204", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "260", 
+            "Neutral"
+        ], 
+        [
+            "Pakistan", 
+            "353", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hazrat Syed Ali bin Usman Hajweri", 
+            "37", 
+            "Others"
+        ], 
+        [
+            "Usman", 
+            "306", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "midnight : 81"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday night:24", 
+        "Thursday:24", 
+        "Thursday night:24", 
+        "Thursday:83", 
+        "Friday:304", 
+        "Friday night:333", 
+        "Friday:333", 
+        "Friday night:333"
+    ], 
+    "death": "41", 
+    "title": "Death toll in Lahore blast 41", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Lahore", 
+        "Data Darbar complex"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "At least 41 people were killed and nearly 175 injured in the suicide bomb attack on the Data Darbar complex in Lahore on Thursday night . The bombings at the shrine of the Persian Sufi saint Hazrat Syed Ali bin Usman Hajweri are being seen as not just an attack on a crowded place but an assault on the tolerant Sufi tradition . The bombers one of whom has been identified as a local by his brothers struck close to midnight on Thursday , the main time of congregation at the shrine . On Thursdays , devotees queue up through the night in the hope of blessings of the Sufi saint revered as the guardian of Pakistan 's cultural capital . The bombers detonated their suicide jackets separately ; killing many on the spot and seriously injuring others . Since the gathering was nearly 3,000 strong , the explosions triggered a commotion and many were injured in the stampede that ensued . The first blast took place in the basement and the second in front of the shrine 's main building . Though security had been increased recently and the shrine had made its own arrangements to complement the security provided by the Punjab government , the bombers managed to penetrate with suicide jackets bearing 10 kg explosives each . Eyewitnesses claimed the police had described the first blast as a cracker burst . On the other hand , the Data Darbar administration called it an explosion in the generator and asked devotees to continue with their prayers . Lahore 's hospitals were hard-pressed to deal with the scale of injuries and appeals for blood donation were made as the injured were being wheeled in . Police claimed to have recovered the heads of the bombers and one of them was identified on Friday as Usman , a young local who had gone missing some months ago . He is said to have been drawn to a religious outfit . Till late Friday night , no organisation had claimed responsibility for the attack . In fact , the Tehreek-e-Taliban Pakistan ( the Pakistan wing of the Taliban ) has denied any involvement according to AFP . We are not responsible for these attacks . This is a conspiracy by foreign secret agencies . You know we do not attack public places , a TTP spokesman said . OPEN", 
+    "injured": "175", 
+    "org_unorg": "Organized", 
+    "O": [
+        "suicide bomb attack:13", 
+        "complex:20", 
+        "shrine:31", 
+        "persian sufi saint:34", 
+        "attack:50", 
+        "assault:57", 
+        "sufi tradition:61", 
+        "congregation:89", 
+        "night:102", 
+        "sufi saint:110", 
+        "guardian:115", 
+        "suicide jackets:126", 
+        "blast:165", 
+        "place:167", 
+        "basement:170", 
+        "shrine:178", 
+        "building:181", 
+        "security:184", 
+        "shrine:191", 
+        "complement:198", 
+        "security:200", 
+        "government:205", 
+        "suicide:213", 
+        "suicide jackets:213", 
+        "kg:217", 
+        "blast:229", 
+        "cracker burst:232", 
+        "hand:238", 
+        "data darbar administration:241", 
+        "explosion:247", 
+        "generator:250", 
+        "scale:269", 
+        "blood donation:275", 
+        "religious outfit:328", 
+        "organisation:337", 
+        "responsibility:340", 
+        "attack:343", 
+        "wing:354", 
+        "taliban:357", 
+        "involvement:362", 
+        "conspiracy:378", 
+        "attack public:389"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/death-toll-in-lahore-blast-41/article497833.ece", 
+    "date": "03-07-2010", 
+    "target": "Religious Places", 
+    "hot_spot": "", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Planted", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Data Darbar", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "Tehreek-e-Taliban Pakistan", 
+            "349", 
+            "Accused"
+        ], 
+        [
+            "Taliban", 
+            "357", 
+            "Accused"
+        ]
+    ]
+}

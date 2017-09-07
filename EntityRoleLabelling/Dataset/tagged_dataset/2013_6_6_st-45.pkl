@@ -1,0 +1,270 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Nawada'
+p4
+aS'16'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Bihar'
+p8
+aS'19'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Patna'
+p12
+aS'79'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Nawada'
+p16
+aS'102'
+p17
+aS'Event'
+p18
+aasS'PER'
+p19
+(lp20
+(lp21
+S'Deepak'
+p22
+aS'40'
+p23
+aS'Victim'
+p24
+aa(lp25
+S'Shankar'
+p26
+aS'42'
+p27
+aS'Victim'
+p28
+aa(lp29
+S'Karan Manjhi'
+p30
+aS'44'
+p31
+aS'Victim'
+p32
+aa(lp33
+S'Deepak'
+p34
+aS'72'
+p35
+aS'Victim'
+p36
+aa(lp37
+S'Shankar'
+p38
+aS'74'
+p39
+aS'Victim'
+p40
+aa(lp41
+S'Karan'
+p42
+aS'94'
+p43
+aS'Victim'
+p44
+aa(lp45
+S'Manavjit Singh'
+p46
+aS'107'
+p47
+aS'Comment'
+p48
+aa(lp49
+S'Singh'
+p50
+aS'197'
+p51
+aS'Comment'
+p52
+aasS'TIM'
+p53
+(lp54
+S'8.15 a.m. : 63'
+p55
+aS'8.20 a.m. : 66'
+p56
+asS'hot_setting'
+p57
+S''
+p58
+sS'DAT'
+p59
+(lp60
+S'Wednesday : 21'
+p61
+asS'death'
+p62
+S'0'
+p63
+sS'title'
+p64
+S'Bomb in tiffin box goes off; 3 children injured'
+p65
+sS'det_loc'
+p66
+(lp67
+S'India'
+p68
+aS'Bihar'
+p69
+aS'Nawada'
+p70
+ag58
+aS'In a small steel tiffin box in a garbage dump'
+p71
+asS'terror_group'
+p72
+(lp73
+g58
+asS'content'
+p74
+S'Three children , who worked as ragpickers , were injured in a low-intensity blast in Nawada district of Bihar on Wednesday . The explosive was placed in a small steel tiffin box in a garbage dump . The children Deepak , Shankar and Karan Manjhi aged between eight and 10 years , tried to open it when the bomb went off between 8.15 a.m. and 8.20 a.m. , police said . Deepak and Shankar were rushed to the Patna Medical College and Hospital in a critical condition with head and limb injuries . Karan was admitted to the Sadar hospital in Nawada . Superintendent of Police Manavjit Singh said the children were out of danger and were making good progress . There did not seem to be any terror link so far . Apart from the bomb that went off , two other tiffin box bombs were defused by a bomb squad . Contents of the explosives were sent for forensic examination . Preliminary reports indicated that sulphur , potassium nitrate , diesel and nut and bolts were used in making the bomb . It is an improvised explosive , but low in intensity , Mr. Singh told The Hindu . The children belong to Dalit families . They are ragpickers who eke out a living by selling metal scrap . They are our only eyewitnesses . We still have to record their statements , he said . Police do not see terror link ; two other tiffin box bombs were defused OPEN'
+p75
+sS'injured'
+p76
+S'3'
+p77
+sS'org_unorg'
+p78
+g58
+sS'O'
+p79
+(lp80
+S'ragpickers:7'
+p81
+aS'low-intensity blast:13'
+p82
+aS'explosive:24'
+p83
+aS'steel tiffin box:30'
+p84
+aS'garbage dump:35'
+p85
+aS'bomb:59'
+p86
+aS'out of danger:113'
+p87
+aS'good progress:119'
+p88
+aS'terror:129'
+p89
+aS'bomb:137'
+p90
+aS'tiffin box bombs:144'
+p91
+aS'defused:148'
+p92
+aS'bomb squad:151'
+p93
+aS'forensic examination:161'
+p94
+aS'sulphur:168'
+p95
+aS'potassium nitrate:170'
+p96
+aS'diesel:173'
+p97
+aS'nut:175'
+p98
+aS'bolts:177'
+p99
+aS'bomb:183'
+p100
+aS'improvised explosive:188'
+p101
+aS'Dalit families:206'
+p102
+aS'ragpickers:211'
+p103
+aS'metal scrap:219'
+p104
+aS'eyewitnesses:226'
+p105
+aS'record:232'
+p106
+aS'terror link:243'
+p107
+aS'tiffin box bombs:248'
+p108
+aS'defused:252'
+p109
+asS'unexpl'
+p110
+(lp111
+S'NUTS AND BOLTS'
+p112
+aS'DIESEL'
+p113
+asS'ocassion'
+p114
+g58
+sS'link'
+p115
+S'http://www.thehindu.com/todays-paper/tp-national/bomb-in-tiffin-box-goes-off-3-children-injured/article4786041.ece'
+p116
+sS'date'
+p117
+S'05-06-2013'
+p118
+sS'target'
+p119
+S'ROAD SIDE'
+p120
+sS'hot_spot'
+p121
+S'In a small steel tiffin box in a garbage dump'
+p122
+sS'delivery_mod'
+p123
+S'TIFFIN BOX'
+p124
+sS'delivery_met'
+p125
+g58
+sS'expl'
+p126
+(lp127
+S'IED'
+p128
+aS'SULPHUR'
+p129
+aS'POTASSIUM NITRATE'
+p130
+asS'ORG'
+p131
+(lp132
+(lp133
+S'Patna Medical College and Hospital'
+p134
+aS'79'
+p135
+aS'Others'
+p136
+aa(lp137
+S'Sadar hospital'
+p138
+aS'99'
+p139
+aS'Others'
+p140
+aa(lp141
+S'The Hindu'
+p142
+aS'199'
+p143
+aS'Others'
+p144
+aas.

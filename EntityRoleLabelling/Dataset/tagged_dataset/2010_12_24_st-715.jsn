@@ -1,0 +1,174 @@
+{
+    "LOC": [
+        [
+            "Swiss and Chilean embassies", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Rome", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Ukrainian embassy", 
+            "41", 
+            "Neutral"
+        ], 
+        [
+            "Rome", 
+            "113", 
+            "Neutral"
+        ], 
+        [
+            "Athens", 
+            "130", 
+            "Neutral"
+        ], 
+        [
+            "Swiss", 
+            "133", 
+            "Neutral"
+        ], 
+        [
+            "Swiss embassy", 
+            "185", 
+            "Neutral"
+        ], 
+        [
+            "Swiss", 
+            "211", 
+            "Neutral"
+        ], 
+        [
+            "Chilean embassy", 
+            "224", 
+            "Neutral"
+        ], 
+        [
+            "Rome", 
+            "246", 
+            "Neutral"
+        ], 
+        [
+            "Ukrainain embassy", 
+            "257", 
+            "Neutral"
+        ], 
+        [
+            "Europe", 
+            "286", 
+            "Neutral"
+        ], 
+        [
+            "Sweden", 
+            "296", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mumbai", 
+            "316", 
+            "Assoc Event Location"
+        ], 
+        [
+            "India", 
+            "318", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Rome subway", 
+            "330", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Gianni Alemanno", 
+            "81", 
+            "Comment"
+        ], 
+        [
+            "Nicolas Sarkozy", 
+            "140", 
+            "Others"
+        ], 
+        [
+            "Angela Merkel", 
+            "145", 
+            "Others"
+        ], 
+        [
+            "Silvio Berlusconi", 
+            "151", 
+            "Others"
+        ], 
+        [
+            "Bernardino Regazzoni", 
+            "213", 
+            "Others"
+        ], 
+        [
+            "Francesco Tagliente", 
+            "249", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Thursday:13", 
+        "Thursday:181", 
+        "Tuesday:321"
+    ], 
+    "death": "0", 
+    "title": "Blasts at two embassies in Rome", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "Package bombs exploded at the Swiss and Chilean embassies in Rome on Thursday , injuring the two people who opened them , said officials . Police ordered checks at all embassies after a false alarm was also reported at the Ukrainian embassy . No one immediately claimed responsibility , but authorities appeared to discount domestic anarchists or protesters . It 's a wave of terrorism against embassies , something much more worrisome than a single attack , said Rome Mayor Gianni Alemanno . He added that Italian authorities were following an international path in their investigations , distinguishing the attack from a fake bomb found earlier this week on a subway in Rome . Last month , suspected Greek radical anarchists sent 14 mail bombs to foreign embassies in Athens including the Swiss as well as to French President Nicolas Sarkozy , German Chancellor Angela Merkel and Italian Prime Minister Silvio Berlusconi . Nobody was hurt and only two devices exploded , causing no injuries . A group called Conspiracy Nuclei of Fire claimed responsibility . The first bomb on Thursday exploded inside the Swiss embassy at around noon . The man who opened it was hospitalised with serious hand injuries but his life was not in danger , said Swiss Ambassador Bernardino Regazzoni . About three hours later , witnesses outside the Chilean embassy said they heard a blast , sending police to the scene . One person was injured , police said . Rome police chief Francesco Tagliente said a suspicious package at the Ukrainain embassy was a false alarm , but added that all embassies in the Italian capital had been informed of the blasts . There have been growing concerns in Europe about holiday season attacks following a suicide bombing in Sweden and security services ' fears of an assault on a European city modelled on the deadly shooting spree in Mumbai , India . On Tuesday , there was a bomb scare in the Rome subway after authorities discovered a suspicious package with wires and powder under a subway seat . The device ended up being a fake , with police determining there was no trigger mechanism and its the powder was inert , cement-like material . AP OPEN", 
+    "injured": "2", 
+    "det_loc": [
+        "Italy", 
+        "", 
+        "", 
+        "Rome", 
+        "Swiss and Chilean embassies in Rome"
+    ], 
+    "O": [
+        "embassies:31", 
+        "false alarm:34", 
+        "attack:76", 
+        "Italian authorities:87", 
+        "bomb:104", 
+        "Greek radical anarchists:119", 
+        "French President:138", 
+        "German Chancellor:143", 
+        "Italian Prime Minister:148", 
+        "Italian capital:271", 
+        "suicide bombing:293", 
+        "security services:298", 
+        "European city:307", 
+        "trigger mechanism:361"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/blasts-at-two-embassies-in-rome/article973311.ece", 
+    "date": "24-12-2010", 
+    "target": "Government Building", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Conspiracy Nuclei of Fire", 
+            "170", 
+            "Accused"
+        ]
+    ]
+}

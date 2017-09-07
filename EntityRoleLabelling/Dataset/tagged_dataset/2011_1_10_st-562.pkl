@@ -1,0 +1,411 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Ajmer dargah'
+p4
+aS'29'
+p5
+aS'Assoc Event Location'
+p6
+aa(lp7
+S'Ajmer'
+p8
+aS'47'
+p9
+aS'Event'
+p10
+aa(lp11
+S"Hyderabad 's Makkah Masjid"
+p12
+aS'102'
+p13
+aS'Assoc Event Location'
+p14
+aa(lp15
+S'Rajasthan'
+p16
+aS'165'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Jaipur'
+p20
+aS'211'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'New Delhi'
+p24
+aS'251'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Makkah Masjid'
+p28
+aS'257'
+p29
+aS'Assoc Event Location'
+p30
+aa(lp31
+S'Ajmer dargah'
+p32
+aS'295'
+p33
+aS'Assoc Event Location'
+p34
+aa(lp35
+S'Ajmer dargah'
+p36
+aS'313'
+p37
+aS'Assoc Event Location'
+p38
+aa(lp39
+S'Makkah Masjid'
+p40
+aS'316'
+p41
+aS'Assoc Event Location'
+p42
+aa(lp43
+S'Malegaon'
+p44
+aS'319'
+p45
+aS'Assoc Event Location'
+p46
+aa(lp47
+S'Dangs'
+p48
+aS'344'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Gujarat'
+p52
+aS'346'
+p53
+aS'Neutral'
+p54
+aasS'PER'
+p55
+(lp56
+(lp57
+S'Indresh Kumar'
+p58
+aS'22'
+p59
+aS'Accused'
+p60
+aa(lp61
+S'Swami Aseemanand'
+p62
+aS'42'
+p63
+aS'Accused'
+p64
+aa(lp65
+S'Aseemanand'
+p66
+aS'73'
+p67
+aS'Accused'
+p68
+aa(lp69
+S'Kumar'
+p70
+aS'134'
+p71
+aS'Accused'
+p72
+aa(lp73
+S'Aseemanand'
+p74
+aS'161'
+p75
+aS'Accused'
+p76
+aa(lp77
+S'Kumar'
+p78
+aS'198'
+p79
+aS'Accused'
+p80
+aa(lp81
+S'Kumar'
+p82
+aS'229'
+p83
+aS'Accused'
+p84
+aa(lp85
+S'Kumar'
+p86
+aS'240'
+p87
+aS'Accused'
+p88
+aa(lp89
+S'Aseemanand'
+p90
+aS'276'
+p91
+aS'Accused'
+p92
+aa(lp93
+S'Kumar'
+p94
+aS'282'
+p95
+aS'Accused'
+p96
+aasS'TIM'
+p97
+(lp98
+sS'hot_setting'
+p99
+S''
+p100
+sS'DAT'
+p101
+(lp102
+S'2007:28'
+p103
+aS'Sunday:131'
+p104
+aS'October:143'
+p105
+aS'October 31 , 2005:213'
+p106
+asS'death'
+p107
+g100
+sS'title'
+p108
+S'Rajasthan Police to quiz RSS leader'
+p109
+sS'det_loc'
+p110
+(lp111
+S'India'
+p112
+aS'Rajasthan'
+p113
+aS'Jaipur'
+p114
+aS'Jaipur'
+p115
+ag100
+asS'terror_group'
+p116
+(lp117
+g100
+asS'content'
+p118
+S"The Anti-Terrorism Squad ( ATS ) of Rajasthan Police is all set to summon and interrogate senior Rashtriya Swayamsevak Sangh leader Indresh Kumar in connection with the 2007 Ajmer dargah blast , which claimed three lives , after the prime accused Swami Aseemanand is brought to Ajmer and questioned about his recent revelations on the series of terror attacks on Muslims religious places . The ATS , which has obtained warrants for Aseemanand 's arrest from the Ajmer Sessions Court , is likely to get his custody on transit remand . He has been interrogated by the CBI in connection with Hyderabad 's Makkah Masjid blast and by the National Investigation Agency ( NIA ) on the Samjhauta Express blast . According to the sources in the ATS here on Sunday , Mr. Kumar whose name figures in the charge-sheet filed in October last year in the dargah blast case is likely to be called for grilling as soon as Aseemanand is brought to Rajasthan and questioned about his role in the conspiracy for carrying out bombing at the 13 -LCB- + t -RCB- -LCB- + h -RCB- century Sufi shrine . The charge-sheet stated that Mr. Kumar had addressed a secret meeting of RSS functionaries at a guesthouse in Jaipur on October 31 , 2005 . For want of evidence , the ATS did not mention Mr. Kumar 's name as an accused in the case . Mr. Kumar was recently interrogated by the CBI at its headquarters in New Delhi in connection with the Makkah Masjid blast . In his confessional statement recorded by a Metropolitan Magistrate and admissible in the court , Aseemanand had recently claimed that Mr. Kumar was part of a plan hatched to carry out bomb explosions at Ajmer dargah and elsewhere . Investigating agencies believe that the hard-line Hindutva Swami is the ideologue behind the Ajmer dargah , Makkah Masjid , Malegaon and Samjhauta Express blasts . He also allegedly gave shelter to some of the accused after the dargah blast at his Ashram ' at Dangs in Gujarat . OPEN"
+p119
+sS'injured'
+p120
+g100
+sS'org_unorg'
+p121
+S'Organized'
+p122
+sS'O'
+p123
+(lp124
+S'interrogate:16'
+p125
+aS'rashtriya swayamsevak sangh leader:18'
+p126
+aS'ajmer dargah blast:29'
+p127
+aS'lives:36'
+p128
+aS'prime accused:40'
+p129
+aS'terror attacks:58'
+p130
+aS'muslims religious places:61'
+p131
+aS'warrants:71'
+p132
+aS"aseemanand 's arrest:73"
+p133
+aS'custody:87'
+p134
+aS'transit remand:89'
+p135
+aS'interrogated:95'
+p136
+aS"hyderabad 's makkah masjid blast:102"
+p137
+aS'samjhauta express blast:118'
+p138
+aS'charge-sheet:140'
+p139
+aS'dargah blast case:148'
+p140
+aS'conspiracy:173'
+p141
+aS'bombing:177'
+p142
+aS'sufi shrine:190'
+p143
+aS'charge-sheet:194'
+p144
+aS'makkah masjid blast:257'
+p145
+aS'confessional statement:263'
+p146
+aS'metropolitan magistrate:268'
+p147
+aS'court:274'
+p148
+aS'bomb explosions:292'
+p149
+aS'hindutva swami:306'
+p150
+aS'samjhauta express blasts:321'
+p151
+aS'shelter:329'
+p152
+aS'dargah blast:337'
+p153
+aS'ashram:341'
+p154
+asS'unexpl'
+p155
+(lp156
+g100
+asS'ocassion'
+p157
+g100
+sS'link'
+p158
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/rajasthan-police-to-quiz-rss-leader/article1076821.ece'
+p159
+sS'date'
+p160
+S'11-10-2007'
+p161
+sS'target'
+p162
+S'Religious Places'
+p163
+sS'hot_spot'
+p164
+S'Ajmer dargah'
+p165
+sS'delivery_mod'
+p166
+g100
+sS'delivery_met'
+p167
+g100
+sS'expl'
+p168
+(lp169
+g100
+asS'ORG'
+p170
+(lp171
+(lp172
+S'Anti-Terrorism Squad'
+p173
+aS'2'
+p174
+aS'Others'
+p175
+aa(lp176
+S'ATS'
+p177
+aS'5'
+p178
+aS'Others'
+p179
+aa(lp180
+S'Rajasthan Police'
+p181
+aS'8'
+p182
+aS'Others'
+p183
+aa(lp184
+S'Rashtriya Swayamsevak Sangh'
+p185
+aS'18'
+p186
+aS'Accused'
+p187
+aa(lp188
+S'ATS'
+p189
+aS'66'
+p190
+aS'Others'
+p191
+aa(lp192
+S'Ajmer Sessions Court'
+p193
+aS'78'
+p194
+aS'Others'
+p195
+aa(lp196
+S'CBI'
+p197
+aS'98'
+p198
+aS'Others'
+p199
+aa(lp200
+S'National Investigation Agency'
+p201
+aS'110'
+p202
+aS'Others'
+p203
+aa(lp204
+S'NIA'
+p205
+aS'114'
+p206
+aS'Others'
+p207
+aa(lp208
+S'ATS'
+p209
+aS'128'
+p210
+aS'Others'
+p211
+aa(lp212
+S'RSS'
+p213
+aS'205'
+p214
+aS'Accused'
+p215
+aa(lp216
+S'ATS'
+p217
+aS'224'
+p218
+aS'Others'
+p219
+aa(lp220
+S'CBI'
+p221
+aS'246'
+p222
+aS'Others'
+p223
+aas.

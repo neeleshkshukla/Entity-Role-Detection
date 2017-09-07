@@ -1,0 +1,145 @@
+{
+    "LOC": [
+        [
+            "Uttar Pradesh", 
+            "33", 
+            "Neutral"
+        ], 
+        [
+            "Allahabad", 
+            "51", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "125", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "279", 
+            "Neutral"
+        ], 
+        [
+            "Lucknow", 
+            "320", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Vijay Mishra", 
+            "17", 
+            "Accused"
+        ], 
+        [
+            "Subesh Kumar Singh", 
+            "54", 
+            "Others"
+        ], 
+        [
+            "Mishra", 
+            "61", 
+            "Others"
+        ], 
+        [
+            "Nand Gopal Gupta Nandi", 
+            "73", 
+            "Others"
+        ], 
+        [
+            "Rajesh Pilot", 
+            "103", 
+            "Others"
+        ], 
+        [
+            "Mishra", 
+            "161", 
+            "Others"
+        ], 
+        [
+            "Dilip Mishra", 
+            "168", 
+            "Others"
+        ], 
+        [
+            "Nandi", 
+            "180", 
+            "Others"
+        ], 
+        [
+            "Dilip Mishra", 
+            "212", 
+            "Others"
+        ], 
+        [
+            "Vijay Mishra", 
+            "224", 
+            "Others"
+        ], 
+        [
+            "Nandi", 
+            "250", 
+            "Others"
+        ], 
+        [
+            "Nandi", 
+            "297", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July:79", 
+        "July 12:79", 
+        "Sunday:87"
+    ], 
+    "death": "", 
+    "title": "Reward announced on absconding SP MLA", 
+    "det_loc": [
+        "India", 
+        "Uttar Pradesh", 
+        "Allahabad", 
+        "", 
+        ""
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Police has announced a reward of Rs .15,000 on the head of absconding Samajwadi Party MLA Vijay Mishra , who has been accused of being involved in the bomb attack on an Uttar Pradesh minister earlier this year . The reward has been announced by Inspector General of Police , Allahabad Range , Subesh Kumar Singh , following allegations of Mishra 's involvement in the bomb explosion outside the house of Minister Nand Gopal Gupta Nandi here on July 12 , a police spokesman said on Sunday . The announcement of the reward comes close on the heels of the arrest of Rajesh Pilot , the prime accused in the bomb attack case , who was caught by a team of UP police in Mumbai and brought here last week . Pilot has alleged that he had carried out the explosion at the behest of the SP MLA who had also given him shelter after the blast . Signficantly , Mishra is also a close relative of Dilip Mishra , who had been named in the FIR lodged by Nandi 's relatives following the bomb explosion . Police suspect political and business rivalry to be behind the bomb attack that had killed two persons and seriously injured the minister . While Dilip Mishra is in jail in connection with another criminal case , Vijay Mishra has been absconding ever since his name was involved in a firing incident at an election rally during Lok Sabha polls last year . Nandi was the Minister for Institutional Finance and Stamp and Judicial Fees in the Mayawati Cabinet . After being injured in the attack , he has been recuperating at Lucknow and though his portfolios have been handed over to another senior member of the State Cabinet , Nandi continues to enjoy the status of a minister . PTI Police announces reward of Rs .15,000 Former Mayawati Cabinet Minister recuperating in Lucknow OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "bomb attack:29", 
+        "bomb explosion:66", 
+        "bomb explosion:185", 
+        "suspect:189", 
+        "case:222", 
+        "election rally:241", 
+        "lok sabha:244", 
+        "mayawati cabinet:264", 
+        "member:291", 
+        "state cabinet:294"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/reward-announced-on-absconding-sp-mla/article835595.ece", 
+    "date": "12-07-2010", 
+    "target": "", 
+    "hot_spot": "bomb attack on an Uttar Pradesh minister", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Samajwadi Party", 
+            "14", 
+            "Others"
+        ]
+    ]
+}

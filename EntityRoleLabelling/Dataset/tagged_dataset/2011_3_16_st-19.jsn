@@ -1,0 +1,114 @@
+{
+    "LOC": [
+        [
+            "West Bengal", 
+            "24", 
+            "Assoc Event Location"
+        ], 
+        [
+            "West Bengal", 
+            "84", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Murshidabad", 
+            "117", 
+            "Assoc Event Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Akher Abdul Gafar Mandal", 
+            "8", 
+            "Accused"
+        ], 
+        [
+            "Rakesh Maria", 
+            "45", 
+            "Comment"
+        ], 
+        [
+            "Maria", 
+            "66", 
+            "Comment"
+        ], 
+        [
+            "Akher", 
+            "68", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:50", 
+        "2003:100", 
+        "2007:102", 
+        "December 21 , 2010 : 105"
+    ], 
+    "death": "", 
+    "title": "Accused in West Bengal murder case held in Mumbai", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "The Maharashtra Anti-Terrorism Squad has arrested here Akher Abdul Gafar Mandal ( 35 ) , wanted in bomb blast and dacoity cases in West Bengal . He claims to be a member of the Communist Party of India ( Maoist ) , ATS chief Rakesh Maria said here on Tuesday . The ATS seized a country-made revolver and a live cartridge from him . Mr. Maria said Akher was booked for murder and rioting , being armed with deadly weapons , in the West Bengal cases . Cases of dacoity and possession of arms were registered against him in 2003 and 2007 . On December 21 , 2010 , he attacked a panchayat samiti office in Murshidabad district . The village pradhan and another person were killed in the attack . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "", 
+        ""
+    ], 
+    "O": [
+        "bomb blast:18", 
+        "dacoity:21", 
+        "revolver:57", 
+        "cartridge:61", 
+        "murder:72", 
+        "rioting:74", 
+        "deadly weapons:79", 
+        "dacoity:90", 
+        "possession of arms:92", 
+        "panchayat samiti office:113", 
+        "village pradhan:121", 
+        "killed:127", 
+        "attack:130"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/accused-in-west-bengal-murder-case-held-in-mumbai/article1541788.ece", 
+    "date": "16-03-2011", 
+    "target": "", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Maharashtra Anti-Terrorism Squad", 
+            "2", 
+            "Others"
+        ], 
+        [
+            "Communist Party of India", 
+            "35", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "53", 
+            "Others"
+        ]
+    ]
+}

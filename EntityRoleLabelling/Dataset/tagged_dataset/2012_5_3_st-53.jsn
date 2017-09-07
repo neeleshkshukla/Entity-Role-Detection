@@ -1,0 +1,211 @@
+{
+    "LOC": [
+        [
+            "Maharashtra", 
+            "2", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mumbai", 
+            "37", 
+            "Event"
+        ], 
+        [
+            "Zaveri Bazar", 
+            "114", 
+            "Event"
+        ], 
+        [
+            "Opera House", 
+            "117", 
+            "Event"
+        ], 
+        [
+            "Dadar", 
+            "120", 
+            "Event"
+        ], 
+        [
+            "Byculla", 
+            "149", 
+            "Event"
+        ], 
+        [
+            "south Mumbai", 
+            "151", 
+            "Event"
+        ], 
+        [
+            "Delhi", 
+            "213", 
+            "Neutral"
+        ], 
+        [
+            "Police", 
+            "214", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "228", 
+            "Accused Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Rakesh Maria", 
+            "74", 
+            "Comment"
+        ], 
+        [
+            "Maria", 
+            "94", 
+            "Comment"
+        ], 
+        [
+            "Naquee Ahmed", 
+            "154", 
+            "Accused"
+        ], 
+        [
+            "Nadeem Sheikh", 
+            "157", 
+            "Accused"
+        ], 
+        [
+            "Kanwar Pathrija", 
+            "160", 
+            "Accused"
+        ], 
+        [
+            "Haroon Naik", 
+            "163", 
+            "Accused"
+        ], 
+        [
+            "Naquee", 
+            "177", 
+            "Accused"
+        ], 
+        [
+            "Nadeem", 
+            "179", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "195", 
+            "Accused"
+        ], 
+        [
+            "Naquee", 
+            "204", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "225", 
+            "Accused"
+        ], 
+        [
+            "Naquee", 
+            "233", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "July 13:122"
+    ], 
+    "death": "", 
+    "title": "RDX traces found in house of 13/7 accused", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        "INDIAN MUJAHIDEEN"
+    ], 
+    "content": "The Maharashtra Anti-Terrorism Squad has found traces of RDX along with other explosives in the apartment here of the alleged Indian Mujahideen ( IM ) operatives suspected to have been involved in the 13/7 blasts in Mumbai . The original components of the explosive were ammonium nitrate , nitrite and TNT . Now , in the house , we found TNT , other explosive material and also traces of RDX , ATS chief Rakesh Maria told The Hindu . The agency received the chemical analysis report a couple of days ago . Mr. Maria said : There was no RDX at the blast sites . The three bombs , which went off at Zaveri Bazar , Opera House and Dadar on July 13 , were a mixture of ammonium nitrate , nitrite , petroleum hydrocarbon and TNT . RDX was recovered in a flat in Habib building at Byculla in south Mumbai . Naquee Ahmed , Nadeem Sheikh , Kanwar Pathrija and Haroon Naik have been arrested in connection with the blast . Of them , Naquee and Nadeem are accused of staying with the absconding accused at Habib building , where IM operative Yasin Bhatkal allegedly took residence for a while . Naquee 's arrest was mired in controversy . The Delhi Police blamed the ATS for botching up their operation to nab Yasin Bhatkal in Mumbai by arresting their informer Naquee . OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "", 
+        "MUMBAI", 
+        "MUMBAI"
+    ], 
+    "O": [
+        "apartment:16", 
+        "13/7 blasts:34", 
+        "TNT:61", 
+        "chemical analysis:84", 
+        "RDX:100", 
+        "petroleum hydrocarbon:134", 
+        "TNT:137", 
+        "RDX:139", 
+        "flat:144", 
+        "habib building:146", 
+        "habib building:189", 
+        "mired:208", 
+        "botching:219", 
+        "operation:222"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/rdx-traces-found-in-house-of-137-accused/article3378618.ece", 
+    "date": "02-05-2012", 
+    "target": "PUBLIC PLACES", 
+    "hot_spot": "MUMBAI", 
+    "delivery_mod": "", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        "AMMONIUM NITRATE", 
+        "RDX", 
+        "NITRATE", 
+        "TNT"
+    ], 
+    "ORG": [
+        [
+            "IM", 
+            "24", 
+            "Accused", 
+            "Others"
+        ], 
+        [
+            "Anti-Terrorism Squad", 
+            "3", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "21", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "72", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "77", 
+            "Others"
+        ], 
+        [
+            "Hindu", 
+            "78", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "193", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "217", 
+            "Others"
+        ]
+    ]
+}

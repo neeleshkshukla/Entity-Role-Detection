@@ -1,0 +1,322 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Boston'
+p4
+aS'8'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Mumbai'
+p8
+aS'19'
+p9
+aS'Assoc Event Location'
+p10
+aasS'PER'
+p11
+(lp12
+(lp13
+S'Stephanie Douglas'
+p14
+aS'37'
+p15
+aS'Victim'
+p16
+aa(lp17
+S'friend Linda Claire'
+p18
+aS'44'
+p19
+aS'Victim'
+p20
+aa(lp21
+S'friend Linda'
+p22
+aS'44'
+p23
+aS'Victim'
+p24
+aa(lp25
+S'Linda Claire'
+p26
+aS'45'
+p27
+aS'Victim'
+p28
+aa(lp29
+S'Linda Claire Willits'
+p30
+aS'45'
+p31
+aS'Victim'
+p32
+aa(lp33
+S'Ms. Douglas'
+p34
+aS'97'
+p35
+aS'Victim'
+p36
+aa(lp37
+S'Ms. Willits'
+p38
+aS'167'
+p39
+aS'Victim'
+p40
+aa(lp41
+S'Ms. Douglas'
+p42
+aS'170'
+p43
+aS'Victim'
+p44
+aa(lp45
+S'Ms. Willits'
+p46
+aS'193'
+p47
+aS'Victim'
+p48
+aa(lp49
+S'Ms. Douglas'
+p50
+aS'198'
+p51
+aS'Victim'
+p52
+aa(lp53
+S'Ms. Willits'
+p54
+aS'300'
+p55
+aS'Victim'
+p56
+aa(lp57
+S'Ms. Douglas'
+p58
+aS'309'
+p59
+aS'Victim'
+p60
+aa(lp61
+S'Ms. Douglas'
+p62
+aS'341'
+p63
+aS'Victim'
+p64
+aa(lp65
+S'Ms. Willits'
+p66
+aS'344'
+p67
+aS'Victim'
+p68
+aa(lp69
+S'Ms.'
+p70
+aS'388'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Ms. Willits daughter'
+p74
+aS'388'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Ms. Willits'
+p78
+aS'388'
+p79
+aS'Victim'
+p80
+aa(lp81
+S'Ms. Willits'
+p82
+aS'406'
+p83
+aS'Victim'
+p84
+aa(lp85
+S'Ms. Douglas'
+p86
+aS'437'
+p87
+aS'Victim'
+p88
+aa(lp89
+S'Mr. Iffrig'
+p90
+aS'535'
+p91
+aS'Victim'
+p92
+aa(lp93
+S'Iffrig'
+p94
+aS'536'
+p95
+aS'Victim'
+p96
+aasS'TIM'
+p97
+(lp98
+sS'hot_setting'
+p99
+S''
+p100
+sS'DAT'
+p101
+(lp102
+S'2008:16'
+p103
+aS'Monday:65'
+p104
+aS'November:104'
+p105
+aS'November 2008:104'
+p106
+asS'death'
+p107
+S'3'
+p108
+sS'title'
+p109
+S'Boston bombings witness recalls Mumbai attacks'
+p110
+sS'det_loc'
+p111
+(lp112
+S'United States'
+p113
+ag100
+ag100
+aS'Boston'
+p114
+aS' on a sidewalk along the 42-km route of the marathon'
+p115
+asS'terror_group'
+p116
+(lp117
+g100
+asS'content'
+p118
+S'A woman , who witnessed the horrific Boston bombings , was reminded of the deadly 2008 attacks in Mumbai , a city she was visiting when Pakistani terrorists went on the rampage killing 166 people . Stephanie Douglas had come to cheer her friend Linda Claire Willits at the Boston Marathon when two bombs exploded , killing three people and injuring over 140 on Monday . The two blasts occurred within seconds on a sidewalk along the 42-km route of the marathon , where thousands of people had lined up to cheer on the marathoners . Ms. Douglas couldnt help but think of November 2008 when she was in Mumbai when deadly shooting and bombing attacks carried out by the LeT claimed 166 lives , including that of six Americans . This is twice Ive been in two cities when this kind of thing has been happening , she was quoted by CNN as saying . After crossing the finish line of the Boston Marathon , Ms. Willits texted Ms. Douglas , who was waiting down the street at the bar at the Mandarin Oriental hotel . Im on my way , Ms. Willits said . As Ms. Douglas prepared to celebrate , a small explosion went off , followed seconds later by a thunderous boom that tore through the area . It was so strong the bar filled up with smoke and chairs tipped over , she said . I saw people it was like they were on a trampoline literally flying through the air . Smoke poured into the bar . People began shouting that another bomb had been found , and everyone scrambled to escape . Outside , one mans legs were blown off , and he kept trying to stand up , she said . Ms. Willits , who was en route to meet Ms. Douglas , said , The whole ground shook , and I knew right away it was a bomb . I saw people who had lost their limbs , she said . Ms. Douglas knew Ms. Willits was somewhere in the vicinity when the blasts went off . After all , shed gotten the text from her . Everything that could go wrong was going through my head , she said . Minutes seemed like hours . Finally , Ms. Willits daughter managed to get hold of both of them by phone and coordinated their reunion . Ms. Willits waited at a street corner for nearly an hour . We were both already crying and just embraced each other , she said . It was a meltdown , Ms. Douglas added . Shock waves This has been a traumatic event , Willits said between tears . But I just feel like we cant stop doing things that we enjoy doing , because then the terrorists win . A 78-year-old veteran American runner , knocked down by the huge impact of the two bombs that hit the Boston Marathon , has become an Internet sensation after he managed to get up and finish the race . Bill Iffrig was yards from the finish line when the explosion was detonated . Video and pictures from the scene show Mr. Iffrig , in bright orange vest , on the ground , trying to get up . With the help of a race official who lifted him to his feet , he got up and kept going , determined to reach his goal . I got down to within 15 feet of the finish apron and just tremendous explosion , he told CNN . The shock waves just hit my whole body and my legs just started jittering around , he said . But , he said after running 26 miles he wasnt going to give up . - PTI OPEN'
+p119
+sS'injured'
+p120
+S'140'
+p121
+sS'org_unorg'
+p122
+S'Organized'
+p123
+sS'O'
+p124
+(lp125
+S'boston bombings:8'
+p126
+aS'city:22'
+p127
+aS'boston marathon:50'
+p128
+aS'sidewalk:75'
+p129
+aS'42-km route:78'
+p130
+aS'marathon:82'
+p131
+aS'shooting:113'
+p132
+aS'bombing:115'
+p133
+aS'ive:135'
+p134
+aS'cnn:153'
+p135
+aS'boston marathon:164'
+p136
+aS'street:178'
+p137
+aS'bar:181'
+p138
+aS'mandarin:184'
+p139
+aS'hotel:186'
+p140
+aS'explosion:206'
+p141
+aS'trampoline:251'
+p142
+aS'bomb:269'
+p143
+aS'escape:278'
+p144
+aS'Shock waves:441'
+p145
+aS'traumatic event:447'
+p146
+aS'american runner:479'
+p147
+aS'impact:487'
+p148
+aS'boston marathon:495'
+p149
+aS'internet sensation:501'
+p150
+aS'iffrig:515'
+p151
+aS'explosion:524'
+p152
+aS'cnn:597'
+p153
+asS'unexpl'
+p154
+(lp155
+g100
+asS'ocassion'
+p156
+g100
+sS'link'
+p157
+S'http://www.thehindu.com/todays-paper/tp-international/boston-bombings-witness-recalls-mumbai-attacks/article4625386.ece'
+p158
+sS'date'
+p159
+S'15-04-2013'
+p160
+sS'target'
+p161
+g100
+sS'hot_spot'
+p162
+g100
+sS'delivery_mod'
+p163
+g100
+sS'delivery_met'
+p164
+g100
+sS'expl'
+p165
+(lp166
+g100
+asS'ORG'
+p167
+(lp168
+(lp169
+S'LeT'
+p170
+aS'121'
+p171
+aS'Accused'
+p172
+aas.

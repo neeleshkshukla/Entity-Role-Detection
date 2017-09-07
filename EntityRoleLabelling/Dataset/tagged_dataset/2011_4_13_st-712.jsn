@@ -1,0 +1,164 @@
+{
+    "LOC": [
+        [
+            "Minsk", 
+            "12", 
+            "Event"
+        ], 
+        [
+            "Belarus", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Oktyabrskaya station", 
+            "76", 
+            "Event"
+        ], 
+        [
+            "Moscow metro", 
+            "137", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Domodedovo airport", 
+            "143", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Oktyabrskaya station", 
+            "150", 
+            "Event"
+        ], 
+        [
+            "Minsk", 
+            "158", 
+            "Event"
+        ], 
+        [
+            "Belarus", 
+            "208", 
+            "Event"
+        ], 
+        [
+            "Belarus", 
+            "349", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "Alexander Lukashenko", 
+            "212", 
+            "Comment"
+        ], 
+        [
+            "Lukashenko", 
+            "235", 
+            "Comment"
+        ], 
+        [
+            "Lukashenko", 
+            "284", 
+            "Comment"
+        ], 
+        [
+            "Lukashenko", 
+            "354", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:19", 
+        "2010:140", 
+        "January:146", 
+        "Tuesday:204", 
+        "2008:251", 
+        "1994:378", 
+        "December:394"
+    ], 
+    "death": "12", 
+    "title": "Bomb blast in Minsk kills 12", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A powerful bomb blast ripped through a crowded metro station in Minsk , capital of Belarus , on Monday evening , killing 12 and injuring more than 200 people . The bomb went off in a central metro station during the evening rush hour . Police said it was a homemade explosive devise , equivalent to seven kg of TNT and packed with nails and bolts . It was hidden under a platform bench on Oktyabrskaya station and was apparently detonated by remote control as a train pulled up . Eleven people died on the spot and one more person succumbed to injuries later ; 204 people were admitted to hospital , 26 of them in serious condition . The scene of carnage captured on cell phone cameras was eerily reminiscent of the bombings of the Moscow metro in 2010 and the Domodedovo airport in January this year . Oktyabrskaya station is one of the busiest among Minsk 's 25 metro stations and lies at the only intersection of the city 's two lines just a hundred metres away from the presidential headquarters . Police qualified the blast as a terror attack and detained several suspects with the help of identikit portraits on Tuesday , hours after Belarus ' autocratic leader Alexander Lukashenko told the security services to turn everything inside out in their search for the culprits . In televised remarks , Mr. Lukashenko said the attack may be linked to an unsolved explosion during Independence Day celebrations in 2008 , in which 50 people were hurt , but no one died . We must find out who stands to gain by undermining peace and stability in the country , said Mr. Lukashenko . The Belarus KGB secret service said they had three theories for the bombing motives : an attempt to destabilise the country , an act of revenge by extremist organisations or a hit by a mentally ill person . Investigators said they were looking for a man of non-Slavic look . No one has claimed responsibility for the attack so far . Opposition in Belarus voiced fears that Mr. Lukashenko could use the bomb attack as a pretext to step up political persecution in the post-Soviet state , which he has ruled since 1994 . Dozens of opposition leaders were arrested in the wake of a presidential election last December for staging protests against what they claimed was an unfair vote . OPEN", 
+    "injured": "200", 
+    "det_loc": [
+        "Belarus", 
+        "", 
+        "", 
+        "Minsk", 
+        "Oktyabrskaya station"
+    ], 
+    "O": [
+        "bomb blast:3", 
+        "metro station:9", 
+        "belarus:16", 
+        "killing:22", 
+        "injuring:25", 
+        "bomb:32", 
+        "metro station:38", 
+        "evening rush hour:42", 
+        "homemade explosive:51", 
+        "TNT:60", 
+        "nails and bolts:64", 
+        "platform bench:73", 
+        "detonated:81", 
+        "train:87", 
+        "died:93", 
+        "injuries:103", 
+        "captured:124", 
+        "cell phone:126", 
+        "bombings:134", 
+        "metro stations:161", 
+        "blast:188", 
+        "terror attack:191", 
+        "identikit portraits:201", 
+        "autocratic leader alexander lukashenko:210", 
+        "security services:216", 
+        "search:225", 
+        "attack:238", 
+        "unsolved explosion:244", 
+        "independence day celebrations:247", 
+        "hurt:258", 
+        "secret service:289", 
+        "theories:295", 
+        "bombing:298", 
+        "bombing motives:298", 
+        "revenge:311", 
+        "extremist organisations:313", 
+        "investigators:324", 
+        "non-slavic look:333", 
+        "attack:343", 
+        "bomb attack:358", 
+        "political persecution:366", 
+        "post-soviet state:370", 
+        "opposition leaders:382", 
+        "arrested:385", 
+        "presidential election:391"
+    ], 
+    "unexpl": [
+        "Nuts and Bolts"
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/bomb-blast-in-minsk-kills-12/article1692522.ece", 
+    "date": "13-04-2011", 
+    "target": "Railway Station", 
+    "hot_spot": "Oktyabrskaya station", 
+    "delivery_mod": "", 
+    "delivery_met": "Planted", 
+    "expl": [
+        "TNT"
+    ], 
+    "ORG": [
+        [
+            "Belarus KGB", 
+            "287", 
+            "Others"
+        ]
+    ]
+}

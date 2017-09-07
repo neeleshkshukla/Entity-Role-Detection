@@ -1,0 +1,118 @@
+{
+    "LOC": [
+        [
+            "Baghdad", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Iraq", 
+            "51", 
+            "Event"
+        ], 
+        [
+            "Iraq", 
+            "77", 
+            "Event"
+        ], 
+        [
+            "Iraq", 
+            "100", 
+            "Event"
+        ], 
+        [
+            "U.S.", 
+            "112", 
+            "Neutral"
+        ], 
+        [
+            "U.S.", 
+            "147", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "149", 
+            "Neutral"
+        ], 
+        [
+            "Basra", 
+            "161", 
+            "Assoc Event Location"
+        ], 
+        [
+            "U.S.", 
+            "173", 
+            "Neutral"
+        ], 
+        [
+            "Iraq", 
+            "176", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Lloyd Austin", 
+            "178", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Saturday:12", 
+        "2008:142", 
+        "Thursday:152"
+    ], 
+    "death": "15", 
+    "title": "15 killed in series of blasts in Iraq", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "A series of blasts struck an area west of Baghdad on Saturday where day labourers gather to find work , as well as a music and clothes market in the capital , killing at least 15 people , officials said . The second day of major attacks this week in Iraq underscored the challenges still facing the security forces as they approach a particularly fragile time . All American troops are scheduled to be out of Iraq in a matter of weeks , leaving Iraqi security forces with sole responsibility for securing the country . Violence has ebbed across Iraq , but deadly bombings and shootings still occur almost daily as U.S. troops prepare to leave by the end of the year . Iraqi security officials maintain that they are fully prepared for the withdrawal , which is required under a 2008 security pact between the U.S. and Iraq . On Thursday , three bombs struck the southern city of Basra , killing 19 people . Earlier this week , the top U.S. general in Iraq , Lloyd Austin , said there would likely be some turbulence after American troops depart , as militants try to strengthen their positions . But he did not think there would be a wholesale disintegration of security . AP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Iraq", 
+        "", 
+        "", 
+        "Baghdad", 
+        "west of Baghdad "
+    ], 
+    "O": [
+        "blasts:4", 
+        "labourers:15", 
+        "market:28", 
+        "killing:33", 
+        "attacks:47", 
+        "security forces:58", 
+        "american:69", 
+        "American troops:69", 
+        "Iraqi security forces:85", 
+        "violence:96", 
+        "deadly bombings:103", 
+        "U.S. troops:112", 
+        "Iraqi security officials:124", 
+        "withdrawal:135", 
+        "security pact:143", 
+        "bombs:155", 
+        "U.S. general:173", 
+        "American troops:189", 
+        "militants:194"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/15-killed-in-series-of-blasts-in-iraq/article2664160.ece", 
+    "date": "27-11-2011", 
+    "target": "Market Place", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

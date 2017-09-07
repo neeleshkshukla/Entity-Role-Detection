@@ -1,0 +1,125 @@
+{
+    "LOC": [
+        [
+            "Peshawar:109", 
+            "Event", 
+            "Event"
+        ], 
+        [
+            "Khyber Pakhtunkhwa ( KPK )", 
+            "13", 
+            "Neutral"
+        ], 
+        [
+            "KPK", 
+            "40", 
+            "Neutral"
+        ], 
+        [
+            "Peshawar", 
+            "48", 
+            "Event"
+        ], 
+        [
+            "Peshawar", 
+            "109", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Shiraz Paracha", 
+            "34", 
+            "Comment"
+        ], 
+        [
+            "Paracha", 
+            "81", 
+            "Comment"
+        ], 
+        [
+            "Meena Menon", 
+            "111", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "afternoon : 21"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Friday:20", 
+        "Sundays : 47"
+    ], 
+    "death": "19", 
+    "title": "Bus blast kills 19 govt. employees in Pakistan", 
+    "org_unorg": "ORGANISED", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "An explosion in a bus carrying employees of the state secretariat of Khyber Pakhtunkhwa ( KPK ) government on Friday afternoon killed at least 19 of them and injured 45 , according to Shiraz Paracha , spokesperson for the KPK Chief Minister . This comes after Sundays Peshawar church blast that claimed 80 lives . Police said a timer device was used to set off the bomb which could have been placed in a bag in the bus . Mr. Paracha told The Hindu on the phone that the bus was ferrying more than 60 government employees back home when the incident happened , 15 km away from Peshawar . Meena Menon OPEN", 
+    "injured": "45", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "ISLAMABAD", 
+        "bus"
+    ], 
+    "O": [
+        "explosion:2", 
+        "state secretariat:10", 
+        "chief minister:41", 
+        "church blast:49", 
+        "timer device:59", 
+        "bomb:67", 
+        "bag:75", 
+        "home:99", 
+        "incident:102"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/bus-blast-kills-19-govt-employees-in-pakistan/article5177599.ece", 
+    "date": "27-09-2013", 
+    "target": "GOVERNMENT PERSONNEL", 
+    "hot_spot": "bus", 
+    "delivery_mod": "BUS", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "state secretariat", 
+            "10", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "18", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "56", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "83", 
+            "Others"
+        ], 
+        [
+            "Hindu", 
+            "84", 
+            "Others"
+        ], 
+        [
+            "government", 
+            "96", 
+            "Others"
+        ]
+    ]
+}

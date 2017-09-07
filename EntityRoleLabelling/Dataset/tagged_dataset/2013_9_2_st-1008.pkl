@@ -1,0 +1,224 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Sri Lanka'
+p4
+aS'60'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Cuddalore'
+p8
+aS'73'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Tiruchi'
+p12
+aS'112'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Chennai'
+p16
+aS'116'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Sri Lanka'
+p20
+aS'128'
+p21
+aS'Accused Location'
+p22
+aasS'PER'
+p23
+(lp24
+(lp25
+S'Maheswaran'
+p26
+aS'32'
+p27
+aS'Accused'
+p28
+aS'Others'
+p29
+aa(lp30
+S'Sivanesan'
+p31
+aS'30'
+p32
+aS'Accused'
+p33
+aa(lp34
+S'Gopi'
+p35
+aS'34'
+p36
+aS'Accused'
+p37
+aa(lp38
+S'Sivanesan'
+p39
+aS'92'
+p40
+aS'Accused'
+p41
+aa(lp42
+S'Gopi'
+p43
+aS'94'
+p44
+aS'Accused'
+p45
+aasS'TIM'
+p46
+(lp47
+sS'hot_setting'
+p48
+S''
+p49
+sS'DAT'
+p50
+(lp51
+S'Friday:10'
+p52
+aS'December 2012:76'
+p53
+asS'death'
+p54
+g49
+sS'title'
+p55
+S'Two former LTTE men arrested'
+p56
+sS'org_unorg'
+p57
+g49
+sS'terror_group'
+p58
+(lp59
+S'LIBERATION TIGERS OF TAMIL EELAM (LTTE)'
+p60
+asS'content'
+p61
+S'The Q Branch CID of the State Intelligence on Friday arrested two persons alleged to be former LTTE men . Acting on a tip-off , a special team apprehended Sivanesan and Maheswaran alias Gopi , both Sri Lankan nationals , here . Agency sources said the two were part of a gang that conspired to trigger bomb blasts in Sri Lanka . They carried out trial blasts at a remote location in Cuddalore districts in December 2012 . The Q Branch had registered a case and arrested four persons then . Sivanesan and Gopi whose names figured in the case remained elusive . The suspects told investigators that they stayed in Tiruchi before moving to Chennai . They were agitated over Sinhalese people occupying Tamil-dominated areas in Sri Lanka and hence conspired to cause explosions there . The accused persons were produced in a city court and remanded in judicial custody , a police official said . OPEN'
+p62
+sS'injured'
+p63
+g49
+sS'det_loc'
+p64
+(lp65
+S'Sri Lanka'
+p66
+ag49
+ag49
+ag49
+ag49
+asS'O'
+p67
+(lp68
+S'arrested two persons:11'
+p69
+aS'tip-off:24'
+p70
+aS'sri lankan nationals:37'
+p71
+aS'agency:43'
+p72
+aS'gang:52'
+p73
+aS'trigger bomb:56'
+p74
+aS'trial blasts:66'
+p75
+aS'remote location:70'
+p76
+aS'arrested:87'
+p77
+aS'elusive:102'
+p78
+aS'suspects:105'
+p79
+aS'sinhalese people:122'
+p80
+aS'tamil-dominated areas:125'
+p81
+aS'explosions:135'
+p82
+aS'city court:145'
+p83
+aS'judicial custody:150'
+p84
+asS'unexpl'
+p85
+(lp86
+g49
+asS'ocassion'
+p87
+g49
+sS'link'
+p88
+S'http://www.thehindu.com/todays-paper/tp-miscellaneous/tp-others/two-former-ltte-men-arrested/article5084103.ece'
+p89
+sS'date'
+p90
+S'02-09-2013'
+p91
+sS'target'
+p92
+g49
+sS'hot_spot'
+p93
+g49
+sS'delivery_mod'
+p94
+g49
+sS'delivery_met'
+p95
+S'PLANTED'
+p96
+sS'expl'
+p97
+(lp98
+S'TRIGGER BOMB'
+p99
+asS'ORG'
+p100
+(lp101
+(lp102
+S'Q Branch CID'
+p103
+aS'2'
+p104
+aS'Others'
+p105
+aa(lp106
+S'State Intelligence'
+p107
+aS'7'
+p108
+aS'Others'
+p109
+aa(lp110
+S'LTTE'
+p111
+aS'18'
+p112
+aS'Accused'
+p113
+aa(lp114
+S'Q Branch'
+p115
+aS'80'
+p116
+aS'Others'
+p117
+aas.

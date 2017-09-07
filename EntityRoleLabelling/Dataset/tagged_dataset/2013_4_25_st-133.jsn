@@ -1,0 +1,215 @@
+{
+    "LOC": [
+        [
+            "Bangalore", 
+            "7", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "21", 
+            "Neutral"
+        ], 
+        [
+            "M.A. Chidambaram stadium", 
+            "43", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "103", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "120", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "141", 
+            "Neutral"
+        ], 
+        [
+            "Madurai", 
+            "145", 
+            "Neutral"
+        ], 
+        [
+            "Chennai", 
+            "254", 
+            "Neutral"
+        ], 
+        [
+            "Sunrisers Hyderabad", 
+            "258", 
+            "Neutral"
+        ], 
+        [
+            "Bangalore", 
+            "307", 
+            "Event"
+        ], 
+        [
+            "Chennai", 
+            "312", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bangalore", 
+            "344", 
+            "Event"
+        ], 
+        [
+            "Bangalore", 
+            "357", 
+            "Event"
+        ]
+    ], 
+    "PER": [
+        [
+            "M.A. Chidambaram", 
+            "43", 
+            "Others"
+        ], 
+        [
+            "K. Shankar", 
+            "162", 
+            "Others"
+        ], 
+        [
+            "Hyderabad", 
+            "259", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "8 p.m.:236"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:91", 
+        "April 17:122", 
+        "Wednesday:239", 
+        "Thursday:261"
+    ], 
+    "death": "", 
+    "title": "Security for IPL matches up", 
+    "det_loc": [
+        "India", 
+        "Karnataka", 
+        "", 
+        "Bangalore", 
+        "Bangalore"
+    ], 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Close on the heels of the Bangalore bomb blast and the arrest of two suspects allegedly involved in it in Chennai , intelligence agencies have written to the city police to enhance security arrangements for the ongoing IPL cricket matches at the M.A. Chidambaram stadium here . In a two-page note sent to the Police Commissioner , intelligence agencies suggested that watchtowers be erected at strategic locations around the stadium . Deployment of additional manpower , surveillance cameras and plainclothesmen was suggested at vantage points , police sources said on Wednesday . Though there was no specific threat to IPL matches in Chennai , the security alert , according to the sources , was consequent to the explosion in Bangalore on April 17 that left 17 persons injured . So far , police have arrested three persons , two in Chennai and one in Madurai , in connection with the blast . According to Joint Commissioner of Police ( East ) K. Shankar , police held a meeting with Tamil Nadu Cricket Association ( TNCA ) authorities on strengthening the security arrangements . Camera surveillance We have sought to bring the entire stadium premises under camera surveillance . Police will take over the stadium one day ahead of the match . A three-tier frisking mechanism is in place , he said . Armed security personnel were deployed at all entry points of the stadium since 8 p.m. on Wednesday . Six more matches are scheduled to be played here , including one between Chennai Super Kings and Sunrisers Hyderabad on Thursday . We have also tightened security at the hotel where players are staying . Police presence along the MRTS corridor that runs close to the stadium and all high-rise buildings in the vicinity has been enhanced . The fact that two suspects involved in the Bangalore blast being held in Chennai has prompted the alert , a police official said , adding that the Standard Operating Procedure for the IPL security included an evacuation process in the event of an exigency . Bangalore blast prompts alert from intelligence agenciesEntire stadium to come under camera surveillance Bangalore blast prompts alert from intelligence agencies Entire stadium to come under camera surveillance OPEN", 
+    "injured": "17", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "bomb blast:8", 
+        "arrest:12", 
+        "intelligence:23", 
+        "ipl cricket matches:38", 
+        "stadium:70", 
+        "deployment:72", 
+        "manpower:75", 
+        "surveillance:77", 
+        "tnca:175", 
+        "camera surveillance:184", 
+        "vicinity:294", 
+        "standard operating procedure:326", 
+        "exigency:342", 
+        "intelligence agenciesentire stadium:349", 
+        "camera surveillance:355", 
+        "stadium:365", 
+        "camera surveillance:369"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/security-for-ipl-matches-up/article4652342.ece", 
+    "date": "17-04-2013", 
+    "target": "", 
+    "hot_spot": "Bangalore", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "city police", 
+            "29", 
+            "Others"
+        ], 
+        [
+            "Police Commissioner , intelligence", 
+            "55", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "87", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "Joint Commissioner of Police", 
+            "155", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "165", 
+            "Others"
+        ], 
+        [
+            "Tamil Nadu Cricket Association", 
+            "170", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "199", 
+            "Others"
+        ], 
+        [
+            "Armed security personnel", 
+            "223", 
+            "Others"
+        ], 
+        [
+            "Chennai Super Kings", 
+            "254", 
+            "Others"
+        ], 
+        [
+            "Police", 
+            "276", 
+            "Others"
+        ], 
+        [
+            "police", 
+            "319", 
+            "Others"
+        ], 
+        [
+            "intelligence agenciesEntire", 
+            "349", 
+            "Others"
+        ], 
+        [
+            "intelligence agencies", 
+            "362", 
+            "Others"
+        ]
+    ]
+}

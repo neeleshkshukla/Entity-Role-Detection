@@ -1,0 +1,539 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Lower Assam'
+p4
+aS'15'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Nalbari'
+p8
+aS'19'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Nalbari'
+p12
+aS'37'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Guwahati'
+p16
+aS'46'
+p17
+aS'Neutral'
+p18
+aa(lp19
+S'Nalbari police station'
+p20
+aS'81'
+p21
+aS'Accused Location'
+p22
+aa(lp23
+S'Nalbari'
+p24
+aS'170'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Myanmar'
+p28
+aS'195'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Bhutan'
+p32
+aS'197'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Nagaland'
+p36
+aS'199'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Assam'
+p40
+aS'383'
+p41
+aS'Event'
+p42
+aa(lp43
+S'Panki'
+p44
+aS'426'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Uttar Pradesh'
+p48
+aS'428'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Assam'
+p52
+aS'639'
+p53
+aS'Event'
+p54
+aa(lp55
+S'New Delhi'
+p56
+aS'648'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'New Delhi'
+p60
+aS'730'
+p61
+aS'Neutral'
+p62
+aasS'PER'
+p63
+(lp64
+(lp65
+S'Bosa Singh'
+p66
+aS'225'
+p67
+aS'Others'
+p68
+aa(lp69
+S'Pinku Phukon'
+p70
+aS'228'
+p71
+aS'Others'
+p72
+aa(lp73
+S'Upen Borgohain'
+p74
+aS'231'
+p75
+aS'Others'
+p76
+aa(lp77
+S'Bimal Kalita'
+p78
+aS'234'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Swadhin Ray'
+p82
+aS'237'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Rajani Kanta Singha'
+p86
+aS'240'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Pulak Bharali'
+p90
+aS'244'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Hitesh Ray'
+p94
+aS'247'
+p95
+aS'Others'
+p96
+aa(lp97
+S'Akon Moran'
+p98
+aS'250'
+p99
+aS'Others'
+p100
+aa(lp101
+S'Jitmol Doley'
+p102
+aS'290'
+p103
+aS'Comment'
+p104
+aa(lp105
+S'Sasha Choudhury'
+p106
+aS'360'
+p107
+aS'Others'
+p108
+aa(lp109
+S'Chitrabon Hazarika'
+p110
+aS'365'
+p111
+aS'Others'
+p112
+aa(lp113
+S'Hira Saraniya'
+p114
+aS'433'
+p115
+aS'Others'
+p116
+aa(lp117
+S'Tarun Gogoi'
+p118
+aS'642'
+p119
+aS'Others'
+p120
+aasS'TIM'
+p121
+(lp122
+S'9.55 am : 75'
+p123
+aS'15 minutes : 110'
+p124
+aS'week : 415'
+p125
+aS'week : 586'
+p126
+asS'hot_setting'
+p127
+S''
+p128
+sS'DAT'
+p129
+(lp130
+S'Sunday:33'
+p131
+aS'Sunday:71'
+p132
+aS'November 27:186'
+p133
+aS'November 27:259'
+p134
+aS'1991:272'
+p135
+aS'Sunday:452'
+p136
+aS'November 22:757'
+p137
+asS'death'
+p138
+S'7'
+p139
+sS'title'
+p140
+S'7 killed, 55 injured in Assam blast'
+p141
+sS'org_unorg'
+p142
+g128
+sS'terror_group'
+p143
+(lp144
+S'UNITED LIBERATION FRONT OF ASSAM (ULFA)'
+p145
+asS'content'
+p146
+VGUWAHATI : In another gruesome bomb explosion triggered by suspected ULFA militants in the Lower Assam township of Nalbari , around 7 people were killed and over 55 people were injured on Sunday . . . Nalbari which is 70 km away from capital city Guwahati was once the bastion of the ULFA . However , over the years , it has turned out to be peaceful place . On Sunday , at around 9.55 am , close to the Nalbari police station , which is in the heart of the town , an explosion took place . The bomb was concealed in a bicycle . . . Just 15 minutes later , another powerful explosion took place around 20 feet away from the spot of the first explosion . Five people died on spot . There was complete confusion and chaos in the township . . . Sources in intelligence agencies added , `` Already , inputs were there that nine member bombers from ULFA have sneaked to Nalbari with the specific task of carrying out subversive activities prior to the Protest Day on November 27 . These cadres have sneaked in from Myanmar , Bhutan and Nagaland . The details of these cadres were provided in Assam police website . '' . . Sources further said , `` The nine cadres are Bosa Singh , Pinku Phukon , Upen Borgohain , Bimal Kalita , Swadhin Ray , Rajani Kanta Singha , Pulak Bharali , Hitesh Ray and Akon Moran . '' . . The outfit observes November 27 as Protest Day following launching of operation against the outfit on 1991 and declaration of the outfit as banned . . . Superintendent of police of the district , Jitmol Doley , told ET , `` The first bomb was kept in a bicycle . Our investigation is on and only after investigations , can we say with certainty what was used to trigger the explosions . '' . . Sources in the police are not ruling the possibility of the twin explosions being triggered as retaliatory attacks as two of the outfit 's leaders -- self-styled foreign secretary Sasha Choudhury and finance secretary Chitrabon Hazarika were picked up by security forces . Both the leaders are presently under police custody in Assam . . . Already , ULFA militants have demonstrated their retaliatory postures when they blew up wagons of a tanker train carrying high-speed diesel ( HSD ) and petrol early this week . Goods from the Numaligarh Refinery Limited were heading to Panki in Uttar Pradesh . . . Hira Saraniya , commander of ULFA 's 709 battalion , the battalion which has been believed to have masterminded Sunday 's attack , called up media houses and claimed that the ULFA has no role in the explosions . . . He argued that ULFA has the capability of triggering explosions at any place . However , with the process being initiated for starting peace talks with the government and ULFA , this may be the handiwork of a third force . . . He stated that ULFA has never targeted innocent people . A senior official in the state police , however , is not ready to buy this argument . `` Whenever there is human casualty , the ULFA denies it . There is nothing unusual in it . They are escaping from incurring public wrath . '' . . Sources in the police said three explosions in less than a week 's time might be an attempt of the ULFA to show their strength . `` They want to show that they are capable of carrying out big strikes despite the arrest of two leaders . They want to convey the message that the outfit has enough fire power . '' . . Assam chief minister Tarun Gogoi , who is in New Delhi , condemned the twin blast . He said those responsible for it would be apprehended . `` I have directed the district authorities to launch a massive operation and nab those involved in the bomb blasts immediately . '' . . This explosion has taken at a time when the People 's Committee for Peace Initiatives in Assam ( PCPIA ) , an umbrella body of 28 different organizations of the state , was readying to take a delegation to New Delhi for pressurizing the Centre to start the peace process with banned outfit , ULFA . The delegation is likely to visit the state capital on November 22 to meet the Prime Minister and the union home minister , the leader of the opposition and leaders of North East MPs ' Forum .
+p147
+sS'injured'
+p148
+S'55'
+p149
+sS'det_loc'
+p150
+(lp151
+S'India'
+p152
+aS'Assam'
+p153
+aS'Nalbari'
+p154
+ag128
+ag128
+asS'O'
+p155
+(lp156
+S'bomb explosion:6'
+p157
+aS'militants:12'
+p158
+aS'explosion:95'
+p159
+aS'bomb:100'
+p160
+aS'bicycle:105'
+p161
+aS'powerful explosion:115'
+p162
+aS'first explosion:128'
+p163
+aS'intelligence agencies:151'
+p164
+aS'Protest Day:183'
+p165
+aS'cadres:190'
+p166
+aS'website:211'
+p167
+aS'nine cadres:222'
+p168
+aS'outfit:257'
+p169
+aS'Protest Day:262'
+p170
+aS'outfit:277'
+p171
+aS'first bomb:298'
+p172
+aS'bicycle:304'
+p173
+aS'investigation:307'
+p174
+aS'investigations:313'
+p175
+aS'explosions:326'
+p176
+aS'twin explosions:342'
+p177
+aS'retaliatory attacks:347'
+p178
+aS"outfit 's leaders:353"
+p179
+aS'security forces:371'
+p180
+aS'retaliatory postures:394'
+p181
+aS'high-speed diesel:406'
+p182
+aS'HSD:409'
+p183
+aS'709 battalion:440'
+p184
+aS'battalion:444'
+p185
+aS'attack:454'
+p186
+aS'explosions:470'
+p187
+aS'explosions:483'
+p188
+aS'peace talks:497'
+p189
+aS'third force:512'
+p190
+aS'argument:543'
+p191
+aS'three explosions:580'
+p192
+aS'big strikes:613'
+p193
+aS'outfit:630'
+p194
+aS'twin blast:653'
+p195
+aS'bomb blasts:684'
+p196
+aS'explosion:692'
+p197
+aS'organizations:718'
+p198
+aS'banned outfit:742'
+p199
+aS"North East MPs ' Forum:778"
+p200
+asS'unexpl'
+p201
+(lp202
+g128
+asS'ocassion'
+p203
+g128
+sS'link'
+p204
+S'http://articles.economictimes.indiatimes.com/2009-11-22/news/28396834_1_ulfa-militants-chitrabon-hazarika-nalbari'
+p205
+sS'date'
+p206
+S'22-11-2009'
+p207
+sS'target'
+p208
+S'TOWN'
+p209
+sS'hot_spot'
+p210
+g128
+sS'delivery_mod'
+p211
+S'BYCICLE'
+p212
+sS'delivery_met'
+p213
+S'PLANTED'
+p214
+sS'expl'
+p215
+(lp216
+g128
+asS'ORG'
+p217
+(lp218
+(lp219
+S'ULFA'
+p220
+aS'11'
+p221
+aS'Accused'
+p222
+aa(lp223
+S'ULFA'
+p224
+aS'53'
+p225
+aS'Accused'
+p226
+aa(lp227
+S'ULFA'
+p228
+aS'166'
+p229
+aS'Accused'
+p230
+aa(lp231
+S'Assam police'
+p232
+aS'209'
+p233
+aS'Others'
+p234
+aa(lp235
+S'ET'
+p236
+aS'294'
+p237
+aS'Others'
+p238
+aa(lp239
+S'ULFA'
+p240
+aS'389'
+p241
+aS'Others'
+p242
+aa(lp243
+S'Numaligarh Refinery Limited'
+p244
+aS'420'
+p245
+aS'Others'
+p246
+aa(lp247
+S'ULFA'
+p248
+aS'438'
+p249
+aS'Others'
+p250
+aa(lp251
+S'ULFA'
+p252
+aS'464'
+p253
+aS'Others'
+p254
+aa(lp255
+S'ULFA'
+p256
+aS'477'
+p257
+aS'Others'
+p258
+aa(lp259
+S'government'
+p260
+aS'501'
+p261
+aS'Others'
+p262
+aa(lp263
+S'ULFA'
+p264
+aS'503'
+p265
+aS'Others'
+p266
+aa(lp267
+S'ULFA'
+p268
+aS'520'
+p269
+aS'Others'
+p270
+aa(lp271
+S'ULFA'
+p272
+aS'553'
+p273
+aS'Others'
+p274
+aa(lp275
+S'ULFA'
+p276
+aS'595'
+p277
+aS'Others'
+p278
+aa(lp279
+S"People 's Committee for Peace Initiatives in Assam"
+p280
+aS'700'
+p281
+aS'Others'
+p282
+aa(lp283
+S'PCPIA'
+p284
+aS'709'
+p285
+aS'Others'
+p286
+aa(lp287
+S'Centre'
+p288
+aS'735'
+p289
+aS'Others'
+p290
+aa(lp291
+S'ULFA'
+p292
+aS'745'
+p293
+aS'Others'
+p294
+aas.

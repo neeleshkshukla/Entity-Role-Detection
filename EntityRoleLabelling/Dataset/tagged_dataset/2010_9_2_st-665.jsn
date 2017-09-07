@@ -1,0 +1,104 @@
+{
+    "LOC": [
+        [
+            "Lahore", 
+            "31", 
+            "Event"
+        ], 
+        [
+            "Karbala Gamay Shah", 
+            "69", 
+            "Event"
+        ], 
+        [
+            "Bhatti Chowk", 
+            "98", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "151", 
+            "Neutral"
+        ], 
+        [
+            "Lahore", 
+            "199", 
+            "Neutral"
+        ], 
+        [
+            "Empress Market", 
+            "210", 
+            "Neutral"
+        ], 
+        [
+            "Karachi", 
+            "213", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Pakistan", 
+            "233", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Hazrat Ali", 
+            "28", 
+            "Others"
+        ], 
+        [
+            "Khusro Pervez", 
+            "153", 
+            "Others"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday evening:33", 
+        "Wednesday:33", 
+        "Wednesday evening:33"
+    ], 
+    "death": "12", 
+    "title": "12 killed in Lahore blasts", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "Lahore", 
+        ""
+    ], 
+    "terror_group": [
+        "Miscreants,Dacoits & Smuggler Gang"
+    ], 
+    "content": "At least a dozen people were feared killed and over 100 injured in three blasts that disrupted Youm-e-Ali ' the Shia procession to mark the martyrdom of Hazrat Ali in Lahore on Wednesday evening . The suicide bomb attacks were followed by mob ire on the police , resulting in stone pelting and the torching of vehicles of security personnel . The first two blasts took place near Karbala Gamay Shah , where the procession was headed . As panic-stricken members of the congregation fled the scene of the blast , a suicide bomber detonated himself at Bhatti Chowk in the vicinity , consuming the maximum number of lives and leaving a trail of injured people . Even as the injured were being rushed to hospitals , angry participants in the procession turned their anger to the police , leading to reports of violence breaking out in nearby areas . Lahore Commissioner Khusro Pervez told journalists that this was a very well-planned and coordinated attack as the suicide bomber the deadliest of the three attacks managed to penetrate the security cordon in the melee of the initial blasts . Gunmen open fire Ahead of the attack on the Lahore procession , gunmen opened fire at a similar procession near Empress Market in Karachi , injuring six people . The gunmen fired from atop a building along the route of the procession through Pakistan 's commercial capital . OPEN", 
+    "injured": "100", 
+    "org_unorg": "Organized", 
+    "O": [
+        "procession:22", 
+        "martyrdom:26", 
+        "suicide bomb:37", 
+        "security:59", 
+        "procession:75", 
+        "blast:90", 
+        "suicide bomber:93", 
+        "suicide bomber:168", 
+        "security cordon:180", 
+        "capital:236"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/12-killed-in-lahore-blasts/article608329.ece", 
+    "date": "02-09-2010", 
+    "target": "Religious Places", 
+    "hot_spot": "", 
+    "delivery_mod": "Human", 
+    "delivery_met": "Stored", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

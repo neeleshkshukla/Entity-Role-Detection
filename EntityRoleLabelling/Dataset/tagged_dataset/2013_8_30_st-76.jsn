@@ -1,0 +1,570 @@
+{
+    "LOC": [
+        [
+            "Punes", 
+            "29", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bakerys", 
+            "48", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mumbai", 
+            "146", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Pune", 
+            "151", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bodh Gaya", 
+            "156", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Pune", 
+            "197", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Bodhgaya", 
+            "213", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Maharashtra", 
+            "260", 
+            "Neutral"
+        ], 
+        [
+            "Aurangabad", 
+            "272", 
+            "Neutral"
+        ], 
+        [
+            "Jalna", 
+            "274", 
+            "Neutral"
+        ], 
+        [
+            "Beedand Nagpur", 
+            "276", 
+            "Neutral"
+        ], 
+        [
+            "Maharashtra", 
+            "279", 
+            "Neutral"
+        ], 
+        [
+            "Darbhanga", 
+            "289", 
+            "Neutral"
+        ], 
+        [
+            "Bihar", 
+            "291", 
+            "Neutral"
+        ], 
+        [
+            "Batla House", 
+            "310", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Dubai", 
+            "392", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "402", 
+            "Neutral"
+        ], 
+        [
+            "Delhi", 
+            "424", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Mumbai train", 
+            "461", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Maharashtra", 
+            "499", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "516", 
+            "Neutral"
+        ], 
+        [
+            "Mumbai", 
+            "541", 
+            "Neutral"
+        ], 
+        [
+            "Pune", 
+            "635", 
+            "Event"
+        ], 
+        [
+            "Beed", 
+            "654", 
+            "Victim Location"
+        ]
+    ], 
+    "PER": [
+        [
+            "Yasin", 
+            "3", 
+            "Accused"
+        ], 
+        [
+            "Yasin Bhatkal", 
+            "3", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "90", 
+            "Accused"
+        ], 
+        [
+            "Mohammad Arif Shaikh", 
+            "115", 
+            "Assoc Accused"
+        ], 
+        [
+            "Yasin", 
+            "119", 
+            "Accused"
+        ], 
+        [
+            "Bhatkal", 
+            "229", 
+            "Accused"
+        ], 
+        [
+            "Riyaz", 
+            "240", 
+            "Assoc Accused"
+        ], 
+        [
+            "Riyaz Bhatkal", 
+            "240", 
+            "Assoc Accused"
+        ], 
+        [
+            "Yasin", 
+            "243", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "333", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "366", 
+            "Accused"
+        ], 
+        [
+            "Qatil Siddhique", 
+            "398", 
+            "Others"
+        ], 
+        [
+            "Yasin", 
+            "417", 
+            "Accused"
+        ], 
+        [
+            "Bhatkals", 
+            "444", 
+            "Accused"
+        ], 
+        [
+            "Saddiq Sheikh", 
+            "522", 
+            "Assoc Accused"
+        ], 
+        [
+            "Bhatkals", 
+            "567", 
+            "Accused"
+        ], 
+        [
+            "Himayat Baig", 
+            "589", 
+            "Accused"
+        ], 
+        [
+            "Himayat", 
+            "589", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "590", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "606", 
+            "Accused"
+        ], 
+        [
+            "Bhatkals", 
+            "615", 
+            "Accused"
+        ], 
+        [
+            "Baig", 
+            "624", 
+            "Accused"
+        ], 
+        [
+            "Yasin", 
+            "659", 
+            "Accused"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "2010:33", 
+        "2006:68", 
+        "2008:100", 
+        "2011 : 145", 
+        "2012 : 150", 
+        "2012 : 196", 
+        "2008:307", 
+        "2007:466", 
+        "2010:474"
+    ], 
+    "death": "", 
+    "title": "A big blow to Indian Mujahideens bomb-making, recruitment skills", 
+    "det_loc": [
+        "India", 
+        "Maharashtra", 
+        "Mumbai-City", 
+        "mumbai", 
+        ""
+    ], 
+    "terror_group": [
+        "Indian Mujahideen"
+    ], 
+    "content": "Till now Yasin Bhatkal was an image captured by the CCTV but never by the police . The dreaded Indian Mujahideen ( IM ) terrorist had boldly entered Punes German Bakery in 2010 , planted a deadly bomb and melted into the crowd . Images from the Bakerys video cameras were all the police were left with . His arrest now after being on the run since 2006 is a major victory for security agencies . The immediate fallout will be a dent in the IMs bomb-making skills . Bhatkal had been entrusted with assembling the IMs bombs since 2008 . A responsibility he was given after the arrest of the terror outfits bomb-maker Mohammad Arif Shaikh . Yasin made bombs for the majority of the IMs attacks , intelligence sources told The Hindu . If you study the German bakery blast , the 2011 Mumbai blasts , the 2012 Pune blasts and the recent Bodh Gaya blasts , you can see an uncanny similarity in the way the bombs were manufactured , the sources said . With each blast , the bombs become more sophisticated . Yasin learnt from past mistakes . In the 2012 Pune blasts , the circuits were loosely assembled . This error was not repeated in the Bodhgaya blasts . The arrest will also impact the IMs recruitment and financing , in which Bhatkal also played a key role . Along with IM founder Riyaz Bhatkal , Yasin was instrumental in forming the Punemodule , among the strongest units of the outfit . Across Maharashtra , he built a network of sleeper cells in districts including Aurangabad , Jalna , Beedand Nagpur , Maharashtra ATS sources say . Later he shifted recruitment to Darbhanga in Bihar , where he had studied . After the mass arrests of the Indian Mujahideen in 2008 and the Batla House encounter , the IM could no longer recruit engineers , doctors or highly educated men . The Darbhanga module formed by Yasin mostly included uneducated youth who joined the outfit not for the ideology but for the money , said an ATS source . Master in fake currency Informed sources told The Hindu that Yasin , a master in fake currency , had arranged finances for most of the IMs bombings . The money was sourced through hawala operators in Dubai . After the arrest of Qatil Siddhique by the Delhi special cell , we learnt more about the funding operations of the group . Yasin had given him money for the Delhi blasts through hawala . One of the operators is in our custody , said an ATS source . Yet Bhatkals arrest could boomerang on two key cases in which the IM is allegedly involved : the Mumbai train blasts case of 2007 and the German Bakery blast case of 2010 . It could even derail these trials where investigators may have been on the wrong trail . In the train blasts case , the Maharashtra ATS arrested men from the LeT and the SIMI . However in his confession to the Mumbai crime branch , IM operative Saddiq Sheikh claimed that the train blasts were the handiwork of the IM . A theory supported by the Mumbai crime branch in its report to the State Home department . However , the ATS continued to maintain that the LeT operatives were guilty . Bhatkals version on the bombing could impact the trial . German Bakery case In the German Bakery case , the ATS arrested Himayat Baig , who was later awarded the death sentence . Here too , intelligence sources say Baig might have only played a minor role and Bhatkals arrest could reveal that . We suspect that Baig played the role of providing logistics and wasnt present in Pune on the day of the blasts . But the ATS claimed that he was present and escaped to Beed after the incident . Yasin , who is wanted in the case and is seen in the CCTV footage planting the bombs , will be able to reveal the exact details , intelligence sources told The Hindu . It will also impact the IMs recruitment and financingIt could boomerang on two key cases in which IM is involved It will also impact the IMs recruitment and financing It could boomerang on two key cases in which IM is involved OPEN", 
+    "injured": "", 
+    "org_unorg": "Organized", 
+    "O": [
+        "cctv:11", 
+        "terrorist:25", 
+        "arrest:60", 
+        "run:66", 
+        "victory:72", 
+        "security:74", 
+        "fallout:79", 
+        "dent:83", 
+        "bomb-making:87", 
+        "responsibility:103", 
+        "arrest:109", 
+        "terror outfits bomb-maker:112", 
+        "yasin:119", 
+        "majority:124", 
+        "intelligence:130", 
+        "study:138", 
+        "similarity:165", 
+        "way:168", 
+        "blast:180", 
+        "error:207", 
+        "arrest:217", 
+        "impact:220", 
+        "recruitment:223", 
+        "financing:225", 
+        "key role:233", 
+        "outfit:257", 
+        "network:265", 
+        "sleeper:267", 
+        "recruitment:287", 
+        "mass:300", 
+        "encounter:312", 
+        "ideology:345", 
+        "money:349", 
+        "source:354", 
+        "master:356", 
+        "fake currency:358", 
+        "master:369", 
+        "fake currency:371", 
+        "money:385", 
+        "hawala:389", 
+        "arrest:396", 
+        "cell:404", 
+        "funding:411", 
+        "group:415", 
+        "money:421", 
+        "hawala:427", 
+        "custody:436", 
+        "source:441", 
+        "arrest:445", 
+        "boomerang:447", 
+        "key:450", 
+        "case:464", 
+        "blast case:471", 
+        "trail:490", 
+        "train:494", 
+        "case:496", 
+        "confession:513", 
+        "crime branch:517", 
+        "train:527", 
+        "handiwork:531", 
+        "theory:537", 
+        "crime branch:542", 
+        "report:546", 
+        "state home department:549", 
+        "version:568", 
+        "bombing:571", 
+        "impact:573", 
+        "trial:575", 
+        "case:579", 
+        "case:584", 
+        "death sentence:597", 
+        "intelligence:603", 
+        "baig:606", 
+        "role:613", 
+        "arrest:616", 
+        "suspect:622", 
+        "role:627", 
+        "wasnt:632", 
+        "day:638", 
+        "incident:657", 
+        "case:666", 
+        "cctv:672", 
+        "cctv footage:672", 
+        "footage:673", 
+        "intelligence:687", 
+        "impact:696", 
+        "recruitment:699", 
+        "financingit:701", 
+        "boomerang:703"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-national/a-big-blow-to-indian-mujahideens-bombmaking-recruitment-skills/article5073794.ece", 
+    "date": "29-08-2013", 
+    "target": "Hotel and Restaurant", 
+    "hot_spot": "Bakery", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Indian Mujahideen", 
+            "20", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "23", 
+            "Accused"
+        ], 
+        [
+            "German Bakery", 
+            "30", 
+            "Victim"
+        ], 
+        [
+            "IMs", 
+            "86", 
+            "Accused"
+        ], 
+        [
+            "IMs", 
+            "97", 
+            "Accused"
+        ], 
+        [
+            "IMs", 
+            "127", 
+            "Accused"
+        ], 
+        [
+            "The Hindu", 
+            "133", 
+            "Others"
+        ], 
+        [
+            "Hindu", 
+            "134", 
+            "Others"
+        ], 
+        [
+            "German bakery", 
+            "140", 
+            "Victim"
+        ], 
+        [
+            "IMs", 
+            "222", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "238", 
+            "Accused"
+        ], 
+        [
+            "Punemodule", 
+            "249", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "280", 
+            "Others"
+        ], 
+        [
+            "Indian Mujahideen", 
+            "304", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "315", 
+            "Accused"
+        ], 
+        [
+            "Darbhanga module", 
+            "329", 
+            "Assoc Accused"
+        ], 
+        [
+            "ATS", 
+            "353", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "363", 
+            "Others"
+        ], 
+        [
+            "Hindu", 
+            "364", 
+            "Others"
+        ], 
+        [
+            "IMs", 
+            "381", 
+            "Accused"
+        ], 
+        [
+            "ATS", 
+            "440", 
+            "Others"
+        ], 
+        [
+            "IM", 
+            "455", 
+            "Accused"
+        ], 
+        [
+            "German Bakery", 
+            "469", 
+            "Victim"
+        ], 
+        [
+            "ATS", 
+            "500", 
+            "Others"
+        ], 
+        [
+            "LeT", 
+            "505", 
+            "Assoc Accused"
+        ], 
+        [
+            "SIMI", 
+            "508", 
+            "Assoc Accused"
+        ], 
+        [
+            "IM", 
+            "520", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "534", 
+            "Accused"
+        ], 
+        [
+            "LeT", 
+            "562", 
+            "Assoc Accused"
+        ], 
+        [
+            "German Bakery", 
+            "577", 
+            "Victim"
+        ], 
+        [
+            "German Bakery", 
+            "582", 
+            "Victim"
+        ], 
+        [
+            "ATS", 
+            "587", 
+            "Others"
+        ], 
+        [
+            "ATS", 
+            "645", 
+            "Others"
+        ], 
+        [
+            "The Hindu", 
+            "690", 
+            "Others"
+        ], 
+        [
+            "Hindu", 
+            "691", 
+            "Others"
+        ], 
+        [
+            "IMs", 
+            "698", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "710", 
+            "Accused"
+        ], 
+        [
+            "IMs", 
+            "718", 
+            "Accused"
+        ], 
+        [
+            "IM", 
+            "731", 
+            "Accused"
+        ]
+    ]
+}

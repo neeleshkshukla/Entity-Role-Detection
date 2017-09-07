@@ -1,0 +1,128 @@
+{
+    "LOC": [
+        [
+            "MOSCOW", 
+            "11", 
+            "Neutral"
+        ], 
+        [
+            "Moscow", 
+            "27", 
+            "Neutral"
+        ], 
+        [
+            "Moscow", 
+            "56", 
+            "Neutral"
+        ], 
+        [
+            "Moscow", 
+            "99", 
+            "Neutral"
+        ], 
+        [
+            "Russian", 
+            "272", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Monday:29", 
+        "Monday:64", 
+        "February:75", 
+        "February 2004:75", 
+        "August:101", 
+        "August 2004:101", 
+        "February 2004:122", 
+        "February:122", 
+        "Monday:126", 
+        "2004:146", 
+        "Monday:209", 
+        "Monday:371"
+    ], 
+    "death": "38", 
+    "title": "Target of Chechen terrorists", 
+    "org_unorg": "Organized", 
+    "terror_group": [
+        ""
+    ], 
+    "content": "Vladimir Radyuhin Both stations were packed during the rush hour MOSCOW : The two suicide bomb attacks that killed 38 people and wounded over 60 in Moscow on Monday targeted the city 's busy subway system , a favourite target of Chechen terrorists . In the past six years militants mounted five attacks on the Moscow Metro . In terms of casualties , Monday 's bombings were the worst attack on the capital since February 2004 , when a suicide bombing killed at least 41 people on a metro train . There have been no terrorist attacks in Moscow since August 2004 , when a suicide bomber blew herself up outside a subway station , killing 10 people . As in February 2004 , on Monday women suicide bombers set off their homemade bombs strapped to their bodies when they were inside trains . In 2004 , the blast occurred when the train was travelling in a tunnel , which explains why it caused more casualties than the current two blasts that ripped through trains parked at stations . Eye-witnesses said that surprisingly there was little panic among passengers and this helped avoid more casualties as thousands of people were evacuated outside . Both metro stations bombed on Monday Lubyanka and Park Kultury are busy interchange stations and are packed during rush hour . They are situated in the city centre and the blasts not only halted train service on several lines , but also paralysed all traffic above as police sealed off streets to give free passage to dozens of ambulances that rushed wounded passengers to hospital . Even as Russian authorities strengthened security and installed closed circuit TV on all stations and in trains , officials conceded it was impossible to provide 100 per cent protection to the underground transport system . Experts said it was not feasible to set up airport-style screening that could detect explosives and metal objects as this would disrupt subway traffic . However , thanks to CCTV police could promptly identify the two suicide bombers and their three accomplices and launch a manhunt for them . Interestingly , none of the metro blasts caused much damage to the subway stations themselves . On Monday , both bombed stations reopened for traffic in the afternoon . The Moscow Metro has 298.8 km of route length , 12 lines and 180 stations ; on a normal weekday it carries about 8 million passengers . OPEN", 
+    "injured": "60", 
+    "det_loc": [
+        "Russia", 
+        "", 
+        "", 
+        "Moscow", 
+        "Vladimir Radyuhin Both station"
+    ], 
+    "O": [
+        "rush hour:9", 
+        "rush hour moscow:9", 
+        "moscow:11", 
+        "suicide bomb:15", 
+        "city:32", 
+        "subway system:35", 
+        "target:40", 
+        "attack:70", 
+        "capital:73", 
+        "suicide bombing:80", 
+        "metro train:89", 
+        "terrorist:96", 
+        "suicide bomber:106", 
+        "subway station:113", 
+        "suicide:128", 
+        "set:130", 
+        "homemade:133", 
+        "blast:149", 
+        "train:153", 
+        "tunnel:158", 
+        "panic:187", 
+        "metro:205", 
+        "interchange:216", 
+        "rush hour:222", 
+        "city centre:230", 
+        "halted train service:237", 
+        "traffic:248", 
+        "passage:258", 
+        "hospital:268", 
+        "security:275", 
+        "circuit tv:279", 
+        "cent protection:297", 
+        "transport system:302", 
+        "set:312", 
+        "screening:315", 
+        "metal:321", 
+        "subway traffic:327", 
+        "cctv:334", 
+        "cctv police:334", 
+        "suicide:341", 
+        "launch:348", 
+        "manhunt:350", 
+        "none:356", 
+        "metro:359", 
+        "damage:363", 
+        "subway:366", 
+        "traffic:378", 
+        "afternoon:381", 
+        "km:388", 
+        "route length:390", 
+        "weekday:402"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/target-of-chechen-terrorists/article737737.ece", 
+    "date": "30-03-2010", 
+    "target": "Railway Station", 
+    "hot_spot": "", 
+    "delivery_mod": "", 
+    "delivery_met": "", 
+    "expl": [
+        ""
+    ], 
+    "ORG": []
+}

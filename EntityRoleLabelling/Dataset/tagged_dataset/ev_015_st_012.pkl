@@ -1,0 +1,586 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'NEW DELHI'
+p4
+aS'17'
+p5
+aS'Neutral'
+p6
+aa(lp7
+S'Dimapur'
+p8
+aS'46'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Nagaland'
+p12
+aS'48'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Assam'
+p16
+aS'51'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Assam'
+p20
+aS'62'
+p21
+aS'Event'
+p22
+aa(lp23
+S'Nagaland'
+p24
+aS'71'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Nagaland'
+p28
+aS'260'
+p29
+aS'Neutral'
+p30
+aa(lp31
+S'Assam'
+p32
+aS'311'
+p33
+aS'Neutral'
+p34
+aa(lp35
+S'Assam'
+p36
+aS'346'
+p37
+aS'Neutral'
+p38
+aa(lp39
+S'Assam'
+p40
+aS'383'
+p41
+aS'Neutral'
+p42
+aa(lp43
+S'Nagaland'
+p44
+aS'385'
+p45
+aS'Neutral'
+p46
+aa(lp47
+S'Manipur'
+p48
+aS'477'
+p49
+aS'Neutral'
+p50
+aa(lp51
+S'Nagaland'
+p52
+aS'480'
+p53
+aS'Neutral'
+p54
+aa(lp55
+S'Assam'
+p56
+aS'482'
+p57
+aS'Neutral'
+p58
+aa(lp59
+S'Guwahati'
+p60
+aS'501'
+p61
+aS'Neutral'
+p62
+aa(lp63
+S'Assam'
+p64
+aS'508'
+p65
+aS'Neutral'
+p66
+aa(lp67
+S'Assam'
+p68
+aS'600'
+p69
+aS'Neutral'
+p70
+aa(lp71
+S'Assam'
+p72
+aS'616'
+p73
+aS'Neutral'
+p74
+aasS'PER'
+p75
+(lp76
+(lp77
+S'A.P.J. Abdul Kalam'
+p78
+aS'26'
+p79
+aS'Others'
+p80
+aa(lp81
+S'Tarun Gogoi'
+p82
+aS'66'
+p83
+aS'Others'
+p84
+aa(lp85
+S'Neiphiu Rio'
+p86
+aS'75'
+p87
+aS'Others'
+p88
+aa(lp89
+S'Kalam'
+p90
+aS'79'
+p91
+aS'Others'
+p92
+aa(lp93
+S'Shivraj Patil'
+p94
+aS'378'
+p95
+aS'Others'
+p96
+aa(lp97
+S'Vijay Kumar Malhotra'
+p98
+aS'450'
+p99
+aS'Others'
+p100
+aa(lp101
+S'Dhruba Baishya'
+p102
+aS'574'
+p103
+aS'Comment'
+p104
+aasS'TIM'
+p105
+(lp106
+S'yesterday : 52'
+p107
+aS'today : 219'
+p108
+aS'today : 509'
+p109
+aS'yesterday : 512'
+p110
+aS'12-hour : 615'
+p111
+aS'tomorrow : 618'
+p112
+aS'tomorrow : 638'
+p113
+asS'hot_setting'
+p114
+S''
+p115
+sS'DAT'
+p116
+(lp117
+S'OCT. 3 : 20'
+p118
+asS'death'
+p119
+g115
+sS'title'
+p120
+S'Kalam condoles loss of lives in blasts'
+p121
+sS'org_unorg'
+p122
+g115
+sS'terror_group'
+p123
+(lp124
+g115
+asS'content'
+p125
+VNational Kalam condoles loss of lives in blasts . . By Our Special Correspondent . . NEW DELHI , OCT. 3 . The President , A.P.J. Abdul Kalam , has condoled the loss of lives in a series of bomb blasts and militant attacks at Dimapur in Nagaland and in Assam yesterday . . . In separate condolence messages to the Assam Chief Minister , Tarun Gogoi , and the Nagaland Chief Minister , Neiphiu Rio , Mr. Kalam said that the acts of violence ` are to be condemned and are reprehensible acts of people who do not value innocent human lives , even those of women and children . '' . . ' I fervently hope that permanent peace will return to the State soon . I am sure the State Governments have made all arrangements to treat the injured and provide succour to the families of those who have lost their loved ones , ' he said . . . Strategy sought . . The Communist Party of India , the Communist Party of India -LRB- Marxist -RRB- and the Bharatiya Janata Party have condemned the blasts and called upon the Centre , the State Governments and the authorities to work out a strategy to counter such incidents . . . In a statement here today , the CPI -LRB- M -RRB- Polit Bureau said that the Central Government should immediately convene meetings with the State Governments and other authorities in the North-East to work out a strategy . . . Expressing shock and condemning the Nagaland blasts , the CPI -LRB- M -RRB- said that the ` premeditated manner ' in which the bombs were placed at the railway station and the market showed the ` aim of the attacks is to disrupt peaceful atmosphere in the State . ' . . On the attacks in Assam , they said , ` All attempts to foment ethnic conflicts through such violent attacks have no support from the common people . The growing trend of extremist groups resorting to indiscriminate violence in Assam must be countered by firm action and popular mobilisation to isolate them . ' . . ` Talk to State Governments ' . . The CPI urged the Home Minister , Shivraj Patil , now visiting Assam and Nagaland , to talk to the State Governments and other authorities and evolve a strategy to counter the insurgency and prevent further deterioration of the situation . ` It is also necessary to take fresh political initiatives to restore normality and tranquillity in the entire North-East region , ' the party said . . . Condemning the incidents , the BJP Parliamentary Party spokesman , Vijay Kumar Malhotra , said : ` It appears that the Government does not seem to be very sensitive towards the internal security issues . Beginning with Manipur and now Nagaland and Assam , the whole of North-East seems to be burning . ' . . PTI and UNI report from Guwahati : . . The BJP in Assam today said that yesterday was a ` black day ' for the State and alleged that the Congress Government in the State had lost the moral right to continue . ` The day was a black day for the State when many innocent lives were lost and the Government just remained a mute spectator , ' a spokesman for the party 's State unit , Dhruba Baishya , said . He alleged that the State Government was ` directionless ' and had no policies to deal with militancy . . . Assam bandh . . The All-Bodo Students Union -LRB- ABSU -RRB- has called for a 12-hour Assam bandh tomorrow to protest against the killing of innocent people.Several other organisations have also condemned the killings and extended support to tomorrow 's bandh .
+p126
+sS'injured'
+p127
+g115
+sS'det_loc'
+p128
+(lp129
+S'India'
+p130
+aS'Assam'
+p131
+ag115
+ag115
+ag115
+asS'O'
+p132
+(lp133
+S'national kalam condoles:1'
+p134
+aS'blasts:8'
+p135
+aS'special correspondent:13'
+p136
+aS'series of bomb blasts:38'
+p137
+aS'militant attacks:43'
+p138
+aS'separate condolence:57'
+p139
+aS'acts of violence:83'
+p140
+aS'condemned:90'
+p141
+aS'reprehensible acts:93'
+p142
+aS'permanent peace:120'
+p143
+aS'state:126'
+p144
+aS'treat:140'
+p145
+aS'injured:142'
+p146
+aS'condemned:188'
+p147
+aS'blasts:190'
+p148
+aS'centre:195'
+p149
+aS'authorities:202'
+p150
+aS'strategy:207'
+p151
+aS'counter:209'
+p152
+aS'incidents:211'
+p153
+aS'convene meetings:235'
+p154
+aS'authorities:243'
+p155
+aS'north-east:246'
+p156
+aS'blasts:261'
+p157
+aS'bombs:278'
+p158
+aS'railway station:283'
+p159
+aS'market:287'
+p160
+aS'disrupt peaceful atmosphere:297'
+p161
+aS'state:302'
+p162
+aS'attacks:309'
+p163
+aS'attempts:318'
+p164
+aS'foment ethnic conflicts:320'
+p165
+aS'violent attacks:325'
+p166
+aS'growing trend:336'
+p167
+aS'extremist groups:339'
+p168
+aS'indiscriminate violence:343'
+p169
+aS'countered:349'
+p170
+aS'popular mobilisation:354'
+p171
+aS'authorities:395'
+p172
+aS'evolve:397'
+p173
+aS'strategy:399'
+p174
+aS'insurgency:403'
+p175
+aS'deterioration:407'
+p176
+aS'fresh political initiatives:419'
+p177
+aS'tranquillity:426'
+p178
+aS'north-east:430'
+p179
+aS'parliamentary party:446'
+p180
+aS'internal security issues:471'
+p181
+aS'north-east:487'
+p182
+aS'burning:491'
+p183
+aS'black day:516'
+p184
+aS'state:521'
+p185
+aS'alleged:523'
+p186
+aS'congress government:526'
+p187
+aS'state:530'
+p188
+aS'lost:532'
+p189
+aS'moral right:534'
+p190
+aS'black day:544'
+p191
+aS'state:548'
+p192
+aS'innocent lives:551'
+p193
+aS'spectator:562'
+p194
+aS'state unit:571'
+p195
+aS'alleged:580'
+p196
+aS'directionless:587'
+p197
+aS'militancy:596'
+p198
+aS'bandh:601'
+p199
+aS'bandh:617'
+p200
+aS'protest:620'
+p201
+aS'innocent:625'
+p202
+aS'condemned:631'
+p203
+aS'killings:633'
+p204
+aS'extended support:635'
+p205
+aS'bandh:640'
+p206
+asS'unexpl'
+p207
+(lp208
+g115
+asS'ocassion'
+p209
+g115
+sS'link'
+p210
+S'http://www.thehindu.com/2004/10/04/stories/2004100406171100.htm'
+p211
+sS'date'
+p212
+S'03-10-2004'
+p213
+sS'target'
+p214
+S'CROWDED PLACE'
+p215
+sS'hot_spot'
+p216
+g115
+sS'delivery_mod'
+p217
+g115
+sS'delivery_met'
+p218
+S'PLANTED'
+p219
+sS'expl'
+p220
+(lp221
+g115
+asS'ORG'
+p222
+(lp223
+(lp224
+S'State Governments'
+p225
+aS'133'
+p226
+aS'Others'
+p227
+aa(lp228
+S'Communist Party of India'
+p229
+aS'169'
+p230
+aS'Others'
+p231
+aa(lp232
+S'Communist Party of India'
+p233
+aS'175'
+p234
+aS'Others'
+p235
+aa(lp236
+S'Marxist'
+p237
+aS'180'
+p238
+aS'Others'
+p239
+aa(lp240
+S'Bharatiya Janata Party'
+p241
+aS'184'
+p242
+aS'Others'
+p243
+aa(lp244
+S'CPI'
+p245
+aS'222'
+p246
+aS'Others'
+p247
+aa(lp248
+S'M -RRB-'
+p249
+aS'224'
+p250
+aS'Others'
+p251
+aa(lp252
+S'Polit Bureau'
+p253
+aS'226'
+p254
+aS'Others'
+p255
+aa(lp256
+S'Central Government'
+p257
+aS'231'
+p258
+aS'Others'
+p259
+aa(lp260
+S'State Governments'
+p261
+aS'239'
+p262
+aS'Others'
+p263
+aa(lp264
+S'CPI'
+p265
+aS'264'
+p266
+aS'Others'
+p267
+aa(lp268
+S'M'
+p269
+aS'266'
+p270
+aS'Others'
+p271
+aa(lp272
+S'State Governments'
+p273
+aS'366'
+p274
+aS'Others'
+p275
+aa(lp276
+S'CPI'
+p277
+aS'372'
+p278
+aS'Others'
+p279
+aa(lp280
+S'State Governments'
+p281
+aS'391'
+p282
+aS'Others'
+p283
+aa(lp284
+S'BJP'
+p285
+aS'445'
+p286
+aS'Others'
+p287
+aa(lp288
+S'PTI'
+p289
+aS'496'
+p290
+aS'Others'
+p291
+aa(lp292
+S'UNI'
+p293
+aS'498'
+p294
+aS'Others'
+p295
+aa(lp296
+S'BJP'
+p297
+aS'506'
+p298
+aS'Others'
+p299
+aa(lp300
+S'Government'
+p301
+aS'557'
+p302
+aS'Others'
+p303
+aa(lp304
+S'State Government'
+p305
+aS'583'
+p306
+aS'Others'
+p307
+aa(lp308
+S'All-Bodo Students'
+p309
+aS'605'
+p310
+aS'Others'
+p311
+aa(lp312
+S'ABSU'
+p313
+aS'609'
+p314
+aS'Others'
+p315
+aas.

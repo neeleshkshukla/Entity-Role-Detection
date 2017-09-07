@@ -1,0 +1,286 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Maharashtra'
+p4
+aS'15'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Pune'
+p8
+aS'28'
+p9
+aS'Event'
+p10
+aa(lp11
+S'Jangali Maharaj Road'
+p12
+aS'51'
+p13
+aS'Neutral'
+p14
+aa(lp15
+S'Pune'
+p16
+aS'131'
+p17
+aS'Event'
+p18
+aa(lp19
+S'Pune'
+p20
+aS'203'
+p21
+aS'Event'
+p22
+aa(lp23
+S'McDonalds outlet'
+p24
+aS'259'
+p25
+aS'Event'
+p26
+aa(lp27
+S'Dena Bank ATM'
+p28
+aS'295'
+p29
+aS'Event'
+p30
+aa(lp31
+S'Garware bridge'
+p32
+aS'316'
+p33
+aS'Event'
+p34
+aa(lp35
+S'Maharashtra'
+p36
+aS'342'
+p37
+aS'Neutral'
+p38
+aasS'PER'
+p39
+(lp40
+(lp41
+S'RK Singh'
+p42
+aS'69'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Sushil Kumar Shinde'
+p46
+aS'97'
+p47
+aS'Others'
+p48
+aa(lp49
+S'Gulabrao Pol'
+p50
+aS'133'
+p51
+aS'Comment'
+p52
+aa(lp53
+S'Dayanand Patil'
+p54
+aS'181'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Sushil Kumar Shinde'
+p58
+aS'278'
+p59
+aS'Others'
+p60
+aasS'TIM'
+p61
+(lp62
+S'7.27 pm : 120'
+p63
+aS'8.15 pm : 123'
+p64
+aS'evening : 287'
+p65
+asS'hot_setting'
+p66
+S''
+p67
+sS'DAT'
+p68
+(lp69
+S'Wednesday : 30'
+p70
+asS'death'
+p71
+g67
+sS'title'
+p72
+S'Serial blasts rock Pune, alert across Maharashtra'
+p73
+sS'org_unorg'
+p74
+g67
+sS'terror_group'
+p75
+(lp76
+g67
+asS'content'
+p77
+VZeenews Bureau . . Pune : High alert was declared in the state of Maharashtra as a series of well-coordinated bomb blasts ripped through the heart of Pune on Wednesday . . . Four blasts of low intensity took place in quick succession within a radius of 500 metres of Jangali Maharaj Road , injuring one - the very person carrying the explosives . . . Home Secretary RK Singh has not ruled out terror angle saying that the blasts have been carried out in a very well-planned manner . . . However , Home minister Sushil Kumar Shinde dodged the questions over a terror link to the blasts and said that these were minor blasts that occurred between 7.27 pm and 8.15 pm . . . Police Commissioner of Pune , Gulabrao Pol , spoke to Zee News saying that detonators and batteries were used in the blasts . . . He further said that one of the blasts occurred in a plastic bag being carried by a person , who got injured . He has been identified as Dayanand Patil and is being interrogated by the police . . . Trying to avert a wave of panic among citizens , Pune Police Commissioner said that the blasts were of low intensity and public need not panic . He assured , ` Police are alert and doing their job ' . . . Three blasts took place on bicycle and the fourth in a garbage dump . . . First explosion occurred in a garbage dump near McDonalds outlet after which another blast took place outside Bal Gandarv theatre auditorium . . . Very significantly , Sushil Kumar Shinde , was to arrive here this evening . . . Third explosion occured near Dena Bank ATM , where the bomb was kept on a bicycle career . . . Fourth blast took place at Garware bridge . . . Two more live bombs were recovered from the area , which were diffused by the bomb disposal squad . . . Maharashtra Anti-Terrorist Squad has been handed over the investigation of the serial blasts . . . The first visuals on Zee News showed cops flashing torches over the garbage heap outside the Bal Gandarv auditorium . . . The police have also accessed the CCTV footage of the area , which is being viewed for further information . . . The blasts bring back the tragic memories of the fateful German Bakery blasts that had claimed 17 lives .
+p78
+sS'injured'
+p79
+g67
+sS'det_loc'
+p80
+(lp81
+S'India'
+p82
+aS'Maharashtra'
+p83
+aS'Pune'
+p84
+ag67
+ag67
+asS'O'
+p85
+(lp86
+S'high alert:7'
+p87
+aS'bomb blasts:21'
+p88
+aS'four blasts:34'
+p89
+aS'low intensity:37'
+p90
+aS'explosives:63'
+p91
+aS'terror:75'
+p92
+aS'blasts:80'
+p93
+aS'terror link:105'
+p94
+aS'blasts:109'
+p95
+aS'detonators:142'
+p96
+aS'blasts:149'
+p97
+aS'blasts:160'
+p98
+aS'plastic bag:164'
+p99
+aS'injured:174'
+p100
+aS'blasts:209'
+p101
+aS'three blasts:235'
+p102
+aS'bicycle:240'
+p103
+aS'garbage dump:246'
+p104
+aS'first explosion:251'
+p105
+aS'garbage dump:256'
+p106
+aS'blast:264'
+p107
+aS'bal gandarv theatre auditorium:268'
+p108
+aS'third explosion:291'
+p109
+aS'bomb:301'
+p110
+aS'bicycle career:306'
+p111
+aS'fourth blast:311'
+p112
+aS'live bombs:323'
+p113
+aS'bomb disposal squad:336'
+p114
+aS'investigation:350'
+p115
+aS'serial blasts:353'
+p116
+aS'bal gandarv auditorium:374'
+p117
+aS'cctv footage:386'
+p118
+aS'blasts:403'
+p119
+aS'tragic memories:407'
+p120
+aS'german bakery blasts:412'
+p121
+asS'unexpl'
+p122
+(lp123
+g67
+asS'ocassion'
+p124
+g67
+sS'link'
+p125
+S'http://zeenews.india.com/news/maharashtra/serial-blasts-rock-pune-alert-across-maharashtra_791172.html'
+p126
+sS'date'
+p127
+S'01-08-2012'
+p128
+sS'target'
+p129
+g67
+sS'hot_spot'
+p130
+g67
+sS'delivery_mod'
+p131
+S'PLASTIC BAG'
+p132
+sS'delivery_met'
+p133
+S'PLANTED'
+p134
+sS'expl'
+p135
+(lp136
+g67
+asS'ORG'
+p137
+(lp138
+(lp139
+S'Zee News'
+p140
+aS'138'
+p141
+aS'Others'
+p142
+aa(lp143
+S'Anti-Terrorist Squad'
+p144
+aS'343'
+p145
+aS'Others'
+p146
+aa(lp147
+S'Zee News'
+p148
+aS'362'
+p149
+aS'Others'
+p150
+aas.

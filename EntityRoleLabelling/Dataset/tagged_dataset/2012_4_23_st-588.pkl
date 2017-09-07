@@ -1,0 +1,288 @@
+(dp0
+S'LOC'
+p1
+(lp2
+(lp3
+S'Delhi'
+p4
+aS'2'
+p5
+aS'Event'
+p6
+aa(lp7
+S'Israel'
+p8
+aS'120'
+p9
+aS'Neutral'
+p10
+aa(lp11
+S'Delhi'
+p12
+aS'172'
+p13
+aS'Event'
+p14
+aa(lp15
+S'Bangkok'
+p16
+aS'290'
+p17
+aS'Assoc Event Location'
+p18
+aa(lp19
+S'Thailand'
+p20
+aS'310'
+p21
+aS'Neutral'
+p22
+aa(lp23
+S'Malaysia'
+p24
+aS'317'
+p25
+aS'Neutral'
+p26
+aa(lp27
+S'Bangkok'
+p28
+aS'327'
+p29
+aS'Assoc Event Location'
+p30
+aasS'PER'
+p31
+(lp32
+(lp33
+S'Manmohan Singh'
+p34
+aS'70'
+p35
+aS'Comment'
+p36
+aa(lp37
+S'Tal Yehoshua Koren'
+p38
+aS'110'
+p39
+aS'Victim'
+p40
+aa(lp41
+S'Syed Mohammed Ahmad Kazmi'
+p42
+aS'218'
+p43
+aS'Others'
+p44
+aa(lp45
+S'Houshang Afshar Irani'
+p46
+aS'264'
+p47
+aS'Accused'
+p48
+aa(lp49
+S'Seyed Ali Mahdian'
+p50
+aS'268'
+p51
+aS'Accused'
+p52
+aa(lp53
+S'Mohammad Reza Abolghasemi'
+p54
+aS'272'
+p55
+aS'Accused'
+p56
+aa(lp57
+S'Irani'
+p58
+aS'297'
+p59
+aasS'TIM'
+p60
+(lp61
+S'two months : 45'
+p62
+asS'hot_setting'
+p63
+S''
+p64
+sS'DAT'
+p65
+(lp66
+S'February 13 : 135'
+p67
+aS'February 14 : 292'
+p68
+asS'death'
+p69
+g64
+sS'title'
+p70
+S"TNT used in bombing of Israeli diplomat's car"
+p71
+sS'org_unorg'
+p72
+g64
+sS'terror_group'
+p73
+(lp74
+g64
+asS'content'
+p75
+S"The Delhi Police have received a report from the Central Bureau of Investigation 's Central Forensic Science Laboratory stating that trinitrotoluene ( TNT ) had been used in the improvised magnetic device to trigger the blast in the Israeli Embassy 's car here over two months ago . The detailed report prepared by explosive experts following examination of the samples lifted from the blast site close to Prime Minister Manmohan Singh 's 7 Race Course Road residence said TNT had been used as an explosive for configuring the device . It also reportedly confirmed that a magnetic strip was used to attach the device to the car in which Tal Yehoshua Koren , an Embassy official and wife of Israel 's defence attach , was going to pick up her children from school on February 13 . TNT is one of the most commonly used explosives by the military and construction companies as it is stable compared to other explosives , reducing the risk of detonation by accident . Earlier the Delhi Police had described the device used in the attempted assassination of the Israeli diplomat as a sticky bomb , used for the first time in the country . The police had last month claimed to have cracked the case with the arrest of senior journalist Syed Mohammed Ahmad Kazmi , alleging that he was in touch with one of the Iranian suspects involved in the attack . The three Iranian nationals , who visited the country to allegedly conduct reconnaissance and target the Israeli Embassy car , were then identified as Houshang Afshar Irani , Seyed Ali Mahdian and Mohammad Reza Abolghasemi . The police also drew a link between the car blast and the explosions in Bangkok on February 14 , stating that Irani was in touch with the suspected head of the module operating in Thailand . The suspect was intercepted in Malaysia after the arrest of his two alleged accomplices in Bangkok . OPEN"
+p76
+sS'injured'
+p77
+g64
+sS'det_loc'
+p78
+(lp79
+S'India'
+p80
+aS'Delhi'
+p81
+aS'New Delhi'
+p82
+ag64
+ag64
+asS'O'
+p83
+(lp84
+S'trinitrotoluene:21'
+p85
+aS'tnt:23'
+p86
+aS'improvised magnetic device:30'
+p87
+aS'trigger:34'
+p88
+aS'blast:36'
+p89
+aS"israeli embassy 's car:39"
+p90
+aS'detailed report:50'
+p91
+aS'explosive experts:54'
+p92
+aS'examination:57'
+p93
+aS'samples lifted:60'
+p94
+aS'blast site:64'
+p95
+aS'prime minister manmohan singh:68'
+p96
+aS'7 race course road residence:73'
+p97
+aS'tnt:79'
+p98
+aS'explosive:85'
+p99
+aS'magnetic strip:97'
+p100
+aS'embassy official:115'
+p101
+aS"israel 's defence:120"
+p102
+aS'tnt:138'
+p103
+aS'explosives:146'
+p104
+aS'military:149'
+p105
+aS'construction companies:151'
+p106
+aS'explosives:160'
+p107
+aS'risk of detonation:164'
+p108
+aS'accident:168'
+p109
+aS'attempted assassination:181'
+p110
+aS'israeli diplomat:185'
+p111
+aS'sticky bomb:189'
+p112
+aS'cracked the case:209'
+p113
+aS'arrest:214'
+p114
+aS'senior journalist syed mohammed ahmad kazmi:216'
+p115
+aS'iranian suspects:233'
+p116
+aS'attack:238'
+p117
+aS'three iranian nationals:241'
+p118
+aS'reconnaissance:252'
+p119
+aS'target:254'
+p120
+aS'israeli embassy car:256'
+p121
+aS'car blast:284'
+p122
+aS'explosions:288'
+p123
+aS'suspected head:303'
+p124
+aS'module operating:307'
+p125
+aS'suspect:313'
+p126
+aS'intercepted:315'
+p127
+aS'arrest:320'
+p128
+aS'two alleged accomplices:323'
+p129
+asS'unexpl'
+p130
+(lp131
+S'MAGNET'
+p132
+asS'ocassion'
+p133
+g64
+sS'link'
+p134
+S'http://www.thehindu.com/todays-paper/tp-national/tp-newdelhi/tnt-used-in-bombing-of-israeli-diplomats-car/article3343913.ece'
+p135
+sS'date'
+p136
+S'13-02-2012'
+p137
+sS'target'
+p138
+g64
+sS'hot_spot'
+p139
+g64
+sS'delivery_mod'
+p140
+g64
+sS'delivery_met'
+p141
+g64
+sS'expl'
+p142
+(lp143
+S'TRINITROTOLUENE (TNT)'
+p144
+asS'ORG'
+p145
+(lp146
+(lp147
+S"Central Bureau of Investigation 's Central Forensic Science Laboratory"
+p148
+aS'10'
+p149
+aS'Others'
+p150
+aas.

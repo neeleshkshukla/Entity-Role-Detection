@@ -1,0 +1,116 @@
+{
+    "LOC": [
+        [
+            "U.S.", 
+            "6", 
+            "Neutral"
+        ], 
+        [
+            "Afghanistan", 
+            "10", 
+            "Event"
+        ], 
+        [
+            "Zhari", 
+            "52", 
+            "Event"
+        ], 
+        [
+            "Kandahar", 
+            "55", 
+            "Neutral"
+        ], 
+        [
+            "Kandahar province", 
+            "55", 
+            "Event"
+        ], 
+        [
+            "Afghanistan", 
+            "72", 
+            "Event"
+        ], 
+        [
+            "Helmand province", 
+            "88", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "Thomas Collins", 
+            "41", 
+            "Comment"
+        ]
+    ], 
+    "TIM": [], 
+    "hot_setting": "", 
+    "DAT": [
+        "Tuesday:12"
+    ], 
+    "death": "6", 
+    "title": "U.S. soldiers killed", 
+    "org_unorg": "", 
+    "terror_group": [
+        "TALIBAN"
+    ], 
+    "content": "A roadside bomb struck a U.S. convoy in southern Afghanistan on Tuesday , killing three American troops , while a motorcycle bomb in a crowded village market killed at least three Afghan civilians , said officials . NATO spokesman Col. Thomas Collins said the blast hit the American convoy in the Zhari district of Kandahar province , the spiritual heartland of the Taliban and one of the most volatile regions in Afghanistan . The attack follows a truck bombing a day earlier on a NATO outpost in Helmand province that killed three Georgian soldiers . AP OPEN", 
+    "injured": "", 
+    "det_loc": [
+        "Afghanistan", 
+        "", 
+        "", 
+        "Kandahar", 
+        ""
+    ], 
+    "O": [
+        "roadside bomb struck:2", 
+        "u.s. convoy:6", 
+        "American troops:16", 
+        "motorcycle bomb:21", 
+        "crowded village market:25", 
+        "Afghan civilians:32", 
+        "blast:45", 
+        "American convoy:48", 
+        "spiritual heartland:59", 
+        "volatile regions:69", 
+        "attack:75", 
+        "truck bombing:78", 
+        "Georgian soldiers:93"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/us-soldiers-killed/article4716343.ece", 
+    "date": "14-05-2013", 
+    "target": "ROAD SIDE", 
+    "hot_spot": "", 
+    "delivery_mod": "FOUR WHEELER", 
+    "delivery_met": "PLANTED", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "NATO", 
+            "38", 
+            "Others"
+        ], 
+        [
+            "Taliban", 
+            "63", 
+            "Accused"
+        ], 
+        [
+            "NATO", 
+            "85", 
+            "Others"
+        ], 
+        [
+            "AP", 
+            "96", 
+            "Others"
+        ]
+    ]
+}

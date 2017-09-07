@@ -1,0 +1,151 @@
+{
+    "LOC": [
+        [
+            "Rawalpindi", 
+            "16", 
+            "Event"
+        ], 
+        [
+            "Rawalpindi", 
+            "67", 
+            "Event"
+        ], 
+        [
+            "Karachi", 
+            "69", 
+            "Event"
+        ], 
+        [
+            "ImamBargahs", 
+            "82", 
+            "Assoc Event Location"
+        ], 
+        [
+            "ImamBargah", 
+            "143", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Karachi", 
+            "145", 
+            "Event"
+        ], 
+        [
+            "Balochistan", 
+            "212", 
+            "Event"
+        ], 
+        [
+            "Quetta", 
+            "215", 
+            "Neutral"
+        ], 
+        [
+            "Bannu", 
+            "229", 
+            "Event"
+        ], 
+        [
+            "Khyber-Pakhtunkhwa", 
+            "231", 
+            "Event"
+        ], 
+        [
+            "Pakistan", 
+            "247", 
+            "Accused Location"
+        ], 
+        [
+            "Islamabad", 
+            "283", 
+            "Assoc Event Location"
+        ], 
+        [
+            "Rawalpindi", 
+            "312", 
+            "Event"
+        ], 
+        [
+            "Rawalpindi", 
+            "323", 
+            "Neutral"
+        ], 
+        [
+            "Karachi Tehreek", 
+            "325", 
+            "Neutral"
+        ]
+    ], 
+    "PER": [
+        [
+            "KarachiTehreek", 
+            "314", 
+            "Others"
+        ]
+    ], 
+    "TIM": [
+        "midnight : 19", 
+        "12 hours : 44", 
+        "midnight : 92", 
+        "evening : 129"
+    ], 
+    "hot_setting": "", 
+    "DAT": [
+        "Wednesday:21", 
+        "Wednesday:204", 
+        "Thursday:243"
+    ], 
+    "death": "23", 
+    "title": "Pak blasts raise concerns over D8 leaders security", 
+    "det_loc": [
+        "Pakistan", 
+        "", 
+        "", 
+        "ISLAMABAD", 
+        "Muharram procession in Rawalpindi "
+    ], 
+    "terror_group": [
+        "TEHREEK-E-TALIBAN PAKISTAN"
+    ], 
+    "content": "At least 23 people were killed in a suicide attack on a Muharram procession in Rawalpindi close to midnight on Wednesday , making it a day when terrorists struck in all four provinces of the country . The blasts took 28 lives in 12 hours , raising fears of more trouble over the weekend during the penultimate and last days of Muharram . The attacks in Rawalpindi and Karachi were clearly sectarian , targeting Shia community members gathered in or near ImamBargahs ( Hall for Shia commemoration ceremonies ) . The midnight strike was the deadliest , killing 23 and injuring 62 . In this , a suicide bomber detonatedwhen prevented by security personnel from breaking through the cordon to join a Muharram procession . Earlier in the evening , two people were killed and several injured in two blasts near an ImamBargah in Karachi . The second blast occurred at the same place , resulting in injuries to some journalists covering the first explosion . Consequently , Shia leaders have called for the Army to be called in on the 9 -LCB- + t -RCB- -LCB- + h -RCB- and 10 -LCB- + t -RCB- -LCB- + h -RCB- Muharram days . Wednesday also saw a bomb attack in the Balochistan capital of Quetta in which three soldiers and two civilians were killed . And , in Bannu in Khyber-Pakhtunkhwa , three security personnel were injured in an ambush . On Thursday , the Tehreek-e-Taliban Pakistan ( TTP ) claimed responsibility for the attacks on the Shia community and warned of more such strikes . This has heightened concerns for the rest of the Muharram mourning period . And , in Islamabad , an added concern is the security of the dignitaries including four Presidents and one Premier who have converged to attend the D-8 conference . Shias targeted in Rawalpindi , KarachiTehreek claims responsibility for both attacks Shias targeted in Rawalpindi , Karachi Tehreek claims responsibility for both attacks OPEN", 
+    "injured": "62", 
+    "org_unorg": "ORGANISED", 
+    "O": [
+        "muharram procession:13", 
+        "rawalpindi:16", 
+        "Shia:86", 
+        "muharram mourning period:276", 
+        "d-8 conference:306", 
+        "responsibility:316"
+    ], 
+    "unexpl": [
+        ""
+    ], 
+    "ocassion": "", 
+    "link": "http://www.thehindu.com/todays-paper/tp-international/pak-blasts-raise-concerns-over-d8-leaders-security/article4125101.ece", 
+    "date": "21-11-2012", 
+    "target": "SHIA COMMUNITY", 
+    "hot_spot": "Muharram procession in Rawalpindi ", 
+    "delivery_mod": "", 
+    "delivery_met": "SUICIDE ATTACKERS", 
+    "expl": [
+        ""
+    ], 
+    "ORG": [
+        [
+            "Shia community", 
+            "75", 
+            "Others"
+        ], 
+        [
+            "Shia leaders", 
+            "169", 
+            "Others"
+        ], 
+        [
+            "Tehreek-e-Taliban Pakistan ( TTP )", 
+            "246", 
+            "Accused"
+        ]
+    ]
+}
