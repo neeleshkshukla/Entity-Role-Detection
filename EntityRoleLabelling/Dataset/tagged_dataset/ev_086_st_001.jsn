@@ -8,12 +8,12 @@
         [
             "Mumbai", 
             "49", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Karachi", 
             "53", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Pakistan", 
@@ -28,7 +28,7 @@
         [
             "Mumbai", 
             "90", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Mumbai", 
@@ -43,12 +43,12 @@
         [
             "Mumbai", 
             "196", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Babri mosque", 
             "270", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Mumbai", 
@@ -57,12 +57,13 @@
         ], 
         [
             "Mumbai", 
-            "377"
+            "377",
+	    "Neutral"
         ], 
         [
             "Mumbai", 
             "410", 
-            "Victim Location"
+            "Victim"
         ]
     ], 
     "PER": [

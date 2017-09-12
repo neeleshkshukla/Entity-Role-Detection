@@ -31,9 +31,9 @@
             "Event"
         ], 
         [
-            "Bongaingaon:81", 
-            "Event", 
-            "Neutral"
+            "Bongaingaon", 
+            "81", 
+            "Event"
         ], 
         [
             "Dhubri", 
@@ -43,7 +43,7 @@
         [
             "Borlao", 
             "131", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Chirang", 
@@ -68,7 +68,7 @@
         [
             "Kokrajhar", 
             "189", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Bortol", 
@@ -83,12 +83,12 @@
         [
             "Goreswar", 
             "284", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Baksa", 
             "286", 
-            "Assoc Event Location"
+            "Event"
         ]
     ], 
     "PER": [

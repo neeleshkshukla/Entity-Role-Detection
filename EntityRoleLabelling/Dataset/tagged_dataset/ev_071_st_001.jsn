@@ -11,9 +11,9 @@
             "Neutral"
         ], 
         [
-            "dargah of the Sufi saint Khwaja Moinuddin Chishti : 39", 
-            "Event", 
-            "Neutral"
+            "dargah of the Sufi saint Khwaja Moinuddin Chishti", 
+            "39", 
+            "Event"
         ], 
         [
             "Ajmer", 
@@ -38,7 +38,7 @@
         [
             "Ahata-e-Noor", 
             "79", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Mumbai", 
@@ -62,7 +62,8 @@
         ], 
         [
             "India", 
-            "446"
+            "446",
+	    "Neutral"
         ], 
         [
             "Rajasthan", 

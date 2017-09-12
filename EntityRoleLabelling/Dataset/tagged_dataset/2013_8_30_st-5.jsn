@@ -1,23 +1,23 @@
 {
     "LOC": [
         [
-            "Delhi:84", 
-            "Event", 
-            "Accused Location"
+            "Delhi", 
+            "84", 
+            "Accused"
         ], 
         [
-            "Nahar Chowk:98", 
-            "Accused Location", 
-            "Neutral"
+            "Nahar Chowk", 
+            "98", 
+            "Accused"
         ], 
         [
             "district headquarters", 
             "144", 
-            "Accused Location"
+            "Accused"
         ], 
         [
-            "Kathmandu:386", 
-            "Event", 
+            "Kathmandu", 
+            "386", 
             "Neutral"
         ], 
         [
@@ -28,12 +28,12 @@
         [
             "India-Nepal", 
             "45", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bihars Raxaul town", 
             "48", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Punes German Bakery blast", 
@@ -48,17 +48,17 @@
         [
             "Hyderabad", 
             "86", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
             "88", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
             "90", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Nahar", 
@@ -68,22 +68,22 @@
         [
             "Chowk", 
             "99", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Raxaul", 
             "101", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "East Champaran", 
             "103", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Nepal", 
             "115", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bihar", 

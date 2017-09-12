@@ -76,8 +76,9 @@
             "Neutral"
         ], 
         [
-            "Colombo.During", 
-            "593"
+            "Colombo", 
+            "593",
+	    "Others"
         ], 
         [
             "Chennai", 
@@ -104,7 +105,7 @@
         [
             "Zaheer Hussain", 
             "570", 
-            "Assoc Accused"
+            "Accused"
         ]
     ], 
     "TIM": [

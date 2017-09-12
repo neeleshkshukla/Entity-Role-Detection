@@ -280,12 +280,12 @@
         [
             "Adivasi", 
             "123", 
-            "Accused", 
-            "Others"
+            "Accused"
         ], 
         [
             "Assam police", 
-            "133"
+            "133",
+	    "Others"
         ], 
         [
             "AANLA", 

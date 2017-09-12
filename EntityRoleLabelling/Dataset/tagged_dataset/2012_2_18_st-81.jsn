@@ -13,27 +13,27 @@
         [
             "Zaveri bazaar", 
             "107", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Opera House", 
             "110", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Dadar Kabutarkhana", 
             "113", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Opera House", 
             "125", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Zaveri bazaar", 
             "137", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Habib building", 
@@ -44,7 +44,8 @@
     "PER": [
         [
             "Naquee", 
-            "151"
+            "151",
+	    "Accused"
         ], 
         [
             "Naquee Ahmed Wasi Ahmed Sheikh", 

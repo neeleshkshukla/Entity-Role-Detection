@@ -84,7 +84,8 @@
         ], 
         [
             "Bhavesh Patel", 
-            "128"
+            "128",
+	    "Victim"
         ], 
         [
             "Patel", 
@@ -114,7 +115,7 @@
         [
             "Bhavesh Patel", 
             "212", 
-            "Accused"
+            "Others"
         ], 
         [
             "Digvijaya", 

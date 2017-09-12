@@ -18,12 +18,12 @@
         [
             "Pakistan", 
             "249", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Bahawalpur", 
             "264", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Maharashtra", 
@@ -134,7 +134,8 @@
     "PER": [
         [
             "Naik", 
-            "243"
+            "243",
+	    "Accused"
         ], 
         [
             "Yasin Bhatkal", 
@@ -164,17 +165,17 @@
         [
             "Yaseen", 
             "97", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Tabrez Waqas", 
             "99", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Tehseen", 
             "102", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Bhatkal", 
@@ -229,7 +230,7 @@
         [
             "Osama bin Laden", 
             "256", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Yasin", 

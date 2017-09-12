@@ -28,7 +28,7 @@
         [
             "Uttar Pradesh", 
             "130", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gujarat", 
@@ -48,17 +48,17 @@
         [
             "Madhya Pradesh", 
             "215", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "New Delhi", 
             "218", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karnataka", 
             "221", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Jaipur", 
@@ -83,16 +83,17 @@
         [
             "Pakistan-based", 
             "304", 
-            "Source"
+            "Accused"
         ], 
         [
             "Pakistan", 
-            "328"
+            "328",
+	    "Accused"
         ], 
         [
             "Mumbai-based", 
             "358", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Kerala", 
@@ -112,7 +113,7 @@
         [
             "Madhya Pradesh", 
             "485", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ahmedabad", 
@@ -137,17 +138,17 @@
         [
             "Madhya Pradesh", 
             "624", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Vadodara", 
             "835", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ahmedabad", 
             "839", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Surat", 
@@ -224,7 +225,7 @@
         [
             "Abu Bashir", 
             "677", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Bhatia", 
@@ -369,7 +370,8 @@
         ], 
         [
             "Indian Mujahideen", 
-            "156"
+            "156", 
+            "Accused"
         ], 
         [
             "SIMI", 
@@ -389,17 +391,17 @@
         [
             "SIMI-LeT", 
             "326", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "ISI", 
             "330", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "ISI", 
             "342", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Wipro", 
@@ -437,8 +439,9 @@
             "Accused"
         ], 
         [
-            "SIMI , V2", 
-            "614"
+            "SIMI", 
+            "614",
+	     "Accused"
         ], 
         [
             "city civil hospital", 

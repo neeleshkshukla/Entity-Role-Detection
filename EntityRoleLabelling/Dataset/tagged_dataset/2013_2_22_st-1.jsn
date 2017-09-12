@@ -1,9 +1,9 @@
 {
     "LOC": [
         [
-            "Lumbini Park : 164", 
-            "Event", 
-            "Assoc Event Location"
+            "Lumbini Park", 
+            "164", 
+            "Event"
         ], 
         [
             "Dilsukhnagar", 
@@ -18,17 +18,17 @@
         [
             "Lumbini Park", 
             "106", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Gokul Chat", 
             "118", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Kothi", 
             "121", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Dilsukhnagar", 
@@ -43,7 +43,7 @@
         [
             "Gokul Chat", 
             "167", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Anand Tiffin Centre", 

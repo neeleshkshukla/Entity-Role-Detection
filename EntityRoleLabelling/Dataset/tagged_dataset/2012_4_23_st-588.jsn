@@ -18,7 +18,7 @@
         [
             "Bangkok", 
             "290", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Thailand", 
@@ -33,7 +33,7 @@
         [
             "Bangkok", 
             "327", 
-            "Assoc Event Location"
+            "Event"
         ]
     ], 
     "PER": [
@@ -69,7 +69,8 @@
         ], 
         [
             "Irani", 
-            "297"
+            "297",
+	    "Accused"
         ]
     ], 
     "TIM": [

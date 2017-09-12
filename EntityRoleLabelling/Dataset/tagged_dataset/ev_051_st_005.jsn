@@ -13,12 +13,12 @@
         [
             "Birmingham", 
             "105", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "United Kingdom", 
             "108", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Srinagar", 
@@ -78,7 +78,7 @@
         [
             "Srinagar", 
             "637", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Pahanhad", 
@@ -86,19 +86,19 @@
             "Event"
         ], 
         [
-            "Darhal:657", 
-            "Event", 
+            "Darhal", 
+            "657", 
             "Neutral"
         ], 
         [
             "Rajouri", 
             "660", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Lal Chowk", 
             "699", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Khaniter", 
@@ -115,7 +115,7 @@
         [
             "Maulana Masood Azhar", 
             "80", 
-            "Assoc Accused", 
+            "Accused", 
             "Others"
         ], 
         [
@@ -127,12 +127,12 @@
         [
             "Mohammad Mujtaba", 
             "154", 
-            "Assoc Victim"
+            "Victim"
         ], 
         [
             "Mujtaba", 
             "164", 
-            "Assoc Victim"
+            "Victim"
         ], 
         [
             "George Fernandes", 

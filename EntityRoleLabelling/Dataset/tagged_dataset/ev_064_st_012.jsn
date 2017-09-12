@@ -1,9 +1,9 @@
 {
     "LOC": [
         [
-            "Mahim : 33", 
-            "Event", 
-            "Neutral"
+            "Mahim", 
+            "33", 
+            "Event"
         ], 
         [
             "Borivali-bound", 
@@ -41,9 +41,9 @@
             "Neutral"
         ], 
         [
-            "platform 3 : 462", 
-            "Event", 
-            "Neutral"
+            "platform 3", 
+            "462", 
+            "Event"
         ], 
         [
             "Borivli", 

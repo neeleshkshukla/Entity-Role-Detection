@@ -86,9 +86,9 @@
             "Event"
         ], 
         [
-            "Patna Junction:464", 
-            "Event", 
-            "Neutral"
+            "Patna Junction", 
+            "464", 
+            "Event"
         ]
     ], 
     "PER": [

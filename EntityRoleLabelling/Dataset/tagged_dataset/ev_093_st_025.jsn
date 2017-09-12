@@ -12,7 +12,8 @@
         ], 
         [
             "Bodh Gaya", 
-            "37"
+            "37",
+            "Event"
         ], 
         [
             "Mahabodhi temple", 
@@ -21,7 +22,8 @@
         ], 
         [
             "Bodh Gaya", 
-            "93"
+            "93",
+	    "Event"
         ]
     ], 
     "PER": [

@@ -8,21 +8,22 @@
         [
             "Pune", 
             "14", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pune", 
             "89", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pune", 
             "173", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gujarat", 
-            "297"
+            "297",
+	    "Neutral"
         ], 
         [
             "Pune", 

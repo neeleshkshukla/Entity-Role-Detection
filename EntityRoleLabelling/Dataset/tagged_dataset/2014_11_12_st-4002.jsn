@@ -13,22 +13,22 @@
         [
             "Kafirpur", 
             "93", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Kinnahar", 
             "96", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Birbhum", 
             "99", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Khagragarh", 
             "109", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Kerala", 
@@ -36,8 +36,8 @@
             "Neutral"
         ], 
         [
-            "Kafirpur : 143", 
-            "Accused Location", 
+            "Kafirpur", 
+            "143", 
             "Neutral"
         ], 
         [
@@ -48,7 +48,7 @@
         [
             "Bangladesh", 
             "232", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [

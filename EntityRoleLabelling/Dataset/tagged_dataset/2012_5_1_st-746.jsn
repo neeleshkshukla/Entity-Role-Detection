@@ -2,22 +2,14 @@
     "LOC": [
         [
             "southern Nepal", 
-            "24"
+            "24",
+	    "Event"
         ], 
-        [
-            "Kathmandu : 92", 
-            "Neutral", 
-            "Assoc Event Location"
-        ], 
-        [
-            "Janakpur:133", 
-            "Event", 
-            "Neutral"
-        ], 
+       
         [
             "Nepal", 
             "25", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Janakpur", 

@@ -3,7 +3,7 @@
         [
             "Ajmer Sharif dargah", 
             "9", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Ludhiana", 
@@ -22,7 +22,8 @@
         ], 
         [
             "Ajmer", 
-            "255"
+            "255",
+	   "Event"
         ], 
         [
             "Punjab", 

@@ -1,18 +1,18 @@
 {
     "LOC": [
         [
-            "Patna : 204", 
-            "Event", 
+            "Patna", 
+            "204", 
             "Neutral"
         ], 
         [
-            "Bodh Gaya : 303", 
-            "Event", 
-            "Neutral"
+            "Bodh Gaya", 
+            "303", 
+            "Event"
         ], 
         [
-            "Hyderabad : 595", 
-            "Event", 
+            "Hyderabad", 
+            "595", 
             "Neutral"
         ], 
         [
@@ -78,7 +78,7 @@
         [
             "Patna", 
             "486", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Gandhi Maidan", 
@@ -88,76 +88,76 @@
         [
             "Mangalore", 
             "648", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mangalore", 
             "665", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Darbhanga", 
             "691", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Madhubani", 
             "693", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Sitamarhi", 
             "695", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Samastipur", 
             "697", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Bihar", 
             "700", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Aurangabad", 
             "702", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Gaya", 
             "704", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "central Bihar", 
             "706", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Bihar", 
             "707", 
-            "Victim Location"
+            "Victim"
         ]
     ], 
     "PER": [
         [
             "Imtiaz", 
             "212", 
-            "Assoc Accused", 
+            "Accused", 
             "Others"
         ], 
         [
             "Imtiaz", 
             "249", 
-            "Assoc Accused", 
+            "Accused", 
             "Others"
         ], 
         [
             "Tehsin", 
             "254", 
-            "Assoc Accused", 
+            "Accused", 
             "Others"
         ], 
         [
@@ -190,87 +190,87 @@
         [
             "Imtiaz Ansari", 
             "64", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Imtiaz", 
             "125", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Tehsin", 
             "174", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Imtiaz", 
             "181", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Tehsin", 
             "194", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Memon", 
             "201", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Imtiaz", 
             "295", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Tehsin", 
             "299", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Tehsin", 
             "346", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Tariq", 
             "422", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Ainul", 
             "424", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Taufiq", 
             "437", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Nauman", 
             "439", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Hyder", 
             "441", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Abdullah", 
             "443", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Imtiaz", 
             "447", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Tehsin", 
             "453", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Imtiaz", 
@@ -280,32 +280,32 @@
         [
             "Imtiaz", 
             "553", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Imtiaz", 
             "561", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Yasin Bhatkal", 
             "613", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Yasin", 
             "618", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Tehsin", 
             "634", 
-            "Assoc Accused"
+            "Accused"
         ], 
         [
             "Waqas", 
             "642", 
-            "Assoc Accused"
+            "Accused"
         ]
     ], 
     "TIM": [], 

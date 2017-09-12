@@ -13,17 +13,17 @@
         [
             "Hyderabad", 
             "25", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Cyberabad", 
             "27", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Holland", 
             "39", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Dutch", 
@@ -53,8 +53,8 @@
     ], 
     "PER": [
         [
-            "Wilder : 179", 
-            "Comment", 
+            "Wilder", 
+            "179", 
             "Others"
         ], 
         [

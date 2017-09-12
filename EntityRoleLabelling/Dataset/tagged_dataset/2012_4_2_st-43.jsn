@@ -1,19 +1,19 @@
 {
     "LOC": [
         [
-            "Kashmir:102", 
-            "Neutral", 
-            "Assoc Event Location"
+            "Kashmir", 
+            "102", 
+            "Event"
         ], 
         [
-            "Junglenar : 276", 
-            "Accused Location", 
-            "Neutral"
+            "Junglenar : ", 
+            "276", 
+            "Accused"
         ], 
         [
             "Jammu and Kashmir", 
             "2", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Anantnag district", 
@@ -23,7 +23,7 @@
         [
             "Awantipora town", 
             "54", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bijbehara town", 
@@ -38,12 +38,12 @@
         [
             "Awantipora", 
             "250", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "south Kashmir", 
             "253", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Awantipora", 

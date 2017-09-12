@@ -1,10 +1,6 @@
 {
     "LOC": [
-        [
-            "Bangalore : 21", 
-            "Event", 
-            "Neutral"
-        ], 
+        
         [
             "Bangalore", 
             "21", 
@@ -20,16 +16,7 @@
             "0", 
             "Event"
         ], 
-        [
-            "Goa:189", 
-            "Event", 
-            "Neutral"
-        ], 
-        [
-            "Goa:197", 
-            "Event", 
-            "Neutral"
-        ], 
+       
         [
             "U.S.", 
             "32", 

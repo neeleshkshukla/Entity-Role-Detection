@@ -23,7 +23,7 @@
         [
             "Assam", 
             "21", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Anthgaon", 
@@ -33,7 +33,7 @@
         [
             "Guwahati", 
             "45", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Devipukhuri", 
@@ -57,7 +57,8 @@
         ], 
         [
             "Dhubri", 
-            "106"
+            "106",
+	    "Event"
         ], 
         [
             "Assam", 
