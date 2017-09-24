@@ -8,12 +8,12 @@
         [
             "Bodh Gaya", 
             "36", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Pune", 
             "72", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
@@ -23,7 +23,7 @@
         [
             "Bodh Gaya", 
             "151", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Myanmar", 
@@ -33,12 +33,12 @@
         [
             "Pune", 
             "184", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Pune", 
             "218", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bodh Gaya", 
@@ -48,32 +48,32 @@
         [
             "Pune", 
             "280", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Dilkushnagar", 
             "297", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Begum Bazar", 
             "299", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Abids", 
             "302", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
             "304", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Dilkushnagar", 
             "320", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [
@@ -115,7 +115,7 @@
         [
             "Bhatkal", 
             "174", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Maqbool", 
@@ -140,7 +140,7 @@
         [
             "Bhatkal", 
             "213", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Maqbool", 
@@ -165,7 +165,7 @@
         [
             "Bhatkals", 
             "252", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Qateel Siddiqui", 
@@ -175,7 +175,7 @@
         [
             "Maqbool", 
             "287", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Imran", 

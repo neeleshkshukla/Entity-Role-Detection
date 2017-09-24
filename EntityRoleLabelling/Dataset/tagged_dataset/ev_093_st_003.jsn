@@ -1,10 +1,6 @@
 {
     "LOC": [
-        [
-            "Bihar:488", 
-            "Event", 
-            "Neutral"
-        ], 
+        
         [
             "TALEGAON/GAYA", 
             "1", 
@@ -48,7 +44,7 @@
         [
             "Barachatti block", 
             "187", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gaya", 
@@ -63,7 +59,7 @@
         [
             "Magadh", 
             "383", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gaya", 
@@ -240,7 +236,7 @@
         [
             "Indian Mujahideen", 
             "499", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ]
 }

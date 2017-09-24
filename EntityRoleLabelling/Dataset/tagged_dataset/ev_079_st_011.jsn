@@ -13,7 +13,7 @@
         [
             "Bihar", 
             "71", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Delhi", 
@@ -23,17 +23,17 @@
         [
             "Lakhi Sarai", 
             "234", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Bihar", 
             "238", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Delhi", 
             "243", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Bihar", 
@@ -65,7 +65,7 @@
         [
             "Fantoosh", 
             "154", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Santosh", 
@@ -75,7 +75,7 @@
         [
             "Rekha", 
             "190", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Kumar", 

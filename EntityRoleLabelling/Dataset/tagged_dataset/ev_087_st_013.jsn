@@ -3,7 +3,7 @@
         [
             "Pakistan", 
             "773", 
-            "Accused Location", 
+            "Accused", 
             "Neutral"
         ], 
         [
@@ -14,12 +14,12 @@
         [
             "Ahmedabad", 
             "64", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Saudi Arabia", 
             "83", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Saudi", 
@@ -29,27 +29,27 @@
         [
             "NCR", 
             "168", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Kishtwar", 
             "196", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Jammu", 
             "198", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pune", 
             "578", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
             "691", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
@@ -64,7 +64,7 @@
         [
             "Batla House", 
             "750", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Pakistan", 
@@ -74,17 +74,17 @@
         [
             "Canada", 
             "884", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "UK", 
             "903", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Rajasthan", 
             "910", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -96,17 +96,17 @@
         [
             "Afzal Guru", 
             "251", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Guru", 
             "288", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Guru", 
             "338", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Chotoo", 
@@ -126,7 +126,7 @@
         [
             "Asghar Ali Peerbhoy", 
             "571", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Chhotu", 
@@ -141,47 +141,47 @@
         [
             "Salman", 
             "625", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Riyaz", 
             "682", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Iqbal", 
             "684", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shahnawaz", 
             "707", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Junaid", 
             "709", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Salman", 
             "739", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shehzad", 
             "741", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shahnawaz", 
             "767", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Junaid", 
             "769", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Devinder Pal Singh Bhullar", 
@@ -267,7 +267,7 @@
         [
             "Khalistanis", 
             "888", 
-            "Assoc Accused", 
+            "Assoc_Accused", 
             "Others"
         ], 
         [
@@ -323,7 +323,7 @@
         [
             "IM", 
             "350", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "HuJI", 
@@ -333,7 +333,7 @@
         [
             "IM", 
             "448", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "IM", 
@@ -374,7 +374,7 @@
         [
             "Khalistani", 
             "657", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "IM", 
@@ -414,7 +414,7 @@
         [
             "Lashkar-e-Taiba", 
             "806", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Delhi Police", 
@@ -434,12 +434,12 @@
         [
             "Khalistani", 
             "845", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Khalistan Commando Force", 
             "868", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "HuJI", 

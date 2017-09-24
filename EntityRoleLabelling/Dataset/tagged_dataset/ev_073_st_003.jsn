@@ -3,7 +3,7 @@
         [
             "Barabanki", 
             "5", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Faizabad", 
@@ -48,12 +48,12 @@
         [
             "Sambhupur", 
             "198", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Azamgarh", 
             "201", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gorakhpur", 
@@ -88,7 +88,7 @@
         [
             "Jaunpur", 
             "455", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "UP", 

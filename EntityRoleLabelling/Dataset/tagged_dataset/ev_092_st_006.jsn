@@ -8,7 +8,7 @@
         [
             "Bastar", 
             "31", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Chhattisgarh", 
@@ -18,7 +18,7 @@
         [
             "Jagdalpur", 
             "83", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Bastar", 
@@ -28,7 +28,7 @@
         [
             "Keshloor", 
             "260", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Sukma", 
@@ -38,12 +38,12 @@
         [
             "Sukma", 
             "270", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bastar", 
             "367", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Konta", 
@@ -90,7 +90,7 @@
         [
             "Dinesh Patel", 
             "111", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Karma", 
@@ -150,7 +150,7 @@
         [
             "Kawasi Lakhma", 
             "426", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Karma", 

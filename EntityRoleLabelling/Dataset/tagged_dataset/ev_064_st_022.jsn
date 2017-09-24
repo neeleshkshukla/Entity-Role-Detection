@@ -8,22 +8,22 @@
         [
             "Bangalore", 
             "41", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Srinagar", 
             "43", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Delhi", 
             "45", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Varanasi", 
             "47", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "India", 
@@ -33,52 +33,52 @@
         [
             "London", 
             "53", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Madrid", 
             "55", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Beslan ,", 
             "57", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "New York", 
             "59", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Lebanon", 
             "62", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Iraq", 
             "64", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Pakistan", 
             "80", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Afghanistan", 
             "82", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Europe", 
             "84", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "USA", 
             "87", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -98,7 +98,7 @@
         [
             "Bangalore", 
             "277", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "India", 
@@ -108,17 +108,17 @@
         [
             "Manhattan", 
             "295", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "New Jersey", 
             "297", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "United States", 
             "301", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
@@ -143,7 +143,7 @@
         [
             "London", 
             "409", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "New York", 

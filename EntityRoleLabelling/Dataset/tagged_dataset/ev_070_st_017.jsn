@@ -38,7 +38,7 @@
         [
             "Mecca Masjid", 
             "266", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "New Delhi", 
@@ -53,7 +53,7 @@
         [
             "Hyderabads Toli Chowki", 
             "439", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gujarat", 
@@ -73,7 +73,7 @@
         [
             "Mecca Masjid", 
             "530", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "HuJI", 
@@ -120,17 +120,17 @@
         [
             "Mohammad", 
             "138", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mr. Basith", 
             "170", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mr. Singh", 
             "173", 
-            "Assoc Accused", 
+            "Assoc_Accused", 
             "Others"
         ], 
         [
@@ -146,17 +146,17 @@
         [
             "Mohammads", 
             "425", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Asad Yazdani", 
             "434", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Naved Gul", 
             "449", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Haren Pandya", 
@@ -166,17 +166,17 @@
         [
             "Yazdani", 
             "486", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mohammad", 
             "488", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mohammads", 
             "511", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mohammad Sharifuddin", 
@@ -186,17 +186,17 @@
         [
             "Hamza", 
             "584", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Kanchan", 
             "586", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mohammads", 
             "597", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [
@@ -334,12 +334,12 @@
         [
             "Harkat ul-Jihad-e-Islami", 
             "502", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "HuJI", 
             "577", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ]
 }

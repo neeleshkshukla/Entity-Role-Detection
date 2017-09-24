@@ -13,12 +13,12 @@
         [
             "Jaipur", 
             "74", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "south Delhi", 
             "194", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Delhi", 
@@ -33,7 +33,7 @@
         [
             "Nizamuddin railway station", 
             "229", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [

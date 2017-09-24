@@ -3,17 +3,17 @@
         [
             "Muzaffarnagar", 
             "121", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bodh Gaya", 
             "137", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ranchi", 
             "162", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gandhi Maidan", 
@@ -43,7 +43,7 @@
         [
             "Ranchi", 
             "548", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bihar", 
@@ -53,7 +53,7 @@
         [
             "Bodh Gaya", 
             "727", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bihar", 
@@ -125,7 +125,7 @@
         [
             "Osama bin Laden", 
             "569", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Nitish Kumar", 

@@ -23,12 +23,12 @@
         [
             "Beed", 
             "796", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Maharashtra", 
             "799", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Colombo", 
@@ -65,7 +65,7 @@
         [
             "Yasin Bhatkal", 
             "149", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Baig", 
@@ -320,12 +320,12 @@
         [
             "Lashker-e-Toiba", 
             "653", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "LeT", 
             "655", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "High court", 

@@ -8,7 +8,7 @@
         [
             "Andhra Pradesh", 
             "137", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
@@ -28,7 +28,7 @@
         [
             "Dilsukhnagar", 
             "240", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
@@ -38,17 +38,17 @@
         [
             "Mecca Masjid", 
             "317", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mecca Masjid and Dilsukhnagar", 
             "317", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Dilsukhnagar", 
             "320", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Cyberabad", 
@@ -68,12 +68,12 @@
         [
             "Chanchalguda", 
             "457", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Chanchalguda jail", 
             "457", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -155,7 +155,7 @@
         [
             "Mirza", 
             "299", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "leader L K Advani", 

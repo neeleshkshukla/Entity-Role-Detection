@@ -3,7 +3,7 @@
         [
             "Mumbai", 
             "24", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gateway of India", 
@@ -75,7 +75,7 @@
         [
             "Ansari", 
             "139", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Ujjwal Nikam", 
@@ -90,7 +90,7 @@
         [
             "Fahmida", 
             "227", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Ashrat", 
@@ -125,7 +125,7 @@
         [
             "Hanif", 
             "389", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Fehmida", 

@@ -3,7 +3,7 @@
         [
             "Delhi", 
             "54", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jama Masjid", 
@@ -33,22 +33,22 @@
         [
             "West Bengal", 
             "164", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Tamil Nadu", 
             "167", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bihar", 
             "170", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Anand Vihar Bus Terminal", 
             "264", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Jama Masjid", 
@@ -68,7 +68,7 @@
         [
             "Delhi", 
             "389", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Madhubani", 
@@ -78,7 +78,7 @@
         [
             "Bihar", 
             "402", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karachi", 
@@ -88,7 +88,7 @@
         [
             "Madhubani", 
             "432", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
@@ -98,7 +98,7 @@
         [
             "Chennai", 
             "463", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Delhi", 
@@ -145,32 +145,32 @@
         [
             "Mohd Adil", 
             "125", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mohd Qateel Siddique", 
             "128", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mohd Irshad Khan", 
             "132", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Gauhar Aziz Khomani", 
             "136", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Gayur Ahmad Jamali", 
             "140", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Abdur Rehman", 
             "144", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Siddiqui", 
@@ -250,12 +250,12 @@
         [
             "Khan", 
             "472", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Abdur Rahman", 
             "477", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Siddiqi", 

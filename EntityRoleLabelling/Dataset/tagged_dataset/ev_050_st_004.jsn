@@ -13,7 +13,7 @@
         [
             "Kashmir", 
             "87", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Srinagar", 
@@ -23,7 +23,7 @@
         [
             "Kashmir", 
             "150", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bhatia", 
@@ -43,7 +43,7 @@
         [
             "India", 
             "448", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
@@ -53,22 +53,22 @@
         [
             "India", 
             "498", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
             "518", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Kashmir", 
             "521", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Pakistan", 
             "531", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "United States", 
@@ -78,22 +78,22 @@
         [
             "India", 
             "587", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "India", 
             "597", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Kashmir", 
             "614", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
             "616", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
@@ -103,7 +103,7 @@
         [
             "Kashmir", 
             "659", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
@@ -123,17 +123,17 @@
         [
             "India", 
             "779", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
             "793", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Kashmir", 
             "806", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [

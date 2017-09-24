@@ -38,7 +38,7 @@
         [
             "London", 
             "155", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "India", 
@@ -48,12 +48,12 @@
         [
             "New York", 
             "212", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "United States", 
             "218", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
@@ -105,7 +105,7 @@
         [
             "Dawood Ibrahim", 
             "310", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Advani", 
@@ -115,21 +115,22 @@
         [
             "Dawood", 
             "343", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Osama Bin Laden", 
-            "348"
+            "348", 
+            "Others"
         ], 
         [
             "Dawood", 
             "357", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Dawood", 
             "397", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 

@@ -78,12 +78,12 @@
         [
             "Mecca Masjid", 
             "483", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Charminar", 
             "486", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "New Delhi", 
@@ -103,7 +103,7 @@
         [
             "Mecca Masjid", 
             "714", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

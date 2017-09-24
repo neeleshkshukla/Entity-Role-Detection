@@ -8,7 +8,7 @@
         [
             "Guntur", 
             "34", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Chennai", 
@@ -77,8 +77,8 @@
         ], 
         [
             "Colombo", 
-            "593",
-	    "Others"
+            "593", 
+            "Neutral"
         ], 
         [
             "Chennai", 
@@ -105,7 +105,7 @@
         [
             "Zaheer Hussain", 
             "570", 
-            "Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [

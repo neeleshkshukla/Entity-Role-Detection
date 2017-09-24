@@ -13,7 +13,7 @@
         [
             "Gurapanapalya", 
             "56", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
@@ -28,12 +28,12 @@
         [
             "Surat", 
             "145", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gurapanapalya", 
             "152", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
@@ -53,12 +53,12 @@
         [
             "Indore", 
             "247", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Madhya Pradesh", 
             "249", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karnataka", 
@@ -90,12 +90,12 @@
         [
             "Riazuddin Nasir", 
             "216", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Yahya Kamakutty", 
             "219", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 
@@ -154,12 +154,12 @@
         [
             "Indian Mujahideen", 
             "30", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
             "33", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "rediff.com", 
@@ -179,12 +179,12 @@
         [
             "Indian Mujahideen", 
             "91", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "India Mujahideen", 
             "104", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
@@ -199,7 +199,7 @@
         [
             "Indian Mujahideen", 
             "172", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
@@ -219,7 +219,7 @@
         [
             "ISI", 
             "254", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 

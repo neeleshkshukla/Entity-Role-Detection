@@ -13,12 +13,12 @@
         [
             "Malegaon .", 
             "95", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Malegaon", 
             "119", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
@@ -40,12 +40,12 @@
         [
             "Shabbir Ahmed Masiullah", 
             "70", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shabbir Batterywala", 
             "74", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Raees", 
@@ -55,7 +55,7 @@
         [
             "Shabbir Masiullah", 
             "140", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Sunday.Shabbir", 

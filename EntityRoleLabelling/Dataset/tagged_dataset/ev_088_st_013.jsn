@@ -1,14 +1,14 @@
 {
     "LOC": [
         [
-            "MUMBAI:1", 
-            "Source", 
-            "Neutral"
+            "MUMBAI", 
+            "1", 
+            "Source"
         ], 
         [
-            "Pune : 8", 
-            "Event", 
-            "Neutral"
+            "Pune", 
+            "8", 
+            "Event"
         ], 
         [
             "Maharashtra", 

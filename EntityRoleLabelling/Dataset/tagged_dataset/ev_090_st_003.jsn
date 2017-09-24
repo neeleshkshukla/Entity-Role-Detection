@@ -33,7 +33,7 @@
         [
             "Pakistan", 
             "350", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Jammu", 
@@ -58,7 +58,7 @@
         [
             "Pakistan", 
             "567", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Islamabad", 
@@ -73,7 +73,7 @@
         [
             "Afghanistan", 
             "621", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Kashmir", 
@@ -116,12 +116,12 @@
         [
             "Afzal Guru", 
             "159", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Afzal Guru", 
             "263", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "R K Singh", 
@@ -146,12 +146,12 @@
         [
             "Kasab", 
             "594", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Afzal", 
             "596", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Maulana Asfatullah Muawiya", 
@@ -161,12 +161,12 @@
         [
             "Guru", 
             "658", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Guru", 
             "698", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 
@@ -338,7 +338,7 @@
         [
             "Punjabi Taliban", 
             "560", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Tehrik-e-Taliban", 
@@ -373,12 +373,12 @@
         [
             "Hizb", 
             "682", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Baleeguddin", 
             "688", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Jammu and Kashmir police", 

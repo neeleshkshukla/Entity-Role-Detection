@@ -43,22 +43,22 @@
         [
             "Zaveri Bazar", 
             "446", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Nagpada", 
             "498", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Buldana", 
             "732", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Aurangabad", 
             "734", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Mumbai", 

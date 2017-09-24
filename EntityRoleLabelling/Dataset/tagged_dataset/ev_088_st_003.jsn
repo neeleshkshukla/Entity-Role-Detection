@@ -13,30 +13,32 @@
         [
             "J M road", 
             "68", 
-            "Assoc Event Location"
+            "Event"
         ], 
         [
             "Sai Service petrol pump", 
             "94", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "German Bakery", 
             "231", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "J M road", 
-            "255"
+            "255", 
+            "Event"
         ], 
         [
             "Kondhwa", 
             "267", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "J M road", 
-            "363"
+            "363", 
+            "Event"
         ], 
         [
             "Mumbai", 
@@ -46,7 +48,7 @@
         [
             "Pune",
             "465", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mangalore", 
@@ -61,7 +63,7 @@
         [
             "Mumbai", 
             "488", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai",
@@ -76,17 +78,17 @@
         [
             "Nangloi", 
             "544", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Selaiyur", 
             "594", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Chennai", 
             "596", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Delhi", 
@@ -113,12 +115,12 @@
         [
             "Siddibappa", 
             "184", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shahrukh", 
             "186", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Yasin", 
@@ -128,7 +130,7 @@
         [
             "Mohsin Chaudhury", 
             "269", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Yasin", 
@@ -163,23 +165,23 @@
         [
             "Mohammed Adil", 
             "527", 
-            "Assoc Accused", 
+            "Assoc_Accused", 
             "Others"
         ], 
         [
             "Mohammed Qateel Siddiqui", 
             "530", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Gauhar Aziz Khomani", 
             "534", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Gayoor Jamali", 
             "538", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Yasin", 
@@ -189,7 +191,7 @@
         [
             "Mohammed Irshad Khan", 
             "560", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Yasin", 
@@ -204,7 +206,7 @@
         [
             "Irshad", 
             "606", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Yasin", 

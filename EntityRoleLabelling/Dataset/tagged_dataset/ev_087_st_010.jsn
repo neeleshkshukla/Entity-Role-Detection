@@ -23,12 +23,12 @@
         [
             "Bhangel", 
             "114", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Noida", 
             "117", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Islamabad", 
@@ -38,7 +38,7 @@
         [
             "Noida", 
             "181", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Delhi", 
@@ -58,17 +58,17 @@
         [
             "Mumbai", 
             "422", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Chabad House", 
             "441", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Colaba", 
             "444", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [
@@ -214,7 +214,7 @@
         [
             "Supreme Court", 
             "362", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "HuJI", 

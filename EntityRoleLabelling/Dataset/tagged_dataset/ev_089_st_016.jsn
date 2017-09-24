@@ -18,7 +18,7 @@
         [
             "UP", 
             "202", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
@@ -98,17 +98,17 @@
         [
             "Gokul Chat Bhandar", 
             "714", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Lumbini Park", 
             "718", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
             "771", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
@@ -140,17 +140,17 @@
         [
             "Afzal Guru", 
             "280", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Guru", 
             "310", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Hafiz Saeed", 
             "321", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shinde", 
@@ -160,12 +160,12 @@
         [
             "Syed Maqbool", 
             "535", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Imran", 
             "538", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shinde", 
@@ -175,22 +175,22 @@
         [
             "Riyaz Bhatkal", 
             "709", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Guru", 
             "759", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Ajmal Kasab", 
             "773", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Kasab", 
             "787", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shinde", 
@@ -307,12 +307,12 @@
         [
             "United Jehad Council", 
             "297", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Lashkar", 
             "319", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "intelligence agencies", 

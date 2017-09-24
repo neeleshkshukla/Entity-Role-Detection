@@ -33,12 +33,12 @@
         [
             "Guwahati", 
             "143", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Guwahati", 
             "215", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [
@@ -134,17 +134,17 @@
         [
             "Food Corporation of India", 
             "133", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "FCI", 
             "138", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "FCI", 
             "149", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "ULFA", 

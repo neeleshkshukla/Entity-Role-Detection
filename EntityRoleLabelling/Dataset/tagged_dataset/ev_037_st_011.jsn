@@ -3,7 +3,7 @@
         [
             "Assam", 
             "12", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Guwahati", 
@@ -23,7 +23,7 @@
         [
             "Mumbai", 
             "113", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Assam", 
@@ -33,27 +33,27 @@
         [
             "Mumbai", 
             "166", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Guwahati", 
             "186", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Kokrajhar", 
             "188", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Barpeta Road", 
             "190", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bongaigaon", 
             "193", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Birubari", 
@@ -78,7 +78,7 @@
         [
             "Guwahati", 
             "312", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "hospital", 

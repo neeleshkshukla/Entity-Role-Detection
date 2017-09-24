@@ -42,8 +42,8 @@
         ], 
         [
             "Adugodi", 
-            "107",
-      	     "Event"
+            "107", 
+            "Event"
         ], 
         [
             "Forum Mall", 
@@ -83,17 +83,17 @@
         [
             "Hyderbad", 
             "313", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jaipur", 
             "319", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ajmer", 
             "321", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "India", 
@@ -118,7 +118,7 @@
         [
             "Indore", 
             "440", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 

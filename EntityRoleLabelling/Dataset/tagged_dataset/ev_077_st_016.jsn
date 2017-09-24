@@ -2,7 +2,8 @@
     "LOC": [
         [
             "AHMEDABAD/LUCKNOW", 
-            "1"
+            "1", 
+            "Source"
         ], 
         [
             "Gujarat", 
@@ -11,32 +12,33 @@
         ], 
         [
             "Ahmedabad", 
-            "492"
+            "492", 
+            "Event"
         ], 
         [
             "Gujarat", 
             "42", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Sarai Meer", 
             "70", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Azamgarh", 
             "74", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Uttar Pradesh", 
             "77", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "UP", 
             "91", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ahmedabad", 
@@ -46,22 +48,22 @@
         [
             "Jaipur", 
             "164", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
             "166", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bangalore", 
             "168", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Indore", 
             "175", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Delhi", 
@@ -91,27 +93,27 @@
         [
             "Gujarat", 
             "413", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ahmedabad", 
             "416", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Surat", 
             "418", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Pavagadh", 
             "434", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Vadodara", 
             "439", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bapunagar", 
@@ -203,12 +205,12 @@
         [
             "Safdar Nagori", 
             "157", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Nagori", 
             "171", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mufti Bashar", 
@@ -253,7 +255,7 @@
         [
             "Yunus Mansuri", 
             "449", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Ashish Bhatia", 
@@ -398,7 +400,7 @@
         [
             "IM", 
             "372", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Civil Hospital", 

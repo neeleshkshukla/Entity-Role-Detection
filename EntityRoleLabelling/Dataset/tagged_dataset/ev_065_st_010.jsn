@@ -53,12 +53,12 @@
         [
             "Malegaon", 
             "709", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Yavatmal", 
             "732", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
@@ -130,7 +130,7 @@
         [
             "Sharma", 
             "202", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Chaudhary", 
@@ -320,12 +320,12 @@
         [
             "Dhan Singh", 
             "826", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Lokesh Sharma", 
             "844", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Sunil Joshi", 

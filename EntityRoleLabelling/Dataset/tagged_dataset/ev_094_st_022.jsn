@@ -13,12 +13,12 @@
         [
             "Bihar", 
             "81", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Maniyarpur", 
             "83", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
@@ -28,17 +28,17 @@
         [
             "Mangalore", 
             "187", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Koppa", 
             "196", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Chikmagalur", 
             "198", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Koppa", 
@@ -58,17 +58,17 @@
         [
             "Delhi", 
             "268", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mangalore", 
             "276", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mangalore", 
             "327", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -95,12 +95,12 @@
         [
             "Imtiaz Ansari", 
             "44", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Yasin", 
             "59", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Tehsin", 
@@ -125,7 +125,7 @@
         [
             "Tehsin", 
             "103", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Tehsin", 
@@ -145,12 +145,12 @@
         [
             "Tehsin", 
             "184", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Tehsin", 
             "235", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Yasin", 
@@ -170,12 +170,12 @@
         [
             "Tehsin", 
             "291", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Tehsin", 
             "323", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Bhatkal", 
@@ -185,7 +185,7 @@
         [
             "Tehsin", 
             "335", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Bhatkal", 

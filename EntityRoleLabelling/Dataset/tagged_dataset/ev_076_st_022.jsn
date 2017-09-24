@@ -8,17 +8,17 @@
         [
             "Kerala", 
             "113", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bijapur", 
             "118", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karnataka", 
             "121", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
@@ -38,22 +38,22 @@
         [
             "Kerala", 
             "233", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bangalore", 
             "257", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Hyderabad .", 
             "261", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Hyderabad", 
             "267", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Kerala", 
@@ -63,7 +63,7 @@
         [
             "Kerala", 
             "307", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bangalore", 
@@ -78,12 +78,12 @@
         [
             "Bangalore", 
             "377", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
             "431", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -140,17 +140,17 @@
         [
             "Bhatkal", 
             "137", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Tauqeer", 
             "139", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Abdul Subhan", 
             "141", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shankar Bidri", 
@@ -175,12 +175,12 @@
         [
             "Bhatkal", 
             "346", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Tauqeer", 
             "348", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Sattar", 
@@ -200,7 +200,7 @@
         [
             "Tauqueer", 
             "427", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 
@@ -274,7 +274,7 @@
         [
             "Students Islamic Movement of India", 
             "160", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "ATC", 

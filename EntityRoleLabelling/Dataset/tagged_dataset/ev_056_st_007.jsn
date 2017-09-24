@@ -38,7 +38,7 @@
         [
             "Chamanpura", 
             "247", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Godhra", 
@@ -58,12 +58,12 @@
         [
             "Gujarat", 
             "437", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Godhra", 
             "451", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

@@ -2,7 +2,8 @@
     "LOC": [
         [
             "Tukogunj", 
-            "460"
+            "460", 
+            "Accused"
         ], 
         [
             "MUMBAI/NASHIK", 
@@ -27,7 +28,7 @@
         [
             "MP", 
             "255", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gwalior", 
@@ -42,12 +43,12 @@
         [
             "Indore", 
             "451", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Madhya Pradesh", 
             "462", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Malegaon", 
@@ -279,27 +280,27 @@
         [
             "Akhil Bharatiya Vidyarthi Parishad", 
             "341", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "BJP", 
             "354", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "ABVP", 
             "360", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "ABVP", 
             "372", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "ABVP", 
             "400", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Jai Vande Mataram Jan Kalyan Samiti", 

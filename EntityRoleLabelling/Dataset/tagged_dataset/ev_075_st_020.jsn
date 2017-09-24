@@ -8,12 +8,12 @@
         [
             "Udaipur", 
             "7", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ajmer", 
             "51", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Udaipur", 
@@ -23,7 +23,7 @@
         [
             "Ajmer", 
             "200", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [

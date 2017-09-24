@@ -13,7 +13,7 @@
         [
             "Ranchi", 
             "18", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Patna", 
@@ -43,32 +43,32 @@
         [
             "Hazaribagh", 
             "211", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gandhi Maidan", 
             "231", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bihar", 
             "264", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "East Champaran", 
             "266", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Patna", 
             "279", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Patna",
             "304", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Patna", 
@@ -125,12 +125,12 @@
         [
             "Tausim", 
             "186", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Imtiaz Ansari", 
             "188", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Rajeev Kumar", 
@@ -145,7 +145,7 @@
         [
             "Arshad Ahmad", 
             "252", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Vinay Kumar", 
@@ -155,7 +155,7 @@
         [
             "Ahmad", 
             "317", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Imtiyaz Ansari", 
@@ -170,12 +170,12 @@
         [
             "Ahmad", 
             "396", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Ansari", 
             "418", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 

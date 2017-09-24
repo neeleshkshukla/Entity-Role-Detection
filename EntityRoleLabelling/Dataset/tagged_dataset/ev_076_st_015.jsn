@@ -13,7 +13,7 @@
         [
             "Karnataka", 
             "22", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Hyderabad", 
@@ -23,12 +23,12 @@
         [
             "Karnataka", 
             "58", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Andhra", 
             "76", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
@@ -43,27 +43,27 @@
         [
             "US", 
             "108", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "US", 
             "118", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Hyderabad", 
             "127", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
             "137", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Hubli", 
             "142", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karnataka", 
@@ -73,17 +73,17 @@
         [
             "Hyderabad", 
             "161", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Sabarmati Jail", 
             "168", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gujarat", 
             "177", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Hyderabad", 
@@ -93,7 +93,7 @@
         [
             "Hyderabad", 
             "240", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Andhra", 
@@ -150,17 +150,17 @@
         [
             "official.Raziuddin Nasir", 
             "123", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Hafiz Khan Adnan", 
             "133", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Raziuddin", 
             "153", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Maulana Naseeruddin", 
@@ -175,12 +175,12 @@
         [
             "Raziuddin", 
             "185", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Muqamuddin", 
             "189", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [

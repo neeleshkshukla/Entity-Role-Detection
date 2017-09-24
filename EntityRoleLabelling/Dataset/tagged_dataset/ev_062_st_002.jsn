@@ -53,12 +53,12 @@
         [
             "Ratlam", 
             "86", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Madhya Pradesh", 
             "89", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Delhi", 
@@ -375,7 +375,7 @@
         [
             "Harkat", 
             "337", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ]
 }

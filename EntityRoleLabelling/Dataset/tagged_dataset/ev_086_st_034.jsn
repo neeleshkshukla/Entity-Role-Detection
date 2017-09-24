@@ -8,7 +8,7 @@
         [
             "Afghanistan", 
             "21", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
@@ -18,17 +18,17 @@
         [
             "Iran", 
             "42", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Iraq", 
             "44", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Afghanistan", 
             "46", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
@@ -53,22 +53,22 @@
         [
             "US", 
             "224", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "US", 
             "239", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Afghanistan", 
             "249", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Iraq", 
             "251", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

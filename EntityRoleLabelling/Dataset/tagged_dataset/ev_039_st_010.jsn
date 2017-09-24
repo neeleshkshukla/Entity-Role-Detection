@@ -8,7 +8,7 @@
         [
             "Assam", 
             "27", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Dispur", 
@@ -73,42 +73,42 @@
         [
             "Mancachar police station", 
             "432", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Mancachar", 
             "432", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Mancachar police station", 
             "432", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Dhubri", 
             "436", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Dhubri district", 
             "436", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Dhubri district", 
             "436", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Garo Basti area", 
             "448", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Udalguri district", 
             "452", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Udalguri", 
@@ -123,7 +123,7 @@
         [
             "Karbi Anglong", 
             "463", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Maligaon", 
@@ -143,17 +143,17 @@
         [
             "Sonitpur district", 
             "606", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Sonitpur", 
             "606", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Sonitpur district", 
             "606", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Maligaon", 
@@ -250,7 +250,7 @@
         [
             "Sagar Topno", 
             "598", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [
@@ -428,22 +428,22 @@
         [
             "the United Liberation Front Of Asom", 
             "137", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "-LRB-", 
             "143", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Ulfa", 
             "144", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "-RRB-", 
             "145", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Ulfa", 

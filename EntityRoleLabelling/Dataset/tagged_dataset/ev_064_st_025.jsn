@@ -33,12 +33,12 @@
         [
             "Aurangabad", 
             "196", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Marathwada", 
             "201", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Maharashtra", 
@@ -56,9 +56,9 @@
             "Event"
         ], 
         [
-            "Mumbai:249", 
-            "Event", 
-            "Neutral"
+            "Mumbai", 
+            "249", 
+            "Event"
         ], 
         [
             "Mumbai", 

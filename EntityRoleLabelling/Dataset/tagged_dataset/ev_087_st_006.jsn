@@ -13,7 +13,7 @@
         [
             "Patan", 
             "37", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ahmedabad", 
@@ -33,12 +33,12 @@
         [
             "Patan", 
             "268", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "UP", 
             "283", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -75,7 +75,7 @@
         [
             "Yadav", 
             "306", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 

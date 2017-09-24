@@ -13,7 +13,7 @@
         [
             "Mumbai", 
             "88", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "India", 
@@ -43,7 +43,7 @@
         [
             "Mumbai", 
             "215", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "O Hotel", 
@@ -68,7 +68,7 @@
         [
             "Koregaon", 
             "388", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Delhi", 
@@ -78,7 +78,7 @@
         [
             "Pune", 
             "448", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Pune", 
@@ -155,7 +155,7 @@
         [
             "Shahzad Ahmad", 
             "433", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "G K Pillai", 

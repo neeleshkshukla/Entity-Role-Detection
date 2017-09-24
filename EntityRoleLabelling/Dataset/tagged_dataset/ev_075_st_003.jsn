@@ -33,12 +33,12 @@
         [
             "Hyderabad", 
             "540", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Lucknow", 
             "542", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

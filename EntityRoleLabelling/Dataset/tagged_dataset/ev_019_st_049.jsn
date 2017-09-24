@@ -3,7 +3,7 @@
         [
             "Burdwan", 
             "1", 
-            "Event"
+            "Source"
         ], 
         [
             "Bangladesh", 
@@ -11,9 +11,9 @@
             "Neutral"
         ], 
         [
-            "Burdwan : 28", 
-            "Event", 
-            "Neutral"
+            "Burdwan", 
+            "28", 
+            "Event"
         ], 
         [
             "Bangladesh", 
@@ -26,9 +26,9 @@
             "Neutral"
         ], 
         [
-            "Burdwan:79", 
-            "Event", 
-            "Neutral"
+            "Burdwan", 
+            "79", 
+            "Event"
         ], 
         [
             "Bangladesh", 

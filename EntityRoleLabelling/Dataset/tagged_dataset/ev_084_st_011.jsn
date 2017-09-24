@@ -63,22 +63,22 @@
         [
             "Kolkata", 
             "337", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Bangalore", 
             "353", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Mumbai", 
             "361", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Kolkata", 
             "369", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Velha taluka", 
@@ -98,32 +98,32 @@
         [
             "Iran", 
             "425", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Sudan", 
             "430", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Nepal", 
             "432", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Yemen", 
             "438", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Taiwan", 
             "440", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Germany", 
             "442", 
-            "Victim Location"
+            "Victim"
         ]
     ], 
     "PER": [

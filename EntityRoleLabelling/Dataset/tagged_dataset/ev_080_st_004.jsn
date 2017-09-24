@@ -28,12 +28,12 @@
         [
             "Mehrauli", 
             "43", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Delhi", 
             "45", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Malegaon", 
@@ -68,7 +68,7 @@
         [
             "Malegaon", 
             "432", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Malegaon", 
@@ -128,12 +128,12 @@
         [
             "Ahmedabad", 
             "678", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Kalupur", 
             "680", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Sabarkantha", 

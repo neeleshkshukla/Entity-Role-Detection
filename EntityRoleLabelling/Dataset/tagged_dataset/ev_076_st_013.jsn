@@ -8,7 +8,7 @@
         [
             "Karnataka", 
             "20", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bangalore", 
@@ -83,7 +83,7 @@
         [
             "Karnataka", 
             "548", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "UP", 
@@ -212,17 +212,17 @@
         [
             "Infosys", 
             "80", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Wipro", 
             "82", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "PSUs", 
             "208", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "CISF", 
@@ -247,47 +247,47 @@
         [
             "Lashkar-e-Toiba", 
             "531", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "LeT", 
             "533", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Students Islamic Movement of India", 
             "537", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
             "543", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
             "568", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
             "574", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "LeT", 
             "591", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Harkat-ul-Jehad-al-Islami", 
             "593", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "HuJI", 
             "595", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ]
 }

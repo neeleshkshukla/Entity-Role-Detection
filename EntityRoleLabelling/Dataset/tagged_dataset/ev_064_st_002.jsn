@@ -1,6 +1,10 @@
 {
     "LOC": [
-         
+        [
+            "Mumbai", 
+            "14", 
+            "Event"
+        ], 
         [
             "Matunga", 
             "10", 
@@ -39,12 +43,12 @@
         [
             "Maharashtra", 
             "206", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Nagpur", 
             "216", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Maharashtra", 
@@ -156,7 +160,7 @@
         [
             "RSS", 
             "213", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ]
     ]
 }

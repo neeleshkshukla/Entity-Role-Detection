@@ -23,12 +23,12 @@
         [
             "Dhubri", 
             "423", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Dhokuakana", 
             "429", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Dhemaji", 
@@ -38,7 +38,7 @@
         [
             "Dhubri", 
             "454", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

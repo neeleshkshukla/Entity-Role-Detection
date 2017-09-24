@@ -18,12 +18,12 @@
         [
             "Guwahati", 
             "45", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Aathgaon", 
             "49", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "S C Road", 
@@ -33,7 +33,7 @@
         [
             "Bihar", 
             "153", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Fancy Bazar", 

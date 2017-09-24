@@ -13,17 +13,17 @@
         [
             "Japan", 
             "247", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "South Korean", 
             "249", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "German", 
             "261", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Dashashwamedh ghat", 
@@ -53,12 +53,12 @@
         [
             "Dashashwamedh", 
             "542", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Shitla ghats", 
             "544", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Agra", 
@@ -108,7 +108,7 @@
         [
             "Mumbai", 
             "835", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Lucknow", 
@@ -381,12 +381,12 @@
         [
             "Lashkar-e-Taiba", 
             "688", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "LeT", 
             "690", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "BJP", 

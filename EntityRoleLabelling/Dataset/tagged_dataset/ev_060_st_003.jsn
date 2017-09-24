@@ -8,37 +8,37 @@
         [
             "Jawahar Nagar", 
             "407", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Srinagar", 
             "410", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Lazbal", 
             "415", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Anantnag", 
             "417", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Pulwama", 
             "422", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Nishat", 
             "429", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Srinagar", 
             "431", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

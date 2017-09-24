@@ -48,12 +48,12 @@
         [
             "Mumbai", 
             "353", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Mominpura", 
             "355", 
-            "Victim Location"
+            "Victim"
         ]
     ], 
     "PER": [
@@ -150,7 +150,7 @@
         [
             "Special Cell", 
             "276", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ]
     ]
 }

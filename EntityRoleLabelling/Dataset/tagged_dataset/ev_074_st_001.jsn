@@ -8,12 +8,12 @@
         [
             "Chungajan railway station", 
             "35", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Upper Assams Golaghat", 
             "39", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Golaghat", 
@@ -28,22 +28,22 @@
         [
             "Khatikhati", 
             "117", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bokajan railway", 
             "119", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Karbi Anglong", 
             "123", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Dibrugarh-bound", 
             "132", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Kamrup", 
@@ -53,17 +53,17 @@
         [
             "Tangla", 
             "153", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Harisinga railway stations", 
             "155", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Udalguri", 
             "159", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Beltola", 
@@ -78,7 +78,7 @@
         [
             "Dimapur", 
             "391", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Guwahati", 

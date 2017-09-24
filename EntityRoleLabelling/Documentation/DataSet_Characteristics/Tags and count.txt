@@ -1,0 +1,15 @@
+Bad tags  
+-----------------
+Example 'Accused Location' and 'Accused' tag
+
+Location: {u'Accused Location': 399, u'Assoc Event Location': 313, u'Victim Location': 150, u'Source': 165, u'Neutral': 4994, u'Accused': 32, u'Victim': 15, u'Others': 3, u'Event': 3785, u'Assoc_Event': 24}
+Person: {u'Comment': 1821, u'Assoc Victim': 18, u'Assoc_Victim': 1, u'Accused': 1178, u'Victim': 513, u'Others': 2067, u'Assoc Accused': 168, u'Assoc_Accused': 31}
+Organization: {u'Assoc Victim': 16, u'Accused': 1386, u'Victim': 108, u'Others': 3995, u'Assoc Accused': 90, u'Assoc_Accused': 3}
+
+
+Rectified Tags
+----------------
+Location: {u'Source': 165, u'Neutral': 4994, u'Accused': 431, u'Victim': 165, u'Others': 3, u'Event': 3785, u'Assoc_Event': 337}
+Person: {u'Comment': 1821, u'Assoc_Victim': 19, u'Accused': 1178, u'Victim': 513, u'Others': 2067, u'Assoc_Accused': 199}
+Organization: {u'Assoc_Victim': 16, u'Accused': 1386, u'Assoc_Accused': 93, u'Victim': 108, u'Others': 3995}
+

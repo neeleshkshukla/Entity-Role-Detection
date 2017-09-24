@@ -18,7 +18,7 @@
         [
             "Karachi", 
             "134", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karachi", 
@@ -38,12 +38,12 @@
         [
             "Srinagar", 
             "248", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Srinagar", 
             "260", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Karachi", 
@@ -98,7 +98,7 @@
         [
             "Karachi", 
             "515", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karachi", 
@@ -118,12 +118,12 @@
         [
             "Srinagar", 
             "637", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Srinagar", 
             "649", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Karachi", 
@@ -153,7 +153,7 @@
         [
             "Delhi", 
             "730", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "India", 
@@ -453,7 +453,7 @@
         [
             "Lashkar-e-Taiba", 
             "351", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Jaish-e-Mohammad", 
@@ -513,7 +513,7 @@
         [
             "Lashkar-e-Taiba", 
             "746", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ]
 }

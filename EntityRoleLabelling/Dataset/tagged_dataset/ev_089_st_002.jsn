@@ -23,12 +23,12 @@
         [
             "Nanded", 
             "97", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Maharashtra", 
             "99", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Hyderabad", 
@@ -38,17 +38,17 @@
         [
             "Dilsukhnagar",
             "117", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Begum Bazar",
             "119", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Abids",
             "122", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Hyderabad", 
@@ -58,7 +58,7 @@
         [
             "Warangal", 
             "174", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Hyderabad", 
@@ -135,7 +135,7 @@
         [
             "Azam Gauri", 
             "171", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Ajmal Kasab", 

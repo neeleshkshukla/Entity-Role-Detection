@@ -3,7 +3,7 @@
         [
             "Bajpe airport", 
             "15", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Dubai", 
@@ -23,7 +23,7 @@
         [
             "Bajpe Airport", 
             "166", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mangalore", 
@@ -68,7 +68,7 @@
         [
             "Pune", 
             "307", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
@@ -150,12 +150,12 @@
         [
             "Yasin Bhatkal", 
             "490", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Riyaz Bhatkal", 
             "496", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [

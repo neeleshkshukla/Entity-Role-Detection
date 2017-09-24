@@ -7,11 +7,13 @@
         ], 
         [
             "Assam", 
-            "30"
+            "30", 
+            "Event"
         ], 
         [
             "Assam", 
-            "70"
+            "70", 
+            "Event"
         ], 
         [
             "Maligaon", 
@@ -54,13 +56,14 @@
             "Neutral"
         ], 
         [
-            "Dibrugarh . .", 
+            "Dibrugarh", 
             "359", 
             "Neutral"
         ], 
         [
             "Assam", 
-            "366"
+            "366", 
+            "Neutral"
         ]
     ], 
     "PER": [

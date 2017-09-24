@@ -18,12 +18,12 @@
         [
             "Mumbai", 
             "43", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
             "69", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Malegaon", 
@@ -58,7 +58,7 @@
         [
             "Parbani", 
             "241", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Malegaon", 
@@ -83,12 +83,12 @@
         [
             "Aurangabad", 
             "346", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Nanded", 
             "348", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Maharashtra", 
@@ -198,7 +198,7 @@
         [
             "Islamic terrorist outfits", 
             "218", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Bajrang Dal", 

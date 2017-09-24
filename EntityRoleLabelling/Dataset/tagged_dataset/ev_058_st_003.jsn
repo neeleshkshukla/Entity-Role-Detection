@@ -28,12 +28,12 @@
         [
             "Ghatkopar", 
             "299", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "SEEPZ", 
             "362", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
@@ -48,12 +48,12 @@
         [
             "Ghatkopar", 
             "587", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ghatkopar", 
             "597", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "India", 
@@ -63,17 +63,17 @@
         [
             "Dubai", 
             "773", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gujarat", 
             "788", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Dubai", 
             "797", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
@@ -88,7 +88,7 @@
         [
             "Dubai", 
             "882", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Saudi Arabia", 
@@ -103,42 +103,42 @@
         [
             "Gujarat", 
             "983", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Surat", 
             "1000", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gujarat", 
             "1003", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gujarat", 
             "1012", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ahmedabad", 
             "1015", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Vadodara", 
             "1017", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gujarat", 
             "1020", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Surat", 
             "1022", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -148,12 +148,12 @@
         [
             "Gujarat", 
             "1063", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gujarat", 
             "1076", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
@@ -163,37 +163,37 @@
         [
             "Gujarat", 
             "1101", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gujarat", 
             "1110", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gujarat", 
             "1134", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gujarat", 
             "1142", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gujarat", 
             "1189", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gujarat", 
             "1215", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ghatkopar", 
             "1229", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Zaveri Bazar", 
@@ -218,7 +218,7 @@
         [
             "Andheri East", 
             "1270", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ghatkopar", 
@@ -238,7 +238,7 @@
         [
             "Andheri West", 
             "1352", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -248,7 +248,7 @@
         [
             "Andheri East", 
             "1361", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -263,7 +263,7 @@
         [
             "Mangalore", 
             "1469", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "India", 
@@ -273,12 +273,12 @@
         [
             "Bars Bareily", 
             "1480", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Uttar Pradesh", 
             "1484", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -573,7 +573,7 @@
         [
             "Gujarat Muslim Revenge Force", 
             "971", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "rediff.com", 

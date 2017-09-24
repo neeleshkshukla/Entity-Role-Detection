@@ -3,12 +3,12 @@
         [
             "Mumbai airport", 
             "1", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
             "1", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "airport", 
@@ -18,7 +18,7 @@
         [
             "airport", 
             "26", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "airport", 

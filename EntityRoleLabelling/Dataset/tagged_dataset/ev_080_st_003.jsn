@@ -28,7 +28,7 @@
         [
             "Surat", 
             "270", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -38,7 +38,7 @@
         [
             "Malegaon-Modasa", 
             "284", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gujarat", 
@@ -153,7 +153,7 @@
         [
             "ABVP", 
             "77", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "VHP", 
@@ -173,7 +173,7 @@
         [
             "Hindu Jagran Manch", 
             "277", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "ABVP", 

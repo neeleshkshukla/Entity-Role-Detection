@@ -28,7 +28,10 @@ CONTENT_KEY = 'content'
 
 try:
     # Read all the json files and create txt file and tag sequence file
+    fileProcessed = 0;
     for f in os.listdir(dataset_dir):
+        fileProcessed = fileProcessed + 1
+        print('Processing file# '+str(fileProcessed))
         # Only jsn file
         if f.endswith('.jsn'):
             filepath = os.path.join(dataset_dir, f)

@@ -78,7 +78,7 @@
         [
             "Srinagar", 
             "637", 
-            "Event"
+            "Assoc_Event"
         ], 
         [
             "Pahanhad", 
@@ -115,7 +115,7 @@
         [
             "Maulana Masood Azhar", 
             "80", 
-            "Accused", 
+            "Assoc_Accused", 
             "Others"
         ], 
         [
@@ -127,12 +127,12 @@
         [
             "Mohammad Mujtaba", 
             "154", 
-            "Victim"
+            "Assoc_Victim"
         ], 
         [
             "Mujtaba", 
             "164", 
-            "Victim"
+            "Assoc_Victim"
         ], 
         [
             "George Fernandes", 

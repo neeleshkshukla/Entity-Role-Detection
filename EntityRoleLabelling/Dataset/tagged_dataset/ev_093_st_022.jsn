@@ -8,12 +8,12 @@
         [
             "Ranchi", 
             "20", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Iram lodge", 
             "68", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ranchi", 
@@ -60,7 +60,7 @@
         [
             "Tariq", 
             "108", 
-            "Assoc Accused", 
+            "Assoc_Accused", 
             "Others"
         ], 
         [
@@ -82,22 +82,22 @@
         [
             "Imtiaz Ansari", 
             "105", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Ainul", 
             "110", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Taufeeq", 
             "112", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mujibal Ansari", 
             "114", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mujibal", 

@@ -18,7 +18,7 @@
         [
             "Bangladesh", 
             "22", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Radhanagar", 
@@ -73,37 +73,37 @@
         [
             "UP", 
             "259", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bangalore", 
             "287", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ahmedabad", 
             "289", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Delhi", 
             "291", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ahmedabad", 
             "296", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jaipur", 
             "298", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Delhi", 
             "300", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Radhanagar", 
@@ -128,7 +128,7 @@
         [
             "Bangladesh", 
             "399", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "north-eastern", 
@@ -247,7 +247,7 @@
         [
             "Islamic militants", 
             "391", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "central intelligence agencies", 

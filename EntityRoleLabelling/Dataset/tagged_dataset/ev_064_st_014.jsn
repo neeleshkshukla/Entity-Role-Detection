@@ -18,7 +18,7 @@
         [
             "Mumbai", 
             "57", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Kashmir", 
@@ -28,12 +28,12 @@
         [
             "Mumbai", 
             "82", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai --", 
             "131", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
@@ -43,7 +43,7 @@
         [
             "Pakistan-based", 
             "135", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -65,7 +65,7 @@
         [
             "Dawood Ibrahim", 
             "118", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 

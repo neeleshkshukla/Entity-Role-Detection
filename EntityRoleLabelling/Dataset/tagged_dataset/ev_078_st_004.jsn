@@ -8,17 +8,17 @@
         [
             "Jaipur", 
             "44", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bangalore", 
             "46", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ahmedabad", 
             "48", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Delhi", 
@@ -58,17 +58,17 @@
         [
             "UP", 
             "220", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jaipur", 
             "225", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ahmedabad", 
             "227", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ghaffar Market", 
@@ -113,17 +113,17 @@
         [
             "Jaipur", 
             "384", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bangalore", 
             "386", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ahmedabad", 
             "388", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Connaught Place", 
@@ -269,11 +269,13 @@
     "ORG": [
         [
             "McDonald", 
-            "326"
+            "326", 
+            "Others"
         ], 
         [
             "McDonald", 
-            "578"
+            "578", 
+            "Others"
         ], 
         [
             "Indian Mujahideen", 

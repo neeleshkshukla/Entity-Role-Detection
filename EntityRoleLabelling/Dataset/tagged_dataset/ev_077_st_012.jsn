@@ -3,32 +3,32 @@
         [
             "Navi Mumbai", 
             "3", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
             "13", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Sanpada", 
             "33", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Navi Mumbai", 
             "35", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
             "52", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Navi Mumbai", 
             "71", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ahmedabad", 
@@ -48,7 +48,7 @@
         [
             "Navi Mumbai", 
             "109", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ahmedabad", 
@@ -58,7 +58,7 @@
         [
             "Surat", 
             "124", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Vadodara", 
@@ -88,22 +88,22 @@
         [
             "Surat", 
             "193", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Puna Gaam", 
             "202", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Varachha", 
             "205", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Surat", 
             "208", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ahmedabad", 
@@ -113,7 +113,7 @@
         [
             "Mumbai", 
             "404", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Salem", 

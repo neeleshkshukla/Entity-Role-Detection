@@ -43,7 +43,7 @@
         [
             "Mumbai", 
             "189", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
@@ -88,12 +88,12 @@
         [
             "Rajasthan", 
             "299", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jaipur", 
             "302", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Rajasthan", 
@@ -284,27 +284,27 @@
         [
             "-LRB-", 
             "344", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "-RRB-", 
             "346", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "HuJI", 
             "364", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "LeT", 
             "366", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
             "410", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "TOI", 

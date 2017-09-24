@@ -8,22 +8,22 @@
         [
             "Faridabad", 
             "11", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Fariadabad", 
             "14", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Banke Bihari temple", 
             "33", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Haryana", 
             "94", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [], 

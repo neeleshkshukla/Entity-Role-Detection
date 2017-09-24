@@ -48,7 +48,7 @@
         [
             "Gujarat", 
             "204", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karachi", 
@@ -73,17 +73,17 @@
         [
             "Karachi", 
             "259", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karachi", 
             "282", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Maharashtra", 
             "319", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pune", 
@@ -143,7 +143,7 @@
         [
             "Mangalore", 
             "783", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pune", 

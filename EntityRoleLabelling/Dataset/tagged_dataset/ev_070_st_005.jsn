@@ -3,12 +3,12 @@
         [
             "PUNE", 
             "1", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Sangamner", 
             "12", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Hyderabad", 
@@ -18,7 +18,7 @@
         [
             "Sangamner", 
             "62", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Hyderabad", 
@@ -99,12 +99,12 @@
         [
             "Amrutvahini Engineering College", 
             "8", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Amrutvahini Engineering College", 
             "74", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ]
     ]
 }

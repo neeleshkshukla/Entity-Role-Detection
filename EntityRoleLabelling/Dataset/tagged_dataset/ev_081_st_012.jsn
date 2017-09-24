@@ -53,7 +53,7 @@
         [
             "Maharashtra", 
             "381", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Malegaon", 
@@ -63,7 +63,7 @@
         [
             "Maharashtra", 
             "404", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Nanded", 
@@ -73,7 +73,7 @@
         [
             "Akanksha Resort", 
             "500", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Sinhagad", 
@@ -83,17 +83,17 @@
         [
             "Pune", 
             "505", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pune", 
             "602", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pune", 
             "654", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -124,7 +124,8 @@
         ], 
         [
             "K.P. Raghuvanshi", 
-            "108"
+            "108", 
+            "Comment"
         ], 
         [
             "Chakravarty", 

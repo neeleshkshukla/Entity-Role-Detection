@@ -13,12 +13,12 @@
         [
             "Farahan Arcade Gulistan", 
             "40", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karachi", 
             "44", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Hyderabad", 
@@ -28,12 +28,12 @@
         [
             "Hyderabad ,", 
             "50", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Andhra Pradesh", 
             "52", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karachi", 
@@ -53,7 +53,7 @@
         [
             "Gujarat", 
             "109", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Kotli", 
@@ -178,7 +178,7 @@
         [
             "Karnataka", 
             "653", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karachi", 
@@ -200,7 +200,7 @@
         [
             "Haren Pandya", 
             "120", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Parti", 
@@ -240,12 +240,12 @@
         [
             "Riazuddin Nasir", 
             "643", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mohammad Ghouse", 
             "646", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Parti", 
@@ -323,7 +323,7 @@
         [
             "Students Islamic Movement of India", 
             "97", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Intelligence Bureau", 
@@ -338,17 +338,17 @@
         [
             "Indian Mujahideen", 
             "156", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
             "159", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "ISI", 
             "369", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "IB", 
@@ -358,7 +358,7 @@
         [
             "SIMI", 
             "641", 
-            "Assoc Accused", 
+            "Assoc_Accused", 
             "Others"
         ]
     ]

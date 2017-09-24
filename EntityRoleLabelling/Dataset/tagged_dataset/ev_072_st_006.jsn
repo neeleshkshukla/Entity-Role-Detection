@@ -58,7 +58,7 @@
         [
             "Mullanpur", 
             "504", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -115,22 +115,22 @@
         [
             "Gurmit Ram Rahim Singh", 
             "97", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Harminder Singh", 
             "163", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Gurpreet", 
             "189", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Harminder Singh", 
             "192", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "R K Jaiswal", 
@@ -180,12 +180,12 @@
         [
             "Sandeep", 
             "347", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Gurpreet", 
             "349", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Rinku", 

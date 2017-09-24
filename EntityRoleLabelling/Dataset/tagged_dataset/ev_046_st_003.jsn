@@ -8,57 +8,57 @@
         [
             "Jalpaiguri", 
             "124", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "West Bengal", 
             "126", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Andhra Pradesh", 
             "141", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Bangalore", 
             "157", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Karnataka", 
             "159", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Tripura", 
             "175", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Manipur", 
             "190", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Assam", 
             "198", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "West Bengal", 
             "213", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Arakkonam", 
             "284", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Vellore", 
             "286", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

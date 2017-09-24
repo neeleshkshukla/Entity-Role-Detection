@@ -18,12 +18,12 @@
         [
             "Ajmer", 
             "47", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Rajasthan", 
             "49", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Saudi Arabia", 
@@ -38,12 +38,12 @@
         [
             "Ajmer sharif", 
             "202", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ajmer sharif", 
             "202", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "India", 
@@ -85,7 +85,7 @@
         [
             "Saeed Noori", 
             "182", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Narendra Modis", 
@@ -188,12 +188,12 @@
         [
             "Students Islamic Movement of India", 
             "220", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
             "226", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Nationalist Congress Party", 
@@ -203,17 +203,17 @@
         [
             "Indian Mujahideens", 
             "376", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Indian Mujahideen", 
             "424", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "ISI", 
             "431", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ]
 }

@@ -38,7 +38,7 @@
         [
             "Jagannath temple", 
             "102", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Bhatkuchi", 
@@ -48,12 +48,12 @@
         [
             "Rangiya", 
             "145", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ghagrapar", 
             "147", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

@@ -3,7 +3,7 @@
         [
             "Mumbai",
             "93", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Koti", 
@@ -12,7 +12,8 @@
         ], 
         [
             "Hyderabad", 
-            "210"
+            "210", 
+            "Event"
         ], 
         [
             "Lumbini Park", 
@@ -87,12 +88,12 @@
         [
             "Mecca Masjid", 
             "206", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mecca Masjid", 
             "234", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Lumbini Park", 
@@ -102,7 +103,7 @@
         [
             "Mecca Masjid", 
             "342", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
@@ -122,7 +123,7 @@
         [
             "Iraq", 
             "448", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [
@@ -204,7 +205,7 @@
         [
             "Lashkar-e-Taiba", 
             "350", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "HuJi", 

@@ -38,12 +38,12 @@
         [
             "Ahata-e-Noor", 
             "79", 
-            "Event"
+            "Assoc_Event"
         ], 
         [
             "Mumbai", 
             "152", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Dargah", 
@@ -62,8 +62,8 @@
         ], 
         [
             "India", 
-            "446",
-	    "Neutral"
+            "446", 
+            "Neutral"
         ], 
         [
             "Rajasthan", 

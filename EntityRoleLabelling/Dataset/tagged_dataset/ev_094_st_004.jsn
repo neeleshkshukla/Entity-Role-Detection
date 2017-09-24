@@ -148,12 +148,12 @@
         [
             "Ranchi", 
             "1183", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Delhi", 
             "1250", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gandhi Maidan", 
@@ -168,7 +168,7 @@
         [
             "Mangalore", 
             "1443", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Patna", 
@@ -193,12 +193,12 @@
         [
             "Muzaffarnagar", 
             "1871", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Muzaffarnagar", 
             "1915", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Patna", 
@@ -428,12 +428,12 @@
         [
             "Muzaffarnagar", 
             "3800", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Muzaffarnagar", 
             "3972", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Patna", 
@@ -478,7 +478,7 @@
         [
             "Ranchi", 
             "4444", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bihar", 
@@ -493,7 +493,7 @@
         [
             "Gandhi Maidan", 
             "4789", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Patna Railway Station", 
@@ -508,7 +508,7 @@
         [
             "Muzaffarnagar", 
             "5058", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bodh Gaya", 
@@ -593,7 +593,7 @@
         [
             "Kaimur", 
             "5619", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mirganj", 
@@ -1009,7 +1009,8 @@
     "PER": [
         [
             "Shinde", 
-            "4228"
+            "4228", 
+            "Comment"
         ], 
         [
             "Motihari", 
@@ -2033,7 +2034,8 @@
         ], 
         [
             "Modi", 
-            "7413"
+            "7413", 
+            "Comment"
         ], 
         [
             "Narendra Modi", 

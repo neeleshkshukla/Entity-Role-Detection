@@ -23,12 +23,12 @@
         [
             "Maneka cinema hall", 
             "144", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Maneka", 
             "166", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Gorakhpur", 
@@ -53,12 +53,12 @@
         [
             "Faizabad", 
             "309", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ayodhya", 
             "345", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [

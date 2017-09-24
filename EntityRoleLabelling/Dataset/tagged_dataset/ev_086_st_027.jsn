@@ -13,7 +13,7 @@
         [
             "Mumbai", 
             "48", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Maharashtra", 
@@ -38,7 +38,7 @@
         [
             "Pakistan", 
             "405", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -115,7 +115,7 @@
         [
             "Afzal Guru", 
             "390", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 

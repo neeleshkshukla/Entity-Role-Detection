@@ -23,12 +23,12 @@
         [
             "Begusarai", 
             "196", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bihar", 
             "198", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -99,7 +99,7 @@
         [
             "Ulfa", 
             "58", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Indian Airlines", 

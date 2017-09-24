@@ -48,22 +48,22 @@
         [
             "Jama Masjid", 
             "346", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Delhi", 
             "349", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Malegaon", 
             "351", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Maharashtra", 
             "353", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [], 

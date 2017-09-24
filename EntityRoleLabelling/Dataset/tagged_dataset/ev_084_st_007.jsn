@@ -28,7 +28,7 @@
         [
             "Mumbai", 
             "176", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Maharashtra", 
@@ -58,7 +58,7 @@
         [
             "Pakistan", 
             "337", 
-            "Victim Location"
+            "Victim"
         ]
     ], 
     "PER": [
@@ -125,7 +125,8 @@
         ], 
         [
             "Headley", 
-            "313"
+            "313", 
+            "Accused"
         ]
     ], 
     "TIM": [], 

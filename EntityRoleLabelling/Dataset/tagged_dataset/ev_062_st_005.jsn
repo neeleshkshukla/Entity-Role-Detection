@@ -8,7 +8,7 @@
         [
             "Jammu and Kashmir.A", 
             "74", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Srinagar", 
@@ -95,7 +95,7 @@
         [
             "Lashkar-e-Taiba", 
             "145", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ]
 }

@@ -8,7 +8,7 @@
         [
             "Delhi", 
             "27", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jama Masjid", 
@@ -43,7 +43,7 @@
         [
             "Jama Masjid", 
             "400", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Delhi", 
@@ -68,17 +68,17 @@
         [
             "Sarojini Nagar", 
             "536", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Paharganj", 
             "540", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Kalkaji", 
             "545", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jama Masjid", 

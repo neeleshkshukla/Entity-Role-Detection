@@ -28,7 +28,7 @@
         [
             "Matavadi", 
             "189", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Labeshwar", 
@@ -38,12 +38,12 @@
         [
             "Limbi", 
             "241", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Surendranagar", 
             "246", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Ahmedabad", 
@@ -53,7 +53,7 @@
         [
             "Surendranagar", 
             "372", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -85,12 +85,12 @@
         [
             "Abdul Halim", 
             "294", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Halim", 
             "310", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Qadir", 

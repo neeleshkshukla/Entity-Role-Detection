@@ -23,22 +23,22 @@
         [
             "Hampi", 
             "59", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
             "90", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
             "92", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pune", 
             "94", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "North Main Road", 
@@ -68,12 +68,12 @@
         [
             "Kashmir", 
             "267", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
             "272", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bengaluru International Airport", 
@@ -176,12 +176,12 @@
         [
             "Wipro", 
             "288", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Infosys offices", 
             "290", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ]
     ]
 }

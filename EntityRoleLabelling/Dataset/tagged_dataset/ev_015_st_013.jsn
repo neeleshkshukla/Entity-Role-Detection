@@ -8,7 +8,7 @@
         [
             "GUWAHATI", 
             "21", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Assam", 
@@ -128,12 +128,12 @@
         [
             "Kolaigaon", 
             "376", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Udalguri", 
             "380", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Borhat", 
@@ -148,72 +148,72 @@
         [
             "Dhubri", 
             "441", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             ", Bongaigaon ,", 
             "442", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Bongaigaon", 
             "443", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Kokrajhar", 
             "445", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Darrang", 
             "447", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Darrang ,", 
             "447", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Morigaon", 
             "449", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Chirang", 
             "451", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Udalguri", 
             "453", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Sonitpur", 
             "455", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Sibsagar", 
             "457", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Karbi Anglong", 
             "459", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Kamrup", 
             "462", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Nalbari", 
             "464", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Assam", 

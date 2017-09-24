@@ -28,27 +28,27 @@
         [
             "Assam", 
             "148", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Golaghat", 
             "151", 
-            "Accused Location"
+            "Accused"
         ], 
         [
-            "Jharkhand : 159", 
-            "Neutral", 
-            "Assoc Event Location"
+            "Jharkhand", 
+            "159", 
+            "Assoc_Event"
         ], 
         [
             "Gumla", 
             "162", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Simdega", 
             "164", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Assam", 
@@ -58,7 +58,7 @@
         [
             "Gumla", 
             "208", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

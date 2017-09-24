@@ -8,7 +8,7 @@
         [
             "Mecca Masjid", 
             "24", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "DELHI", 
@@ -23,12 +23,12 @@
         [
             "Hyderabads", 
             "72", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Mecca Masjid", 
             "73", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "India", 
@@ -53,7 +53,7 @@
         [
             "Mecca Masjid", 
             "251", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
@@ -78,7 +78,7 @@
         [
             "Mecca Masjid", 
             "308", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Hyderabad", 
@@ -158,12 +158,12 @@
         [
             "Nalgonda", 
             "704", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bangalore", 
             "726", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [
@@ -190,17 +190,17 @@
         [
             "Shahid", 
             "366", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Baramulla", 
             "426", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shabbir Ahmed", 
             "428", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mohammad Yusuf Shah", 
@@ -210,7 +210,7 @@
         [
             "Ahmed", 
             "454", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shabbir Ahmed", 
@@ -220,7 +220,7 @@
         [
             "Mujib Ahmed", 
             "493", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shahid", 
@@ -230,32 +230,32 @@
         [
             "Ahmed", 
             "508", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Krishna Prasad", 
             "527", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "Mujib Ahmeds", 
             "561", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mujib", 
             "583", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Amjad Ali", 
             "623", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Mujibs", 
             "629", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Shahid", 
@@ -265,7 +265,7 @@
         [
             "Ali", 
             "642", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Haren Pandya", 
@@ -280,12 +280,12 @@
         [
             "Mujib Ahmeds", 
             "699", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Abdul Rehman", 
             "706", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [
@@ -425,7 +425,7 @@
         [
             "Hizb-ul-Mujahideens", 
             "436", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Jammu and Kashmir Liberation Front", 
@@ -435,7 +435,7 @@
         [
             "Islamist Hizb-ul-Mujahideen", 
             "470", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Andhra Pradesh government", 
@@ -445,7 +445,7 @@
         [
             "Lashkar-e-Taiba", 
             "576", 
-            "Assoc Accused", 
+            "Assoc_Accused", 
             "Others"
         ], 
         [
@@ -456,7 +456,7 @@
         [
             "Hizb-ul-Mujahideen", 
             "580", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Central Bureau of Investigation", 
@@ -466,7 +466,7 @@
         [
             "Lashkar-e-Taiba", 
             "680", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Harkat-ul-Jihad-e-Islami", 

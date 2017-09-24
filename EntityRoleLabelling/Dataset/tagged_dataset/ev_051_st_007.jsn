@@ -13,7 +13,7 @@
         [
             "Birmingham", 
             "18", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Srinagar", 
@@ -38,7 +38,7 @@
         [
             "Birmingham", 
             "113", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Srinagar", 
@@ -68,7 +68,7 @@
         [
             "Birmingham", 
             "350", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "British", 
@@ -78,7 +78,7 @@
         [
             "Birmingham", 
             "412", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "U.K.", 
@@ -128,7 +128,7 @@
         [
             "Birmingham", 
             "664", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Srinagar", 
@@ -150,7 +150,7 @@
         [
             "Abdullah Bhai", 
             "164", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Bilal", 

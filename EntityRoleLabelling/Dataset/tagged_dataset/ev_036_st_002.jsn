@@ -18,27 +18,27 @@
         [
             "Diphu", 
             "101", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Morigaon", 
             "112", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Karbi Anglong", 
             "180", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jagiroad", 
             "206", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Morigaon", 
             "208", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [

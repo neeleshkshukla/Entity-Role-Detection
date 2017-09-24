@@ -43,12 +43,12 @@
         [
             "Pakistan", 
             "196", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Afghanistan", 
             "250", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mumbai", 
@@ -63,7 +63,7 @@
         [
             "Afghanistan", 
             "359", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -126,7 +126,7 @@
         [
             "Ameen Al-Peshawari", 
             "338", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 
@@ -206,7 +206,7 @@
         [
             "LeT", 
             "148", 
-            "Assoc Accused", 
+            "Assoc_Accused", 
             "Others"
         ], 
         [

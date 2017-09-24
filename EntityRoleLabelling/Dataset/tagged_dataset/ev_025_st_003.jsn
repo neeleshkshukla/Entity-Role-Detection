@@ -9,7 +9,7 @@
         [
             "Assam", 
             "144", 
-            "Accused Location", 
+            "Accused", 
             "Neutral"
         ], 
         [
@@ -34,11 +34,7 @@
         ]
     ], 
     "PER": [
-        [
-            "Manmohan Singh : 96", 
-            "Comment", 
-            "Others"
-        ], 
+        
         [
             "Manmohan Singh", 
             "96", 

@@ -63,17 +63,17 @@
         [
             "Jaipur", 
             "248", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
             "250", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Uttar Pradesh", 
             "252", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
@@ -83,12 +83,12 @@
         [
             "Pakistan-based", 
             "304", 
-            "Accused"
+            "Source"
         ], 
         [
             "Pakistan", 
-            "328",
-	    "Accused"
+            "328", 
+            "Source"
         ], 
         [
             "Mumbai-based", 
@@ -108,7 +108,7 @@
         [
             "Gujarat", 
             "443", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Madhya Pradesh", 
@@ -158,7 +158,7 @@
         [
             "Surat", 
             "909", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [
@@ -225,7 +225,7 @@
         [
             "Abu Bashir", 
             "677", 
-            "Accused"
+            "Assoc_Accused"
         ], 
         [
             "Bhatia", 
@@ -391,17 +391,17 @@
         [
             "SIMI-LeT", 
             "326", 
-            "Accused"
+            "Assoc_Accused"
         ], 
         [
             "ISI", 
             "330", 
-            "Accused"
+            "Assoc_Accused"
         ], 
         [
             "ISI", 
             "342", 
-            "Accused"
+            "Assoc_Accused"
         ], 
         [
             "Wipro", 
@@ -440,8 +440,8 @@
         ], 
         [
             "SIMI", 
-            "614",
-	     "Accused"
+            "614", 
+            "Accused"
         ], 
         [
             "city civil hospital", 

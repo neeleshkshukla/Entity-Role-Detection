@@ -48,12 +48,12 @@
         [
             "Murshidabad", 
             "197", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Nadia", 
             "199", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Malda", 
@@ -63,12 +63,12 @@
         [
             "Birbhum", 
             "203", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bardhaman", 
             "205", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "West Bengal", 
@@ -78,7 +78,7 @@
         [
             "Barpeta", 
             "210", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Assam", 
@@ -88,12 +88,12 @@
         [
             "Sahibganj", 
             "214", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakur", 
             "216", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Jharkhand", 

@@ -23,7 +23,7 @@
         [
             "cinema halls", 
             "344", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Safdarjung", 
@@ -33,7 +33,7 @@
         [
             "movie theatres", 
             "365", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [
@@ -55,7 +55,7 @@
         [
             "Mohammad Irshad", 
             "347", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ], 
     "TIM": [], 
@@ -178,7 +178,7 @@
         [
             "LeT", 
             "328", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ]
     ]
 }

@@ -103,7 +103,7 @@
         [
             "Pakistan", 
             "608", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pune", 
@@ -118,12 +118,12 @@
         [
             "Maheyan", 
             "700", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mohanpur", 
             "703", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Gaya", 
@@ -163,7 +163,7 @@
         [
             "Pakistan", 
             "852", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Myanmar", 
@@ -188,17 +188,17 @@
         [
             "Bihar", 
             "940", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Saudi Arabia", 
             "946", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "UK", 
             "949", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [

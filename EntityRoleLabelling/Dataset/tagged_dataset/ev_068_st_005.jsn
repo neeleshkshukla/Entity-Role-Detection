@@ -88,12 +88,12 @@
         [
             "Mecca mosque", 
             "553", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Hyderabad", 
             "556", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [

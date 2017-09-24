@@ -18,12 +18,12 @@
         [
             "Uttar Pradesh", 
             "74", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "UP", 
             "148", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Rajasthan", 
@@ -33,7 +33,7 @@
         [
             "Ajmer", 
             "240", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jaipur", 

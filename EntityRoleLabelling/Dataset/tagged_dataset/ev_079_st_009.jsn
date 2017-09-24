@@ -3,7 +3,7 @@
         [
             "FARIDABAD", 
             "1", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Delhi", 
@@ -18,12 +18,12 @@
         [
             "Aligarh", 
             "95", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Uttar Pradesh", 
             "97", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Mohan Nagar", 
@@ -68,12 +68,12 @@
         [
             "IIT", 
             "541", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Lado Sarai", 
             "543", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Delhi", 
@@ -93,12 +93,12 @@
         [
             "Bangalore", 
             "822", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ahmedabad", 
             "824", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Delhi", 

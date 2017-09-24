@@ -28,12 +28,12 @@
         [
             "Hyderabad", 
             "141", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Bangalore", 
             "143", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ]
     ], 
     "PER": [], 

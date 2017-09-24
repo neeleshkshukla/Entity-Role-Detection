@@ -8,32 +8,32 @@
         [
             "Pakistan", 
             "49", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Dubai", 
             "127", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
             "129", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Delhi", 
             "161", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Ahmedabad", 
             "163", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Jaipur", 
             "165", 
-            "Assoc Event Location"
+            "Assoc_Event"
         ], 
         [
             "Azamgarh", 
@@ -48,7 +48,7 @@
         [
             "Azamgarh", 
             "214", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Varanasi", 
@@ -58,17 +58,17 @@
         [
             "Nepal", 
             "243", 
-            "Victim Location"
+            "Victim"
         ], 
         [
             "Dubai", 
             "261", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
             "263", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Varanasi", 
@@ -110,7 +110,7 @@
         [
             "Mohammed Saif", 
             "77", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Atiq Amin", 
@@ -120,7 +120,7 @@
         [
             "Saif", 
             "115", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Dr Shahnawaz", 
@@ -130,7 +130,7 @@
         [
             "Shahnawz", 
             "140", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Dr Shahnawaz", 

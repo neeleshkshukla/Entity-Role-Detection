@@ -8,17 +8,17 @@
         [
             "Chattabal", 
             "81", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Multan", 
             "112", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
             "114", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Bemina", 
@@ -28,57 +28,57 @@
         [
             "Uri", 
             "160", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Line of Control", 
             "163", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "LoC", 
             "167", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Baramulla", 
             "170", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Uri", 
             "234", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "north Kashmir", 
             "236", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Sahiwal", 
             "253", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Dera Gazi Khan", 
             "255", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
             "259", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
             "321", 
-            "Accused Location"
+            "Accused"
         ], 
         [
             "Pakistan", 
             "351", 
-            "Accused Location"
+            "Accused"
         ]
     ], 
     "PER": [

@@ -13,7 +13,7 @@
         [
             "Karachi", 
             "53", 
-            "Event"
+            "Others"
         ], 
         [
             "Pakistan", 
@@ -28,7 +28,7 @@
         [
             "Mumbai", 
             "90", 
-            "Event"
+            "Others"
         ], 
         [
             "Mumbai", 
@@ -48,18 +48,14 @@
         [
             "Babri mosque", 
             "270", 
-            "Event"
+            "Others"
         ], 
         [
             "Mumbai", 
             "313", 
             "Neutral"
         ], 
-        [
-            "Mumbai", 
-            "377",
-	    "Neutral"
-        ], 
+       
         [
             "Mumbai", 
             "410", 

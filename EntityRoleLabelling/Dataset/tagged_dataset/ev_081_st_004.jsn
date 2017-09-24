@@ -95,17 +95,17 @@
         [
             "NCP", 
             "181", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "Vishwa Hindu Parishad", 
             "185", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ], 
         [
             "NCP", 
             "204", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "SIMI", 
@@ -115,12 +115,12 @@
         [
             "NCP", 
             "243", 
-            "Assoc Accused"
+            "Assoc_Accused"
         ], 
         [
             "VHP", 
             "279", 
-            "Assoc Victim"
+            "Assoc_Victim"
         ]
     ]
 }
