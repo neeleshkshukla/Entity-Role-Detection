@@ -1,0 +1,13 @@
+CRFSuite Tutorial
+http://sklearn-crfsuite.readthedocs.io/en/latest/tutorial.html
+
+HMM Tutorial
+http://hmmlearn.readthedocs.io/en/latest/tutorial.html
+larsmans.github.io/seqlearn/index.html
+
+
+LSTM
+
+https://github.com/liu-nlper/NER-LSTM-CRF
+https://github.com/monikkinom/ner-lstm
+https://github.com/guillaumegenthial/sequence_tagging

@@ -68,14 +68,16 @@ class Config():
     filename_glove = "data/glove.6B/glove.6B.{}d.txt".format(dim_word)
     # trimmed embeddings (created from glove_filename with build_data.py)
     filename_trimmed = "data/glove.6B.{}d.trimmed.npz".format(dim_word)
-    use_pretrained = True
+    use_pretrained = False
 
     # dataset
     # filename_dev = "data/coNLL/eng/eng.testa.iob"
     # filename_test = "data/coNLL/eng/eng.testb.iob"
     # filename_train = "data/coNLL/eng/eng.train.iob"
 
-    filename_dev = filename_test = filename_train = "data/test.txt" # test
+    filename_dev = "data/valid.txt"
+    filename_test = "data/test.txt" 
+    filename_train = "data/train.txt"
 
     max_iter = None # if not None, max number of examples in Dataset
 
@@ -86,7 +88,7 @@ class Config():
 
     # training
     train_embeddings = False
-    nepochs          = 15
+    nepochs          = 1
     dropout          = 0.5
     batch_size       = 20
     lr_method        = "adam"
