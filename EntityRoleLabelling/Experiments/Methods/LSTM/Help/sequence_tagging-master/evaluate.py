@@ -31,8 +31,7 @@ def align_data(data):
 
     return data_aligned
 
-
-
+  
 def interactive_shell(model):
     """Creates interactive shell to play with model
 
@@ -81,7 +80,8 @@ def main():
 
     # evaluate and interact
     model.evaluate(test)
-    interactive_shell(model)
+    #interactive_shell(model)
+
 
 
 if __name__ == "__main__":
