@@ -1,0 +1,78 @@
+CRF
+---------------
+
+Run 1
+
+Train 1046
+Test 261
+
+precision    recall  f1-score 
+0.55      0.50      0.52      8981
+
+======= Accuracy Class Wise =====================
+
+Class    Matched Total %
+--------------------------
+PER_Others: 1079 1500 71%
+PER_Victim: 44 250 17%
+PER_Accused: 404 907 44%
+ORG_Victim: 0 91 0%
+ORG_Accused: 414 634 65%
+ORG_Others: 1142 2034 56%
+LOC_Accused: 2 152 1%
+LOC_Others: 884 1680 52%
+LOC_Event: 483 1228 39%
+LOC_Victim: 0 51 0%
+
+Avg Accuracy = 34.5
+
+
+Run2
+-----------------
+
+Train: 1033
+test : 274
+
+ precision    recall  f1-score   support
+ 0.59      0.51      0.54      9441
+
+======= Accuracy Class Wise =====================
+
+Class    Matched Total %
+--------------------------
+PER_Others: 1239 1648 75%
+PER_Victim: 34 178 19%
+PER_Accused: 357 894 39%
+ORG_Victim: 5 80 6%
+ORG_Accused: 370 556 66%
+ORG_Others: 1253 2193 57%
+LOC_Accused: 3 149 2%
+LOC_Others: 1014 1873 54%
+LOC_Event: 551 1391 39%
+LOC_Victim: 2 46 4%
+
+Avg Accuracy = 36.1
+
+
+
+
+Run 3
+---------------
+
+======= Accuracy Class Wise =====================
+
+Class    Matched Total %
+--------------------------
+PER_Others: 1233 1769 69%
+PER_Victim: 74 306 24%
+PER_Accused: 308 808 38%
+ORG_Victim: 0 65 0%
+ORG_Accused: 433 572 75%
+ORG_Others: 1170 2091 55%
+LOC_Accused: 1 163 0%
+LOC_Others: 936 1721 54%
+LOC_Event: 481 1151 41%
+LOC_Victim: 0 20 0%
+
+Avg Accuracy = 35.6
+

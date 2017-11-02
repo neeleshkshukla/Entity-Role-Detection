@@ -1,0 +1,58 @@
+CRF and Score of Word
+------------------------
+
+Run 1
+======= Accuracy Class Wise =====================
+
+Class    Matched Total %
+--------------------------
+PER_Others: 1107 1511 73%
+PER_Victim: 46 269 17%
+PER_Accused: 308 782 39%
+ORG_Victim: 0 71 0%
+ORG_Accused: 373 552 67%
+ORG_Others: 1248 2130 58%
+LOC_Accused: 1 166 0%
+LOC_Others: 818 1503 54%
+LOC_Event: 552 1232 44%
+LOC_Victim: 0 28 0%
+
+Avg accuracy: 35.2%
+
+
+Run 2
+
+======= Accuracy Class Wise =====================
+
+Class    Matched Total %
+--------------------------
+PER_Others: 1417 1886 75%
+PER_Victim: 55 259 21%
+PER_Accused: 378 1002 37%
+ORG_Victim: 4 107 3%
+ORG_Accused: 411 603 68%
+ORG_Others: 1402 2369 59%
+LOC_Accused: 1 183 0%
+LOC_Others: 972 1881 51%
+LOC_Event: 737 1558 47%
+LOC_Victim: 0 33 0%
+
+Avg accuracy: 36.1%
+
+
+======= Accuracy Class Wise =====================
+
+Class    Matched Total %
+--------------------------
+PER_Others: 1419 2084 68%
+PER_Victim: 71 319 22%
+PER_Accused: 324 828 39%
+ORG_Victim: 2 98 2%
+ORG_Accused: 473 641 73%
+ORG_Others: 1295 2335 55%
+LOC_Accused: 2 212 0%
+LOC_Others: 1023 1956 52%
+LOC_Event: 571 1366 41%
+LOC_Victim: 0 51 0%
+
+Avg accuracy: 35.2%
