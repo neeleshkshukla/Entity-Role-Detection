@@ -1,0 +1,7 @@
+http://nlp.town/blog/ner-and-the-road-to-deep-learning/
+
+Benchmarks
+https://github.com/emory-courses/cs571/wiki/Benchmarks -Lexicon Infused Phrase Embeddings for Named Entity Resolution
+
+Reading Wikipedia to Answer Open-Domain Questions Facebook Research
+https://github.com/facebookresearch/DrQA
