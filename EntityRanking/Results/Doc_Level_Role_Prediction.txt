@@ -1,0 +1,1722 @@
+ev_092_st_006.txt
+PER_Victim  VC_Shukla Shailesh_Nitin_Trivedi Kawasai_Lakma Gopi_Madwani Mahendra_Karma
+PER_Others  Shailesh_Nitin_Trivedi Raman_Singh VC_Shukla Nandkumar_Patel Gopi_Madwani
+PER_Accused  Shailesh_Nitin_Trivedi Nandkumar_Patel VC_Shukla Raman_Singh Dinesh_Patel
+LOC_Event  Chhattisgarh Darbha_Ghat Sukma Sukma Bastar
+LOC_Victim  Keshloor Darbha_Ghat Sukma Sukma Chhattisgarh
+LOC_Others  Chhattisgarh Sukma Sukma Darbha_Ghat Bastar
+ORG_Accused  Congress Congress Congress Congress Congress
+ORG_Victim  Congress Congress Congress Congress Congress
+ORG_Others  Congress Congress Congress Congress Congress
+
+
+ev_036_st_001.txt
+PER_Others  Chander_Prakash Assams_Morigaon
+LOC_Others  Jagiroad GUWAHATI Kheroni_village central_Assams_Karbi_Anglong_district Diphu
+ORG_Others  Police Karbi_Longri_N.C._Hills_Liberation_Front Autonomous_State_Demand_Committee KLNLF KLNLF
+
+
+ev_087_st_023.txt
+PER_Others  Sheikh_Hasina Manmohan_Singh Hasina Singh
+LOC_Event  Delhi Dhaka Dhaka Bangladesh Bangladesh
+LOC_Others  Delhi Dhaka Dhaka Bangladesh Bangladesh
+ORG_Victim  Dhaka_University Delhi_High_Court
+ORG_Others  Delhi_High_Court Dhaka_University
+
+
+ev_078_st_007.txt
+PER_Others  Amarnath
+LOC_Others  Andhra_Pradesh Mumbai Rajasthan Rajasthan Karnataka
+ORG_Accused  ATS ATS Indian_Mujahideen Indian_Mujahideen Indian_Mujahideen
+ORG_Others  ATS ATS state_governments Central_government Indian_Mujahideen
+
+
+ev_090_st_008.txt
+PER_Others  Abdullah Omar_Abdullah
+LOC_Event  Srinagar Srinagar Srinagar Srinagar Srinagar
+LOC_Others  Srinagar Srinagar Srinagar Srinagar Srinagar
+ORG_Others  CRPF CRPF CRPF CRPF CRPF
+
+
+2010_9_14_st-409.txt
+PER_Others  P.D._Somarajan Somarajan K._Ramakrishnan James_Philipose
+LOC_Others  Cheriathura Jaipur Hyderabad
+ORG_Others  State_Forensic_Sciences_Laboratory Kerala_Police_Officers_'_Association
+
+
+ev_084_st_013.txt
+PER_Others  Ashok_Chavan Chavan Sharad_Pawar Ramesh_Bagwe Rajendra_Sonawane
+PER_Accused  Chavan Ashok_Chavan David_Headley Ramesh_Bagwe Sharad_Pawar
+LOC_Event  German_Bakery_on_North_Main_Avenue Punes_Koregaon_Park Osho_Ashram Osho_Ashram Mumbai
+LOC_Others  Osho_Ashram Osho_Ashram German_Bakery_on_North_Main_Avenue Punes_Koregaon_Park Mumbai
+ORG_Accused  forensic Anti-Terrorism_Squad ATS National_Investigation_Agency NIA
+ORG_Others  forensic National_Investigation_Agency ATS Anti-Terrorism_Squad NIA
+
+
+ev_079_st_018.txt
+PER_Others  Anil_Kumar Surendra_Kumar_Upadhyaya Sanya_Suneja Amit_Sharma Meeta
+LOC_Event  Gaffar_Market Gaffar_Market Greater_Kailash-I Greater_Kailash-I Sarojini_Nagar
+LOC_Others  Greater_Kailash-I Greater_Kailash-I Sarojini_Nagar Sarojini_Nagar Sarojini_Nagar
+ORG_Others  Delhi_police Palika_Bazar_Shopkeepers_Welfare_Association local_police
+
+
+2011_9_10_st-77.txt
+PER_Victim  Nitin Nitin Pramod_Kumar_Mahindera Sunil_Saxena Saxena
+PER_Others  Saxena Saxena Nitin Nitin Sunil_Saxena
+ORG_Victim  Ram_Manohar_Lohia_Hospital RML RML_Hospital Delhi_High_Court
+ORG_Others  RML Ram_Manohar_Lohia_Hospital RML_Hospital Delhi_High_Court
+
+
+ev_084_st_023.txt
+PER_Others  Shahrukh Yashin_Ahmad Mohd_Qateel_Siddique Asif Mohd_Irshad_Khan
+PER_Accused  Shahrukh Yashin_Ahmad Asif Mohd_Qateel_Siddique Mohd_Adil
+LOC_Event  Pune_German_Bakery Chinnaswamy_stadium stadium Anand_Vihar_Bus_Terminal Bangalore
+LOC_Accused  Pune_German_Bakery Karnataka Bhatkal Delhi Delhi
+LOC_Others  Anand_Vihar_Bus_Terminal Pune_German_Bakery Bhatkal Karnataka Chinnaswamy_stadium
+ORG_Accused  Indian_Mujahideen Indian_Mujahideen National_Cadet_Corps Indian_Mujahiddin Indian_Mujahiddin
+ORG_Victim  Indian_Mujahideen Indian_Mujahideen National_Cadet_Corps Indian_Mujahiddin Indian_Mujahiddin
+ORG_Others  Indian_Mujahideen Indian_Mujahideen National_Cadet_Corps Indian_Mujahiddin Indian_Mujahiddin
+
+
+ev_077_st_007.txt
+PER_Others  Moosa Ashwaq Abdul_Qadir Qayamuddin_Kapadia Qayamuddin_Kapadia
+PER_Accused  Moosa Ashwaq Abdul_Qadir Qayamuddin_Kapadia Qayamuddin_Kapadia
+LOC_Event  BHOPAL/AHMEDABAD Madhya_Pradesh Madhya_Pradesh Wadi_Taiwada_in_Vadodara Ahmedabad
+LOC_Accused  SIMI Kapadia Kapadia Kapadia Kapadia
+LOC_Victim  BHOPAL/AHMEDABAD Gujarat_police Vadodara Wadi_Taiwada_in_Vadodara Ahmedabad
+LOC_Others  BHOPAL/AHMEDABAD Madhya_Pradesh Madhya_Pradesh Wadi_Taiwada_in_Vadodara Delhi
+ORG_Accused  Indian_Mujahideen Indian_Mujahideen SIMI SIMI SIMI
+ORG_Others  Indian_Mujahideen Indian_Mujahideen SIMI SIMI SIMI
+
+
+ev_039_st_003.txt
+
+
+ev_063_st_005.txt
+PER_Others  B_L_Joshi Sonia_Gandhi Shivraj_Patil Sheila_Dikshit Sheila_Dikshit
+LOC_Event  Paharganj Sarojini_Nagar Delhi Delhi Delhi
+LOC_Victim  Haji_Ali masjid Sarojini_Nagar Mahim_Dargah Paharganj
+LOC_Others  Delhi Delhi Delhi Delhi Delhi
+ORG_Others  Congress Lok_Nayak_Jayaprakash_Narayan_Hospital.According anti-terrorist_cell rediff.com rediff.com
+
+
+ev_037_st_011.txt
+PER_Others  Tarun_Gogoi P_C_Saloi P_Chidambaram Sheikh_Hasina_Wajed Jiten_Gogoi
+LOC_Event  Birubari Kamakhya_Temple Bhootnath_market Guwahati Guwahati
+LOC_Others  Birubari Kamakhya_Temple Guwahati Guwahati Guwahati
+ORG_Accused  National_Democratic_Front Ulfa Ulfa Ulfa Ulfa
+ORG_Others  Lokopriya_Gopinath_Bordoloi_TB_Hospital Ulfa Ulfa Ulfa Ulfa
+
+
+2011_11_6_st-650.txt
+PER_Others  Suleimon_Lawal
+LOC_Event  Maiduguri Damaturu Damaturu Damaturu Damaturu
+LOC_Others  Damaturu Damaturu Damaturu Damaturu Damaturu
+ORG_Accused  AFP AFP AFP Boko_Haram
+ORG_Others  AFP AFP AFP Boko_Haram
+
+
+ev_042_st_004.txt
+PER_Victim  A_K_Singh Lulu_Das Das
+PER_Others  A_K_Singh Lulu_Das Das
+LOC_Event  Upper_Assam Sivasagar Sivasagar Sivasagar Sivasagar
+LOC_Others  Sivasagar Sivasagar Sivasagar Sivasagar Upper_Assam
+ORG_Accused  United_Liberation_Front_of_Asom ULFA ULFA Assam_Medical_College_Hospital
+ORG_Others  United_Liberation_Front_of_Asom ULFA ULFA Assam_Medical_College_Hospital
+
+
+ev_061_st_010.txt
+PER_Others  Karnal_Singh Sanjeev
+LOC_Event  Central_Delhi Paharganj_area Jammu_and_Kashmir New_Delhi_railway_station Chheh_Tuti_Chowk
+LOC_Others  Jammu_and_Kashmir New_Delhi New_Delhi_railway_station Central_Delhi Paharganj_area
+ORG_Accused  Lashkar-e-Toiba police_officer Police Union_Home_Ministry police
+ORG_Others  Police police_officer Lashkar-e-Toiba Union_Home_Ministry police
+
+
+ev_042_st_001.txt
+PER_Others  G._D._Tripathi Mr._Tripathi Paresh_Barua
+PER_Accused  G._D._Tripathi Mr._Tripathi Paresh_Barua
+LOC_Event  cinema_hall Dibrugarh Upper_Assams_Sivasagar Sivasagar Lakshmi_Talkies
+LOC_Victim  Dibrugarh cinema_hall Upper_Assams_Sivasagar Lakshmi_Talkies Central_Market
+ORG_Accused  ULFA United_Liberation_Front_of_Asom Assam_Medical_College Police Police
+ORG_Others  ULFA Assam_Medical_College United_Liberation_Front_of_Asom Police Police
+
+
+2013_9_16_st-23.txt
+LOC_Event  Binshai Pakistan Khyber_Pakhtunkhwa Afghanistan
+LOC_Others  Pakistan Afghanistan Binshai Khyber_Pakhtunkhwa
+ORG_Accused  Taliban
+
+
+ev_069_st_004.txt
+PER_Others  Paresh_Barua Nitish_Kumar Modi Modi Sushil_Kumar_Modi
+LOC_Others  Athgaon PATNA Dhaka_Jail Assam Assam
+ORG_Accused  ULFA ULFA ULFA Congress Ulfa
+ORG_Others  Ulfa Ulfa Ulfa ULFA ULFA
+
+
+ev_050_st_005.txt
+PER_Victim  Imtiyaz_Ahmad BARAMULA Sharma Bhatia I_Tariq
+PER_Others  Imtiyaz_Ahmad Kuldip_Sharma BARAMULA Devinder_Singh Jan_Mohammad
+LOC_Event  Anantnag Kothibagh_police_station Tangaloo-Duroo Ramkote Karnah
+LOC_Accused  Anantnag Karnah Noushera Tangaloo-Duroo SRINAGAR
+LOC_Others  Anantnag Kothibagh_police_station Tangaloo-Duroo Ramkote Kathua
+ORG_Accused  Hizbul_Mujahideen Army Army Army Army
+ORG_Others  Reuters Hizbul_Mujahideen UNI ANI SMHS_Hospital
+
+
+ev_058_st_002.txt
+PER_Victim  Mohammed_Hasan_Batterywala Mohammed_Ansari_Ladoowala Nasir Ashrat_Ansari Fehmida_Sayed
+PER_Others  Fehmida_Sayed Ashrat_Ansari Mohammed_Hasan_Batterywala P_D_Kode Mohammed_Ansari_Ladoowala
+PER_Accused  Mohammed_Hasan_Batterywala Mohammed_Ansari_Ladoowala Ashrat_Ansari Fehmida_Sayed A_M_Khanwilkar
+LOC_Event  Zaveri_Bazaar Zaveri_Bazar Mumbai Mumbai Mumbai
+LOC_Others  Mumbai Mumbai Mumbai Dubai Dubai
+ORG_Accused  Bombay_High_Court Lashkar-e-Taiba LeT LeT LeT
+ORG_Others  Bombay_High_Court Lashkar-e-Taiba LeT LeT LeT
+
+
+ev_082_st_014.txt
+PER_Others  Pranay_Sahay
+LOC_Event  Motor_Stand Radhanagar Radhanagar Radhanagar Bangalore
+LOC_Accused  UP north-eastern Agartala Agartala Tripura
+LOC_Others  north-eastern UP Bangladesh Bangladesh Radhanagar
+ORG_Accused  Indian_Mujahideen SIMI_splinter_group central_intelligence_agencies HuJI HuJI
+ORG_Others  Indian_Mujahideen Agartala_Government_Medical_College_hospital SIMI_splinter_group Border_Security_Force state_police
+
+
+ev_089_st_037.txt
+PER_Others  Shinde Prasad Prasad Sushilkumar_Shindes Ravi_Shankar_Prasad
+LOC_Event  Hyderabad Andhra_Pradesh
+ORG_Others  STF NCTC NCTC BJP BJP
+
+
+ev_074_st_018.txt
+LOC_Event  Assam Golaghat Nuajan Chauan
+LOC_Others  Assam Golaghat Nuajan Chauan
+
+
+ev_019_st_002.txt
+PER_Victim  Shakil_Ahmad Shakil_Ahmad Sovon_Mondal Nurul_Hasan_Choudhury
+PER_Others  Shakil_Ahmad Shakil_Ahmad Nurul_Hasan_Choudhury Sovon_Mondal
+PER_Accused  Shakil_Ahmad Shakil_Ahmad Nurul_Hasan_Choudhury Sovon_Mondal
+LOC_Event  West_Bengal Bardhaman
+LOC_Others  West_Bengal Bardhaman
+ORG_Others  National_Investigation_Agency Trinamool_Congress NIA NIA TMC
+
+
+ev_070_st_008.txt
+PER_Others  Y_S_Rajasekhara_Reddy Reddy Reddy Iftekhar_Ahmed_Chowdhury Pranab_Mukherjee
+LOC_Event  Mecca_Masjid Hyderabad Hyderabad Hyderabad Andhra_Pradesh
+LOC_Others  Andhra_Pradesh Andhra_Pradesh Mecca_Masjid Hyderabad Hyderabad
+ORG_Others  Foreign_Affairs Bangladesh_government Indian_External_Affairs_Minister economic_progress_and_the_international_organisations
+
+
+2011_5_27_st-240.txt
+PER_Others  R.S._Krishnia
+ORG_Others  Delhi_High_Court Central_Forensic_Science_Laboratory Delhi_Police
+
+
+ev_035_st_011.txt
+PER_Others  Bhaskarjyoti_Mahanta Nazir_Ahmed R._Chandranathan Pradip_Konwar Sushanta_Talukdar
+PER_Accused  Bhaskarjyoti_Mahanta Nazir_Ahmed R._Chandranathan Pradip_Konwar Nazir
+LOC_Event  Dispur Guwahati Guwahati Ganeshguri Dhing
+LOC_Others  Dispur Chief_Judicial_Magistrate_Court Nagaon Nagaon Nagaon
+ORG_Others  Assam_police Special_Investigation_Team Viswa_Hindu_Parishad Indian_Mujahideen CJM_Court
+
+
+ev_063_st_009.txt
+PER_Accused  Abdul_Karim_Tunda Tunda
+LOC_Event  NEW_DELHI Walled_City Walled_City Walled_City north-east_Delhi
+LOC_Others  NEW_DELHI Walled_City Walled_City Walled_City north-east_Delhi
+ORG_Accused  Lashkar-e-Taiba Delhi_police
+ORG_Others  Lashkar-e-Taiba Delhi_police
+
+
+ev_091_st_011.txt
+PER_Others  Hilal_Molvi Abdul_Gani_Mir Mudassir_Wani Afzal_Guru Omar_Abdullah
+LOC_Others  Pakistan-based Bemina Bemina New_Delhi_on Srinagar
+ORG_Others  on_the_Police_Public_School CRPF CRPF CRPF CRPF
+
+
+ev_086_st_033.txt
+PER_Others  L.K._Advani Rudy Rahul_Gandhi Rahul_Gandhi Rahul_Gandhi
+LOC_Event  Mumbai Mumbai Mumbai Mumbai Mumbai
+LOC_Others  Mumbai Mumbai Mumbai Mumbai Mumbai
+ORG_Others  Yuva_Morcha Congress Congress Congress Congress
+
+
+ev_026_st_003.txt
+PER_Others  S_N_Singh
+LOC_Event  Guwahati Panbazar Assam Fancy_Bazar Shani_Mandir
+LOC_Others  Guwahati Panbazar Assam Shani_Mandir Fancy_Bazar
+ORG_Accused  ULFA ULFA
+
+
+ev_062_st_006.txt
+PER_Others  Anil_Mishra Jaya Sheela_Bhatt Mazumdar Navneet_Sikera
+LOC_Event  railway_station Varanasi_railway_station Sankat_Mochan_Hanuman_temple Varanasi Varanasi
+LOC_Others  railway_station Sankat_Mochan_Hanuman_temple Varanasi Varanasi Varanasi
+ORG_Accused  West_Bengal_police Time_magazine rediff.com Lashkar-e-Tayiba Lashkar-e-Tayiba
+ORG_Others  rediff.com Benaras_Hindu_University_hospital West_Bengal_police bomb_squad Bengal_police
+
+
+ev_049_st_001.txt
+PER_Others  P.K._Srivastav
+LOC_Event  NEW_DELHI Delhi Old_Delhi_railway_station
+LOC_Others  NEW_DELHI Delhi Old_Delhi_railway_station
+ORG_Others  Shushruta_Trauma_Centre Bara_Hindu_Rao_Hospital Bara_Hindu_Rao_Hospital Railway_Protection_Force
+
+
+ev_084_st_027.txt
+PER_Others  D._Raja
+LOC_Event  Pune Maharashtra
+LOC_Accused  Pune Maharashtra
+ORG_Others  Polit_Bureau government Communist_Party_of_India Central_government CPI
+
+
+ev_066_st_020.txt
+PER_Others  Devesh_K._Pandey
+LOC_Others  Old_Delhi_railway_station Old_Delhi Panipat NEW_DELHI Sadar_Bazar
+ORG_Others  police
+
+
+ev_002_st_002.txt
+LOC_Event  Gandhi_Maidan Assam Bongaigaon Bongaigaon Bongaigaon
+ORG_Accused  United_Liberation_Front_of_Asom United_Liberation_Front_of_Asom ULFA ULFA Mahamaya_Sanskrit_Tol
+ORG_Others  United_Liberation_Front_of_Asom United_Liberation_Front_of_Asom ULFA ULFA Mahamaya_Sanskrit_Tol
+
+
+ev_086_st_013.txt
+PER_Others  Manmohan_Singh Prithviraj_Chavan P_Chidambaram P_Chidambaram Singh
+LOC_Event  NEW_DELHI Maharashtra Mumbai Mumbai Mumbai
+LOC_Others  NEW_DELHI Maharashtra Mumbai Mumbai Mumbai
+
+
+2010_5_1_st-420.txt
+PER_Others  Shanti_Kumar_Dhariwal Gupta Gupta Gupta Gupta
+PER_Accused  Gupta Gupta Gupta Gupta Shanti_Kumar_Dhariwal
+LOC_Event  Ahat-e-Noor Rajasthan Rajasthan Rajasthan Ajmer
+LOC_Others  Rajasthan Rajasthan Rajasthan Ajmer Ajmer
+ORG_Accused  Rajasthan_ATS Rajasthan_Police ATS ATS ATS
+ORG_Others  Rajasthan_Police Anti-Terrorism_Squad ATS ATS ATS
+
+
+ev_051_st_004.txt
+PER_Others  Moinuddin_Haider Moinuddin_Haider Mufti_Jamil Mufti_Jamil Masood_Azar
+PER_Accused  Moinuddin_Haider Moinuddin_Haider Mufti_Jamil Mufti_Jamil Masood_Azar
+LOC_Event  Pakistan Pakistan Pakistan Pakistan Delhi
+LOC_Accused  Kashmir Kashmir India India India
+LOC_Others  Pakistan Pakistan Pakistan Pakistan Kashmir
+ORG_Accused  Lashkar-e-Taiba Lashkar-e-Taiba Indian_intelligence_agency Indian_intelligence_agency Research_and_Analysis_Wing
+ORG_Others  Indian_intelligence_agency Indian_intelligence_agency Research_and_Analysis_Wing Research_and_Analysis_Wing Lashkar-e-Taiba
+
+
+ev_062_st_002.txt
+PER_Others  Mulayam_Singh_Yadav Praveen_Swami Mohammad_Salim_bin-Aziz Shivraj_Patil Salaar
+PER_Accused  Mulayam_Singh_Yadav Praveen_Swami Mohammad_Salim_bin-Aziz Salaar Shivraj_Patil
+LOC_Event  NEW_DELHI Ratlam Sankat_Mochan_temple Jammu_and_Kashmir New_Delhi
+LOC_Accused  Pakistan Lucknow Lucknow Lucknow Varanasi
+LOC_Others  Ratlam Uttar_Pradesh Uttar_Pradesh Uttar_Pradesh Uttar_Pradesh
+ORG_Accused  The_Hindu Lashkar-e-Taiba Lashkar Lashkar Lashkar
+ORG_Others  The_Hindu Lashkar-e-Taiba Lashkar Lashkar Lashkar
+
+
+ev_025_st_004.txt
+PER_Others  Nazrul_Haque Rajen_Singh Mohammad_Azharuddin_Ali Singh Nazrul
+PER_Accused  Nazrul_Haque Mohammad_Azharuddin_Ali Rajen_Singh Haque Haque
+LOC_Event  Narengi Kamrup Satgaon Satgaon Satgaon
+LOC_Accused  Dispur Dispur Kamrup Dhubri Satgaon_market
+LOC_Others  Narengi Kamrup Satgaon Satgaon Satgaon
+ORG_Accused  Ulfa Islamic Dispur_police Dispur_police
+ORG_Others  Ulfa Islamic Dispur_police Dispur_police
+
+
+ev_048_st_005.txt
+PER_Others  AP_Tiwari
+LOC_Event  upper_Assam Digboi railway_track Tinsukia Assam
+LOC_Others  upper_Assam Digboi Tinsukia railway_track Assam
+
+
+ev_091_st_006.txt
+PER_Accused  Jahan_Aamir Syed_Ali
+LOC_Event  Malleswaram Mellapalayam Tirunelveli Poonamallee Bangalore
+LOC_Accused  Mellapalayam Malleswaram Tirunelveli Poonamallee Kumananchavadi
+LOC_Others  Mellapalayam Tirunelveli Malleswaram Poonamallee Bangalore
+ORG_Others  Bangalore_Central_Crime_Branch CCB Tamil_Nadu_police Poonamalee_police_station Bangalore_CCB
+
+
+2013_5_2_st-258.txt
+PER_Others  Raghavendra_Auradkar Auradkar Auradkar
+LOC_Event  Malleswaram
+ORG_Victim  BJP_office Forensic_Sciences_Laboratory_(_FSL_) FSL
+ORG_Others  Forensic_Sciences_Laboratory_(_FSL_) BJP_office FSL
+
+
+ev_086_st_030.txt
+PER_Others  Advani Advani Advani LK_Advani P_Chidambaram
+LOC_Event  Mumbai Mumbai Mumbai Mumbai Mumbai
+LOC_Others  Mumbai Mumbai Mumbai Mumbai Mumbai
+ORG_Accused  Indian_Mujahideen Indian_Mujahideen government government government
+ORG_Others  BJP BJP Indian_Mujahideen Indian_Mujahideen UPA
+
+
+ev_092_st_004.txt
+PER_Victim  Digvijay_Singh V_C_Shukla Dinesh Nand_Kumar_Patel Mahendra_Karma
+PER_Others  Digvijay_Singh V_C_Shukla Nand_Kumar_Patel Dinesh Mahendra_Karma
+PER_Accused  Digvijay_Singh V_C_Shukla Dinesh Nand_Kumar_Patel Mahendra_Karma
+LOC_Event  Jagdalpur Chhattisgarh Bastar Bastar Dharba_forests
+ORG_Accused  DKSZC DKSZC Dhand_Karineya_Special_Zonal_Committee naxalites naxalites
+ORG_Others  Pradesh_Congress_Committee DKSZC DKSZC National_Advisory_Council Dhand_Karineya_Special_Zonal_Committee
+
+
+ev_077_st_009.txt
+PER_Accused  Amir_Raza_Khan Amir_Raza_Khan Riyaz_Bhatkal Riyaz_Bhatkal Iqbal
+LOC_Event  AHMEDABAD Pakistan Kolkata Waghamon Halol
+LOC_Accused  AHMEDABAD Kolkata Pakistan Halol Kerala
+LOC_Others  AHMEDABAD Pakistan Halol Kolkata Kerala
+ORG_Accused  Indian_Mujahideen HuJI IM IM SIMI
+ORG_Others  Indian_Mujahideen HuJI IM IM SIMI
+
+
+2012_3_6_st-74.txt
+PER_Others  V._Kasi_Viswanathan Viswanathan Kanthalakshmi Abishek_Dixit R._Sathish
+LOC_Others  Uthangarai Krishnagiri_Road Uthangarai_Bazaar Salem
+ORG_Others  Krishnagiri_National_Highway The_Hindu
+
+
+ev_091_st_010.txt
+PER_Others  Singh Rajanth_Singh RPN_Singh Jagadish_Shettar R_Ashoka
+LOC_Event  Tamil_Nadu Kolkata Malleshwaram Malleshwaram Malleshwaram
+LOC_Others  Tamil_Nadu Kolkata Malleshwaram Malleshwaram Malleshwaram
+ORG_Others  Karnataka_Police Karnataka_Police KC_Hospital KC_Hospital Centre_and_the_government_of_Karnataka
+
+
+ev_019_st_030.txt
+PER_Victim  Rejara_Biwi Rejara_Biwi Tarun_Halder Amina_Biwi Amina_Biwi
+PER_Others  Tarun_Halder Mamata_Banerjee Mamata_Banerjee Mamata_Banerjee Mukul_Roy
+PER_Accused  Tarun_Halder Mamata_Banerjee Mamata_Banerjee Mamata_Banerjee Rejara_Biwi
+LOC_Event  West_Bengal West_Bengal Burdwan Burdwan Burdwan
+LOC_Others  West_Bengal West_Bengal Burdwan Burdwan Burdwan
+ORG_Accused  Intelligence_Bureau Lashkar-e-Taiba Indian_Mujahideen Special_Task_Force Harkat-ul-Jihad-al-Islami
+ORG_Others  Intelligence_Bureau Special_Task_Force BJP BJP BJP
+
+
+ev_072_st_010.txt
+LOC_Event  Punjab Punjab Shringhar Ludhiana Ajmer_dargah
+LOC_Others  Ajmer Punjab Punjab Shringhar Ludhiana
+ORG_Others  National_Security_Guards Intelligence_Bureau IB
+
+
+ev_077_st_016.txt
+PER_Others  Ashish_Bhatia P_C_Pande P_C_Pande Mufti_Abdul_Bashar_Kasmi Mufti_Abdul_Bashar_Kasmi
+PER_Accused  Rekha_Dixit Mufti_Abdul_Bashar_Kasmi Mufti_Abdul_Bashar_Kasmi Ashish_Bhatia Safdar_Nagori
+LOC_Event  AHMEDABAD/LUCKNOW Hyderabad Jaipur Bangalore Azamgarh
+LOC_Accused  Gujarat Gujarat Gujarat Gujarat Jaipur
+LOC_Others  AHMEDABAD/LUCKNOW Uttar_Pradesh Azamgarh UP Sarai_Meer
+ORG_Accused  Students_Islamic_Movement_of_India SIMI SIMI SIMI SIMI
+ORG_Victim  L_G_Hospital Gujarat_police Gujarat_police Civil_Hospital SIMI
+ORG_Others  Gujarat_police Gujarat_police Students_Islamic_Movement_of_India L_G_Hospital SIMI
+
+
+ev_031_st_001.txt
+PER_Others  Sushanta_Talukdar Rajen_Singh Ramlal_Das R.N._Mathur
+PER_Accused  Sushanta_Talukdar Rajen_Singh Ramlal_Das R.N._Mathur
+LOC_Event  Guwahati Railway_Colony_market Bamunimaidan Bamunimaidan Begusarai
+LOC_Accused  Begusarai Bamunimaidan Bamunimaidan Railway_Colony_market Guwahati
+LOC_Others  Guwahati Bamunimaidan Bamunimaidan Railway_Colony_market Begusarai
+ORG_Accused  United_Liberation_Front_of_Asom Guwahati_Medical_College_and_Hospital
+ORG_Others  Guwahati_Medical_College_and_Hospital United_Liberation_Front_of_Asom
+
+
+ev_037_st_005.txt
+PER_Victim  P_Chidambaram Srivastava Kahil_Sheikh Manmohan_Singh Amal_Das
+PER_Others  P_Chidambaram Manmohan_Singh Srivastava Tarun_Gogoi Kahil_Sheikh
+LOC_Event  Birubari_Tiniali Bhangagarh Shillong Baralumukh Bhootnath
+LOC_Others  Shillong Baralumukh Bhangagarh Birubari_Tiniali Assam
+ORG_Others  ULFA Guwahati_Medical_College_Hospital Indian_Science_Congress
+
+
+2010_3_2_st-12.txt
+PER_Others  Hamid_Karzai Shankar_Menon Menon
+LOC_Event  New_Delhi Afghan India Kabul Afghan_capital
+LOC_Others  Afghan New_Delhi Afghan_capital India Kabul
+ORG_Accused  Lashkar-e-Taiba
+
+
+ev_092_st_001.txt
+PER_Others  Nand_Kumar_Patel Dinesh
+LOC_Others  Jiram Bastar
+ORG_Others  Chhattisgarh_Congress Maoists
+
+
+2011_4_21_st-444.txt
+PER_Others  K._Mohanachandran Anup_Kuruvilla_John
+LOC_Event  Poocherikunnu Kadalundy Kadalundy Kadalundy Thiruvananthapuram
+LOC_Others  Kadalundy Kadalundy Kadalundy Mannur Thiruvananthapuram
+ORG_Others  Feroke_police Telecom_Department Forensic_Science_Laboratory
+
+
+ev_081_st_007.txt
+PER_Others  Pragya_Singh_Thakur Shivnarayan_Singh Shamlal_Bhavar_Sahu Dharmendra_Bajrangi Dilip_Nehar
+PER_Accused  Pragya_Singh_Thakur Dharmendra_Bajrangi Shivnarayan_Singh Shamlal_Bhavar_Sahu Dilip_Nehar
+LOC_Event  Malegaon Malegaon Tukogunj Madhya_Pradesh Bhikku_Chowk
+
+LOC_Accused  MUMBAI/NASHIK Malegaon Malegaon Indore Indore
+LOC_Others  Malegaon Malegaon Tukogunj Bhikku_Chowk Indore
+ORG_Accused  Maharashtras_Anti-Terrorism_Squad Jai_Vande_Mataram_Jan_Kalyan_Samiti Rashtriya_Jagran_Manch BJP right-wing_Hindu_radical_organisations
+ORG_Others  Maharashtras_Anti-Terrorism_Squad TOI right-wing_Hindu_radical_organisations Jai_Vande_Mataram_Jan_Kalyan_Samiti Students_Islamic_Movement_of_India
+
+
+ev_081_st_013.txt
+PER_Others  Mohan_Kulkarni Brij_Lal Dayanand_Pandey Dayanand_Pandey Dayanand_Pandey
+PER_Accused  Mohan_Kulkarni Dayanand_Pandey Dayanand_Pandey Dayanand_Pandey Mahant_Amritanand
+LOC_Event  Rawatpur Uttar_Pradesh LUCKNOW Kanpur Kanpur
+LOC_Others  Uttar_Pradesh Rawatpur LUCKNOW Lucknow Lucknow
+ORG_Others  Anti-Terrorism_Squad Anti-Terrorism_Squad Kalyanpur_police ATS ATS
+
+
+ev_086_st_022.txt
+PER_Others  Yasin_Bhatkal Nadeem_Akhtar_Ashfaq_Sheikh Nadeem_Akhtar_Ashfaq_Sheikh Naqi_Ahmed_Wasi_Ahmed_Sheikh Naqi_Ahmed_Wasi_Ahmed_Sheikh
+PER_Accused  Yasin_Bhatkal Nadeem_Akhtar_Ashfaq_Sheikh Nadeem_Akhtar_Ashfaq_Sheikh Haroon_Rashid_Naik Naqi_Ahmed_Wasi_Ahmed_Sheikh
+LOC_Event  Mumbai Mumbai Mumbra Bihar Bihar
+LOC_Accused  Mumbai Mumbai Bihar Bihar Mumbra
+LOC_Others  Mumbai Mumbai Mumbra Darbhanga Bihar
+ORG_Accused  IM IM ATS Maharashtra_ATS Indian_Mujahideen
+ORG_Others  ATS IM IM Maharashtra_ATS Indian_Mujahideen
+
+
+ev_086_st_015.txt
+LOC_Event  Opera_House Opera_House Mumbai Mumbai Mumbai
+LOC_Others  Mumbai Mumbai Mumbai Mumbai Mumbai
+ORG_Others  National_Investigation_Agency NIA Government
+
+
+2012_9_19_st-15.txt
+PER_Victim  P.C._Thakur Babu_Bajrangi Bajrangi Bajrangi Bajrangi
+PER_Others  P.C._Thakur Babu_Bajrangi Bajrangi Bajrangi Bajrangi
+LOC_Others  Ahmedabad
+ORG_Accused  security Gujarat_Bajrang_Dal Jails Police Sabarmati_jail_dispensary
+ORG_Others  Police Gujarat_Bajrang_Dal Jails security jail_security_staff
+
+
+ev_075_st_001.txt
+PER_Others  Manmohan_Singh Shivraj_Patil Pratibha_Patil Sonia_Gandhi Sonia_Gandhi
+LOC_Event  Ajmer NEW_DELHI South_Delhi Walled_City Jaipur
+LOC_Others  NEW_DELHI Ajmer South_Delhi Jaipur Jaipur
+ORG_Accused  Congress HuJI National_Security_Guard Union_government Central_Industrial_Security_Force
+ORG_Others  Congress Delhi_Fire_Service National_Security_Guard Central_Industrial_Security_Force State_government
+
+
+2013_4_2_st-5.txt
+PER_Victim  Mohan_Reddy Mohan Mohan Mohan Mohan
+LOC_Event  Dilsukhnagar_twin_blasts
+ORG_Others  Koti_Government_ENT_Hospital Osmania_General_Hospital
+
+
+ev_089_st_007.txt
+PER_Accused  Afzal_Guru Pravin_Togadia Akbaruddin_Owaisi
+LOC_Event  Saibaba_temple Mecca_Masjid Gokul_Chat Lumbini_Park Nanded
+LOC_Others  Mecca_Masjid Saibaba_temple Gokul_Chat Nanded Bangalore
+ORG_Others  NIA National_Investigation_Agency VHP MIM
+
+
+ev_061_st_008.txt
+PER_Others  Sheila_Dikshit Shivraj_Patil Abdul_Kalam Bhairon_Singh_Shekhawat S._M._Khan
+LOC_Others  Delhi NEW_DELHI
+
+
+2012_11_8_st-749.txt
+PER_Victim  Habibullah_Arif Asif_Iqbal Shamshad_Khan Badshah_Khan Obama
+PER_Others  Shamshad_Khan Asif_Iqbal Badshah_Khan Habibullah_Arif Barack_Obama
+LOC_Event  Kurram Pakistan Pakistan Pakistan Pakistan
+LOC_Others  Pakistan Pakistan Pakistan Pakistan America
+ORG_Accused  BBC Taliban Al-Qaeda
+ORG_Others  Taliban Al-Qaeda BBC
+
+
+ev_052_st_001.txt
+PER_Others  Karam_Vir_Singh Prem_Singh_Mallick S._S._Barnala Narain_Singh_Rana Garhwal_Mandal_Vikas_Nigam
+LOC_Others  DEHRA_DUN Rishikesh Rishikesh Uttaranchal Uttaranchal
+ORG_Others  G._B._Pant_University_of_Agriculture_and_Technology
+
+
+ev_051_st_001.txt
+PER_Others  George_Fernandes Shujaat_Bukhari Fernandes Fernandes Fernandes
+PER_Accused  George_Fernandes Fernandes Fernandes Fernandes Shujaat_Bukhari
+LOC_Event  SRINAGAR Red_Fort Pakistan Srinagar Srinagar
+LOC_Accused  Pakistan Red_Fort Srinagar Srinagar SRINAGAR
+LOC_Others  SRINAGAR Pakistan Red_Fort Srinagar Srinagar
+ORG_Accused  Jamait-ul-Mujahideen Jaish-e-Mohammad PTI
+ORG_Others  Jamait-ul-Mujahideen PTI Jaish-e-Mohammad
+
+
+2010_4_29_st-341.txt
+PER_Others  Vasanthamani Vasanthamani
+LOC_Event  Uravakonda_mandal Anantapur Anantapur Koukuntla_village Uravakonda
+LOC_Others  Anantapur Anantapur Uravakonda_mandal Uravakonda Koukuntla_village
+
+
+ev_037_st_004.txt
+PER_Others  G.P_Singh Tarun_Gogoi Tarun_Gogoi Manmohan_Singh P_Chidambaram
+LOC_Event  Birubari Birubari Raj_Bhavan Bhootnath Bhootnath
+LOC_Others  Raj_Bhavan Assam Assam Guwahati Guwahati
+ORG_Accused  ULFA ET ET Assam_Police Ulfa
+ORG_Others  Assam_Police ULFA ET ET Ulfa
+
+
+2010_6_5_st-12.txt
+LOC_Others  New_Delhi Delhi Ahmedabad Uttar_Pradesh Bangalore
+ORG_Victim  Lashker-e-Taiba Students_Islamic_Movement_of_India SIMI Indian_Mujahideen Indian_Mujahideen
+ORG_Others  Lashker-e-Taiba SIMI Students_Islamic_Movement_of_India Indian_Mujahideen Indian_Mujahideen
+
+
+ev_019_st_005.txt
+PER_Others  Mamata_Banerjee Subramanian_Swamy Banerjee Banerjee Banerjee
+PER_Accused  Mamata_Banerjee Subramanian_Swamy Banerjee Banerjee Banerjee
+LOC_Event  Bardhaman West_Bengal West_Bengal
+LOC_Others  West_Bengal West_Bengal Bardhaman
+ORG_Others  NIA BJP BJP BJP BJP
+
+
+ev_089_st_011.txt
+PER_Others  Sushilkumar_Shinde Manmohan_Singh Manmohan_Singh RK_Singh Kiran_Kumar_Reddy
+LOC_Event  Konark Dilsukh_Nagar Dilsukh_Nagar Venkatadiri_theatres foot_bridge
+LOC_Others  Dilsukh_Nagar Dilsukh_Nagar Konark Venkatadiri_theatres Hyderabad
+ORG_Others  Yashoda_hospital state_government
+
+
+ev_026_st_006.txt
+PER_Others  T._Rabha Singh S.N._Singh R.N._Mathur Rabha
+LOC_Event  Bongaigon southern_Assam market market Tinsukhia
+LOC_Others  Bongaigon southern_Assam Tinsukhia market market
+ORG_Accused  United_Liberation_Front_of_Asom Ulfa Ulfa Ulfa state_police
+ORG_Others  United_Liberation_Front_of_Asom state_police Ulfa Ulfa Ulfa
+
+
+ev_005_st_003.txt
+PER_Victim  Ibobi_Singh Nawaz_Sharif Sangbijit Bipul_Brahma Manmohan_Singh
+PER_Others  Nawaz_Sharif Ibobi_Singh Manmohan_Singh Sangbijit Omar_Abdullah
+LOC_Event  Kokrajhar Manipur Manipur Assam Assam
+LOC_Others  Manipur Manipur Kokrajhar Assam Assam
+ORG_Accused  NDFB
+
+
+ev_081_st_014.txt
+PER_Others  Atiq_Khan Mukesh_Kumar Sudhakar Sadhvi_Pragnya_Singh Dayanand_Pandey
+PER_Accused  Atiq_Khan Mukesh_Kumar Sadhvi_Pragnya_Singh Sudhakar Sudhakar_Dwivedi
+LOC_Event  Uttar_Pradesh Malegaon Malegaon LUCKNOW Kanpur
+LOC_Others  Uttar_Pradesh LUCKNOW Kanpur Malegaon Malegaon
+ORG_Others  Hindu_organisation The_Anti-Terrorism_Squad ATS ATS ATS
+
+
+2012_2_12_st-650.txt
+PER_Accused  Haroon_Rashid_Naik Kanwar_Nain_Pathrija
+LOC_Others  Pathrija Haroon
+ORG_Accused  Indian_Mujahideen Maharashtra_Anti-Terrorism_Squad
+ORG_Others  Indian_Mujahideen Maharashtra_Anti-Terrorism_Squad
+
+
+ev_019_st_009.txt
+PER_Others  Mukul_Roy Dilip_Adak Rajnath_Singh Hashem_Molla Gulsana_Bibi
+PER_Accused  Dilip_Adak Mukul_Roy Gulsana_Bibi Hashem_Molla Rajnath_Singh
+LOC_Event  Bardhaman Burdwan Baburbagh
+LOC_Others  Burdwan Bardhaman Baburbagh
+ORG_Others  The_Hindu All_India_Trinamool_Congress State_government Criminal_Investigation_Department CID
+
+
+ev_093_st_016.txt
+PER_Others  Nitish_Kumar Mohammad_Omar_Madani Abhayanand Mirza_Khan Madani
+PER_Accused  Mirza_Khan Mohammad_Omar_Madani Nitish_Kumar Madani Abhayanand
+LOC_Event  Kishanganj Patna Buddhist_pilgrim Purnia_railway_station Madhubani
+LOC_Accused  Kishanganj Purnia_railway_station Buddhist_pilgrim Bodh_Gaya Bihar
+LOC_Others  Kishanganj Madhubani Purnia_railway_station Patna Nepal
+ORG_Accused  Afghan_militant Al_Qaida Delhi_police Lashkar_e_Taiba National_Investigating_Agency
+ORG_Others  Delhi_police Afghan_militant Al_Qaida Investigating_agencies National_Investigating_Agency
+
+
+ev_016_st_001.txt
+PER_Others  Sushanta_Talukdar Tarun_Gogoi Ajai_Singh
+PER_Accused  Ajai_Singh Tarun_Gogoi Sushanta_Talukdar
+LOC_Event  Bongaigaon Bamunimaidan broad_gauge_railway Manipur Manipur
+LOC_Others  Bamunimaidan broad_gauge_railway Parade_Ground Parade_Ground Manipur
+ORG_Accused  ULFA Governor Government Government
+ORG_Others  Government Government Governor ULFA
+
+
+ev_088_st_011.txt
+PER_Others  Anna_Hazares R.K._Singh Balgandharva_Rang_Mandir Patil Gulabrao_Pol
+LOC_Event  India Junglee_Maharaj_Road Pune Pune Pune
+LOC_Others  India Junglee_Maharaj_Road Pune Pune Pune
+ORG_Others  NIA IAC National_Security_Guard National_Investigation_Agency McDonalds
+
+
+ev_048_st_004.txt
+PER_Others  J-K AP_Tiwari NN_Vohra
+LOC_Event  Tinsukia Digboi Srinagar Bakshi_stadium Jammu_and_Kashmir
+LOC_Others  Tinsukia Digboi Maulana_Azad_stadium Jammu_and_Kashmir Jammu_and_Kashmir
+ORG_Others  LoC Line_of_Control
+
+
+2012_5_2_st-55.txt
+LOC_Event  Anna_Nagar
+ORG_Others  Aavin_unit Q_'_Branch Finger_Print_Bureau_and_central_intelligence_units
+
+
+ev_039_st_016.txt
+PER_Others  Pavan_Thakur Keshab_Das Ganesh_Das Jitmol_Doley Dipu_Das
+PER_Accused  Pavan_Thakur Keshab_Das Ganesh_Das Doley Dipu_Das
+LOC_Event  Nalbari Guwahati Bihar
+LOC_Others  Nalbari Guwahati Bihar
+ORG_Accused  ULFA ULFA
+
+
+2013_3_5_st-713.txt
+PER_Others  Hazara_Shias
+LOC_Event  Abbas_Town Sorab_Koth Sorab_Koth Pakistan Karachi
+LOC_Others  Sorab_Koth Sorab_Koth Abbas_Town Pakistan Karachi
+ORG_Others  court Supreme_Court
+
+
+ev_068_st_005.txt
+PER_Others  Mayawati Mayawati R.K._Chaturvedi Suryakant_Tripathi Pradeep_Singh
+LOC_Event  Mecca_mosque Hyderabad Uttar_Pradesh Uttar_Pradesh Uttar_Pradesh
+LOC_Others  Uttar_Pradesh Uttar_Pradesh Uttar_Pradesh Lucknow Kanpur
+ORG_Others  Special_Task_Force State_Government Hindu_Yuva_Vahini
+
+
+ev_035_st_015.txt
+PER_Others  Dabojit_Deuri
+LOC_Event  Assams_Nalbari Guwahati Delhi Panbazar Fancybazar
+LOC_Accused  Ganeshguri Ganeshguri Nagaon Nagaon Itanagar
+LOC_Others  Guwahati Assams_Nalbari Nagaon Nagaon Delhi
+ORG_Others  Special_Investigation_Team SIT TheHindu All_Assam_Students_Union
+
+
+2011_12_8_st-703.txt
+LOC_Event  Laxmi_Bazar Hinjli Ganjam
+
+
+2011_3_10_st-144.txt
+LOC_Event  Meensurutti
+ORG_Victim  Government_Higher_Secondary_School
+
+
+ev_084_st_018.txt
+PER_Victim  Manal Satyapal_Singh Attal_Manal Ibrahim_Hashim Anas
+PER_Others  Manal Satyapal_Singh Ibrahim_Hashim Attal_Manal Aditi_Jindal
+LOC_Event  German_Bakery German_Bakery Sudans Doha Sudan
+LOC_Victim  Sudans Khartoum Doha Pune Pune
+LOC_Others  Doha Sudans Khartoum Pune Pune
+ORG_Others  Inlaks_Budhrani_Hospital Jehangir_Hospital Symbiosis_College Symbiosis_College Poona_College
+
+
+ev_092_st_009.txt
+PER_Victim  Nand_Kumar_Patel_were Ajay_Singh Karma Karma R.P.N._Singh
+PER_Others  R.P.N._Singh Nand_Kumar_Patel_were Ajay_Singh Mahendra_Karma Karma
+LOC_Others  Chhattisgarh Chhattisgarh Delhi Faraspal Jagdalpur
+ORG_Accused  NIA National_Investigation_Agency National_Investigation_Agency state_government BJP_government
+ORG_Others  NIA National_Investigation_Agency National_Investigation_Agency Congress Congress
+
+
+ev_085_st_009.txt
+LOC_Event  Old_Delhi Pune Sheetla_Ghat Varanasi Varanasi
+LOC_Others  Sheetla_Ghat Old_Delhi Varanasi Varanasi Varanasi
+ORG_Accused  Indian_security_forces Indian_Mujahideen Indian_Mujahideen Radical_Muslim_group IM
+ORG_Others  Radical_Muslim_group Indian_Mujahideen Indian_Mujahideen Indian_security_forces IM
+
+
+ev_015_st_016.txt
+PER_Others  Chaudhary Mulford Mulford Patil Patil
+LOC_Others  Bombay Nagaland Assam Assam Assam
+ORG_Accused  Federal_Bureau_of_Investigation FBI FBI FBI FBI
+ORG_Others  Central_Bureau_of_Investigation CBI CBI CBI CBI
+
+
+ev_019_st_011.txt
+PER_Others  Dilip_Adak Hashem_Molla Abdul_Hakim
+PER_Accused  Dilip_Adak Hashem_Molla Abdul_Hakim
+LOC_Event  West_Bengals_Bardhaman
+ORG_Others  Criminal_Investigation_Department The_Hindu CID CID
+
+
+2012_2_15_st-16.txt
+PER_Others  Chauhan R.K._Handa Kamal_Chauhan Ramchandra_Kalasangra_alias_Ramji Lokesh_Sharma
+LOC_Event  Old_Delhi Haryana Madhya_Pradesh Panchkula Noida
+LOC_Others  Madhya_Pradesh Haryana Old_Delhi Panchkula Noida
+ORG_Others  RSS_worker National_Investigation_Agency NIA agency
+
+
+ev_055_st_002.txt
+LOC_Event  Moradabad Bareilly Uttar_Pradesh Chandausi
+LOC_Others  Moradabad Bareilly Uttar_Pradesh Chandausi
+ORG_Others  PTI_.
+
+
+ev_070_st_010.txt
+PER_Others  P._Chandra_Sekharan Chandra_Sekharan Chandra_Sekharan M._Rajeev
+LOC_Others  Mumbai HYDERABAD Hyderabad
+ORG_Others  National_Explosives_Control_Bureau NECB NECB Narcotics_Control_Bureau
+
+
+ev_084_st_033.txt
+PER_Others  P._Chidambaram Chidambaram Chidambaram Praveen_Pant
+LOC_Event  Pune Pune Pune Pune NEW_DELHI
+LOC_Others  NEW_DELHI Maharashtra Pune Pune Pune
+ORG_Others  ATF Anti-Terrorist_Force Union_Territories State_governments State_governments
+
+
+ev_086_st_035.txt
+PER_Others  L.K._Advani Rahul_Gandhi Rahul_Gandhi Rahul_Gandhi Rahul_Gandhi
+LOC_Event  Dadar Zaveri_Bazar Opera_house New_Delhi Mumbai
+LOC_Others  New_Delhi Dadar Zaveri_Bazar Opera_house Maharashtra
+ORG_Others  Congress Congress Congress BJP BJP
+
+
+ev_080_st_008.txt
+PER_Others  M._C._Misra Misra
+LOC_Others  NEW_DELHI Mehrauli
+ORG_Others  AIIMS All-India_Institute_of_Medical_Sciences AIIMS_Trauma_Centre
+
+
+2013_8_29_st-76.txt
+PER_Others  Sharad_Kumar
+LOC_Event  Mahabodhi_temple Bodhgaya
+ORG_Others  NIA National_Investigation_Agency
+
+
+ev_060_st_003.txt
+PER_Others  Manmohan_Singh Mufti_Mohammad_Sayeed Javid_Makhdoomi
+LOC_Event  Lazbal Anantnag Pulwama Nishat Srinagar
+LOC_Others  Lazbal Anantnag Church_road Pulwama Nishat
+ORG_Accused  Hizbul_Mujahideen Hizbul_Mujahideen Burnhall_school
+ORG_Others  Hizbul_Mujahideen Hizbul_Mujahideen Burnhall_school
+
+
+ev_089_st_025.txt
+PER_Others  Sushilkumar_Shinde
+ORG_Others  government NCTC BJP
+
+
+ev_078_st_012.txt
+PER_Others  Parambir_Singh KM_Kamath Kenneth_Heywood
+LOC_Event  Mumbai Mumbai Chembur US
+LOC_Others  Mumbai Mumbai Chembur US
+ORG_Accused  Anti-Terrorism_Squad ATS ATS ATS PTI
+ORG_Others  Anti-Terrorism_Squad PTI ATS ATS ATS
+
+
+ev_045_st_004.txt
+PER_Victim  Paramananda_Yadav Dalim_Shah Altaf_Hussain Tutu_Ahmed Bhairon_Shah
+PER_Others  Paramananda_Yadav Dalim_Shah Bikki_Rabidas Bikki_Rabidas Kamal_Gupta
+LOC_Event  Amolapatty_railway_crossing National_Highway_37 Bongaigaon Dibrugarh Dibrugarh
+LOC_Victim  Amolapatty_railway_crossing Bongaigaon National_Highway_37 Sivasagar Amolapatty
+LOC_Others  Amolapatty_railway_crossing National_Highway_37 Bongaigaon Dibrugarh Dibrugarh
+ORG_Accused  Ulfa Ulfa Maoists Forensic_Science Surajmal_Jalan_Balika_Siksha_Sadan
+ORG_Others  Maoists Ulfa Ulfa Assam_Medical_College_and_Hospital Surajmal_Jalan_Balika_Siksha_Sadan
+
+
+ev_083_st_016.txt
+PER_Accused  Ajmal_Kamal
+LOC_Event  Mumbai Bombay Nariman_House
+LOC_Victim  Mumbai Bombay Nariman_House
+ORG_Victim  National_Security_Guard Intelligence_Bureau IB Taj_hotels Oberoi
+ORG_Others  National_Security_Guard Intelligence_Bureau IB Taj_hotels Oberoi
+
+
+2011_5_5_st-47.txt
+PER_Others  Abdul_Nasir_Maudany Sen Bhushan Bhushan Andhyarujina
+PER_Accused  Abdul_Nasir_Maudany Maudany Maudany Maudany Maudany
+LOC_Others  Karnataka Bangalore Bangalore Ahmedabad
+ORG_Accused  Lashkar-e-Taiba LeT Students_Islamic_Movement_of_India Supreme_Court Supreme_Court
+ORG_Others  Lashkar-e-Taiba Students_Islamic_Movement_of_India LeT Supreme_Court Supreme_Court
+
+
+ev_089_st_003.txt
+PER_Others  Sushil_Kumar_Shinde Naidu N_Kiran_Kumar_Reddy Rajnath_Singh V_Dinesh_Reddy
+LOC_Event  Koti Hyderabad Hyderabad Tank_Bund Lumbini_Park
+LOC_Others  Hyderabad Hyderabad Koti Lumbini_Park Tank_Bund
+ORG_Accused  BJP BJP Indian_Mujahideen NIA National_Investigation_Agency
+ORG_Others  Care_Hospital National_Investigation_Agency NIA TDP BJP
+
+
+2010_11_7_st-634.txt
+LOC_Others  Peshawar Khyber-Pukhtoonkhwa Darra_Adam_Khel Darra_Adam_Khel Kohat
+ORG_Others  Tehrik-e-Taliban_Pakistan
+
+
+ev_070_st_012.txt
+PER_Others  Balwinder_Singh
+LOC_Event  Mecca_Masjid Gokul_Chat Kothi_locality HYDERABAD Dilsukhnagar_area
+LOC_Others  HYDERABAD Kothi_locality Gokul_Chat Mecca_Masjid Ahmedabad_.
+ORG_Others  Lumbini_Park_and_Gokul_Chat_Bhandar Osmania_General_Hospital_in_Hyderabad Hyderabad_on_Saturday
+
+
+ev_015_st_015.txt
+PER_Others  David_Mulford Tarun_Gogoi Amit_Baruah
+LOC_Others  United_States_Ambassador NEW_DELHI Assam New_Delhi Pakistan
+ORG_Others  Federal_Bureau_of_Investigation Government_of_India Government_of_India
+
+
+2012_4_30_st-166.txt
+PER_Victim  S._Sukannthan Sathya Sukanthan
+LOC_Event  Kilpauk Royapettah_GH
+LOC_Others  Kilpauk Royapettah_GH
+ORG_Others  Stanley_Medical_College_Hospital
+
+
+ev_084_st_025.txt
+PER_Others  chief_minister_V_S_Achuthanandan Achuthanandan
+LOC_Event  West_Bengal Kerala Silda Silda Pune
+LOC_Others  Kerala West_Bengal Silda Silda Pune
+ORG_Accused  Maoist Maoist Eastern_Frontier_Rifles
+ORG_Others  Maoist Maoist Eastern_Frontier_Rifles
+
+
+ev_088_st_009.txt
+PER_Others  RK_Singh Prithviraj_Chavan Singh Singh Jitender_Singh
+PER_Accused  RK_Singh Singh Singh Prithviraj_Chavan Anna_Hazare
+LOC_Event  Jantar_Mantar New_Delhi India India Pune
+LOC_Others  Jantar_Mantar New_Delhi India India Delhi
+ORG_Accused  government_of_India Lashkar-e-Taiba Anti-Terror_Squad Anti-Terror_Squad NIA
+ORG_Others  government_of_India NIA Anti-Terror_Squad Anti-Terror_Squad Lashkar-e-Taiba
+
+
+ev_066_st_026.txt
+PER_Others  Zahid Zahid Salman
+PER_Accused  Zahid Zahid Salman
+LOC_Event  NEW_DELHI Panipat Panipat Rajasthan Haryana
+LOC_Others  NEW_DELHI Haryana Panipat Panipat Rajasthan
+
+
+2013_3_2_st-498.txt
+PER_Others  O._Narasimha_Murthy Murthy Murthy
+LOC_Event  Lumbini_Park Gokul_Chat Saroornagar Malakpet Dilsukhnagar
+LOC_Others  Saroornagar Malakpet Lumbini_Park Gokul_Chat Dilsukhnagar
+ORG_Others  Forensic_Science_Laboratory_(_FSL_) National_Investigation_Agency police police FSL
+
+
+ev_050_st_002.txt
+PER_Others  MS.Margaret_Alva MS.Margaret_Alva
+LOC_Event  NEW_DELHI NEW_DELHI Srinagar Srinagar Jammu_and_Kashmir
+LOC_Victim  Jammu_and_Kashmir Jammu_and_Kashmir Srinagar Srinagar NEW_DELHI
+LOC_Others  NEW_DELHI NEW_DELHI Srinagar Srinagar Jammu_and_Kashmir
+ORG_Others  Journalist Government Government Government Government
+
+
+ev_063_st_007.txt
+PER_Others  Karnail_Singh Amanullah_Khan A.P.J._Abdul_Kalam Manmohan_Singh Alok_Kumar
+LOC_Event  NEW_DELHI Jama_Masjid Jama_Masjid Jama_Masjid Jama_Masjid
+LOC_Others  NEW_DELHI Jama_Masjid Jama_Masjid Jama_Masjid Jama_Masjid
+ORG_Others  Janata_Dal Communist_Party_of_India Communist_Party_of_India CPI Congress
+
+
+2013_5_19_st-256.txt
+PER_Accused  Basheer Buhari Buhari Shaleen Shaleen
+LOC_Event  Malleswaram Madurai Madurai Tamil_Nadu Nagercoil
+LOC_Others  Madurai Madurai Nagercoil Malleswaram Tamil_Nadu
+ORG_Others  Central_Crime_Branch BJP
+
+
+2010_11_22_st-37.txt
+PER_Others  Kumar K.C._Saha Nitish_Kumar Singh Anoop_Mukherjee
+LOC_Event  Aurangabad Aurangabad Pachokhar Deo
+ORG_Accused  Maoists Maoists
+
+
+2011_8_13_st-46.txt
+PER_Others  Prithviraj_Chavan Chavan
+LOC_Others  Maharashtra Andhra_Pradesh Tamil_Nadu
+ORG_Others  Home_Department
+
+
+ev_079_st_008.txt
+PER_Others  H_S_Dhaliwal Madhukar_Gupta Shivraj_Patil Gupta Gupta
+LOC_Event  South_Delhi Mehrauli Delhi Haryana Faridabad
+LOC_Others  Mehrauli South_Delhi Haryana Delhi Faridabad
+ORG_Others  Delhi_Police NSG_bomb_data_squad AIIMS
+
+
+2013_8_16_st-717.txt
+PER_Victim  Bipul_Brahma Omar_Abdullah
+PER_Others  Omar_Abdullah Bipul_Brahma
+LOC_Event  Kokrajhar Chirang Assam Assam Manipur
+LOC_Others  Kokrajhar Manipur Manipur Assam Assam
+ORG_Accused  NDFB_(_Sangbijit_)
+
+
+ev_043_st_001.txt
+LOC_Event  Bishnupur Bishnupur Imphal_West Imphal_West gate_of_6/8
+LOC_Others  Bishnupur Bishnupur Imphal_West Imphal_West gate_of_6/8
+ORG_Accused  Revolutionary_Peoples_Front United_National_Liberation_Front Peoples_Liberation_Army Peoples_Liberation_Army Peoples_Liberation_Army
+ORG_Others  United_National_Liberation_Front Revolutionary_Peoples_Front Peoples_Liberation_Army Peoples_Liberation_Army Peoples_Liberation_Army
+
+
+ev_019_st_029.txt
+PER_Others  Mufazzil_Haque Sajid Sajid Laden Sheikh_Rahmatullah
+PER_Accused  Sajid Sajid Mufazzil_Haque Sheikh_Rahmatullah Laden
+LOC_Event  Burdwan Burdwan Assam Jharkhand West_Bengal
+LOC_Accused  Bangladesh West_Bengal Burdwan Burdwan Mokimnagar
+LOC_Others  Assam Burdwan Burdwan Jharkhand West_Bengal
+ORG_Accused  Jammat-ul-Mujahideen terrorist National_Investigation_Agency NIA NIA
+ORG_Others  National_Investigation_Agency Jammat-ul-Mujahideen terrorist NIA NIA
+
+
+2013_2_22_st-11.txt
+PER_Accused  Zabiuddin_Ansari Abu_Jundal
+LOC_Event  Dilsukhnagar Dilsukhnagar Dilsukhnagar Mumbai Hyderabad
+LOC_Others  Mumbai Delhi Delhi Delhi Delhi
+ORG_Others  Indian_Mujahideen
+
+
+ev_001_st_003.txt
+LOC_Event  Assams_Bongaigaon Bongaigaon Guwahati Guwahati Assam
+LOC_Others  Assams_Bongaigaon Bongaigaon Assam Assam Guwahati
+ORG_Accused  United_Liberation_Front_of_Asom United_Liberation_Front_of_Asom ULFA ULFA ULFA
+ORG_Others  United_Liberation_Front_of_Asom United_Liberation_Front_of_Asom ULFA ULFA ULFA
+
+
+ev_026_st_002.txt
+LOC_Event  Paglasthan Noonmati Guwahati_Refinery Bongaigaon Bongaigaon
+LOC_Accused  Assam Boro_fish_market Bongaigaon Bongaigaon Kamalpur
+LOC_Others  Paglasthan Dibrugarh Noonmati Guwahati_Refinery Chandra_Chutia
+ORG_Accused  United_Liberation_Front_of_Assam ULFA ULFA Assam_police Assam_police
+ORG_Others  United_Liberation_Front_of_Assam ULFA ULFA Assam_police Assam_police
+
+
+ev_019_st_020.txt
+PER_Victim  Rajira_Bibi Rumi Hafez_Mollah Amina_Bibi Hasan
+PER_Others  Hafez_Mollah Hasan Amina_Bibi Rajira_Bibi Asaduzzaman_Khan_Kamal
+PER_Accused  Hafez_Mollah Amina_Bibi Hasan Rumi Rajira_Bibi
+LOC_Event  India India India West_Bengal Bangladeshs
+LOC_Others  India India India West_Bengal Bangladeshs
+
+ORG_Accused  Indian_Ministry_of_External_Affairs Jamaatul_Mujahideen_Bangladesh Indian_investigating_agencies Rapid_Action_Battalion
+ORG_Others  Indian_Ministry_of_External_Affairs Jamaatul_Mujahideen_Bangladesh Indian_investigating_agencies Rapid_Action_Battalion
+
+
+2012_10_4_st-750.txt
+LOC_Event  Syria Saadallah_al-Jabiri_Square Aleppo Bab_Jnein
+ORG_Others  AFP Al-Ikhbariya Syrian_Observatory_for_Human_Rights
+
+
+ev_019_st_022.txt
+LOC_Event  Bardhaman Bardhaman West_Bengal Delhi Bengal
+LOC_Others  Bardhaman Bardhaman West_Bengal Bengal Delhi
+ORG_Accused  National_Investigation_Agency Jamaatul_Mujahideen_Bangladesh JMB JMB AITC
+ORG_Others  National_Investigation_Agency Jamaatul_Mujahideen_Bangladesh JMB JMB All-India_Trinamool_Congress
+
+
+2013_1_31_st-28.txt
+PER_Accused  Dileep_Jagpat Dileep_Jagpat
+LOC_Others  Madhya_Pradesh Kishanganj Kishanganj
+ORG_Others  NIA
+
+
+ev_039_st_017.txt
+PER_Others  Chitrabon_Hazarika Sasha_Choudhury Tarun_Gogoi Bosa_Singh Pinku_Phukon
+LOC_Event  Lower_Assam Nalbari Nalbari Nalbari Guwahati
+LOC_Accused  Nalbari Nalbari Nalbari New_Delhi New_Delhi
+LOC_Others  Lower_Assam Nalbari Nalbari Nalbari Assam
+ORG_Accused  government Centre People_'s_Committee_for_Peace_Initiatives_in_Assam ULFA ULFA
+ORG_Others  PCPIA People_'s_Committee_for_Peace_Initiatives_in_Assam ULFA ULFA ULFA
+
+
+ev_039_st_020.txt
+PER_Others  Arabinda_Rajkhowa Rajkhowa Kumud_Thakuria
+PER_Accused  Arabinda_Rajkhowa Rajkhowa Kumud_Thakuria
+LOC_Event  Baska Nikashi Nalbari Nalbari Nalbari
+LOC_Accused  Nalbari Nalbari Nalbari Assam Assam
+LOC_Others  Baska Nalbari Nalbari Nalbari Bhutan
+ORG_Accused  ULFA ULFA ULFA ULFA e-mailed
+ORG_Others  ULFA ULFA ULFA ULFA e-mailed
+
+
+ev_070_st_011.txt
+PER_Others  K_Jana_Reddy Y_S_Rajasekhar_Reddy Manmohan_Singh M_A_Basith Sriprakash_Jaiswal
+LOC_Event  Kothi Andhra_Pradesh Lumbini_amusement_park Hyderabad Hyderabad
+ORG_Victim  Gokul_Chat_Shop Medicity Yashoda_hospital Osmania_Hospital Mecca_Masjid
+ORG_Others  Gokul_Chat_Shop Medicity Yashoda_hospital Osmania_Hospital Mecca_Masjid
+
+
+ev_019_st_018.txt
+PER_Others  S._K._Neelakantam
+LOC_Event  West_Bengals_Bardhaman Purulia Purulia Raghunathpur
+LOC_Others  Purulia Purulia West_Bengals_Bardhaman Raghunathpur
+ORG_Others  Police police
+
+
+2013_4_9_st-103.txt
+PER_Others  Daljeet_Singh Nayyar_Hasnain_Khan Saaj_Infracon
+LOC_Others  Kutumba_police_station_area Sewra Aurangabad_district Sahebganj_police_station_area Muzaffarpur_district
+ORG_Others  CRPF_CoBRA The_Hindu The_Hindu Patna_Medical_College_Hospital CRPF
+
+
+ev_070_st_016.txt
+PER_Others  K._Srinivas_Reddy Nafeeq Ibrahim Ibrahim Ibrahim
+LOC_Event  Mecca_Masjid Mumbai Dubai Delhi Bangalore
+LOC_Others  Mumbai Delhi Mecca_Masjid Bangalore Dubai
+ORG_Others  Hyderabad_police Delhi_police ISI Counter_Intelligence Counter_Intelligence
+
+
+ev_075_st_024.txt
+PER_Others  Vasundhara_Raje A_S_Gill Narayanan Pankaj_Singh Lalit_Modi
+LOC_Event  Badi_Choupal Manas_Chowk Hanuman_Mandir Hanuman_temple Hanuman_temple
+LOC_Others  Manas_Chowk India India Badi_Choupal Hanuman_Mandir
+ORG_Accused  Harkut-ul-Jehadi_Islami National_Security_Guards Indian_Premier_League Sawai_Man_Singh_hospital
+ORG_Others  National_Security_Guards Sawai_Man_Singh_hospital Indian_Premier_League Harkut-ul-Jehadi_Islami
+
+
+ev_012_st_001.txt
+LOC_Event  Upper_Assam Safrai Lakwa Maligaon
+LOC_Others  Upper_Assam Safrai Lakwa Maligaon
+ORG_Accused  ULFA
+
+
+ev_019_st_025.txt
+PER_Others  Siddharth_Nath_Singh Mamata_Banerjee
+LOC_Event  Kharagragh Sadar_Ghat Bardhaman Bardhaman Bardhaman
+LOC_Others  Bardhaman Bardhaman Bardhaman Bardhaman Bardhaman
+ORG_Others  National_Security_Guards BJP BJP National_Investigation_Agency_in NIA
+
+
+ev_087_st_012.txt
+LOC_Event  NEW_DELHI Shershah_Road
+
+
+ev_094_st_019.txt
+PER_Others  Modi Modi Modi Modi Modi
+LOC_Event  Patna_railway_station Patna Patna Patna Patna
+LOC_Others  Patna_railway_station New_York Patna Patna Patna
+ORG_Accused  Indian_Mujahideen BJP BJP BJP
+ORG_Others  BJP BJP BJP Indian_Mujahideen
+
+
+2014_11_11_st-2001.txt
+PER_Accused  Amjad_Sheikh Kajal Sheikh Sheikh Sheikh
+LOC_Others  Burdwan West_Bengal West_Bengal West_Bengal Basti
+ORG_Accused  National_Investigation_Agency Jamaat-ul-Mujahideen_Bangladesh JMB JMB JMB
+ORG_Others  National_Investigation_Agency NIA NIA NIA NIA
+
+
+ev_089_st_009.txt
+PER_Victim  Vijay_Kumar Vijay
+LOC_Event  Hyderabad Hyderabad Dilsukhnagar cinema New_Delhi
+LOC_Others  Hyderabad Hyderabad Dilsukhnagar cinema New_Delhi
+ORG_Others  National_Security_Guards National_Investigation_Agency
+
+
+2012_4_2_st-672.txt
+PER_Victim  Prabodh_Sonowal Joy_Asom Anil_Nath
+PER_Accused  Joy_Asom Prabodh_Sonowal Anil_Nath
+LOC_Event  Doomdooma_Township Tinsukia_district Doomdooma Assam Assam
+LOC_Others  Doomdooma_Township Tinsukia_district Doomdooma Assam Assam
+ORG_Accused  ULFA ULFA ULFA United_Liberation_Front_of_Asom
+
+
+ev_078_st_003.txt
+PER_Others  Ashok_Kumar Pritpal_Singh_Kohli Deepak_Kumar Inderjeet_Singh
+LOC_Event  Central_Park Central_Park Connaught_Place NEW_DELHI Palika
+LOC_Others  NEW_DELHI Palika Palika Central_Park Central_Park
+ORG_Others  Palika_Bazar_Shopkeepers_Welfare_Association
+
+
+ev_076_st_010.txt
+PER_Others  Shankar_Bidri
+LOC_Event  Forum_Mall Koramangla Bangalore Bangalore Bangalore
+LOC_Others  Forum_Mall Koramangla Bangalore Bangalore Bangalore
+ORG_Others  National_Bomb_Detection_squad
+
+
+ev_072_st_006.txt
+PER_Others  Harry Ravinder Sandeep_Singh N_S_Aulakh Palwinder_Singh
+PER_Accused  Harry Sandeep_Singh N_S_Aulakh Ravinder Palwinder_Singh
+LOC_Event  Shingar Mohali Mullanpur Ludhiana Punjab
+LOC_Accused  Pakistan Pakistan Mohali Bikaner Bikaner
+LOC_Others  Mohali Ludhiana LUDHIANA Shingar Pakistan
+ORG_Accused  Babbar_Khalsa_International BKI
+
+
+ev_041_st_001.txt
+LOC_Event  upper Assam upper_Assam Chabua Tinsukia
+LOC_Others  upper Assam upper_Assam Chabua G.N.B._Road
+
+
+ev_043_st_003.txt
+LOC_Event  Manipur_Raj_Bhavan Manipur Army_post Imphal M_sector
+LOC_Others  Manipur_Raj_Bhavan Army_post Manipur Imphal M_sector
+ORG_Accused  Peoples_Liberation_Army PLA Army_office Army_office Army_office
+ORG_Others  PTI PLA Army_office Army_office Army_office
+
+
+ev_074_st_001.txt
+PER_Others  Trikalagya_Rabha Khagen_Sharma Pradip_Chandra_Saloi Sushanta_Talukdar
+LOC_Event  Chungajan_railway_station Upper_Assams_Golaghat Bokajan_railway Khatikhati Chungajan
+LOC_Victim  Tangla Chungajan_railway_station Upper_Assams_Golaghat Bokajan_railway Harisinga_railway_stations
+LOC_Others  Chungajan_railway_station Bokajan_railway Upper_Assams_Golaghat Chungajan Khatikhati
+ORG_Accused  AANLA AANLA All_Adivasi_National_Liberation_Army Police Police
+ORG_Others  AANLA AANLA All_Adivasi_National_Liberation_Army Police Police
+
+
+ev_015_st_013.txt
+PER_Others  Khagen_Sharma P.V._Sumant Sushanta_Talukdar Sumant A.K._Bhutani
+LOC_Event  Tinsukia Dhekiajuli Rangapara Bijni Gossaigaon
+LOC_Victim  Bijni Borhat Darrang fish_market Sonari
+LOC_Others  Tinsukia Assam Assam Assam Assam
+ORG_Accused  United_Liberation_Front_of_Asom sovereign_Boroland National_Democratic_Front_of_Bodoland ULFA ULFA
+ORG_Others  United_Liberation_Front_of_Asom National_Democratic_Front_of_Bodoland police police police
+
+
+2012_1_15_st-5.txt
+PER_Others  Riyadh_Abdul-Amir
+LOC_Event  Basra Basra
+ORG_Others  Basra_Health_Directorate AP
+
+
+ev_086_st_003.txt
+PER_Others  Ranjit_Pachnanda
+LOC_Event  Mumbai Mumbai Kolkata Dadar New_Delhi
+LOC_Others  Kolkata Mumbai Mumbai New_Delhi Chennai
+ORG_Others  state_governments state_governments
+
+
+ev_072_st_011.txt
+PER_Others  Sukhbir_Badal Gurmeet_Ram_Rahim_Singh Hawara M.K._Narayanan Guru_Gobind_Singh
+LOC_Event  Ludhiana_cinema_hall Delhi Hoshiarpur Amritsar India
+LOC_Others  Ludhiana_cinema_hall Delhi Amritsar Hoshiarpur Punjab
+ORG_Accused  Babbar_Khalsa_International Sikh_groups Khalsa_Action_Committee BKI BKI
+ORG_Others  Babbar_Khalsa_International Khalsa_Action_Committee KAC KAC BKI
+
+
+ev_076_st_022.txt
+PER_Others  Shankar_Bidri Riaz_Bhatkal Abdul_Sattar Abdul_Sattar Munaaf
+PER_Accused  Riaz_Bhatkal Abdul_Subhan Shankar_Bidri Bhatkal Bhatkal
+LOC_Event  Hyderabad_. Hyderabad Bijapur Bangalore Bangalore
+LOC_Accused  Kerala Kerala Kerala Kerala Kerala
+LOC_Others  Hyderabad_. Hyderabad Bangalore Bangalore Bangalore
+ORG_Accused  Lashkar-e-Tayiba Anti_Terrorist_Cell ATC ATC Students_Islamic_Movement_of_India
+ORG_Others  Lashkar-e-Tayiba rediff.com ATC ATC Anti_Terrorist_Cell
+
+
+ev_019_st_019.txt
+PER_Accused  Razia Badrul_Alam_Molla Amina
+LOC_Event  Assam Kolkata Simulia_Madrasa Nadia Bardhaman
+LOC_Others  Simulia_Madrasa Kolkata Assam Bardhaman Bardhaman
+ORG_Accused  National_Investigation_Agency Jamaatul_Mujahideen_Bangladesh NIA NIA NIA
+ORG_Others  National_Investigation_Agency NIA NIA NIA NIA
+
+
+ev_032_st_003.txt
+LOC_Event  Devipukhuri_Tinali New_Delhi Tinsukhia Tinsukia Tinsukia
+LOC_Others  New_Delhi Tinsukia Tinsukia Devipukhuri_Tinali Tinsukhia
+ORG_Accused  ULFA ULFA Assam_Medical_College_Hospital
+ORG_Others  ULFA ULFA Assam_Medical_College_Hospital
+
+
+2013_3_4_st-44.txt
+PER_Others  Satyabrata_Bhoi president_Abhaya
+LOC_Others  Gobindpur_Blast Patna_village Jagatsinghpur_district_administration Gobindpur
+ORG_Others  Posco_Pratirodh_Sangram_Samiti PPSS anti-POSCO
+
+
+2013_4_24_st-9.txt
+PER_Others  Dzhokhar Dzhokhar Kazakh Tamerlan Tsarnaev
+PER_Accused  Kazakh Dzhokhar Dzhokhar Tamerlan Tsarnaev
+LOC_Event  U.S. U.S. hospital_room getaway U.S._officials
+LOC_Others  U.S. U.S. hospital_room U.S._officials getaway
+ORG_Accused  Kazakh_Foreign_Ministry Foreign_Ministry Muslim_terrorist FBI radical_brand
+ORG_Others  Kazakh_Foreign_Ministry Foreign_Ministry FBI Muslim_terrorist police
+
+
+2013_7_11_st-789.txt
+PER_Others  Nitish_Kumars Sushilkumar_Shinde Sonia_Gandhi Shinde Shinde
+LOC_Event  Bodh_Gaya Bodh_Gaya Bodh_Gayas Nepal Bihar
+LOC_Others  Bodh_Gayas Bodh_Gaya Bodh_Gaya Nepal Bihar
+ORG_Others  Central_Industrial_Security_Force National_Security_Guards CISF National_Investigation_Agency NSG
+
+
+ev_039_st_008.txt
+PER_Others  Madhukar_Gupta Gupta
+LOC_Event  Guwahati NEW_DELHI Assam
+LOC_Others  Assam NEW_DELHI Guwahati
+ORG_Others  Assam_government
+
+
+ev_001_st_007.txt
+LOC_Event  Bohori Bongaigaon Bongaigaon Assam Assam
+LOC_Others  Bongaigaon Bongaigaon Bohori Assam Assam
+ORG_Accused  Congress United_Liberation_Front_of_Asom_militants ULFA ULFA Assam_on_Sunday
+ORG_Others  United_Liberation_Front_of_Asom_militants Assam_on_Sunday Congress ULFA ULFA
+
+
+2011_6_6_st-27.txt
+LOC_Event  Khyber-Pukhtoonkhwa Nowshera
+ORG_Accused  Tehreek-e-Taliban_Pakistan
+
+
+ev_093_st_022.txt
+PER_Others  Mujibal Mujibal_Ansari Hyder Hyder Taufeeq
+PER_Accused  Mujibal_Ansari Mujibal Taufeeq Tehseen_Akhtar Hyder
+LOC_Event  Bodh_Gaya Bodh_Gaya Bodh_Gaya Bodh_Gaya Patna
+LOC_Others  Bodh_Gaya Bodh_Gaya Bodh_Gaya Bodh_Gaya Ranchi
+ORG_Others  National_Investigation_Agency NIA NIA NIA NIA
+
+
+2013_5_3_st-465.txt
+PER_Victim  Rafis Md._._Ameeruddin Rafiuddin Rafiuddin Rafiuddin
+PER_Others  Rafis Aleemuddin Aleemuddin Ameeruddins Shamsuddin
+LOC_Event  Dilsukhnagar Dilsukhnagar Dilsukhnagar Dilsukhnagar Chandrayangutta
+LOC_Others  Koti Chandrayangutta Hafiz_Baba_Nagar Hafiz_Baba_Nagar Dilsukhnagar
+ORG_Others  ENT_Hospital
+
+
+ev_015_st_006.txt
+PER_Others  Tarun_Gogoi Shivraj_Patil
+LOC_Event  Dhekiajuli Dimapur Nagaland Sonitpur Kokrajhar
+LOC_Others  Dimapur Nagaland Dhekiajuli Sonitpur Assam
+ORG_Accused  NDFB NDFB NDFB CRPF CRPF
+ORG_Others  NDFB NDFB NDFB CRPF CRPF
+
+
+2014_12_4_st-6003.txt
+LOC_Event  Bardhaman Bardhaman
+ORG_Accused  PTI Jamaat-ul-Mujahideen_Bangladesh ED ED JMB
+ORG_Others  Jamaat-ul-Mujahideen_Bangladesh JMB PTI ED ED
+
+
+ev_066_st_017.txt
+PER_Others  Ameen_Al-Peshawari Ameen_Al-Peshawari Nasir_Javaid Nasir_Javaid Yahya_Mujahid
+PER_Accused  Ameen_Al-Peshawari Ameen_Al-Peshawari Nasir_Javaid Nasir_Javaid Dawood
+LOC_Event  United_States Mumbai Mumbai Mumbai Mumbai
+LOC_Accused  United_States India Mumbai Mumbai Mumbai
+LOC_Others  United_States Mumbai Mumbai Mumbai Mumbai
+ORG_Accused  Lashkar-e-Toiba Taliban_Sanctions_Committee Al_Qaeda Al_Qaeda UN
+ORG_Others  Lashkar-e-Toiba Taliban_Sanctions_Committee Al_Qaeda Al_Qaeda UN
+
+
+ev_090_st_004.txt
+PER_Accused  Riaz Abu_Tallah Bashir Bashir Bashir
+LOC_Event  Chattabal Bemina Jammu_and_Kashmir Baramulla LoC
+LOC_Accused  Pakistan Pakistan Pakistan Pakistan Jammu_and_Kashmir
+ORG_Accused  Lashker-e-Toiba LeT LeT Special_Operations_Group CRPF
+ORG_Victim  Lashker-e-Toiba LeT LeT Special_Operations_Group SOG
+ORG_Others  Lashker-e-Toiba LeT LeT Special_Operations_Group CRPF
+
+
+ev_080_st_003.txt
+PER_Others  K_K_Mysorewala Mysorewala Mysorewala Sadhavi_Pragya_Singh_Thakur
+PER_Accused  K_K_Mysorewala Mysorewala Mysorewala Sadhavi_Pragya_Singh_Thakur
+LOC_Event  Sukka_Bazaar Mumbai Surat Modasa Modasa
+LOC_Accused  Surat Mumbai Modasa Modasa Modasa
+LOC_Others  Sukka_Bazaar Mumbai Surat Modasa Modasa
+ORG_Others  BJP Rashtriya_Swayamsevak_Sangh Akhil_Bharatiya_Vidyarthi_Parishad Vishwa_Hindu_Parishad Bajrang_Dal
+
+
+ev_014_st_010.txt
+PER_Others  Tarun_Gogoi Deben_Bhattacharya Ananta_Deka Hemen_Das Arabinda_Rajkhowa
+LOC_Event  Upper_Assam Dhemaji_College_playground Guwahati Dibrugarh Dhemaji
+LOC_Others  Upper_Assam Dibrugarh Guwahati Assam Assam
+ORG_Accused  United_Liberation_Front_of_Assam AASU AASU ULFA ULFA
+ORG_Others  AASU AASU All_Assam_Students_Union United_Liberation_Front_of_Assam Dhemaji_Civil_Hospital
+
+
+ev_037_st_006.txt
+PER_Accused  Pranjal_Deka Deka
+LOC_Event  Ghilakuti Guwahati Guwahati Rangiya
+LOC_Others  Guwahati Guwahati Ghilakuti Rangiya
+ORG_Accused  United_Liberation_Front_of_Assam ULFA Assam_Police
+ORG_Others  United_Liberation_Front_of_Assam ULFA Assam_Police
+
+
+ev_084_st_021.txt
+PER_Others  Rupa Pankaj Pankaj Neeraj_Chhibba Neeraj_Chhibba
+LOC_Others  Gurgaon India India India Russia
+ORG_Others  IIT IIT IIT IIT IIT
+
+
+2011_8_16_st-674.txt
+LOC_Event  Diyala Diyala Baquba Baquba Baghdad
+ORG_Accused  U.S._forces U.S._forces al-Qaeda
+ORG_Others  U.S._forces U.S._forces al-Qaeda
+
+
+ev_017_st_002.txt
+PER_Victim  H.R._Yadav Sushanta_Talukdar Tarun Venkaiah_Naidu
+PER_Others  Sushanta_Talukdar H.R._Yadav Tarun Venkaiah_Naidu
+LOC_Event  Assam Assam Assam Baska Sivsagar
+LOC_Others  Assam Assam Assam Dispur Sivsagar
+ORG_Accused  United_Liberation_Front_of_Asom ULFA ULFA ULFA Bharatiya_Janata_Party
+ORG_Others  United_Liberation_Front_of_Asom ULFA ULFA ULFA Bharatiya_Janata_Party
+
+
+ev_075_st_008.txt
+PER_Others  Manmohan_Singh AK_Jain Sriprakash_Jaiswal
+LOC_Event  Hindu_temple Johari_Bazaar_jewellery_market jewellery_bazaar markets India
+LOC_Others  Hindu_temple Johari_Bazaar_jewellery_market jewellery_bazaar Pakistan Pakistan
+ORG_Accused  Harkat-ul-Jehadi_Islamia HuJI HuJI Islamist_group Bharatiya_Janata_Party
+ORG_Others  Harkat-ul-Jehadi_Islamia Associated_Press Bharatiya_Janata_Party Islamist_group HuJI
+
+
+2011_9_8_st-58.txt
+LOC_Others  Yamuna_Vihar
+ORG_Victim  Delhi_High_Court High_Court
+
+
+2012_9_24_st-688.txt
+PER_Others  Yushau_Shuaib
+LOC_Event  northern_Nigeria Bauchi St._Johns_Catholic_Church
+LOC_Others  northern_Nigeria Bauchi St._Johns_Catholic_Church
+ORG_Accused  Associated_Press_journalist Boko_Haram Nigerias_National_Emergency_Management_Agency Catholic_church journalists
+ORG_Others  Associated_Press_journalist Catholic_church Nigerias_National_Emergency_Management_Agency journalists Boko_Haram
+
+
+2010_4_16_st-456.txt
+LOC_Event  Myanmar Yangon Kandawgyi_Lake
+LOC_Others  Myanmar Yangon Kandawgyi_Lake
+
+
+2010_6_15_st-364.txt
+PER_Others  Abdul_Nasir_Maudany Siraj Maudany Poonthura_Siraj Maundany
+PER_Accused  Abdul_Nasir_Maudany Siraj Poonthura_Siraj Maudany Maundany
+LOC_Event  Anwarserry_camp Bangalore
+LOC_Others  Anwarserry_camp Bangalore
+ORG_Others  People_'s_Democratic_Party PDP Bangalore_Sessions_Court
+
+
+ev_019_st_014.txt
+PER_Others  Saiful_Islam Johurddin Sarbes_Ali Golam_Osmani Rafiqul_Islam
+PER_Accused  Saiful_Islam Johurddin Rafiqul_Islam Golam_Osmani Sarbes_Ali
+LOC_Event  Barpeta Dhaka West_Bengal Bardhaman Kamrup
+LOC_Others  Barpeta Assam Dhaka West_Bengal Bangladesh
+ORG_Accused  Jamaatul_Mujahideen_Bangladesh Assam_Police JMB JMB
+ORG_Others  Assam_Police Jamaatul_Mujahideen_Bangladesh JMB JMB
+
+
+ev_070_st_005.txt
+PER_Others  Palve Bhanudas_Palve
+LOC_Event  Hyderabad Hyderabad PUNE Sangamner Sangamner
+LOC_Victim  Hyderabad Hyderabad Sangamner Sangamner PUNE
+ORG_Others  Amrutvahini_Engineering_College Amrutvahini_Engineering_College
+
+
+2012_9_20_st-361.txt
+PER_Others  Syedi_Mufaddal_Bhaisaheb_Saifuddin Syedna_Mohammad_Burhanuddin
+LOC_Event  Peshawar Karachi Karachi Karachi India
+LOC_Others  Peshawar Karachi Karachi Karachi India
+ORG_Victim  Dawoodi_Bohra Pakistan_Air_Force
+ORG_Others  Dawoodi_Bohra Pakistan_Air_Force
+
+
+2011_6_6_st-21.txt
+LOC_Event  Nowshera Khyber-Pukhtoonkhwa
+
+
+2010_10_31_st-580.txt
+PER_Others  Ahmed_al-Tamimi Dr._Alwan Ahmed_Alwan
+LOC_Event  The Balad_Ruz Balad_Ruz central_Iraq Iraq
+LOC_Others  Balad_Ruz Balad_Ruz The central_Iraq Iraq
+ORG_Others  Al-Qaeda Al-Qaeda
+
+
+ev_064_st_022.txt
+PER_Others  Rakesh_Goyal
+LOC_Event  Varanasi India India India Delhi
+LOC_Accused  Pakistan Dubai Afghanistan Singapore Manhattan
+LOC_Others  Singapore New_York Dubai India India
+ORG_Others  Tata Birla Reliance Indian_Institute_of_Science Centre_for_Research_and_Prevention_of_Computer_Crimes
+
+
+ev_067_st_001.txt
+PER_Others  Y._S._Rajasekhara_Reddy K._Jana_Reddy Mohd_._Ali_Shabbir M.A._Basith Mukesh_Goud
+LOC_Event  Mecca_Masjid Mecca_Masjid Andhra_Pradesh HYDERABAD Delhi
+LOC_Others  Andhra_Pradesh Delhi HYDERABAD Mecca_Masjid Mecca_Masjid
+ORG_Others  MIM Jaish-e-Mohammed Lashkar
+
+
+ev_029_st_010.txt
+PER_Others  Madhukar_Gupta Patil Patil Manmohan_Singh Shivraj_Patil
+LOC_Event  NEW_DELHI Guwahati Guwahati Guwahati Assam
+LOC_Others  Guwahati Guwahati Guwahati NEW_DELHI Assam
+ORG_Accused  United_Liberation_Front_of_Asom ULFA ULFA State_Government Assam_Government
+ORG_Others  ULFA ULFA United_Liberation_Front_of_Asom State_police State_Government
+
+
+2010_12_14_st-26.txt
+PER_Others  P._Sabitha_Indra_Reddy Lokesh_Sharma Devender_Gupta Swami_Asimanand Swami_Asimanand
+PER_Accused  P._Sabitha_Indra_Reddy Lokesh_Sharma Devender_Gupta Swami_Asimanand Swami_Asimanand
+LOC_Others  Andhra_Pradesh
+ORG_Others  CBI
+
+
+ev_089_st_017.txt
+
+
+ev_085_st_012.txt
+PER_Others  M_S_Dahiya Dahiya
+LOC_Event  Dasaswamedh_Ghat Gujarat VARANASI
+LOC_Others  Dasaswamedh_Ghat Gujarat VARANASI
+ORG_Others  Forensic_Science_Institute ATS Anti-Terror_Squad Indian_Mujahideen
+
+
+ev_080_st_007.txt
+PER_Others  A._Naik Naik Naik
+LOC_Event  AHMADABAD India western_India Malegaon Malegaon
+LOC_Others  western_India Malegaon Malegaon Malegaon Malegaon
+ORG_Others  Indian_television_news
+
+
+ev_048_st_010.txt
+PER_Others  Tiwari
+LOC_Event  Digboi Digboi Kokrajhar Chirang Tinsukia
+LOC_Others  Kokrajhar Digboi Digboi Chirang Upper_Assam
+ORG_Accused  United_Liberation_Front_of_Asom NDFB Assam_police Army
+ORG_Others  United_Liberation_Front_of_Asom Assam_police Army NDFB
+
+
+2013_2_23_st-450.txt
+PER_Victim  victim Anand_Kumar Anand_Kumar Anand Anand
+PER_Others  Anand_Kumar Anand_Kumar victim Anand Anand
+LOC_Event  Dilsukhnagar V._Kothakota V._Kothakota Hyderabad Hyderabad
+LOC_Others  Dilsukhnagar Hyderabad Hyderabad Hyderabad V._Kothakota
+ORG_Others  Nova_College_of_Engineering The_Hindu government Irrigation_Department
+
+
+ev_064_st_007.txt
+
+
+2011_9_21_st-21.txt
+PER_Victim  Mohammad_Masoom_Stanekzai Hamid_Karzai Burhauddin_Rabbani Mohammad_Zahir Rabbani
+PER_Others  Hamid_Karzai Mohammad_Masoom_Stanekzai Mohammad_Zahir Burhanuddin_Rabbani Burhauddin_Rabbani
+LOC_Event  Kabul Kabul Kabul Afghanistan Afghanistan
+LOC_Others  Kabul Kabul Kabul Pakistan Pakistan
+ORG_Accused  Associated_Press Taliban Taliban Taliban mujahideen
+ORG_Others  Associated_Press High_Peace_Council Taliban Taliban Taliban
+
+
+ev_063_st_001.txt
+PER_Others  Devesh_K._Pandey Shahi_Imam Shahi_Imam K.K._Paul B.L._Joshi
+LOC_Event  Walled_City NEW_DELHI Uttar_Pradesh Gate_No._1 Gate_No._1
+LOC_Others  NEW_DELHI Uttar_Pradesh Walled_City Delhi Delhi
+ORG_Accused  Lashkar-e-Taiba Lok_Nayak_Jayaprakash_Narain_Hospital
+ORG_Others  Lashkar-e-Taiba Lok_Nayak_Jayaprakash_Narain_Hospital
+
+
+ev_083_st_005.txt
+PER_Victim  Rajen_Singh Baidyanath_Prasad Raju Yumnam_Joykumar_Singh K._Mangle_Singh
+PER_Others  Rajen_Singh Raju K._Mangle_Singh Baidyanath_Prasad Yumnam_Joykumar_Singh
+LOC_Others  Imphal Imphal Manipur Ragailong
+ORG_Accused  Peoples_Revolutionary_Party_of_Kangleipak Manipur_police_commando RIMS RIMS Regional_Institute_of_Medical_Sciences
+ORG_Others  Peoples_Revolutionary_Party_of_Kangleipak Regional_Institute_of_Medical_Sciences Jawaharlal_Nehru_Hospital Manipur_police_commando RIMS
+
+
+ev_014_st_014.txt
+PER_Others  Tarun_Gogoi Sushanta_Talukdar Gogoi Gogoi Gogoi
+PER_Accused  Tarun_Gogoi Sushanta_Talukdar Gogoi Gogoi Gogoi
+LOC_Event  GUWAHATI Assam Dhemaji Dhemaji Dhemaji
+LOC_Others  GUWAHATI Assam Dhemaji Dhemaji Dhemaji
+ORG_Accused  United_Liberation_Front_of_Asom State_Government ULFA ULFA ULFA
+ORG_Others  United_Liberation_Front_of_Asom State_Government ULFA ULFA ULFA
+
+
+2012_11_29_st-603.txt
+LOC_Event  Ankuli_industrial_estate_area
+ORG_Others  MKCG_Medical_College_Hospital Baidyanathpur_police_station
+
+
+ev_037_st_010.txt
+PER_Others  P._Chidamabaram Biju_Sarania Pradip_Chandra_Saloi Pranjal_Deka Pranjal_Deka
+PER_Accused  P._Chidamabaram Biju_Sarania Sanjib_Talukdar Pradip_Chandra_Saloi Pranjal_Deka
+LOC_Event  GUWAHATI Guwahati Guwahati Kamrup Rangiya
+LOC_Accused  Rangiya Rangiya Bhutnath Bhutnath Bhutnath
+LOC_Others  GUWAHATI Guwahati Guwahati Rangiya Rangiya
+ORG_Accused  ULFA ULFA United_Liberation_Front_of_Asom ULFAs TheHindu
+ORG_Others  United_Liberation_Front_of_Asom TheHindu ULFA ULFA ULFAs
+
+
+ev_037_st_001.txt
+PER_Others  Ajay_Basumatary Ranjan_Daimary Tarun_Gogoi Sushanta_Talukdar Sheikh_Hasina
+PER_Accused  Ajay_Basumatary Ranjan_Daimary Nabla Nabla Nabla
+LOC_Event  municipal_garbage_bin Bhangagarh Birubari Birubari Goalpara
+LOC_Accused  Bangladesh Bangladesh Assam Assam Assam
+LOC_Others  municipal_garbage_bin Assam Assam Assam Goalpara
+ORG_Accused  United_Liberation_Front_of_Asom National_Democratic_Front_of_Boroland NDFB NDFB NDFB
+ORG_Others  GMCH National_Democratic_Front_of_Boroland United_Liberation_Front_of_Asom Guwahati ULFA
+
+
+ev_086_st_019.txt
+PER_Others  P Chidambaram Chidambaram Chidambaram_said
+LOC_Event  Pune Pune Mumbai Mumbai Mumbai
+LOC_Victim  India Pakistan Pune Pune Mumbai
+LOC_Others  Pakistan Mumbai Mumbai Mumbai Pune
+ORG_Others  Chidambaram_on_Thursday
+
+
+ev_076_st_004.txt
+PER_Others  Nusrat_Ali Zafarul_Islam_Khan M._Manzoor_Alam
+LOC_Event  NEW_DELHI Bangalore Ahmedabad
+LOC_Others  NEW_DELHI Bangalore Ahmedabad
+ORG_Others  All_India_Milli_Council All_India_Milli_Council Jamaat-Islami_Hind Jamaat-e-Islami All_India_Muslim_Majlis-e-Mushawarat
+
+
+ev_061_st_002.txt
+PER_Others  Hashim_Qureshi Ghulam_Hassan_Mir
+LOC_Others  Baramulla north_Kashmir Tangmarg
+ORG_Others  Jammu_Kashmir_Democratic_Liberation_party PDP local_news_agency
+
+
+2011_9_10_st-144.txt
+PER_Victim  Kumari_Ananthan Rajiv_Gandhi R._Anbarasu E.V.K.S._Elangovan S.Ve_._Shekher
+
+PER_Others  Rajiv_Gandhi Kumari_Ananthan R._Anbarasu E.V.K.S._Elangovan S.Ve_._Shekher
+LOC_Others  Sriperumbudur
+ORG_Others  Tamil_Nadu_Congress_Committee TNCC Madras_High_Court
+
+
+ev_035_st_012.txt
+PER_Others  Manmohan_Singh Halder Sarma Sarma P.C._Halder
+LOC_Event  Ganeshguri Fancybazar Guwahati Assam Bangladesh
+LOC_Others  Ganeshguri Fancybazar Guwahati Bangladesh Assam
+ORG_Accused  Intelligence_Bureau United_Liberation_Front_of_Asom RAW HuJI ULFA
+ORG_Others  Intelligence_Bureau Assam_Police RAW Research_and_Analysis_Wing Assam_government
+
+
+ev_059_st_006.txt
+PER_Others  R.C._Sharma Jagir_Kaur
+LOC_Event  New_Delhi Delhi Karol_Baghs_Liberty_hall ground_floor_toilet Patel_Nagars_Satyam
+LOC_Others  Delhi New_Delhi ground_floor_toilet Karol_Baghs_Liberty_hall Patel_Nagars_Satyam
+ORG_Others  Shiromani_Gurdwara_Prabandhak_Committee
+
+
+ev_094_st_004.txt
+PER_Victim  Narendra Ajay_Kumar Ramnarayan_Singh Manu_Maharaj Manu_Maharaj
+PER_Others  Khurshid Narendra Salman_Khurshid Ravindra_Kumar Ravindra_Kumar
+PER_Accused  Narendra Ajay_Kumar Salman_Khurshid N_Sharvan_Kumar Khurshid
+LOC_Event  Udyog_Bhawan Regent_Cinema Twin_Tower Old_Gandhi_statue platform_no._10
+LOC_Accused  Bihar Bihar Bihar Bihar Bihar
+LOC_Others  Udyog_Bhawan Regent_Cinema Twin_Tower Old_Gandhi_statue platform_no._10
+ORG_Accused  National_Intelligence_Agency IM IM IM IM
+ORG_Others  ANI_News National_Intelligence_Agency Railway_Protection_Force Times Times
+
+
+ev_029_st_006.txt
+PER_Others  Manmohan_Singh Singh
+LOC_Event  New_Delhi Guwahati Athgaon
+LOC_Others  New_Delhi Guwahati Athgaon
+ORG_Accused  ULFA
+
+
+ev_007_st_001.txt
+LOC_Event  Guwahati Srirampur Assam-West_Bengal_border Kokrajhar
+LOC_Others  Guwahati Srirampur Assam-West_Bengal_border Kokrajhar
+ORG_Others  Army
+
+
+ev_064_st_029.txt
+LOC_Event  Aurangabad Nagpur Hyderabad Nasik Bangalore
+LOC_Others  Aurangabad Maharashtra Hyderabad Nagpur Bangalore
+ORG_Accused  Lashkar-e-Tayiba Students_Islamic_Movement_of_India SIMI LeT LeT
+
+
+ev_092_st_023.txt
+PER_Victim  Mahendra_Karma Salwa_Judum Mishra Akhileswar_Singh Prakash_Mishra
+PER_Others  Akhileswar_Singh Mahendra_Karma Mishra Salwa_Judum Prakash_Mishra
+LOC_Event  Chhattisgarh_, Darbha Andhra_Pradesh Padia Padia
+LOC_Others  Darbha Malkangiri Malkangiri Malkangiri Malkangiri
+ORG_Accused  Kalimela_squad Chhattisgarh_Congress Dandakaranya_Special_Zonal_Committee Odisha_police Odisha_police
+ORG_Victim  Maoists Maoists Maoists Maoists Maoists
+ORG_Others  Dandakaranya_Special_Zonal_Committee District_Voluntary_Force Maoists Maoists Maoists
+
+
+ev_070_st_017.txt
+PER_Others  Balwinder_Singh M.A._Basith Ajit_Doval Naved_Gul Haren_Pandya
+PER_Accused  Balwinder_Singh Naved_Gul M.A._Basith Bilal Mohammad
+LOC_Accused  Hyderabad Hyderabad Hyderabad Hyderabad India
+LOC_Others  Hyderabad Hyderabad Hyderabad Hyderabad India
+ORG_Accused  State_government HuJI Home_Ministry Union_Home_Ministry INTERPOL
+ORG_Others  State_government Home_Ministry HuJI The_Hindu The_Hindu
+
+
+2014_10_16_st-2005.txt
+PER_Others  Mr_Singh Sunday Mamata_Banerjee Ms_Banerjee Siddharth_Nath_Singh
+LOC_Others  West_Bengal Badshahi_Road Bengal_police Burdwan Burdwan
+ORG_Others  National_Security_Guards National_Investigation_Agency NIA Trinamool_Congress
+
+
+2013_6_12_st-775.txt
+LOC_Event  Syria police_station police_station police_station police_station
+LOC_Others  police_station police_station police_station police_station Syria
+ORG_Others  Syrian_Observatory_for_Human_Rights
+
+
+ev_014_st_009.txt
+PER_Victim  Antara Antara_Boruah Borgohain Borgohain Damburu_Gogoi
+PER_Others  Antara Arabinda_Rajkhowa Borgohain Borgohain Damburu_Gogoi
+PER_Accused  Antara Antara_Boruah Borgohain Borgohain Damburu_Gogoi
+LOC_Event  A_T_Road Assam Assam Assam Assam
+LOC_Others  A_T_Road Dhemaji_College_Ground Dhemaji_College_Ground Dhemaji_College_Ground Dhemaji_College_Ground
+ORG_Accused  ULFA ULFA ULFA ULFA ULFA
+ORG_Others  NCC CECDC United_Liberation_Front_of_Assam United_Liberation_Front_of_Assam ULFA
+
+
+ev_011_st_001.txt
+LOC_Event  Tinsukia Kokrajhar Nagajan Fakiragram Panbari
+LOC_Others  Tinsukia Nagajan Kokrajhar Sesapani Fakiragram
+ORG_Accused  Bodo_militant security_forces security_forces armed_police ULFA
+ORG_Others  CRPF CRPF CRPF armed_police ATTF
+
+
+ev_077_st_024.txt
+PER_Victim  Rohan_Vyas Dushyant Dushyant Yash Yash
+PER_Others  Dushyant Dushyant Geeta Geeta Yash
+LOC_Others  Trauma_Centre Trauma_Centre Trauma_Centre
+ORG_Others  Civil_Hospital Civil_Hospital
+
+
+ev_076_st_017.txt
+PER_Others  Sameer_Sadiq Sadiq Sadiq Yahya_Kamakutty Riazuddin_Nasir
+PER_Accused  Sameer_Sadiq Sadiq Sadiq Yahya_Kamakutty Riazuddin_Nasir
+LOC_Event  Karnataka Karnataka Karnataka Bangalore Bangalore
+LOC_Accused  Karnataka Karnataka Karnataka Bangalore Bangalore
+LOC_Others  Karnataka Karnataka Karnataka Bangalore Bangalore
+ORG_Accused  Students_Islamic_Movement_of_India rediff.com SIMI SIMI SIMI
+ORG_Others  rediff.com Students_Islamic_Movement_of_India SIMI SIMI SIMI
+
+
+ev_093_st_014.txt
+PER_Others  Dalai_Lama Lobsang_Sangay
+LOC_Event  DHARAMSALA Bihar Mahabodhi_temple_complex Mahabodhi_temple Mahabodhi_temple
+LOC_Others  Bihar Mahabodhi_temple_complex DHARAMSALA Mahabodhi_temple Mahabodhi_temple
+
+
+2011_7_9_st-247.txt
+LOC_Others  Thondi Thondi Thondi Thiruppalakudi
+
+
+2012_12_27_st-7.txt
+PER_Others  Dhan_Singh Dhan_Singh Dhan_Singh Ramji_Kalsangra Ramji_Kalsangra
+LOC_Others  Ujjain Ujjain Maharashtra Hyderabad Malegaon_explosion
+ORG_Others  National_Investigation_Agency Delhi_High_Court NIA NIA NIA
+
+
+ev_025_st_003.txt
+PER_Others  Manmohan_Singh
+LOC_Event  GUWAHATI Ganeshguri Dispur Assam Arunachal_Pradesh
+LOC_Others  GUWAHATI Ganeshguri Dispur Assam Arunachal_Pradesh
+ORG_Accused  ULFA ULFA ULFA
+ORG_Others  ULFA ULFA ULFA
+
+
+ev_019_st_045.txt
+PER_Others  Sharad_Kumar Ajit_Doval Doval Doval Banerjee
+LOC_Event  West_Bengal Burdwan Burdwan Bangladesh
+LOC_Others  West_Bengal Burdwan Burdwan Bangladesh
+ORG_Accused  National_Investigation_Agency National_Investigation_Agency NIA NIA NIA
+ORG_Others  National_Investigation_Agency National_Investigation_Agency NIA NIA NIA
+
+
+ev_083_st_035.txt
+PER_Victim  Hemant_Karkare Karkare Karkare Karkare Ashok_Kamte
+PER_Others  Hemant_Karkare Ashok_Kamte Karkare Karkare Karkare
+LOC_Event  Mumbai Mumbai Thane Vashi Malegaon
+LOC_Others  Mumbai Mumbai Malegaon Malegaon Vashi
+ORG_Victim  ATS RAW
+ORG_Others  ATS RAW
