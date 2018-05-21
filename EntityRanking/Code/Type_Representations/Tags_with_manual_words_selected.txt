@@ -1,0 +1,15 @@
+LOC_Event
+---------
+
+Bomb/s blast/s in/at, bomb attack, hit, struck, death, riot at, blast, Killed in, detonated in/at, killing at
+
+
+PER_Accused/ORG_Accused
+----------------------------
+
+accused, blamed on/of, responsible for, arrested, detonated, conspirator, handiwork of
+
+
+Org_Victim/Per_Victim
+-----------------
+dead includes, killing of, hit, was/were killed, was/were injured, victim
