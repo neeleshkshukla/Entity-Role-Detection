@@ -61,10 +61,10 @@ ORG_Others  congress[ORG_Others] shiv_sena[ORG_Others] sena[ORG_Others]
 
 ev_027_st_003.txt
 PER_Victim  ram[PER_Victim] p_c_ram[PER_Victim]
-LOC_Event  guwahati[LOC_Others] assam_tinsukia[LOC_Event] tinsukia[LOC_Event]
+LOC_Event  guwahati[LOC_Others] assam_tinsukia[LOC_Event] guwahati[LOC_Others]
 LOC_Others  guwahati[LOC_Others] assam_tinsukia[LOC_Event] dibrugarh[LOC_Others]
-ORG_Accused  fci[ORG_Others] ulfa[ORG_Accused] food_corporation_india_fci[ORG_Others]
-ORG_Others  fci[ORG_Others] ulfa[ORG_Accused] food_corporation_india_fci[ORG_Others]
+ORG_Accused  fci[ORG_Others] ulfa[ORG_Accused] ulfa[ORG_Accused]
+ORG_Others  fci[ORG_Others] ulfa[ORG_Accused] ulfa[ORG_Accused]
 
 
 ev_070_st_002.txt
@@ -122,23 +122,23 @@ ORG_Others  radio_pakistan[ORG_Others]
 
 
 ev_014_st_008.txt
-PER_Others  barua[PER_Others] paresh_barua[PER_Others]
+PER_Others  barua[PER_Others] barua[PER_Others] paresh_barua[PER_Others]
 LOC_Event  assam_dhemaji[LOC_Event] dhemaji[LOC_Event] assam[LOC_Others]
 LOC_Others  dhemaji[LOC_Event] assam_dhemaji[LOC_Event] assam[LOC_Event]
-ORG_Accused  ulfa[ORG_Accused] united_liberation_front_asom_ulfa[ORG_Accused]
+ORG_Accused  ulfa[ORG_Accused] ulfa[ORG_Accused] ulfa[ORG_Accused]
 
 
 ev_015_st_005.txt
-PER_Others  patil[PER_Others] shivraj_patil[PER_Others] manmohan_singh[PER_Others]
+PER_Others  patil[PER_Others] shivraj_patil[PER_Others] patil[PER_Others]
 LOC_Event  dimapur_railway_station_hongkong_market[LOC_Event] dimapur[LOC_Event] dimapur_nagaland[LOC_Event]
-ORG_Others  nagaland_government[ORG_Others] centre[ORG_Others]
+ORG_Others  nagaland_government[ORG_Others] centre[ORG_Others] centre[ORG_Others]
 
 
 ev_027_st_002.txt
 LOC_Event  assam[LOC_Event] chikajan_tinsukia[LOC_Others] chamber_road[LOC_Event]
 LOC_Others  assam[LOC_Event] chikajan_tinsukia[LOC_Others] dinjan[LOC_Others]
-ORG_Accused  ulfa[ORG_Accused] indian_army[ORG_Others] united_liberation_front_asom_ulfa[ORG_Accused]
-ORG_Others  ulfa[ORG_Accused] indian_army[ORG_Others] united_liberation_front_asom_ulfa[ORG_Accused]
+ORG_Accused  ulfa[ORG_Accused] ulfa[ORG_Accused] indian_army[ORG_Others]
+ORG_Others  ulfa[ORG_Accused] ulfa[ORG_Accused] indian_army[ORG_Others]
 
 
 2010_8_25_st-33.txt
@@ -167,7 +167,7 @@ ORG_Others  bjp[ORG_Others] anti-sabotage_teams_ast[ORG_Others] national_investi
 
 
 ev_084_st_007.txt
-PER_Others  headley[PER_Accused] tahawwur_hussain_rana[PER_Accused] david_coleman_headley[PER_Accused]
+PER_Others  headley[PER_Accused] headley[PER_Accused] tahawwur_hussain_rana[PER_Accused]
 PER_Accused  headley[PER_Accused] david_coleman_headley[PER_Accused] daood_gilani[PER_Others]
 LOC_Event  india[LOC_Others] india[LOC_Event] pakistan[LOC_Victim]
 LOC_Victim  india[LOC_Event] mumbai[LOC_Others] maharashtra_gujarat_uttar_pradesh[LOC_Others]
@@ -188,7 +188,7 @@ ORG_Others  maoists[ORG_Accused] hindu[ORG_Others] maoist[ORG_Accused]
 ev_089_st_023.txt
 PER_Others  sushilkumar_shinde[PER_Others] sushma_swaraj[PER_Others] swaraj[PER_Others]
 LOC_Others  hyderabad[LOC_Others]
-ORG_Others  centre[ORG_Others]
+ORG_Others  centre[ORG_Others] centre[ORG_Others] centre[ORG_Others]
 
 
 ev_087_st_027.txt
@@ -202,10 +202,10 @@ ORG_Others  new_delhi_high_court[ORG_Victim] delhi_high_court[ORG_Victim] govern
 ev_019_st_038.txt
 PER_Others  smh_meerza[PER_Others] razia_bibi[PER_Accused] alima_bibi_rajira[PER_Accused]
 PER_Accused  razia_bibi[PER_Accused] alima_bibi_rajira[PER_Accused] smh_meerza[PER_Others]
-LOC_Event  madrasa_simulia[LOC_Others] madrasa[LOC_Others] west_bengal[LOC_Others]
-LOC_Others  madrasa_simulia[LOC_Others] madrasa[LOC_Others] assam[LOC_Others]
-ORG_Accused  national_investigation_agency_nia[ORG_Others] nia[ORG_Others] cid[ORG_Others]
-ORG_Others  nia[ORG_Others] national_investigation_agency_nia[ORG_Others] cid[ORG_Others]
+LOC_Event  madrasa_simulia[LOC_Others] madrasa[LOC_Others] madrasa[LOC_Others]
+LOC_Others  madrasa_simulia[LOC_Others] madrasa[LOC_Others] madrasa[LOC_Others]
+ORG_Accused  national_investigation_agency_nia[ORG_Others] nia[ORG_Others] nia[ORG_Others]
+ORG_Others  nia[ORG_Others] nia[ORG_Others] nia[ORG_Others]
 
 
 ev_039_st_016.txt
@@ -213,7 +213,7 @@ PER_Others  pavan_thakur[PER_Accused] keshab_das_dipu_das_ganesh_das[PER_Accused
 PER_Accused  keshab_das_dipu_das_ganesh_das[PER_Accused] pavan_thakur[PER_Accused] doley[PER_Others]
 LOC_Event  nalbari[LOC_Event] bihar[LOC_Others] guwahati[LOC_Others]
 LOC_Others  bihar[LOC_Others] nalbari[LOC_Event] guwahati[LOC_Others]
-ORG_Accused  ulfa[ORG_Accused]
+ORG_Accused  ulfa[ORG_Accused] ulfa[ORG_Accused]
 
 
 ev_027_st_001.txt
@@ -227,7 +227,7 @@ ev_085_st_011.txt
 PER_Victim  brij_lal[PER_Others] r_p_singh_pillai[PER_Others] brijlal[PER_Others]
 PER_Others  brij_lal[PER_Others] brijlal[PER_Others] murli_manohar_joshi[PER_Others]
 LOC_Event  varanasi[LOC_Event] lucknow[LOC_Others] dashashwamedh_shitla_ghats[LOC_Accused]
-LOC_Accused  dashashwamedh_shitla_ghats[LOC_Accused] varanasi[LOC_Event] lucknow[LOC_Others]
+LOC_Accused  dashashwamedh_shitla_ghats[LOC_Accused] varanasi[LOC_Event] varanasi[LOC_Event]
 LOC_Victim  dashashwamedh_ghat[LOC_Others] german[LOC_Victim] mumbai[LOC_Others]
 LOC_Others  dashashwamedh_shitla_ghats[LOC_Accused] lucknow[LOC_Others] varanasi[LOC_Event]
 ORG_Accused  lashkar-e-taiba_let[ORG_Others] bjp[ORG_Others] government[ORG_Others]
@@ -237,11 +237,11 @@ ORG_Others  lashkar-e-taiba_let[ORG_Others] bjp[ORG_Others] government[ORG_Other
 ev_042_st_005.txt
 PER_Others  manoj_konwar[PER_Accused] konwar[PER_Accused] jatindra_lahkar[PER_Others]
 PER_Accused  manoj_konwar[PER_Accused] konwar[PER_Accused] a.k._singh[PER_Others]
-LOC_Event  laxmi_cinema[LOC_Event] sivasagar[LOC_Others] central_market[LOC_Event]
-LOC_Accused  sivasagar[LOC_Others] laxmi_cinema[LOC_Event] central_market[LOC_Event]
-LOC_Others  sivasagar[LOC_Others] laxmi_cinema[LOC_Event] central_market[LOC_Event]
-ORG_Accused  ulfa[ORG_Accused] ulfas_paresh_barua_faction[ORG_Accused] tingaligaon_police[ORG_Others]
-ORG_Others  ulfa[ORG_Accused] ulfas_paresh_barua_faction[ORG_Accused] tingaligaon_police[ORG_Others]
+LOC_Event  laxmi_cinema[LOC_Event] sivasagar[LOC_Others] sivasagar[LOC_Others]
+LOC_Accused  sivasagar[LOC_Others] sivasagar[LOC_Others] sivasagar[LOC_Others]
+LOC_Others  sivasagar[LOC_Others] sivasagar[LOC_Others] laxmi_cinema[LOC_Event]
+ORG_Accused  ulfa[ORG_Accused] ulfa[ORG_Accused] ulfas_paresh_barua_faction[ORG_Accused]
+ORG_Others  ulfa[ORG_Accused] ulfa[ORG_Accused] ulfas_paresh_barua_faction[ORG_Accused]
 
 
 2013_2_21_st-28.txt
@@ -249,7 +249,7 @@ LOC_Event  dimapur_railway_station[LOC_Event] nagaland[LOC_Event]
 
 
 ev_069_st_004.txt
-PER_Others  sushil_kumar_modi[PER_Others] modi[PER_Others] paresh_barua[PER_Others]
+PER_Others  sushil_kumar_modi[PER_Others] modi[PER_Others] modi[PER_Others]
 LOC_Others  athgaon[LOC_Others] assam[LOC_Others] guwahati[LOC_Others]
 ORG_Accused  biharis[ORG_Others] ulfa[ORG_Accused] congress[ORG_Others]
 ORG_Others  ulfa[ORG_Accused] ulfa[ORG_Others] congress[ORG_Others]
@@ -293,8 +293,8 @@ ORG_Others  rml[ORG_Others] ram_manohar_lohia_rml_hospital[ORG_Others] rml_hospi
 
 ev_083_st_008.txt
 PER_Others  n._bhumeshgore[PER_Others] kambui_lunglu[PER_Others] okram_ibobi_singh[PER_Others]
-LOC_Event  imphal[LOC_Others] ragailong[LOC_Event] palace_gate[LOC_Others]
-LOC_Others  imphal[LOC_Others] ragailong[LOC_Event] palace_gate[LOC_Others]
+LOC_Event  imphal[LOC_Others] imphal[LOC_Others] ragailong[LOC_Event]
+LOC_Others  imphal[LOC_Others] ragailong[LOC_Event] imphal[LOC_Others]
 ORG_Accused  assam_rifles[ORG_Others] kangleipak_communist_party[ORG_Accused] manipur_government[ORG_Others]
 ORG_Others  ragailong_women_union[ORG_Others] assam_rifles[ORG_Others] manipur_government[ORG_Others]
 
@@ -312,8 +312,8 @@ ORG_Others  national_security_guard_nsg[ORG_Others] nia[ORG_Others] indian_mujah
 ev_063_st_002.txt
 PER_Others  abdul_karim_tunda[PER_Accused] devesh_k._pandey[PER_Others] tunda[PER_Accused]
 PER_Accused  abdul_karim_tunda[PER_Accused] devesh_k._pandey[PER_Others] tunda[PER_Accused]
-LOC_Event  jama_masjid[LOC_Event] new_delhi[LOC_Others] uttar_pradesh[LOC_Others]
-LOC_Others  jama_masjid[LOC_Event] uttar_pradesh[LOC_Others] delhi[LOC_Others]
+LOC_Event  jama_masjid[LOC_Event] jama_masjid[LOC_Event] new_delhi[LOC_Others]
+LOC_Others  jama_masjid[LOC_Event] jama_masjid[LOC_Event] uttar_pradesh[LOC_Others]
 ORG_Accused  lashkar-e-taiba_let[ORG_Accused] delhi_police[ORG_Others]
 ORG_Others  lashkar-e-taiba_let[ORG_Accused] delhi_police[ORG_Others]
 
@@ -327,8 +327,8 @@ ORG_Others  pakistan_government[ORG_Others] indian_government[ORG_Others] inter-
 
 2013_4_18_st-52.txt
 PER_Others  r.p.n._singh[PER_Others] sushilkumar_shinde[PER_Others]
-LOC_Event  bangalore[LOC_Event] hyderabad_pune[LOC_Event] kolkata[LOC_Others]
-LOC_Others  bangalore[LOC_Event] kolkata[LOC_Others] hyderabad_pune[LOC_Event]
+LOC_Event  bangalore[LOC_Event] bangalore[LOC_Event] hyderabad_pune[LOC_Event]
+LOC_Others  bangalore[LOC_Event] bangalore[LOC_Event] kolkata[LOC_Others]
 ORG_Accused  indian_mujahideen[ORG_Accused] national_security_guard[ORG_Others] mha[ORG_Others]
 ORG_Others  national_security_guard[ORG_Others] indian_mujahideen[ORG_Accused] nia[ORG_Others]
 
@@ -342,8 +342,8 @@ ORG_Others  indian_mujahideen[ORG_Accused] home_ministry[ORG_Others] lashker-e-t
 2013_7_1_st-585.txt
 PER_Others  shafiullah_khan[PER_Others]
 LOC_Event  north_waziristan[LOC_Event] north-western_pakistan[LOC_Event] peshawar[LOC_Event]
-ORG_Accused  taliban_al-qaeda[ORG_Accused] frontier_corps[ORG_Victim]
-ORG_Victim  taliban_al-qaeda[ORG_Accused] frontier_corps[ORG_Victim]
+ORG_Accused  taliban_al-qaeda[ORG_Accused] frontier_corps[ORG_Victim] frontier_corps[ORG_Victim]
+ORG_Victim  taliban_al-qaeda[ORG_Accused] frontier_corps[ORG_Victim] frontier_corps[ORG_Victim]
 
 
 ev_074_st_014.txt
@@ -383,29 +383,29 @@ PER_Victim  k.narasingha_murty[PER_Victim] brahmananda_gagarin_mohanty[PER_Other
 PER_Others  k.narasingha_murty[PER_Victim] brahmananda_gagarin_mohanty[PER_Others]
 LOC_Event  pitatali_village_chikiti_block[LOC_Event] ganjam[LOC_Event] girisola[LOC_Others]
 LOC_Others  ganjam[LOC_Event] pitatali_village_chikiti_block[LOC_Event] girisola[LOC_Others]
-ORG_Accused  bjd[ORG_Victim] congress[ORG_Accused] golanthara_police_station[ORG_Others]
+ORG_Accused  bjd[ORG_Victim] congress[ORG_Accused] bjd[ORG_Victim]
 ORG_Victim  bjd[ORG_Victim] congress[ORG_Accused] golanthara_police_station[ORG_Others]
-ORG_Others  congress[ORG_Accused] bjd[ORG_Victim] golanthara_police_station[ORG_Others]
+ORG_Others  congress[ORG_Accused] bjd[ORG_Victim] bjd[ORG_Victim]
 
 
 ev_042_st_004.txt
 PER_Victim  das[PER_Victim] lulu_das[PER_Victim] k_singh[PER_Others]
 PER_Others  k_singh[PER_Others] lulu_das[PER_Victim] das[PER_Victim]
-LOC_Event  sivasagar[LOC_Event] central_market[LOC_Event] sonari[LOC_Event]
-LOC_Others  sivasagar[LOC_Event] sonari[LOC_Event] central_market[LOC_Event]
+LOC_Event  sivasagar[LOC_Event] sivasagar[LOC_Event] central_market[LOC_Event]
+LOC_Others  sivasagar[LOC_Event] sivasagar[LOC_Event] sonari[LOC_Event]
 ORG_Accused  united_liberation_front_asom_ulfa[ORG_Accused] ulfa[ORG_Accused] assam_medical_college_hospital[ORG_Others]
 ORG_Others  united_liberation_front_asom_ulfa[ORG_Accused] ulfa[ORG_Accused] assam_medical_college_hospital[ORG_Others]
 
 
 2013_5_18_st-88.txt
 PER_Others  kazi[PER_Accused] parkar[PER_Accused] shariff_parkar[PER_Accused]
-PER_Accused  kazi[PER_Accused] parkar[PER_Accused] shariff_parkar[PER_Accused]
+PER_Accused  kazi[PER_Accused] parkar[PER_Accused] kazi[PER_Accused]
 LOC_Event  bombay[LOC_Event]
 ORG_Others  prince_ali_khan_hospital[ORG_Others] supreme_court[ORG_Others] tada_court[ORG_Others]
 
 
 2011_1_25_st-687.txt
-LOC_Event  karbala[LOC_Event] baghdad[LOC_Event]
+LOC_Event  karbala[LOC_Event] karbala[LOC_Event] baghdad[LOC_Event]
 ORG_Others  u.s._military[ORG_Others]
 
 
@@ -415,19 +415,19 @@ PER_Others  v_c_shukla[PER_Victim] mahendra_karma[PER_Victim] manmohan_singh[PER
 LOC_Event  bastar[LOC_Victim] bhadrachalam[LOC_Others] chattisgarh[LOC_Others]
 LOC_Victim  chattisgarh[LOC_Others] chhattisgarh[LOC_Event] andhra_pradesh[LOC_Others]
 LOC_Others  chhattisgarh_jagdalpur[LOC_Event] bastar[LOC_Victim] bhadrachalam[LOC_Others]
-ORG_Accused  maoists[ORG_Accused] congress[ORG_Victim] pcc[ORG_Victim]
-ORG_Victim  maoists[ORG_Accused] congress[ORG_Victim] pcc[ORG_Victim]
-ORG_Others  congress[ORG_Victim] maoists[ORG_Accused] pcc[ORG_Victim]
+ORG_Accused  maoists[ORG_Accused] congress[ORG_Victim] maoists[ORG_Accused]
+ORG_Victim  maoists[ORG_Accused] maoists[ORG_Accused] congress[ORG_Victim]
+ORG_Others  congress[ORG_Victim] maoists[ORG_Accused] maoists[ORG_Accused]
 
 
 ev_019_st_010.txt
 LOC_Event  bardhaman[LOC_Event]
-ORG_Others  nia[ORG_Others] state_government[ORG_Others] west_bengal_police[ORG_Others]
+ORG_Others  nia[ORG_Others] state_government[ORG_Others] nia[ORG_Others]
 
 
 ev_019_st_047.txt
 PER_Others  prakash_mishra[PER_Others] mamata_banerjee[PER_Others] doval[PER_Others]
-LOC_Event  burdwan[LOC_Event] west_bengal[LOC_Others] kolkata[LOC_Others]
+LOC_Event  burdwan[LOC_Event] west_bengal[LOC_Others] burdwan[LOC_Event]
 LOC_Accused  burdwan[LOC_Event] bengal[LOC_Others] west_bengal[LOC_Others]
 LOC_Others  burdwan[LOC_Event] west_bengal[LOC_Others] bangladesh[LOC_Accused]
 ORG_Accused  trinamool[ORG_Others] trinamool_congress[ORG_Others] jamaat-ul-mujahideen[ORG_Accused]
@@ -438,11 +438,10 @@ ev_075_st_002.txt
 PER_Others  madhukar_mishra[PER_Others] devesh_k._pandey[PER_Others]
 LOC_Event  ghaziabad[LOC_Others] uttar_pradesh[LOC_Others] jaipur[LOC_Event]
 LOC_Others  uttar_pradesh[LOC_Others] jaipur[LOC_Event] ghaziabad[LOC_Others]
-ORG_Others  anti-terrorist_squad[ORG_Others] e-mail[ORG_Others] indian_mujahideen[ORG_Others]
+ORG_Others  anti-terrorist_squad[ORG_Others] e-mail[ORG_Others] e-mail[ORG_Others]
 
 
 ev_084_st_004.txt
-
 PER_Others  p._chidambaram[PER_Others] chidambaram[PER_Others] singh[PER_Others]
 LOC_Event  indore[LOC_Others] pune[LOC_Event] delhi_kanpur_indore[LOC_Others]
 LOC_Others  indore[LOC_Others] pune[LOC_Event] delhi_kanpur_indore[LOC_Others]
@@ -461,8 +460,8 @@ ORG_Others  indian_mujahideen[ORG_Accused] delhi_court[ORG_Others]
 
 ev_069_st_001.txt
 PER_Others  madhukar_gupta[PER_Others] patil[PER_Others] tarun_gogoi[PER_Others]
-LOC_Event  guwahati[LOC_Event] new_delhi[LOC_Others] assam[LOC_Event]
-LOC_Others  guwahati[LOC_Event] new_delhi[LOC_Others] assam[LOC_Event]
+LOC_Event  guwahati[LOC_Event] new_delhi[LOC_Others] guwahati[LOC_Event]
+LOC_Others  guwahati[LOC_Event] new_delhi[LOC_Others] guwahati[LOC_Event]
 ORG_Accused  united_liberation_front_asom_ulfa[ORG_Accused] assam_government[ORG_Others] ulfa[ORG_Others]
 ORG_Others  united_liberation_front_asom_ulfa[ORG_Accused] assam_government[ORG_Others] state_government[ORG_Others]
 
@@ -482,16 +481,17 @@ ORG_Others  indian_mujahideen[ORG_Accused] radical_muslim_group_indian_mujahidee
 
 
 ev_019_st_053.txt
-PER_Victim  sajid[PER_Accused] shakil_ahmed_sovan_mandal[PER_Victim] sajid_aka_sheikh_rehmatullah[PER_Accused]
-PER_Accused  sajid[PER_Accused] sajid_aka_sheikh_rehmatullah[PER_Accused] shakil_ahmed_sovan_mandal[PER_Victim]
+PER_Victim  sajid[PER_Accused] sajid[PER_Accused] sajid[PER_Accused]
+PER_Accused  sajid[PER_Accused] sajid_aka_sheikh_rehmatullah[PER_Accused] sajid[PER_Accused]
 LOC_Event  kolkata[LOC_Others] burdwan[LOC_Event] khagragarh[LOC_Event]
 LOC_Accused  kolkata[LOC_Others] madrasa[LOC_Others] lalgola_murshidabad[LOC_Accused]
 LOC_Others  kolkata[LOC_Others] lalgola_murshidabad[LOC_Accused] burdwan[LOC_Event]
-ORG_Accused  national_investigation_agency_nia[ORG_Others] nia[ORG_Others] jamaat-ul-mujahideen_bangaldesh_jmb[ORG_Accused]
-ORG_Others  national_investigation_agency_nia[ORG_Others] nia[ORG_Others] jamaat-ul-mujahideen_bangaldesh_jmb[ORG_Accused]
+ORG_Accused  national_investigation_agency_nia[ORG_Others] nia[ORG_Others] nia[ORG_Others]
+ORG_Others  national_investigation_agency_nia[ORG_Others] nia[ORG_Others] nia[ORG_Others]
 
 
 ev_019_st_006.txt
+
 PER_Others  molla[PER_Accused] dilip_adak[PER_Others] hashem_molla[PER_Accused]
 PER_Accused  molla[PER_Accused] hashem_molla[PER_Accused] gulsana_bibi_alima_bibi[PER_Accused]
 LOC_Event  purbasthali[LOC_Accused] bardhaman[LOC_Accused] bardhaman[LOC_Event]
@@ -500,7 +500,7 @@ ORG_Others  criminal_investigation_department_cid[ORG_Others] cid[ORG_Others]
 
 
 2014_12_4_st-6003.txt
-LOC_Event  bardhaman[LOC_Event]
+LOC_Event  bardhaman[LOC_Event] bardhaman[LOC_Event]
 ORG_Accused  ed[ORG_Others] jamaat-ul-mujahideen_bangladesh_jmb[ORG_Accused] pti[ORG_Others]
 ORG_Others  ed[ORG_Others] jamaat-ul-mujahideen_bangladesh_jmb[ORG_Accused] pti[ORG_Others]
 
@@ -508,7 +508,7 @@ ORG_Others  ed[ORG_Others] jamaat-ul-mujahideen_bangladesh_jmb[ORG_Accused] pti[
 2014_11_27_st-6001.txt
 PER_Others  asaduzzaman_khan_kamal[PER_Others] kamal[PER_Others]
 LOC_Event  khagragarh_bardhaman[LOC_Event] new_delhi[LOC_Others] dhaka[LOC_Others]
-LOC_Others  new_delhi[LOC_Others] dhaka[LOC_Others] bardhaman[LOC_Event]
+LOC_Others  new_delhi[LOC_Others] dhaka[LOC_Others] dhaka[LOC_Others]
 ORG_Accused  bangladesh[ORG_Others] india_bangladesh[ORG_Others] jamaat-ul-mujahideen_bangladesh_jmb[ORG_Accused]
 ORG_Others  bangladesh[ORG_Others] nia[ORG_Others] india_bangladesh[ORG_Others]
 
@@ -523,17 +523,17 @@ ORG_Others  al_qaeda[ORG_Others] trinamool[ORG_Others] bjp[ORG_Others]
 
 
 ev_081_st_004.txt
-PER_Others  pragya_singh[PER_Accused] majid_memon[PER_Others] pragya_singh_thakur[PER_Accused]
-PER_Accused  pragya_singh_thakur[PER_Accused] pragya_singh[PER_Accused] majid_memon[PER_Others]
-LOC_Event  nashik[LOC_Event] malegaon[LOC_Event] mumbai[LOC_Others]
-LOC_Others  nashik[LOC_Event] malegaon[LOC_Event] mumbai[LOC_Others]
+PER_Others  pragya_singh[PER_Accused] pragya_singh[PER_Accused] majid_memon[PER_Others]
+PER_Accused  pragya_singh_thakur[PER_Accused] pragya_singh[PER_Accused] pragya_singh[PER_Accused]
+LOC_Event  nashik[LOC_Event] malegaon[LOC_Event] nashik[LOC_Event]
+LOC_Others  nashik[LOC_Event] malegaon[LOC_Event] nashik[LOC_Event]
 ORG_Accused  ncp[ORG_Others] vhp[ORG_Others] vishwa_hindu_parishad[ORG_Others]
 ORG_Others  vhp[ORG_Others] ncp[ORG_Others] shiv_sena[ORG_Accused]
 
 
 2012_8_3_st-44.txt
 PER_Victim  mr._patil[PER_Others] dayanand_patil[PER_Victim] anna_hazare[PER_Others]
-PER_Others  mr._patil[PER_Others] dayanand_patil[PER_Victim] anna_hazare[PER_Others]
+PER_Others  mr._patil[PER_Others] dayanand_patil[PER_Victim] mr._patil[PER_Others]
 LOC_Event  balgandharva_rang_mandir[LOC_Event] yerawada_jail[LOC_Others] pune[LOC_Others]
 LOC_Others  yerawada_jail[LOC_Others] balgandharva_rang_mandir[LOC_Event] pune[LOC_Others]
 ORG_Accused  indian_mujahideen[ORG_Accused] anti_terrorism_squad_ats_pune_crime_branch[ORG_Others] iac[ORG_Others]
@@ -548,12 +548,12 @@ ORG_Others  congress[ORG_Others] cpi[ORG_Others] bharatiya_janata_party[ORG_Othe
 
 
 2013_5_12_st-41.txt
-PER_Others  sahu[PER_Accused] satyabrata_bhoi[PER_Others] abhay_sahu[PER_Accused]
-PER_Accused  sahu[PER_Accused] abhay_sahu[PER_Accused] satyabrata_bhoi[PER_Others]
+PER_Others  sahu[PER_Accused] sahu[PER_Accused] sahu[PER_Accused]
+PER_Accused  sahu[PER_Accused] abhay_sahu[PER_Accused] sahu[PER_Accused]
 LOC_Event  jagatsinghpur[LOC_Others] biju_patnaik_airport[LOC_Accused] patana[LOC_Event]
 LOC_Accused  jagatsinghpur[LOC_Others] biju_patnaik_airport[LOC_Accused] coimbatore[LOC_Others]
 LOC_Others  jagatsinghpur[LOC_Others] biju_patnaik_airport[LOC_Accused] coimbatore[LOC_Others]
-ORG_Accused  sangram_samiti[ORG_Accused] district_administration_police[ORG_Others] samiti[ORG_Accused]
+ORG_Accused  sangram_samiti[ORG_Accused] sangram_samiti[ORG_Accused] district_administration_police[ORG_Others]
 ORG_Others  sangram_samiti[ORG_Accused] anti-posco_movement_supreme_court_friday[ORG_Others] district_administration_police[ORG_Others]
 
 
@@ -587,12 +587,12 @@ ORG_Others  high_court[ORG_Others]
 
 2011_12_7_st-2.txt
 PER_Others  shahrukh[PER_Accused] amit_lodha[PER_Others] qateel_siddiqi[PER_Accused]
-PER_Accused  qateel_siddiqi[PER_Accused] shahrukh[PER_Accused] qateel[PER_Accused]
+PER_Accused  qateel_siddiqi[PER_Accused] shahrukh[PER_Accused] shahrukh[PER_Accused]
 LOC_Event  pune_german_bakery_chinnaswamy_stadium[LOC_Event] jama_masjid_german_bakery[LOC_Event] delhi_jama_masjid[LOC_Event]
 LOC_Accused  pune_german_bakery_chinnaswamy_stadium[LOC_Event] delhi_jama_masjid[LOC_Event] jama_masjid_german_bakery[LOC_Event]
 LOC_Others  jama_masjid_german_bakery[LOC_Event] pune_german_bakery_chinnaswamy_stadium[LOC_Event] delhi_jama_masjid[LOC_Event]
-ORG_Accused  indian_mujahideen[ORG_Accused] purnea_district_police[ORG_Others] delhi_police[ORG_Others]
-ORG_Others  indian_mujahideen[ORG_Accused] purnea_district_police[ORG_Others] delhi_police[ORG_Others]
+ORG_Accused  indian_mujahideen[ORG_Accused] indian_mujahideen[ORG_Accused] purnea_district_police[ORG_Others]
+ORG_Others  indian_mujahideen[ORG_Accused] indian_mujahideen[ORG_Accused] purnea_district_police[ORG_Others]
 
 
 ev_019_st_041.txt
@@ -601,14 +601,14 @@ PER_Others  ghosh[PER_Others] sheikh_hasina[PER_Others] manash_ghosh[PER_Others]
 LOC_Event  burdwan[LOC_Event] murshidabad[LOC_Accused] beldanga[LOC_Accused]
 LOC_Accused  murshidabad[LOC_Accused] beldanga[LOC_Accused] bengal[LOC_Others]
 LOC_Others  beldanga[LOC_Accused] murshidabad[LOC_Accused] burdwan[LOC_Event]
-ORG_Accused  jmb[ORG_Accused] jamaat[ORG_Others] government[ORG_Others]
+ORG_Accused  jmb[ORG_Accused] jmb[ORG_Accused] jamaat[ORG_Others]
 ORG_Others  government[ORG_Others] jamaat[ORG_Others] national_investigation_agency[ORG_Others]
 
 
 ev_039_st_019.txt
 PER_Victim  ali[PER_Victim] kader_ali[PER_Victim]
-LOC_Event  nalbari[LOC_Event] police_station[LOC_Others]
-LOC_Others  police_station[LOC_Others] nalbari[LOC_Event]
+LOC_Event  nalbari[LOC_Event] police_station[LOC_Others] nalbari[LOC_Event]
+LOC_Others  police_station[LOC_Others] nalbari[LOC_Event] nalbari[LOC_Event]
 ORG_Others  guwahati_medical_college_hospital[ORG_Others] gmch[ORG_Others]
 
 
@@ -616,7 +616,7 @@ ev_067_st_003.txt
 LOC_Event  masjid[LOC_Event] masjid_premises[LOC_Event] hyderabad[LOC_Others]
 LOC_Accused  masjid[LOC_Event] hyderabad[LOC_Others] mecca_masjid[LOC_Event]
 LOC_Others  masjid[LOC_Event] hyderabad[LOC_Others] masjid_premises[LOC_Event]
-ORG_Others  nsg[ORG_Others] national_security_guard[ORG_Others]
+ORG_Others  nsg[ORG_Others] national_security_guard[ORG_Others] nsg[ORG_Others]
 
 
 2010_9_28_st-10.txt
@@ -636,8 +636,8 @@ ORG_Others  sikh_militant_group[ORG_Others]
 
 ev_039_st_018.txt
 PER_Victim  ali[PER_Victim] barman[PER_Victim] aqid_zaman[PER_Victim]
-LOC_Event  nalbari[LOC_Event] lower_assam[LOC_Others]
-LOC_Others  lower_assam[LOC_Others] nalbari[LOC_Event]
+LOC_Event  nalbari[LOC_Event] lower_assam[LOC_Others] nalbari[LOC_Event]
+LOC_Others  lower_assam[LOC_Others] nalbari[LOC_Event] nalbari[LOC_Event]
 ORG_Accused  united_liberation_front_assam_ulfa[ORG_Accused] ulfa[ORG_Accused] gmc_hospital[ORG_Others]
 ORG_Others  united_liberation_front_assam_ulfa[ORG_Accused] gmc_hospital[ORG_Others] ulfa[ORG_Accused]
 
@@ -650,10 +650,10 @@ ORG_Others  anti-terrorist_cell[ORG_Others]
 
 
 ev_093_st_026.txt
-PER_Victim  pragya_deep[PER_Others] vishwavidya[PER_Victim]
-PER_Others  pragya_deep[PER_Others] vishwavidya[PER_Victim]
+PER_Victim  pragya_deep[PER_Others] pragya_deep[PER_Others] pragya_deep[PER_Others]
+PER_Others  pragya_deep[PER_Others] pragya_deep[PER_Others] pragya_deep[PER_Others]
 LOC_Event  bodhi_tree[LOC_Event] animesh_lochan_chaitya[LOC_Event] bihars_gaya[LOC_Others]
-LOC_Victim  bihars_gaya[LOC_Others] mahabodhi_temple[LOC_Event] japanese_buddha_statue[LOC_Event]
+LOC_Victim  bihars_gaya[LOC_Others] mahabodhi_temple[LOC_Event] mahabodhi_temple[LOC_Event]
 LOC_Others  bodhi_tree[LOC_Event] animesh_lochan_chaitya[LOC_Event] bodh_gaya[LOC_Others]
 ORG_Others  intelligence_bureau[ORG_Others] hindu[ORG_Others] india_bhiku_sangha[ORG_Others]
 
@@ -661,12 +661,12 @@ ORG_Others  intelligence_bureau[ORG_Others] hindu[ORG_Others] india_bhiku_sangha
 2011_3_17_st-317.txt
 PER_Victim  kolathur_mani[PER_Accused] veerappan[PER_Accused] muthulakshmi[PER_Accused]
 PER_Accused  kolathur_mani[PER_Accused] veerappan[PER_Accused] muthulakshmi[PER_Accused]
-LOC_Event  palar[LOC_Event] ramapura-meenyam[LOC_Event] ramapura_police_station[LOC_Event]
+LOC_Event  palar[LOC_Event] palar[LOC_Event] palar[LOC_Event]
 ORG_Others  district_sessions_court[ORG_Others] special_task_force[ORG_Others] supreme_court[ORG_Others]
 
 
 2013_2_23_st-450.txt
-PER_Victim  anand_kumar[PER_Victim] anand[PER_Victim] veeranna[PER_Others]
+PER_Victim  anand_kumar[PER_Victim] anand[PER_Victim] anand_kumar[PER_Victim]
 PER_Others  anand[PER_Victim] anand_kumar[PER_Victim] veeranna[PER_Others]
 LOC_Event  v._kothakota_uravakonda_mandal[LOC_Others] dilsukhnagar[LOC_Event] uravakonda_mandal[LOC_Others]
 LOC_Others  v._kothakota_uravakonda_mandal[LOC_Others] uravakonda_mandal[LOC_Others] kurnool[LOC_Others]
@@ -675,13 +675,13 @@ ORG_Others  irrigation_department[ORG_Others] nova_college_engineering[ORG_Other
 
 ev_077_st_010.txt
 PER_Others  abu_bashir[PER_Others] safdar_nagori[PER_Accused] p_c_pande[PER_Others]
-PER_Accused  safdar_nagori[PER_Accused] abu_bashir[PER_Others] ashish_bhatia[PER_Others]
+PER_Accused  safdar_nagori[PER_Accused] abu_bashir[PER_Others] safdar_nagori[PER_Accused]
 LOC_Event  halol[LOC_Others] gujarat[LOC_Others] vadodara[LOC_Others]
 LOC_Accused  vadodara[LOC_Others] halol[LOC_Others] madhya_pradesh[LOC_Accused]
 LOC_Others  vadodara[LOC_Others] halol[LOC_Others] gujarat[LOC_Others]
-ORG_Accused  simi[ORG_Accused] rediff.com[ORG_Others] simi[ORG_Others]
-ORG_Victim  simi[ORG_Accused] rediff.com[ORG_Others] simi[ORG_Others]
-ORG_Others  simi[ORG_Accused] rediff.com[ORG_Others] simi[ORG_Others]
+ORG_Accused  simi[ORG_Accused] rediff.com[ORG_Others] simi[ORG_Accused]
+ORG_Victim  simi[ORG_Accused] simi[ORG_Accused] rediff.com[ORG_Others]
+ORG_Others  simi[ORG_Accused] rediff.com[ORG_Others] simi[ORG_Accused]
 
 
 ev_073_st_009.txt
@@ -703,8 +703,8 @@ ORG_Others  mla[ORG_Others] hyderabad_mp[ORG_Others] leader_opposition[ORG_Other
 
 ev_063_st_007.txt
 PER_Others  karnail_singh[PER_Others] sonia_gandhi[PER_Others] a.p.j._abdul_kalam[PER_Others]
-LOC_Event  jama_masjid[LOC_Event] jama_masjid_srinagar[LOC_Event] jama_masjid[LOC_Others]
-LOC_Others  jama_masjid_srinagar[LOC_Event] jama_masjid[LOC_Event] jama_masjid[LOC_Others]
+LOC_Event  jama_masjid[LOC_Event] jama_masjid_srinagar[LOC_Event] jama_masjid[LOC_Event]
+LOC_Others  jama_masjid_srinagar[LOC_Event] jama_masjid[LOC_Event] jama_masjid[LOC_Event]
 ORG_Others  janata_dal[ORG_Others] bharatiya_janata_party_communist_party_india[ORG_Others] cpi[ORG_Others]
 
 
@@ -716,17 +716,17 @@ LOC_Others  hindu_holy_city[LOC_Event] varanasi[LOC_Others] new_delhi[LOC_Event]
 ev_092_st_005.txt
 PER_Victim  vc_shukla[PER_Others] nand_kumar_patel[PER_Others] salwa_judum[PER_Others]
 PER_Others  vc_shukla[PER_Others] nand_kumar_patel[PER_Others] karma[PER_Victim]
-LOC_Event  jagdalpur_sukma[LOC_Others] chhattisgarh[LOC_Event] forested_area_dharba[LOC_Event]
-LOC_Others  chhattisgarh[LOC_Event] delhi[LOC_Others] forested_area_dharba[LOC_Event]
+LOC_Event  jagdalpur_sukma[LOC_Others] chhattisgarh[LOC_Event] chhattisgarh[LOC_Event]
+LOC_Others  chhattisgarh[LOC_Event] chhattisgarh[LOC_Event] delhi[LOC_Others]
 ORG_Accused  maoists[ORG_Accused] tribal_congress[ORG_Others] congress_leaders[ORG_Others]
 ORG_Others  maoists[ORG_Accused] tribal_congress[ORG_Others] congress_leaders[ORG_Others]
 
 
 ev_019_st_017.txt
 PER_Others  chatterjee[PER_Others] shamik_bhattacharya[PER_Others] partha_chatterjee[PER_Others]
-LOC_Event  west_bengal[LOC_Others] bardhaman[LOC_Others] khargragarh_bardhaman[LOC_Event]
-LOC_Others  west_bengal[LOC_Others] bardhaman[LOC_Others] khargragarh_bardhaman[LOC_Event]
-ORG_Accused  aitc[ORG_Others] india_trinamool_congress_aitc[ORG_Others] bharatiya_janata_party_bjp[ORG_Others]
+LOC_Event  west_bengal[LOC_Others] west_bengal[LOC_Others] bardhaman[LOC_Others]
+LOC_Others  west_bengal[LOC_Others] west_bengal[LOC_Others] bardhaman[LOC_Others]
+ORG_Accused  aitc[ORG_Others] aitc[ORG_Others] india_trinamool_congress_aitc[ORG_Others]
 ORG_Others  nia[ORG_Others] aitc[ORG_Others] national_investigation_agency_nia[ORG_Others]
 
 
@@ -739,9 +739,9 @@ ORG_Others  krishnagiri_national_highway[ORG_Others] hindu[ORG_Others]
 
 
 2011_8_16_st-674.txt
-LOC_Event  diyala[LOC_Event] kut[LOC_Event] baghdad[LOC_Event]
-ORG_Accused  u.s._forces[ORG_Others] al-qaeda[ORG_Accused]
-ORG_Others  u.s._forces[ORG_Others] al-qaeda[ORG_Accused]
+LOC_Event  diyala[LOC_Event] diyala[LOC_Event] kut[LOC_Event]
+ORG_Accused  u.s._forces[ORG_Others] u.s._forces[ORG_Others] al-qaeda[ORG_Accused]
+ORG_Others  u.s._forces[ORG_Others] u.s._forces[ORG_Others] al-qaeda[ORG_Accused]
 
 
 2013_2_24_st-2.txt
@@ -761,7 +761,7 @@ ORG_Others  tamil_nadu[ORG_Others] karnataka_police[ORG_Others]
 
 ev_066_st_011.txt
 PER_Others  musharraf[PER_Others] kasuri[PER_Others] sheikh_rashid_ahmed[PER_Others]
-LOC_Event  new_delhi_eastern_pakistani_city_lahore[LOC_Others] india[LOC_Others] kashmir_india[LOC_Others]
+LOC_Event  new_delhi_eastern_pakistani_city_lahore[LOC_Others] india[LOC_Others] india[LOC_Others]
 LOC_Others  new_delhi_eastern_pakistani_city_lahore[LOC_Others] islamabad[LOC_Others] india[LOC_Others]
 ORG_Accused  indian_high_commission[ORG_Others] islamist_militants[ORG_Accused]
 ORG_Others  indian_high_commission[ORG_Others] islamist_militants[ORG_Accused]
@@ -797,14 +797,14 @@ ORG_Others  congress[ORG_Others] sawai_madhav_singh_hospital[ORG_Others] upa[ORG
 ev_077_st_024.txt
 PER_Victim  geeta_rohan[PER_Others] dushyant[PER_Others] rohan[PER_Victim]
 PER_Others  rohan_yash[PER_Victim] geeta_rohan[PER_Others] yash[PER_Victim]
-LOC_Others  trauma_centre[LOC_Others]
-ORG_Others  civil_hospital[ORG_Others]
+LOC_Others  trauma_centre[LOC_Others] trauma_centre[LOC_Others] trauma_centre[LOC_Others]
+ORG_Others  civil_hospital[ORG_Others] civil_hospital[ORG_Others]
 
 
 ev_089_st_029.txt
 PER_Others  r_r_patil[PER_Others] patil[PER_Others]
-LOC_Event  bangalore[LOC_Others] hyderabad[LOC_Event] mumbai[LOC_Others]
-LOC_Others  bangalore[LOC_Others] hyderabad[LOC_Event] mumbai[LOC_Others]
+LOC_Event  bangalore[LOC_Others] bangalore[LOC_Others] hyderabad[LOC_Event]
+LOC_Others  bangalore[LOC_Others] bangalore[LOC_Others] hyderabad[LOC_Event]
 ORG_Others  delhi_police[ORG_Others]
 
 
@@ -821,7 +821,7 @@ ev_026_st_003.txt
 PER_Others  s_n_singh[PER_Others]
 LOC_Event  assam[LOC_Event] fancy_bazar[LOC_Others] guwahati[LOC_Event]
 LOC_Others  fancy_bazar[LOC_Others] assam[LOC_Event] shani_mandir[LOC_Event]
-ORG_Accused  ulfa[ORG_Accused]
+ORG_Accused  ulfa[ORG_Accused] ulfa[ORG_Accused]
 
 
 ev_046_st_005.txt
@@ -829,12 +829,11 @@ PER_Victim  swati[PER_Victim] k_ramanujam[PER_Others] mohamed_zahir_hussain[PER_
 PER_Others  mohamed_zahir_hussain[PER_Others] m_karunanidhi[PER_Others] anil_saxena[PER_Others]
 LOC_Event  tamil_nadu[LOC_Event] vijayawada[LOC_Others] guntur[LOC_Others]
 LOC_Accused  tamil_nadu[LOC_Event] vijayawada[LOC_Others] guntur[LOC_Others]
-LOC_Others  tamil_nadu[LOC_Event] vijayawada[LOC_Others] guntur[LOC_Others]
+LOC_Others  tamil_nadu[LOC_Event] vijayawada[LOC_Others] tamil_nadu[LOC_Event]
 ORG_Others  dmk[ORG_Others] rajiv_gandhi_hospital[ORG_Others] cb-cid[ORG_Others]
 
 
 2011_12_8_st-703.txt
-
 LOC_Event  hinjli_ganjam[LOC_Event] laxmi_bazar[LOC_Event]
 
 
@@ -847,7 +846,7 @@ ORG_Accused  ulfa[ORG_Accused]
 
 2013_2_22_st-438.txt
 PER_Others  rafi[PER_Others] laddu[PER_Others] m._naresh[PER_Others]
-LOC_Event  dilsukhnagar[LOC_Event] konark_theatre_dilsukhnagar_bus-stop[LOC_Event]
+LOC_Event  dilsukhnagar[LOC_Event] konark_theatre_dilsukhnagar_bus-stop[LOC_Event] dilsukhnagar[LOC_Event]
 
 
 2010_7_13_st-141.txt
@@ -858,11 +857,11 @@ LOC_Others  singanallur[LOC_Others]
 
 
 ev_037_st_004.txt
-PER_Others  tarun_gogoi[PER_Others] gogoi[PER_Others] chidambaram[PER_Others]
+PER_Others  tarun_gogoi[PER_Others] tarun_gogoi[PER_Others] gogoi[PER_Others]
 LOC_Event  guwahati[LOC_Event] bhangagarh[LOC_Event] lokpriya_gopinath_bordoloi_airport[LOC_Others]
 LOC_Others  guwahati[LOC_Event] lokpriya_gopinath_bordoloi_airport[LOC_Others] bhootnath[LOC_Event]
-ORG_Accused  ulfa[ORG_Accused] times_india[ORG_Others] et[ORG_Others]
-ORG_Others  ulfa[ORG_Accused] times_india[ORG_Others] et[ORG_Others]
+ORG_Accused  ulfa[ORG_Accused] times_india[ORG_Others] ulfa[ORG_Accused]
+ORG_Others  ulfa[ORG_Accused] times_india[ORG_Others] ulfa[ORG_Accused]
 
 
 ev_040_st_006.txt
@@ -881,14 +880,14 @@ LOC_Others  lucknow_faizabad[LOC_Others]
 ev_019_st_037.txt
 PER_Others  sheikh_taled[PER_Others] pranab_mukherjee[PER_Others] kirnahar[PER_Others]
 LOC_Event  birbhum[LOC_Others] west_bengal[LOC_Others] burdwan[LOC_Event]
-LOC_Others  birbhum[LOC_Others] kirnahar[LOC_Event] burdwan[LOC_Event]
+LOC_Others  birbhum[LOC_Others] kirnahar[LOC_Event] birbhum[LOC_Others]
 ORG_Others  nia[ORG_Others] national_investigation_agency_nia[ORG_Others]
 
 
 ev_085_st_019.txt
 PER_Others  mayawati[PER_Others] p._chidambaram[PER_Others] brijlal[PER_Others]
-LOC_Event  shitala_ghat[LOC_Event] dasashwamedh_ghat[LOC_Others] dashashwamedh_ghat[LOC_Others]
-LOC_Others  shitala_ghat[LOC_Event] dasashwamedh_ghat[LOC_Others] dashashwamedh_ghat[LOC_Others]
+LOC_Event  shitala_ghat[LOC_Event] shitala_ghat[LOC_Event] dasashwamedh_ghat[LOC_Others]
+LOC_Others  shitala_ghat[LOC_Event] shitala_ghat[LOC_Event] dasashwamedh_ghat[LOC_Others]
 ORG_Accused  indian_mujahideen[ORG_Accused] government[ORG_Others] state_government[ORG_Others]
 ORG_Others  anti-terrorist_squad_ats_police_central_intelligence_agencies[ORG_Others] intelligence_bureau[ORG_Others] indian_mujahideen[ORG_Accused]
 
@@ -899,7 +898,7 @@ LOC_Others  dibrugarh_delhi[LOC_Others] dimapur[LOC_Others] naojan_chungajan[LOC
 
 
 2010_11_3_st-3.txt
-LOC_Event  baghdad[LOC_Event]
+LOC_Event  baghdad[LOC_Event] baghdad[LOC_Event]
 
 
 ev_045_st_005.txt
@@ -909,25 +908,26 @@ LOC_Others  upper[LOC_Event] tea_town[LOC_Event] dibrugarh[LOC_Others]
 
 ev_082_st_009.txt
 PER_Others  s.b._dutta[PER_Others] bikash_debbarma_kumaria_debbarma_sachindra_debbarma_dinesh_debbarma[PER_Others]
-LOC_Event  tripura[LOC_Event] agartala[LOC_Event]
+LOC_Event  tripura[LOC_Event] agartala[LOC_Event] agartala[LOC_Event]
 ORG_Accused  tripura_tiger_force_attf[ORG_Accused] cid[ORG_Others] high_court[ORG_Others]
 ORG_Others  cid[ORG_Others] tripura_tiger_force_attf[ORG_Accused] high_court[ORG_Others]
 
 
 ev_085_st_006.txt
 PER_Others  r._ashok[PER_Others] ashok[PER_Others]
-LOC_Event  varanasi[LOC_Event] bangalore[LOC_Others]
-LOC_Others  bangalore[LOC_Others] varanasi[LOC_Event]
-ORG_Others  home_department[ORG_Others] state_election_commission[ORG_Others] election_commission[ORG_Others]
+LOC_Event  varanasi[LOC_Event] bangalore[LOC_Others] bangalore[LOC_Others]
+LOC_Others  bangalore[LOC_Others] varanasi[LOC_Event] bangalore[LOC_Others]
+ORG_Others  home_department[ORG_Others] state_election_commission[ORG_Others] home_department[ORG_Others]
 
 
 ev_086_st_024.txt
 PER_Others  riyaz_bhatkal_yasin_bhatkal_waqas_ibrahim_sad_danish[PER_Accused] ujjwal_nikam[PER_Others] ansari[PER_Accused]
 PER_Accused  riyaz_bhatkal_yasin_bhatkal_waqas_ibrahim_sad_danish[PER_Accused] riyaz_bhatkal[PER_Accused] ansari[PER_Accused]
-LOC_Accused  pakistan[LOC_Accused] darbanga[LOC_Accused] mumbai[LOC_Others]
+LOC_Accused  pakistan[LOC_Accused] pakistan[LOC_Accused] darbanga[LOC_Accused]
+
 LOC_Others  darbanga[LOC_Accused] mumbai[LOC_Others] pakistan[LOC_Accused]
-ORG_Accused  indian_mujahideen[ORG_Accused] ats[ORG_Others] india[ORG_Others]
-ORG_Others  indian_mujahideen[ORG_Accused] ats[ORG_Others] maharashtra_control_organised_crime_act_mcoca[ORG_Others]
+ORG_Accused  indian_mujahideen[ORG_Accused] ats[ORG_Others] indian_mujahideen[ORG_Accused]
+ORG_Others  indian_mujahideen[ORG_Accused] indian_mujahideen[ORG_Accused] ats[ORG_Others]
 
 
 2012_9_25_st-8.txt
@@ -971,15 +971,15 @@ PER_Others  hyder_ali[PER_Accused] narendra_modi[PER_Others] mujibal_ansari_sali
 PER_Accused  hyder_ali[PER_Accused] mujibal_ansari_salim_ansari[PER_Others] narendra_modi[PER_Others]
 LOC_Event  new_delhi[LOC_Others] iram_lodge_hindpiri[LOC_Others] patna[LOC_Others]
 LOC_Others  new_delhi[LOC_Others] buddhist_shrine_bodh_gaya[LOC_Event] iram_lodge_hindpiri[LOC_Others]
-ORG_Accused  nia[ORG_Others] indian_mujahideen[ORG_Accused] hindu[ORG_Others]
-ORG_Others  nia[ORG_Others] hindu[ORG_Others] indian_mujahideen[ORG_Accused]
+ORG_Accused  nia[ORG_Others] indian_mujahideen[ORG_Accused] nia[ORG_Others]
+ORG_Others  nia[ORG_Others] nia[ORG_Others] hindu[ORG_Others]
 
 
 2011_12_23_st-750.txt
-PER_Others  hashimi[PER_Accused] tariq-al_hashimi[PER_Accused] nouri_al-maliki[PER_Others]
-PER_Accused  hashimi[PER_Accused] tariq-al_hashimi[PER_Accused] nouri_al-maliki[PER_Others]
-LOC_Event  baghdad[LOC_Others] iraq[LOC_Others] u.s.[LOC_Others]
-LOC_Others  iraq[LOC_Others] baghdad[LOC_Others] u.s.[LOC_Others]
+PER_Others  hashimi[PER_Accused] tariq-al_hashimi[PER_Accused] hashimi[PER_Accused]
+PER_Accused  hashimi[PER_Accused] tariq-al_hashimi[PER_Accused] hashimi[PER_Accused]
+LOC_Event  baghdad[LOC_Others] iraq[LOC_Others] iraq[LOC_Others]
+LOC_Others  iraq[LOC_Others] baghdad[LOC_Others] iraq[LOC_Others]
 ORG_Accused  interior_ministry[ORG_Others] u.s._forces[ORG_Others] kurdistan_regional_movement_krg[ORG_Accused]
 ORG_Others  interior_ministry[ORG_Others] kurdistan_regional_movement_krg[ORG_Accused] u.s._forces[ORG_Others]
 
@@ -987,7 +987,7 @@ ORG_Others  interior_ministry[ORG_Others] kurdistan_regional_movement_krg[ORG_Ac
 ev_094_st_004.txt
 PER_Victim  ajay_kumar[PER_Victim] narendra_modi[PER_Others] tariq[PER_Accused]
 PER_Others  shinde[PER_Others] amarkant_jha[PER_Others] modi[PER_Others]
-PER_Accused  tariq[PER_Accused] yasin_bhatkal[PER_Accused] bhatkal[PER_Accused]
+PER_Accused  tariq[PER_Accused] yasin_bhatkal[PER_Accused] yasin_bhatkal[PER_Accused]
 LOC_Event  gandhi_maidan[LOC_Event] patna_station_platform_no._10[LOC_Event] patna_railway_station[LOC_Event]
 LOC_Accused  muzaffarnagar[LOC_Accused] patna[LOC_Event] bihar[LOC_Others]
 LOC_Others  patna[LOC_Event] gandhi_maidan[LOC_Event] patna_station_platform_no._10[LOC_Event]
@@ -1023,7 +1023,7 @@ ev_078_st_004.txt
 PER_Others  rohit[PER_Others]
 LOC_Event  karol_bagh[LOC_Event] central_park_connaught_place_gopaldas_building[LOC_Event] india_gate[LOC_Event]
 LOC_Others  karol_bagh[LOC_Event] central_park_connaught_place_gopaldas_building[LOC_Event] jaipur_bangalore_ahmedabad[LOC_Others]
-ORG_Accused  indian_mujahideen[ORG_Accused] national_security_guard_nsg[ORG_Others] nsg[ORG_Others]
+ORG_Accused  indian_mujahideen[ORG_Accused] indian_mujahideen[ORG_Accused] indian_mujahideen[ORG_Accused]
 ORG_Others  national_security_guard_nsg[ORG_Others] indian_mujahideen[ORG_Accused] nsg[ORG_Others]
 
 
@@ -1044,14 +1044,14 @@ LOC_Others  opera_house[LOC_Event] bombay[LOC_Others] zaveri_bazaar[LOC_Event]
 
 2012_5_10_st-845.txt
 PER_Others  bashar_al-assad[PER_Others] robert_mood[PER_Others] neeraj_singh[PER_Others]
-LOC_Event  daraa[LOC_Event] syria[LOC_Event]
+LOC_Event  daraa[LOC_Event] syria[LOC_Event] syria[LOC_Event]
 ORG_Accused  norway[ORG_Others] un[ORG_Others] un-arab_league[ORG_Others]
 ORG_Victim  norway[ORG_Others] un[ORG_Others] un-arab_league[ORG_Others]
 ORG_Others  norway[ORG_Others] un[ORG_Others] syrian_national_council[ORG_Accused]
 
 
 ev_080_st_007.txt
-PER_Others  naik[PER_Others] a._naik[PER_Others]
+PER_Others  naik[PER_Others] naik[PER_Others] a._naik[PER_Others]
 LOC_Event  mumbai[LOC_Others] maharashtra[LOC_Others] malegaon[LOC_Event]
 LOC_Others  maharashtra[LOC_Others] malegaon[LOC_Others] mumbai[LOC_Others]
 ORG_Others  indian_television_news[ORG_Others]
@@ -1064,7 +1064,7 @@ ORG_Others  ulfa[ORG_Accused] police[ORG_Others]
 
 
 ev_066_st_002.txt
-PER_Others  aseemanand[PER_Others] ramji[PER_Others] sunil_joshi_ramchandra_kalsangra[PER_Others]
+PER_Others  aseemanand[PER_Others] aseemanand[PER_Others] aseemanand[PER_Others]
 PER_Accused  ramji[PER_Others] sunil_joshi_ramchandra_kalsangra[PER_Others] aseemanand[PER_Others]
 LOC_Event  gujarat[LOC_Others] mecca_masjid[LOC_Others] varanasi[LOC_Others]
 LOC_Others  gujarat[LOC_Others] mecca_masjid[LOC_Others] maharasthra[LOC_Others]
@@ -1098,7 +1098,7 @@ ORG_Others  syrian_observatory_human_rights[ORG_Others] liwa_al-sham[ORG_Accused
 PER_Others  nurul_hasan_chowdhary[PER_Others] prakash_singh[PER_Others] shakil_ahmed_hasan_saheb[PER_Accused]
 PER_Accused  shakil_ahmed_hasan_saheb[PER_Accused] prakash_singh[PER_Others] nurul_hasan_chowdhary[PER_Others]
 LOC_Event  khagragarh_locality_burdwan_west_bengal[LOC_Event] burdwan[LOC_Event] west_bengal[LOC_Event]
-LOC_Others  west_bengal[LOC_Event] burdwan[LOC_Event] west_bengal[LOC_Others]
+LOC_Others  west_bengal[LOC_Event] burdwan[LOC_Event] burdwan[LOC_Event]
 ORG_Others  west_bengal_government[ORG_Others] hindustan_times[ORG_Others] national_investigation_agency_nia[ORG_Others]
 
 
@@ -1113,29 +1113,29 @@ ev_076_st_012.txt
 
 
 ev_094_st_015.txt
-PER_Others  nitish_kumar[PER_Others] ansari[PER_Accused] kumar[PER_Others]
-PER_Accused  ansari[PER_Accused] nitish_kumar[PER_Others] osama_bin_laden[PER_Others]
+PER_Others  nitish_kumar[PER_Others] ansari[PER_Accused] ansari[PER_Accused]
+PER_Accused  ansari[PER_Accused] nitish_kumar[PER_Others] ansari[PER_Accused]
 LOC_Event  gandhi_maidan[LOC_Event] bihar[LOC_Event] ranchi[LOC_Accused]
 LOC_Accused  bihar[LOC_Event] gandhi_maidan[LOC_Event] ranchi[LOC_Accused]
 LOC_Others  bihar[LOC_Event] gandhi_maidan[LOC_Event] ranchi[LOC_Accused]
-ORG_Accused  bjp[ORG_Victim] indian_mujahideen[ORG_Accused] gujarat_police[ORG_Others]
-ORG_Victim  bjp[ORG_Victim] indian_mujahideen[ORG_Accused] jharkhand_police[ORG_Others]
-ORG_Others  bjp[ORG_Victim] gujarat_police[ORG_Others] indian_mujahideen[ORG_Accused]
+ORG_Accused  bjp[ORG_Victim] bjp[ORG_Victim] bjp[ORG_Victim]
+ORG_Victim  bjp[ORG_Victim] bjp[ORG_Victim] bjp[ORG_Victim]
+ORG_Others  bjp[ORG_Victim] bjp[ORG_Victim] bjp[ORG_Victim]
 
 
 ev_014_st_014.txt
-PER_Others  gogoi[PER_Others] tarun_gogoi[PER_Others]
-LOC_Event  dhemaji[LOC_Event] assam[LOC_Event] dhemaji[LOC_Others]
-LOC_Others  dhemaji[LOC_Event] assam[LOC_Event] dhemaji[LOC_Others]
-ORG_Accused  ulfa[ORG_Accused] united_liberation_front_asom_ulfa[ORG_Accused] aasu[ORG_Others]
+PER_Others  gogoi[PER_Others] tarun_gogoi[PER_Others] gogoi[PER_Others]
+LOC_Event  dhemaji[LOC_Event] dhemaji[LOC_Event] dhemaji[LOC_Event]
+LOC_Others  dhemaji[LOC_Event] dhemaji[LOC_Event] dhemaji[LOC_Event]
+ORG_Accused  ulfa[ORG_Accused] united_liberation_front_asom_ulfa[ORG_Accused] ulfa[ORG_Accused]
 ORG_Others  aasu[ORG_Others] ulfa[ORG_Accused] all-assam_students_union[ORG_Others]
 
 
 ev_066_st_023.txt
-PER_Others  prasad[PER_Others] lalu_prasad[PER_Others]
+PER_Others  prasad[PER_Others] prasad[PER_Others] prasad[PER_Others]
 LOC_Event  new_delhi[LOC_Others] panipat[LOC_Event]
 LOC_Others  new_delhi[LOC_Others] panipat[LOC_Event]
-ORG_Others  rpf[ORG_Others] railway_protection_force_rpf[ORG_Others]
+ORG_Others  rpf[ORG_Others] rpf[ORG_Others] rpf[ORG_Others]
 
 
 2010_9_23_st-479.txt
@@ -1147,9 +1147,9 @@ ORG_Others  organisation_protection_democratic_rights_opdr[ORG_Others] opdr[ORG_
 
 ev_090_st_012.txt
 PER_Others  afzal_guru[PER_Others] rk_singh[PER_Others] singh[PER_Others]
-LOC_Event  srinagar[LOC_Event] sopore[LOC_Others] kashmir[LOC_Accused]
-LOC_Accused  srinagar[LOC_Event] kashmir[LOC_Accused] sopore[LOC_Others]
-LOC_Others  srinagar[LOC_Event] kashmir[LOC_Accused] sopore[LOC_Others]
+LOC_Event  srinagar[LOC_Event] srinagar[LOC_Event] sopore[LOC_Others]
+LOC_Accused  srinagar[LOC_Event] srinagar[LOC_Event] kashmir[LOC_Accused]
+LOC_Others  srinagar[LOC_Event] srinagar[LOC_Event] kashmir[LOC_Accused]
 ORG_Accused  central_reserve_police_force[ORG_Victim] hizbul_mujahideen[ORG_Accused] indian_government[ORG_Others]
 ORG_Victim  central_reserve_police_force[ORG_Victim] hizbul_mujahideen[ORG_Accused] pakistan[ORG_Others]
 ORG_Others  central_reserve_police_force[ORG_Victim] government[ORG_Others] pakistan[ORG_Others]
@@ -1157,8 +1157,8 @@ ORG_Others  central_reserve_police_force[ORG_Victim] government[ORG_Others] paki
 
 ev_067_st_007.txt
 PER_Others  manmohan_singh[PER_Others] shivraj_patil[PER_Others] y_s_rajasekhar_reddy[PER_Others]
-LOC_Event  charminar[LOC_Event] hyderabad[LOC_Event] mecca_masjid[LOC_Event]
-LOC_Others  hyderabad[LOC_Event] andhra_pradesh[LOC_Event] charminar[LOC_Event]
+LOC_Event  charminar[LOC_Event] hyderabad[LOC_Event] hyderabad[LOC_Event]
+LOC_Others  hyderabad[LOC_Event] hyderabad[LOC_Event] andhra_pradesh[LOC_Event]
 ORG_Others  mim[ORG_Others] rediff.com[ORG_Others] cbi[ORG_Others]
 
 
@@ -1171,7 +1171,7 @@ ORG_Others  local_court[ORG_Others] khalistan_movement_punjab[ORG_Accused] khals
 
 
 2013_4_24_st-9.txt
-PER_Accused  dzhokhar_tsarnaev[PER_Accused] dzhokhar[PER_Accused] tsarnaev[PER_Accused]
+PER_Accused  dzhokhar_tsarnaev[PER_Accused] dzhokhar[PER_Accused] dzhokhar[PER_Accused]
 LOC_Event  boston[LOC_Event] u.s.[LOC_Others] u.s.[LOC_Accused]
 LOC_Accused  boston[LOC_Event] u.s.[LOC_Others] u.s.[LOC_Accused]
 LOC_Others  boston[LOC_Event] u.s.[LOC_Others] u.s.[LOC_Accused]
@@ -1186,8 +1186,8 @@ ORG_Others  local_mla[ORG_Others]
 
 
 2010_9_4_st-331.txt
-PER_Victim  julekha[PER_Victim] bhatkal[PER_Others] vedamurthy[PER_Others]
-PER_Others  julekha[PER_Victim] vedamurthy[PER_Others] bhatkal[PER_Others]
+PER_Victim  julekha[PER_Victim] julekha[PER_Victim] julekha[PER_Victim]
+PER_Others  julekha[PER_Victim] julekha[PER_Victim] julekha[PER_Victim]
 LOC_Event  dubai[LOC_Others] bangalore[LOC_Others] mugalihonda_puravarga[LOC_Event]
 LOC_Others  dubai[LOC_Others] bangalore[LOC_Others] goa[LOC_Others]
 ORG_Others  hindu[ORG_Others]
@@ -1196,13 +1196,12 @@ ORG_Others  hindu[ORG_Others]
 ev_072_st_010.txt
 LOC_Event  ajmer[LOC_Event] ludhiana[LOC_Others] punjab[LOC_Others]
 LOC_Others  ajmer[LOC_Event] ludhiana[LOC_Others] shringhar[LOC_Others]
-
 ORG_Others  intelligence_bureau[ORG_Others] ib[ORG_Others] national_security_guards[ORG_Others]
 
 
 ev_087_st_013.txt
 PER_Others  chhotu[PER_Accused] u_k_bansal[PER_Others] chotoo[PER_Accused]
-PER_Accused  chhotu[PER_Accused] salman[PER_Others] shahnawaz_junaid[PER_Others]
+PER_Accused  chhotu[PER_Accused] chhotu[PER_Accused] salman[PER_Others]
 LOC_Event  saudi[LOC_Others] kishtwar_jammu[LOC_Accused] pune[LOC_Accused]
 LOC_Accused  pune[LOC_Accused] india[LOC_Event] kishtwar_jammu[LOC_Accused]
 LOC_Others  pune[LOC_Accused] kishtwar_jammu[LOC_Accused] india[LOC_Event]
@@ -1216,10 +1215,10 @@ PER_Victim  afzal_guru[PER_Others] omar_abdullah[PER_Others] afzal[PER_Others]
 PER_Others  afzal_guru[PER_Others] omar_abdullah[PER_Others] afzal[PER_Others]
 PER_Accused  afzal_guru[PER_Others] omar_abdullah[PER_Others] afzal[PER_Others]
 LOC_Event  kashmir[LOC_Others] police_public_school[LOC_Event] srinagar[LOC_Event]
-LOC_Accused  kashmir[LOC_Others] jammu[LOC_Others] new_delhi[LOC_Others]
+LOC_Accused  kashmir[LOC_Others] jammu[LOC_Others] kashmir[LOC_Others]
 LOC_Others  kashmir[LOC_Others] police_public_school[LOC_Event] srinagar[LOC_Event]
-ORG_Accused  crpf[ORG_Victim] lashkar-e-toiba[ORG_Accused] hizb-ul_mujahideen[ORG_Accused]
-ORG_Victim  crpf[ORG_Victim] lashkar-e-toiba[ORG_Accused] hizb-ul_mujahideen[ORG_Accused]
+ORG_Accused  crpf[ORG_Victim] crpf[ORG_Victim] crpf[ORG_Victim]
+ORG_Victim  crpf[ORG_Victim] crpf[ORG_Victim] crpf[ORG_Victim]
 
 
 2012_2_19_st-641.txt
@@ -1246,7 +1245,7 @@ PER_Others  b.k._gupta[PER_Others]
 LOC_Event  britain[LOC_Others] south_delhi[LOC_Event] ludhiana[LOC_Accused]
 LOC_Accused  britain[LOC_Others] south_delhi[LOC_Event] bangkok[LOC_Event]
 LOC_Others  britain[LOC_Others] ludhiana[LOC_Accused] south_delhi[LOC_Event]
-ORG_Others  delhi_police[ORG_Others] cbi_central_forensic_science_laboratory[ORG_Others] bangkok_police[ORG_Others]
+ORG_Others  delhi_police[ORG_Others] delhi_police[ORG_Others] cbi_central_forensic_science_laboratory[ORG_Others]
 
 
 ev_083_st_034.txt
@@ -1279,16 +1278,16 @@ ORG_Others  german_bakery[ORG_Others] let[ORG_Accused] wipro_infosys_offices[ORG
 
 ev_019_st_018.txt
 PER_Others  s._k._neelakantam[PER_Others]
-LOC_Event  purulia[LOC_Others] west_bengals_bardhaman[LOC_Event] raghunathpur[LOC_Others]
-LOC_Others  purulia[LOC_Others] west_bengals_bardhaman[LOC_Event] raghunathpur[LOC_Others]
-ORG_Others  police[ORG_Others]
+LOC_Event  purulia[LOC_Others] purulia[LOC_Others] west_bengals_bardhaman[LOC_Event]
+LOC_Others  purulia[LOC_Others] purulia[LOC_Others] west_bengals_bardhaman[LOC_Event]
+ORG_Others  police[ORG_Others] police[ORG_Others]
 
 
 ev_072_st_018.txt
 PER_Others  ishwar_singh[PER_Others] n_p_singh[PER_Others] shivraj_patil[PER_Others]
 LOC_Event  samrala_street[LOC_Others] ludhiana[LOC_Event] shringar[LOC_Others]
 LOC_Others  samrala_street[LOC_Others] punjab[LOC_Others] shringar[LOC_Others]
-ORG_Others  centre[ORG_Others] punjab_government[ORG_Others] christian_medical_hospital_civil_hospital[ORG_Others]
+ORG_Others  centre[ORG_Others] punjab_government[ORG_Others] punjab_government[ORG_Others]
 
 
 ev_014_st_004.txt
@@ -1297,10 +1296,11 @@ ORG_Accused  ulfa[ORG_Accused]
 
 
 ev_092_st_009.txt
-PER_Victim  karma[PER_Others] nand_kumar_patel[PER_Others] mahendra_karma[PER_Others]
+PER_Victim  karma[PER_Others] nand_kumar_patel[PER_Others] karma[PER_Others]
 PER_Others  karma[PER_Others] kawasi_lakhma[PER_Others] dinesh[PER_Others]
 LOC_Others  chhattisgarh[LOC_Others] sukma[LOC_Others] jagdalpur[LOC_Others]
-ORG_Accused  national_investigation_agency[ORG_Others] congress[ORG_Others] maoists[ORG_Accused]
+
+ORG_Accused  national_investigation_agency[ORG_Others] congress[ORG_Others] congress[ORG_Others]
 ORG_Others  national_investigation_agency[ORG_Others] congress[ORG_Others] maoists[ORG_Accused]
 
 
@@ -1326,8 +1326,8 @@ PER_Others  s_c_sinha[PER_Others] atal_behari_vajpayee[PER_Others] abdul_wasey_m
 LOC_Event  mecca_masjid_dilsukhnagar[LOC_Others] pakistan[LOC_Others] hyderabad[LOC_Event]
 LOC_Accused  pakistan[LOC_Others] mumbai[LOC_Others] hyderabad[LOC_Event]
 LOC_Others  andhra_pradesh[LOC_Others] pakistan[LOC_Others] mumbai[LOC_Others]
-ORG_Accused  bjp[ORG_Others] national_investigation_agency[ORG_Others] indian_mujahideen[ORG_Accused]
-ORG_Others  national_investigation_agency[ORG_Others] bjp[ORG_Others] indian_mujahideen[ORG_Accused]
+ORG_Accused  bjp[ORG_Others] national_investigation_agency[ORG_Others] bjp[ORG_Others]
+ORG_Others  national_investigation_agency[ORG_Others] national_investigation_agency[ORG_Others] bjp[ORG_Others]
 
 
 ev_056_st_007.txt
@@ -1341,7 +1341,7 @@ ORG_Others  ahmedabad_city_sessions_court[ORG_Others] congress[ORG_Others] vishw
 ev_058_st_005.txt
 PER_Others  p_r_puranik[PER_Others] ashrat[PER_Accused] ashrat_ansari[PER_Accused]
 PER_Accused  ashrat_ansari[PER_Accused] p_r_puranik[PER_Others] mohammad_hanif_syed[PER_Accused]
-LOC_Event  gateway_india[LOC_Event] ghatkopar[LOC_Event] gateway_india_zaveri_bazaar[LOC_Event]
+LOC_Event  gateway_india[LOC_Event] ghatkopar[LOC_Event] gateway_india[LOC_Event]
 ORG_Accused  pti[ORG_Others] laskhar-e-taiba[ORG_Accused]
 ORG_Others  pti[ORG_Others] laskhar-e-taiba[ORG_Accused]
 
@@ -1353,7 +1353,7 @@ PER_Accused  sunil_joshi[PER_Accused] ramji_kalsangra_amit_sandeep_dange[PER_Acc
 LOC_Event  ujjain[LOC_Accused] madhya_pradesh[LOC_Accused] malegaon[LOC_Event]
 LOC_Accused  ujjain[LOC_Accused] madhya_pradesh[LOC_Accused] malegaon[LOC_Event]
 LOC_Others  ujjain[LOC_Accused] madhya_pradesh[LOC_Accused] malegaon[LOC_Event]
-ORG_Others  nia[ORG_Others] rss[ORG_Others] delhi_university[ORG_Others]
+ORG_Others  nia[ORG_Others] rss[ORG_Others] nia[ORG_Others]
 
 
 ev_033_st_001.txt
@@ -1374,7 +1374,7 @@ ORG_Others  fbi[ORG_Others] maharashtra_government[ORG_Others] cbi[ORG_Others]
 
 ev_014_st_006.txt
 PER_Others  gogoi[PER_Others] t_thangou[PER_Others] ruckbul_hussain[PER_Others]
-LOC_Event  assam_dhemaji[LOC_Event] dhemaji[LOC_Event] dhubri[LOC_Event]
+LOC_Event  assam_dhemaji[LOC_Event] dhemaji[LOC_Event] dhemaji[LOC_Event]
 ORG_Accused  ulfa[ORG_Accused] united_liberation_front_asom[ORG_Accused] dhemaji_college[ORG_Victim]
 ORG_Victim  united_liberation_front_asom[ORG_Accused] ulfa[ORG_Accused] dhemaji_college[ORG_Victim]
 ORG_Others  ulfa[ORG_Accused] united_liberation_front_asom[ORG_Accused] dhemaji_college[ORG_Victim]
@@ -1417,6 +1417,6 @@ ORG_Others  delhi_police[ORG_Others] nsg_bomb_data_squad[ORG_Others] aiims[ORG_O
 
 
 2011_9_23_st-313.txt
-PER_Victim  jagadish[PER_Victim] h.s._venkatesh[PER_Others]
-PER_Others  jagadish[PER_Victim] h.s._venkatesh[PER_Others]
+PER_Victim  jagadish[PER_Victim] h.s._venkatesh[PER_Others] jagadish[PER_Victim]
+PER_Others  jagadish[PER_Victim] jagadish[PER_Victim] h.s._venkatesh[PER_Others]
 LOC_Event  duggalli[LOC_Event]
